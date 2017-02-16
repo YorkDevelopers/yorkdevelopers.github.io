@@ -30,9 +30,6 @@
         <a href="{{ event.URL | absolute_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    <h3>
-       {{ event.Description.Speaker }}
-    </h3>
     <h4>
     {{ event.Starts | date: "%B %d, %Y" }},
     {{ event.Venue }}
