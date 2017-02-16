@@ -1,0 +1,43 @@
+{% if event.header.teaser %}
+  {% capture teaser %}{{ event.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if event.id %}
+  {% assign title = event.Name | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = event.Name %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | absolute_url }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if event.URL %}
+        <a href="{{ event.URL }}">{{ title }}</a> <a href="{{ event.URL | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ event.URL | absolute_url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h2>
+    {% include figure image_path="{{ event.Logo }}" alt="No Image" %}
+    <h3>
+       {{ event.Description.Speaker }}
+    </h3>
+    <h4>
+    {{ event.Venue }}
+    </h4>
+    {% if event.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ event.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    {% if event.Description %}<p class="archive__item-excerpt" itemprop="description">{{ event.Description | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+  </article>
+</div>
