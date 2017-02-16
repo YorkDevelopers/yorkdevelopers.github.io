@@ -5,6 +5,7 @@ title: "Events"
 excerpt: "Tech events in York"
 ---
 
-{% for event in site.data.Events %}
+{% assign items = site.data.Events | sort: 'Starts' %}
+{% for event in items %}
     {% include events.html %}
 {% endfor %}
