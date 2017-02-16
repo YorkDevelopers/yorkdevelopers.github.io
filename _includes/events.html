@@ -1,18 +1,21 @@
-{% if event.header.teaser %}
-  {% capture teaser %}{{ event.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
+{% assign teaser = event.logo %}
 
 {% if event.id %}
-  {% assign title = event.Name | markdownify | remove: "<p>" | remove: "</p>" %}
+  {% assign title = event.name | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
-  {% assign title = event.Name %}
+  {% assign title = event.name %}
 {% endif %}
 
 <div class="main" role="main">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if event.url %}
+        <a href="{{ event.url }}">{{ title }}</a> <a href="{{ event.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ event.url | absolute_url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h2>
+    {% if teaser %}
       <div class="archive__item-teaser">
         <img src=
           {% if teaser contains "://" %}
@@ -23,18 +26,11 @@
           alt="">
       </div>
     {% endif %}
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if event.URL %}
-        <a href="{{ event.URL }}">{{ title }}</a> <a href="{{ event.URL | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ event.URL | absolute_url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
     <h4>
-    {{ event.Starts | date: "%B %d, %Y" }},
-    {{ event.Venue }}
+    {{ event.starts | date: "%B %d, %Y" }}<br/>
+    {{ event.venue }}
     </h4>
     {% if event.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ event.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
-    {% if event.Description %}<p class="archive__item-excerpt" itemprop="description">{{ event.Description | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    {% if event.description %}<p class="archive__item-excerpt" itemprop="description">{{ event.description | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
