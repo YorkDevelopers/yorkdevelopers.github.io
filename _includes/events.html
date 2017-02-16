@@ -34,6 +34,7 @@
        {{ event.Description.Speaker }}
     </h3>
     <h4>
+    {{ event.Starts | date: "%B %d, %Y" }},
     {{ event.Venue }}
     </h4>
     {% if event.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ event.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
