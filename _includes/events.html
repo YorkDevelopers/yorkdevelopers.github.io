@@ -10,7 +10,7 @@
   {% assign title = event.Name %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="main" role="main">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -30,7 +30,6 @@
         <a href="{{ event.URL | absolute_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {% include figure image_path="{{ event.Logo }}" alt="No Image" %}
     <h3>
        {{ event.Description.Speaker }}
     </h3>
