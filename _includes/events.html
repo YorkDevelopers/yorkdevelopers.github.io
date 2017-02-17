@@ -5,7 +5,6 @@
 {% else %}
   {% assign title = event.name %}
 {% endif %}
-
 <div class="main" role="main">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2 class="archive__item-title" itemprop="headline">
@@ -23,7 +22,7 @@
           {% else %}
             "{{ teaser | absolute_url }}"
           {% endif %}
-          alt="">
+          alt="" style="width: 25%;height: auto;">
       </div>
     {% endif %}
     <h4>
