@@ -77,6 +77,13 @@
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
   starts: 2017-02-23T18:30:00.0000000
   ends: 2017-02-23T19:30:00.0000000
+- name: CyVerseUK Workshop
+  description: "\n\n\n\nCyVerseUK Workshop: Bioinformatic Tools for Biologists\nThis meeting is focused on researchers who are either toward the beginning of their studies or have moved onto a new subject area. We will provide a hands-on sessions that will describe the use of software tools that can interrogate RNAseq, imaging, gene expression or GWAS data. Importantly previous users will provide real-life examples of how the software has been successfully used. This is the 'Learner Track'\nIn addition we will host a concurrent track for more experienced bioinformaticians who wish to learn how to use CyVerse to host their own programs. This is the 'Intermediate Track'. The concurrent tracks will run in separate rooms.\nThese software tools have been developed as part of the CyVerseUK grant (www.cyverseuk.org). We will also highlight the opportunities that exist for the sharing of big data in a meaningful manner. \nThis workshop is organised by GARNet with Professor Katherine Denby at the University of York. \n\n\n\n\nDay 1: Monday March 20th\n10.30am: Registration Opens\n11.30am: Introduction to CyVerse and CyVerseUK                 \n1.00pm: Lunch\n2.00pm: Data Sharing, Management and Reuse                    \n3.30pm: Break\nConcurrent Tracks\nLearner Track\n4.00pm: CyVerseUK Tools: Earlham Institute: Tuxedo pipeline for RNAseq Analysis\n- Descriptive hands-on Workshop\n- User example\n\nIntermediate Track\n4.00pm: Working with Docker\n6pm: Session End\n7pm: Workshop Dinner at Walmgate Ale House\n\n\nDay 2: Tuesday March 21st\nConcurrent Tracks\nLearner Track\n9am: CyVerseUK Tools: University of Nottingham: Image Analysis\n- Hands on workshop\n- Introducing BISQUE\n- Image-Based Phenotyping\n- Introducing RootNav and RooTrace\n- Successful Use Example                         \n11am: Break\n11.30am: CyVerseUK Tools: University of Warwick: Transcriptomic Data Mining\n- Descriptive hands-on Workshop\n- User example\n\nIntermediate Track\n9am: Introducing the Agave API\n- What Agave is\n- What Agave isn’t\n- How you can use it to empower your code with CyVerse hardware\n11am Break\n11.30am: Working with the Agave API\n- “Bring your own scripts”\n- BASH/shell scripting on basic VM hardware\n1.30pm: Lunch\nConcurrent Tracks\nLearner Track\n2.30pm: CyVerseUK Tools: Earlham Institute: GWAS Analysis Pipeline\n- Descriptive hands-on Workshop\n- User example\n\nIntermediate Track\n2.30pm: Bringing Agave and Docker together\n- Building programmatic interfaces\n- Submitting user-space jobs through CyVerse UK scheduling systems\n- Building user interfaces\n\nWhole Group Finale\n4pm:               The Future of CyVerse and CyVerseUK:                 \n4.30pm:           Meeting End\n\nOther Information\nAccommodation\nThere is accomodation available on a first come-first serve basis at the University of York bed & breakfast facility, Franklin House. \n> This is bookable online through the URL www.yorkconferences.com  \n> Select the Accommodation tab, click 'Bed and Breakfast' and then onto 'Book'. \nDietary Requirements\nIf you have any dietary requirements then please can you email Geraint at geraint@garnetcommunity.org.uk with those details. We will send out information about the workshop dinner closer to the time.\n\nComputer requirements\n1.Please bring a laptop to the workshop for the hands-on portions of the sessions. Closer to the time we will send out the data that we will analyse at the meeting.\n2. Please sign up for a CyVerse account. You can register at https://user.cyverse.org/ and we recommend that you take a brief look at the website before you attend the meeting.\n2. Please ensure your computer is registered with the EduRoam network. If this is not possible we will provide some Guest Logins for the duration of the workshop."
+  url: https://www.eventbrite.co.uk/e/cyverseuk-workshop-tickets-29982258743?aff=ebapi
+  logo: https://cdn.evbuc.com/images/26445018/143261406836/1/original.jpg?h=200&w=450&rect=4,354,2470,1235&s=88dc617c5f1c88a52e8ba8c264760d98
+  starts: 2017-03-20T11:00:00.0000000
+  ends: 2017-03-21T16:00:00.0000000
+  venue: Department of Biology
 - name: Green space and Health workshop
   description: "Green space and Health workshop\nHosted by Peter Coventry from Health Sciences \nResearch Theme Champions:Karen Bloor-Health and WellbeingSue Hartley-Environmental Sustainability and ResilienceDamian Murphy-Creativity\nLight refreshments will be available\nThere is growing epidemiological evidence that suggests that population level exposure and individual use of green spaces in or near urban areas is associated with positive mental and physical health outcomes. These positive effects are moderated by socio-demographic factors and socio-economic status, and causal pathways between natural environments and good mental and physical health are not clear: much of the existing evidence is derived from cross-sectional studies. We also know little about why people from different sub-groups use green space, their perceptions about the benefits of green space, and what the mechanisms of action are between green space and health outcomes.\nGreen space can affect numerous health problems: sedentary behaviour, for example, is associated with cardiovascular disease, cancer, Alzheimer’s disease, diabetes and mental illness – all major public health threats.\nRecent and current attempts to influence personal health behaviours tend to have modest treatment effects. Influencing the environment in which people live, including both urban and rural areas, could be a promising avenue of prevention of physical and mental health problems.\nThere is growing recognition that public mental health is a priority of equal importance as other public health issues such as tobacco, alcohol and obesity. This is signalled by funding opportunities to develop cost-effective and integrated public mental health strategies that sit outside the NHS and aim to promote and prevent mental and physical health.\nThis workshop is an opportunity to explore collaborations in and beyond York to develop multidisciplinary research that seeks to improve physical and mental health using the natural environment, and to begin to identify and address the many methodological challenges of this area of research.\nFull agenda to be confirmed.\nAll disciplines welcome."
   url: https://www.eventbrite.co.uk/e/green-space-and-health-workshop-tickets-31748894799?aff=ebapi
@@ -85,13 +92,6 @@
   starts: 2017-02-28T13:00:00.0000000
   ends: 2017-02-28T17:00:00.0000000
   venue: The Treehouse
-- name: CyVerseUK Workshop
-  description: "\n\n\n\nCyVerseUK Workshop: Bioinformatic Tools for Biologists\nThis meeting is focused on researchers who are either toward the beginning of their studies or have moved onto a new subject area. We will provide a hands-on sessions that will describe the use of software tools that can interrogate RNAseq, imaging, gene expression or GWAS data. Importantly previous users will provide real-life examples of how the software has been successfully used. This is the 'Learner Track'\nIn addition we will host a concurrent track for more experienced bioinformaticians who wish to learn how to use CyVerse to host their own programs. This is the 'Intermediate Track'. The concurrent tracks will run in separate rooms.\nThese software tools have been developed as part of the CyVerseUK grant (www.cyverseuk.org). We will also highlight the opportunities that exist for the sharing of big data in a meaningful manner. \nThis workshop is organised by GARNet with Professor Katherine Denby at the University of York. \n\n\n\n\nDay 1: Monday March 20th\n10.30am: Registration Opens\n11.30am: Introduction to CyVerse and CyVerseUK                 \n1.00pm: Lunch\n2.00pm: Data Sharing, Management and Reuse                    \n3.30pm: Break\nConcurrent Tracks\nLearner Track\n4.00pm: CyVerseUK Tools: Earlham Institute: Tuxedo pipeline for RNAseq Analysis\n- Descriptive hands-on Workshop\n- User example\n\nIntermediate Track\n4.00pm: Working with Docker\n6pm: Session End\n7pm: Workshop Dinner at Walmgate Ale House\n\n\nDay 2: Tuesday March 21st\nConcurrent Tracks\nLearner Track\n9am: CyVerseUK Tools: University of Nottingham: Image Analysis\n- Hands on workshop\n- Introducing BISQUE\n- Image-Based Phenotyping\n- Introducing RootNav and RooTrace\n- Successful Use Example                         \n11am: Break\n11.30am: CyVerseUK Tools: University of Warwick: Transcriptomic Data Mining\n- Descriptive hands-on Workshop\n- User example\n\nIntermediate Track\n9am: Introducing the Agave API\n- What Agave is\n- What Agave isn’t\n- How you can use it to empower your code with CyVerse hardware\n11am Break\n11.30am: Working with the Agave API\n- “Bring your own scripts”\n- BASH/shell scripting on basic VM hardware\n1.30pm: Lunch\nConcurrent Tracks\nLearner Track\n2.30pm: CyVerseUK Tools: Earlham Institute: GWAS Analysis Pipeline\n- Descriptive hands-on Workshop\n- User example\n\nIntermediate Track\n2.30pm: Bringing Agave and Docker together\n- Building programmatic interfaces\n- Submitting user-space jobs through CyVerse UK scheduling systems\n- Building user interfaces\n\nWhole Group Finale\n4pm:               The Future of CyVerse and CyVerseUK:                 \n4.30pm:           Meeting End\n\nOther Information\nAccommodation\nThere is accomodation available on a first come-first serve basis at the University of York bed & breakfast facility, Franklin House. \n> This is bookable online through the URL www.yorkconferences.com  \n> Select the Accommodation tab, click 'Bed and Breakfast' and then onto 'Book'. \nDietary Requirements\nIf you have any dietary requirements then please can you email Geraint at geraint@garnetcommunity.org.uk with those details. We will send out information about the workshop dinner closer to the time.\n\nComputer requirements\n1.Please bring a laptop to the workshop for the hands-on portions of the sessions. Closer to the time we will send out the data that we will analyse at the meeting.\n2. Please sign up for a CyVerse account. You can register at https://user.cyverse.org/ and we recommend that you take a brief look at the website before you attend the meeting.\n2. Please ensure your computer is registered with the EduRoam network. If this is not possible we will provide some Guest Logins for the duration of the workshop."
-  url: https://www.eventbrite.co.uk/e/cyverseuk-workshop-tickets-29982258743?aff=ebapi
-  logo: https://cdn.evbuc.com/images/26445018/143261406836/1/original.jpg?h=200&w=450&rect=4,354,2470,1235&s=88dc617c5f1c88a52e8ba8c264760d98
-  starts: 2017-03-20T11:00:00.0000000
-  ends: 2017-03-21T16:00:00.0000000
-  venue: Department of Biology
 - name: Solvents Day 2017
   description: >+
     A free one-day symposium on safer, greener and more sustainable solvents.
@@ -1352,3 +1352,231 @@
   starts: 2017-06-14T09:00:00.0000000
   ends: 2017-06-16T16:30:00.0000000
   venue: York
+- name: SICP Brunch Club
+  description: "<p><img src=\"https://mitpress.mit.edu/sicp/graphics/main-banner.gif\" /></p> <p><b>What's this about?</b></p> <p>Let's study Structure and Interpretation of Computer Programs (SICP) together over a brunch at Bill's. Bring your copy, your laptop, and let's run through the exercise together.</p> <p>No prior experience required. Newcomers welcome. </p> <p>The book itself is <a href=\"https://mitpress.mit.edu/sicp/\">available online</a>. And has even been converted to <a href=\"http://sarabander.github.io/sicp/\">a nice HTML/EPUB format</a></p> <p>Original lectures by Abelson and Sussman are <a href=\"http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/\">available online</a> too and well worth a look.</p> <p><b>Recommended Software</b></p> <p>The book uses <a href=\"http://en.wikipedia.org/wiki/Scheme_%28programming_language%29\">Scheme</a> for all examples and exercises. You can <a href=\"http://racket-lang.org/\">download Racket Scheme</a> online to go through the exercises yourself.</p> <p><b>Preparation required</b></p> <p>None!</p> <p><b>Experience required</b></p> <p>None! </p> <p>We work together to go through the exercises, so if you have no experience with Scheme or functional programming, someone in the group can fill in the gaps in your knowledge.</p> <p><b>Communal Repository</b></p> <p>Please add your code for the exercises to the <a href=\"https://github.com/StudyCodeOrg/sicp-brunches\">communal repository on github</a> after each session. All pull requests are accepted and welcomed :)</p> "
+  url: https://www.meetup.com/Sheffield-Programmers-Study-Group/events/237650433/
+  is-free: true
+  logo: http://photos4.meetupstatic.com/photos/event/c/d/6/5/thumb_457312581.jpeg
+  starts: 2017-02-18T10:00:00.0000000
+  ends: 2017-02-18T13:00:00.0000000
+  venue: Bill's restaurant
+- name: Meet for Code and Coffee
+  url: https://www.meetup.com/York-Code-Coffee/events/237566336/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-02-20T07:00:00.0000000
+  ends: 2017-02-20T10:00:00.0000000
+  venue: The Perky Peacock
+- name: Make Ruby scripting great again!
+  description: "<p><b><i>Apologies: due to unforeseen circumstances, we've had to move this month's meetup back a week to the 20th February.</i></b></p> <p>Ruby developers are migrating their scripts to Go, Rust and similar. Performance and novelty are strong forces to contend with.</p> <p>It's time we bring scripting joy back to Ruby! <a href=\"http://bundler.io/\">Bundler</a> and <a href=\"http://brew.sh/\">Homebrew</a> are just a few examples of past glory. However, there are a myriad of tools to be developed and Ruby has the power and elegance to make building command line applications easy.</p> <p>How can the mighty god of thunder help us? Curious? Then come along.</p> <p><b>About our speaker</b></p> <p><a href=\"https://twitter.com/piotr_murach\">Piotr Murach</a> is a software engineer by day, open source enthusiast by night, mathematician by design and human languages enthusiast by life.</p> <p><br/><b>About our venue</b></p> <p>Our meetup will take place at our venue, <a href=\"http://www.union-st.org\">Union St</a>.</p> <p>After the meetup, we'll be heading to <a href=\"http://www.devonshirecat.co.uk/\">The Devonshire Cat</a> for drinks, food and chat.</p> "
+  url: https://www.meetup.com/sheffieldrubyists/events/237146450/
+  is-free: true
+  starts: 2017-02-20T18:30:00.0000000
+  ends: 2017-02-20T21:30:00.0000000
+  venue: Union St. Co-working space
+- name: Tech Lovers?  Join us to share, learn and chat!
+  description: "<p>CodeUp Salford is based in the heart of <a href=\"http://www.salford.ac.uk/mediacityuk/venue/about-the-venue\">Media City </a>'where science and creativity collide'. Based at the University of Salford campus is a unique venue suitable for the most ambitious and imaginative events - blending technology, people and stunning surroundings, making it an excellent and original choice for CodeUp Salford.</p> <p><a href=\"http://www.salford.ac.uk/mediacityuk/location\">How to get here</a>: MediaCityUK is close to one of the most comprehensive transport infrastructures in the country, so getting here won't be a problem. (we are minutes from a metro station).</p> "
+  url: https://www.meetup.com/CodeUp-Salford/events/236961556/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/6/e/4/0/thumb_453388224.jpeg
+  starts: 2017-02-20T19:00:00.0000000
+  ends: 2017-02-20T22:00:00.0000000
+- name: Feb - social / networking event
+  description: "<p>We're just having a social / networking meeting this month. You can come for as long or as short as you like.</p> <p>Aiming for 7pm.. </p> <p>Location: <b>The Waldorf Hotel</b> (just off Piccadilly)</p> <p><i><b>We're not providing pizza this month</b>, but food is available at the bar -  hot dogs and burgers, see</i>: <a href=\"http://www.waldorfmanchester.co.uk/index\" class=\"linkified\">http://www.waldorfmanchester.co.uk/index</a></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/4/3/0/2/600_458177154.jpeg\" /></p> <p>Let us know if you fancy coming along.</p> "
+  url: https://www.meetup.com/DotNetNorth/events/234676134/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/7/1/2/0/thumb_454528960.jpeg
+  starts: 2017-02-21T19:00:00.0000000
+  ends: 2017-02-21T22:15:00.0000000
+- name: Meet for Code and Coffee
+  url: https://www.meetup.com/York-Code-Coffee/events/237391935/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-02-22T07:00:00.0000000
+  ends: 2017-02-22T10:00:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Code &amp; Coffee is an informal get together to write some code in the morning before the real job kicks in. There are no requirements other than the willingness to sit down, pair up, and learn something new. We're going with mornings because the evenings are full enough as it is. If you're interested in joining in, just show up. No invite needed and you don't need to RSVP. Coffee not provided, but it's just a few steps away.</p> <p>This event is based on Code and Coffee from Agile Yorkshire - for more info on that see: <a href=\"http://www.agileyorkshire.org/codeandcoffee\"><a href=\"http://www.agileyorkshire.org/codeandcoffee\" class=\"linkified\">http://www.agileyorkshire.org/codeandcoffee</a></a></p> <p>Code of Conduct:<br/>Code and Coffee has been running since Feb 2013 as a meeting point for developers where the main focus is on crafting code, possibly in pairs - so laptops are not essential, with some good discussions along the way.</p> <p>If the idea appeals then turn up next Wednesday (or any subsequent Wednesday) bringing an enquiring mind and possibly a side project. See you there!</p> "
+  url: https://www.meetup.com/Sheffield-Code-Coffee/events/237392114/
+  is-free: true
+  starts: 2017-02-22T07:30:00.0000000
+  ends: 2017-02-22T09:00:00.0000000
+  venue: Cafe Nero, Peace Gardens
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/237752259/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-02-22T08:00:00.0000000
+  ends: 2017-02-22T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: February - Tom Hanson and Matt Collins
+  description: "<p>Hey there Javascripters!</p> <p><br/>February is getting closer, so it's time for us to announce our next event! This month we've got a couple of great speakers with interesting topics:</p> <p>First up is Tom Hanson, with a talk titled \"Making Native Great Again: React Native\". I'm really interested to hear more about React Native so I'm looking forward to this one!</p> <p>Here is a brief intro from Tom:</p> <p><i>\"Mobile apps are used by the many, but developed by the few. With the current options available to mobile developers seemingly providing a somewhat steep learning curve, we'll look at how we can combat that with React Native.</i></p> <p><i>This talk introduces React Native, a new approach to developing and shipping cross platform mobile apps. React Native has the potential and intention to revolutionise the way development teams produce mobile apps, along with exciting new ideas. These include: User Interfaces and Styling, Native functionality, Testing, Performance, Integration with current apps and Deployment.\"</i></p> <p><br/>Next up we have Matt Collins talking about \"Realtime Apps with Node.js and RethinkDB\":</p> <p>\"<i>Almost everyone uses realtime apps of some kind, they are becoming more and more ubiquitous every day. In this talk, we will discuss what they are, why we want them, and the problems you might come across when you try to build them.<br/></i></p> <p><i>We'll also look at how RethinkDB &amp; Node.js can help you solve these problems and enable you to build production scale realtime apps with the minimum of fuss.<br/></i></p> <p><i>I hope that by the end of this talk I have been able to share my enthusiasm for all things realtime and given you enough information to go away and get started on your first realtime app.</i>\"</p> <p>The main talk starts at around 7:15, but most people show up from 6:45 for pizza and to network and chat about all things JavaScript before the talk. After the talk we’ll be heading over to Headrow House to have a drink and to chat some more.</p> <p>The door to get in is shown here:</p> <p><a href=\"https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY\" class=\"linkified\">https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/237238912/
+  is-free: true
+  logo: http://photos1.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2017-02-22T18:45:00.0000000
+  ends: 2017-02-22T21:45:00.0000000
+  venue: Future Labs
+- name: Technological activities, including 3d printers, Laser cutting, Pi and Arduino.
+  description: '<p>URGENT MESSAGE:</p> <p>Please do not join unless you live within reasonable travelling distance and intend to come to meetings. You can of course still attend even if you are not a member. However, being a member makes it easier to be kept in touch and let us know whether you can attend.</p> <p>WHAT WE DO:</p> <p>There are now five members who are actively learning how to construct projects based on either the Arduino Micro-controller or the Raspberry Pi micro-computer. We have a growing range of completed projects which we can demonstrate such as various spectacular LED Neo-pixel rings and arrays. James has constructed an amazing 518 cube which flashes in a range of patterns, an ultrasonic range meter and a Geiger Counter. The last two can be brought to meetings on request.</p> <p>We can help with any traditional computer project, but of course most of our electronics projects have a computer at their core.</p> <p>We are always trying out new ideas and constructing new projects which include networking the Arduino, using it for controlling growing systems (An Aquaponic system is now being planned) and using various wi-fi based projects using the ESP8266 module.</p> <p>Our 3d printer has racked up over 400 hours of running now and has printed out most of the parts for the human-sized "Inmoov" robotic torso.</p> '
+  url: https://www.meetup.com/Grimsby-TechShed-Meetup/events/237427399/
+  is-free: true
+  starts: 2017-02-23T14:00:00.0000000
+  ends: 2017-02-23T17:00:00.0000000
+  venue: Unit 5, diagonally opposite the Honest Lawyer pub
+- name: NancyFX 2.0 + Dapper = Happy Path
+  description: '<p><a href="https://joestead.codes/">Joe Stead</a> will tell us about how he uses the ORM Dapper with NancyFX.</p> '
+  url: https://www.meetup.com/Leeds-Sharp/events/236040456/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2017-02-23T18:30:00.0000000
+  ends: 2017-02-23T21:30:00.0000000
+  venue: Future Labs
+- name: Second Meetup
+  description: "<p>This will be our second Meetup.</p> <p>We will open with three lightning talk slots. I'm going to snaffle one of them. If you'd like to take one, please let me know.</p> <p>Lightning talks:</p> <p>• 6:30 - 6:40 What exactly do we mean by Software Craftsmanship?</p> <p>• 6:45 - 6:55 Available</p> <p>• 7:00 - 7:10 Available</p> <p>We'll then move on to discuss the hottest topic raised at our round-table, which was refactoring. This will be open discussion, though I will give us some 'starters for ten' on why refactoring is crucial to the craftsmanship concept.</p> "
+  url: https://www.meetup.com/Manchester-Software-Craftsmanship-Community/events/237381660/
+  is-free: true
+  starts: 2017-02-23T18:30:00.0000000
+  ends: 2017-02-23T20:30:00.0000000
+  venue: Sage Manchester
+- name: SICP Brunch Club
+  description: "<p><img src=\"https://mitpress.mit.edu/sicp/graphics/main-banner.gif\" /></p> <p><b>What's this about?</b></p> <p>Let's study Structure and Interpretation of Computer Programs (SICP) together over a brunch at Bill's. Bring your copy, your laptop, and let's run through the exercise together.</p> <p>No prior experience required. Newcomers welcome. </p> <p>The book itself is <a href=\"https://mitpress.mit.edu/sicp/\">available online</a>. And has even been converted to <a href=\"http://sarabander.github.io/sicp/\">a nice HTML/EPUB format</a></p> <p>Original lectures by Abelson and Sussman are <a href=\"http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/\">available online</a> too and well worth a look.</p> <p><b>Recommended Software</b></p> <p>The book uses <a href=\"http://en.wikipedia.org/wiki/Scheme_%28programming_language%29\">Scheme</a> for all examples and exercises. You can <a href=\"http://racket-lang.org/\">download Racket Scheme</a> online to go through the exercises yourself.</p> <p><b>Preparation required</b></p> <p>None!</p> <p><b>Experience required</b></p> <p>None! </p> <p>We work together to go through the exercises, so if you have no experience with Scheme or functional programming, someone in the group can fill in the gaps in your knowledge.</p> <p><b>Communal Repository</b></p> <p>Please add your code for the exercises to the <a href=\"https://github.com/StudyCodeOrg/sicp-brunches\">communal repository on github</a> after each session. All pull requests are accepted and welcomed :)</p> "
+  url: https://www.meetup.com/Sheffield-Programmers-Study-Group/events/237470828/
+  is-free: true
+  logo: http://photos4.meetupstatic.com/photos/event/c/d/6/5/thumb_457312581.jpeg
+  starts: 2017-02-25T10:00:00.0000000
+  ends: 2017-02-25T13:00:00.0000000
+  venue: Bill's restaurant
+- name: Meet for Code and Coffee
+  url: https://www.meetup.com/York-Code-Coffee/events/237566339/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-02-27T07:00:00.0000000
+  ends: 2017-02-27T10:00:00.0000000
+  venue: The Perky Peacock
+- name: CodeUp Huddersfield February Monthly Session
+  description: '<p>CodeUp Huddersfield is a mentoring program for adults who would like to learn how to code for free. Once a month we provide a workspace for people with no programming skills to come and learn the basics, with mentors available to answer your questions and help you on your way. Our sessions are also suitable for people with basic skills who need support to develop them, and even for people with intermediate or advanced skills who just want to come along to a space where everyone is immersed in code!</p> <p>Our February session will be drop in session where you can just rock up and speak to one of our mentors about any aspect of learning to code. We have mentors who can help with all languages, problems, and aspect of coding!</p> <p><b>Please ensure you bring along your own laptop.</b></p> <p>**NB** If you are coming to CodeUp with a very specific question or problem, please comment with details so we can make sure we have a mentor in attendance who can help you!</p> '
+  url: https://www.meetup.com/CodeUp-Huddersfield/events/237186512/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/e/7/d/2/thumb_453719346.jpeg
+  starts: 2017-02-27T18:00:00.0000000
+  ends: 2017-02-27T20:00:00.0000000
+  venue: Café Ollo @ the Media Centre
+- name: HackerNest Manchester February Tech Social
+  description: "<p>Drinks on us. That's right: free beer/wine/water.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/b/c/6/b/600_438828235.jpeg\" /></p> <p><a href=\"https://www.youtube.com/watch?v=9wG2TpzEm5o\">HackerNest Tech Socials </a>HackerNest Tech Socials are a fun, relaxed way to connect with your local tech community. Atmosphere: chill, friendly, unpretentious, agenda-free (no sales pitch, yo), and brimming with UltraSmart(TM) people.</p> <p>We believe that strong, supportive tech communities should exist everywhere - not just in hotspots like San Francisco and New York. Manchester is an up and coming UK tech hub and HackerNest wants to help you connect with the local tech scene! </p> <p>Follow us on <a href=\"http://srn.kr/HNtweets\">Twitter</a> and<a href=\"http://hckrn.st/1WT3Xoh\"> Instagram</a>, like us on <a href=\"http://srn.kr/HNTOfb\">Facebook</a>, hi-5 us in person. :) </p> <p>The typical Tech Social schedule:</p> <p>- 7:00pm: folks arrive, grab drinks, socialize <br/>- 8:00pm: quick intro, thank sponsors, quick announcements <br/>- 8:10pm: back to chatting with interesting new friends <br/>- 10:30pm: go home exhausted from great conversations</p> <p><b>SPONSOR:</b></p> <p><a href=\"http://hackernest.com/sponsor_info/\">&lt;/a&gt;<i>&lt;a href=\"http://hackernest.com/sponsor_info/\"&gt;Sponsors</a> make this growing movement possible, so we treasure and build deep, long-term relationships with the companies that endorse us. <a href=\"https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=sponsorship@hackernest.com\">We're always looking for new friends</a>! Please email [masked].</i></p> <p><b>VENUE:</b></p> <p><b><a href=\"https://spaceportx.com/\">SpacePortX</a></b></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/5/6/f/6/600_457582262.jpeg\" /></p> <p><b>COMMUNITY PARTNERS:</b></p> <p><b><a href=\"http://www.codemobile.co.uk/\">CodeMobile</a><br/></b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/2/2/8/5/600_458348837.jpeg\" /></p> <p>CodeMobile is a UK developer conference created by developers who create apps in the mobile space. An opportunity to network, share ideas, and collaborate with developers, the conference has 2 tracks, one focused on iOS development, the other on Android. Use code: <b>HACKERNEST</b> for 10% off your <a href=\"https://www.eventbrite.co.uk/e/codemobile-tickets-27179720275\">ticket</a> price!</p> <p><br/><b>About Us:</b></p> <p><i><a href=\"http://hackernest.com/\">&lt;/a&gt;&lt;a href=\"http://hackernest.com/\"&gt;HackerNest</a> is an international nonprofit uniting local tech <a href=\"http://hackernest.com/cities/\">communities</a> through unpretentious <a href=\"http://hackernest.com/cities/\">Tech Socials</a> and <a href=\"http://hackernest.com/hackathons/\">hackathons</a>. We cram lots of smart, accomplished people into a room and get them talking to one another. Our relaxed, down-to-earth events attract a diverse and highly technical membership. Strict 'no-scuzzbag' <a href=\"http://hackernest.com/faqs/for-attendees/\">policy</a>.</i></p> <p><i>Want to volunteer at our HackerNest Tech Socials? Visit <a href=\"http://hackernest.com/volunteer/\"><a href=\"http://hackernest.com/volunteer/\" class=\"linkified\">http://hackernest.com/volunteer/</a></a> for more information and to apply!</i></p> "
+  url: https://www.meetup.com/HackerNestMAN/events/235880208/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/1/a/0/6/thumb_398106662.jpeg
+  starts: 2017-02-27T19:00:00.0000000
+  ends: 2017-02-27T22:00:00.0000000
+  venue: 'SpacePortX '
+- name: CodeUp Stockport February Monthly Session
+  description: "<p>Now the New year slump is over, let's get into some real code! We'll be at our regular location - the <a href=\"https://twitter.com/bredburyhub\">Bredbury Hub</a>, on February 27th.</p> <p>As if last month wasn't enough, <a href=\"https://twitter.com/mikelittlezed1\">Mike Little</a> (WordPress wonder) is along again, to take us further into the depths of Wordpress than your Mother ever advised you should go.  </p> <p>Once Mike's finished filling your head with Wordpress magic, we'll round up with our drop-in / Q&amp;A session - let our mentors help you with those niggling code issues. Don't worry if you've never been to one of our sessions before - we'll get you started!</p> <p>------------------------------------------------------</p> <p>Further info</p> <p>CodeUp Stockport is a mentoring program for adults who would like to learn how to code for free. Once a month we provide a workspace for people with no programming skills to come and learn the basics, with mentors available to answer your questions and help you on your way. Our sessions are suitable for people with basic skills who need support, and even for people with intermediate or advanced skills who want a space where everyone is immersed in code! </p> <p>We'll provide a supportive space to work - just bring your laptop, your curiosity and your hunger to learn! </p> <p>**NB** If you are coming to CodeUp with a very specific question or problem, please comment with details so we can try to have a mentor in attendance who can help you!</p> <p>One more thing, there are some free parking spaces available, but please only use those marked with an \"<b>M</b>\". </p> "
+  url: https://www.meetup.com/CodeUp-Stockport/events/237147331/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/4/d/5/thumb_448577621.jpeg
+  starts: 2017-02-27T19:00:00.0000000
+  ends: 2017-02-27T20:45:00.0000000
+  venue: The Hub Bredbury
+- name: Scala Manchester
+  description: '<p>At this months meetup we have another great talk </p> <p>Name : <b>Olivier </b><b>Mélois</b></p> <p>Aspect Oriented : the functional way</p> <p>This talk will involve 60 lines of live coding, transforming a java-like traits into a purely functional API, unveiling concepts usually found in pure FP libraries like ScalaZ and Cats, in order to add generic behaviour to your operations</p> <p>Come along learn something new and get involved in the community.</p> <p>See you soon.</p> <p>Alex</p> '
+  url: https://www.meetup.com/scala-developers/events/237266008/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/9/9/7/c/thumb_230739292.jpeg
+  starts: 2017-02-27T19:00:00.0000000
+  ends: 2017-02-27T22:00:00.0000000
+  venue: MadLab
+- name: Leicester Digital Artists Group
+  description: "<p><img src=\"http://photos4.meetupstatic.com/photos/event/7/f/c/f/600_458132719.jpeg\" /></p> <p>This is the first of our new 'last Monday' meetings for artists interested in digital arts and digital technology. This meeting will have a focus on the new possibilities offered to artists by Virtual Reality.</p> <p><br/>Meet in the Phoenix foyer at 7pm and we will then go up to Interact Labs. You can bring drinks up.</p> <p>FREE entry and all welcome.</p> "
+  url: https://www.meetup.com/InteractDigitalArts/events/237498395/
+  is-free: true
+  logo: http://photos1.meetupstatic.com/photos/event/4/e/4/4/thumb_446300036.jpeg
+  starts: 2017-02-27T19:00:00.0000000
+  ends: 2017-02-27T22:00:00.0000000
+  venue: Interact Labs
+- name: 'Talks: Monit and Graylog (Campus Only)'
+  description: '<p>By popular demand, we have two talks of useful tools we have been using in our groups.</p> <p><br/><a href="https://www.ebi.ac.uk/about/people/alexander-senf">Alexander Senf</a> will be talking about <a href="https://mmonit.com/monit/">Monit and M/Monit</a> for process monitoring.</p> <p>"Monit is a small Open Source utility for managing and monitoring Unix systems. Monit conducts automatic maintenance and repair and can execute meaningful causal actions in error situations."</p> <p><br/><a href="https://www.ebi.ac.uk/about/people/daniel-vaughan">Daniel Vaughan</a> will then talk about <a href="https://www.graylog.org/">Graylog</a> a centralised logging server that allows aggregation,  indexing, searching and reporting of the logging activity of our systems.</p> <p>There will then be time for questions and discussion. </p> '
+  url: https://www.meetup.com/Genome-Campus-Software-Craftsmanship-Community/events/237493106/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/9/9/7/2/thumb_420939282.jpeg
+  starts: 2017-02-28T13:00:00.0000000
+  ends: 2017-02-28T14:00:00.0000000
+  venue: Kendrew Lecture Theatre
+- name: '#graduatenetworking with the leading tech professionals'
+  description: '<p>#graduatenetworking</p> <p>We are delighted to announce our next GradBoss networking event which will take place on Tuesday 28th February 2016. GradBoss has been designed to bring together students who have a keen interest in IT with leaders in the IT sector.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?</b></p> <p>GradBoss is hosted by Jonathan Sanderson, Managing Director at Corecom Consulting.  The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:<br/>· a brief intro and welcome from Jonathan<br/>· discussions and speeches from IT experts with backgrounds in Software Development, Software Testing, Data and Business Intelligence<br/>· a talk on how to design a creative portfolio and enhancing your employability<br/>· a break for food and drink, and further networking opportunities<br/>· a talk from an industry expert, along with a technical example of a product currently on the market<br/>· event round-up and a brief thank you at 8.30pm<br/>· drinks and networking to finish</p> <p><b>WHO ATTENDS?</b></p> <p>Aspiring IT students interested in pursuing a successful career in IT.</p> <p>Leaders within the IT industry, including professionals with backgrounds in Software Testing, Software Development, Data, Business Intelligence. This is an invitation-only event organised and held by Corecom Consulting, Yorkshire’s fastest growing IT recruitment specialist.</p> <p><b>WHAT YOU’LL COME AWAY WITH</b></p> <p>“This is a fantastic opportunity for students/recent graduates to speak with potential employers, ask for advice and gain precious insights into what will be expected when going into work straight from university.</p> <p>“I am confident that each attendee will take away invaluable information from employers who have vast experience in all IT disciplines.”</p> '
+  url: https://www.meetup.com/GradBOSS-Graduate-networking-with-tech-professionals/events/237040481/
+  is-free: true
+  starts: 2017-02-28T18:00:00.0000000
+  ends: 2017-02-28T20:30:00.0000000
+  venue: Banyan Bar & Kitchen
+- name: 'GradBoss: Graduate Networking with Leading Tech Professionals'
+  description: "<p>#graduatenetworking</p> <p><br/>We are delighted to announce our next GradBoss networking event which will take place on Tuesday 28 February 2017. GradBoss has been designed to bring together students who have a keen interest in IT with leaders in the IT sector.</p> <p><br/><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?</b></p> <p>GradBoss is hosted by Jonathan Sanderson, Managing Director at Corecom Consulting. The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>· a brief intro and welcome from Jonathan </p> <p>· discussions and speeches from IT experts with backgrounds in Software Development, Software Testing, Data and Business Intelligence </p> <p>· a break for food and drink, and further networking opportunities </p> <p>· a pub quiz with an IT theme</p> <p>· event round-up and a brief thank you at 8:30pm </p> <p>· drinks and networking to finish</p> <p>\n\n\n<b>WHO ATTENDS?</b></p> <p>Undergraduates and graduates from universities across Yorkshire, interested in a career in IT. The event is organised and held by Corecom Consulting, Yorkshire’s fastest growing IT recruitment specialist.</p> <p><b>WHY SHOULD I ATTEND?</b></p> <p>GradBoss creates a unique platform for graduates and undergraduates to debate, discuss hot topics, learn from reputable and established speakers whilst networking with like minded individuals in an intimate but friendly environment.</p> "
+  url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237042658/
+  is-free: true
+  starts: 2017-02-28T18:00:00.0000000
+  ends: 2017-02-28T20:30:00.0000000
+  venue: Banyan Bar Leeds
+- name: Meet for Code and Coffee
+  url: https://www.meetup.com/York-Code-Coffee/events/zvxhpmywfbcb/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-03-01T07:00:00.0000000
+  ends: 2017-03-01T10:00:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywfbcb/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-03-01T08:00:00.0000000
+  ends: 2017-03-01T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: TBC
+  description: '<p>Session to be announced nearer the time, but feel free to sign up in advance.  You can be sure it will be something awesome, involving programming!</p> <p>See the <a href="http://leedscodedojo.github.io/">LCD website</a> for general details.</p> '
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/237239983/
+  is-free: true
+  logo: http://photos1.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2017-03-01T18:30:00.0000000
+  ends: 2017-03-10T21:00:00.0000000
+  venue: Callcredit Information Group Limited
+- name: Building graph applications with Neo4j, React, NodeJS, and GraphQL
+  description: "<p>This month Matthew Yeager,  Matt Jackson, and Phill Stanley from <a href=\"https://www.metafused.com/\">Metafused</a> are going to share their experience using Neo4j to build end to end solutions alongside NodeJS, React, Relay, and mostly recently GraphQL.</p> <p>They'll cover the following:</p> <p>* Why they chose Neo4j<br/>* Integrating Neo4j with React<br/>* A demo of a React/Neo4j prototype to give a real world example<br/>* How they're combining all these tools with Deep Learning and Neo4j for Reinforcement Learning</p> "
+  url: https://www.meetup.com/Neo4j-Manchester/events/237492260/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/a/0/c/a/thumb_453821162.jpeg
+  starts: 2017-03-01T18:30:00.0000000
+  ends: 2017-03-01T20:00:00.0000000
+  venue: ThoughtWorks Manchester
+- name: GDG Leeds - March
+  description: "<p>Use <a href=\"https://goo.gl/maps/SwSjENdAbLJ2\">this</a> Google Map link to help find the building. Don't use Meetups link! There will be a sign on the door.</p> <p>If you attended February's meetup can you please spend 30secs and answer <a href=\"https://goo.gl/forms/HA3nGo6rQyNNmY5F2\">this</a> survey? It will help us in organising future events for you all :)</p> <p>This month we're having a talk on Android security with Jahmel Harris to find out what we can do to make our apps more secure. </p> <p><br/>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch! </p> <p>Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.20pm - Intro</p> <p>6.30pm - Security &amp; Android by Jahmel Harris</p> <p>7.10pm - TBC</p> <p>7.50pm - Wrap up</p> <p>8.00pm - The end</p> "
+  url: https://www.meetup.com/GDG-Leeds/events/237526829/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
+  starts: 2017-03-02T18:00:00.0000000
+  ends: 2017-03-02T21:00:00.0000000
+  venue: Sky 2
+- name: 'Digital Forensics: The Missing Piece of the IoT Promise by Ali Dehghantanha'
+  description: "<p>The speaker this month is Ali Dehghantanha who runs a Digital Forensics course at the University of Salford: <a href=\"http://www.salford.ac.uk/pgt-courses/cyber-security,-threat-intelligence-and-forensics\"><a href=\"http://www.salford.ac.uk/pgt-courses/cyber-security,-threat-intelligence-and-forensics\" class=\"linkified\">http://www.salford.ac.uk/pgt-courses/cyber-security,-threat-intelligence-and-forensics</a></a></p> <p>Talk description:</p> <p>With the fast integration of smart things we are swiftly moving towards a pervasive, intelligent and integrated environment where smart sensors are collecting large amount of potentially private data. Internet of everything (IoT) would soon pervade all aspects of our life from managing our home temperature to thinking cars and smart management of cities. So it won’t take long to see people suing others for misusing their smart things, thinking cars that have accidents and attackers who compromise smart sensors. The Internet of everything is developing a haystack which contains lots of valuable forensics artifacts while identification, collection, preservation and reporting evidences will be a challenge in this environment. This talk would discuss tools, methods, and techniques to identify, collect and preserve IoT evidence and then elaborates on different challenges that forensics examiners would face in investigating IoT environments. </p> <p>\n\n\nBy attending this talk you would learn about: </p> <p> • Tools, methods and techniques to identify, collect and preserve IoT evidence</p> <p> • Best strategies for IoT forensics </p> <p> • Privacy and legal challenges in IoT investigation</p> <p> • Future directions and opportunities in IoT investigation</p> "
+  url: https://www.meetup.com/Manchester-InfoSec/events/237632928/
+  is-free: true
+  logo: http://photos4.meetupstatic.com/photos/event/d/a/b/e/thumb_445915998.jpeg
+  starts: 2017-03-02T18:15:00.0000000
+  ends: 2017-03-02T20:15:00.0000000
+  venue: MadLab
+- name: Manchester GeekUp Bi-Monthly Meet
+  description: "<p>GeekUp is a community of web designers, web developers, and other tech-minded folk from the UK. It's a grassroots knowledge sharing and networking social for folks involved or interested in the web and technology industry.</p> <p>Come along to our bi-monthly social at The English Lounge in Manchester's Northern Quarter from 7pm on the first Thursday of the month. Food is served and you can check out the menu here <a href=\"http://www.englishloungemanchester.co.uk/\"><a href=\"http://www.englishloungemanchester.co.uk/\" class=\"linkified\">http://www.englishloungemanchester.co.uk/</a></a></p> <p>GeekUp meetings are great for meeting new people and networking, discussing your latest project, seeking advice and sharing knowledge. If you're a geek in Manchester and want to meet others like you, then register for our event here!</p> "
+  url: https://www.meetup.com/GeekUpManchester/events/235596755/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/3/0/5/4/thumb_405552372.jpeg
+  starts: 2017-03-02T19:00:00.0000000
+  ends: 2017-03-02T22:00:00.0000000
+  venue: English Lounge
+- name: Welcome to User Experience (UX) Design at EMBL-EBI (Campus only)
+  description: "<p>Interested in learning how User Experience (UX) design can help you meet your goals? Join the UX designers of EMBL-EBI on Friday, 3 March at 11am in the Kendrew Lecture Theatre to hear about what they do and how they make data services better for researchers.</p> <p>During this 45-minute seminar we will introduce you to UX design, show how it can be applied and demonstrate how it can make a positive difference. The seminar will be followed by a discussion and refreshments, so you can meet EMBL-EBI's UX designers in person and explore how you might benefit from UX design in your own work.</p> <p>Speakers: Nikiforos Karamamis, Gabby Yordanova, Revathi Nathaniel &amp; Michele Ide-Smith</p> <p>Organisers &amp; on-hand for questions: Jenny Cham &amp; Joseph Rossetto</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/8/b/5/600_458178613.jpeg\" /></p> "
+  url: https://www.meetup.com/Genome-Campus-Software-Craftsmanship-Community/events/236254731/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/9/9/7/2/thumb_420939282.jpeg
+  starts: 2017-03-03T11:00:00.0000000
+  ends: 2017-03-03T12:15:00.0000000
+  venue: Kendrew Lecture Theatre
