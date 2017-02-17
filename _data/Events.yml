@@ -132,6 +132,8 @@
 
     Tony Duncan, Circa
 
+    Dr Harold Vandenburg, SCI Green Innovations Ltd
+
     Professor Steven Abbott, Steven Abbott TCNF Ltd 
 
     Professor Mike North, University of York
@@ -158,6 +160,29 @@
   starts: 2017-03-21T09:30:00.0000000
   ends: 2017-03-21T17:00:00.0000000
   venue: Green Chemistry Centre of Excellence
+- name: Chemistry@York
+  description: >-
+    Enjoy a day of hands-on practical chemistry, led by some of our final year chemistry students. Hear about cutting edge research at York and then try some experiments in the lab. You will discover how it is possible to make bioethanol for fuel from waste avocado seeds and then try it for yourself; learn how amino acids can be used to date archaeological artefacts before using state-of- the-art analysis techniques to identify some samples; and find out about reactions in our atmosphere before measuring rates of reactions using some specially built photometers.
+
+    The activities have been designed for GCSE students, but we welcome any secondary age students with their parents/guardians. Adults can come along without a young person, but no unaccompanied people under 18 please.
+
+    The event will start promptly at 10:00, but you can arrive from 09:30 (refreshments will be provided). We will finish at 14:30. There is a 45 break for lunch at 12:30; you are welcome to bring a packed lunch, or you can buy something from one of the nearby cafes or the shop in Heslington village.
+
+    A map with the location of the Chemistry Department is available here: https://www.york.ac.uk/about/maps/campus/#chemistry.  Parking is available on-site but please be aware that this is pay and display and can be very busy.  Alternatively, the number 66 bus runs regularly to the University from the train station and city centre.  
+
+    On arrival in reception in the Chemistry Department at the University of York, follow the orange signs to C/B101 and C/B102 from where you will be directed.
+
+    Please wear clothes suitable for working in a lab: long trousers (not leggings or skirts) and fully enclosed shoes. Long hair must be tied back. If you normally wear contact lenses, please can you wear your glasses instead? Everyone will be provided with safety glasses, we have some to fit over prescription glasses. We will also provide lab coats to protect your clothes.
+
+    We look forward to seeing you for an exciting day of chemistry!
+
+    If there are any questions please direct them to chem-reach@york.ac.uk
+  url: https://www.eventbrite.co.uk/e/chemistryyork-tickets-32183346255?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/28447198/47446703195/1/original.jpg?h=200&w=450&rect=140,0,438,219&s=7b17173f40dff35cee5015e1bbade4c8
+  starts: 2017-02-23T10:00:00.0000000
+  ends: 2017-02-23T14:30:00.0000000
+  venue: Department of Chemistry
 - name: 'GRASPing the Curriculum: Green Chemistry in Science Education'
   description: "The University of York Science Education Group (UYSEG) invites you to the Spring term meeting of teachers, researchers and curriculum developers interested in the relationship between research and practice.\nGRASPing the Curriculum: Green Chemistry in Science Education\n24th February 2017\n5pm - 6.15pm\nDr Glenn Hurst is an Associate Lecturer at the Green Chemistry Centre of Excellence at the University of York and he will present how to GRASP (Green Reagents and Sustainable Processes) your curriculum. Glenn will demonstrate (with your help!) interactive hands-on activities for use with students at the primary, secondary and tertiary level. Such practical interventions are cheap and easy to implement while enabling students to consider the principles of green chemistry in the context of their studies in science education. Further to practical activities, Glenn will present ongoing work where he is developing new outreach resources for secondary school students to facilitate independent learning in green chemistry (and accompanying teacher packs). Glenn will also present a new blended learning resource to form part of a continuing professional development package for practitioners and teachers. There will be opportunities to discuss with colleagues how you could GRASP your own curriculum. All associated resources for students and teachers will be provided to attendees during the session. "
   url: https://www.eventbrite.co.uk/e/grasping-the-curriculum-green-chemistry-in-science-education-tickets-30043359497?aff=ebapi
@@ -612,37 +637,6 @@
   logo: https://cdn.evbuc.com/images/26292358/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=7bfe8ecc15d3af3d55ceb7574bde825e
   starts: 2017-04-26T15:00:00.0000000
   ends: 2017-04-26T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'IL2: Layers, artboards and curves (Thu 23 Feb 14:00-15:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    IL2: Layers, artboards and curves
-
-    Prior knowledge: Basic skills with Illustrator
-
-    This course extends the use of Illustrator to multiple layers and artboards. More sophisticated options for colour and paths as well as export options are covered.
-
-    This course includes:
-
-
-    Manipulating paths and curves
-
-    Layers and artboards
-
-    Using gradients
-
-    Understanding colour spaces
-
-    File formats
-
-    Other text options
-  url: https://www.eventbrite.co.uk/e/il2-layers-artboards-and-curves-thu-23-feb-1400-1500-tickets-29784809166?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26292528/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=383a29ca66fcd5fbaf242c27affce8cb
-  starts: 2017-02-23T14:00:00.0000000
-  ends: 2017-02-23T15:00:00.0000000
   venue: ILS Training area (outside FT/120)
 - name: 'IL2: Layers, artboards and curves (Wed 3 May 15:00-16:00)'
   description: >
@@ -1418,6 +1412,12 @@
   starts: 2017-02-22T18:45:00.0000000
   ends: 2017-02-22T21:45:00.0000000
   venue: Future Labs
+- name: Technological activities, including 3d printers, Laser cutting, Pi and Arduino.
+  description: '<p>URGENT MESSAGE:</p> <p>Please do not join unless you live within reasonable travelling distance and intend to come to meetings. You can of course still attend even if you are not a member. However, being a member makes it easier to be kept in touch and let us know whether you can attend.</p> <p>WHAT WE DO:</p> <p>There are now five members who are actively learning how to construct projects based on either the Arduino Micro-controller or the Raspberry Pi micro-computer. We have a growing range of completed projects which we can demonstrate such as various spectacular LED Neo-pixel rings and arrays. James has constructed an amazing 518 cube which flashes in a range of patterns, an ultrasonic range meter and a Geiger Counter. The last two can be brought to meetings on request.</p> <p>We can help with any traditional computer project, but of course most of our electronics projects have a computer at their core.</p> <p>We are always trying out new ideas and constructing new projects which include networking the Arduino, using it for controlling growing systems (An Aquaponic system is now being planned) and using various wi-fi based projects using the ESP8266 module.</p> <p>Our 3d printer has racked up over 400 hours of running now and has printed out most of the parts for the human-sized "Inmoov" robotic torso.</p> '
+  url: https://www.meetup.com/Grimsby-TechShed-Meetup/events/237764108/
+  is-free: true
+  starts: 2017-02-22T19:00:00.0000000
+  ends: 2017-02-22T22:00:00.0000000
 - name: Technological activities, including 3d printers, Laser cutting, Pi and Arduino.
   description: '<p>URGENT MESSAGE:</p> <p>Please do not join unless you live within reasonable travelling distance and intend to come to meetings. You can of course still attend even if you are not a member. However, being a member makes it easier to be kept in touch and let us know whether you can attend.</p> <p>WHAT WE DO:</p> <p>There are now five members who are actively learning how to construct projects based on either the Arduino Micro-controller or the Raspberry Pi micro-computer. We have a growing range of completed projects which we can demonstrate such as various spectacular LED Neo-pixel rings and arrays. James has constructed an amazing 518 cube which flashes in a range of patterns, an ultrasonic range meter and a Geiger Counter. The last two can be brought to meetings on request.</p> <p>We can help with any traditional computer project, but of course most of our electronics projects have a computer at their core.</p> <p>We are always trying out new ideas and constructing new projects which include networking the Arduino, using it for controlling growing systems (An Aquaponic system is now being planned) and using various wi-fi based projects using the ESP8266 module.</p> <p>Our 3d printer has racked up over 400 hours of running now and has printed out most of the parts for the human-sized "Inmoov" robotic torso.</p> '
   url: https://www.meetup.com/Grimsby-TechShed-Meetup/events/237427399/
