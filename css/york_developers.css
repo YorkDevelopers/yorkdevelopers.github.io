@@ -22,7 +22,7 @@ a.active,
 a:active,
 a:focus,
 a:hover {
-    color: #18BC9C;
+    color: #FFD800;
     outline: 0
 }
 h1,
@@ -92,6 +92,10 @@ hr.star-events-even:after {
     color: #4800FF
 }
 
+.our_meetups_detail {
+    background: #4800FF;
+    color: #FFF
+}
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-brand.active,
