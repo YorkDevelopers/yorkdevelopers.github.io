@@ -6,7 +6,7 @@ img: img/portfolio/Magento_York.jpg
 modalID: modalMagentoYork
 category: Meetup
 ---
-Magento York sdsddssafafsafds.
+Magento York.
 
 Visit our [Magento York Meetup][magento-york-meetup-link] for more information.
 
