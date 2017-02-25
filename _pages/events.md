@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: events
 permalink: /events/
 title: "Events"
 excerpt: "Tech events in York"

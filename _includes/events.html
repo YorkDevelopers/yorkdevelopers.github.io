@@ -5,31 +5,54 @@
 {% else %}
   {% assign title = event.name %}
 {% endif %}
-<div class="main" role="main">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if event.url %}
-        <a href="{{ event.url }}">{{ title }}</a> <a href="{{ event.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ event.url | absolute_url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
-    {% if teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | absolute_url }}"
+
+{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+
+<section class="events-{{thecycle}}" id="events">
+
+  <div class="outer-div" style="text-align:center" id="navcontainer-{{thecycle}}">
+    <div class="inner-div" id="{{ event.starts | date: "%B" }}">
+    
+      <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        <ul>
+            {% if teaser %}
+              <li>
+                <div class="event_image_right">
+                <img src=
+                  {% if teaser contains "://" %}
+                    "{{ teaser }}"
+                  {% else %}
+                    "{{ teaser | absolute_url }}"
+                  {% endif %}
+                  alt="" style="width:100px;height: auto;">
+              </div>
+            </li>
           {% endif %}
-          alt="" style="width:auto;height: auto;">
-      </div>
-    {% endif %}
-    <h4>
-    {{ event.starts | date: "%B %d, %Y" }}<br/>
-    {{ event.venue }}
-    </h4>
-    {% if event.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ event.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
-    {% if event.description %}<p class="archive__item-excerpt" itemprop="description">{{ event.description | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
-  </article>
-</div>
+        
+          <li>
+            <h5 class="archive__item-title" itemprop="headline">
+              {% if event.url %}
+                <a href="{{ event.url }}">{{ title }}</a>
+              {% else %}
+                <a href="{{ event.url | absolute_url }}" rel="permalink">{{ title }}</a>
+              {% endif %}
+            </h5>
+          </li>
+
+          <li>
+            <h5>
+            {{ event.starts | date: "%B %d, %Y" }}<br/>
+            {{ event.venue }}
+            </h5>
+            {% if event.excerpt %}<p itemprop="description">{{ event.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+            {% if event.description %}<p itemprop="description" class="small-{{thecycle}}">{{ event.description | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+          </li>
+        </ul>
+      </article>
+
+      <hr class="star-events-{{thecycle}}">
+
+    </div>
+  </div>
+
+</section>
