@@ -6,11 +6,11 @@ p {
     font-size: 20px
 }
 p.small-odd {
-    color: #FFD800;
+    color: #000000;
     font-size: 16px
 }
 p.small-even {
-    color: #4800FF;
+    color: #000000;
     font-size: 16px
 }
 p.tiny {
@@ -81,14 +81,14 @@ hr.star-events-odd {
     border-color: #FFD800
 }
 hr.star-events-odd:after {
-    background-color: #4800FF;
+    background-color: #FFE77C;
     color: #FFD800
 }
 hr.star-events-even {
     border-color: #4800FF
 }
 hr.star-events-even:after {
-    background-color: #FFD800;
+    background-color: #E2D8FF;
     color: #4800FF
 }
 
@@ -230,13 +230,13 @@ section.contact_us {
 }
 section.events-even {
     padding: 0 0;
-    background: #FFD800;
-    color: #fff
+    background: #E2D8FF;
+    color: #000000;
 }
 section.events-odd {
     padding: 0 0;
-    background: #4800FF;
-    color: #fff
+    background: #FFE77C;
+    color: #000000;
 }
 
 @media (max-width: 767px) {
@@ -557,7 +557,7 @@ fieldset[disabled] .btn-success:hover {
 margin: 0;
 padding: 0;
 list-style-type: none;
-text-align: center;
+text-align: left;
 }
 
 #navcontainer-even ul
@@ -565,7 +565,7 @@ text-align: center;
 margin: 0;
 padding: 0;
 list-style-type: none;
-text-align: center;
+text-align: left;
 }
 
 #navcontainer-odd ul li { display: inline; }
@@ -574,15 +574,15 @@ text-align: center;
 #navcontainer-odd ul li a
 {
 text-decoration: none;
-padding: .2em 1em;
-color: #FFD800;
+
+color: #4800FF;
 background-color: none;
 }
 
 #navcontainer-even ul li a
 {
 text-decoration: none;
-padding: .2em 1em;
+
 color: #4800FF;
 background-color: none;
 }
