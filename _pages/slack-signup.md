@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: York Developers Slack Group 
 permalink: /slack-signup
 ---

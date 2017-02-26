@@ -30,31 +30,6 @@
   starts: 2017-03-23T18:30:00.0000000
   ends: 2017-03-23T19:30:00.0000000
   venue: Merchant Adventurers' Hall
-- name: 'Computer Science Roundhouse Public Lecture: Professor Mark Daley'
-  description: >-
-    Concussion, Convergence, Computation and the Clinic: What does a computer scientist know about getting hit in the head?
-
-    A Computer Science Roundhouse Public Lecture, given by:Professor Mark Daley, Associate Vice-President (Research) at The University of Western OntarioAbstract: 
-
-    Traumatic brain injury (TBI) directly impacts the lives of millions of people worldwide every year. In spite of these significant human, and economic, tolls, the physiological mechanisms of TBI remain obscure and our diagnostic criteria rely heavily on subjective symptom reporting. Attempts to better understand TBI using siloed, within-discipline, approaches have yielded only modest results. The secret to understanding TBI may only be discovered with fundamentally new approaches to science.
-
-    The 2011 manifesto "Convergence: The Future of Health", authored by Jacks, Hockfield, and Sharp laid out a bold new vision for deeply integrated research that transcends simple transdisciplinarity. I will open the lecture with a brief outline of this vision, and why I think it is critical to the future of the global research endeavour.
-
-    The remainder of the lecture will describe my experiences, and contributions, as a computer scientist working as part of a TBI-focussed convergence science team including critical care and sports medicine physicians, microbiologists, cell biologists, neuroscientists, medical imagers, biomechanical engineers, surgeons, statisticians, physiologists and neurologists. I will focus on our recent discovery of an accurate metabolomics-based blood test for concussion, and novel neuroimaging results that help paint a clearer picture of the what happens in the concussed brain.
-
-    Biography:
-
-    Mark Daley is the Associate Vice-President (Research) at The University of Western Ontario and a professor in the Computer Science, Biology, and Statistics & Actuarial Science Departments. Mark is also a Principal investigator at the Brain and Mind Institute, holds a SHARCNET Research Chair in biocomputing and is the chairman of the board of directors of Compute Ontario.
-
-    Mark is a mathematician and theoretical computer scientist by training and spent his early career contributing to both the theoretical foundations of computing and to the formal mathematical modelling of biological processes. In 2011, Mark took an education leave to pursue a master’s degree in neuroscience and has since expanded his research endeavours to include data-driven mathematical modelling in neuroimaging and computational physiology.
-
-    In 2013, Mark was chosen as one of the inaugural University of Toronto Science Leadership Fellows and is very active in public science policy and the management and governance of high-performance computing in Canada.
-  url: https://www.eventbrite.co.uk/e/computer-science-roundhouse-public-lecture-professor-mark-daley-tickets-30488712560?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26789075/44500788136/1/original.jpg?h=200&w=450&rect=0,0,388,194&s=0da78f2576b620a5db6cafa897a5e477
-  starts: 2017-02-22T18:00:00.0000000
-  ends: 2017-02-22T20:00:00.0000000
-  venue: The Ron Cooke Hub
 - name: OMG! Science
   description: "Unlocking the wonder of our world!\r\n\"To myself I am only a child playing on the beach, \r\nwhile vast oceans of truth lie undiscovered before me\" Isaac Newton\r\n \r\nBlow your mind with phantastical physics and biological banter with leading scientists from across the UK. For school groups age 14-18\r\nGo beyond the tired argument between science and faith, and make new exciting connections.\r\n\r\n\r\nRegistration - 9:30\r\n\r\nWelcome - 10:00\r\n\r\nOpening keynotes - 10:10\r\n\r\n\r\nWorkshops - 11:00\r\n\r\n\r\nLunch-  12:00\r\n\r\n\r\nWorkshops - 13:00\r\n\r\nQ&A - 14:10\r\n\r\nClosing remarks - 14:55\r\n\r\n\r\nFinish: 15:00\r\n\r\n\r\nThe event is FREE and lunch is provided. All attendees will also receive a 'conference pack', including a copy of 'Let there be Science' \r\nWorkshops themes to include:\r\n\r\n\r\nCosmodome\r\n\r\n\r\nNano world\r\n\r\n\r\nDebunking the myths\r\n\r\n\r\nScience, more than a job?\r\n\r\n\r\nEnergy & environment\r\n\r\n\r\nConservation of wolves\r\n\r\n\r\n210 Spaces available, click Register to see how many spaces are available. Book groups early to reserve spaces for the day.  https://www.facebook.com/events/101487527037420/\r\nThis event is funded by the Templeton Foundation\r\n\r\n\r\n"
   url: https://www.eventbrite.co.uk/e/omg-science-tickets-31678610577?aff=ebapi
@@ -63,35 +38,30 @@
   starts: 2017-03-31T09:30:00.0000000
   ends: 2017-03-31T15:00:00.0000000
   venue: The Hive
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here and the Astrocampus is labelled 'Observatory'.  Acess is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-29614063461?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
-  starts: 2017-02-23T18:30:00.0000000
-  ends: 2017-02-23T19:30:00.0000000
 - name: CyVerseUK Workshop
-  description: "\n\n\n\nCyVerseUK Workshop: Bioinformatic Tools for Biologists\nThis meeting is focused on researchers who are either toward the beginning of their studies or have moved onto a new subject area. We will provide a hands-on sessions that will describe the use of software tools that can interrogate RNAseq, imaging, gene expression or GWAS data. Importantly previous users will provide real-life examples of how the software has been successfully used. This is the 'Learner Track'\nIn addition we will host a concurrent track for more experienced bioinformaticians who wish to learn how to use CyVerse to host their own programs. This is the 'Intermediate Track'. The concurrent tracks will run in separate rooms.\nThese software tools have been developed as part of the CyVerseUK grant (www.cyverseuk.org). We will also highlight the opportunities that exist for the sharing of big data in a meaningful manner. \nThis workshop is organised by GARNet with Professor Katherine Denby at the University of York. \n\n\n\n\nDay 1: Monday March 20th\n10.30am: Registration Opens\n11.30am: Introduction to CyVerse and CyVerseUK                 \n1.00pm: Lunch\n2.00pm: Data Sharing, Management and Reuse                    \n3.30pm: Break\nConcurrent Tracks\nLearner Track\n4.00pm: CyVerseUK Tools: Earlham Institute: Tuxedo pipeline for RNAseq Analysis\n- Descriptive hands-on Workshop\n- User example\n\nIntermediate Track\n4.00pm: Working with Docker\n6pm: Session End\n7pm: Workshop Dinner at Walmgate Ale House\n\n\nDay 2: Tuesday March 21st\nConcurrent Tracks\nLearner Track\n9am: CyVerseUK Tools: University of Nottingham: Image Analysis\n- Hands on workshop\n- Introducing BISQUE\n- Image-Based Phenotyping\n- Introducing RootNav and RooTrace\n- Successful Use Example                         \n11am: Break\n11.30am: CyVerseUK Tools: University of Warwick: Transcriptomic Data Mining\n- Descriptive hands-on Workshop\n- User example\n\nIntermediate Track\n9am: Introducing the Agave API\n- What Agave is\n- What Agave isn’t\n- How you can use it to empower your code with CyVerse hardware\n11am Break\n11.30am: Working with the Agave API\n- “Bring your own scripts”\n- BASH/shell scripting on basic VM hardware\n1.30pm: Lunch\nConcurrent Tracks\nLearner Track\n2.30pm: CyVerseUK Tools: Earlham Institute: GWAS Analysis Pipeline\n- Descriptive hands-on Workshop\n- User example\n\nIntermediate Track\n2.30pm: Bringing Agave and Docker together\n- Building programmatic interfaces\n- Submitting user-space jobs through CyVerse UK scheduling systems\n- Building user interfaces\n\nWhole Group Finale\n4pm:               The Future of CyVerse and CyVerseUK:                 \n4.30pm:           Meeting End\n\nOther Information\nAccommodation\nThere is accomodation available on a first come-first serve basis at the University of York bed & breakfast facility, Franklin House. \n> This is bookable online through the URL www.yorkconferences.com  \n> Select the Accommodation tab, click 'Bed and Breakfast' and then onto 'Book'. \nDietary Requirements\nIf you have any dietary requirements then please can you email Geraint at geraint@garnetcommunity.org.uk with those details. We will send out information about the workshop dinner closer to the time.\n\nComputer requirements\n1.Please bring a laptop to the workshop for the hands-on portions of the sessions. Closer to the time we will send out the data that we will analyse at the meeting.\n2. Please sign up for a CyVerse account. You can register at https://user.cyverse.org/ and we recommend that you take a brief look at the website before you attend the meeting.\n2. Please ensure your computer is registered with the EduRoam network. If this is not possible we will provide some Guest Logins for the duration of the workshop."
+  description: "\n\n\n\nCyVerseUK Workshop: Bioinformatic Tools for Biologists\nThis meeting is focused on researchers who are either toward the beginning of their studies or have moved onto a new subject area. We will provide a hands-on sessions that will describe the use of software tools that can interrogate RNAseq, imaging, gene expression or GWAS data. Importantly previous users will provide real-life examples of how the software has been successfully used. In a change to the original plan this are the only sessions we will now be offering. \nThese software tools have been developed as part of the CyVerseUK grant (www.cyverseuk.org). We will also highlight the opportunities that exist for the sharing of big data in a meaningful manner. \nThis workshop is organised by GARNet with Professor Katherine Denby at the University of York. \n\n\n\n\nDay 1: Monday March 20th\n10.30am: Registration Opens\n11.30am: Introduction to CyVerse and CyVerseUK                 \n1.00pm: Lunch\n2.00pm: Data Sharing, Management and Reuse                    \n\n3.30pm: Break\n\n4.00pm: CyVerseUK Tools: Earlham Institute: Tuxedo pipeline for RNAseq Analysis\n- Descriptive hands-on Workshop\n- User example\n\n6pm: Session End\n\n7pm: Workshop Dinner at Walmgate Ale House\n\n\nDay 2: Tuesday March 21st\n9am: CyVerseUK Tools: University of Nottingham: Image Analysis\n- Hands on workshop\n- Introducing BISQUE\n- Image-Based Phenotyping\n- Introducing RootNav and RooTrace\n- Successful Use Example                         \n\n11am: Break\n\n11.30am: CyVerseUK Tools: University of Warwick: Transcriptomic Data Mining\n- Descriptive hands-on Workshop\n- User example\n\n1.30pm: Lunch\n\n2.30pm: CyVerseUK Tools: Earlham Institute: GWAS Analysis Pipeline\n- Descriptive hands-on Workshop\n- User example\n\nWhole Group Finale\n4pm:               The Future of CyVerse and CyVerseUK:                 \n4.30pm:           Meeting End\n\n\nOther Information\nAccommodation\nThere is accomodation available on a first come-first serve basis at the University of York bed & breakfast facility, Franklin House. \n> This is bookable online through the URL www.yorkconferences.com  \n> Select the Accommodation tab, click 'Bed and Breakfast' and then onto 'Book'. \nDietary Requirements\nIf you have any dietary requirements then please can you email Geraint at geraint@garnetcommunity.org.uk with those details. We will send out information about the workshop dinner closer to the time.\n\nComputer requirements\n1.Please bring a laptop to the workshop for the hands-on portions of the sessions. Closer to the time we will send out the data that we will analyse at the meeting.\n2. Please sign up for a CyVerse account. You can register at https://user.cyverse.org/ and we recommend that you take a brief look at the website before you attend the meeting.\n2. Please ensure your computer is registered with the EduRoam network. If this is not possible we will provide some Guest Logins for the duration of the workshop."
   url: https://www.eventbrite.co.uk/e/cyverseuk-workshop-tickets-29982258743?aff=ebapi
   logo: https://cdn.evbuc.com/images/26445018/143261406836/1/original.jpg?h=200&w=450&rect=4,354,2470,1235&s=88dc617c5f1c88a52e8ba8c264760d98
   starts: 2017-03-20T11:00:00.0000000
   ends: 2017-03-21T16:00:00.0000000
   venue: Department of Biology
-- name: Green space and Health workshop
-  description: "Green space and Health workshop\nHosted by Peter Coventry from Health Sciences \nResearch Theme Champions:Karen Bloor-Health and WellbeingSue Hartley-Environmental Sustainability and ResilienceDamian Murphy-Creativity\nLight refreshments will be available\nThere is growing epidemiological evidence that suggests that population level exposure and individual use of green spaces in or near urban areas is associated with positive mental and physical health outcomes. These positive effects are moderated by socio-demographic factors and socio-economic status, and causal pathways between natural environments and good mental and physical health are not clear: much of the existing evidence is derived from cross-sectional studies. We also know little about why people from different sub-groups use green space, their perceptions about the benefits of green space, and what the mechanisms of action are between green space and health outcomes.\nGreen space can affect numerous health problems: sedentary behaviour, for example, is associated with cardiovascular disease, cancer, Alzheimer’s disease, diabetes and mental illness – all major public health threats.\nRecent and current attempts to influence personal health behaviours tend to have modest treatment effects. Influencing the environment in which people live, including both urban and rural areas, could be a promising avenue of prevention of physical and mental health problems.\nThere is growing recognition that public mental health is a priority of equal importance as other public health issues such as tobacco, alcohol and obesity. This is signalled by funding opportunities to develop cost-effective and integrated public mental health strategies that sit outside the NHS and aim to promote and prevent mental and physical health.\nThis workshop is an opportunity to explore collaborations in and beyond York to develop multidisciplinary research that seeks to improve physical and mental health using the natural environment, and to begin to identify and address the many methodological challenges of this area of research.\nFull agenda to be confirmed.\nAll disciplines welcome."
-  url: https://www.eventbrite.co.uk/e/green-space-and-health-workshop-tickets-31748894799?aff=ebapi
+- name: Science for Patient Benefit - Jenny Marsden
+  description: >-
+    Science for Patient Benefit: Five per cent of the workforce making 80 per cent of patient diagnoses
+
+    Physsoc is delighted to welcome Jenny Marsden, a registered Clinical Scientist working in the NHS, who will discuss the hidden role of healthcare scientists in the NHS; what they do, how they got there, and how they make a difference to the patient journey.
+
+    Jenny Marsden is Principal Clinical Scientist at Hull and East Yorkshire Hospitals NHS Trust. After graduating from Nottingham University with a BSc in Physics with Medical Physics and from Sheffield University with a MSc in Medical Physics and Clinical Engineering, she began her workplace training at the Queen’s Medical Centre (QMC), Nottingham in 1999.
+
+    Jenny has been based at the Hull and East Yorkshire Hospitals NHS Trust for the last 17 years and during that time she has assisted in setting up new radiotherapy services and commissioning other facilities, such as a new brachytherapy service. She manages trainee scientists undertaking the national scientific training programme in medical physics within her department, and is involved with the national scheme, shortlisting, interviewing and examining national trainees.
+
+    A member of the Institute of Physics and Engineering in Medicine, Jenny also has a special interest in women in STEM and has spoken to the House of Commons Science and Technology Select Committee on the subject. 
+  url: https://www.eventbrite.co.uk/e/science-for-patient-benefit-jenny-marsden-tickets-28908285460?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/27979265/99962846797/1/original.jpg?h=200&w=450&rect=178,217,638,319&s=3961177831bfff3941bd62ba6b16c3aa
-  starts: 2017-02-28T13:00:00.0000000
-  ends: 2017-02-28T17:00:00.0000000
-  venue: The Treehouse
+  logo: https://cdn.evbuc.com/images/28505940/148307828230/1/original.jpg?h=200&w=450&rect=0,114,2048,1024&s=3a6fcd1e36eaed525fe6724408aa8041
+  starts: 2017-02-28T19:00:00.0000000
+  ends: 2017-02-28T20:00:00.0000000
+  venue: P/L/001
 - name: Solvents Day 2017
   description: >+
     A free one-day symposium on safer, greener and more sustainable solvents.
@@ -160,1031 +130,97 @@
   starts: 2017-03-21T09:30:00.0000000
   ends: 2017-03-21T17:00:00.0000000
   venue: Green Chemistry Centre of Excellence
-- name: Chemistry@York
+- name: Astrocampus Open Evenings
   description: >-
-    Enjoy a day of hands-on practical chemistry, led by some of our final year chemistry students. Hear about cutting edge research at York and then try some experiments in the lab. You will discover how it is possible to make bioethanol for fuel from waste avocado seeds and then try it for yourself; learn how amino acids can be used to date archaeological artefacts before using state-of- the-art analysis techniques to identify some samples; and find out about reactions in our atmosphere before measuring rates of reactions using some specially built photometers.
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
 
-    The activities have been designed for GCSE students, but we welcome any secondary age students with their parents/guardians. Adults can come along without a young person, but no unaccompanied people under 18 please.
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
 
-    The event will start promptly at 10:00, but you can arrive from 09:30 (refreshments will be provided). We will finish at 14:30. There is a 45 break for lunch at 12:30; you are welcome to bring a packed lunch, or you can buy something from one of the nearby cafes or the shop in Heslington village.
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here and the Astrocampus is labelled 'Observatory'.  Acess is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
 
-    A map with the location of the Chemistry Department is available here: https://www.york.ac.uk/about/maps/campus/#chemistry.  Parking is available on-site but please be aware that this is pay and display and can be very busy.  Alternatively, the number 66 bus runs regularly to the University from the train station and city centre.  
-
-    On arrival in reception in the Chemistry Department at the University of York, follow the orange signs to C/B101 and C/B102 from where you will be directed.
-
-    Please wear clothes suitable for working in a lab: long trousers (not leggings or skirts) and fully enclosed shoes. Long hair must be tied back. If you normally wear contact lenses, please can you wear your glasses instead? Everyone will be provided with safety glasses, we have some to fit over prescription glasses. We will also provide lab coats to protect your clothes.
-
-    We look forward to seeing you for an exciting day of chemistry!
-
-    If there are any questions please direct them to chem-reach@york.ac.uk
-  url: https://www.eventbrite.co.uk/e/chemistryyork-tickets-32183346255?aff=ebapi
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-32157685503?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/28447198/47446703195/1/original.jpg?h=200&w=450&rect=140,0,438,219&s=7b17173f40dff35cee5015e1bbade4c8
-  starts: 2017-02-23T10:00:00.0000000
-  ends: 2017-02-23T14:30:00.0000000
-  venue: Department of Chemistry
-- name: 'GRASPing the Curriculum: Green Chemistry in Science Education'
-  description: "The University of York Science Education Group (UYSEG) invites you to the Spring term meeting of teachers, researchers and curriculum developers interested in the relationship between research and practice.\nGRASPing the Curriculum: Green Chemistry in Science Education\n24th February 2017\n5pm - 6.15pm\nDr Glenn Hurst is an Associate Lecturer at the Green Chemistry Centre of Excellence at the University of York and he will present how to GRASP (Green Reagents and Sustainable Processes) your curriculum. Glenn will demonstrate (with your help!) interactive hands-on activities for use with students at the primary, secondary and tertiary level. Such practical interventions are cheap and easy to implement while enabling students to consider the principles of green chemistry in the context of their studies in science education. Further to practical activities, Glenn will present ongoing work where he is developing new outreach resources for secondary school students to facilitate independent learning in green chemistry (and accompanying teacher packs). Glenn will also present a new blended learning resource to form part of a continuing professional development package for practitioners and teachers. There will be opportunities to discuss with colleagues how you could GRASP your own curriculum. All associated resources for students and teachers will be provided to attendees during the session. "
-  url: https://www.eventbrite.co.uk/e/grasping-the-curriculum-green-chemistry-in-science-education-tickets-30043359497?aff=ebapi
-  is-free: true
-  starts: 2017-02-24T17:00:00.0000000
-  ends: 2017-02-24T18:15:00.0000000
-  venue: Alcuin College Block D A/D/017
-- name: 'PS1: Manipulating images (Wed 22 Feb 15:00-16:00)'
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
+  starts: 2017-04-06T18:30:00.0000000
+  ends: 2017-04-06T19:30:00.0000000
+- name: 'Archivematica Camp: York UK'
+  description: >-
+    We're excited to announce the first Archivematica Camp being held in Europe, cohosted by the University of York and Artefactual! Inspired by similar events like Hydra Camp, Islandora Camp and Fedora Camp, Archivematica Camp is intended to provide a space for anyone interested in or currently using Archivematica to come together, learn about the platform from other users, and share their experiences. The agenda will reflect the demand of the campers, so let us know what you want to hear about and we'll do our best to accomodate your interests. 
+
+    Archivematica Camp York is a 3-day event with the first day considered optional. The offerings on the introductory day are:
+
+
+
+    Archivematica for Absolute Beginners (AM)
+
+
+
+    Archivematica and AtoM integration workflows (PM)
+
+
+
+    Advanced Archivematica Drop-In Help Clinic (all-day)
+
+
+
+    The price is inclusive of all three days. An expanded agenda is available on the Archivematica Camp York wiki page.
+
+
+    FAQs
+
+    How can I contact the organizer with any questions?
+
+    Send us an email at info@artefactual.com with the subject "Archivematica Camp York". We'll get back to you ASAP! 
+
+    What's the refund policy?
+
+    You can refund your ticket through Eventbrite until March 7th. This gives folks on the waiting list enough time to arrange their attendance and travel.
+
+    From March 8th onwards, refunds must be requested directly by emailing info@artefactual.com with the subject "Archivematica Camp York". After March 8th, we reserve the right to refuse a refund if we are unable to find someone else to pay for the spot.
+
+    Do I have to bring a printed ticket to the event?
+
+    Nope! 
+
+    Can I update my registration information?
+
+    You can update your registration information by either changing the information here on Eventbrite or by emailing us at info@artefactual.com with the subject "Archivematica Camp York". 
+
+    Is my registration fee or ticket transferrable?
+
+    Sure! If you need to transfer your ticket, just let us know who you'll be transferring it to by emailing us at info@artefactual.com with the subject "Archivematica Camp York". 
+  url: https://www.eventbrite.com/e/archivematica-camp-york-uk-registration-31851507717?aff=ebapi
+  logo: https://cdn.evbuc.com/images/28188148/201888938780/1/original.jpg?h=200&w=450&rect=0,20,640,320&s=dc554e566cb18f5c24e57ab637c300a4
+  starts: 2017-04-04T09:00:00.0000000
+  ends: 2017-04-06T17:00:00.0000000
+  venue: The Ron Cooke Hub
+- name: 'Science Things: a York Walk'
   description: >
-    These courses are for staff and students of York St. John University only.
+    Organised by the York Science Trails Group.
+
+    Join us on an accessible guided stroll and hear about people, places and things associated with York's scientific history.  From Alcuin and Atomic science to Bears, Botany and Zoos!
 
 
-    PS1: Photoshop Essentials
+    The York Science Trails Group (YSTG) meets at 12 noon on 6th Feb, 13th March, and then 2nd Monday of each month in King's Manor Refectory:    www.YorkScienceTrail.eventbrite.com     
+  url: https://www.eventbrite.co.uk/e/science-things-a-york-walk-tickets-31707393668?aff=ebapi
+  logo: https://cdn.evbuc.com/images/27937729/20328548666/1/original.jpg?h=200&w=450&rect=0,326,1684,842&s=8995ebc605d5c65f3ee49c39ae724572
+  starts: 2017-06-12T12:00:00.0000000
+  ends: 2017-06-12T13:00:00.0000000
+  venue: Yorkshire Museum (outside)
+- name: "Quantum States Tour: From the garden to the pub - Professor Irene D'Amico"
+  description: >-
+    Quantum States Tour: From the garden to the pub
 
-    Prior knowledge: None
+    Physsoc is delighted to welcome Professor Irene D'Amico from the Physics Deparment in York for a special lecture as part of the Quadra-Sci Science Week. Please join as we explore how the weirdness is quantum mechanics is much closer than you'd think and see a snippet from Professor D'Amico below:
 
-    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
-
-    This course includes:
-
-
-    Understanding the workspace
-
-    Cropping existing images
-
-    Resizing images
-
-    Saving for the Web
-
-    Understanding image formats
-
-    Using filters
-
-    Using the text tool
-
-    Handling difficult shaped images
-
-    Compositing multiple images
-
-    Saving for different uses
-
-    Adding a background
-  url: https://www.eventbrite.co.uk/e/ps1-manipulating-images-wed-22-feb-1500-1600-tickets-29778781136?aff=ebapi
+    Mmmmmmmmmm…. You probably thought that nothing was further away from quantum mechanics than a pub or a garden…. But here they come! Quantum states are going to expand their quirkiness among flowers and pints of lager. Come to listen to what would happen if familiar flowers would become quantum flowers and to marvel about the weirdness of entangled beers...And maybe learn a quantum trick or two!
+  url: https://www.eventbrite.co.uk/e/quantum-states-tour-from-the-garden-to-the-pub-professor-irene-damico-tickets-32214616786?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/26286990/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=402ab0c34f228f56e5dfa631b30711cd
-  starts: 2017-02-22T15:00:00.0000000
-  ends: 2017-02-22T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'Social Media for Postgraduates '
-  description: >
-    How do hashtags work? What is the difference between reach and shares? What is the point of Twitter?
-
-    Social media whether in terms of promoting your research, engaging with people outside of the University environment, networking or simply providing a respite from work is an increasingly interesting tool for academics and researchers. This panel event will allow you to put these questions and more to some authorities in the field.
-  url: https://www.eventbrite.co.uk/e/social-media-for-postgraduates-tickets-30921893215?aff=ebapi
-  is-free: true
-  starts: 2017-02-24T18:00:00.0000000
-  ends: 2017-03-03T20:00:00.0000000
-  venue: Berrick Saul Building
-- name: 'PS1: Manipulating images (Tue 14 Mar 10:00-11:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    PS1: Photoshop Essentials
-
-    Prior knowledge: None
-
-    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
-
-    This course includes:
-
-
-    Understanding the workspace
-
-    Cropping existing images
-
-    Resizing images
-
-    Saving for the Web
-
-    Understanding image formats
-
-    Using filters
-
-    Using the text tool
-
-    Handling difficult shaped images
-
-    Compositing multiple images
-
-    Saving for different uses
-
-    Adding a background
-  url: https://www.eventbrite.co.uk/e/ps1-manipulating-images-tue-14-mar-1000-1100-tickets-29778801196?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26287029/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=504d5992f476fce0fc319de414ec8418
-  starts: 2017-03-14T10:00:00.0000000
-  ends: 2017-03-14T11:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'PS1: Manipulating images (Mon 15 May 10:00-11:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    PS1: Photoshop Essentials
-
-    Prior knowledge: None
-
-    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
-
-    This course includes:
-
-
-    Understanding the workspace
-
-    Cropping existing images
-
-    Resizing images
-
-    Saving for the Web
-
-    Understanding image formats
-
-    Using filters
-
-    Using the text tool
-
-    Handling difficult shaped images
-
-    Compositing multiple images
-
-    Saving for different uses
-
-    Adding a background
-  url: https://www.eventbrite.co.uk/e/ps1-manipulating-images-mon-15-may-1000-1100-tickets-29778836301?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26287109/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=df7e8f8639c1a95b5fdf2760cdb1cb15
-  starts: 2017-05-15T10:00:00.0000000
-  ends: 2017-05-15T11:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'PS2: Layers and cutting out (Wed 1 Mar 15:00-16:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    PS2: Layers and cutting out
-
-    Prior knowledge: Basic skills with Photoshop
-
-    This course covers more skills in Photoshop to amend existing images by cutting objects out from the background or creating from scratch.
-
-    This course includes:
-
-
-    Using masking to cut out images
-
-    Magic wand tool
-
-    Working with layers
-
-    Clone brush
-
-    Using brushes
-
-    Using colours and gradients
-
-    Orientation of other tool
-  url: https://www.eventbrite.co.uk/e/ps2-layers-and-cutting-out-wed-1-mar-1500-1600-tickets-29779150240?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26287393/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=ce568054891928c7c36b32ee29993eff
-  starts: 2017-03-01T15:00:00.0000000
-  ends: 2017-03-01T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'ID1: InDesign Essentials (Wed 22 Mar 15:00-16:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    ID1: InDesign Essentials
-
-    Prior knowledge: None
-
-    This course provides an introduction to InDesign to produce leaflets.This course includes:
-
-
-    Understanding the workspace
-
-    Adding text and images
-
-    Wrapping text around images
-
-    Managing colours
-
-    Managing styles
-
-    Type on a path
-
-    Embedding images
-
-    Flowing longer texts
-
-    Saving and exporting
-  url: https://www.eventbrite.co.uk/e/id1-indesign-essentials-wed-22-mar-1500-1600-tickets-29784338759?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26291981/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=753aa57ba6f1822a86fcaa21d93c139d
-  starts: 2017-03-22T15:00:00.0000000
-  ends: 2017-03-22T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'EX3: Using Excel formulae (Thu 11 May 10:00-11:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    EX3: Manipulating data using formulae 
-
-    Prior knowledge: A good knowledge of common Excel features
-
-    This course will help you understand and build more complex formulae to create active worksheets.
-
-    Open Badge Available - Excel: Manipulating data using formulae
-
-    This course includes:
-
-
-    Understanding different cell references
-
-    Using named ranges
-
-    Order of evaluation for formulae
-
-    Using IF and CountIf formulae
-
-    Using concatenate (&)
-
-    String manipulation using Left, right, mid, len
-
-    Different types of pasting
-  url: https://www.eventbrite.co.uk/e/ex3-using-excel-formulae-thu-11-may-1000-1100-tickets-29815239183?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26322956/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=fc6605b124fa029368c620002cf160e1
-  starts: 2017-05-11T10:00:00.0000000
-  ends: 2017-05-11T11:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'PS2: Layers and cutting out (Mon 22 May 10:00-11:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    PS2: Layers and cutting out
-
-    Prior knowledge: Basic skills with Photoshop
-
-    This course covers more skills in Photoshop to amend existing images by cutting objects out from the background or creating from scratch.
-
-    This course includes:
-
-
-    Using masking to cut out images
-
-    Magic wand tool
-
-    Working with layers
-
-    Clone brush
-
-    Using brushes
-
-    Using colours and gradients
-
-    Orientation of other tool
-  url: https://www.eventbrite.co.uk/e/ps2-layers-and-cutting-out-mon-22-may-1000-1100-tickets-29817054613?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26325327/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=9ae043f1edd98e2f9ef016ebf690b758
-  starts: 2017-05-22T10:00:00.0000000
-  ends: 2017-05-22T11:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'PS1: Manipulating images (Wed 12 Apr 13:30-14:30)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    PS1: Photoshop Essentials
-
-    Prior knowledge: None
-
-    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
-
-    This course includes:
-
-
-    Understanding the workspace
-
-    Cropping existing images
-
-    Resizing images
-
-    Saving for the Web
-
-    Understanding image formats
-
-    Using filters
-
-    Using the text tool
-
-    Handling difficult shaped images
-
-    Compositing multiple images
-
-    Saving for different uses
-
-    Adding a background
-  url: https://www.eventbrite.co.uk/e/ps1-manipulating-images-wed-12-apr-1330-1430-tickets-29778818247?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26287063/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=0fceb146defe32e1bb7b37609f5c1dea
-  starts: 2017-04-12T13:30:00.0000000
-  ends: 2017-04-12T14:30:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'PS1: Manipulating images (Thu 8 Jun 14:00-15:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    PS1: Photoshop Essentials
-
-    Prior knowledge: None
-
-    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
-
-    This course includes:
-
-
-    Understanding the workspace
-
-    Cropping existing images
-
-    Resizing images
-
-    Saving for the Web
-
-    Understanding image formats
-
-    Using filters
-
-    Using the text tool
-
-    Handling difficult shaped images
-
-    Compositing multiple images
-
-    Saving for different uses
-
-    Adding a background
-  url: https://www.eventbrite.co.uk/e/ps1-manipulating-images-thu-8-jun-1400-1500-tickets-29778862379?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26287136/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=6d306d0ed756515f0efdf82dcc387f0b
-  starts: 2017-06-08T14:00:00.0000000
-  ends: 2017-06-08T15:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'PS2: Layers and cutting out (Tue 21 Mar 10:00-11:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    PS2: Layers and cutting out
-
-    Prior knowledge: Basic skills with Photoshop
-
-    This course covers more skills in Photoshop to amend existing images by cutting objects out from the background or creating from scratch.
-
-    This course includes:
-
-
-    Using masking to cut out images
-
-    Magic wand tool
-
-    Working with layers
-
-    Clone brush
-
-    Using brushes
-
-    Using colours and gradients
-
-    Orientation of other tool
-  url: https://www.eventbrite.co.uk/e/ps2-layers-and-cutting-out-tue-21-mar-1000-1100-tickets-29779184342?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26287426/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=4021998f1a3b96bfc5e8fe564f4d5fdf
-  starts: 2017-03-21T10:00:00.0000000
-  ends: 2017-03-21T11:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'ID2: Speeding up production (Wed 29 Mar 15:00-16:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    ID2: Speeding up production
-
-    Prior knowledge: Basic skills with InDesign equivalent to Indesign1
-
-    This course adds features aimed at handling more documents in InDesign. We will look at setting up styles to maintain consistency, using master pages to provide constent backgrounds and libraries to gain quick access to to commonly used objects.
-
-    This course includes:
-
-
-    Using master pages
-
-    Headers and footers
-
-    Using layers
-
-    Guides, rulers and tabs
-
-    Using a library
-
-    Page numbers and references
-  url: https://www.eventbrite.co.uk/e/id2-speeding-up-production-wed-29-mar-1500-1600-tickets-29784462128?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26292183/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=6788e7e77d36835723da8daa8d4164eb
-  starts: 2017-03-29T15:00:00.0000000
-  ends: 2017-03-29T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'IL1: Illustrator Essentials (Wed 26 Apr 15:00-16:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    IL1: Illustrator Essentials
-
-    Prior knowledge: None
-
-    Adobe Illustrator works with scalable vector objects and is often used to produce logos, fliers or posters.
-
-    This course provides an introduction to Adobe Illustrator manipulating text and shapes to create a flier.
-
-    This course includes:
-
-
-    Introduction to the screen layout
-
-    Vector vs bitmap
-
-    Manipulating simple paths and shapes
-
-    Adding text
-
-    Controlling colours and lines
-
-    Alignment of items
-  url: https://www.eventbrite.co.uk/e/il1-illustrator-essentials-wed-26-apr-1500-1600-tickets-29784662728?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26292358/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=7bfe8ecc15d3af3d55ceb7574bde825e
-  starts: 2017-04-26T15:00:00.0000000
-  ends: 2017-04-26T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'IL2: Layers, artboards and curves (Wed 3 May 15:00-16:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    IL2: Layers, artboards and curves
-
-    Prior knowledge: Basic skills with Illustrator
-
-    This course extends the use of Illustrator to multiple layers and artboards. More sophisticated options for colour and paths as well as export options are covered.
-
-    This course includes:
-
-
-    Manipulating paths and curves
-
-    Layers and artboards
-
-    Using gradients
-
-    Understanding colour spaces
-
-    File formats
-
-    Other text options
-  url: https://www.eventbrite.co.uk/e/il2-layers-artboards-and-curves-wed-3-may-1500-1600-tickets-29784864331?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26292619/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=3e0facc3fe9a1e38486ea6e4b79d736e
-  starts: 2017-05-03T15:00:00.0000000
-  ends: 2017-05-03T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'WO1: Word Essentials (Tue 25 Apr 14:00-15:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    WO1: Essentials
-
-    Prior knowledge: None
-
-    Open Badge Available - Word Essentials
-
-    This course will introduce the basic features of Word to give a good grounding in how to manage documents easily.
-
-    This course includes:
-
-
-    Changing the appearance of text 
-
-    Copying styles using the format painter 
-
-    Using spell check 
-
-    Controlling page breaks 
-
-    Using cut, copy and paste effectively 
-
-    Adding and manipulating pictures 
-
-    Saving and version control 
-
-    Zooming and changing the document views 
-
-    Using a coloured background  
-
-    Setting up pages and margins 
-
-    Adding basic page numbering  
-
-    Setting tabs on the ruler
-  url: https://www.eventbrite.co.uk/e/wo1-word-essentials-tue-25-apr-1400-1500-tickets-29785030829?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26292903/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=28b8b7ccb6b24622adc1855ff0e05ab5
-  starts: 2017-04-25T14:00:00.0000000
-  ends: 2017-04-25T15:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'WO2: Essay & dissertation skills (Tue 2 May 14:00-15:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    WO2: Essay & dissertation skills
-
-    Prior knowledge: Basic Word skills equivalent to Word1
-
-    Open Badge Available - Word: Essay and Dissertation Skills
-
-    This course focuses on writing academic essays in Word. Making the most of Word features to control page breaks, numbering and automatic table of contents.
-
-    This course includes:
-
-
-    Applying and amending heading styles 
-
-    Automatic table of contents 
-
-    Showing hidden formatting marks 
-
-    Making sections start on a new page 
-
-    Adding headers and footers 
-
-    Using section breaks to change page number styles 
-
-    Using languages, spelling and grammar check 
-
-    Checking word count 
-
-    Using the navigation pane 
-
-    Search and replace 
-
-    Controlling line spacing 
-
-    Adding captions
-  url: https://www.eventbrite.co.uk/e/wo2-essay-dissertation-skills-tue-2-may-1400-1500-tickets-29785566431?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26293444/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=e6511063f3a34f81179a472fd0ba04eb
-  starts: 2017-05-02T14:00:00.0000000
-  ends: 2017-05-02T15:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'WO3: Layout in Word (Tue 9 May 14:00-15:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    WO3: Layout in Word
-
-    Prior knowledge: A good knowledge of common Word features  
-
-    Open Badge Available: Word Professional Layout 
-
-    This course focuses on techniques to create professional looking documents quickly as well as understanding the tools needed to provide visually appealing work. 
-
-    This course includes:  
-
-
-    Text boxes, smart art and shapes 
-
-    More about language settings and spell check 
-
-    Formatting tables 
-
-    Adding hyperlinks 
-
-    Creating PDFs 
-
-    Aligning items using complex tabs on the ruler 
-
-    Working with themes 
-  url: https://www.eventbrite.co.uk/e/wo3-layout-in-word-tue-9-may-1400-1500-tickets-29785709860?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26293556/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=9ee629373dfc470df325c4b2a48b6ab8
-  starts: 2017-05-09T14:00:00.0000000
-  ends: 2017-05-09T15:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'EX1: Excel Essentials (Mon 27 Feb 13:30-14:30)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    EX1: Essentials
-
-    Prior knowledge: None
-
-    Open Badge Available - Excel Essentials
-
-    This course will introduce the concepts and basic tools of Excel providing a sound basis to begin making and using Excel sheets.
-
-    This course includes:
-
-
-    Storing data and formatting numbers
-
-    Changing the appearance of cells and copying formats  
-
-    Copying formats and formulae
-
-    Performing calculations
-
-    Using sum and average
-
-    Freezing titles
-
-    Defining a print area
-
-    Sorting and filtering data.
-
-    Moving cells
-
-    Saving work
-
-    Undo
-
-    Help
-
-    Modifying clip art, smart art and images
-  url: https://www.eventbrite.co.uk/e/ex1-excel-essentials-mon-27-feb-1330-1430-tickets-29786549371?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26294279/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=5eb42c014133b257125a71eef259e146
-  starts: 2017-02-27T13:30:00.0000000
-  ends: 2017-02-27T14:30:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'EX1: Excel Essentials (Thu 27 Apr 10:00-11:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    EX1: Essentials
-
-    Prior knowledge: None
-
-    Open Badge Available - Excel Essentials
-
-    This course will introduce the concepts and basic tools of Excel providing a sound basis to begin making and using Excel sheets.
-
-    This course includes:
-
-
-    Storing data and formatting numbers
-
-    Changing the appearance of cells and copying formats  
-
-    Copying formats and formulae
-
-    Performing calculations
-
-    Using sum and average
-
-    Freezing titles
-
-    Defining a print area
-
-    Sorting and filtering data.
-
-    Moving cells
-
-    Saving work
-
-    Undo
-
-    Help
-
-    Modifying clip art, smart art and images
-  url: https://www.eventbrite.co.uk/e/ex1-excel-essentials-thu-27-apr-1000-1100-tickets-29786603533?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26294339/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=9daa572e0d946d426f2e7e8cd84dbba2
-  starts: 2017-04-27T10:00:00.0000000
-  ends: 2017-04-27T11:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'EX2: Making sense of Excel data (Mon 6 Mar 13:30-14:30)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    EX2: Making sense of Excel data
-
-    Prior knowledge: Basic Excel skills equivalent to Excel1
-
-    Open badge available - Excel: Making sense of data
-
-    This course builds on Excel1 to make spreadsheets that are more robust for data entry and that help to analyse the data that they hold.
-
-    This course includes:
-
-
-    Using conditional formatting to highlight data
-
-    Validating entries using lists
-
-    Using Sparklines to show trends
-
-    Using tables to display data
-
-    Managing sheets, columns and windows
-
-    Using custom cell formats
-  url: https://www.eventbrite.co.uk/e/ex2-making-sense-of-excel-data-mon-6-mar-1330-1430-tickets-29786811154?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26294546/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=b679556a5a6ad6126e48d97f455d8587
-  starts: 2017-03-06T13:30:00.0000000
-  ends: 2017-03-06T14:30:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'EX2: Making sense of Excel data (Thu 4 May 10:00-11:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    EX2: Making sense of Excel data
-
-    Prior knowledge: Basic Excel skills equivalent to Excel1
-
-    Open badge available - Excel: Making sense of data
-
-    This course builds on Excel1 to make spreadsheets that are more robust for data entry and that help to analyse the data that they hold.
-
-    This course includes:
-
-
-    Using conditional formatting to highlight data
-
-    Validating entries using lists
-
-    Using Sparklines to show trends
-
-    Using tables to display data
-
-    Managing sheets, columns and windows
-
-    Using custom cell formats
-  url: https://www.eventbrite.co.uk/e/ex2-making-sense-of-excel-data-thu-4-may-1000-1100-tickets-29787092997?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26294898/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=75c2f5466755b951f193b104d7c565e3
-  starts: 2017-05-04T10:00:00.0000000
-  ends: 2017-05-04T11:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'EX3: Using Excel formulae (Mon 13 Mar 15.00-16.00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    EX3: Manipulating data using formulae 
-
-    Prior knowledge: A good knowledge of common Excel features
-
-    This course will help you understand and build more complex formulae to create active worksheets.
-
-    Open Badge Available - Excel: Manipulating data using formulae
-
-    This course includes:
-
-
-    Understanding different cell references
-
-    Using named ranges
-
-    Order of evaluation for formulae
-
-    Using IF and CountIf formulae
-
-    Using concatenate (&)
-
-    String manipulation using Left, right, mid, len
-
-    Different types of pasting
-  url: https://www.eventbrite.co.uk/e/ex3-using-excel-formulae-mon-13-mar-1500-1600-tickets-29815227147?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26322919/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=f953a05fbeb149e8bbebfc417df34f98
-  starts: 2017-03-13T15:00:00.0000000
-  ends: 2017-03-13T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'EX4: Excel Pivot tables (Thu 18 May 10:00-11:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    EX4: Excel pivot tables
-
-    Prior knowledge: A good knowledge of common Excel features
-
-    Pivot tables can be used to summarise large tables of data in Excel#
-
-    This course includes:
-
-
-    Formatting data for Pivot tables
-
-    Creating Pivot tables
-
-    Basic Pivot controls
-
-    Adding calculated fields
-
-    Sorting and sifting
-
-    Highlighting cells using conditional formatting
-
-    Pivot charts
-
-    Printing a Pivot table
-  url: https://www.eventbrite.co.uk/e/ex4-excel-pivot-tables-thu-18-may-1000-1100-tickets-29815289333?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26322998/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=2beaef886ed07ea745cfdb43da2bb223
-  starts: 2017-05-18T10:00:00.0000000
-  ends: 2017-05-18T11:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'EX4: Excel Pivot tables (Mon 20 Mar 13:30-14:30)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    EX4: Excel pivot tables
-
-    Prior knowledge: A good knowledge of common Excel features
-
-    Pivot tables can be used to summarise large tables of data in Excel#
-
-    This course includes:
-
-
-    Formatting data for Pivot tables
-
-    Creating Pivot tables
-
-    Basic Pivot controls
-
-    Adding calculated fields
-
-    Sorting and sifting
-
-    Highlighting cells using conditional formatting
-
-    Pivot charts
-
-    Printing a Pivot table
-  url: https://www.eventbrite.co.uk/e/ex4-excel-pivot-tables-mon-20-mar-1330-1430-tickets-29815326444?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26323071/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=277fbbbb38cddd030fe535ef79e20158
-  starts: 2017-03-20T13:30:00.0000000
-  ends: 2017-03-20T14:30:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'PT1: Comparing presentation tools (Wed 10 May 15:00-16:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    PT1: Comparing presentation tools
-
-    Prior knowledge: None
-
-    Open Badge Available - Presentation skills
-
-    In this course we will consider three different presentation tools and what makes a good presentation.
-
-    This course includes:
-
-
-    What makes a good presentation
-
-    Powerpoint tips
-
-    A quick tour of Prezi
-
-    Introduction to sway
-  url: https://www.eventbrite.co.uk/e/pt1-comparing-presentation-tools-wed-10-may-1500-1600-tickets-29816870061?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26325025/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=c218aa58c08d2e12980e2f9b2e42a8e7
-  starts: 2017-05-10T15:00:00.0000000
-  ends: 2017-05-10T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'PP1: PowerPoint Essentials (Wed 24 May 15:00-16:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    PP1: PowerPoint Essentials
-
-    Prior knowledge: None
-
-    This course will enable you to create basic PowerPoint presentations. As well as understanding the PowerPoint skills we will discuss what makes a powerful presentation.
-
-    This course includes:
-
-
-    Inserting new slides
-
-    Adding text and changing styles
-
-    Adding pictures
-
-    Playing slide shows
-
-    Rearranging slides
-
-    Simple animations and transitions
-
-    Printing notes
-
-    Checking spellings
-  url: https://www.eventbrite.co.uk/e/pp1-powerpoint-essentials-wed-24-may-1500-1600-tickets-29816950301?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26325173/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=d7e4994f1789a38d989cee8360692f10
-  starts: 2017-05-24T15:00:00.0000000
-  ends: 2017-05-24T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'PR1: Prezi Essentials (Wed 17 May 15:00-16:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    PR1: Prezi Essentials
-
-    Prior knowledge: None
-
-    Prezi allows presentations to be created on a large canvas and then views are created to zoom into different parts to create the equivalent of slides.
-
-    This course includes:
-
-
-    An overview of Prezi
-
-    Using a template
-
-    Adding text and images
-
-    Creating slides
-
-    Sharing options
-
-    Importing from PowerPoint
-  url: https://www.eventbrite.co.uk/e/pr1-prezi-essentials-wed-17-may-1500-1600-tickets-29817007472?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26325266/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=47484e9816faa8cba79e7d1c5d2bf74c
-  starts: 2017-05-17T15:00:00.0000000
-  ends: 2017-05-17T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'WP1: WordPress Essentials (Thu 23 Mar 14:00-15:00)'
-  description: >
-    These courses are for staff and students of York St. John University only.
-
-
-    WP1: WordPress Essentials
-
-    Prior knowledge: None
-
-    WordPress is a popular blogging platform and York St John University has its own implementation which allows every member of the University to have an account and host a personal blog or website.
-
-    This course includes:
-
-
-    Understanding the dashboard
-
-    Adding blog posts and pages
-
-    Changing the theme
-
-    Working with comments
-
-    Embedding audio and video
-
-    Finding copyright cleared images
-  url: https://www.eventbrite.co.uk/e/wp1-wordpress-essentials-thu-23-mar-1400-1500-tickets-29818042568?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26326583/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2354,1177&s=e5b719f75661f74faa4e996bbf888762
-  starts: 2017-03-23T14:00:00.0000000
-  ends: 2017-03-23T15:00:00.0000000
-  venue: ILS Training area (outside FT/120)
+  logo: https://cdn.evbuc.com/images/28508517/148307828230/1/original.jpg?h=200&w=450&rect=0,206,1600,800&s=f7b1c61bb107fa778657843e6a4a6ec5
+  starts: 2017-03-08T19:00:00.0000000
+  ends: 2017-03-08T20:00:00.0000000
+  venue: P/X/001
 - name: 'York Science Trail: 6th February 2017 and then 12 noon on 2nd Monday of each month'
   description: "                   York  Science  Trail:   a new project\n\n                             Diversifying  York's  history \nvia Science, Technology, Engineering,  Medicine and  Mathematics.\n\n                        Will you or your group(s) get involved ?\n\nNB: February meeting will now be on Feb 6th, NOT Feb 13th\n\nOpen Meetings: Jan 9th, Feb 6th, March 13th\n12 noon; 2nd Mondays; King’s Manor Refectory\n                             email  JOHN BIBBY    jb43@york.ac.uk\n                                 \n\n===================\n                                    MORE  DETAILS  FOLLOWING  SOON!\n\n\n\n\n====   SEE BELOW FOR TEXT RELATING TO OUR FIRST MEETING ON 5 DECEMBER:\nThis is an OPEN meeting to discuss a proposed Science Trail for York. Please sign up if you are interested, even if you cannot come to the meeting. And tell your friends!\nDetails to follow: an aim is to eventually include all science-related places in York.\nWhat is \"Science\"?  We take a broad definition. It certainly includes all of \"STEMM\": Science, Technology, Engineering, Medicine and Mathematics.\nWhat do we mean by \"York\"?  Again, our definition is broad. We can include outliers such as Cayley/ Scarborough/ Whitby/ Castle Howard etc.. However, initially we shall focus on places walkable from York city centre. Examples are below. But if you want to include something else, please join us! \nHow will this get published? All avenues are possible. Online, on-paper, on-air. Apps and baps and flaps. We want to rach and energise as many people as possible.\nWho is behind this? If the idea fails, you can blame John Bibby. If it succeeds, there will be many parents! So far we have had welcome inputs from the Yorkshire Philosophical Society, U3A, York Past and Present, Timeline York, York Bus Forum, local history societies and even a few schools and universities  I am sure we will get many more!\nPlease give some examples.  Some locations will be well-known, such as:\n\nCholera burial-ground\nNational Railway Museum\nTreasurer’s House\n\nBut we will also include lesser-known places & stories such as Thomas Laycock and the People’s Dispensary. I’d like all Local History groups to provide suggestions for inclusion from their local areas.\nOne idea is for the trail to zigzag round the city walls in a clockwise direction, starting and finish at the railway station. Plans are still at an early stage. The first thing to do is to develop a list of possible points on the trail, along with a list of potential partner organisations and individuals. Please volunteer or let John Bibby have your nominations for both of these lists.\nJohn can be contacted via jb43@york.ac.uk or on 01904-330334.\nPlease forward this link to anyone who might be interested!"
   url: https://www.eventbrite.co.uk/e/york-science-trail-6th-february-2017-and-then-12-noon-on-2nd-monday-of-each-month-tickets-30126949517?aff=ebapi
@@ -1192,60 +228,6 @@
   starts: 2017-03-13T12:00:00.0000000
   ends: 2017-03-13T13:00:00.0000000
   venue: Kings Manor Refectory (by Art Gallery)
-- name: Microsoft Excel Intermediate Course
-  description: >-
-    Microsoft Excel Intermediate
-
-    Once you have used Excel and need to go beyond the basics you will want to learn features which increase the power, impact and versatility of your spreadsheets.
-
-    This is a one day, hands-on, practical course delivered by an experienced trainer. The course guides the learner through additional Excel techniques to enable users to see and apply Excel as an all-round business tool.
-
-    For more details visit our course outline and please do not hesitate to contact us if you have any questions.
-  url: https://www.eventbrite.co.uk/e/microsoft-excel-intermediate-course-tickets-31022383785?aff=ebapi
-  logo: https://cdn.evbuc.com/images/27168880/133451304473/1/original.jpg?h=200&w=450&rect=0,0,968,484&s=b9f84e20ebf4dc90b1f7f7fbe5194ce6
-  starts: 2017-03-01T09:00:00.0000000
-  ends: 2017-03-01T16:30:00.0000000
-  venue: York
-- name: Microsoft Excel Advanced Course
-  description: >-
-    Microsoft Excel Advanced
-
-    Once you have used Excel for a couple of years and can produce spreadsheets with relative ease you may still feel that there are several features you need to learn to increase your productivity. This is a hands-on practical course delivered by an experienced trainer.
-
-    At the end of the day learners will be able to perform additional Advanced Worksheet, Workbook and Chart operations.
-
-    For more details visit our course outline and please do not hesitate to contact us if you have any questions.
-  url: https://www.eventbrite.co.uk/e/microsoft-excel-advanced-course-tickets-31025499103?aff=ebapi
-  logo: https://cdn.evbuc.com/images/27170354/133451304473/1/original.jpg?h=200&w=450&rect=0,0,968,484&s=350fc41843d0631cabbb6670a737c345
-  starts: 2017-03-02T09:00:00.0000000
-  ends: 2017-03-02T16:30:00.0000000
-  venue: York
-- name: Introduction to PowerShell for IT Professionals
-  description: >-
-    PowerShell Introduction for IT Professionals
-
-    Learn from ground up, from the basics from “what is a cmdlet?” through to discovering all about objects, modules and remoting to get the most out of these technologies. Lots of hands-on exposure is the key to learning this technology, so students should have experience using the Windows command prompt (cmd.exe), but not necessarily PowerShell.
-
-    For more details visit our course outline and please do not hesitate to contact us if you have any questions.
-  url: https://www.eventbrite.co.uk/e/introduction-to-powershell-for-it-professionals-tickets-31025700706?aff=ebapi
-  logo: https://cdn.evbuc.com/images/27170968/133451304473/1/original.jpg?h=200&w=450&rect=0,0,968,484&s=fa62ffb1a0a98cded8654d992245825e
-  starts: 2017-03-23T09:00:00.0000000
-  ends: 2017-03-24T16:30:00.0000000
-  venue: York
-- name: Advanced PowerShell Masterclass
-  description: >-
-    Advanced PowerShell Masterclass
-
-    Ever wanted to automate your network? Don’t know how? This course takes novice PowerShell IT professionals and turns them into scripting ninjas!
-
-    You will learn why it’s not always OK to copy and paste scripts from the Internet. Or rather, how to understand scripts you’ve found and turn them into more meaningful scripts you can use in your organisation. You will learn how to create modules, functions and scripts, how to sign and share them, and how to debug them if things go wrong.
-
-    For more details visit our course outline and please do not hesitate to contact us if you have any questions.
-  url: https://www.eventbrite.co.uk/e/advanced-powershell-masterclass-tickets-31026073822?aff=ebapi
-  logo: https://cdn.evbuc.com/images/27171237/133451304473/1/original.jpg?h=200&w=450&rect=0,0,968,484&s=f951c2d40350434094c1d4f92b94963e
-  starts: 2017-03-22T09:00:00.0000000
-  ends: 2017-03-23T16:30:00.0000000
-  venue: York
 - name: MTA Networking Fundamentals
   description: >-
     MTA Networking Fundamentals
@@ -1346,3 +328,100 @@
   starts: 2017-06-14T09:00:00.0000000
   ends: 2017-06-16T16:30:00.0000000
   venue: York
+- name: Microsoft VBA Excel Course
+  description: >-
+    Microsoft Excel VBA
+
+    A one day course design to get you started with VBA / Excel Macros. This course is designed to teach experienced users of Excel how to automate spreadsheets.
+
+    For more details visit our course outline and please do not hesitate to contact us if you have any questions.
+  url: https://www.eventbrite.co.uk/e/microsoft-vba-excel-course-tickets-31092501509?aff=ebapi
+  logo: https://cdn.evbuc.com/images/27247238/133451304473/1/original.jpg?h=200&w=450&rect=0,0,968,484&s=7435dbe8bd6a621416281d6951d1ae87
+  starts: 2017-04-04T09:00:00.0000000
+  ends: 2017-04-04T16:30:00.0000000
+  venue: York
+- name: Windows Server 2016 - What's New?
+  description: >-
+    Windows Server 2016 - What's New?
+
+    Designed for IT Professionals who need to get up to speed on what is on offer in the latest release of Microsoft’s powerful server operating system.
+
+    Offering a slew of new features, IT administrators will want to hit the ground running after having learned more about what Windows Server 2016 can bring to their environment.
+
+    Designed by experienced MVPs to help IT Pros get up to speed with new features in Windows Server 2016. The course explores new areas in Microsoft’s new ground breaking release of Windows Server, and shows how you can leverage technologies such as containers and Nano Server to full effect on your network.
+
+    For more details visit our course outline and please do not hesitate to contact us if you have any questions.
+  url: https://www.eventbrite.co.uk/e/windows-server-2016-whats-new-tickets-31092631899?aff=ebapi
+  logo: https://cdn.evbuc.com/images/27247437/133451304473/1/original.jpg?h=200&w=450&rect=0,0,970,485&s=f9b087fa3fdd2d26e4cdaec8af22b971
+  starts: 2017-03-27T09:00:00.0000000
+  ends: 2017-03-28T16:30:00.0000000
+  venue: York
+- name: VMware vSphere 6.0 Masterclass
+  description: >-
+    VMware vSphere 6.0 Masterclass
+
+    A hands on approach to building a VMware cluster from scratch. Taking bare metal through to a full deployment of a VMware ESXi 6.0, vCenter 6.0 management server and connecting this environment to an iSCSI/NFS target.
+
+    Designing and building a highly available platform to run virtual machines. Real life experiences and expertise given from on the job experience.
+
+    For more details visit our course outline and please do not hesitate to contact us if you have any questions.
+  url: https://www.eventbrite.co.uk/e/vmware-vsphere-60-masterclass-tickets-31880537546?aff=ebapi
+  logo: https://cdn.evbuc.com/images/28095081/133451304473/1/original.jpg?h=200&w=450&rect=0,0,322,161&s=461edcba280d0ef888ddaae04bb94eb4
+  starts: 2017-05-15T09:00:00.0000000
+  ends: 2017-05-16T16:30:00.0000000
+  venue: York
+- name: The Hunt for Alien Life
+  description: >-
+    Join us at the University of York Astrocampus to explore the night skies and find out more about the hunt for alien life.  
+
+     With short talks and hands-on activities, find out more about the secrets of the red planet and the search for life on exoplanets around other stars.  PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes.  
+
+    The event is family-friendly.   
+
+    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
+  url: https://www.eventbrite.co.uk/e/the-hunt-for-alien-life-tickets-32296758474?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/28601438/133368849299/1/original.jpg?h=200&w=450&rect=0,8,960,480&s=6d77a912c6a11c9e5f676c1451330ab1
+  starts: 2017-03-13T18:00:00.0000000
+  ends: 2017-03-13T19:30:00.0000000
+  venue: Astrocampus
+- name: Shooting Stars!
+  description: >-
+    Ever seen a shooting star?  Now is your chance to handle one!  Join us at the University of York Astrocampus to explore the night skies and find out more about shooting stars: meteors.  Should we be worried about these rocks from space that wiped out the dinosaurs?  What would happen if one landed in York?  Experiment with computer simulations and make your own meteor to take home!  PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes.  
+
+    The event is family-friendly.  
+
+    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
+  url: https://www.eventbrite.co.uk/e/shooting-stars-tickets-32296836708?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/28601512/133368849299/1/original.jpg?h=200&w=450&rect=0,265,1752,876&s=d5fd72bc9b82127112e525175216b0e5
+  starts: 2017-03-14T18:00:00.0000000
+  ends: 2017-03-14T19:30:00.0000000
+  venue: Astrocampus
+- name: Seeing the Invisible
+  description: >2
+
+    Join us at the University of York Astrocampus to explore the night skies and find out more about how Astronomers are uncovering the mysteries of space using not just the light that we can see, but the light that we can't! With special cameras, glasses and beads, try out hands-on activities to find out about how space telescopes work. PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes.  
+
+    The event is family-friendly.    
+
+    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
+  url: https://www.eventbrite.co.uk/e/seeing-the-invisible-tickets-32296877831?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/28601574/133368849299/1/original.jpg?h=200&w=450&rect=0,100,906,453&s=97d0ce9ef9ab30c0dc666416f7a86366
+  starts: 2017-03-15T18:00:00.0000000
+  ends: 2017-03-15T19:30:00.0000000
+  venue: Astrocampus
+- name: 'Tim Peake: Mission Update'
+  description: >-
+    Join us at the University of York Astrocampus to explore the night skies and discover more about British Astronaut Tim Peake's mission aboard the International Space Station. Now that Tim is safely back on Earth you can find out about the science he did and about how the human body reacts to being in space, as well as trying activities that push you to 'Train Like an Astronaut'. PLUS take the opportunity to look round the observatory and, weather permitting, explore the wonders of space through our top of the range telescopes.  
+
+    The event is family-friendly.   
+
+    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
+  url: https://www.eventbrite.co.uk/e/tim-peake-mission-update-tickets-32296911933?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/28601622/133368849299/1/original.jpg?h=200&w=450&rect=0,30,736,368&s=b170c0c4b67ace1f66d14d53e7d3ad70
+  starts: 2017-03-16T18:00:00.0000000
+  ends: 2017-03-16T19:30:00.0000000
+  venue: Astrocampus
