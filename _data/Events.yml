@@ -425,13 +425,6 @@
   starts: 2017-03-16T18:00:00.0000000
   ends: 2017-03-16T19:30:00.0000000
   venue: Astrocampus
-- name: Meet for Code and Coffee
-  url: https://www.meetup.com/York-Code-Coffee/events/237566339/
-  is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-02-27T07:00:00.0000000
-  ends: 2017-02-27T10:00:00.0000000
-  venue: The Perky Peacock
 - name: '#graduatenetworking with the leading tech professionals'
   description: '<p>#graduatenetworking</p> <p>We are delighted to announce our next GradBoss networking event which will take place on Tuesday 28th February 2016. GradBoss has been designed to bring together students who have a keen interest in IT with leaders in the IT sector.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?</b></p> <p>GradBoss is hosted by Jonathan Sanderson, Managing Director at Corecom Consulting.  The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:<br/>· a brief intro and welcome from Jonathan<br/>· discussions and speeches from IT experts with backgrounds in Software Development, Software Testing, Data and Business Intelligence<br/>· a talk on how to design a creative portfolio and enhancing your employability<br/>· a break for food and drink, and further networking opportunities<br/>· a talk from an industry expert, along with a technical example of a product currently on the market<br/>· event round-up and a brief thank you at 8.30pm<br/>· drinks and networking to finish</p> <p><b>WHO ATTENDS?</b></p> <p>Aspiring IT students interested in pursuing a successful career in IT.</p> <p>Leaders within the IT industry, including professionals with backgrounds in Software Testing, Software Development, Data, Business Intelligence. This is an invitation-only event organised and held by Corecom Consulting, Yorkshire’s fastest growing IT recruitment specialist.</p> <p><b>WHAT YOU’LL COME AWAY WITH</b></p> <p>“This is a fantastic opportunity for students/recent graduates to speak with potential employers, ask for advice and gain precious insights into what will be expected when going into work straight from university.</p> <p>“I am confident that each attendee will take away invaluable information from employers who have vast experience in all IT disciplines.”</p> '
   url: https://www.meetup.com/GradBOSS-Graduate-networking-with-tech-professionals/events/237040481/
@@ -454,7 +447,14 @@
   starts: 2017-03-01T18:30:00.0000000
   ends: 2017-03-10T21:00:00.0000000
   venue: Callcredit Information Group Limited
-- name: Meet for Code and Coffee
+- name: Meet for Code and Coffee in York
+  url: https://www.meetup.com/York-Code-Coffee/events/237566339/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-03-01T07:00:00.0000000
+  ends: 2017-03-01T10:00:00.0000000
+  venue: The Perky Peacock
+- name: Meet for Code and Coffee in York
   url: https://www.meetup.com/York-Code-Coffee/events/237925562/
   is-free: true
   logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
@@ -477,8 +477,8 @@
   starts: 2017-03-02T18:00:00.0000000
   ends: 2017-03-02T21:00:00.0000000
   venue: Sky 2
-- name: Meet for Code and Coffee
-  url: https://www.meetup.com/York-Code-Coffee/events/zvxhpmywfbjb/
+- name: Meet for Code and Coffee in York
+  url: https://www.meetup.com/York-Code-Coffee/events/238022195/
   is-free: true
   logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
   starts: 2017-03-06T07:00:00.0000000
@@ -506,7 +506,7 @@
   starts: 2017-03-08T18:30:00.0000000
   ends: 2017-03-08T21:00:00.0000000
   venue: Room FT/211 York St John University
-- name: Meet for Code and Coffee
+- name: Meet for Code and Coffee in York
   url: https://www.meetup.com/York-Code-Coffee/events/237755119/
   is-free: true
   logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
@@ -528,6 +528,13 @@
   starts: 2017-03-08T18:00:00.0000000
   ends: 2017-03-08T21:00:00.0000000
   venue: Cross Keys Pub, Leeds
+- name: Meet for Code and Coffee in York
+  url: https://www.meetup.com/York-Code-Coffee/events/238022197/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-03-13T07:00:00.0000000
+  ends: 2017-03-13T10:00:00.0000000
+  venue: The Perky Peacock
 - name: What can an engineer learn from biology?
   description: by Prof Jon Timmis, Department of Electronics, University of York
   url: http://www.ypsyork.org/events/engineer-biology/
