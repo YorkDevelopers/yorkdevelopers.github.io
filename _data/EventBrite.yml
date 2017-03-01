@@ -19,30 +19,6 @@
   starts: 2017-03-31T09:30:00.0000000
   ends: 2017-03-31T15:00:00.0000000
   venue: The Hive
-- name: CyVerseUK Workshop
-  description: "\n\n\n\nCyVerseUK Workshop: Bioinformatic Tools for Biologists\nThis meeting is focused on researchers who are either toward the beginning of their studies or have moved onto a new subject area. We will provide a hands-on sessions that will describe the use of software tools that can interrogate RNAseq, imaging, gene expression or GWAS data. Importantly previous users will provide real-life examples of how the software has been successfully used. In a change to the original plan this are the only sessions we will now be offering. \nThese software tools have been developed as part of the CyVerseUK grant (www.cyverseuk.org). We will also highlight the opportunities that exist for the sharing of big data in a meaningful manner. \nThis workshop is organised by GARNet with Professor Katherine Denby at the University of York. \n\n\n\n\nDay 1: Monday March 20th\n10.30am: Registration Opens\n11.30am: Introduction to CyVerse and CyVerseUK                 \n1.00pm: Lunch\n2.00pm: Data Sharing, Management and Reuse                    \n\n3.30pm: Break\n\n4.00pm: CyVerseUK Tools: Earlham Institute: Tuxedo pipeline for RNAseq Analysis\n- Descriptive hands-on Workshop\n- User example\n\n6pm: Session End\n\n7pm: Workshop Dinner at Walmgate Ale House\n\n\nDay 2: Tuesday March 21st\n9am: CyVerseUK Tools: University of Nottingham: Image Analysis\n- Hands on workshop\n- Introducing BISQUE\n- Image-Based Phenotyping\n- Introducing RootNav and RooTrace\n- Successful Use Example                         \n\n11am: Break\n\n11.30am: CyVerseUK Tools: University of Warwick: Transcriptomic Data Mining\n- Descriptive hands-on Workshop\n- User example\n\n1.30pm: Lunch\n\n2.30pm: CyVerseUK Tools: Earlham Institute: GWAS Analysis Pipeline\n- Descriptive hands-on Workshop\n- User example\n\nWhole Group Finale\n4pm:               The Future of CyVerse and CyVerseUK:                 \n4.30pm:           Meeting End\n\n\nOther Information\nAccommodation\nThere is accomodation available on a first come-first serve basis at the University of York bed & breakfast facility, Franklin House. \n> This is bookable online through the URL www.yorkconferences.com  \n> Select the Accommodation tab, click 'Bed and Breakfast' and then onto 'Book'. \nDietary Requirements\nIf you have any dietary requirements then please can you email Geraint at geraint@garnetcommunity.org.uk with those details. We will send out information about the workshop dinner closer to the time.\n\nComputer requirements\n1.Please bring a laptop to the workshop for the hands-on portions of the sessions. Closer to the time we will send out the data that we will analyse at the meeting.\n2. Please sign up for a CyVerse account. You can register at https://user.cyverse.org/ and we recommend that you take a brief look at the website before you attend the meeting.\n2. Please ensure your computer is registered with the EduRoam network. If this is not possible we will provide some Guest Logins for the duration of the workshop."
-  url: https://www.eventbrite.co.uk/e/cyverseuk-workshop-tickets-29982258743?aff=ebapi
-  logo: https://cdn.evbuc.com/images/26445018/143261406836/1/original.jpg?h=200&w=450&rect=4,354,2470,1235&s=88dc617c5f1c88a52e8ba8c264760d98
-  starts: 2017-03-20T11:00:00.0000000
-  ends: 2017-03-21T16:00:00.0000000
-  venue: Department of Biology
-- name: Science for Patient Benefit - Jenny Marsden
-  description: >-
-    Science for Patient Benefit: Five per cent of the workforce making 80 per cent of patient diagnoses
-
-    Physsoc is delighted to welcome Jenny Marsden, a registered Clinical Scientist working in the NHS, who will discuss the hidden role of healthcare scientists in the NHS; what they do, how they got there, and how they make a difference to the patient journey.
-
-    Jenny Marsden is Principal Clinical Scientist at Hull and East Yorkshire Hospitals NHS Trust. After graduating from Nottingham University with a BSc in Physics with Medical Physics and from Sheffield University with a MSc in Medical Physics and Clinical Engineering, she began her workplace training at the Queen’s Medical Centre (QMC), Nottingham in 1999.
-
-    Jenny has been based at the Hull and East Yorkshire Hospitals NHS Trust for the last 17 years and during that time she has assisted in setting up new radiotherapy services and commissioning other facilities, such as a new brachytherapy service. She manages trainee scientists undertaking the national scientific training programme in medical physics within her department, and is involved with the national scheme, shortlisting, interviewing and examining national trainees.
-
-    A member of the Institute of Physics and Engineering in Medicine, Jenny also has a special interest in women in STEM and has spoken to the House of Commons Science and Technology Select Committee on the subject. 
-  url: https://www.eventbrite.co.uk/e/science-for-patient-benefit-jenny-marsden-tickets-28908285460?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/28505940/148307828230/1/original.jpg?h=200&w=450&rect=0,114,2048,1024&s=3a6fcd1e36eaed525fe6724408aa8041
-  starts: 2017-02-28T19:00:00.0000000
-  ends: 2017-02-28T20:00:00.0000000
-  venue: P/L/001
 - name: "Quantum States Tour: From the garden to the pub - Professor Irene D'Amico"
   description: >-
     Quantum States Tour: From the garden to the pub
@@ -56,6 +32,13 @@
   starts: 2017-03-08T19:00:00.0000000
   ends: 2017-03-08T20:00:00.0000000
   venue: P/X/001
+- name: CyVerseUK Workshop
+  description: "\n\n\n\nCyVerseUK Workshop: Bioinformatic Tools for Biologists\nThis meeting is focused on researchers who are either toward the beginning of their studies or have moved onto a new subject area. We will provide a hands-on sessions that will describe the use of software tools that can interrogate RNAseq, imaging, gene expression or GWAS data. Importantly previous users will provide real-life examples of how the software has been successfully used. In a change to the original plan this are the only sessions we will now be offering. \nThese software tools have been developed as part of the CyVerseUK grant (www.cyverseuk.org). We will also highlight the opportunities that exist for the sharing of big data in a meaningful manner. \nThis workshop is organised by GARNet with Professor Katherine Denby at the University of York. \n\n\n\n\nDay 1: Monday March 20th\n10.30am: Registration Opens\n11.30am: Introduction to CyVerse and CyVerseUK                 \n1.00pm: Lunch\n2.00pm: Data Sharing, Management and Reuse                    \n\n3.30pm: Break\n\n4.00pm: CyVerseUK Tools: Earlham Institute: Tuxedo pipeline for RNAseq Analysis\n- Descriptive hands-on Workshop\n- User example\n\n6pm: Session End\n\n7pm: Workshop Dinner at Walmgate Ale House\n\n\nDay 2: Tuesday March 21st\n9am: CyVerseUK Tools: University of Nottingham: Image Analysis\n- Hands on workshop\n- Introducing BISQUE\n- Image-Based Phenotyping\n- Introducing RootNav and RooTrace\n- Successful Use Example                         \n\n11am: Break\n\n11.30am: CyVerseUK Tools: University of Warwick: Transcriptomic Data Mining\n- Descriptive hands-on Workshop\n- User example\n\n1.30pm: Lunch\n\n2.30pm: CyVerseUK Tools: Earlham Institute: GWAS Analysis Pipeline\n- Descriptive hands-on Workshop\n- User example\n\nWhole Group Finale\n4pm:               The Future of CyVerse and CyVerseUK:                 \n4.30pm:           Meeting End\n\n\nOther Information\nAccommodation\nThere is accomodation available on a first come-first serve basis at the University of York bed & breakfast facility, Franklin House. \n> This is bookable online through the URL www.yorkconferences.com  \n> Select the Accommodation tab, click 'Bed and Breakfast' and then onto 'Book'. \n> There are a limited number of rooms available so if these have sold out then I would suggest teh Travelodge Central York, which is located a mile from the University but around the corner from the venue for the evening meal. https://www.travelodge.co.uk/hotels/196/York-Central-hotel\nDietary Requirements\nIf you have any dietary requirements then please can you email Geraint at geraint@garnetcommunity.org.uk with those details. We will send out information about the workshop dinner closer to the time.\n\nComputer requirements\n1.Please bring a laptop to the workshop for the hands-on portions of the sessions. Closer to the time we will send out the data that we will analyse at the meeting.\n2. Please sign up for a CyVerse account. You can register at https://user.cyverse.org/ and we recommend that you take a brief look at the website before you attend the meeting.\n2. Please ensure your computer is registered with the EduRoam network. If this is not possible we will provide some Guest Logins for the duration of the workshop."
+  url: https://www.eventbrite.co.uk/e/cyverseuk-workshop-tickets-29982258743?aff=ebapi
+  logo: https://cdn.evbuc.com/images/26445018/143261406836/1/original.jpg?h=200&w=450&rect=4,354,2470,1235&s=88dc617c5f1c88a52e8ba8c264760d98
+  starts: 2017-03-20T11:00:00.0000000
+  ends: 2017-03-21T16:00:00.0000000
+  venue: Department of Biology
 - name: Solvents Day 2017
   description: >+
     A free one-day symposium on safer, greener and more sustainable solvents.
@@ -202,6 +185,19 @@
   starts: 2017-06-12T12:00:00.0000000
   ends: 2017-06-12T13:00:00.0000000
   venue: Yorkshire Museum (outside)
+- name: 'Tim Peake: Mission Update'
+  description: >-
+    Join us at the University of York Astrocampus to explore the night skies and discover more about British Astronaut Tim Peake's mission aboard the International Space Station. Now that Tim is safely back on Earth you can find out about the science he did and about how the human body reacts to being in space, as well as trying activities that push you to 'Train Like an Astronaut'. PLUS take the opportunity to look round the observatory and, weather permitting, explore the wonders of space through our top of the range telescopes.  
+
+    The event is family-friendly.   
+
+    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
+  url: https://www.eventbrite.co.uk/e/tim-peake-mission-update-tickets-32296911933?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/28601622/133368849299/1/original.jpg?h=200&w=450&rect=0,30,736,368&s=b170c0c4b67ace1f66d14d53e7d3ad70
+  starts: 2017-03-16T18:00:00.0000000
+  ends: 2017-03-16T19:30:00.0000000
+  venue: Astrocampus
 - name: 'York Science Trail: 6th February 2017 and then 12 noon on 2nd Monday of each month'
   description: "                   York  Science  Trail:   a new project\n\n                             Diversifying  York's  history \nvia Science, Technology, Engineering,  Medicine and  Mathematics.\n\n                        Will you or your group(s) get involved ?\n\nNB: February meeting will now be on Feb 6th, NOT Feb 13th\n\nOpen Meetings: Jan 9th, Feb 6th, March 13th\n12 noon; 2nd Mondays; King’s Manor Refectory\n                             email  JOHN BIBBY    jb43@york.ac.uk\n                                 \n\n===================\n                                    MORE  DETAILS  FOLLOWING  SOON!\n\n\n\n\n====   SEE BELOW FOR TEXT RELATING TO OUR FIRST MEETING ON 5 DECEMBER:\nThis is an OPEN meeting to discuss a proposed Science Trail for York. Please sign up if you are interested, even if you cannot come to the meeting. And tell your friends!\nDetails to follow: an aim is to eventually include all science-related places in York.\nWhat is \"Science\"?  We take a broad definition. It certainly includes all of \"STEMM\": Science, Technology, Engineering, Medicine and Mathematics.\nWhat do we mean by \"York\"?  Again, our definition is broad. We can include outliers such as Cayley/ Scarborough/ Whitby/ Castle Howard etc.. However, initially we shall focus on places walkable from York city centre. Examples are below. But if you want to include something else, please join us! \nHow will this get published? All avenues are possible. Online, on-paper, on-air. Apps and baps and flaps. We want to rach and energise as many people as possible.\nWho is behind this? If the idea fails, you can blame John Bibby. If it succeeds, there will be many parents! So far we have had welcome inputs from the Yorkshire Philosophical Society, U3A, York Past and Present, Timeline York, York Bus Forum, local history societies and even a few schools and universities  I am sure we will get many more!\nPlease give some examples.  Some locations will be well-known, such as:\n\nCholera burial-ground\nNational Railway Museum\nTreasurer’s House\n\nBut we will also include lesser-known places & stories such as Thomas Laycock and the People’s Dispensary. I’d like all Local History groups to provide suggestions for inclusion from their local areas.\nOne idea is for the trail to zigzag round the city walls in a clockwise direction, starting and finish at the railway station. Plans are still at an early stage. The first thing to do is to develop a list of possible points on the trail, along with a list of potential partner organisations and individuals. Please volunteer or let John Bibby have your nominations for both of these lists.\nJohn can be contacted via jb43@york.ac.uk or on 01904-330334.\nPlease forward this link to anyone who might be interested!"
   url: https://www.eventbrite.co.uk/e/york-science-trail-6th-february-2017-and-then-12-noon-on-2nd-monday-of-each-month-tickets-30126949517?aff=ebapi
@@ -392,19 +388,6 @@
   logo: https://cdn.evbuc.com/images/28601574/133368849299/1/original.jpg?h=200&w=450&rect=0,100,906,453&s=97d0ce9ef9ab30c0dc666416f7a86366
   starts: 2017-03-15T18:00:00.0000000
   ends: 2017-03-15T19:30:00.0000000
-  venue: Astrocampus
-- name: 'Tim Peake: Mission Update'
-  description: >-
-    Join us at the University of York Astrocampus to explore the night skies and discover more about British Astronaut Tim Peake's mission aboard the International Space Station. Now that Tim is safely back on Earth you can find out about the science he did and about how the human body reacts to being in space, as well as trying activities that push you to 'Train Like an Astronaut'. PLUS take the opportunity to look round the observatory and, weather permitting, explore the wonders of space through our top of the range telescopes.  
-
-    The event is family-friendly.   
-
-    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
-  url: https://www.eventbrite.co.uk/e/tim-peake-mission-update-tickets-32296911933?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/28601622/133368849299/1/original.jpg?h=200&w=450&rect=0,30,736,368&s=b170c0c4b67ace1f66d14d53e7d3ad70
-  starts: 2017-03-16T18:00:00.0000000
-  ends: 2017-03-16T19:30:00.0000000
   venue: Astrocampus
 - name: Happy Birthday Astrocampus!
   description: >
