@@ -33,7 +33,7 @@ h5,
 h6 {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    font-weight: 700
+    font-weight: 500
 }
 hr.star-light,
 hr.star-primary,
@@ -61,7 +61,7 @@ hr.star-events-even:after {
 .navbar-custom,
 header .intro-text .name {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-transform: uppercase
+    text-transform: lowercase
 }
 hr.star-light {
     border-color: #4800FF
@@ -123,7 +123,7 @@ header img {
 }
 header .intro-text .name {
     display: block;
-    font-weight: 700;
+    font-weight: 500;
     font-size: 2em
 }
 header .intro-text .skills {
@@ -212,10 +212,10 @@ section.success {
     color: #fff
 }
 section.success h2 {
-    color: #4800FF
+    color: #000000
 }
 section.success p {
-    color: #4800FF
+    color: #000000
 }
 section.our_meetups {
     background: #4800FF;
@@ -227,6 +227,9 @@ section.our_meetups h2 {
 section.contact_us {
     background: #FFD800;
     color: #4800FF
+}
+section.contact_us h2 {
+    color: #000000
 }
 section.events-even {
     padding: 0 0;
@@ -554,18 +557,18 @@ fieldset[disabled] .btn-success:hover {
 
 #navcontainer-odd ul
 {
-margin: 0;
-padding: 0;
-list-style-type: none;
-text-align: left;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: left;
 }
 
 #navcontainer-even ul
 {
-margin: 0;
-padding: 0;
-list-style-type: none;
-text-align: left;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: left;
 }
 
 #navcontainer-odd ul li { display: inline; }
@@ -573,30 +576,28 @@ text-align: left;
 
 #navcontainer-odd ul li a
 {
-text-decoration: none;
-
-color: #4800FF;
-background-color: none;
+    text-decoration: none;  
+    color: #4800FF;
+    background-color: none;
 }
 
 #navcontainer-even ul li a
 {
-text-decoration: none;
-
-color: #4800FF;
-background-color: none;
+    text-decoration: none;
+    color: #4800FF;
+    background-color: none;
 }
 
 #navcontainer-odd ul li a:hover
 {
-color: #4800FF;
-background-color: #FFD800;
+    color: #4800FF;
+    background-color: #FFD800;
 }
 
 #navcontainer-even ul li a:hover
 {
-color: #FFD800;
-background-color: #4800FF;
+    color: #FFD800;
+    background-color: #4800FF;
 }
 
 .event_image_right

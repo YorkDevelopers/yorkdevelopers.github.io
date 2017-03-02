@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "YorkDevelopers.org"
 title_separator          : "-"
-name                     : "YorkDevelopers.org"
+name                     : "{york.developers}"
 description              : "YorkDevelopers.org"
 url                      : "https://www.yorkdevelopers.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
