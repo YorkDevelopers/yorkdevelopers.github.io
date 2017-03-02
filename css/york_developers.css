@@ -67,7 +67,7 @@ hr.star-light {
     border-color: #4800FF
 }
 hr.star-light:after {
-    background-color: #ADD8E6;
+    background-color: #FFF;
     color: #4800FF
 }
 hr.star-primary {
@@ -210,7 +210,7 @@ section h2 {
     font-size: 3em
 }
 section.success {
-    background: #ADD8E6;
+    background: #FFF;
     color: #fff
 }
 section.success h2 {
@@ -227,7 +227,7 @@ section.our_meetups h2 {
     color: #fff
 }
 section.contact_us {
-    background: #ADD8E6;
+    background: #FFF;
     color: #4800FF
 }
 section.contact_us h2 {
