@@ -67,7 +67,7 @@ hr.star-light {
     border-color: #4800FF
 }
 hr.star-light:after {
-    background-color: #FFD800;
+    background-color: #E2D8FF;
     color: #4800FF
 }
 hr.star-primary {
@@ -81,7 +81,7 @@ hr.star-events-odd {
     border-color: #FFD800
 }
 hr.star-events-odd:after {
-    background-color: #FFE77C;
+    background-color: #E2D8FF;
     color: #FFD800
 }
 hr.star-events-even {
@@ -208,7 +208,7 @@ section h2 {
     font-size: 3em
 }
 section.success {
-    background: #FFD800;
+    background: #E2D8FF;
     color: #fff
 }
 section.success h2 {
@@ -225,7 +225,7 @@ section.our_meetups h2 {
     color: #fff
 }
 section.contact_us {
-    background: #FFD800;
+    background: #E2D8FF;
     color: #4800FF
 }
 section.contact_us h2 {
