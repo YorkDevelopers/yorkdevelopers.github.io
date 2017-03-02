@@ -1,41 +1,19 @@
-- name: The Gilded Rose Refactoring Challenge
-  description: "<p>This month we'll be refactoring our way from an ugly monstrosity to a beautiful masterpiece!</p> <p>See the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for general details.</p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/237239983/
-  is-free: true
-  logo: http://photos1.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2017-03-01T18:30:00.0000000
-  ends: 2017-03-10T21:00:00.0000000
-  venue: Callcredit Information Group Limited
-- name: Meet for Code and Coffee in York
-  url: https://www.meetup.com/York-Code-Coffee/events/237566339/
-  is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-03-01T07:00:00.0000000
-  ends: 2017-03-01T10:00:00.0000000
-  venue: The Perky Peacock
-- name: Meet for Code and Coffee in York
-  url: https://www.meetup.com/York-Code-Coffee/events/237925562/
-  is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-03-01T07:00:00.0000000
-  ends: 2017-03-01T10:00:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/237925688/
-  is-free: true
-  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-03-01T08:00:00.0000000
-  ends: 2017-03-01T11:00:00.0000000
-  venue: La Bottega Milanese
 - name: GDG Leeds - March
-  description: "<p>Use <a href=\"https://goo.gl/maps/SwSjENdAbLJ2\">this</a> Google Map link to help find the building. Don't use Meetups link! There will be a sign on the door.</p> <p>If you attended February's meetup can you please spend 30secs and answer <a href=\"https://goo.gl/forms/HA3nGo6rQyNNmY5F2\">this</a> survey? It will help us in organising future events for you all :)</p> <p>This month we're having a talk on Android security with Jahmel Harris to find out what we can do to make our apps more secure. </p> <p><br/>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch! </p> <p>Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Intro</p> <p>6.20pm - Security &amp; Android - Jahmel Harris</p> <p>7.10pm - Compiler Reordering - Francis Stephens</p> <p>7.50pm - Wrap up</p> <p>8.00pm - The end</p> <p><b><br/></b></p> <p><b>Talks</b></p> <p><i>Compiler Reordering - Francis Stephens</i></p> <p>There are many things that can ruin your day when writing concurrent software. Many of them are complex, esoteric and dip deep into the details of hardware. But, the biggest danger and often left unmentioned is your compiler.</p> <p>By exploring very simple source code rewriting we will explore a few things that your compiler can, and often will do.</p> <p>The talk is intended to give some explanation for the often bizarre and nonsensical rules programming languages provide for concurrent programming.</p> "
+  description: "<p>Use <a href=\"https://goo.gl/maps/SwSjENdAbLJ2\">this</a> Google Map link to help find the building. Don't use Meetups link! There will be a sign on the door.</p> <p>If you attended February's meetup can you please spend 30secs and answer <a href=\"https://goo.gl/forms/HA3nGo6rQyNNmY5F2\">this</a> survey? It will help us in organising future events for you all :)</p> <p>This month we're having a talk on Android security with Jahmel Harris to find out what we can do to make our apps more secure. </p> <p><br/>Our second talk is Compiler Reordering by Francis Stephens where we'll find out how the compiler might trip you up when optimising your code.</p> <p>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch! </p> <p>Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Intro</p> <p>6.20pm - Security &amp; Android - Jahmel Harris</p> <p>7.10pm - Compiler Reordering - Francis Stephens</p> <p>7.50pm - Wrap up</p> <p>8.00pm - The end</p> <p><b><br/></b></p> <p><b>Talks</b></p> <p><i>Compiler Reordering - Francis Stephens</i></p> <p>There are many things that can ruin your day when writing concurrent software. Many of them are complex, esoteric and dip deep into the details of hardware. But, the biggest danger and often left unmentioned is your compiler.</p> <p>By exploring very simple source code rewriting we will explore a few things that your compiler can, and often will do.</p> <p>The talk is intended to give some explanation for the often bizarre and nonsensical rules programming languages provide for concurrent programming.</p> "
   url: https://www.meetup.com/GDG-Leeds/events/237526829/
   is-free: true
   logo: http://photos2.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
   starts: 2017-03-02T18:00:00.0000000
   ends: 2017-03-02T21:00:00.0000000
   venue: Sky 2
+- name: Meet for Code and Coffee in York
+  description: '<p>Our regular Monday &amp; Wednesday meeting.  People usually arrive around 7.15, for coding and general chat.  This is a good chance to meet the organisers of YorkDevelopers.org, and find out about the community too.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/237566339/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-03-06T07:00:00.0000000
+  ends: 2017-03-06T10:00:00.0000000
+  venue: The Perky Peacock
 - name: Meet for Code and Coffee in York
   url: https://www.meetup.com/York-Code-Coffee/events/238022195/
   is-free: true
@@ -59,6 +37,7 @@
   ends: 2017-03-07T21:15:00.0000000
   venue: The Adelphi
 - name: York Code Dojo - Conway's Game of Life
+  description: "<p>For our second meeting of 2017, we'll draw graphics based on cellular division to the rules of John Conway's Game Of Life.</p> <p>The session begins with a description of the problem, followed by grouping into pairs to work on it, and brief presentation of solutions at the end.  All languages are OK to use.  Bring a laptop, with plenty of charge :)</p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend.  Students very welcome!</p> <p>NOTE: Food in pizza form will be provided.  On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p><i>The room for the York Code Dojo is FT/211. This is located in the Fountains learning Centre on the second floor. Simply go into the library and either take the lift of walk up the stairs to the second floor. When you come out of either, walk along the open corridor reading the door signs and FT/211 is on your right.</i> </p> <p>Sponsored by York St. John University.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> "
   url: https://www.meetup.com/York-Code-Dojo/events/237505179/
   is-free: true
   logo: http://photos4.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
@@ -94,3 +73,26 @@
   starts: 2017-03-13T07:00:00.0000000
   ends: 2017-03-13T10:00:00.0000000
   venue: The Perky Peacock
+- name: Meet for Code and Coffee in York
+  url: https://www.meetup.com/York-Code-Coffee/events/238022199/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-03-15T07:00:00.0000000
+  ends: 2017-03-15T10:00:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywfbtb/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-03-15T08:00:00.0000000
+  ends: 2017-03-15T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: LeedsPHP March 15th - Love and Hate relationship between ORMs and Query Builders
+  description: "<p>It's time for another Leeds PHP meetup!</p> <p>This month we're, again, at Futurelabs. Drinks, food, and more drinks provided as always by our wonderful sponsors - Sky Betting &amp; Gaming, Inviqa, QuidCo, and Futurelabs!</p> <p><b>Timings</b></p> <p>• 18:30 – Turn up, have a drink, a snack, and a chat (pizza, beer, coffee, soft drinks)</p> <p>• 19:00 – “<b>Love and Hate relationship between ORMs and Query Builders</b>” - Romans Malinovskis</p> <p>• 19:45 – Mid session interval</p> <p>• 19:55 – TBA</p> <p>• 20:30 – Pop over the road to Headrow House pub (a drink or two provided)</p> <p><b>Love and Hate relationship between ORMs and Query Builders</b> - Romans Malinovskis</p> <p><i>While some developers prefer writing their own SQL queries, others prefer to abstract the database with Object Relational Mappers. Is there a middle-ground that incorporates both without compromising and resulting in limitations?</i></p> <p><i>This talk will focus on database abstraction, query latency &amp; domain model and persistence mapping patterns in PHP applications. It will introduce the core concepts behind “Agile Data” - (database abstraction library available under MIT from <a href=\"http://github.com/atk4/data\">github.com/atk4/data</a>).</i></p> <p>Romans is an author of “Agile Data” and an active PHP / SaaS developer since 1997.</p> <p>Romans Malinovskis on Twitter: <a href=\"https://twitter.com/romaninsh\">@romaninsh</a></p> <p>And <b>Another talk TBA</b> - it could be you! Tweet us <a href=\"https://twitter.com/leedsphp\">@leedsphp</a> if fancy it. Talk about anything developer related that you like. Tell us about your favourite framework, talk us through a design pattern, tell us about your imposter syndrome, ask a question and invite discussion.</p> <p><b>Sponsors</b></p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support of this community event.</p> <p><a href=\"http://futurelabs.org.uk/\">Futurelabs</a> – Are a not-for-profit formed to help provide a focal point for tech start-up and scale-up businesses in and around Leeds. Futurelabs offer hot desking, fixed desk space or larger office spaces for tech businesses at very reasonable prices. <a href=\"https://www.maplesyrupmedia.com/our-story/\">Quidco/Maple Syrup Media</a> – Maple Syrup Media built its reputation as cashback pioneers with Quidco. They’ve since consolidated their credentials in the UK with grocery and travel specific ventures, CheckoutSmart and EarnAway. Their teams are based in London, Sheffield, Berlin, Paris and Durban – check out their <a href=\"https://www.maplesyrupmedia.com/careers/\">careers page</a></p> <p><a href=\"http://skybetcareers.com/about-us\">Sky Betting &amp; Gaming</a> – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their <a href=\"http://skybetcareers.com/\">careers page</a> provides great detail as to the working environment and range of work available across the technology stack.</p> <p><a href=\"http://inviqa.com/\">Inviqa</a> – With offices in Leeds and across the UK and Europe Inviqa helps pioneering brands and organisations to engage, convert and retain their customers through digital innovation. If you’re looking for a developer role have a look at their <a href=\"https://inviqa.com/company/careers\">careers page</a>.</p> <p><br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~</p> <p>Still reading? <b>PHP Yorkshire Conference</b> is happening in York on Saturday April 8th. Some great speakers and a great day out! Get yourself over to <a href=\"https://www.phpyorkshire.co.uk/\">www.phpyorkshire.co.uk</a> to read about it and get a ticket with discount code <b>phpleeds90 </b>to get a ticket for<b> only £90.</b></p> <p>See you soon!</p> "
+  url: https://www.meetup.com/leedsphp/events/238081826/
+  is-free: true
+  logo: http://photos4.meetupstatic.com/photos/event/d/a/e/d/thumb_455636045.jpeg
+  starts: 2017-03-15T18:30:00.0000000
+  ends: 2017-03-15T21:30:00.0000000
+  venue: Future Labs
