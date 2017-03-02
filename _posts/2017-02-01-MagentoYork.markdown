@@ -10,4 +10,4 @@ Magento York.
 
 Visit our [Magento York Meetup][magento-york-meetup-link] for more information.
 
-[magento-york-meetup-link]: http://www.meetup.com/MagentoYork/
+[magento-york-meetup-link]: https://www.meetup.com/Magento-York/
