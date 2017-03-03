@@ -108,6 +108,14 @@
   starts: 2017-03-21T09:30:00.0000000
   ends: 2017-03-21T17:00:00.0000000
   venue: Green Chemistry Centre of Excellence
+- name: Energy and the Environment Workshop
+  description: "Energy and the Environment Workshop\nHost: Professor Sue Hartley\nResearch Theme Champion for Environmental Sustainability and Resilience\nWorkshop Aims\n\nto bring together researchers from across the University of York, building institutional capacity in the field of energy and the environment;\nto award grants of between £300 and £3000 for research-related activities/projects associated with energy and the environment;\nto connect UoY researchers in order to better understand the strengths (and weaknesses) of energy and the environment research at the University.\n\n The event is open to UoY researchers with an interest in topics relating to energy and the environment. Attendees from all disciplines are welcomed and it is anticipated that grants will be awarded to teams encompassing a range of departments/disciplines. Examples of topics which may be funded include activities relating to biofuel research, alternative energy sources, sustainable energy access, and energy demand among others.\nWorkshop Format\nDuring the first half of the workshop, attendees will be invited to give a short presentation (2 - 5 min) detailing their past/present research in the area and also ideas for future research. After the conclusion of the presentations, attendees will be invited to discuss specific topics with a view to developing project ideas which would address future funding calls (i.e., GCRF Energy Challenge Area). \n \n "
+  url: https://www.eventbrite.co.uk/e/energy-and-the-environment-workshop-tickets-32437480377?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/28794273/99962846797/1/original.jpg?h=200&w=450&rect=0,58,572,286&s=040bb0825008014e7ab98b95c3670e8e
+  starts: 2017-04-06T12:00:00.0000000
+  ends: 2017-04-06T18:00:00.0000000
+  venue: The Treehouse
 - name: 'Archivematica Camp: York UK'
   description: >-
     We're excited to announce the first Archivematica Camp being held in Europe, cohosted by the University of York and Artefactual! Inspired by similar events like Hydra Camp, Islandora Camp and Fedora Camp, Archivematica Camp is intended to provide a space for anyone interested in or currently using Archivematica to come together, learn about the platform from other users, and share their experiences. The agenda will reflect the demand of the campers, so let us know what you want to hear about and we'll do our best to accomodate your interests. 
@@ -159,27 +167,6 @@
   starts: 2017-04-04T09:00:00.0000000
   ends: 2017-04-06T17:00:00.0000000
   venue: The Ron Cooke Hub
-- name: Energy and the Environment Workshop
-  description: "Energy and the Environment Workshop\nHost: Professor Sue Hartley\nResearch Theme Champion for Environmental Sustainability and Resilience\nWorkshop Aims\n\nto bring together researchers from across the University of York, building institutional capacity in the field of energy and the environment;\nto award grants of between £300 and £3000 for research-related activities/projects associated with energy and the environment;\nto connect UoY researchers in order to better understand the strengths (and weaknesses) of energy and the environment research at the University.\n\n The event is open to UoY researchers with an interest in topics relating to energy and the environment. Attendees from all disciplines are welcomed and it is anticipated that grants will be awarded to teams encompassing a range of departments/disciplines. Examples of topics which may be funded include activities relating to biofuel research, alternative energy sources, sustainable energy access, and energy demand among others.\nWorkshop Format\nDuring the first half of the workshop, attendees will be invited to give a short presentation (2 - 5 min) detailing their past/present research in the area and also ideas for future research. After the conclusion of the presentations, attendees will be invited to discuss specific topics with a view to developing project ideas which would address future funding calls (i.e., GCRF Energy Challenge Area). \n \n "
-  url: https://www.eventbrite.co.uk/e/energy-and-the-environment-workshop-tickets-32437480377?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/28794273/99962846797/1/original.jpg?h=200&w=450&rect=0,58,572,286&s=040bb0825008014e7ab98b95c3670e8e
-  starts: 2017-04-06T12:00:00.0000000
-  ends: 2017-04-06T18:00:00.0000000
-  venue: The Treehouse
-- name: 'Science Things: a York Walk'
-  description: >
-    Organised by the York Science Trails Group.
-
-    Join us on an accessible guided stroll and hear about people, places and things associated with York's scientific history.  From Alcuin and Atomic science to Bears, Botany and Zoos!
-
-
-    The York Science Trails Group (YSTG) meets at 12 noon on 6th Feb, 13th March, and then 2nd Monday of each month in King's Manor Refectory:    www.YorkScienceTrail.eventbrite.com     
-  url: https://www.eventbrite.co.uk/e/science-things-a-york-walk-tickets-31707393668?aff=ebapi
-  logo: https://cdn.evbuc.com/images/27937729/20328548666/1/original.jpg?h=200&w=450&rect=0,326,1684,842&s=8995ebc605d5c65f3ee49c39ae724572
-  starts: 2017-06-12T12:00:00.0000000
-  ends: 2017-06-12T13:00:00.0000000
-  venue: Yorkshire Museum (outside)
 - name: 'Tim Peake: Mission Update'
   description: >-
     Join us at the University of York Astrocampus to explore the night skies and discover more about British Astronaut Tim Peake's mission aboard the International Space Station. Now that Tim is safely back on Earth you can find out about the science he did and about how the human body reacts to being in space, as well as trying activities that push you to 'Train Like an Astronaut'. PLUS take the opportunity to look round the observatory and, weather permitting, explore the wonders of space through our top of the range telescopes.  
@@ -193,6 +180,19 @@
   starts: 2017-03-16T18:00:00.0000000
   ends: 2017-03-16T19:30:00.0000000
   venue: Astrocampus
+- name: 'Science Things: a York Walk'
+  description: >
+    Organised by the York Science Trails Group.
+
+    Join us on an accessible guided stroll and hear about people, places and things associated with York's scientific history.  From Alcuin and Atomic science to Bears, Botany and Zoos!
+
+
+    The York Science Trails Group (YSTG) meets at 12 noon on 6th Feb, 13th March, and then 2nd Monday of each month in King's Manor Refectory:    www.YorkScienceTrail.eventbrite.com     
+  url: https://www.eventbrite.co.uk/e/science-things-a-york-walk-tickets-31707393668?aff=ebapi
+  logo: https://cdn.evbuc.com/images/27937729/20328548666/1/original.jpg?h=200&w=450&rect=0,326,1684,842&s=8995ebc605d5c65f3ee49c39ae724572
+  starts: 2017-06-12T12:00:00.0000000
+  ends: 2017-06-12T13:00:00.0000000
+  venue: Yorkshire Museum (outside)
 - name: 'York Science Trail: 6th February 2017 and then 12 noon on 2nd Monday of each month'
   description: "                   York  Science  Trail:   a new project\n\n                             Diversifying  York's  history \nvia Science, Technology, Engineering,  Medicine and  Mathematics.\n\n                        Will you or your group(s) get involved ?\n\nNB: February meeting will now be on Feb 6th, NOT Feb 13th\n\nOpen Meetings: Jan 9th, Feb 6th, March 13th\n12 noon; 2nd Mondays; King’s Manor Refectory\n                             email  JOHN BIBBY    jb43@york.ac.uk\n                                 \n\n===================\n                                    MORE  DETAILS  FOLLOWING  SOON!\n\n\n\n\n====   SEE BELOW FOR TEXT RELATING TO OUR FIRST MEETING ON 5 DECEMBER:\nThis is an OPEN meeting to discuss a proposed Science Trail for York. Please sign up if you are interested, even if you cannot come to the meeting. And tell your friends!\nDetails to follow: an aim is to eventually include all science-related places in York.\nWhat is \"Science\"?  We take a broad definition. It certainly includes all of \"STEMM\": Science, Technology, Engineering, Medicine and Mathematics.\nWhat do we mean by \"York\"?  Again, our definition is broad. We can include outliers such as Cayley/ Scarborough/ Whitby/ Castle Howard etc.. However, initially we shall focus on places walkable from York city centre. Examples are below. But if you want to include something else, please join us! \nHow will this get published? All avenues are possible. Online, on-paper, on-air. Apps and baps and flaps. We want to rach and energise as many people as possible.\nWho is behind this? If the idea fails, you can blame John Bibby. If it succeeds, there will be many parents! So far we have had welcome inputs from the Yorkshire Philosophical Society, U3A, York Past and Present, Timeline York, York Bus Forum, local history societies and even a few schools and universities  I am sure we will get many more!\nPlease give some examples.  Some locations will be well-known, such as:\n\nCholera burial-ground\nNational Railway Museum\nTreasurer’s House\n\nBut we will also include lesser-known places & stories such as Thomas Laycock and the People’s Dispensary. I’d like all Local History groups to provide suggestions for inclusion from their local areas.\nOne idea is for the trail to zigzag round the city walls in a clockwise direction, starting and finish at the railway station. Plans are still at an early stage. The first thing to do is to develop a list of possible points on the trail, along with a list of potential partner organisations and individuals. Please volunteer or let John Bibby have your nominations for both of these lists.\nJohn can be contacted via jb43@york.ac.uk or on 01904-330334.\nPlease forward this link to anyone who might be interested!"
   url: https://www.eventbrite.co.uk/e/york-science-trail-6th-february-2017-and-then-12-noon-on-2nd-monday-of-each-month-tickets-30126949517?aff=ebapi
