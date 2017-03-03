@@ -1,11 +1,3 @@
-- name: GDG Leeds - March
-  description: "<p>Use <a href=\"https://goo.gl/maps/SwSjENdAbLJ2\">this</a> Google Map link to help find the building. Don't use Meetups link! There will be a sign on the door.</p> <p>If you attended February's meetup can you please spend 30secs and answer <a href=\"https://goo.gl/forms/HA3nGo6rQyNNmY5F2\">this</a> survey? It will help us in organising future events for you all :)</p> <p>This month we're having a talk on Android security with Jahmel Harris to find out what we can do to make our apps more secure. </p> <p><br/>Our second talk is Compiler Reordering by Francis Stephens where we'll find out how the compiler might trip you up when optimising your code.</p> <p>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch! </p> <p>Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Intro</p> <p>6.20pm - Security &amp; Android - Jahmel Harris</p> <p>7.10pm - Compiler Reordering - Francis Stephens</p> <p>7.50pm - Wrap up</p> <p>8.00pm - The end</p> <p><b><br/></b></p> <p><b>Talks</b></p> <p><i>Compiler Reordering - Francis Stephens</i></p> <p>There are many things that can ruin your day when writing concurrent software. Many of them are complex, esoteric and dip deep into the details of hardware. But, the biggest danger and often left unmentioned is your compiler.</p> <p>By exploring very simple source code rewriting we will explore a few things that your compiler can, and often will do.</p> <p>The talk is intended to give some explanation for the often bizarre and nonsensical rules programming languages provide for concurrent programming.</p> "
-  url: https://www.meetup.com/GDG-Leeds/events/237526829/
-  is-free: true
-  logo: http://photos2.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
-  starts: 2017-03-02T18:00:00.0000000
-  ends: 2017-03-02T21:00:00.0000000
-  venue: Sky 2
 - name: Meet for Code and Coffee in York
   description: '<p>Our regular Monday &amp; Wednesday meeting.  People usually arrive around 7.15, for coding and general chat.  This is a good chance to meet the organisers of YorkDevelopers.org, and find out about the community too.</p> '
   url: https://www.meetup.com/York-Code-Coffee/events/237566339/
@@ -53,7 +45,7 @@
   venue: The Perky Peacock
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywfblb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/238107951/
   is-free: true
   logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-03-08T08:00:00.0000000
@@ -95,4 +87,19 @@
   logo: http://photos4.meetupstatic.com/photos/event/d/a/e/d/thumb_455636045.jpeg
   starts: 2017-03-15T18:30:00.0000000
   ends: 2017-03-15T21:30:00.0000000
+  venue: Future Labs
+- name: 'ITBoss: Bringing together Senior IT Professionals'
+  description: '<p>We are delighted to announce our next ITBoss networking event will take place on Thursday 16 March 2017. ITBoss is the one and only event in Yorkshire designed to bring together Senior IT Professionals.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?</b></p> <p>The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>• a brief intro and welcome</p> <p>• a talk from industry experts</p> <p>• lightning discussions on hot industry specific topics chosen by you</p> <p>• event roundup and thank you at approximately 8.30pm</p> <p>• drinks and networking to finish.</p> <p><b>WHO ATTENDS?</b></p> <p>Senior IT Professionals including IT Directors, Programme Managers, CIOs and CTOs. This is an invitation-only event organised and held by Corecom Consulting, Yorkshire’s fastest growing IT recruitment specialist.</p> <p><b>WHY SHOULD I ATTEND?</b></p> <p>ITBoss creates a unique platform for Senior IT Professionals all over Yorkshire to debate, discuss hot topics, learn from reputable and established speakers whilst networking with like minded individuals in an intimate but friendly environment.</p> <p><b>FEEDBACK FROM PREVIOUS ITBOSS EVENTS</b></p> <p>“The ITBoss networking event was an extremely valuable event to participate in. I networked with like-minded IT Directors and Heads of IT, sharing some useful tools, practices and insights which I have transferred to the workplace. It has also provided me with a network of contacts that I can call upon when dealing with future challenges and when seeking advice.”</p> <p><i>Sunder Iyer, Project Manager, LexisNexis</i></p> <p>“The most useful sections of the ITBoss event was having a guest speaker on a subject area which I am very interested in my current role…there is a lot of focus on aligning with strategy. The lightning topics were great in that they were on three different topics, everyone at some point got involved in the discussions and they were time-boxed! A good event all round.”</p> <p><i>Philippa Rickard, Programme Manager, William Hill</i></p> '
+  url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237041974/
+  is-free: true
+  starts: 2017-03-16T18:00:00.0000000
+  ends: 2017-03-16T20:30:00.0000000
+  venue: Banyan Bar Leeds
+- name: Drupal Yorkshire Monthly Meetup
+  description: '<p>• 6:30 - 6:45 &gt; Arrivals</p> <p>• 6:45 - 7:00 &gt; Announcements</p> <p>• 7:00 - 7:30 - &gt; Speaker/Presentation/Tutorial</p> <p>• 7:30 - 7:45 &gt; Q&amp;A</p> <p>7:45 - 8:30 &gt; Clinic - put your questions to the group for explanation the group for help and feedback</p> <p><i><b>This months speaker</b></i></p> <p>James Drawneek is going to show us component driven theming with automated testing this month.</p> <p>James is an experienced front end developer from CTi digital who has worked on small and enterprise level sites building re-usable and scalable front end stacks.</p> <p>Follow James on Twitter <a href="https://twitter.com/jamesdrawneek">@JamesDrawneek</a></p> '
+  url: https://www.meetup.com/DrupalYorkshire/events/237784592/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/a/5/0/c/thumb_384222252.jpeg
+  starts: 2017-03-16T18:30:00.0000000
+  ends: 2017-03-16T21:30:00.0000000
   venue: Future Labs
