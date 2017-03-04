@@ -19,13 +19,14 @@
   starts: 2017-03-08T19:00:00.0000000
   ends: 2017-03-08T20:00:00.0000000
   venue: P/X/001
-- name: CyVerseUK Workshop
-  description: "\n\n\n\nCyVerseUK Workshop: Bioinformatic Tools for Biologists\nThis meeting is focused on researchers who are either toward the beginning of their studies or have moved onto a new subject area. We will provide a hands-on sessions that will describe the use of software tools that can interrogate RNAseq, imaging, gene expression or GWAS data. Importantly previous users will provide real-life examples of how the software has been successfully used. In a change to the original plan this are the only sessions we will now be offering. \nThese software tools have been developed as part of the CyVerseUK grant (www.cyverseuk.org). We will also highlight the opportunities that exist for the sharing of big data in a meaningful manner. \nThis workshop is organised by GARNet with Professor Katherine Denby at the University of York. \n\n\n\n\nDay 1: Monday March 20th\n10.30am: Registration Opens\n11.30am: Introduction to CyVerse and CyVerseUK                 \n1.00pm: Lunch\n2.00pm: Data Sharing, Management and Reuse                    \n\n3.30pm: Break\n\n4.00pm: CyVerseUK Tools: Earlham Institute: Tuxedo pipeline for RNAseq Analysis\n- Descriptive hands-on Workshop\n- User example\n\n6pm: Session End\n\n7pm: Workshop Dinner at Walmgate Ale House\n\n\nDay 2: Tuesday March 21st\n9am: CyVerseUK Tools: University of Nottingham: Image Analysis\n- Hands on workshop\n- Introducing BISQUE\n- Image-Based Phenotyping\n- Introducing RootNav and RooTrace\n- Successful Use Example                         \n\n11am: Break\n\n11.30am: CyVerseUK Tools: University of Warwick: Transcriptomic Data Mining\n- Descriptive hands-on Workshop\n- User example\n\n1.30pm: Lunch\n\n2.30pm: CyVerseUK Tools: Earlham Institute: GWAS Analysis Pipeline\n- Descriptive hands-on Workshop\n- User example\n\nWhole Group Finale\n4pm:               The Future of CyVerse and CyVerseUK:                 \n4.30pm:           Meeting End\n\n\nOther Information\nAccommodation\nThere is accomodation available on a first come-first serve basis at the University of York bed & breakfast facility, Franklin House. \n> This is bookable online through the URL www.yorkconferences.com  \n> Select the Accommodation tab, click 'Bed and Breakfast' and then onto 'Book'. \n> There are a limited number of rooms available so if these have sold out then I would suggest teh Travelodge Central York, which is located a mile from the University but around the corner from the venue for the evening meal. https://www.travelodge.co.uk/hotels/196/York-Central-hotel\nDietary Requirements\nIf you have any dietary requirements then please can you email Geraint at geraint@garnetcommunity.org.uk with those details. We will send out information about the workshop dinner closer to the time.\n\nComputer requirements\n1.Please bring a laptop to the workshop for the hands-on portions of the sessions. Closer to the time we will send out the data that we will analyse at the meeting.\n2. Please sign up for a CyVerse account. You can register at https://user.cyverse.org/ and we recommend that you take a brief look at the website before you attend the meeting.\n2. Please ensure your computer is registered with the EduRoam network. If this is not possible we will provide some Guest Logins for the duration of the workshop."
-  url: https://www.eventbrite.co.uk/e/cyverseuk-workshop-tickets-29982258743?aff=ebapi
-  logo: https://cdn.evbuc.com/images/26445018/143261406836/1/original.jpg?h=200&w=450&rect=4,354,2470,1235&s=88dc617c5f1c88a52e8ba8c264760d98
-  starts: 2017-03-20T11:00:00.0000000
-  ends: 2017-03-21T16:00:00.0000000
-  venue: Department of Biology
+- name: BPSI Symposium and Networking Meeting, Spring 2017
+  description: "We are delighted to invite you to the Biological Physical Sciences Institute (BPSI) Spring Symposium 2017. The event will consist of a series of keynote speeches, talks and poster presentations by our PhD students. \nThe Symposium will take place on 20 March 2017 (Monday) in Diana Bowles Lecture Theatre (B/K/018) in the Department of Biology (University of York). The event will start with refreshments at 12.30pm and will conclude with food and drink reception at 5:00pm. \nWe are looking forward to seeing you. \nThe BPSI Team\n\n PROGRAMME\n12.00-12.30pm\nPosters presenters mount posters (Atrium)\n 12.30-1.00pm\nRegistration desk open, coffee available (Atrium)\n\n\n 1.00-3.30pm\nSession 1 (Diana Bowles), Chaired by Dr Christoph Baumann (Dept of Biology)\n 1.00pm\nWelcome by Prof Mark Leake (Director, BPSI) and MRC Award introduction from Prof Mark Coles\n 1.00-1.50pm     \nProf Daniel Davis (Manchester Immunology Group, University of Manchester)\nUsing super-resolution microscopy to watch immune cells kill\n 1.50-2.10pm\n Prof Mark Coles (Depts of Biology/HYMS, University of York)\nWhat physics can tell us about immunity:  A journey from single molecules to spin out companies.\n 2.10-2.30pm\n Rosalyn Leaman (Depts of  Biology/Maths//HYMS, University of York)\nProbing LPS dynamics in the bacterial outer membrane using microscopy and maths \n 2.30-3.00pm\nCoffee break and poster session (Atrium)\n\n3.00-5.00pm\nSession 2 (Diana Bowles), Chaired by Prof Mark Coles (Dept of Biology)\n3.00-3.20pm\nLotte van Beek (Depts of Biology/Chemistry, University of York)\nResolving border conflicts: redefining structural domain boundaries for a Staphylococcus aureus surface protein involved in biofilm formation \n3.20-3.40pm\nDr Adam Wollman (Physics/Biology, University of York)\nSingle-molecule microscopy techniques to image Staphylococcus aureus and its toxins \n3.40-4.30pm\nProf Christian Eggeling (Radcliffe Dept of Medicine, University of Oxford)\nAdvanced optical microscopy in biomedical research: challenges and prospects\n4.30-5.00pm\nDiscussion panel (all speakers), Chaired by Prof Antal Rot (Depts of Biology/HYMS, University of York)\n\n5.00-6.00pm\nFood, drink, networking and poster session (Atrium)"
+  url: https://www.eventbrite.co.uk/e/bpsi-symposium-and-networking-meeting-spring-2017-tickets-32155710596?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/28409164/154383884970/1/original.jpg?h=200&w=450&rect=0,256,2048,1024&s=af57f45c4694306e89ef3de1e2a8c5c8
+  starts: 2017-03-20T12:00:00.0000000
+  ends: 2017-03-20T18:00:00.0000000
+  venue: Diana Bowles Lecture Theatre (B/K/018)
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -342,23 +343,6 @@
   starts: 2017-05-15T09:00:00.0000000
   ends: 2017-05-16T16:30:00.0000000
   venue: York
-- name: BPSI Symposium and Networking Meeting, Spring 2017
-  description: >-
-    This description is provisional only: 
-
-    We are delighted to invite you to the Biological Physical Sciences Institute (BPSI) Spring Symposium 2017. The event will consist of a series of keynote speeches, talks and poster presentations by our PhD students. 
-
-    The Symposium will take place on 20 March 2017 (Monday) in Diana Bowles Lecture Theatre (B/K/018) at the Department of Biology (University of York). The event will start with refreshments at 12.30pm and will conclude with food and drink reception at 5:00pm. 
-
-    We are looking forward to seeing you. 
-
-    The BPSI Team
-  url: https://www.eventbrite.co.uk/e/bpsi-symposium-and-networking-meeting-spring-2017-tickets-32155710596?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/28409164/154383884970/1/original.jpg?h=200&w=450&rect=0,256,2048,1024&s=af57f45c4694306e89ef3de1e2a8c5c8
-  starts: 2017-03-20T11:00:00.0000000
-  ends: 2017-03-20T18:00:00.0000000
-  venue: Diana Bowles Lecture Theatre (B/K/018)
 - name: The Hunt for Alien Life
   description: >-
     Join us at the University of York Astrocampus to explore the night skies and find out more about the hunt for alien life.  
@@ -514,14 +498,6 @@
   starts: 2017-03-16T18:00:00.0000000
   ends: 2017-03-16T20:30:00.0000000
   venue: Banyan Bar Leeds
-- name: Drupal Yorkshire Monthly Meetup
-  description: '<p>• 6:30 - 6:45 &gt; Arrivals</p> <p>• 6:45 - 7:00 &gt; Announcements</p> <p>• 7:00 - 7:30 - &gt; Speaker/Presentation/Tutorial</p> <p>• 7:30 - 7:45 &gt; Q&amp;A</p> <p>7:45 - 8:30 &gt; Clinic - put your questions to the group for explanation the group for help and feedback</p> <p><i><b>This months speaker</b></i></p> <p>James Drawneek is going to show us component driven theming with automated testing this month.</p> <p>James is an experienced front end developer from CTi digital who has worked on small and enterprise level sites building re-usable and scalable front end stacks.</p> <p>Follow James on Twitter <a href="https://twitter.com/jamesdrawneek">@JamesDrawneek</a></p> '
-  url: https://www.meetup.com/DrupalYorkshire/events/237784592/
-  is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/a/5/0/c/thumb_384222252.jpeg
-  starts: 2017-03-16T18:30:00.0000000
-  ends: 2017-03-16T21:30:00.0000000
-  venue: Future Labs
 - name: Can beautiful ideas also be useful? &#8211; decoding the mysteries of quantum mechanics
   description: Can beautiful ideas also be useful? &#8211; decoding the mysteries of quantum mechanics
   url: http://www.ypsyork.org/events/can-beautiful-ideas-also-be-useful-decoding-the-mysteries-of-quantum-mechanics/
