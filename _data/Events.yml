@@ -6,19 +6,6 @@
   starts: 2017-03-31T09:30:00.0000000
   ends: 2017-03-31T15:00:00.0000000
   venue: The Hive
-- name: "Quantum States Tour: From the garden to the pub - Professor Irene D'Amico"
-  description: >-
-    Quantum States Tour: From the garden to the pub
-
-    Physsoc is delighted to welcome Professor Irene D'Amico from the Physics Department in York for a special talk to end this terms public lectures. Please join us as we explore how the weirdness of quantum mechanics is much closer than you'd think - please see a description from Professor D'Amico below:
-
-    Mmmmmmmmmm…You probably thought that nothing was further away from quantum mechanics than a pub or a garden…but here they come! Quantum states are going to expand their quirkiness among flowers and pints of lager. Come listen to what would happen if familiar flowers would become quantum flowers and to marvel about the weirdness of entangled beers...And maybe learn a quantum trick or two!
-  url: https://www.eventbrite.co.uk/e/quantum-states-tour-from-the-garden-to-the-pub-professor-irene-damico-tickets-32214616786?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/28955401/148307828230/1/original.jpg?h=200&w=450&rect=0,117,2048,1024&s=18fe06777740015200e103a1e47b6483
-  starts: 2017-03-08T19:00:00.0000000
-  ends: 2017-03-08T20:00:00.0000000
-  venue: P/X/001
 - name: BPSI Symposium and Networking Meeting, Spring 2017
   description: "We are delighted to invite you to the Biological Physical Sciences Institute (BPSI) Spring Symposium 2017. The event will consist of a series of keynote speeches, talks and poster presentations by our PhD students. \nThe Symposium will take place on 20 March 2017 (Monday) in Diana Bowles Lecture Theatre (B/K/018) in the Department of Biology (University of York). The event will start with refreshments at 12.30pm and will conclude with food and drink reception at 5:00pm. \nWe are looking forward to seeing you. \nThe BPSI Team\n\n PROGRAMME\n12.00-12.30pm\nPosters presenters mount posters (Atrium)\n 12.30-1.00pm\nRegistration desk open, coffee available (Atrium)\n\n\n 1.00-3.30pm\nSession 1 (Diana Bowles), Chaired by Dr Christoph Baumann (Dept of Biology)\n 1.00pm\nWelcome by Prof Mark Leake (Director, BPSI) and MRC Award introduction from Prof Mark Coles\n 1.00-1.50pm     \nProf Daniel Davis (Manchester Immunology Group, University of Manchester)\nUsing super-resolution microscopy to watch immune cells kill\n 1.50-2.10pm\n Prof Mark Coles (Depts of Biology/HYMS, University of York)\nWhat physics can tell us about immunity:  A journey from single molecules to spin out companies.\n 2.10-2.30pm\n Rosalyn Leaman (Depts of  Biology/Maths//HYMS, University of York)\nProbing LPS dynamics in the bacterial outer membrane using microscopy and maths \n 2.30-3.00pm\nCoffee break and poster session (Atrium)\n\n3.00-5.00pm\nSession 2 (Diana Bowles), Chaired by Prof Mark Coles (Dept of Biology)\n3.00-3.20pm\nLotte van Beek (Depts of Biology/Chemistry, University of York)\nResolving border conflicts: redefining structural domain boundaries for a Staphylococcus aureus surface protein involved in biofilm formation \n3.20-3.40pm\nDr Adam Wollman (Physics/Biology, University of York)\nSingle-molecule microscopy techniques to image Staphylococcus aureus and its toxins \n3.40-4.30pm\nProf Christian Eggeling (Radcliffe Dept of Medicine, University of Oxford)\nAdvanced optical microscopy in biomedical research: challenges and prospects\n4.30-5.00pm\nDiscussion panel (all speakers), Chaired by Prof Antal Rot (Depts of Biology/HYMS, University of York)\n\n5.00-6.00pm\nFood, drink, networking and poster session (Atrium)"
   url: https://www.eventbrite.co.uk/e/bpsi-symposium-and-networking-meeting-spring-2017-tickets-32155710596?aff=ebapi
@@ -27,6 +14,19 @@
   starts: 2017-03-20T12:00:00.0000000
   ends: 2017-03-20T18:00:00.0000000
   venue: Diana Bowles Lecture Theatre (B/K/018)
+- name: 'Tim Peake: Mission Update'
+  description: >-
+    Join us at the University of York Astrocampus to explore the night skies and discover more about British Astronaut Tim Peake's mission aboard the International Space Station. Now that Tim is safely back on Earth you can find out about the science he did and about how the human body reacts to being in space, as well as trying activities that push you to 'Train Like an Astronaut'. PLUS take the opportunity to look round the observatory and, weather permitting, explore the wonders of space through our top of the range telescopes.  
+
+    The event is family-friendly.   
+
+    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
+  url: https://www.eventbrite.co.uk/e/tim-peake-mission-update-tickets-32296911933?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/28601622/133368849299/1/original.jpg?h=200&w=450&rect=0,30,736,368&s=b170c0c4b67ace1f66d14d53e7d3ad70
+  starts: 2017-03-16T18:00:00.0000000
+  ends: 2017-03-16T19:30:00.0000000
+  venue: Astrocampus
 - name: The Hunt for Alien Life
   description: >-
     Join us at the University of York Astrocampus to explore the night skies and find out more about the hunt for alien life.  
@@ -56,19 +56,6 @@
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
   starts: 2017-04-06T18:30:00.0000000
   ends: 2017-04-06T19:30:00.0000000
-- name: 'Tim Peake: Mission Update'
-  description: >-
-    Join us at the University of York Astrocampus to explore the night skies and discover more about British Astronaut Tim Peake's mission aboard the International Space Station. Now that Tim is safely back on Earth you can find out about the science he did and about how the human body reacts to being in space, as well as trying activities that push you to 'Train Like an Astronaut'. PLUS take the opportunity to look round the observatory and, weather permitting, explore the wonders of space through our top of the range telescopes.  
-
-    The event is family-friendly.   
-
-    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
-  url: https://www.eventbrite.co.uk/e/tim-peake-mission-update-tickets-32296911933?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/28601622/133368849299/1/original.jpg?h=200&w=450&rect=0,30,736,368&s=b170c0c4b67ace1f66d14d53e7d3ad70
-  starts: 2017-03-16T18:00:00.0000000
-  ends: 2017-03-16T19:30:00.0000000
-  venue: Astrocampus
 - name: Shooting Stars!
   description: >-
     Ever seen a shooting star?  Now is your chance to handle one!  Join us at the University of York Astrocampus to explore the night skies and find out more about shooting stars: meteors.  Should we be worried about these rocks from space that wiped out the dinosaurs?  What would happen if one landed in York?  Experiment with computer simulations and make your own meteor to take home!  PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes.  
@@ -252,6 +239,14 @@
   starts: 2017-06-12T12:00:00.0000000
   ends: 2017-06-12T13:00:00.0000000
   venue: Yorkshire Museum (outside)
+- name: 'Green Manufacturing for the 21st Century Chemical Industry: Case studies, methodologies and tools'
+  description: "Increasing demand for chemicals worldwide, depleting resources, stricter legislation and the rising cost of waste disposal are placing increasing pressure on the chemical and related industries.  For any organisation to survive in the current climate, the issue of sustainability must be fundamental to the way it operates.   This free workshop provides an exciting opportunity to gain advice and scientific expertise, explore a broad range of cutting-edge case studies on green chemical manufacturing and learn about the methodologies and tools available to facilitate practical solutions. The workshop is open to all with an interest in the future of sustainable manufacturing.  The programme for the day includes:\n\n Industrial case studies from Croda, Thomas Swan, GSK (tbc) and Biome\n Insight into Industrial Decarbonisation and Energy Efficiency Roadmaps to 2050\n Drivers for change including the Business Case for Green and REACH \n Guidance on the transition to green manufacturing and circular economy\n Guidance on greener solvent selection and substitution\n Platform molecules and clean synthesis\n Online learning resources and associated tools including metrics and solvent selection\n Opportunities for knowledge transfer, discussion and networking\n\n Speakers\nMike Lancaster, Chemical Industries Association\nDr Simon Grant, Thomas Swan & Co. Ltd\nBecky Wood, Croda International plc\nPaul Mines, Biome Technologies plc\nDr John Hayler, GlaxoSmithKline plc (tbc)\nJo Lloyd, ERM\nProf. Peter Ball, University of York\nDr Rob McElroy, University of York\nDr James Sherwood, University of York\nDr Tom Farmer, University of York\nLouise Summerton, University of York\nRick Taylor, University of York\n\n\n\n \n\n"
+  url: https://www.eventbrite.co.uk/e/green-manufacturing-for-the-21st-century-chemical-industry-case-studies-methodologies-and-tools-tickets-32618322280?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/29041083/30757136331/1/original.jpg?h=200&w=450&rect=0,0,466,233&s=96da6888ba80151208bc8c27ef1fbf23
+  starts: 2017-05-24T10:00:00.0000000
+  ends: 2017-05-24T17:00:00.0000000
+  venue: Green Chemistry Seminar room, C/F/106
 - name: 'York Science Trail: 6th February 2017 and then 12 noon on 2nd Monday of each month'
   description: "                   York  Science  Trail:   a new project\n\n                             Diversifying  York's  history \nvia Science, Technology, Engineering,  Medicine and  Mathematics.\n\n                        Will you or your group(s) get involved ?\n\nNB: February meeting will now be on Feb 6th, NOT Feb 13th\n\nOpen Meetings: Jan 9th, Feb 6th, March 13th\n12 noon; 2nd Mondays; King’s Manor Refectory\n                             email  JOHN BIBBY    jb43@york.ac.uk\n                                 \n\n===================\n                                    MORE  DETAILS  FOLLOWING  SOON!\n\n\n\n\n====   SEE BELOW FOR TEXT RELATING TO OUR FIRST MEETING ON 5 DECEMBER:\nThis is an OPEN meeting to discuss a proposed Science Trail for York. Please sign up if you are interested, even if you cannot come to the meeting. And tell your friends!\nDetails to follow: an aim is to eventually include all science-related places in York.\nWhat is \"Science\"?  We take a broad definition. It certainly includes all of \"STEMM\": Science, Technology, Engineering, Medicine and Mathematics.\nWhat do we mean by \"York\"?  Again, our definition is broad. We can include outliers such as Cayley/ Scarborough/ Whitby/ Castle Howard etc.. However, initially we shall focus on places walkable from York city centre. Examples are below. But if you want to include something else, please join us! \nHow will this get published? All avenues are possible. Online, on-paper, on-air. Apps and baps and flaps. We want to rach and energise as many people as possible.\nWho is behind this? If the idea fails, you can blame John Bibby. If it succeeds, there will be many parents! So far we have had welcome inputs from the Yorkshire Philosophical Society, U3A, York Past and Present, Timeline York, York Bus Forum, local history societies and even a few schools and universities  I am sure we will get many more!\nPlease give some examples.  Some locations will be well-known, such as:\n\nCholera burial-ground\nNational Railway Museum\nTreasurer’s House\n\nBut we will also include lesser-known places & stories such as Thomas Laycock and the People’s Dispensary. I’d like all Local History groups to provide suggestions for inclusion from their local areas.\nOne idea is for the trail to zigzag round the city walls in a clockwise direction, starting and finish at the railway station. Plans are still at an early stage. The first thing to do is to develop a list of possible points on the trail, along with a list of potential partner organisations and individuals. Please volunteer or let John Bibby have your nominations for both of these lists.\nJohn can be contacted via jb43@york.ac.uk or on 01904-330334.\nPlease forward this link to anyone who might be interested!"
   url: https://www.eventbrite.co.uk/e/york-science-trail-6th-february-2017-and-then-12-noon-on-2nd-monday-of-each-month-tickets-30126949517?aff=ebapi
@@ -401,44 +396,6 @@
   starts: 2017-05-15T09:00:00.0000000
   ends: 2017-05-16T16:30:00.0000000
   venue: York
-- name: 'Green Manufacturing for the 21st Century Chemical Industry: Case studies, methodologies and tools'
-  description: "Increasing demand for chemicals worldwide, depleting resources, stricter legislation and the rising cost of waste disposal are placing increasing pressure on the chemical and related industries.  For any organisation to survive in the current climate, the issue of sustainability must be fundamental to the way it operates.   This free workshop provides an exciting opportunity to gain advice and scientific expertise, explore a broad range of cutting-edge case studies on green chemical manufacturing and learn about the methodologies and tools available to facilitate practical solutions. The workshop is open to all with an interest in the future of sustainable manufacturing.  The programme for the day includes:\n\n Industrial case studies from Croda, Thomas Swan, GSK (tbc) and Biome\n Insight into Industrial Decarbonisation and Energy Efficiency Roadmaps to 2050\n Drivers for change including the Business Case for Green and REACH \n Guidance on the transition to green manufacturing and circular economy\n Guidance on greener solvent selection and substitution\n Platform molecules and clean synthesis\n Online learning resources and associated tools including metrics and solvent selection\n Opportunities for knowledge transfer, discussion and networking\n\n Speakers\nMike Lancaster, Chemical Industries Association\nDr Simon Grant, Thomas Swan & Co. Ltd\nBecky Wood, Croda International plc\nPaul Mines, Biome Technologies plc\nDr John Hayler, GlaxoSmithKline plc (tbc)\nJo Lloyd, ERM\nProf. Peter Ball, University of York\nDr Rob McElroy, University of York\nDr James Sherwood, University of York\nDr Tom Farmer, University of York\nLouise Summerton, University of York\nRick Taylor, University of York\n\n\n\n \n\n"
-  url: https://www.eventbrite.co.uk/e/green-manufacturing-for-the-21st-century-chemical-industry-case-studies-methodologies-and-tools-tickets-32618322280?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/29041083/30757136331/1/original.jpg?h=200&w=450&rect=0,0,466,233&s=96da6888ba80151208bc8c27ef1fbf23
-  starts: 2017-05-24T10:00:00.0000000
-  ends: 2017-05-24T17:00:00.0000000
-  venue: Green Chemistry Seminar room, C/F/106
-- name: York Code Dojo - Conway's Game of Life
-  description: "<p>For our second meeting of 2017, we'll draw graphics based on cellular division to the rules of John Conway's Game Of Life.</p> <p>The session begins with a description of the problem, followed by grouping into pairs to work on it, and brief presentation of solutions at the end.  All languages are OK to use.  Bring a laptop, with plenty of charge :)</p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend.  Students very welcome!</p> <p>NOTE: Food in pizza form will be provided.  On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p><i>The room for the York Code Dojo is FT/211. This is located in the Fountains learning Centre on the second floor. Simply go into the library and either take the lift of walk up the stairs to the second floor. When you come out of either, walk along the open corridor reading the door signs and FT/211 is on your right.</i> </p> <p>Sponsored by York St. John University.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> "
-  url: https://www.meetup.com/York-Code-Dojo/events/237505179/
-  is-free: true
-  logo: http://photos4.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-03-08T18:30:00.0000000
-  ends: 2017-03-08T21:00:00.0000000
-  venue: Room FT/211 York St John University
-- name: Meet for Code and Coffee in York
-  url: https://www.meetup.com/York-Code-Coffee/events/237755119/
-  is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-03-08T07:00:00.0000000
-  ends: 2017-03-08T10:00:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/238107951/
-  is-free: true
-  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-03-08T08:00:00.0000000
-  ends: 2017-03-08T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: Come along and join in with our free IT Networking Event
-  description: "<p>The Windows User Group is pleased to invite you to join us for another evening of tech talk and networking with fellow IT Professionals, with MVP's Chris Rhodes and Andrew Bettany.</p> <p>The evening will cover the following topics:</p> <p><b>-What's New in Windows Server 2016?Challenges and Opportunities 2017 </b></p> <p><b>-What's New in Windows Server 2016?</b></p> <p>You may have already deployed <b>Server 2016,</b> but many still use Server 2012 R2. Chris and Andrew will discuss the state of play with the Server operating system and how the challenge of cloud, connectivity and constant cost savings are defining how your servers should behave.<br/>Join us for a quick tour of the how Server 2016 brings you enhancenced management and control with virtualisaton and nano technologies, software-defined networking, PowerShell 5.0, Storage enhancments and greater security.</p> <p><b>Challenges and Opportunities 2017 </b><br/>As with most WIndows User Group events, we want your feedback and interaction. The technology areas that you want to hear about and disucss will be on the agenda. Share the milestones from 2016 and look ahead to the next 12 months. What are the areas in your business that need more attention or additional resources to exploit. How is the constant malware threat, such as Ransomware, affecting your customers, or do you have sufficient staff to build and grow you business?</p> <p>Be sure to come along with questions, as well as a desire to meet and network with fellow IT Pros. These events fill up fast and we have limited seating, so please register early to guarantee a seat. <br/>Event attendance is free, but there will also be a number of VIP Sponsor seats which offer extra benefits. </p> <p>Register now!  Free to attend.</p> <p><a href=\"https://www.eventbrite.co.uk/e/whats-new-in-server-2016-hosted-by-windows-user-group-leeds-8th-march-2017-6pm-tickets-30857234820\">Book your place.</a></p> "
-  url: https://www.meetup.com/Windows-User-Group-event-Leeds/events/237954966/
-  is-free: true
-  starts: 2017-03-08T18:00:00.0000000
-  ends: 2017-03-08T21:00:00.0000000
-  venue: Cross Keys Pub, Leeds
 - name: Meet for Code and Coffee in York
   url: https://www.meetup.com/York-Code-Coffee/events/238022197/
   is-free: true
