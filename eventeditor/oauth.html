@@ -13,13 +13,18 @@
         return decodeURIComponent(results[2].replace(/\+/g, " "));
     }
 
+    function removeDoubleQuotes(originalString) {
+        return originalString.replace(/['"]+/g, '');
+    }
+
+
     // GitHUB should have passed back the Code and State as query string paramaters
     var oAuthcode = getParameterByName("code");
     var state = getParameterByName("state");
 
     // The state should match the one we sent in the original request
     var expectedState = localStorage.getItem('state');
-    if (expectedState !== state && state !== "") {
+    if (expectedState !== state || state === "") {
         alert("Invalid state!");
     }
     else {
@@ -32,8 +37,9 @@
         http.onreadystatechange = function () {
             if (http.readyState == 4) {
                 if (http.status == 200) {
-                    localStorage.setItem('access_code', http.responseText);
-                    window.location.replace("http://localhost/eventeditor/main.html");
+                    localStorage.setItem('access_code', removeDoubleQuotes(http.responseText));
+                    //window.location.replace("http://localhost/eventeditor/main.html");
+                    window.location.replace("https://www.yorkdevelopers.org/eventeditor/main.html");
                 }
                 else {
                     alert(http.responseText);

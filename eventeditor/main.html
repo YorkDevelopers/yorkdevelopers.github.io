@@ -1,8 +1,67 @@
 <html>
-    <head>
-        <title>Event Editor</title>
-    </head>
 
-    <body>
-    </body>
+<head>
+    <title>Event Editor</title>
+</head>
+
+<body>
+
+    <form action="javascript:save();">
+        <textarea name="contents" id="contents" cols="40" rows="5"></textarea>
+        <button type="submit">Save</button>
+    </form>
+
+    <script>
+        
+        function removeDoubleQuotes(originalString) {
+            return originalString.replace(/['"]+/g, '');
+        }
+
+        function load() {
+            var access_code = localStorage.getItem('access_code');
+
+            var url = "https://yorkdevelopersorgfeeds.azurewebsites.net/api/editor_load?accessToken=" + access_code;
+            var http = new XMLHttpRequest();
+            http.open("GET", url, true);
+
+            http.onreadystatechange = function () {
+                if (http.readyState == 4) {
+                    if (http.status == 200) {
+                        document.getElementById("contents").value = removeDoubleQuotes(http.responseText);
+                    }
+                    else {
+                        alert(http.responseText);
+                    }
+                }
+
+            }
+            http.send();
+        }
+
+        function save() {
+            var access_code = localStorage.getItem('access_code');
+            var contents = document.getElementById("contents").value;
+            var url = "https://yorkdevelopersorgfeeds.azurewebsites.net/api/editor_save?accessToken=" + access_code;
+            var http = new XMLHttpRequest();
+            http.open("POST", url, true);
+            http.onreadystatechange = function () {
+                if (http.readyState == 4) {
+                    if (http.status == 200) {
+                        alert("Your changes have been saved")
+                    }
+                    else {
+                        alert(http.responseText);
+                    }
+                }
+
+            }
+            http.send(contents);
+
+        }
+
+        load();
+    </script>
+
+</body>
+
 </html>
