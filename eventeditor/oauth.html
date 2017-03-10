@@ -1,0 +1,47 @@
+<script>
+    //http://localhost/oauth.html?code=205bb7275192416deaee&state=XCrHWWvFfBQfooGnXoFBBf9FvHHWDo
+
+    function getParameterByName(name, url) {
+        if (!url) {
+            url = window.location.href;
+        }
+        name = name.replace(/[\[\]]/g, "\\$&");
+        var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, " "));
+    }
+
+    // GitHUB should have passed back the Code and State as query string paramaters
+    var oAuthcode = getParameterByName("code");
+    var state = getParameterByName("state");
+
+    // The state should match the one we sent in the original request
+    var expectedState = localStorage.getItem('state');
+    if (expectedState !== state && state !== "") {
+        alert("Invalid state!");
+    }
+    else {
+        // The code we have been given is only a temporary one,  we now need to subsitute it for a real one.
+        // The problem is that we don't want to expose our client secret in javascript,  so we have to do this
+        // from a server side call.  For us,  we can use an Azure function.
+        var url = "https://yorkdevelopersorgfeeds.azurewebsites.net/api/oauthTokenExchange?oAuthcode=" + oAuthcode + "&oAuthState=" + state;
+        var http = new XMLHttpRequest();
+        http.open("POST", url, true);
+        http.onreadystatechange = function () {
+            if (http.readyState == 4) {
+                if (http.status == 200) {
+                    localStorage.setItem('access_code', http.responseText);
+                    window.location.replace("http://localhost/eventeditor/main.html");
+                }
+                else {
+                    alert(http.responseText);
+                }
+            }
+
+        }
+        http.send();
+    }
+
+</script>
