@@ -5,14 +5,6 @@
   starts: 2017-03-13T07:00:00.0000000
   ends: 2017-03-13T10:00:00.0000000
   venue: The Perky Peacock
-- name: Free Open to Everyone Evening!
-  description: "<p><b>What's happening?</b></p> <p>Are you an artist, maker, hobbyist, tinkerer, engineer or someone who just likes to make things or even just discuss creativity in Leeds?</p> <p>Come along and talk to like minded people and members at Leeds Hackspace, feel free to bring along a project that you're working on or just have a chat.</p> <p><b>So is this free? Do I have to book or something?</b></p> <p>Yes, it is free. Leeds Hackspace is a work-space, community group type and workshop area. We have snacks you can buy at our own Tuck Shop, internet access via WiFi or wired Ethernet.</p> <p><b>There doesn't seem to be many attending?</b></p> <p>A lot of our members, some 30+ do not use Meetup, and they regularly attend the open evenings/days without RSVPing on here. So don't worry, the open evenings happen regularly and every week.</p> <p><b>What do you have?</b></p> <p>Wood and metal workshop, laser cutter, 3D Printer, Vinyl cutter, computers, electronics, a heat press, and all sorts of <a href=\"https://wiki.leedshackspace.org.uk/wiki/Leeds_Hackspace\">other goodies</a>. However, using a lot of these things require an induction and for you to be a paying member, but we have these open evenings so that you can look around and check the place out. Some members are happy to help you if you need to be pointed in the right direction or have something that needs repairs.</p> <p><b>So is this a business.. ?</b></p> <p>Leeds Hackspace is registered as a business, but it is run voluntarily by Directors and members, if you want to see a change you can make it happen.</p> <p><b>How do I get there?</b></p> <p>You can find out more details about visiting here: <a href=\"http://leedshackspace.org.uk/getting-here/\"><a href=\"http://leedshackspace.org.uk/getting-here/\" class=\"linkified\">http://leedshackspace.org.uk/getting-here/</a></a> there is limited on-site free parking, and on-street parking is free after 6pm.</p> <p><b>What if I want to ask more questions?</b></p> <p>We also have a mailing list: <a href=\"https://groups.google.com/forum/#!forum/leeds-hack-space\" class=\"linkified\">https://groups.google.com/forum/#!forum/leeds-hack-space</a></p> "
-  url: https://www.meetup.com/Leeds-Hackspace/events/238166850/
-  is-free: true
-  logo: http://photos2.meetupstatic.com/photos/event/6/c/e/a/thumb_427947882.jpeg
-  starts: 2017-03-14T19:00:00.0000000
-  ends: 2017-03-14T23:30:00.0000000
-  venue: Leeds Hackspace
 - name: Meet for Code and Coffee in York
   url: https://www.meetup.com/York-Code-Coffee/events/238022199/
   is-free: true
@@ -83,13 +75,6 @@
   starts: 2017-03-22T19:00:00.0000000
   ends: 2017-03-22T21:00:00.0000000
   venue: The Cross Keys
-- name: UK Oracle APEX Meetup - Leeds - All Welcome
-  description: '<p>We are excited to be announcing our next Leeds APEX Meetup event and entry to this is FREE! </p> <p>&lt;a href="https://www.google.co.uk/maps/place/the+adelphi+leeds/data=!4m2!3m1!1s0x0:0x2529e24b2de94794?sa=X&amp;ved=0CC8QrwswAGoVChMIq6Cx0KvvxgIVxbwUCh2OgwWs"&gt;&lt;/a&gt;</p> <p>This event will take place on:</p> <p>Wednesday 22th March between 6.30 pm and 9.00 pm.  </p> <p>Whether you have never used APEX before, are a seasoned developer or a student, come join us for the evening. </p> <p>This event will be held at The Adelphi Leeds.</p> <p>Agenda</p> <p>The Final Agenda is still being finalised!</p> <p>If you are interested in demonstrating some of your work at this or future Meetup events, please get in touch!</p> <p><br/>You will find cheap parking opposite the venue after 6pm. The venue is only a few minutes from Leeds train station so hopefully this a great location for all. </p> <p>Food will not be provided so please grab something before you come.</p> <p>Space is limited so please make sure you RSVP.</p> <p>Unfortunately, your beer bill will be your own! </p> '
-  url: https://www.meetup.com/orclapex_uk/events/237874966/
-  is-free: true
-  starts: 2017-03-22T19:00:00.0000000
-  ends: 2017-03-22T22:00:00.0000000
-  venue: The Adelphi
 - name: Kotlin 1.1 Event with JetBrains
   description: "<p>Kotlin 1.1 was released on 1st March and this event will be a tie-in with the Kotlin development team at JetBrains.</p> <p>The headline new features in Kotlin 1.1 include:  </p> <p>• Coroutines - simplification of asynchronous programming using suspendible fibres.</p> <p>• JavaScript - compilation of Kotlin to JavaScript</p> <p>• Type Aliases - provide readable aliases for complex data &amp; function types</p> <p>• lots more new features/syntactic sugar</p> <p><b>Live Demo of Kotlin 1.1 (at 18:00)</b><br/>Watch a live stream of Andrey Breslav's demonstration of the key features in 1.1. Andrey is the lead language designer of Kotlin at JetBrains.</p> <p><b>Q &amp; A Session</b><br/>Participate in a live Q&amp;A session with the Kotlin Development Team.</p> <p><b>Future Features</b> <br/>JetBrains are also highlighting the features to be expected in future versions of Kotlin. This event will allow us to vote on the priority of these language features and for this priotirsation to be passed directly to the Kotlin team at JetBrains.</p> <p>\n\n\n<b>Registation &amp; Attendence</b></p> <p>All attendees must be pre-registered at least 1 day before the event to allow time to generate name badges.<br/>On arrival please report to reception to be given your security pass.</p> "
   url: https://www.meetup.com/Kotlin-Yorkshire-Meetup-Group/events/238183512/
@@ -105,7 +90,7 @@
   starts: 2017-03-23T18:00:00.0000000
   ends: 2017-03-23T21:00:00.0000000
   venue: 'The White Cloth Gallery '
-- name: Monthly meeting
+- name: Game Developer Monthly meeting
   description: "<p>The Minster Inn is off Bootham, about 5 minutes walk from Bootham Bar.  It has recently been renovated, and now serves stone baked Pizza, and a good selection of Ales on tap and in bottles.  I have reserved a room from 7 for Thursday.  If you want to keep it private, shut the door; but we didn't have much trouble last time with some regulars wandering in!</p> <p><a href=\"http://minsterinn.co.uk/\"><a href=\"http://minsterinn.co.uk/\" class=\"linkified\">http://minsterinn.co.uk/</a></a></p> <p>As always, if you have something to show, feel free to bring it.  Mostly these meetings are a bunch of interesting folks chatting about Games and development over a beer.</p> <p>Regards,</p> <p><br/>Chris.</p> "
   url: https://www.meetup.com/York-Game-Developers/events/237984886/
   is-free: true
