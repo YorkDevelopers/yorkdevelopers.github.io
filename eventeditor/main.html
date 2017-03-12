@@ -22,99 +22,7 @@
             -moz-border-radius: 100%;
             border-radius: 100%;
         }
-        /*
-
-
-
-
-
-
-
-        .modalDialog {
-            position: fixed;
-            font-family: Arial, Helvetica, sans-serif;
-            top: 0;
-            right: 0;
-            bottom: 0;
-            left: 0;
-            background: rgba(0, 0, 0, 0.8);
-            z-index: 99999;
-            opacity: 0;
-            -webkit-transition: opacity 400ms ease-in;
-            -moz-transition: opacity 400ms ease-in;
-            transition: opacity 400ms ease-in;
-            pointer-events: none;
-        }
-
-
-
-
-
-
-
-
-
-
-        .modalDialog:target {
-            opacity: 1;
-            pointer-events: auto;
-        }
-
-
-
-
-
-
-        .modalDialog>div {
-            width: 400px;
-            position: relative;
-            margin: 10% auto;
-            padding: 5px 20px 13px 20px;
-            border-radius: 10px;
-            background: #fff;
-            background: -moz-linear-gradient(#fff, #999);
-            background: -webkit-linear-gradient(#fff, #999);
-            background: -o-linear-gradient(#fff, #999);
-        }
-
-
-
-
-
-
-
-        .close {
-            background: #606061;
-            color: #FFFFFF;
-            line-height: 25px;
-            position: absolute;
-            right: -12px;
-            text-align: center;
-            top: -10px;
-            width: 24px;
-            text-decoration: none;
-            font-weight: bold;
-            -webkit-border-radius: 12px;
-            -moz-border-radius: 12px;
-            border-radius: 12px;
-            -moz-box-shadow: 1px 1px 3px #000;
-            -webkit-box-shadow: 1px 1px 3px #000;
-            box-shadow: 1px 1px 3px #000;
-        }
-
-
-
-
-
-
-
-
-        .close:hover {
-            background: #00d9ff;
-        }*/
     </style>
-
-    <!--<a href="#openModal">Add Event</a>-->
 
     <table id="event-table" class="table table-striped table-bordered">
         <thead>
@@ -186,10 +94,10 @@
             };
 
             self.addEvent = function () {
-                self.events.push({
-                    Name: "",
-                    Description: ""
-                });
+                self.currentEvent = new Event();
+                self.currentEvent.Name = "New Event";
+                $('#myModal').modal('show');
+                self.events.push(self.currentEvent);
             };
 
 
@@ -235,75 +143,23 @@
     </script>
 
 
-    <!--<div id="openModal" class="modalDialog" data-bind="with: currentEvent">
-        <div>
-            <a href="#close" title="Close" class="close">X</a>
-            <h2>Add/Edit Event</h2>
-            <h2 data-bind="text: Name"></h2>
-
-            <div class="row">
-                <div class="md-col-2">Name</div>
-                <div class="md-col-2"><input type="text" /></div>
-            </div>
-            <div class="row">
-                <div class="md-col-2">Description</div>
-                <div class="md-col-2"><input type="text" /></div>
-            </div>
-            <div class="row">
-                <div class="md-col-2">URL</div>
-                <div class="md-col-2"><input type="text" /></div>
-            </div>
-        </div>
-    </div>-->
-
-<!--
-    <div id="myModal" class="modal fade" role="dialog" data-bind="with: currentEvent">
-        <div class="modal-dialog">
-
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                    <h4 class="modal-title" data-bind="text: Name"></h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
                 </div>
-                <div class="modal-body">
-                    <div class="row">
-                        <div class="md-col-2">Name</div>
-                        <div class="md-col-2"><input type="text" /></div>
-                    </div>
-                    <div class="row">
-                        <div class="md-col-2">Description</div>
-                        <div class="md-col-2"><input type="text" /></div>
-                    </div>
-                    <div class="row">
-                        <div class="md-col-2">URL</div>
-                        <div class="md-col-2"><input type="text" /></div>
-                    </div>
+                <div class="modal-body" data-bind="with: currentEvent">
+                    <input type="text" class="form-control" data-bind="value: Name" />
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
                 </div>
             </div>
-
         </div>
-    </div>-->
-
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document" >
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
-      </div>
-      <div class="modal-body" data-bind="with: currentEvent">
-        <input type="text" class="form-control" data-bind="value: Name"/>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
     </div>
-  </div>
-</div>
 
 </body>
 
