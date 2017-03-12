@@ -61,19 +61,6 @@
   starts: 2017-03-13T18:00:00.0000000
   ends: 2017-03-13T19:30:00.0000000
   venue: Astrocampus
-- name: Shooting Stars!
-  description: >-
-    Ever seen a shooting star?  Now is your chance to handle one!  Join us at the University of York Astrocampus to explore the night skies and find out more about shooting stars: meteors.  Should we be worried about these rocks from space that wiped out the dinosaurs?  What would happen if one landed in York?  Experiment with computer simulations and make your own meteor to take home!  PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes.  
-
-    The event is family-friendly.  
-
-    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
-  url: https://www.eventbrite.co.uk/e/shooting-stars-tickets-32296836708?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/28601512/133368849299/1/original.jpg?h=200&w=450&rect=0,265,1752,876&s=d5fd72bc9b82127112e525175216b0e5
-  starts: 2017-03-14T18:00:00.0000000
-  ends: 2017-03-14T19:30:00.0000000
-  venue: Astrocampus
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -88,6 +75,19 @@
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
   starts: 2017-04-06T18:30:00.0000000
   ends: 2017-04-06T19:30:00.0000000
+- name: Shooting Stars!
+  description: >-
+    Ever seen a shooting star?  Now is your chance to handle one!  Join us at the University of York Astrocampus to explore the night skies and find out more about shooting stars: meteors.  Should we be worried about these rocks from space that wiped out the dinosaurs?  What would happen if one landed in York?  Experiment with computer simulations and make your own meteor to take home!  PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes.  
+
+    The event is family-friendly.  
+
+    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
+  url: https://www.eventbrite.co.uk/e/shooting-stars-tickets-32296836708?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/28601512/133368849299/1/original.jpg?h=200&w=450&rect=0,265,1752,876&s=d5fd72bc9b82127112e525175216b0e5
+  starts: 2017-03-14T18:00:00.0000000
+  ends: 2017-03-14T19:30:00.0000000
+  venue: Astrocampus
 - name: Solvents Day 2017
   description: >+
     A free one-day symposium on safer, greener and more sustainable solvents.
@@ -398,20 +398,6 @@
   logo: https://cdn.evbuc.com/images/27247437/133451304473/1/original.jpg?h=200&w=450&rect=0,0,970,485&s=f9b087fa3fdd2d26e4cdaec8af22b971
   starts: 2017-03-27T09:00:00.0000000
   ends: 2017-03-28T16:30:00.0000000
-  venue: York
-- name: VMware vSphere 6.0 Masterclass
-  description: >-
-    VMware vSphere 6.0 Masterclass
-
-    A hands on approach to building a VMware cluster from scratch. Taking bare metal through to a full deployment of a VMware ESXi 6.0, vCenter 6.0 management server and connecting this environment to an iSCSI/NFS target.
-
-    Designing and building a highly available platform to run virtual machines. Real life experiences and expertise given from on the job experience.
-
-    For more details visit our course outline and please do not hesitate to contact us if you have any questions.
-  url: https://www.eventbrite.co.uk/e/vmware-vsphere-60-masterclass-tickets-31880537546?aff=ebapi
-  logo: https://cdn.evbuc.com/images/28095081/133451304473/1/original.jpg?h=200&w=450&rect=0,0,322,161&s=461edcba280d0ef888ddaae04bb94eb4
-  starts: 2017-05-15T09:00:00.0000000
-  ends: 2017-05-16T16:30:00.0000000
   venue: York
 - name: Tech Scene York
   description: >-
