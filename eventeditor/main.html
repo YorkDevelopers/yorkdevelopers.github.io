@@ -9,12 +9,19 @@
     <form action="javascript:save();">
         <textarea name="contents" id="contents" cols="40" rows="5"></textarea>
         <button type="submit">Save</button>
+        <button type="submit" onclick="parseJson()">Parse</button>
     </form>
 
     <script>
         
         function displayEvents(events) {
             alert(events.events.length);
+        }
+
+        function parseJson() {
+            var json = document.getElementById("contents");
+            var events = JSON.parse(json);
+            displayEvents(events);
         }
 
         function removeLeadingAndTrailingQuotes(originalString) {
@@ -31,10 +38,10 @@
             http.onreadystatechange = function () {
                 if (http.readyState == 4) {
                     if (http.status == 200) {
-                        document.getElementById("contents").value = removeLeadingAndTrailingQuotes(http.responseText);
-                        var json = "{\"events\":" + removeLeadingAndTrailingQuotes(http.responseText) + "}";
-                        var events = JSON.parse(json);
-                        onSuccess(events);
+                        document.getElementById("contents").value = http.responseText;
+                        // var json = "{\"events\":" + removeLeadingAndTrailingQuotes(http.responseText) + "}";
+                        // var events = JSON.parse(json);
+                        // onSuccess(events);
                     }
                     else {
                         alert(http.responseText);
