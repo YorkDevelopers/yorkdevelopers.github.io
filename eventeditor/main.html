@@ -13,11 +13,15 @@
 
     <script>
         
+        function displayEvents(events) {
+            alert(events.length);
+        }
+
         function removeDoubleQuotes(originalString) {
             return originalString.replace(/['"]+/g, '');
         }
 
-        function load() {
+        function load(onSuccess) {
             var access_code = localStorage.getItem('access_code');
 
             var url = "https://yorkdevelopersorgfeeds.azurewebsites.net/api/editor_load?accessToken=" + access_code;
@@ -28,6 +32,9 @@
                 if (http.readyState == 4) {
                     if (http.status == 200) {
                         document.getElementById("contents").value = removeDoubleQuotes(http.responseText);
+                        var json = removeDoubleQuotes(http.responseText);
+                        var events = JSON.parse(json);
+                        onSuccess(events);
                     }
                     else {
                         alert(http.responseText);
@@ -59,7 +66,7 @@
 
         }
 
-        load();
+        load(displayEvents);
     </script>
 
 </body>
