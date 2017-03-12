@@ -14,7 +14,7 @@
     <script>
         
         function displayEvents(events) {
-            alert(events.length);
+            alert(events.events.length);
         }
 
         function removeLeadingAndTrailingQuotes(originalString) {
@@ -32,7 +32,7 @@
                 if (http.readyState == 4) {
                     if (http.status == 200) {
                         document.getElementById("contents").value = removeLeadingAndTrailingQuotes(http.responseText);
-                        var json = "{events : " + removeLeadingAndTrailingQuotes(http.responseText) + "}";
+                        var json = "{\"events\":" + removeLeadingAndTrailingQuotes(http.responseText) + "}";
                         var events = JSON.parse(json);
                         onSuccess(events);
                     }
