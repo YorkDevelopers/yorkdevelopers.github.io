@@ -17,8 +17,8 @@
             alert(events.length);
         }
 
-        function removeDoubleQuotes(originalString) {
-            return originalString.replace(/['"]+/g, '');
+        function removeLeadingAndTrailingQuotes(originalString) {
+            return originalString.substr(1).slice(0, -1);
         }
 
         function load(onSuccess) {
@@ -31,7 +31,7 @@
             http.onreadystatechange = function () {
                 if (http.readyState == 4) {
                     if (http.status == 200) {
-                        document.getElementById("contents").value = removeDoubleQuotes(http.responseText);
+                        document.getElementById("contents").value = removeLeadingAndTrailingQuotes(http.responseText);
                         var json = removeDoubleQuotes(http.responseText);
                         var events = JSON.parse(json);
                         onSuccess(events);
