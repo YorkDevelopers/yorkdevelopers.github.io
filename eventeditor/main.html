@@ -2,6 +2,7 @@
 
 <head>
     <title>Event Editor</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 </head>
 
 <body>
@@ -13,7 +14,6 @@
     </form>
 
     <script>
-        
         function displayEvents(events) {
             alert(events.events.length);
         }
@@ -32,24 +32,30 @@
             var access_code = localStorage.getItem('access_code');
 
             var url = "https://yorkdevelopersorgfeeds.azurewebsites.net/api/editor_load?accessToken=" + access_code;
-            var http = new XMLHttpRequest();
-            http.open("GET", url, true);
 
-            http.onreadystatechange = function () {
-                if (http.readyState == 4) {
-                    if (http.status == 200) {
-                        document.getElementById("contents").value = http.responseText;
-                        // var json = "{\"events\":" + removeLeadingAndTrailingQuotes(http.responseText) + "}";
-                        // var events = JSON.parse(json);
-                        // onSuccess(events);
-                    }
-                    else {
-                        alert(http.responseText);
-                    }
-                }
+            $.getJSON(url, function (data) {
+                onSuccess(data);
+            })
 
-            }
-            http.send();
+
+            // var http = new XMLHttpRequest();
+            // http.open("GET", url, true);
+
+            // http.onreadystatechange = function () {
+            //     if (http.readyState == 4) {
+            //         if (http.status == 200) {
+            //             document.getElementById("contents").value = http.responseText;
+            //             // var json = "{\"events\":" + removeLeadingAndTrailingQuotes(http.responseText) + "}";
+            //             // var events = JSON.parse(json);
+            //             // onSuccess(events);
+            //         }
+            //         else {
+            //             alert(http.responseText);
+            //         }
+            //     }
+
+            // }
+            // http.send();
         }
 
         function save() {
