@@ -65,14 +65,36 @@
         }
 
         var Event = function (data) {
-            this.Name = ko.observable(data.Name || '');
-            this.Description = ko.observable(data.Description || '');
-            this.Logo = ko.observable(data.Logo || '');
-            this.URL = ko.observable(data.URL || '');
-            this.IsFree = ko.observable(data.IsFree || '');
-            this.Starts = ko.observable(data.Starts || '');
-            this.Ends = ko.observable(data.Ends || '');
-            this.Venue = ko.observable(data.Venue || '');
+            var self = this;
+
+            data = data || {};
+
+            self.Name = ko.observable(data.Name || '');
+            self.Description = ko.observable(data.Description || '');
+            self.Logo = ko.observable(data.Logo || '');
+            self.URL = ko.observable(data.URL || '');
+            self.IsFree = ko.observable(data.IsFree || '');
+            self.Starts = ko.observable(data.Starts || '');
+            self.Ends = ko.observable(data.Ends || '');
+            self.Venue = ko.observable(data.Venue || '');
+
+            self.copyThisEvent = function () {
+                var newEvent = new Event();
+                newEvent.copyValuesFrom(self);
+                return newEvent;
+            }
+
+            self.copyValuesFrom = function (data) {
+                self.Name(data.Name());
+                self.Description(data.Description());
+                self.Logo(data.Logo());
+                self.URL(data.URL());
+                self.IsFree(data.IsFree());
+                self.Starts(data.Starts());
+                self.Ends(data.Ends());
+                self.Venue(data.Venue());
+            }
+
         };
 
         var ViewModel = function (data) {
@@ -85,8 +107,11 @@
             self.currentEvent = ko.observable(null);
 
             self.editEvent = function (event) {
-                self.currentEvent = event;
+                self.currentEvent(event.copyThisEvent());
                 $('#myModal').modal('show');
+
+                //on ok
+                event.copyValuesFrom(self.currentEvent);
             };
 
             self.deleteEvent = function (event) {
@@ -148,10 +173,48 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                    <h4 class="modal-title" id="myModalLabel">Add/Edit Event</h4>
                 </div>
                 <div class="modal-body" data-bind="with: currentEvent">
-                    <input type="text" class="form-control" data-bind="value: Name" />
+                    <div class="row">
+                        <div class="md-col-6">Name:</div>
+                        <div class="md-col-6"><input type="text" class="form-control" data-bind="value: Name" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">Description:</div>
+                        <div class="md-col-6"><input type="text" class="form-control" data-bind="value: Description" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">Venue:</div>
+                        <div class="md-col-6"><input type="text" class="form-control" data-bind="value: Venue" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">URL:</div>
+                        <div class="md-col-6"><input type="text" class="form-control" data-bind="value: URL" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">Logo URL:</div>
+                        <div class="md-col-6"><input type="text" class="form-control" data-bind="value: Logo" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">IsFree:</div>
+                        <div class="md-col-6"><input type="checkbox" class="form-control" data-bind="value: IsFree" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">Starts:</div>
+                        <div class="md-col-6"><input type="datetime-local" class="form-control" data-bind="value: Starts" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">Ends:</div>
+                        <div class="md-col-6"><input type="datetime-local" class="form-control" data-bind="value: Ends" /></div>
+                    </div>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
