@@ -27,20 +27,6 @@
   starts: 2017-03-16T18:00:00.0000000
   ends: 2017-03-16T19:30:00.0000000
   venue: Astrocampus
-- name: Happy Birthday Astrocampus!
-  description: >
-    Join us to celebrate the third anniversary of the Astrocampus and hear from our resident astrophysicist, Dr Emily Brunsden.  Emily will be describing her life of an Astronomer and her research into 'Music of the Stars'.  PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes. 
-
-    Birthday cake will be provided!   
-
-
-    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
-  url: https://www.eventbrite.co.uk/e/happy-birthday-astrocampus-tickets-32296966095?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/28601693/133368849299/1/original.jpg?h=200&w=450&rect=0,143,906,453&s=b8a12fbf97a5af448431cb8f60dfcb7b
-  starts: 2017-03-17T18:30:00.0000000
-  ends: 2017-03-17T20:00:00.0000000
-  venue: Astrocampus
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -55,20 +41,6 @@
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
   starts: 2017-04-06T18:30:00.0000000
   ends: 2017-04-06T19:30:00.0000000
-- name: Seeing the Invisible
-  description: >2
-
-    Join us at the University of York Astrocampus to explore the night skies and find out more about how Astronomers are uncovering the mysteries of space using not just the light that we can see, but the light that we can't! With special cameras, glasses and beads, try out hands-on activities to find out about how space telescopes work. PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes.  
-
-    The event is family-friendly.    
-
-    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
-  url: https://www.eventbrite.co.uk/e/seeing-the-invisible-tickets-32296877831?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/28601574/133368849299/1/original.jpg?h=200&w=450&rect=0,100,906,453&s=97d0ce9ef9ab30c0dc666416f7a86366
-  starts: 2017-03-15T18:00:00.0000000
-  ends: 2017-03-15T19:30:00.0000000
-  venue: Astrocampus
 - name: Energy and the Environment Workshop
   description: "Energy and the Environment Workshop\nHost: Professor Sue Hartley\nResearch Theme Champion for Environmental Sustainability and Resilience\nThe event will start with lunch and finish with wine and cheese\nWorkshop AIMS1. To make new connections between York researchers in the field of energy and environment \n2. To help position York researchers to apply for forthcoming funding in topics such as:\n\nUK self reliance in energy production (likely funder: Industrial Strategy Challenge Fund);\nnew energy technology relating to supplying clean and affordable energy (likely funder: Industrial Strategy Challenge Fund);\nenergy storage (likely funder: EPSRC; outcomes from Balancing Capability exercise);\nbiological systems to generate fuel (likely funder: BBSRC; as detailed in RCUK Strategy 2016 - 2020);\noff-grid and low-carbon energy research to increase access, resilience and wealth-creation in developing nations (likely funder: EPSRC GCRF call).\n\n3. To support York researchers through a Pump Priming scheme (£300 - 3000) which would:\n\ngenerate new, novel project ideas;\nfund the organisation of meetings;\npermit the building of external partnerships;\nother relevant activities (e.g., Summer Studentships, conference support etc).\n\n\n\n\n \n "
   url: https://www.eventbrite.co.uk/e/energy-and-the-environment-workshop-tickets-32437480377?aff=ebapi
@@ -149,6 +121,33 @@
   starts: 2017-05-24T10:00:00.0000000
   ends: 2017-05-24T17:00:00.0000000
   venue: Green Chemistry Seminar room, C/F/106
+- name: Tech Scene York
+  description: >-
+    WHO ARE WE? We are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.PROGRAMME
+
+    1730     Drinks & Networking
+
+    1800     Welcome 
+
+    1810     Nigel Tracey, Bosch ETAS - 'What makes automotive software special?'
+
+    1815     TBC
+
+    1835     Catherine Hartley, York Maker Hub - 'Engaging future generations in coding & STEM ambassador             program'
+
+    1855     Kerry Japherson, York College introduced by Amanda Selvaratnam - 'Using the apprenticeship                 levy to drive skills in this sector'
+
+    1915     TBC
+
+    1935     Networking
+
+    2030     Close
+  url: https://www.eventbrite.co.uk/e/tech-scene-york-tickets-32431864580?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/29174804/2762975383/1/original.jpg?h=200&w=450&rect=102,0,572,286&s=1b2c85f451fa60dd8ebe8d51b2ae4ab5
+  starts: 2017-04-27T17:30:00.0000000
+  ends: 2017-04-27T20:30:00.0000000
+  venue: Your Bike Shed
 - name: MTA Networking Fundamentals
   description: >-
     MTA Networking Fundamentals
@@ -277,33 +276,6 @@
   starts: 2017-03-27T09:00:00.0000000
   ends: 2017-03-28T16:30:00.0000000
   venue: York
-- name: Tech Scene York
-  description: >-
-    WHO ARE WE? We are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.PROGRAMME
-
-    1730     Drinks & Networking
-
-    1800     Welcome 
-
-    1810     Nigel Tracey, Bosch ETAS - 'What makes automotive software special?'
-
-    1815     TBC
-
-    1835     Catherine Hartley, York Maker Hub - 'Engaging future generations in coding & STEM ambassador             program'
-
-    1855     Kerry Japherson, York College introduced by Amanda Selvaratnam - 'Using the apprenticeship                 levy to drive skills in this sector'
-
-    1915     TBC
-
-    1935     Networking
-
-    2030     Close
-  url: https://www.eventbrite.co.uk/e/tech-scene-york-tickets-32431864580?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/29174804/2762975383/1/original.jpg?h=200&w=450&rect=102,0,572,286&s=1b2c85f451fa60dd8ebe8d51b2ae4ab5
-  starts: 2017-04-27T17:30:00.0000000
-  ends: 2017-04-27T20:30:00.0000000
-  venue: Your Bike Shed
 - name: 'Archivematica Camp York: Day 1 only'
   description: >-
     This ticket is for Day 1 only of Archivematica Camp in York. On Day 1, your options are:
@@ -322,30 +294,32 @@
   starts: 2017-04-04T09:00:00.0000000
   ends: 2017-04-04T17:00:00.0000000
   venue: Ron Cooke Hub
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/238379136/
+- name: Development of Rural Biorefineries in North India
+  description: >-
+    --- Joint University of York GCRF IAA Meeting and Departmental Seminar ---
+
+
+     Stopping the Punjab choking Delhi
+
+    In December 2015, Delhi was named as the ‘most polluted city in world’ surpassing Beijing. The uncontrolled burning of agricultural residues post-harvest in the Punjab (North India) is often cited as a significant factor as the particulate matter (smog) is transported south due to prevailing winds. Pollution in Delhi is so extreme it may have damaged the lung function of half the city’s 4.4 million children so severely that they will never fully recover. The purpose of this meeting is to explore the potential development of rural biorefineries in North India using advances in biotechnology, green chemistry and environmental sensing that offers a viable alternatives to burning of agricultural residues. 
+
+
+
+    1300:  Welcome and background
+
+    1315:  Dr Sanjukta Subudhi, The Energy Resources Institute (TERI), Delhi, India          Fellow & Area Convenor, Environmental and Industrial Biotechnology Division          Microbial production of second generation hydrogen via dark fermentation and Microbial production of 2,3-           butanediol from renewable biomass
+
+    1400:  Prof RK Sharma, Green Chemistry Network Centre, Department of Chemistry, Delhi University, India          The biorefinery and reclamation: Silica-based materials for metal recovery
+
+    1445:  Prof SK Mehta, Department of Chemistry, Punjab University          Metal oxide nanoparticles as efficient scaffolds for chemical sensing and environmental remediation 1530-1600: Break/Refreshments 1600:  Dr Rachel Curwen          Overview of York’s activities in rice straw
+
+    1630:  Professor Mark Hodson, Head of Department, Environment Department          Overview of activities in soil health 1700:  Close
+  url: https://www.eventbrite.co.uk/e/development-of-rural-biorefineries-in-north-india-tickets-32883256706?aff=ebapi
   is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-03-15T07:30:00.0000000
-  ends: 2017-03-15T10:30:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywfbtb/
-  is-free: true
-  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-03-15T08:00:00.0000000
-  ends: 2017-03-15T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: Love and Hate between ORMs and Query Builders and Building a REPL for Phunkie
-  description: "<p>It's time for another Leeds PHP meetup!</p> <p>This month we're, again, at Futurelabs. Drinks, food, and more drinks provided as always by our wonderful sponsors - Sky Betting &amp; Gaming, Inviqa, QuidCo, and Futurelabs!</p> <p><b>Timings</b></p> <p>• 18:30 – Turn up, have a drink, a snack, and a chat (pizza, beer, coffee, soft drinks)</p> <p>• 19:00 – “<b>Love and Hate relationship between ORMs and Query Builders</b>” - Romans Malinovskis</p> <p>• 19:45 – Mid session interval</p> <p>• 19:55 –  “<b>Building a REPL for Phunkie, with Phunkie</b>” – Marcello Duarte</p> <p>• 20:30 – Pop over the road to Headrow House pub (a drink or two provided)</p> <p><b>Love and Hate relationship between ORMs and Query Builders</b> - Romans Malinovskis</p> <p><i>While some developers prefer writing their own SQL queries, others prefer to abstract the database with Object Relational Mappers. Is there a middle-ground that incorporates both without compromising and resulting in limitations?</i></p> <p><i>This talk will focus on database abstraction, query latency &amp; domain model and persistence mapping patterns in PHP applications. It will introduce the core concepts behind “Agile Data” - (database abstraction library available under MIT from <a href=\"http://github.com/atk4/data\">github.com/atk4/data</a>).</i></p> <p>Romans is an author of “Agile Data” and an active PHP / SaaS developer since 1997.</p> <p>Romans Malinovskis on Twitter: <a href=\"https://twitter.com/romaninsh\">@romaninsh</a></p> <p><b>Building a REPL for Phunkie, with Phunkie</b> – Marcello Duarte</p> <p><br/><i>After writing PhpSpec using PhpSpec, I decided my latest project should be writing a REPL for Phunkie – my PHP functional structures library – using Phunkie itself, along with functional programming patterns and techniques.</p> <p>This talk will share my learnings. We’ll go through the code, understand the design, and learn how to apply some of the Functional Programming (FP) principles in a real-life scenario. We’ll go beyond the basics and look at how FP deals with state, composition, and side-effects like IO, validation, and more.</p> <p>We’ll also discuss the benefits and costs of the functional approach. You will leave this session with an appetite to learn even more about what FP, and in particular FP in PHP with Phunkie, has to offer.</i></p> <p>Marcello is a co-creator of PhpSpec and the Head of Training at Inviqa</p> <p>Marcello Duarte on Twitter: <a href=\"https://twitter.com/_md\">@_md</a></p> <p><b>Sponsors</b></p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support of this community event.</p> <p><a href=\"http://futurelabs.org.uk/\">Futurelabs</a></p> <p> – Are a not-for-profit formed to help provide a focal point for tech start-up and scale-up businesses in and around Leeds. Futurelabs offer hot desking, fixed desk space or larger office spaces for tech businesses at very reasonable prices.</p> <p><a href=\"https://www.maplesyrupmedia.com/our-story/\">Quidco/Maple Syrup Media</a> – Maple Syrup Media built its reputation as cashback pioneers with Quidco. They’ve since consolidated their credentials in the UK with grocery and travel specific ventures, CheckoutSmart and EarnAway. Their teams are based in London, Sheffield, Berlin, Paris and Durban – check out their <a href=\"https://www.maplesyrupmedia.com/careers/\">careers page</a></p> <p><a href=\"http://skybetcareers.com/about-us\">Sky Betting &amp; Gaming</a> – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their <a href=\"http://skybetcareers.com/\">careers page</a> provides great detail as to the working environment and range of work available across the technology stack.</p> <p><a href=\"http://inviqa.com/\">Inviqa</a> – With offices in Leeds and across the UK and Europe Inviqa helps pioneering brands and organisations to engage, convert and retain their customers through digital innovation. If you’re looking for a developer role have a look at their <a href=\"https://inviqa.com/company/careers\">careers page</a>.</p> <p><br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~</p> <p>Still reading? <b>PHP Yorkshire Conference</b> is happening in York on Saturday April 8th. Some great speakers and a great day out! Get yourself over to <a href=\"https://www.phpyorkshire.co.uk/\">www.phpyorkshire.co.uk</a> to read about it and get a ticket with discount code <b>phpleeds90 </b>to get a ticket for<b> only £90.</b></p> <p>See you soon!</p> "
-  url: https://www.meetup.com/leedsphp/events/238081826/
-  is-free: true
-  logo: http://photos4.meetupstatic.com/photos/event/d/a/e/d/thumb_455636045.jpeg
-  starts: 2017-03-15T18:30:00.0000000
-  ends: 2017-03-15T21:30:00.0000000
-  venue: Future Labs
+  logo: https://cdn.evbuc.com/images/29339359/61443779641/1/original.jpg?h=200&w=450&rect=0,145,1280,640&s=a55d9716efef39dcdcbcffbef686b0f8
+  starts: 2017-03-27T13:00:00.0000000
+  ends: 2017-03-27T17:00:00.0000000
+  venue: Green Chemistry Seminar room, C/F/106
 - name: 'ITBoss: Bringing together Senior IT Professionals'
   description: '<p>We are delighted to announce our next ITBoss networking event will take place on Thursday 16 March 2017. ITBoss is the one and only event in Yorkshire designed to bring together Senior IT Professionals.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?</b></p> <p>The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>• a brief intro and welcome</p> <p>• a talk from industry experts</p> <p>• lightning discussions on hot industry specific topics chosen by you</p> <p>• event roundup and thank you at approximately 8.30pm</p> <p>• drinks and networking to finish.</p> <p><b>WHO ATTENDS?</b></p> <p>Senior IT Professionals including IT Directors, Programme Managers, CIOs and CTOs. This is an invitation-only event organised and held by Corecom Consulting, Yorkshire’s fastest growing IT recruitment specialist.</p> <p><b>WHY SHOULD I ATTEND?</b></p> <p>ITBoss creates a unique platform for Senior IT Professionals all over Yorkshire to debate, discuss hot topics, learn from reputable and established speakers whilst networking with like minded individuals in an intimate but friendly environment.</p> <p><b>FEEDBACK FROM PREVIOUS ITBOSS EVENTS</b></p> <p>“The ITBoss networking event was an extremely valuable event to participate in. I networked with like-minded IT Directors and Heads of IT, sharing some useful tools, practices and insights which I have transferred to the workplace. It has also provided me with a network of contacts that I can call upon when dealing with future challenges and when seeking advice.”</p> <p><i>Sunder Iyer, Project Manager, LexisNexis</i></p> <p>“The most useful sections of the ITBoss event was having a guest speaker on a subject area which I am very interested in my current role…there is a lot of focus on aligning with strategy. The lightning topics were great in that they were on three different topics, everyone at some point got involved in the discussions and they were time-boxed! A good event all round.”</p> <p><i>Philippa Rickard, Programme Manager, William Hill</i></p> '
   url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237041974/
@@ -416,6 +390,30 @@
   starts: 2017-03-27T06:30:00.0000000
   ends: 2017-03-27T09:30:00.0000000
   venue: The Perky Peacock
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/238379754/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-03-29T06:30:00.0000000
+  ends: 2017-03-29T09:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywfbmc/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-03-29T07:00:00.0000000
+  ends: 2017-03-29T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: March - Mike Monteith and Ian Thomas
+  description: "<p>Hey there Javascripters!</p> <p><br/>We're excited about March's event! First up we have Mike Monteith (<a href=\"https://twitter.com/MikeMonteithDev\">@MikeMonteithDev</a>) discussing an idea he's had for static sites and going CMS-less for non-developers. It's an interesting idea and we're eager to hear what Mike has to say!</p> <p>Next up we have Ian Thomas (<a href=\"https://twitter.com/anatomic\">@anatomic</a>) who will be talking about giving a talk titled \"Patterns For React Application Design\". Here's a bit from Ian:</p> <p><i>\"Working with React can be equal parts enlightening and bewildering where the community agreed standards change frequently and ideas evolve at a rapid pace. Having worked with React for three years this talk is an attempt to distill some of the core principles and patterns I have used to build scalable, performant applications.</i></p> <p><i>As a firm believer in Test Driven Development, you'd think we'd start by looking at how to effectively unit test React applications, but this isn't the case! Instead, we'll discuss how to introduce React into a codebase before moving on to state management, managing responsibilities in components, lifecycle methods and asynchronous data dependencies.</i></p> <p><i>Finally, we'll wrap up by comparing Observables to Redux, some patterns for testing apps (see it snuck in there somewhere) and a few obscure tips, tricks and areas to watch in the future.\"</i></p> <p>Sounds like it'll be a great talk and we're really looking forward to it!</p> <p>The talks start at around 7:00, but most people show up from 6:45 for pizza and to network and chat about all things JavaScript before the talk. After the talk we’ll be heading over to Headrow House to have a drink and to chat some more.</p> <p>The door to get in is shown here:</p> <p><a href=\"https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY\" class=\"linkified\">https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/238379609/
+  is-free: true
+  logo: http://photos1.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2017-03-29T17:45:00.0000000
+  ends: 2017-03-29T20:45:00.0000000
+  venue: Future Labs
 - name: John and Anne Phillips Lecture
   description: <strong>John and Ann Phillips Lecture, Hull University &#8211; Geological Mapping on Mars</strong>
   url: http://www.ypsyork.org/events/john-and-anne-phillips-lecture/
