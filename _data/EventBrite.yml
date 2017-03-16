@@ -27,20 +27,6 @@
   starts: 2017-03-16T18:00:00.0000000
   ends: 2017-03-16T19:30:00.0000000
   venue: Astrocampus
-- name: Happy Birthday Astrocampus!
-  description: >
-    Join us to celebrate the third anniversary of the Astrocampus and hear from our resident astrophysicist, Dr Emily Brunsden.  Emily will be describing her life of an Astronomer and her research into 'Music of the Stars'.  PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes. 
-
-    Birthday cake will be provided!   
-
-
-    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
-  url: https://www.eventbrite.co.uk/e/happy-birthday-astrocampus-tickets-32296966095?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/28601693/133368849299/1/original.jpg?h=200&w=450&rect=0,143,906,453&s=b8a12fbf97a5af448431cb8f60dfcb7b
-  starts: 2017-03-17T18:30:00.0000000
-  ends: 2017-03-17T20:00:00.0000000
-  venue: Astrocampus
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -55,20 +41,6 @@
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
   starts: 2017-04-06T18:30:00.0000000
   ends: 2017-04-06T19:30:00.0000000
-- name: Seeing the Invisible
-  description: >2
-
-    Join us at the University of York Astrocampus to explore the night skies and find out more about how Astronomers are uncovering the mysteries of space using not just the light that we can see, but the light that we can't! With special cameras, glasses and beads, try out hands-on activities to find out about how space telescopes work. PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes.  
-
-    The event is family-friendly.    
-
-    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
-  url: https://www.eventbrite.co.uk/e/seeing-the-invisible-tickets-32296877831?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/28601574/133368849299/1/original.jpg?h=200&w=450&rect=0,100,906,453&s=97d0ce9ef9ab30c0dc666416f7a86366
-  starts: 2017-03-15T18:00:00.0000000
-  ends: 2017-03-15T19:30:00.0000000
-  venue: Astrocampus
 - name: Energy and the Environment Workshop
   description: "Energy and the Environment Workshop\nHost: Professor Sue Hartley\nResearch Theme Champion for Environmental Sustainability and Resilience\nThe event will start with lunch and finish with wine and cheese\nWorkshop AIMS1. To make new connections between York researchers in the field of energy and environment \n2. To help position York researchers to apply for forthcoming funding in topics such as:\n\nUK self reliance in energy production (likely funder: Industrial Strategy Challenge Fund);\nnew energy technology relating to supplying clean and affordable energy (likely funder: Industrial Strategy Challenge Fund);\nenergy storage (likely funder: EPSRC; outcomes from Balancing Capability exercise);\nbiological systems to generate fuel (likely funder: BBSRC; as detailed in RCUK Strategy 2016 - 2020);\noff-grid and low-carbon energy research to increase access, resilience and wealth-creation in developing nations (likely funder: EPSRC GCRF call).\n\n3. To support York researchers through a Pump Priming scheme (£300 - 3000) which would:\n\ngenerate new, novel project ideas;\nfund the organisation of meetings;\npermit the building of external partnerships;\nother relevant activities (e.g., Summer Studentships, conference support etc).\n\n\n\n\n \n "
   url: https://www.eventbrite.co.uk/e/energy-and-the-environment-workshop-tickets-32437480377?aff=ebapi
@@ -149,6 +121,33 @@
   starts: 2017-05-24T10:00:00.0000000
   ends: 2017-05-24T17:00:00.0000000
   venue: Green Chemistry Seminar room, C/F/106
+- name: Tech Scene York
+  description: >-
+    WHO ARE WE? We are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.PROGRAMME
+
+    1730     Drinks & Networking
+
+    1800     Welcome 
+
+    1810     Nigel Tracey, Bosch ETAS - 'What makes automotive software special?'
+
+    1815     TBC
+
+    1835     Catherine Hartley, York Maker Hub - 'Engaging future generations in coding & STEM ambassador             program'
+
+    1855     Kerry Japherson, York College introduced by Amanda Selvaratnam - 'Using the apprenticeship                 levy to drive skills in this sector'
+
+    1915     TBC
+
+    1935     Networking
+
+    2030     Close
+  url: https://www.eventbrite.co.uk/e/tech-scene-york-tickets-32431864580?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/29174804/2762975383/1/original.jpg?h=200&w=450&rect=102,0,572,286&s=1b2c85f451fa60dd8ebe8d51b2ae4ab5
+  starts: 2017-04-27T17:30:00.0000000
+  ends: 2017-04-27T20:30:00.0000000
+  venue: Your Bike Shed
 - name: MTA Networking Fundamentals
   description: >-
     MTA Networking Fundamentals
@@ -277,33 +276,6 @@
   starts: 2017-03-27T09:00:00.0000000
   ends: 2017-03-28T16:30:00.0000000
   venue: York
-- name: Tech Scene York
-  description: >-
-    WHO ARE WE? We are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.PROGRAMME
-
-    1730     Drinks & Networking
-
-    1800     Welcome 
-
-    1810     Nigel Tracey, Bosch ETAS - 'What makes automotive software special?'
-
-    1815     TBC
-
-    1835     Catherine Hartley, York Maker Hub - 'Engaging future generations in coding & STEM ambassador             program'
-
-    1855     Kerry Japherson, York College introduced by Amanda Selvaratnam - 'Using the apprenticeship                 levy to drive skills in this sector'
-
-    1915     TBC
-
-    1935     Networking
-
-    2030     Close
-  url: https://www.eventbrite.co.uk/e/tech-scene-york-tickets-32431864580?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/29174804/2762975383/1/original.jpg?h=200&w=450&rect=102,0,572,286&s=1b2c85f451fa60dd8ebe8d51b2ae4ab5
-  starts: 2017-04-27T17:30:00.0000000
-  ends: 2017-04-27T20:30:00.0000000
-  venue: Your Bike Shed
 - name: 'Archivematica Camp York: Day 1 only'
   description: >-
     This ticket is for Day 1 only of Archivematica Camp in York. On Day 1, your options are:
@@ -322,3 +294,29 @@
   starts: 2017-04-04T09:00:00.0000000
   ends: 2017-04-04T17:00:00.0000000
   venue: Ron Cooke Hub
+- name: Development of Rural Biorefineries in North India
+  description: >-
+    --- Joint University of York GCRF IAA Meeting and Departmental Seminar ---
+
+
+     Stopping the Punjab choking Delhi
+
+    In December 2015, Delhi was named as the ‘most polluted city in world’ surpassing Beijing. The uncontrolled burning of agricultural residues post-harvest in the Punjab (North India) is often cited as a significant factor as the particulate matter (smog) is transported south due to prevailing winds. Pollution in Delhi is so extreme it may have damaged the lung function of half the city’s 4.4 million children so severely that they will never fully recover. The purpose of this meeting is to explore the potential development of rural biorefineries in North India using advances in biotechnology, green chemistry and environmental sensing that offers a viable alternatives to burning of agricultural residues. 
+
+
+
+    1300:  Welcome and background
+
+    1315:  Dr Sanjukta Subudhi, The Energy Resources Institute (TERI), Delhi, India          Fellow & Area Convenor, Environmental and Industrial Biotechnology Division          Microbial production of second generation hydrogen via dark fermentation and Microbial production of 2,3-           butanediol from renewable biomass
+
+    1400:  Prof RK Sharma, Green Chemistry Network Centre, Department of Chemistry, Delhi University, India          The biorefinery and reclamation: Silica-based materials for metal recovery
+
+    1445:  Prof SK Mehta, Department of Chemistry, Punjab University          Metal oxide nanoparticles as efficient scaffolds for chemical sensing and environmental remediation 1530-1600: Break/Refreshments 1600:  Dr Rachel Curwen          Overview of York’s activities in rice straw
+
+    1630:  Professor Mark Hodson, Head of Department, Environment Department          Overview of activities in soil health 1700:  Close
+  url: https://www.eventbrite.co.uk/e/development-of-rural-biorefineries-in-north-india-tickets-32883256706?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/29339359/61443779641/1/original.jpg?h=200&w=450&rect=0,145,1280,640&s=a55d9716efef39dcdcbcffbef686b0f8
+  starts: 2017-03-27T13:00:00.0000000
+  ends: 2017-03-27T17:00:00.0000000
+  venue: Green Chemistry Seminar room, C/F/106
