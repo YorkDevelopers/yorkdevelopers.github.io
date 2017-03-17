@@ -14,19 +14,6 @@
   starts: 2017-03-20T12:00:00.0000000
   ends: 2017-03-20T18:00:00.0000000
   venue: Diana Bowles Lecture Theatre (B/K/018)
-- name: 'Tim Peake: Mission Update'
-  description: >-
-    Join us at the University of York Astrocampus to explore the night skies and discover more about British Astronaut Tim Peake's mission aboard the International Space Station. Now that Tim is safely back on Earth you can find out about the science he did and about how the human body reacts to being in space, as well as trying activities that push you to 'Train Like an Astronaut'. PLUS take the opportunity to look round the observatory and, weather permitting, explore the wonders of space through our top of the range telescopes.  
-
-    The event is family-friendly.   
-
-    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
-  url: https://www.eventbrite.co.uk/e/tim-peake-mission-update-tickets-32296911933?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/28601622/133368849299/1/original.jpg?h=200&w=450&rect=0,30,736,368&s=b170c0c4b67ace1f66d14d53e7d3ad70
-  starts: 2017-03-16T18:00:00.0000000
-  ends: 2017-03-16T19:30:00.0000000
-  venue: Astrocampus
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -113,33 +100,25 @@
   starts: 2017-06-12T12:00:00.0000000
   ends: 2017-06-12T13:00:00.0000000
   venue: Yorkshire Museum (outside)
-- name: 'Green Manufacturing for the 21st Century Chemical Industry: Case studies, methodologies and tools'
-  description: "Increasing demand for chemicals worldwide, depleting resources, stricter legislation and the rising cost of waste disposal are placing increasing pressure on the chemical and related industries.  For any organisation to survive in the current climate, the issue of sustainability must be fundamental to the way it operates.   This free workshop provides an exciting opportunity to gain advice and scientific expertise, explore a broad range of cutting-edge case studies on green chemical manufacturing and learn about the methodologies and tools available to facilitate practical solutions. The workshop is open to all with an interest in the future of sustainable manufacturing.  The programme for the day includes:\n\n Industrial case studies from Croda, Thomas Swan, GSK (tbc) and Biome\n Insight into Industrial Decarbonisation and Energy Efficiency Roadmaps to 2050\n Drivers for change including the Business Case for Green and REACH \n Guidance on the transition to green manufacturing and circular economy\n Guidance on greener solvent selection and substitution\n Platform molecules and clean synthesis\n Online learning resources and associated tools including metrics and solvent selection\n Opportunities for knowledge transfer, discussion and networking\n\n Speakers\nMike Lancaster, Chemical Industries Association\nDr Simon Grant, Thomas Swan & Co. Ltd\nBecky Wood, Croda International plc\nPaul Mines, Biome Technologies plc\nDr John Hayler, GlaxoSmithKline plc (tbc)\nJo Lloyd, ERM\nProf. Peter Ball, University of York\nDr Rob McElroy, University of York\nDr James Sherwood, University of York\nDr Tom Farmer, University of York\nLouise Summerton, University of York\nRick Taylor, University of York\n\n\n\n \n\n"
-  url: https://www.eventbrite.co.uk/e/green-manufacturing-for-the-21st-century-chemical-industry-case-studies-methodologies-and-tools-tickets-32618322280?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/29041083/30757136331/1/original.jpg?h=200&w=450&rect=0,0,466,233&s=96da6888ba80151208bc8c27ef1fbf23
-  starts: 2017-05-24T10:00:00.0000000
-  ends: 2017-05-24T17:00:00.0000000
-  venue: Green Chemistry Seminar room, C/F/106
 - name: Tech Scene York
   description: >-
     WHO ARE WE? We are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.PROGRAMME
 
-    1730     Drinks & Networking
+    1730     Drinks & Networking
 
-    1800     Welcome 
+    1800     Welcome
 
-    1810     Nigel Tracey, Bosch ETAS - 'What makes automotive software special?'
+    1810     Kerry Japherson, York College – “using the apprenticeship levy to drive skills in this sector”
 
-    1815     TBC
+    1820      Suresh Manandhar - “Introducing the AI Clinic”
 
-    1835     Catherine Hartley, York Maker Hub - 'Engaging future generations in coding & STEM ambassador             program'
+    1830     Chris Bray, Purple Frog – “Using AI for smart management of documents”
 
-    1855     Kerry Japherson, York College introduced by Amanda Selvaratnam - 'Using the apprenticeship                 levy to drive skills in this sector'
+    1855      Nigel Tracey, Bosch ETAS – “what makes automotive software special?"
 
-    1915     TBC
+    1920     Catherine Hartley - York Maker Hub (joined by Stella Chan from STEM NET)
 
-    1935     Networking
+    1945     Networking
 
     2030     Close
   url: https://www.eventbrite.co.uk/e/tech-scene-york-tickets-32431864580?aff=ebapi
@@ -148,6 +127,14 @@
   starts: 2017-04-27T17:30:00.0000000
   ends: 2017-04-27T20:30:00.0000000
   venue: Your Bike Shed
+- name: 'Green Manufacturing for the 21st Century Chemical Industry: Case studies, methodologies and tools'
+  description: "Increasing demand for chemicals worldwide, depleting resources, stricter legislation and the rising cost of waste disposal are placing increasing pressure on the chemical and related industries.  For any organisation to survive in the current climate, the issue of sustainability must be fundamental to the way it operates.   This free workshop provides an exciting opportunity to gain advice and scientific expertise, explore a broad range of cutting-edge case studies on green chemical manufacturing and learn about the methodologies and tools available to facilitate practical solutions. The workshop is open to all with an interest in the future of sustainable manufacturing.  The programme for the day includes:\n\n Industrial case studies from Croda, Thomas Swan, GSK (tbc) and Biome\n Insight into Industrial Decarbonisation and Energy Efficiency Roadmaps to 2050\n Drivers for change including the Business Case for Green and REACH \n Guidance on the transition to green manufacturing and circular economy\n Guidance on greener solvent selection and substitution\n Platform molecules and clean synthesis\n Online learning resources and associated tools including metrics and solvent selection\n Opportunities for knowledge transfer, discussion and networking\n\n Speakers\nMike Lancaster, Chemical Industries Association\nDr Simon Grant, Thomas Swan & Co. Ltd\nBecky Wood, Croda International plc\nPaul Mines, Biome Technologies plc\nDr John Hayler, GlaxoSmithKline plc (tbc)\nJo Lloyd, ERM\nProf. Peter Ball, University of York\nDr Rob McElroy, University of York\nDr James Sherwood, University of York\nDr Tom Farmer, University of York\nLouise Summerton, University of York\nRick Taylor, University of York\n\n\n\n \n\n"
+  url: https://www.eventbrite.co.uk/e/green-manufacturing-for-the-21st-century-chemical-industry-case-studies-methodologies-and-tools-tickets-32618322280?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/29041083/30757136331/1/original.jpg?h=200&w=450&rect=0,0,466,233&s=96da6888ba80151208bc8c27ef1fbf23
+  starts: 2017-05-24T10:00:00.0000000
+  ends: 2017-05-24T17:00:00.0000000
+  venue: Green Chemistry Seminar room, C/F/106
 - name: MTA Networking Fundamentals
   description: >-
     MTA Networking Fundamentals
@@ -161,8 +148,8 @@
     For more details visit our course outline and please do not hesitate to contact us if you have any questions.
   url: https://www.eventbrite.co.uk/e/mta-networking-fundamentals-tickets-31091108342?aff=ebapi
   logo: https://cdn.evbuc.com/images/27244913/133451304473/1/original.jpg?h=200&w=450&rect=0,0,970,485&s=df6bfbbfbc5ba567b72fd045dcef2495
-  starts: 2017-03-29T09:00:00.0000000
-  ends: 2017-03-31T16:30:00.0000000
+  starts: 2017-06-28T09:00:00.0000000
+  ends: 2017-06-30T16:30:00.0000000
   venue: York
 - name: MTA Networking Fundamentals
   description: >-
@@ -320,13 +307,6 @@
   starts: 2017-03-27T13:00:00.0000000
   ends: 2017-03-27T17:00:00.0000000
   venue: Green Chemistry Seminar room, C/F/106
-- name: 'ITBoss: Bringing together Senior IT Professionals'
-  description: '<p>We are delighted to announce our next ITBoss networking event will take place on Thursday 16 March 2017. ITBoss is the one and only event in Yorkshire designed to bring together Senior IT Professionals.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?</b></p> <p>The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>• a brief intro and welcome</p> <p>• a talk from industry experts</p> <p>• lightning discussions on hot industry specific topics chosen by you</p> <p>• event roundup and thank you at approximately 8.30pm</p> <p>• drinks and networking to finish.</p> <p><b>WHO ATTENDS?</b></p> <p>Senior IT Professionals including IT Directors, Programme Managers, CIOs and CTOs. This is an invitation-only event organised and held by Corecom Consulting, Yorkshire’s fastest growing IT recruitment specialist.</p> <p><b>WHY SHOULD I ATTEND?</b></p> <p>ITBoss creates a unique platform for Senior IT Professionals all over Yorkshire to debate, discuss hot topics, learn from reputable and established speakers whilst networking with like minded individuals in an intimate but friendly environment.</p> <p><b>FEEDBACK FROM PREVIOUS ITBOSS EVENTS</b></p> <p>“The ITBoss networking event was an extremely valuable event to participate in. I networked with like-minded IT Directors and Heads of IT, sharing some useful tools, practices and insights which I have transferred to the workplace. It has also provided me with a network of contacts that I can call upon when dealing with future challenges and when seeking advice.”</p> <p><i>Sunder Iyer, Project Manager, LexisNexis</i></p> <p>“The most useful sections of the ITBoss event was having a guest speaker on a subject area which I am very interested in my current role…there is a lot of focus on aligning with strategy. The lightning topics were great in that they were on three different topics, everyone at some point got involved in the discussions and they were time-boxed! A good event all round.”</p> <p><i>Philippa Rickard, Programme Manager, William Hill</i></p> '
-  url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237041974/
-  is-free: true
-  starts: 2017-03-16T18:00:00.0000000
-  ends: 2017-03-16T20:30:00.0000000
-  venue: Banyan Bar Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/York-Code-Coffee/events/238379747/
@@ -345,7 +325,7 @@
   venue: The Perky Peacock
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywfbdc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/238458576/
   is-free: true
   logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-03-22T08:00:00.0000000
@@ -414,13 +394,14 @@
   starts: 2017-03-29T17:45:00.0000000
   ends: 2017-03-29T20:45:00.0000000
   venue: Future Labs
-- name: John and Anne Phillips Lecture
-  description: <strong>John and Ann Phillips Lecture, Hull University &#8211; Geological Mapping on Mars</strong>
-  url: http://www.ypsyork.org/events/john-and-anne-phillips-lecture/
-  logo: http://www.ypsyork.org/wp-content/uploads/2016/03/Cohen-Bldg-200x125.jpg
-  starts: 2017-03-16T17:30:00.0000000
-  ends: 2017-03-16T19:30:00.0000000
-  venue: <a href="http://www.ypsyork.org/locations/cohen-building-hull-university/" title="Cohen Building, Hull University">Cohen Building, Hull University</a>
+- name: 'Developing with HoloLens: The Path to Mixed Reality'
+  description: '<p>Microsoft HoloLens is the first fully self-contained holographic computer running Windows 10. It is completely self-contained-no wires, phones, or connection to a PC needed. HoloLens allows you to place holograms in your physical environment and provides a new way to see your world. This session provides a developer’s overview of the HoloLens and holographic app development in Unity and C#.</p> <p>--------</p> <p>&lt;a&gt;Mike Taulty&lt;/a&gt; is a Developer Evangelist with Microsoft in the UK.</p> <p>---------</p> <p>Schedule</p> <p>Intro and welcome 18:30</p> <p>Speaker 18:45</p> <p>Break for pizza and drinks at some point Close 21:00</p> <p>We then adjourn to a local bar for a drink and a natter - everyone welcome to join us.</p> '
+  url: https://www.meetup.com/Leeds-Sharp/events/236846205/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2017-03-30T17:30:00.0000000
+  ends: 2017-03-30T20:30:00.0000000
+  venue: Future Labs
 - name: Pioneer the first York Science Trail
   description: <strong>There is no charge for this activity, and no need to book &#8211; just meet at the Lodge at 2pm</strong>
   url: http://www.ypsyork.org/events/preview-the-first-york-science-trail/
@@ -487,10 +468,9 @@
 - name: '&#8220;My Kingdom for a Horse&#8221; &#8211; study day in Richmond and Middleham: theatre, castles and horse racing'
   description: <strong>&#8220;My Kingdom for a horse&#8221; &#8211; study day in Richmond and Middleham Friday 5th May by coach</strong>
   url: http://www.ypsyork.org/events/my-kingdom-for-a-horse-study-day-in-richmond-and-middleham-theatre-castles-and-horse-racing/
-  logo: http://www.ypsyork.org/wp-content/uploads/2016/11/Woman-structural-engineer-200x125.jpg
+  logo: http://www.ypsyork.org/wp-content/uploads/2017/02/Georgian-Theatre-Richmond-200x125.jpg
   starts: 2017-05-05T00:00:00.0000000
   ends: 2017-05-05T23:00:00.0000000
-  venue: 9 May 2017
 - name: 'Women&#8217;s employment in Britain over the last fifty years: changes, challenges and unexpected outcomes'
   description: 'Women&#8217;s employment in Britain over the last fifty years: changes, challenges and unexpected outcomes'
   url: http://www.ypsyork.org/events/womens-employment-in-britain-over-the-last-fifty-years-changes-challenges-and-unexpected-outcomes/
