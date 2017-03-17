@@ -14,19 +14,6 @@
   starts: 2017-03-20T12:00:00.0000000
   ends: 2017-03-20T18:00:00.0000000
   venue: Diana Bowles Lecture Theatre (B/K/018)
-- name: 'Tim Peake: Mission Update'
-  description: >-
-    Join us at the University of York Astrocampus to explore the night skies and discover more about British Astronaut Tim Peake's mission aboard the International Space Station. Now that Tim is safely back on Earth you can find out about the science he did and about how the human body reacts to being in space, as well as trying activities that push you to 'Train Like an Astronaut'. PLUS take the opportunity to look round the observatory and, weather permitting, explore the wonders of space through our top of the range telescopes.  
-
-    The event is family-friendly.   
-
-    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
-  url: https://www.eventbrite.co.uk/e/tim-peake-mission-update-tickets-32296911933?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/28601622/133368849299/1/original.jpg?h=200&w=450&rect=0,30,736,368&s=b170c0c4b67ace1f66d14d53e7d3ad70
-  starts: 2017-03-16T18:00:00.0000000
-  ends: 2017-03-16T19:30:00.0000000
-  venue: Astrocampus
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -113,33 +100,25 @@
   starts: 2017-06-12T12:00:00.0000000
   ends: 2017-06-12T13:00:00.0000000
   venue: Yorkshire Museum (outside)
-- name: 'Green Manufacturing for the 21st Century Chemical Industry: Case studies, methodologies and tools'
-  description: "Increasing demand for chemicals worldwide, depleting resources, stricter legislation and the rising cost of waste disposal are placing increasing pressure on the chemical and related industries.  For any organisation to survive in the current climate, the issue of sustainability must be fundamental to the way it operates.   This free workshop provides an exciting opportunity to gain advice and scientific expertise, explore a broad range of cutting-edge case studies on green chemical manufacturing and learn about the methodologies and tools available to facilitate practical solutions. The workshop is open to all with an interest in the future of sustainable manufacturing.  The programme for the day includes:\n\n Industrial case studies from Croda, Thomas Swan, GSK (tbc) and Biome\n Insight into Industrial Decarbonisation and Energy Efficiency Roadmaps to 2050\n Drivers for change including the Business Case for Green and REACH \n Guidance on the transition to green manufacturing and circular economy\n Guidance on greener solvent selection and substitution\n Platform molecules and clean synthesis\n Online learning resources and associated tools including metrics and solvent selection\n Opportunities for knowledge transfer, discussion and networking\n\n Speakers\nMike Lancaster, Chemical Industries Association\nDr Simon Grant, Thomas Swan & Co. Ltd\nBecky Wood, Croda International plc\nPaul Mines, Biome Technologies plc\nDr John Hayler, GlaxoSmithKline plc (tbc)\nJo Lloyd, ERM\nProf. Peter Ball, University of York\nDr Rob McElroy, University of York\nDr James Sherwood, University of York\nDr Tom Farmer, University of York\nLouise Summerton, University of York\nRick Taylor, University of York\n\n\n\n \n\n"
-  url: https://www.eventbrite.co.uk/e/green-manufacturing-for-the-21st-century-chemical-industry-case-studies-methodologies-and-tools-tickets-32618322280?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/29041083/30757136331/1/original.jpg?h=200&w=450&rect=0,0,466,233&s=96da6888ba80151208bc8c27ef1fbf23
-  starts: 2017-05-24T10:00:00.0000000
-  ends: 2017-05-24T17:00:00.0000000
-  venue: Green Chemistry Seminar room, C/F/106
 - name: Tech Scene York
   description: >-
     WHO ARE WE? We are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.PROGRAMME
 
-    1730     Drinks & Networking
+    1730     Drinks & Networking
 
-    1800     Welcome 
+    1800     Welcome
 
-    1810     Nigel Tracey, Bosch ETAS - 'What makes automotive software special?'
+    1810     Kerry Japherson, York College – “using the apprenticeship levy to drive skills in this sector”
 
-    1815     TBC
+    1820      Suresh Manandhar - “Introducing the AI Clinic”
 
-    1835     Catherine Hartley, York Maker Hub - 'Engaging future generations in coding & STEM ambassador             program'
+    1830     Chris Bray, Purple Frog – “Using AI for smart management of documents”
 
-    1855     Kerry Japherson, York College introduced by Amanda Selvaratnam - 'Using the apprenticeship                 levy to drive skills in this sector'
+    1855      Nigel Tracey, Bosch ETAS – “what makes automotive software special?"
 
-    1915     TBC
+    1920     Catherine Hartley - York Maker Hub (joined by Stella Chan from STEM NET)
 
-    1935     Networking
+    1945     Networking
 
     2030     Close
   url: https://www.eventbrite.co.uk/e/tech-scene-york-tickets-32431864580?aff=ebapi
@@ -148,6 +127,14 @@
   starts: 2017-04-27T17:30:00.0000000
   ends: 2017-04-27T20:30:00.0000000
   venue: Your Bike Shed
+- name: 'Green Manufacturing for the 21st Century Chemical Industry: Case studies, methodologies and tools'
+  description: "Increasing demand for chemicals worldwide, depleting resources, stricter legislation and the rising cost of waste disposal are placing increasing pressure on the chemical and related industries.  For any organisation to survive in the current climate, the issue of sustainability must be fundamental to the way it operates.   This free workshop provides an exciting opportunity to gain advice and scientific expertise, explore a broad range of cutting-edge case studies on green chemical manufacturing and learn about the methodologies and tools available to facilitate practical solutions. The workshop is open to all with an interest in the future of sustainable manufacturing.  The programme for the day includes:\n\n Industrial case studies from Croda, Thomas Swan, GSK (tbc) and Biome\n Insight into Industrial Decarbonisation and Energy Efficiency Roadmaps to 2050\n Drivers for change including the Business Case for Green and REACH \n Guidance on the transition to green manufacturing and circular economy\n Guidance on greener solvent selection and substitution\n Platform molecules and clean synthesis\n Online learning resources and associated tools including metrics and solvent selection\n Opportunities for knowledge transfer, discussion and networking\n\n Speakers\nMike Lancaster, Chemical Industries Association\nDr Simon Grant, Thomas Swan & Co. Ltd\nBecky Wood, Croda International plc\nPaul Mines, Biome Technologies plc\nDr John Hayler, GlaxoSmithKline plc (tbc)\nJo Lloyd, ERM\nProf. Peter Ball, University of York\nDr Rob McElroy, University of York\nDr James Sherwood, University of York\nDr Tom Farmer, University of York\nLouise Summerton, University of York\nRick Taylor, University of York\n\n\n\n \n\n"
+  url: https://www.eventbrite.co.uk/e/green-manufacturing-for-the-21st-century-chemical-industry-case-studies-methodologies-and-tools-tickets-32618322280?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/29041083/30757136331/1/original.jpg?h=200&w=450&rect=0,0,466,233&s=96da6888ba80151208bc8c27ef1fbf23
+  starts: 2017-05-24T10:00:00.0000000
+  ends: 2017-05-24T17:00:00.0000000
+  venue: Green Chemistry Seminar room, C/F/106
 - name: MTA Networking Fundamentals
   description: >-
     MTA Networking Fundamentals
@@ -161,8 +148,8 @@
     For more details visit our course outline and please do not hesitate to contact us if you have any questions.
   url: https://www.eventbrite.co.uk/e/mta-networking-fundamentals-tickets-31091108342?aff=ebapi
   logo: https://cdn.evbuc.com/images/27244913/133451304473/1/original.jpg?h=200&w=450&rect=0,0,970,485&s=df6bfbbfbc5ba567b72fd045dcef2495
-  starts: 2017-03-29T09:00:00.0000000
-  ends: 2017-03-31T16:30:00.0000000
+  starts: 2017-06-28T09:00:00.0000000
+  ends: 2017-06-30T16:30:00.0000000
   venue: York
 - name: MTA Networking Fundamentals
   description: >-
