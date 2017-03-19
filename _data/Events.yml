@@ -14,13 +14,6 @@
   starts: 2017-03-20T12:00:00.0000000
   ends: 2017-03-20T18:00:00.0000000
   venue: Diana Bowles Lecture Theatre (B/K/018)
-- name: CyVerseUK Workshop
-  description: "\n\n\n\nCyVerseUK Workshop: Bioinformatic Tools for Biologists\nThis meeting is focused on researchers who are either toward the beginning of their studies or have moved onto a new subject area. We will provide a hands-on sessions that will describe the use of software tools that can interrogate RNAseq, imaging, gene expression or GWAS data. Importantly previous users will provide real-life examples of how the software has been successfully used. In a change to the original plan this are the only sessions we will now be offering. \nThese software tools have been developed as part of the CyVerseUK grant (www.cyverseuk.org). We will also highlight the opportunities that exist for the sharing of big data in a meaningful manner. \nThis workshop is organised by GARNet with Professor Katherine Denby at the University of York. \n\n\n\n\nDay 1: Monday March 20th\n10.30am: Registration Opens\n11.30am: Introduction to CyVerse and CyVerseUK                 \n1.00pm: Lunch\n2.00pm: Data Sharing, Management and Reuse                    \n\n3.30pm: Break\n\n4.00pm: CyVerseUK Tools: Earlham Institute: Tuxedo pipeline for RNAseq Analysis\n- Descriptive hands-on Workshop\n- User example\n\n6pm: Session End\n\n7pm: Workshop Dinner at Walmgate Ale House\n\n\nDay 2: Tuesday March 21st\n9am: CyVerseUK Tools: University of Nottingham: Image Analysis\n- Hands on workshop\n- Introducing BISQUE\n- Image-Based Phenotyping\n- Introducing RootNav and RooTrace\n- Successful Use Example                         \n\n11am: Break\n\n11.30am: CyVerseUK Tools: University of Warwick: Transcriptomic Data Mining\n- Descriptive hands-on Workshop\n- User example\n\n1.30pm: Lunch\n\n2.30pm: CyVerseUK Tools: Earlham Institute: GWAS Analysis Pipeline\n- Descriptive hands-on Workshop\n- User example\n\nWhole Group Finale\n4pm:               The Future of CyVerse and CyVerseUK:                 \n4.30pm:           Meeting End\n\n\nOther Information\nAccommodation\nThere is accomodation available on a first come-first serve basis at the University of York bed & breakfast facility, Franklin House. \n> This is bookable online through the URL www.yorkconferences.com  \n> Select the Accommodation tab, click 'Bed and Breakfast' and then onto 'Book'. \n> There are a limited number of rooms available so if these have sold out then I would suggest teh Travelodge Central York, which is located a mile from the University but around the corner from the venue for the evening meal. https://www.travelodge.co.uk/hotels/196/York-Central-hotel\nDietary Requirements\nIf you have any dietary requirements then please can you email Geraint at geraint@garnetcommunity.org.uk with those details. We will send out information about the workshop dinner closer to the time.\n\nComputer requirements\n1.Please bring a laptop to the workshop for the hands-on portions of the sessions. Closer to the time we will send out the data that we will analyse at the meeting.\n2. Please sign up for a CyVerse account. You can register at https://user.cyverse.org/ and we recommend that you take a brief look at the website before you attend the meeting.\n2. Please ensure your computer is registered with the EduRoam network. If this is not possible we will provide some Guest Logins for the duration of the workshop."
-  url: https://www.eventbrite.co.uk/e/cyverseuk-workshop-tickets-29982258743?aff=ebapi
-  logo: https://cdn.evbuc.com/images/26445018/143261406836/1/original.jpg?h=200&w=450&rect=4,354,2470,1235&s=88dc617c5f1c88a52e8ba8c264760d98
-  starts: 2017-03-20T11:00:00.0000000
-  ends: 2017-03-21T16:00:00.0000000
-  venue: Department of Biology
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -94,49 +87,6 @@
   starts: 2017-04-04T09:00:00.0000000
   ends: 2017-04-06T17:00:00.0000000
   venue: The Ron Cooke Hub
-- name: Development of Rural Biorefineries in North India
-  description: >-
-    --- Joint University of York GCRF IAA Meeting and Departmental Seminar ---
-
-
-     Stopping the Punjab choking Delhi
-
-    In December 2015, Delhi was named as the ‘most polluted city in world’ surpassing Beijing. The uncontrolled burning of agricultural residues post-harvest in the Punjab (North India) is often cited as a significant factor as the particulate matter (smog) is transported south due to prevailing winds. Pollution in Delhi is so extreme it may have damaged the lung function of half the city’s 4.4 million children so severely that they will never fully recover. The purpose of this meeting is to explore the potential development of rural biorefineries in North India using advances in biotechnology, green chemistry and environmental sensing that offers a viable alternatives to burning of agricultural residues. 
-
-
-
-    1300:  Dr Avtar Matharu, GCCE Acting Director          Welcome and background
-
-              Dr Rachel Curwen, Research Development Associate          Overview of York’s activities in rice straw
-
-              Professor Mark Hodson, Head of Department, Environment Department          Overview of activities in soil health
-
-    1345:  Dr Sanjukta Subudhi, The Energy Resources Institute (TERI), Delhi, India          Fellow & Area Convenor, Environmental and Industrial Biotechnology Division          Microbial production of second generation hydrogen via dark fermentation and Microbial production of 2,3-           butanediol from renewable biomass
-
-    1430:  Prof RK Sharma, Green Chemistry Network Centre, Department of Chemistry, Delhi University, India          The biorefinery and reclamation: Silica-based materials for metal recovery
-
-    1500:  Prof SK Mehta, Department of Chemistry, Punjab University          Metal oxide nanoparticles as efficient scaffolds for chemical sensing and environmental remediation 1530: Break / Refreshments / Networking
-
-    1700:  Close
-  url: https://www.eventbrite.co.uk/e/development-of-rural-biorefineries-in-north-india-tickets-32883256706?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/29339359/61443779641/1/original.jpg?h=200&w=450&rect=0,145,1280,640&s=a55d9716efef39dcdcbcffbef686b0f8
-  starts: 2017-03-27T13:00:00.0000000
-  ends: 2017-03-27T17:00:00.0000000
-  venue: Green Chemistry Seminar room, C/F/106
-- name: 'Science Things: a York Walk'
-  description: >
-    Organised by the York Science Trails Group.
-
-    Join us on an accessible guided stroll and hear about people, places and things associated with York's scientific history.  From Alcuin and Atomic science to Bears, Botany and Zoos!
-
-
-    The York Science Trails Group (YSTG) meets at 12 noon on 6th Feb, 13th March, and then 2nd Monday of each month in King's Manor Refectory:    www.YorkScienceTrail.eventbrite.com     
-  url: https://www.eventbrite.co.uk/e/science-things-a-york-walk-tickets-31707393668?aff=ebapi
-  logo: https://cdn.evbuc.com/images/27937729/20328548666/1/original.jpg?h=200&w=450&rect=0,326,1684,842&s=8995ebc605d5c65f3ee49c39ae724572
-  starts: 2017-06-12T12:00:00.0000000
-  ends: 2017-06-12T13:00:00.0000000
-  venue: Yorkshire Museum (outside)
 - name: 'Green Manufacturing for the 21st Century Chemical Industry: Case studies, methodologies and tools'
   description: "Increasing demand for chemicals worldwide, depleting resources, stricter legislation and the rising cost of waste disposal are placing increasing pressure on the chemical and related industries.  For any organisation to survive in the current climate, the issue of sustainability must be fundamental to the way it operates.   This free workshop provides an exciting opportunity to gain advice and scientific expertise, explore a broad range of cutting-edge case studies on green chemical manufacturing and learn about the methodologies and tools available to facilitate practical solutions. The workshop is open to all with an interest in the future of sustainable manufacturing.  The programme for the day includes:\n\n Industrial case studies from Croda, Thomas Swan, GSK (tbc) and Biome\n Insight into Industrial Decarbonisation and Energy Efficiency Roadmaps to 2050\n Drivers for change including the Business Case for Green and REACH \n Guidance on the transition to green manufacturing and circular economy\n Guidance on greener solvent selection and substitution\n Platform molecules and clean synthesis\n Online learning resources and associated tools including metrics and solvent selection\n Opportunities for knowledge transfer, discussion and networking\n\n Speakers\nMike Lancaster, Chemical Industries Association\nDr Simon Grant, Thomas Swan & Co. Ltd\nBecky Wood, Croda International plc\nPaul Mines, Biome Technologies plc\nDr John Hayler, GlaxoSmithKline plc (tbc)\nJo Lloyd, ERM\nProf. Peter Ball, University of York\nDr Rob McElroy, University of York\nDr James Sherwood, University of York\nDr Tom Farmer, University of York\nLouise Summerton, University of York\nRick Taylor, University of York\n\n\n\n \n\n"
   url: https://www.eventbrite.co.uk/e/green-manufacturing-for-the-21st-century-chemical-industry-case-studies-methodologies-and-tools-tickets-32618322280?aff=ebapi
@@ -145,24 +95,6 @@
   starts: 2017-05-24T10:00:00.0000000
   ends: 2017-05-24T17:00:00.0000000
   venue: Green Chemistry Seminar room, C/F/106
-- name: 'Archivematica Camp York: Day 1 only'
-  description: >-
-    This ticket is for Day 1 only of Archivematica Camp in York. On Day 1, your options are:
-
-    9 am - 12 pm: Archivematica for Absolute Beginners- During the morning of Day One we'll ensure that everyone is comfortable with Archivematica, whether they're archivists, developers, or systems administrators. This is a half-day session intended for participants with no previous Archivematica experience whatsoever.
-
-    1 pm - 5 pm: Archivematica and AtoM- The afternoon of Day One will be spent looking at how Archivematica integrates with AtoM, a widely-used archival description system. This half-day session will be spent exploring Archivematica and AtoM integration, including both present functionality and future possibilities.
-
-    All day (9 am - 5 pm with a break over lunch): Advanced Archivematica Drop-In Help Clinic- All day we'll have experts available to help you with your Archivematica problems. No appointment necessary - just drop by with a laptop and a problem and we'll be happy to chat!
-
-    Lunch and coffee breaks are included.
-
-    To register for all three days of Archivematica Camp York, please go to: https://www.eventbrite.com/e/archivematica-camp-york-uk-registration-31851507717
-  url: https://www.eventbrite.com/e/archivematica-camp-york-day-1-only-tickets-32861171649?aff=ebapi
-  logo: https://cdn.evbuc.com/images/29316294/201888938780/1/original.jpg?h=200&w=450&rect=0,197,1600,800&s=91a741e8665f4757b6f110703c35f972
-  starts: 2017-04-04T09:00:00.0000000
-  ends: 2017-04-04T17:00:00.0000000
-  venue: Ron Cooke Hub
 - name: Tech Scene York
   description: >-
     WHO ARE WE? We are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.PROGRAMME
@@ -190,6 +122,24 @@
   starts: 2017-04-27T17:30:00.0000000
   ends: 2017-04-27T20:30:00.0000000
   venue: Your Bike Shed
+- name: 'Archivematica Camp York: Day 1 only'
+  description: >-
+    This ticket is for Day 1 only of Archivematica Camp in York. On Day 1, your options are:
+
+    9 am - 12 pm: Archivematica for Absolute Beginners- During the morning of Day One we'll ensure that everyone is comfortable with Archivematica, whether they're archivists, developers, or systems administrators. This is a half-day session intended for participants with no previous Archivematica experience whatsoever.
+
+    1 pm - 5 pm: Archivematica and AtoM- The afternoon of Day One will be spent looking at how Archivematica integrates with AtoM, a widely-used archival description system. This half-day session will be spent exploring Archivematica and AtoM integration, including both present functionality and future possibilities.
+
+    All day (9 am - 5 pm with a break over lunch): Advanced Archivematica Drop-In Help Clinic- All day we'll have experts available to help you with your Archivematica problems. No appointment necessary - just drop by with a laptop and a problem and we'll be happy to chat!
+
+    Lunch and coffee breaks are included.
+
+    To register for all three days of Archivematica Camp York, please go to: https://www.eventbrite.com/e/archivematica-camp-york-uk-registration-31851507717
+  url: https://www.eventbrite.com/e/archivematica-camp-york-day-1-only-tickets-32861171649?aff=ebapi
+  logo: https://cdn.evbuc.com/images/29316294/201888938780/1/original.jpg?h=200&w=450&rect=0,197,1600,800&s=91a741e8665f4757b6f110703c35f972
+  starts: 2017-04-04T09:00:00.0000000
+  ends: 2017-04-04T17:00:00.0000000
+  venue: Ron Cooke Hub
 - name: MTA Networking Fundamentals
   description: >-
     MTA Networking Fundamentals
@@ -248,22 +198,6 @@
   starts: 2017-05-04T09:00:00.0000000
   ends: 2017-05-05T16:30:00.0000000
   venue: York
-- name: Azure for IT Professionals
-  description: >-
-    Azure for IT Professionals
-
-    Designed for IT Professionals who are new to Microsoft Azure, this course takes attendees with little or no experience, to being conversant with how Azure works and ready to take the next steps into using Microsoft’s cloud to full effect.
-
-    Designed by experienced MVPs to help IT Pros get their foot in the door of Microsoft’s cloud offering, this course will give you the all-important push into learning what the potential of cloud computing has to offer and how to leverage it.
-
-    Learning through hands on and learning how to make the most out of your subscription will get you ready for the next steps in transforming how you offer IT services to your business.
-
-    For more details visit our course outline and please do not hesitate to contact us if you have any questions.
-  url: https://www.eventbrite.co.uk/e/azure-for-it-professionals-tickets-31092099306?aff=ebapi
-  logo: https://cdn.evbuc.com/images/27246540/133451304473/1/original.jpg?h=200&w=450&rect=0,0,974,487&s=ff51feb30ee55e4760ef84ebd5a939bc
-  starts: 2017-03-24T09:00:00.0000000
-  ends: 2017-03-24T17:30:00.0000000
-  venue: York
 - name: MTA Cloud Fundamentals
   description: >-
     MTA Cloud Fundamentals
@@ -302,22 +236,36 @@
   starts: 2017-04-04T09:00:00.0000000
   ends: 2017-04-04T16:30:00.0000000
   venue: York
-- name: Windows Server 2016 - What's New?
+- name: Development of Rural Biorefineries in North India
   description: >-
-    Windows Server 2016 - What's New?
+    --- Joint University of York GCRF IAA Meeting and Departmental Seminar ---
 
-    Designed for IT Professionals who need to get up to speed on what is on offer in the latest release of Microsoft’s powerful server operating system.
 
-    Offering a slew of new features, IT administrators will want to hit the ground running after having learned more about what Windows Server 2016 can bring to their environment.
+     Stopping the Punjab choking Delhi
 
-    Designed by experienced MVPs to help IT Pros get up to speed with new features in Windows Server 2016. The course explores new areas in Microsoft’s new ground breaking release of Windows Server, and shows how you can leverage technologies such as containers and Nano Server to full effect on your network.
+    In December 2015, Delhi was named as the ‘most polluted city in world’ surpassing Beijing. The uncontrolled burning of agricultural residues post-harvest in the Punjab (North India) is often cited as a significant factor as the particulate matter (smog) is transported south due to prevailing winds. Pollution in Delhi is so extreme it may have damaged the lung function of half the city’s 4.4 million children so severely that they will never fully recover. The purpose of this meeting is to explore the potential development of rural biorefineries in North India using advances in biotechnology, green chemistry and environmental sensing that offers a viable alternatives to burning of agricultural residues. 
 
-    For more details visit our course outline and please do not hesitate to contact us if you have any questions.
-  url: https://www.eventbrite.co.uk/e/windows-server-2016-whats-new-tickets-31092631899?aff=ebapi
-  logo: https://cdn.evbuc.com/images/27247437/133451304473/1/original.jpg?h=200&w=450&rect=0,0,970,485&s=f9b087fa3fdd2d26e4cdaec8af22b971
-  starts: 2017-03-27T09:00:00.0000000
-  ends: 2017-03-28T16:30:00.0000000
-  venue: York
+
+
+    1300:  Dr Avtar Matharu, GCCE Acting Director          Welcome and background
+
+              Dr Rachel Curwen, Research Development Associate          Overview of York’s activities in rice straw
+
+              Professor Mark Hodson, Head of Department, Environment Department          Overview of activities in soil health
+
+    1345:  Dr Sanjukta Subudhi, The Energy Resources Institute (TERI), Delhi, India          Fellow & Area Convenor, Environmental and Industrial Biotechnology Division          Microbial production of second generation hydrogen via dark fermentation and Microbial production of 2,3-           butanediol from renewable biomass
+
+    1430:  Prof RK Sharma, Green Chemistry Network Centre, Department of Chemistry, Delhi University, India          The biorefinery and reclamation: Silica-based materials for metal recovery
+
+    1500:  Prof SK Mehta, Department of Chemistry, Punjab University          Metal oxide nanoparticles as efficient scaffolds for chemical sensing and environmental remediation 1530: Break / Refreshments / Networking
+
+    1700:  Close
+  url: https://www.eventbrite.co.uk/e/development-of-rural-biorefineries-in-north-india-tickets-32883256706?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/29339359/61443779641/1/original.jpg?h=200&w=450&rect=0,145,1280,640&s=a55d9716efef39dcdcbcffbef686b0f8
+  starts: 2017-03-27T13:00:00.0000000
+  ends: 2017-03-27T17:00:00.0000000
+  venue: Green Chemistry Seminar room, C/F/106
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/York-Code-Coffee/events/238379747/
