@@ -15,11 +15,11 @@
     Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here and the Astrocampus is labelled 'Observatory'.  Acess is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
 
     If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-32157685503?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-32157686506?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
-  starts: 2017-04-06T18:30:00.0000000
-  ends: 2017-04-06T19:30:00.0000000
+  starts: 2017-04-06T20:00:00.0000000
+  ends: 2017-04-06T21:00:00.0000000
 - name: 'Archivematica Camp: York UK'
   description: >-
     We're excited to announce the first Archivematica Camp being held in Europe, cohosted by the University of York and Artefactual! Inspired by similar events like Hydra Camp, Islandora Camp and Fedora Camp, Archivematica Camp is intended to provide a space for anyone interested in or currently using Archivematica to come together, learn about the platform from other users, and share their experiences. The agenda will reflect the demand of the campers, so let us know what you want to hear about and we'll do our best to accomodate your interests. 
@@ -154,6 +154,18 @@
   starts: 2017-04-27T17:30:00.0000000
   ends: 2017-04-27T20:30:00.0000000
   venue: Your Bike Shed
+- name: Microsoft Excel Advanced Course
+  description: >-
+    Microsoft Excel Advanced course
+
+    Once you have used Excel for a couple of years and can produce spreadsheets with relative ease you may still feel that there are several features you need to learn to increase your productivity. This is a hands-on practical course delivered by an experienced trainer.
+
+    At the end of the day learners will be able to perform additional Advanced Worksheet, Workbook and Chart operations.
+  url: https://www.eventbrite.co.uk/e/microsoft-excel-advanced-course-tickets-31024747856?aff=ebapi
+  logo: https://cdn.evbuc.com/images/27169465/133451304473/1/original.jpg?h=200&w=450&s=94112ca1b767ece0a92029fee7a823ef
+  starts: 2017-06-09T09:00:00.0000000
+  ends: 2017-06-09T16:30:00.0000000
+  venue: York
 - name: MTA Networking Fundamentals
   description: >-
     MTA Networking Fundamentals
@@ -196,18 +208,6 @@
   starts: 2017-05-04T09:00:00.0000000
   ends: 2017-05-05T16:30:00.0000000
   venue: York
-- name: MTA Cloud Fundamentals
-  description: >-
-    MTA Cloud Fundamentals
-
-    This 3 day MTA course is a great start to understanding cloud issues and concepts. This course is part of the core introductory Microsoft IT Infrastructure certification for anyone considering a career in technology.
-
-    For more details visit our course outline and please do not hesitate to contact us if you have any questions.
-  url: https://www.eventbrite.co.uk/e/mta-cloud-fundamentals-tickets-31092276837?aff=ebapi
-  logo: https://cdn.evbuc.com/images/27246904/133451304473/1/original.jpg?h=200&w=450&rect=0,0,968,484&s=b54b2655d62472bf6929130fdc770fc0
-  starts: 2017-04-04T09:00:00.0000000
-  ends: 2017-04-06T16:30:00.0000000
-  venue: York
 - name: MTA Security Fundamentals
   description: >-
     MTA Security Fundamentals
@@ -231,6 +231,75 @@
     For more details visit our course outline and please do not hesitate to contact us if you have any questions.
   url: https://www.eventbrite.co.uk/e/microsoft-vba-excel-course-tickets-31092501509?aff=ebapi
   logo: https://cdn.evbuc.com/images/27247238/133451304473/1/original.jpg?h=200&w=450&rect=0,0,968,484&s=7435dbe8bd6a621416281d6951d1ae87
-  starts: 2017-04-04T09:00:00.0000000
-  ends: 2017-04-04T16:30:00.0000000
+  starts: 2017-06-08T09:00:00.0000000
+  ends: 2017-06-08T16:30:00.0000000
+  venue: York
+- name: Microsoft VBA Excel Course
+  description: >-
+    Microsoft Excel VBA
+
+    A one day course design to get you started with VBA / Excel Macros. This course is designed to teach experienced users of Excel how to automate spreadsheets.
+
+    For more details visit our course outline and please do not hesitate to contact us if you have any questions.
+  url: https://www.eventbrite.co.uk/e/microsoft-vba-excel-course-tickets-33040156999?aff=ebapi
+  logo: https://cdn.evbuc.com/images/29543371/133451304473/1/original.jpg?h=200&w=450&rect=0,0,968,484&s=7e637920532bb08369e0dfe5d77b032e
+  starts: 2017-07-20T09:00:00.0000000
+  ends: 2017-07-20T16:30:00.0000000
+  venue: York
+- name: Microsoft Excel Advanced Course
+  description: >-
+    Microsoft Excel Advanced course
+
+    Once you have used Excel for a couple of years and can produce spreadsheets with relative ease you may still feel that there are several features you need to learn to increase your productivity. This is a hands-on practical course delivered by an experienced trainer.
+
+    At the end of the day learners will be able to perform additional Advanced Worksheet, Workbook and Chart operations.
+  url: https://www.eventbrite.co.uk/e/microsoft-excel-advanced-course-tickets-33040242254?aff=ebapi
+  starts: 2017-08-15T09:00:00.0000000
+  ends: 2017-08-15T16:30:00.0000000
+  venue: York
+- name: Microsoft Excel Intermediate Course
+  description: >-
+    Microsoft Excel Intermediate course
+
+    Once you have used Excel and need to go beyond the basics you will want to learn features which increase the power, impact and versatility of your spreadsheets. This is a hands-on practical course delivered by an experienced trainer. The course guides the learner through additional techniques to enable users to see and apply Excel as an all-round business tool creator.
+  url: https://www.eventbrite.co.uk/e/microsoft-excel-intermediate-course-tickets-33040639442?aff=ebapi
+  logo: https://cdn.evbuc.com/images/29543714/133451304473/1/original.jpg?h=200&w=450&rect=0,0,322,161&s=f18744fdfdba1249ce0fbabc4f3b27f1
+  starts: 2017-07-19T09:00:00.0000000
+  ends: 2017-07-19T16:30:00.0000000
+  venue: York
+- name: Microsoft Word Intermediate Course
+  description: >-
+    Microsoft Word Intermediate course
+
+    This intermediate course is aimed at users who have a comfortable working knowledge of Microsoft Office Word and wish to gain skills in creating more complex documents. Throughout the course the instructor will demonstrate and allow learners ample time to perform practice exercises.
+  url: https://www.eventbrite.co.uk/e/microsoft-word-intermediate-course-tickets-33040655490?aff=ebapi
+  logo: https://cdn.evbuc.com/images/29543798/133451304473/1/original.jpg?h=200&w=450&rect=0,0,968,484&s=346de64b08d740cedcb4ee3fcdcdd0b0
+  starts: 2017-05-03T09:00:00.0000000
+  ends: 2017-05-03T16:30:00.0000000
+  venue: York
+- name: Microsoft Word Advanced Course
+  description: >-
+    Microsoft Word Advanced course
+
+    Once you have used Word for a couple of years, with experience creating complex documents, you may still feel that there are several features you need to learn in order to increase your productivity.
+
+    This course will introduce security features, automating capabilities using Macros and the creation of lockable forms for online use. Throughout the course the instructor will give learners ample time to perform practice exercises.
+  url: https://www.eventbrite.co.uk/e/microsoft-word-advanced-course-tickets-33040798919?aff=ebapi
+  logo: https://cdn.evbuc.com/images/29543822/133451304473/1/original.jpg?h=200&w=450&rect=0,0,968,484&s=728523cf536faf282629704e2233c240
+  starts: 2017-08-16T09:00:00.0000000
+  ends: 2017-08-16T16:30:00.0000000
+  venue: York
+- name: Business Continuity with Microsoft Azure (1/2 day)
+  description: >-
+    Business Continuity with Microsoft Azure
+
+    This half day workshop shows how businesses large and small can benefit from using cloud-based backups in Microsoft Azure.
+
+    Whether looking to protect your IaaS assets in Azure or other datacentre providers, or simply looking for a way to backup critical on-premises systems to the cloud, we will explore why this feature is highly popular. We will also examine how ASR can be used to bring servers online into a Disaster Recovery (DR) datacentre or how to use Azure as your DR site.
+
+    For more details visit our course outline and please do not hesitate to contact us if you have any questions.
+  url: https://www.eventbrite.co.uk/e/business-continuity-with-microsoft-azure-12-day-tickets-33043537109?aff=ebapi
+  logo: https://cdn.evbuc.com/images/29547051/133451304473/1/original.jpg?h=200&w=450&rect=0,0,322,161&s=9a626e48a6fd45cdb6316879bf291809
+  starts: 2017-05-23T09:00:00.0000000
+  ends: 2017-05-23T12:30:00.0000000
   venue: York
