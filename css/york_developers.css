@@ -227,11 +227,15 @@ section.our_meetups h2 {
     color: #fff
 }
 section.contact_us {
-    background: #FFF;
-    color: #4800FF
+    background: #4800FF;
+    color: #fff
 }
 section.contact_us h2 {
-    color: #000000
+    color: #fff
+}
+section.twitter_feed {
+    background: #FFF;
+    color: #4800FF
 }
 section.events-even {
     padding: 0 0;
@@ -268,9 +272,6 @@ section.events-odd {
     width: 100%;
     height: 100%;
     opacity: 0;
-
-    
-
     transition: all ease .5s;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s
@@ -309,6 +310,67 @@ section.events-odd {
         margin: 0 0 30px
     }
 }
+
+#meetups .our_meetups-item {
+    margin: 0 0 15px;
+    right: 0
+}
+#meetups .our_meetups-item .our_meetups-link {
+    display: block;
+    position: relative;
+    max-width: 400px;
+    margin: 0 auto
+}
+#meetups .our_meetups-item .our_meetups-link .caption {
+    background: rgba(255, 182428, 186, .2);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: all ease .5s;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s
+}
+#meetups .our_meetups-item .our_meetups-link .caption:hover {
+    opacity: 1
+}
+#meetups .our_meetups-item .our_meetups-link .caption .caption-content {
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    font-size: 20px;
+    text-align: center;
+    top: 50%;
+    margin-top: -12px;
+    color: #000000
+}
+.btn-social,
+.scroll-top,
+.scroll-top .btn {
+    width: 50px;
+    height: 50px
+}
+#meetups .our_meetups-item .our_meetups-link .caption .caption-content i {
+    margin-top: -12px
+}
+#meetups .our_meetups-item .our_meetups-link .caption .caption-content h3,
+#meetups .our_meetups-item .our_meetups-link .caption .caption-content h4 {
+    margin: 0
+}
+#meetups * {
+    z-index: 2
+}
+@media (min-width: 767px) {
+    #meetups .our_meetups-item {
+        margin: 0 0 30px
+    }
+}
+
+
+
+
+
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
