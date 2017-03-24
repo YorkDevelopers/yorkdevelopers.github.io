@@ -1,26 +1,3 @@
-- name: Kotlin 1.1 Event with JetBrains
-  description: "<p><img src=\"http://photos2.meetupstatic.com/photos/event/e/8/a/7/600_458999559.jpeg\" /></p> <p>Kotlin 1.1 was released on 1st March and this event will be a tie-in with the Kotlin development team at JetBrains.</p> <p><br/>The headline new features in Kotlin 1.1 include:  </p> <p>• Coroutines - simplification of asynchronous programming using suspendible fibres.</p> <p>• JavaScript - compilation of Kotlin to JavaScript</p> <p>• Type Aliases - provide readable aliases for complex data &amp; function types</p> <p>• lots more new features/syntactic sugar</p> <p><b>Live Demo of Kotlin 1.1 (at 18:00)</b><br/>Watch a live stream of Andrey Breslav's demonstration of the key features in 1.1. Andrey is the lead language designer of Kotlin at JetBrains.</p> <p><b>Q &amp; A Session</b><br/>Participate in a live Q&amp;A session with the Kotlin Development Team.</p> <p><b>Future Features</b> <br/>JetBrains are also highlighting the features to be expected in future versions of Kotlin. This event will allow us to vote on the priority of these language features and for this priotirsation to be passed directly to the Kotlin team at JetBrains.</p> <p>\n\n\n<b>Registation &amp; Attendence</b></p> <p>All attendees must be pre-registered at least 1 day before the event to allow time to generate name badges.<br/>On arrival please report to reception to be given your security pass.</p> "
-  url: https://www.meetup.com/Kotlin-Yorkshire-Meetup-Group/events/238183512/
-  is-free: true
-  starts: 2017-03-23T17:45:00.0000000
-  ends: 2017-03-23T20:45:00.0000000
-  venue: EE - Floor 2, BT
-- name: Problem solving and architecture in an Agile world
-  description: "<p>After an excellent start to our 2017 talks schedule we are delighted to announce our second Leeds event of the year.</p> <p>We have two great guest speakers so come along and enjoy the talks.</p> <p><b>Session One: I am a Business Analyst and so are you!</b></p> <p>Mairead O'Connor, Delivery Manager, Equal Experts</p> <p>Description: \"Some are specialists, some are generalists, but we all do business analysis. The whole team is responsible for figuring out what’s needed to solve a problem. No ‘chucking it over the fence’, no ‘I’m waiting to get the requirements’, no ‘that wasn’t written on the card’. Let’s talk about how we can collaborate to develop great products.\"</p> <p><b>Session Two: The Rise of the Agile Architect</b></p> <p>Reda Hmeid, Technical Architect, Equal Experts</p> <p>Description: \"Architecture and Agile have had a fractious relationship since the latter was introduced to the world in 2001. In fact, there has been a constant argument that architects are no longer needed in the Agile world. </p> <p>However, architects working in an Agile way have been around for years, with unequivocal success. Long before the Agile Manifesto was signed.</p> <p>Here, we'll go through the characteristics and attributes of the Agile Architect that has seen them rise to prominence in recent years.\"</p> <p>Pizza and drinks will be provided as usual.</p> "
-  url: https://www.meetup.com/Expert-Talks-Leeds/events/237846113/
-  is-free: true
-  logo: http://photos1.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
-  starts: 2017-03-23T18:00:00.0000000
-  ends: 2017-03-23T21:00:00.0000000
-  venue: 'The White Cloth Gallery '
-- name: Game Developer Monthly meeting
-  description: "<p>The Minster Inn is off Bootham, about 5 minutes walk from Bootham Bar.  It has recently been renovated, and now serves stone baked Pizza, and a good selection of Ales on tap and in bottles.  I have reserved a room from 7 for Thursday.  If you want to keep it private, shut the door; but we didn't have much trouble last time with some regulars wandering in!</p> <p><a href=\"http://minsterinn.co.uk/\"><a href=\"http://minsterinn.co.uk/\" class=\"linkified\">http://minsterinn.co.uk/</a></a></p> <p>As always, if you have something to show, feel free to bring it.  Mostly these meetings are a bunch of interesting folks chatting about Games and development over a beer.</p> <p>Regards,</p> <p><br/>Chris.</p> "
-  url: https://www.meetup.com/York-Game-Developers/events/237984886/
-  is-free: true
-  logo: http://photos4.meetupstatic.com/photos/event/9/2/4/9/thumb_434677449.jpeg
-  starts: 2017-03-23T18:45:00.0000000
-  ends: 2017-03-23T21:45:00.0000000
-  venue: Minster Inn
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/York-Code-Coffee/events/238379752/
@@ -100,3 +77,11 @@
   starts: 2017-04-05T07:00:00.0000000
   ends: 2017-04-05T10:00:00.0000000
   venue: La Bottega Milanese
+- name: GDG Leeds - April
+  description: "<p>If you attended March's meetup can you please spend 30secs and answer <a href=\"https://goo.gl/forms/HA3nGo6rQyNNmY5F2\">this</a> survey? It will help us in organising future events for you all :)</p> <p><br/>This month we're having a talk on Machine Learning by Adam Moss, co-founder of <a href=\"http://fantasyfootballfix.com/\">Fantasy Football Fix</a> and Lecturer in Physics and Astronomy at Nottingham University.</p> <p>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch! </p> <p>Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Intro</p> <p>6.20pm - TBC</p> <p>7.10pm - Machine Learning - Adam Moss</p> <p>7.50pm - Wrap up</p> <p>8.00pm - The end</p> "
+  url: https://www.meetup.com/GDG-Leeds/events/238410137/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
+  starts: 2017-04-06T17:00:00.0000000
+  ends: 2017-04-06T19:00:00.0000000
+  venue: Sky 2
