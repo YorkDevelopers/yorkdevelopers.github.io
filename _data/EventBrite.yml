@@ -1,22 +1,3 @@
-- name: Language learning in your sleep
-  description: >-
-    Speaker: Professor Gareth Gaskell, Department of Psychology
-
-    Merchant Adventurers’ Science Discovery Lecture
-
-    While sleep remains in many ways deeply mysterious, researchers are now beginning to recognise the importance of sleep for memory and learning. In this talk Gareth will describe research carried out in his lab that has identified a crucial role for sleep in language acquisition, including ways in which both adults' and children's sleep can improve language learning. He will also talk about the mechanisms with which the brain uses sleep to aid learning, and discuss ways in which boosting your sleep might accelerate the learning process.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/language-learning-in-your-sleep-tickets-30220238547?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/26606779/22468345120/1/original.jpg?h=200&w=450&rect=0,86,800,400&s=c1c14ab5d04f496caafea2b3a1659e3b
-  starts: 2017-03-23T18:30:00.0000000
-  ends: 2017-03-23T19:30:00.0000000
-  venue: Merchant Adventurers' Hall
 - name: OMG! Science
   description: "Unlocking the wonder of our world!\r\n\"To myself I am only a child playing on the beach, \r\nwhile vast oceans of truth lie undiscovered before me\" Isaac Newton\r\n \r\nBlow your mind with phantastical physics and biological banter with leading scientists from across the UK. For school groups age 14-18\r\nGo beyond the tired argument between science and faith, and make new exciting connections.\r\n\r\n\r\nRegistration - 9:30\r\n\r\nWelcome - 10:00\r\n\r\nOpening keynotes - 10:10\r\n\r\n\r\nWorkshops - 11:00\r\n\r\n\r\nLunch-  12:00\r\n\r\n\r\nWorkshops - 13:00\r\n\r\nQ&A - 14:10\r\n\r\nClosing remarks - 14:55\r\n\r\n\r\nFinish: 15:00\r\n\r\n\r\nThe event is FREE and lunch is provided. All attendees will also receive a 'conference pack', including a copy of 'Let there be Science' \r\nWorkshops themes to include:\r\n\r\n\r\nCosmodome\r\n\r\n\r\nNano world\r\n\r\n\r\nDebunking the myths\r\n\r\n\r\nScience, more than a job?\r\n\r\n\r\nEnergy & environment\r\n\r\n\r\nConservation of wolves\r\n\r\n\r\n210 Spaces available, click Register to see how many spaces are available. Book groups early to reserve spaces for the day.  https://www.facebook.com/events/101487527037420/\r\nThis event is funded by the Templeton Foundation\r\n\r\n\r\n"
   url: https://www.eventbrite.co.uk/e/omg-science-tickets-31678610577?aff=ebapi
@@ -25,20 +6,6 @@
   starts: 2017-03-31T09:30:00.0000000
   ends: 2017-03-31T15:00:00.0000000
   venue: The Hive
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here and the Astrocampus is labelled 'Observatory'.  Acess is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-32157686506?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
-  starts: 2017-04-06T20:00:00.0000000
-  ends: 2017-04-06T21:00:00.0000000
 - name: 'Archivematica Camp: York UK'
   description: >-
     We're excited to announce the first Archivematica Camp being held in Europe, cohosted by the University of York and Artefactual! Inspired by similar events like Hydra Camp, Islandora Camp and Fedora Camp, Archivematica Camp is intended to provide a space for anyone interested in or currently using Archivematica to come together, learn about the platform from other users, and share their experiences. The agenda will reflect the demand of the campers, so let us know what you want to hear about and we'll do our best to accomodate your interests. 
@@ -90,6 +57,20 @@
   starts: 2017-04-04T09:00:00.0000000
   ends: 2017-04-06T17:00:00.0000000
   venue: The Ron Cooke Hub
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here and the Astrocampus is labelled 'Observatory'.  Acess is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-32157686506?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
+  starts: 2017-04-06T20:00:00.0000000
+  ends: 2017-04-06T21:00:00.0000000
 - name: Development of Rural Biorefineries in North India
   description: >-
     --- Joint University of York GCRF IAA Meeting and Departmental Seminar ---
@@ -120,59 +101,6 @@
   starts: 2017-03-27T13:00:00.0000000
   ends: 2017-03-27T17:00:00.0000000
   venue: Green Chemistry Seminar room, C/F/106
-- name: 'Archivematica Camp York: Day 1 only'
-  description: >-
-    This ticket is for Day 1 only of Archivematica Camp in York. On Day 1, your options are:
-
-    9 am - 12 pm: Archivematica for Absolute Beginners- During the morning of Day One we'll ensure that everyone is comfortable with Archivematica, whether they're archivists, developers, or systems administrators. This is a half-day session intended for participants with no previous Archivematica experience whatsoever.
-
-    1 pm - 5 pm: Archivematica and AtoM- The afternoon of Day One will be spent looking at how Archivematica integrates with AtoM, a widely-used archival description system. This half-day session will be spent exploring Archivematica and AtoM integration, including both present functionality and future possibilities.
-
-    All day (9 am - 5 pm with a break over lunch): Advanced Archivematica Drop-In Help Clinic- All day we'll have experts available to help you with your Archivematica problems. No appointment necessary - just drop by with a laptop and a problem and we'll be happy to chat!
-
-    Lunch and coffee breaks are included.
-
-    To register for all three days of Archivematica Camp York, please go to: https://www.eventbrite.com/e/archivematica-camp-york-uk-registration-31851507717
-  url: https://www.eventbrite.com/e/archivematica-camp-york-day-1-only-tickets-32861171649?aff=ebapi
-  logo: https://cdn.evbuc.com/images/29316294/201888938780/1/original.jpg?h=200&w=450&rect=0,197,1600,800&s=91a741e8665f4757b6f110703c35f972
-  starts: 2017-04-04T09:00:00.0000000
-  ends: 2017-04-04T17:00:00.0000000
-  venue: Ron Cooke Hub
-- name: 'Green Manufacturing for the 21st Century Chemical Industry: Case studies, methodologies and tools'
-  description: "Increasing demand for chemicals worldwide, depleting resources, stricter legislation and the rising cost of waste disposal are placing increasing pressure on the chemical and related industries.  For any organisation to survive in the current climate, the issue of sustainability must be fundamental to the way it operates.   This free workshop provides an exciting opportunity to gain advice and scientific expertise, explore a broad range of cutting-edge case studies on green chemical manufacturing and learn about the methodologies and tools available to facilitate practical solutions. The workshop is open to all with an interest in the future of sustainable manufacturing.  The programme for the day includes:\n\n Industrial case studies from Croda, Thomas Swan, GSK (tbc) and Biome\n Insight into Industrial Decarbonisation and Energy Efficiency Roadmaps to 2050\n Drivers for change including the Business Case for Green and REACH \n Guidance on the transition to green manufacturing and circular economy\n Guidance on greener solvent selection and substitution\n Platform molecules and clean synthesis\n Online learning resources and associated tools including metrics and solvent selection\n Opportunities for knowledge transfer, discussion and networking\n\n Speakers\nMike Lancaster, Chemical Industries Association\nDr Simon Grant, Thomas Swan & Co. Ltd\nTerry Thistlethwaite, Croda International plc\nPaul Mines, Biome Technologies plc\nDr John Hayler, GlaxoSmithKline plc (tbc)\nJo Lloyd, ERM\nProf. Peter Ball, University of York\nDr Rob McElroy, University of York\nDr James Sherwood, University of York\nDr Tom Farmer, University of York\nLouise Summerton, University of York\nRick Taylor, University of York\n\n\n\n \n\n"
-  url: https://www.eventbrite.co.uk/e/green-manufacturing-for-the-21st-century-chemical-industry-case-studies-methodologies-and-tools-tickets-32618322280?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/29041083/30757136331/1/original.jpg?h=200&w=450&rect=0,0,466,233&s=96da6888ba80151208bc8c27ef1fbf23
-  starts: 2017-05-24T10:00:00.0000000
-  ends: 2017-05-24T17:00:00.0000000
-  venue: Green Chemistry Seminar room, C/F/106
-- name: Tech Scene York
-  description: >-
-    WHO ARE WE? We are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.PROGRAMME
-
-    1730     Drinks & Networking
-
-    1800     Welcome
-
-    1810     Kerry Japherson, York College – “using the apprenticeship levy to drive skills in this sector”
-
-    1820      Suresh Manandhar - “Introducing the AI Clinic”
-
-    1830     Chris Bray, Purple Frog – “Using AI for smart management of documents”
-
-    1855      Nigel Tracey, Bosch ETAS – “what makes automotive software special?"
-
-    1920     Catherine Hartley - York Maker Hub (joined by Stella Chan from STEM NET)
-
-    1945     Networking
-
-    2030     Close
-  url: https://www.eventbrite.co.uk/e/tech-scene-york-tickets-32431864580?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/29174804/2762975383/1/original.jpg?h=200&w=450&rect=102,0,572,286&s=1b2c85f451fa60dd8ebe8d51b2ae4ab5
-  starts: 2017-04-27T17:30:00.0000000
-  ends: 2017-04-27T20:30:00.0000000
-  venue: Your Bike Shed
 - name: Windows User Group (York).  30th March 2017, 6.00pm.  Azure Backup and Replication Technologies.
   description: >+
     Windows User Group 
@@ -226,6 +154,59 @@
   starts: 2017-03-30T18:00:00.0000000
   ends: 2017-03-30T21:00:00.0000000
   venue: The Ron Cooke Hub
+- name: 'Archivematica Camp York: Day 1 only'
+  description: >-
+    This ticket is for Day 1 only of Archivematica Camp in York. On Day 1, your options are:
+
+    9 am - 12 pm: Archivematica for Absolute Beginners- During the morning of Day One we'll ensure that everyone is comfortable with Archivematica, whether they're archivists, developers, or systems administrators. This is a half-day session intended for participants with no previous Archivematica experience whatsoever.
+
+    1 pm - 5 pm: Archivematica and AtoM- The afternoon of Day One will be spent looking at how Archivematica integrates with AtoM, a widely-used archival description system. This half-day session will be spent exploring Archivematica and AtoM integration, including both present functionality and future possibilities.
+
+    All day (9 am - 5 pm with a break over lunch): Advanced Archivematica Drop-In Help Clinic- All day we'll have experts available to help you with your Archivematica problems. No appointment necessary - just drop by with a laptop and a problem and we'll be happy to chat!
+
+    Lunch and coffee breaks are included.
+
+    To register for all three days of Archivematica Camp York, please go to: https://www.eventbrite.com/e/archivematica-camp-york-uk-registration-31851507717
+  url: https://www.eventbrite.com/e/archivematica-camp-york-day-1-only-tickets-32861171649?aff=ebapi
+  logo: https://cdn.evbuc.com/images/29316294/201888938780/1/original.jpg?h=200&w=450&rect=0,197,1600,800&s=91a741e8665f4757b6f110703c35f972
+  starts: 2017-04-04T09:00:00.0000000
+  ends: 2017-04-04T17:00:00.0000000
+  venue: Ron Cooke Hub
+- name: 'Green Manufacturing for the 21st Century Chemical Industry: Case studies, methodologies and tools'
+  description: "Increasing demand for chemicals worldwide, depleting resources, stricter legislation and the rising cost of waste disposal are placing increasing pressure on the chemical and related industries.  For any organisation to survive in the current climate, the issue of sustainability must be fundamental to the way it operates.   This free workshop provides an exciting opportunity to gain advice and scientific expertise, explore a broad range of cutting-edge case studies on green chemical manufacturing and learn about the methodologies and tools available to facilitate practical solutions. The workshop is open to all with an interest in the future of sustainable manufacturing.  The programme for the day includes:\n\n Industrial case studies from Croda, Thomas Swan, GSK (tbc) and Biome\n Insight into Industrial Decarbonisation and Energy Efficiency Roadmaps to 2050\n Drivers for change including the Business Case for Green and REACH \n Guidance on the transition to green manufacturing and circular economy\n Guidance on greener solvent selection and substitution\n Platform molecules and clean synthesis\n Online learning resources and associated tools including metrics and solvent selection\n Opportunities for knowledge transfer, discussion and networking\n\n Speakers\nMike Lancaster, Chemical Industries Association\nDr Simon Grant, Thomas Swan & Co. Ltd\nTerry Thistlethwaite, Croda International plc\nPaul Mines, Biome Technologies plc\nDr John Hayler, GlaxoSmithKline plc (tbc)\nJo Lloyd, ERM\nProf. Peter Ball, University of York\nDr Rob McElroy, University of York\nDr James Sherwood, University of York\nDr Tom Farmer, University of York\nLouise Summerton, University of York\nRick Taylor, University of York\n\n\n\n \n\n"
+  url: https://www.eventbrite.co.uk/e/green-manufacturing-for-the-21st-century-chemical-industry-case-studies-methodologies-and-tools-tickets-32618322280?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/29041083/30757136331/1/original.jpg?h=200&w=450&rect=0,0,466,233&s=96da6888ba80151208bc8c27ef1fbf23
+  starts: 2017-05-24T10:00:00.0000000
+  ends: 2017-05-24T17:00:00.0000000
+  venue: Green Chemistry Seminar room, C/F/106
+- name: Tech Scene York
+  description: >-
+    WHO ARE WE? We are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.PROGRAMME
+
+    1730     Drinks & Networking
+
+    1800     Welcome
+
+    1810     Kerry Japherson, York College – “using the apprenticeship levy to drive skills in this sector”
+
+    1820      Suresh Manandhar - “Introducing the AI Clinic”
+
+    1830     Chris Bray, Purple Frog – “Using AI for smart management of documents”
+
+    1855      Nigel Tracey, Bosch ETAS – “what makes automotive software special?"
+
+    1920     Catherine Hartley - York Maker Hub (joined by Stella Chan from STEM NET)
+
+    1945     Networking
+
+    2030     Close
+  url: https://www.eventbrite.co.uk/e/tech-scene-york-tickets-32431864580?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/29174804/2762975383/1/original.jpg?h=200&w=450&rect=102,0,572,286&s=1b2c85f451fa60dd8ebe8d51b2ae4ab5
+  starts: 2017-04-27T17:30:00.0000000
+  ends: 2017-04-27T20:30:00.0000000
+  venue: Your Bike Shed
 - name: Microsoft Excel Advanced Course
   description: >-
     Microsoft Excel Advanced course
