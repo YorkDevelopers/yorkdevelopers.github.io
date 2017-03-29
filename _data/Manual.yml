@@ -1,0 +1,96 @@
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/238379136/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-03-15T07:30:00.0000000
+  ends: 2017-03-15T10:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywfbtb/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-03-15T08:00:00.0000000
+  ends: 2017-03-15T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: Love and Hate between ORMs and Query Builders and Building a REPL for Phunkie
+  description: "<p>It's time for another Leeds PHP meetup!</p> <p>This month we're, again, at Futurelabs. Drinks, food, and more drinks provided as always by our wonderful sponsors - Sky Betting &amp; Gaming, Inviqa, QuidCo, and Futurelabs!</p> <p><b>Timings</b></p> <p>• 18:30 – Turn up, have a drink, a snack, and a chat (pizza, beer, coffee, soft drinks)</p> <p>• 19:00 – “<b>Love and Hate relationship between ORMs and Query Builders</b>” - Romans Malinovskis</p> <p>• 19:45 – Mid session interval</p> <p>• 19:55 –  “<b>Building a REPL for Phunkie, with Phunkie</b>” – Marcello Duarte</p> <p>• 20:30 – Pop over the road to Headrow House pub (a drink or two provided)</p> <p><b>Love and Hate relationship between ORMs and Query Builders</b> - Romans Malinovskis</p> <p><i>While some developers prefer writing their own SQL queries, others prefer to abstract the database with Object Relational Mappers. Is there a middle-ground that incorporates both without compromising and resulting in limitations?</i></p> <p><i>This talk will focus on database abstraction, query latency &amp; domain model and persistence mapping patterns in PHP applications. It will introduce the core concepts behind “Agile Data” - (database abstraction library available under MIT from <a href=\"http://github.com/atk4/data\">github.com/atk4/data</a>).</i></p> <p>Romans is an author of “Agile Data” and an active PHP / SaaS developer since 1997.</p> <p>Romans Malinovskis on Twitter: <a href=\"https://twitter.com/romaninsh\">@romaninsh</a></p> <p><b>Building a REPL for Phunkie, with Phunkie</b> – Marcello Duarte</p> <p><br/><i>After writing PhpSpec using PhpSpec, I decided my latest project should be writing a REPL for Phunkie – my PHP functional structures library – using Phunkie itself, along with functional programming patterns and techniques.</p> <p>This talk will share my learnings. We’ll go through the code, understand the design, and learn how to apply some of the Functional Programming (FP) principles in a real-life scenario. We’ll go beyond the basics and look at how FP deals with state, composition, and side-effects like IO, validation, and more.</p> <p>We’ll also discuss the benefits and costs of the functional approach. You will leave this session with an appetite to learn even more about what FP, and in particular FP in PHP with Phunkie, has to offer.</i></p> <p>Marcello is a co-creator of PhpSpec and the Head of Training at Inviqa</p> <p>Marcello Duarte on Twitter: <a href=\"https://twitter.com/_md\">@_md</a></p> <p><b>Sponsors</b></p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support of this community event.</p> <p><a href=\"http://futurelabs.org.uk/\">Futurelabs</a></p> <p> – Are a not-for-profit formed to help provide a focal point for tech start-up and scale-up businesses in and around Leeds. Futurelabs offer hot desking, fixed desk space or larger office spaces for tech businesses at very reasonable prices.</p> <p><a href=\"https://www.maplesyrupmedia.com/our-story/\">Quidco/Maple Syrup Media</a> – Maple Syrup Media built its reputation as cashback pioneers with Quidco. They’ve since consolidated their credentials in the UK with grocery and travel specific ventures, CheckoutSmart and EarnAway. Their teams are based in London, Sheffield, Berlin, Paris and Durban – check out their <a href=\"https://www.maplesyrupmedia.com/careers/\">careers page</a></p> <p><a href=\"http://skybetcareers.com/about-us\">Sky Betting &amp; Gaming</a> – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their <a href=\"http://skybetcareers.com/\">careers page</a> provides great detail as to the working environment and range of work available across the technology stack.</p> <p><a href=\"http://inviqa.com/\">Inviqa</a> – With offices in Leeds and across the UK and Europe Inviqa helps pioneering brands and organisations to engage, convert and retain their customers through digital innovation. If you’re looking for a developer role have a look at their <a href=\"https://inviqa.com/company/careers\">careers page</a>.</p> <p><br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~</p> <p>Still reading? <b>PHP Yorkshire Conference</b> is happening in York on Saturday April 8th. Some great speakers and a great day out! Get yourself over to <a href=\"https://www.phpyorkshire.co.uk/\">www.phpyorkshire.co.uk</a> to read about it and get a ticket with discount code <b>phpleeds90 </b>to get a ticket for<b> only £90.</b></p> <p>See you soon!</p> "
+  url: https://www.meetup.com/leedsphp/events/238081826/
+  is-free: true
+  logo: http://photos4.meetupstatic.com/photos/event/d/a/e/d/thumb_455636045.jpeg
+  starts: 2017-03-15T18:30:00.0000000
+  ends: 2017-03-15T21:30:00.0000000
+  venue: Future Labs
+- name: 'ITBoss: Bringing together Senior IT Professionals'
+  description: '<p>We are delighted to announce our next ITBoss networking event will take place on Thursday 16 March 2017. ITBoss is the one and only event in Yorkshire designed to bring together Senior IT Professionals.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?</b></p> <p>The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>• a brief intro and welcome</p> <p>• a talk from industry experts</p> <p>• lightning discussions on hot industry specific topics chosen by you</p> <p>• event roundup and thank you at approximately 8.30pm</p> <p>• drinks and networking to finish.</p> <p><b>WHO ATTENDS?</b></p> <p>Senior IT Professionals including IT Directors, Programme Managers, CIOs and CTOs. This is an invitation-only event organised and held by Corecom Consulting, Yorkshire’s fastest growing IT recruitment specialist.</p> <p><b>WHY SHOULD I ATTEND?</b></p> <p>ITBoss creates a unique platform for Senior IT Professionals all over Yorkshire to debate, discuss hot topics, learn from reputable and established speakers whilst networking with like minded individuals in an intimate but friendly environment.</p> <p><b>FEEDBACK FROM PREVIOUS ITBOSS EVENTS</b></p> <p>“The ITBoss networking event was an extremely valuable event to participate in. I networked with like-minded IT Directors and Heads of IT, sharing some useful tools, practices and insights which I have transferred to the workplace. It has also provided me with a network of contacts that I can call upon when dealing with future challenges and when seeking advice.”</p> <p><i>Sunder Iyer, Project Manager, LexisNexis</i></p> <p>“The most useful sections of the ITBoss event was having a guest speaker on a subject area which I am very interested in my current role…there is a lot of focus on aligning with strategy. The lightning topics were great in that they were on three different topics, everyone at some point got involved in the discussions and they were time-boxed! A good event all round.”</p> <p><i>Philippa Rickard, Programme Manager, William Hill</i></p> '
+  url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237041974/
+  is-free: true
+  logo: ''
+  starts: 2017-03-16T18:00:00.0000000
+  ends: 2017-03-16T20:30:00.0000000
+  venue: Banyan Bar Leeds
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/238379747/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-03-20T07:30:00.0000000
+  ends: 2017-03-20T10:30:00.0000000
+  venue: The Perky Peacock
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/238379749/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-03-22T07:30:00.0000000
+  ends: 2017-03-22T10:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywfbdc/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-03-22T08:00:00.0000000
+  ends: 2017-03-22T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: New features in Magento 2 / Tips 'n' Tricks for Magento
+  description: '<p>Lewis Sellers from Pinpoint Designs (www.pinpointdesigns.co.uk) will be walking us through the new features in Magento 2. Lewis will be speaking around topics such as the B2B Magento module and also the BlueFoot CMS.</p> <p>Also we will have a "step up to the mic" style  15 minutes where we invite Magento Coders to share any tips and tricks on their Magento Development experiences to help others.</p> '
+  url: https://www.meetup.com/Magento-York/events/237027132/
+  is-free: true
+  logo: http://photos4.meetupstatic.com/photos/event/1/2/3/thumb_444120291.jpeg
+  starts: 2017-03-22T19:00:00.0000000
+  ends: 2017-03-22T21:00:00.0000000
+  venue: The Cross Keys
+- name: Kotlin 1.1 Event with JetBrains
+  description: "<p><img src=\"http://photos2.meetupstatic.com/photos/event/e/8/a/7/600_458999559.jpeg\" /></p> <p>Kotlin 1.1 was released on 1st March and this event will be a tie-in with the Kotlin development team at JetBrains.</p> <p><br/>The headline new features in Kotlin 1.1 include:  </p> <p>• Coroutines - simplification of asynchronous programming using suspendible fibres.</p> <p>• JavaScript - compilation of Kotlin to JavaScript</p> <p>• Type Aliases - provide readable aliases for complex data &amp; function types</p> <p>• lots more new features/syntactic sugar</p> <p><b>Live Demo of Kotlin 1.1 (at 18:00)</b><br/>Watch a live stream of Andrey Breslav's demonstration of the key features in 1.1. Andrey is the lead language designer of Kotlin at JetBrains.</p> <p><b>Q &amp; A Session</b><br/>Participate in a live Q&amp;A session with the Kotlin Development Team.</p> <p><b>Future Features</b> <br/>JetBrains are also highlighting the features to be expected in future versions of Kotlin. This event will allow us to vote on the priority of these language features and for this priotirsation to be passed directly to the Kotlin team at JetBrains.</p> <p>\n\n\n<b>Registation &amp; Attendence</b></p> <p>All attendees must be pre-registered at least 1 day before the event to allow time to generate name badges.<br/>On arrival please report to reception to be given your security pass.</p> "
+  url: https://www.meetup.com/Kotlin-Yorkshire-Meetup-Group/events/238183512/
+  is-free: true
+  logo: ''
+  starts: 2017-03-23T17:45:00.0000000
+  ends: 2017-03-23T20:45:00.0000000
+  venue: EE - Floor 2, BT
+- name: Problem solving and architecture in an Agile world
+  description: "<p>After an excellent start to our 2017 talks schedule we are delighted to announce our second Leeds event of the year.</p> <p>We have two great guest speakers so come along and enjoy the talks.</p> <p><b>Session One: I am a Business Analyst and so are you!</b></p> <p>Mairead O'Connor, Delivery Manager, Equal Experts</p> <p>Description: \"Some are specialists, some are generalists, but we all do business analysis. The whole team is responsible for figuring out what’s needed to solve a problem. No ‘chucking it over the fence’, no ‘I’m waiting to get the requirements’, no ‘that wasn’t written on the card’. Let’s talk about how we can collaborate to develop great products.\"</p> <p><b>Session Two: The Rise of the Agile Architect</b></p> <p>Reda Hmeid, Technical Architect, Equal Experts</p> <p>Description: \"Architecture and Agile have had a fractious relationship since the latter was introduced to the world in 2001. In fact, there has been a constant argument that architects are no longer needed in the Agile world. </p> <p>However, architects working in an Agile way have been around for years, with unequivocal success. Long before the Agile Manifesto was signed.</p> <p>Here, we'll go through the characteristics and attributes of the Agile Architect that has seen them rise to prominence in recent years.\"</p> <p>Pizza and drinks will be provided as usual.</p> "
+  url: https://www.meetup.com/Expert-Talks-Leeds/events/237846113/
+  is-free: true
+  logo: http://photos1.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2017-03-23T18:00:00.0000000
+  ends: 2017-03-23T21:00:00.0000000
+  venue: 'The White Cloth Gallery '
+- name: Game Developer Monthly meeting
+  description: "<p>The Minster Inn is off Bootham, about 5 minutes walk from Bootham Bar.  It has recently been renovated, and now serves stone baked Pizza, and a good selection of Ales on tap and in bottles.  I have reserved a room from 7 for Thursday.  If you want to keep it private, shut the door; but we didn't have much trouble last time with some regulars wandering in!</p> <p><a href=\"http://minsterinn.co.uk/\"><a href=\"http://minsterinn.co.uk/\" class=\"linkified\">http://minsterinn.co.uk/</a></a></p> <p>As always, if you have something to show, feel free to bring it.  Mostly these meetings are a bunch of interesting folks chatting about Games and development over a beer.</p> <p>Regards,</p> <p><br/>Chris.</p> "
+  url: https://www.meetup.com/York-Game-Developers/events/237984886/
+  is-free: true
+  logo: http://photos4.meetupstatic.com/photos/event/9/2/4/9/thumb_434677449.jpeg
+  starts: 2017-03-23T18:45:00.0000000
+  ends: 2017-03-23T21:45:00.0000000
+  venue: Minster Inn
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/238379752/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-03-27T06:30:00.0000000
+  ends: 2017-03-27T09:30:00.0000000
+  venue: The Perky Peacock

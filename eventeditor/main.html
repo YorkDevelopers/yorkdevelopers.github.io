@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Event Editor</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.4.2/knockout-min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+    <style>
+        #event-table .event-logo {
+            width: 6em;
+            height: 6em;
+            padding: 0;
+            display: table-cell;
+            text-align: center;
+            margin: 0 auto;
+            -webkit-border-radius: 100%;
+            -moz-border-radius: 100%;
+            border-radius: 100%;
+        }
+    </style>
+
+    <table id="event-table" class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>&nbsp;</th>
+                <th>Event</th>
+                <th>Description</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: events">
+            <tr>
+                <td><img class="event-logo" width="64px" height="64px" data-bind="attr:{src: Logo}" /> </td>
+                <td width="25%">
+                    <div data-bind="text: Name"></div>
+                    <div data-bind="text: formatDate(Starts())"></div>
+                </td>
+                <td data-bind="text: shortenString(Description())"></td>
+                <td><a href='#' data-bind='click: $root.editEvent'>Edit</a> | <a href='#' data-bind='click: $root.deleteEvent'>Delete</a></td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
+    <script>
+        function formatDate(originalDate) {
+            var d = new Date(originalDate);
+            return d.toLocaleString();
+        }
+
+        function shortenString(originalString) {
+            if (originalString.length > 100) {
+                return originalString.substr(0, 100) + "...";
+            }
+            else {
+                return originalString;
+            }
+
+        }
+
+        var Event = function (data) {
+            var self = this;
+
+            data = data || {};
+
+            self.Name = ko.observable(data.Name || '');
+            self.Description = ko.observable(data.Description || '');
+            self.Logo = ko.observable(data.Logo || '');
+            self.URL = ko.observable(data.URL || '');
+            self.IsFree = ko.observable(data.IsFree || '');
+            self.Starts = ko.observable(data.Starts || '');
+            self.Ends = ko.observable(data.Ends || '');
+            self.Venue = ko.observable(data.Venue || '');
+
+            self.copyThisEvent = function () {
+                var newEvent = new Event();
+                newEvent.copyValuesFrom(self);
+                return newEvent;
+            }
+
+            self.copyValuesFrom = function (data) {
+                self.Name(data.Name());
+                self.Description(data.Description());
+                self.Logo(data.Logo());
+                self.URL(data.URL());
+                self.IsFree(data.IsFree());
+                self.Starts(data.Starts());
+                self.Ends(data.Ends());
+                self.Venue(data.Venue());
+            }
+
+        };
+
+        var ViewModel = function (data) {
+            var self = this;
+
+            self.events = ko.observableArray(
+                ko.utils.arrayMap(data, function (i) { return new Event(i); })
+            );
+
+            self.currentEvent = ko.observable(null);
+
+            self.editEvent = function (event) {
+                self.currentEvent(event.copyThisEvent());
+                $('#myModal').modal('show');
+
+                //on ok
+                event.copyValuesFrom(self.currentEvent);
+            };
+
+            self.deleteEvent = function (event) {
+                self.events.remove(event);
+            };
+
+            self.addEvent = function () {
+                self.currentEvent = new Event();
+                self.currentEvent.Name = "New Event";
+                $('#myModal').modal('show');
+                self.events.push(self.currentEvent);
+            };
+
+
+        };
+
+
+        function displayEvents(json) {
+            var events = JSON.parse(json);
+            ko.applyBindings(new ViewModel(events));
+        }
+
+        function load(onSuccess) {
+            var access_code = localStorage.getItem('access_code');
+            var url = "https://yorkdevelopersorgfeeds.azurewebsites.net/api/editor_load?accessToken=" + access_code;
+
+            $.getJSON(url, function (data) {
+                onSuccess(data);
+            })
+        }
+
+        function save() {
+            var access_code = localStorage.getItem('access_code');
+            var contents = document.getElementById("contents").value;
+            var url = "https://yorkdevelopersorgfeeds.azurewebsites.net/api/editor_save?accessToken=" + access_code;
+            var http = new XMLHttpRequest();
+            http.open("POST", url, true);
+            http.onreadystatechange = function () {
+                if (http.readyState == 4) {
+                    if (http.status == 200) {
+                        alert("Your changes have been saved")
+                    }
+                    else {
+                        alert(http.responseText);
+                    }
+                }
+
+            }
+            http.send(contents);
+
+        }
+
+        load(displayEvents);
+    </script>
+
+
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Add/Edit Event</h4>
+                </div>
+                <div class="modal-body" data-bind="with: currentEvent">
+                    <div class="row">
+                        <div class="md-col-6">Name:</div>
+                        <div class="md-col-6"><input type="text" class="form-control" data-bind="value: Name" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">Description:</div>
+                        <div class="md-col-6"><input type="text" class="form-control" data-bind="value: Description" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">Venue:</div>
+                        <div class="md-col-6"><input type="text" class="form-control" data-bind="value: Venue" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">URL:</div>
+                        <div class="md-col-6"><input type="text" class="form-control" data-bind="value: URL" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">Logo URL:</div>
+                        <div class="md-col-6"><input type="text" class="form-control" data-bind="value: Logo" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">IsFree:</div>
+                        <div class="md-col-6"><input type="checkbox" class="form-control" data-bind="value: IsFree" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">Starts:</div>
+                        <div class="md-col-6"><input type="datetime-local" class="form-control" data-bind="value: Starts" /></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="md-col-6">Ends:</div>
+                        <div class="md-col-6"><input type="datetime-local" class="form-control" data-bind="value: Ends" /></div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

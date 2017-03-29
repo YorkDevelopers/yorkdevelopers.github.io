@@ -1,97 +1,101 @@
 - name: Meet for Code and Coffee in York
-  description: '<p>Our regular Monday &amp; Wednesday meeting.  People usually arrive around 7.15, for coding and general chat.  This is a good chance to meet the organisers of YorkDevelopers.org, and find out about the community too.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/237566339/
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/238379754/
   is-free: true
   logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-03-06T07:00:00.0000000
-  ends: 2017-03-06T10:00:00.0000000
-  venue: The Perky Peacock
-- name: Meet for Code and Coffee in York
-  url: https://www.meetup.com/York-Code-Coffee/events/238022195/
-  is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-03-06T07:00:00.0000000
-  ends: 2017-03-06T10:00:00.0000000
-  venue: The Perky Peacock
-- name: Sky Technology Open Evening
-  description: "<p><i><b>If you would like to attend Sky's Open Evening then please sign up for an official ticket using our Eventbrite page. Just follow this link: </b><a href=\"https://goo.gl/S0Yqym\"><a href=\"https://goo.gl/S0Yqym\" class=\"linkified\">https://goo.gl/S0Yqym</a></a> </i></p> <p><i><br/></i></p> <p><b>Welcome to Sky Technology - Leeds!</b></p> <p>We would like to introduce to you what we do here at Sky Technology at Leeds Dock. You'll find out about the products we design, develop and deliver, our ways of working, the technologies we use as well as finding out about all of our Leeds based vacancies.</p> <p>The evening will begin with lightening talks from all of our Heads of Tech introducing the products we work on. Afterwards we will have breakout stations where you can ask questions to find out all the information you want to know about each tribe, how they work and how the products are delivered.</p> <p>The evening will end in true Sky Meet-up Style; there will be drinks, pizza, networking and tours of all three of our Leeds Dock buildings.</p> <p>See you all soon!</p> <p><b>PLEASE NOTE THIS EVENT IS NOT OPEN TO RECRUITMENT AGENCIES - FOR MORE INFORMATION PLEASE CONTACT [masked] </b></p> "
-  url: https://www.meetup.com/Leeds-TechHub/events/237848415/
-  is-free: true
-  logo: http://photos2.meetupstatic.com/photos/event/b/3/0/5/thumb_458505829.jpeg
-  starts: 2017-03-07T17:45:00.0000000
-  ends: 2017-03-07T20:45:00.0000000
-  venue: Sky 2
-- name: March 2017 - Dev Ops and TypeScript
-  description: "<p>After a great start to the year with two top sessions from Martin and Peter in January. We are back with a more developer orientated couple of sessions on two hot topics for any developer. However, with the soon to be released SharePoint Framework these sessions will help you be more productive.</p> <p>As ever we will have free Pizza and the obligatory SharePint afterwards. January's SharePint included a bit of a sit down and there were some great discussions going on so please join us for that.</p> <p>Sessions1) TypeScript</p> <p>More information coming soon.</p> <p>2) Modern ALM and DevOps practices using Microsoft VSTS - Richard Fennell (MVP - Black Marble)</p> <p>Modern development for platforms such as SharePoint requires the use of a range of languages and tool chains. In this session I will show how these can be pulled into a cohesive application life cycle and DevOps process using Microsoft's Visual Studio Team Services tools, and in particular the new build and release cross platform system.</p> <p>Agenda</p> <p>18:15 - Welcome</p> <p>18:30 - TypeScript Session</p> <p>19:30 - Free Pizza</p> <p>20.00 - Dev Ops - Richard Fennell</p> <p>21: 00 - SharePint</p> <p>For more information check out the SUGUK website</p> <p><a href=\"http://www.suguk.org/\"><a href=\"http://www.suguk.org\" class=\"linkified\">http://www.suguk.org</a></a></p> "
-  url: https://www.meetup.com/suguky/events/236876628/
-  is-free: true
-  starts: 2017-03-07T18:15:00.0000000
-  ends: 2017-03-07T21:15:00.0000000
-  venue: The Adelphi
-- name: York Code Dojo - Conway's Game of Life
-  description: "<p>For our second meeting of 2017, we'll draw graphics based on cellular division to the rules of John Conway's Game Of Life.</p> <p>The session begins with a description of the problem, followed by grouping into pairs to work on it, and brief presentation of solutions at the end.  All languages are OK to use.  Bring a laptop, with plenty of charge :)</p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend.  Students very welcome!</p> <p>NOTE: Food in pizza form will be provided.  On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p><i>The room for the York Code Dojo is FT/211. This is located in the Fountains learning Centre on the second floor. Simply go into the library and either take the lift of walk up the stairs to the second floor. When you come out of either, walk along the open corridor reading the door signs and FT/211 is on your right.</i> </p> <p>Sponsored by York St. John University.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> "
-  url: https://www.meetup.com/York-Code-Dojo/events/237505179/
-  is-free: true
-  logo: http://photos4.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-03-08T18:30:00.0000000
-  ends: 2017-03-08T21:00:00.0000000
-  venue: Room FT/211 York St John University
-- name: Meet for Code and Coffee in York
-  url: https://www.meetup.com/York-Code-Coffee/events/237755119/
-  is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-03-08T07:00:00.0000000
-  ends: 2017-03-08T10:00:00.0000000
+  starts: 2017-03-29T06:30:00.0000000
+  ends: 2017-03-29T09:30:00.0000000
   venue: The Perky Peacock
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/238107951/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/238586502/
   is-free: true
   logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-03-08T08:00:00.0000000
-  ends: 2017-03-08T11:00:00.0000000
+  starts: 2017-03-29T07:00:00.0000000
+  ends: 2017-03-29T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Come along and join in with our free IT Networking Event
-  description: "<p>The Windows User Group is pleased to invite you to join us for another evening of tech talk and networking with fellow IT Professionals, with MVP's Chris Rhodes and Andrew Bettany.</p> <p>The evening will cover the following topics:</p> <p><b>-What's New in Windows Server 2016?Challenges and Opportunities 2017 </b></p> <p><b>-What's New in Windows Server 2016?</b></p> <p>You may have already deployed <b>Server 2016,</b> but many still use Server 2012 R2. Chris and Andrew will discuss the state of play with the Server operating system and how the challenge of cloud, connectivity and constant cost savings are defining how your servers should behave.<br/>Join us for a quick tour of the how Server 2016 brings you enhancenced management and control with virtualisaton and nano technologies, software-defined networking, PowerShell 5.0, Storage enhancments and greater security.</p> <p><b>Challenges and Opportunities 2017 </b><br/>As with most WIndows User Group events, we want your feedback and interaction. The technology areas that you want to hear about and disucss will be on the agenda. Share the milestones from 2016 and look ahead to the next 12 months. What are the areas in your business that need more attention or additional resources to exploit. How is the constant malware threat, such as Ransomware, affecting your customers, or do you have sufficient staff to build and grow you business?</p> <p>Be sure to come along with questions, as well as a desire to meet and network with fellow IT Pros. These events fill up fast and we have limited seating, so please register early to guarantee a seat. <br/>Event attendance is free, but there will also be a number of VIP Sponsor seats which offer extra benefits. </p> <p>Register now!  Free to attend.</p> <p><a href=\"https://www.eventbrite.co.uk/e/whats-new-in-server-2016-hosted-by-windows-user-group-leeds-8th-march-2017-6pm-tickets-30857234820\">Book your place.</a></p> "
-  url: https://www.meetup.com/Windows-User-Group-event-Leeds/events/237954966/
+- name: March - Mike Monteith and Ian Thomas
+  description: "<p>Hey there Javascripters!</p> <p><br/>We're excited about March's event! First up we have Mike Monteith (<a href=\"https://twitter.com/MikeMonteithDev\">@MikeMonteithDev</a>) discussing an idea he's had for static sites and going CMS-less for non-developers. It's an interesting idea and we're eager to hear what Mike has to say!</p> <p>Next up we have Ian Thomas (<a href=\"https://twitter.com/anatomic\">@anatomic</a>) who will be talking about giving a talk titled \"Patterns For React Application Design\". Here's a bit from Ian:</p> <p><i>\"Working with React can be equal parts enlightening and bewildering where the community agreed standards change frequently and ideas evolve at a rapid pace. Having worked with React for three years this talk is an attempt to distill some of the core principles and patterns I have used to build scalable, performant applications.</i></p> <p><i>As a firm believer in Test Driven Development, you'd think we'd start by looking at how to effectively unit test React applications, but this isn't the case! Instead, we'll discuss how to introduce React into a codebase before moving on to state management, managing responsibilities in components, lifecycle methods and asynchronous data dependencies.</i></p> <p><i>Finally, we'll wrap up by comparing Observables to Redux, some patterns for testing apps (see it snuck in there somewhere) and a few obscure tips, tricks and areas to watch in the future.\"</i></p> <p>Sounds like it'll be a great talk and we're really looking forward to it!</p> <p>The talks start at around 7:00, but most people show up from 6:45 for pizza and to network and chat about all things JavaScript before the talk. After the talk we’ll be heading over to Headrow House to have a drink and to chat some more.</p> <p>The door to get in is shown here:</p> <p><a href=\"https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY\" class=\"linkified\">https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/238379609/
   is-free: true
-  starts: 2017-03-08T18:00:00.0000000
-  ends: 2017-03-08T21:00:00.0000000
-  venue: Cross Keys Pub, Leeds
-- name: Meet for Code and Coffee in York
-  url: https://www.meetup.com/York-Code-Coffee/events/238022197/
-  is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-03-13T07:00:00.0000000
-  ends: 2017-03-13T10:00:00.0000000
-  venue: The Perky Peacock
-- name: Meet for Code and Coffee in York
-  url: https://www.meetup.com/York-Code-Coffee/events/238022199/
-  is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-03-15T07:00:00.0000000
-  ends: 2017-03-15T10:00:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywfbtb/
-  is-free: true
-  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-03-15T08:00:00.0000000
-  ends: 2017-03-15T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: LeedsPHP March 15th - Love and Hate relationship between ORMs and Query Builders
-  description: "<p>It's time for another Leeds PHP meetup!</p> <p>This month we're, again, at Futurelabs. Drinks, food, and more drinks provided as always by our wonderful sponsors - Sky Betting &amp; Gaming, Inviqa, QuidCo, and Futurelabs!</p> <p><b>Timings</b></p> <p>• 18:30 – Turn up, have a drink, a snack, and a chat (pizza, beer, coffee, soft drinks)</p> <p>• 19:00 – “<b>Love and Hate relationship between ORMs and Query Builders</b>” - Romans Malinovskis</p> <p>• 19:45 – Mid session interval</p> <p>• 19:55 – TBA</p> <p>• 20:30 – Pop over the road to Headrow House pub (a drink or two provided)</p> <p><b>Love and Hate relationship between ORMs and Query Builders</b> - Romans Malinovskis</p> <p><i>While some developers prefer writing their own SQL queries, others prefer to abstract the database with Object Relational Mappers. Is there a middle-ground that incorporates both without compromising and resulting in limitations?</i></p> <p><i>This talk will focus on database abstraction, query latency &amp; domain model and persistence mapping patterns in PHP applications. It will introduce the core concepts behind “Agile Data” - (database abstraction library available under MIT from <a href=\"http://github.com/atk4/data\">github.com/atk4/data</a>).</i></p> <p>Romans is an author of “Agile Data” and an active PHP / SaaS developer since 1997.</p> <p>Romans Malinovskis on Twitter: <a href=\"https://twitter.com/romaninsh\">@romaninsh</a></p> <p>And <b>Another talk TBA</b> - it could be you! Tweet us <a href=\"https://twitter.com/leedsphp\">@leedsphp</a> if fancy it. Talk about anything developer related that you like. Tell us about your favourite framework, talk us through a design pattern, tell us about your imposter syndrome, ask a question and invite discussion.</p> <p><b>Sponsors</b></p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support of this community event.</p> <p><a href=\"http://futurelabs.org.uk/\">Futurelabs</a> – Are a not-for-profit formed to help provide a focal point for tech start-up and scale-up businesses in and around Leeds. Futurelabs offer hot desking, fixed desk space or larger office spaces for tech businesses at very reasonable prices. <a href=\"https://www.maplesyrupmedia.com/our-story/\">Quidco/Maple Syrup Media</a> – Maple Syrup Media built its reputation as cashback pioneers with Quidco. They’ve since consolidated their credentials in the UK with grocery and travel specific ventures, CheckoutSmart and EarnAway. Their teams are based in London, Sheffield, Berlin, Paris and Durban – check out their <a href=\"https://www.maplesyrupmedia.com/careers/\">careers page</a></p> <p><a href=\"http://skybetcareers.com/about-us\">Sky Betting &amp; Gaming</a> – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their <a href=\"http://skybetcareers.com/\">careers page</a> provides great detail as to the working environment and range of work available across the technology stack.</p> <p><a href=\"http://inviqa.com/\">Inviqa</a> – With offices in Leeds and across the UK and Europe Inviqa helps pioneering brands and organisations to engage, convert and retain their customers through digital innovation. If you’re looking for a developer role have a look at their <a href=\"https://inviqa.com/company/careers\">careers page</a>.</p> <p><br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~</p> <p>Still reading? <b>PHP Yorkshire Conference</b> is happening in York on Saturday April 8th. Some great speakers and a great day out! Get yourself over to <a href=\"https://www.phpyorkshire.co.uk/\">www.phpyorkshire.co.uk</a> to read about it and get a ticket with discount code <b>phpleeds90 </b>to get a ticket for<b> only £90.</b></p> <p>See you soon!</p> "
-  url: https://www.meetup.com/leedsphp/events/238081826/
-  is-free: true
-  logo: http://photos4.meetupstatic.com/photos/event/d/a/e/d/thumb_455636045.jpeg
-  starts: 2017-03-15T18:30:00.0000000
-  ends: 2017-03-15T21:30:00.0000000
+  logo: http://photos1.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2017-03-29T17:45:00.0000000
+  ends: 2017-03-29T20:45:00.0000000
   venue: Future Labs
-- name: 'ITBoss: Bringing together Senior IT Professionals'
-  description: '<p>We are delighted to announce our next ITBoss networking event will take place on Thursday 16 March 2017. ITBoss is the one and only event in Yorkshire designed to bring together Senior IT Professionals.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?</b></p> <p>The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>• a brief intro and welcome</p> <p>• a talk from industry experts</p> <p>• lightning discussions on hot industry specific topics chosen by you</p> <p>• event roundup and thank you at approximately 8.30pm</p> <p>• drinks and networking to finish.</p> <p><b>WHO ATTENDS?</b></p> <p>Senior IT Professionals including IT Directors, Programme Managers, CIOs and CTOs. This is an invitation-only event organised and held by Corecom Consulting, Yorkshire’s fastest growing IT recruitment specialist.</p> <p><b>WHY SHOULD I ATTEND?</b></p> <p>ITBoss creates a unique platform for Senior IT Professionals all over Yorkshire to debate, discuss hot topics, learn from reputable and established speakers whilst networking with like minded individuals in an intimate but friendly environment.</p> <p><b>FEEDBACK FROM PREVIOUS ITBOSS EVENTS</b></p> <p>“The ITBoss networking event was an extremely valuable event to participate in. I networked with like-minded IT Directors and Heads of IT, sharing some useful tools, practices and insights which I have transferred to the workplace. It has also provided me with a network of contacts that I can call upon when dealing with future challenges and when seeking advice.”</p> <p><i>Sunder Iyer, Project Manager, LexisNexis</i></p> <p>“The most useful sections of the ITBoss event was having a guest speaker on a subject area which I am very interested in my current role…there is a lot of focus on aligning with strategy. The lightning topics were great in that they were on three different topics, everyone at some point got involved in the discussions and they were time-boxed! A good event all round.”</p> <p><i>Philippa Rickard, Programme Manager, William Hill</i></p> '
-  url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237041974/
+- name: Azure Cloud hosted by Windows User Group [YORK] 30th March 2017
+  description: "<p>Join us for the 2nd WUG event of 2017 hosted by Microsoft MVPs Chris Rhodes and Andrew Bettany.</p> <p>Be sure to come along with questions, as well as a desire to meet and network with fellow IT Pros. These events fill up fast and we have limited seating, so please register early to guarantee a seat. Don't forget the event is free.</p> <p>Book your free ticket now: <a href=\"https://www.eventbrite.co.uk/e/windows-user-group-york-30th-march-2017-600pm-azure-backup-and-replication-technologies-tickets-32880626840\" class=\"linkified\">https://www.eventbrite.co.uk/e/windows-user-group-york-30th-march-2017-600pm-azure-backup-and-replication-technologies-tickets-32880626840</a></p> <p>Topics for the evening include:<br/>- Business Continuity in the Azure Cloud by guest speaker Adam Cooperman<br/>- State of the Nation talk - an interactive discussion with Chris and Andrew regarding current and emerging technologies<br/>- Training Needs Survey - announcement and presentation of prizes</p> "
+  url: https://www.meetup.com/Windows-User-Group/events/238613182/
   is-free: true
-  starts: 2017-03-16T18:00:00.0000000
-  ends: 2017-03-16T20:30:00.0000000
-  venue: Banyan Bar Leeds
+  starts: 2017-03-30T17:00:00.0000000
+  ends: 2017-03-30T20:00:00.0000000
+  venue: Room 103 (First Floor)
+- name: 'Developing with HoloLens: The Path to Mixed Reality'
+  description: '<p>Microsoft HoloLens is the first fully self-contained holographic computer running Windows 10. It is completely self-contained-no wires, phones, or connection to a PC needed. HoloLens allows you to place holograms in your physical environment and provides a new way to see your world. This session provides a developer’s overview of the HoloLens and holographic app development in Unity and C#.</p> <p>--------</p> <p>&lt;a&gt;Mike Taulty&lt;/a&gt; is a Developer Evangelist with Microsoft in the UK.</p> <p>---------</p> <p>Schedule</p> <p>Intro and welcome 18:30</p> <p>Speaker 18:45</p> <p>Break for pizza and drinks at some point Close 21:00</p> <p>We then adjourn to a local bar for a drink and a natter - everyone welcome to join us.</p> '
+  url: https://www.meetup.com/Leeds-Sharp/events/236846205/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2017-03-30T17:30:00.0000000
+  ends: 2017-03-30T20:30:00.0000000
+  venue: Future Labs
+- name: Leeds Ruby Thing meetup
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  url: https://www.meetup.com/LeedsRubyThing/events/238682053/
+  is-free: true
+  starts: 2017-03-30T18:30:00.0000000
+  ends: 2017-03-30T22:30:00.0000000
+  venue: Veritas Ale & Wine Bar
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/238765645/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-04-03T06:30:00.0000000
+  ends: 2017-04-03T09:30:00.0000000
+  venue: The Perky Peacock
+- name: 'Coding Deathmatch: TDD vs Hacking'
+  description: "<p>This month, we'll decide once and for all whether we should be using TDD or not!</p> <p>See the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for details.</p> "
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/238288650/
+  is-free: true
+  logo: http://photos1.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2017-04-05T17:30:00.0000000
+  ends: 2017-04-05T20:00:00.0000000
+  venue: Callcredit Information Group Limited
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/gvbctmywgbhb/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-04-05T06:30:00.0000000
+  ends: 2017-04-05T09:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywgbhb/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-04-05T07:00:00.0000000
+  ends: 2017-04-05T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: GDG Leeds - April
+  description: "<p>If you attended March's meetup can you please spend 30secs and answer <a href=\"https://goo.gl/forms/HA3nGo6rQyNNmY5F2\">this</a> survey? It will help us in organising future events for you all :)</p> <p><br/>This month we're having a talk on Machine Learning by Adam Moss, co-founder of <a href=\"http://fantasyfootballfix.com/\">Fantasy Football Fix</a> and Lecturer in Physics and Astronomy at Nottingham University.</p> <p>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch! </p> <p>Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Intro</p> <p>6.20pm - TBC</p> <p>7.10pm - Machine Learning - Adam Moss</p> <p>7.50pm - Wrap up</p> <p>8.00pm - The end</p> "
+  url: https://www.meetup.com/GDG-Leeds/events/238410137/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
+  starts: 2017-04-06T17:00:00.0000000
+  ends: 2017-04-06T19:00:00.0000000
+  venue: Sky 2
+- name: 'World Internet of Things day: York'
+  description: "<p>Sunday 9th April is world Internet of Things day (IoT). And what better way to mark it in York than by arranging York's first Meetup for people interested in the Internet of Things. This event will be an opportunity for people who share a common interest in IoT to meet each other and explore what potential exists for future Meetups, events and activities. Everyone is welcome whether you're new to this subject or have been active in it for years. Location details etc to be announced soon.</p> "
+  url: https://www.meetup.com/York-Internet-Of-Things-Meetup/events/238422972/
+  is-free: true
+  starts: 2017-04-09T14:30:00.0000000
+  ends: 2017-04-09T16:00:00.0000000
+  venue: York St.John University
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/gvbctmywgbnb/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-04-10T06:30:00.0000000
+  ends: 2017-04-10T09:30:00.0000000
+  venue: The Perky Peacock

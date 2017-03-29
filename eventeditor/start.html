@@ -1,0 +1,22 @@
+<script>
+    
+    var rString = randomString(32, '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ');
+    function randomString(length, chars) {
+        var result = '';
+        for (var i = length; i > 0; --i) result += chars[Math.floor(Math.random() * chars.length)];
+        return result;
+    }
+    
+    function oAuthStart() {
+        var client_id = "23b5aac61b316ba234e7";
+        var redirect_uri = "https://www.yorkdevelopers.org/eventeditor/oauth.html";
+        //var redirect_uri = "http://localhost/eventeditor/oauth.html";
+        var state = randomString(30, rString);
+        var scope = "public_repo";
+        var url = "https://github.com/login/oauth/authorize?allow_signup=false&client_id=" + client_id + "&redirect_uri=" + redirect_uri + "&state=" + state + "&scope=" + scope;
+        localStorage.setItem('state', state);
+        window.location.replace(url);
+    }
+
+    oAuthStart();
+</script>
