@@ -1,17 +1,3 @@
-- name: Pioneer the first York Science Trail
-  description: <strong>There is no charge for this activity, and no need to book &#8211; just meet at the Lodge at 2pm</strong>
-  url: http://www.ypsyork.org/events/preview-the-first-york-science-trail/
-  logo: http://www.ypsyork.org/wp-content/uploads/2017/01/YST-logo-188x125.jpg
-  starts: 2017-03-28T14:00:00.0000000
-  ends: 2017-03-28T16:00:00.0000000
-  venue: <a href="http://www.ypsyork.org/locations/the-lodge-museum-gardens/" title="The Lodge, Museum Gardens">The Lodge, Museum Gardens</a>
-- name: Perspectives on a Sustainable Energy Future
-  description: Perspectives on a Sustainable Energy Future
-  url: http://www.ypsyork.org/events/perspectives-on-a-sustainable-energy-future/
-  logo: http://www.ypsyork.org/wp-content/uploads/2016/11/energy-200x125.jpg
-  starts: 2017-03-28T19:30:00.0000000
-  ends: 2017-03-28T21:30:00.0000000
-  venue: <a href="http://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: YPS Get-together
   description: An opportunity for a friendlychat over a cup of tea or coffee. No need to book &#8211; just drop in.
   url: http://www.ypsyork.org/events/yps-get-together-7/
@@ -64,9 +50,10 @@
 - name: '&#8220;My Kingdom for a Horse&#8221; &#8211; study day in Richmond and Middleham: theatre, castles and horse racing'
   description: <strong>&#8220;My Kingdom for a horse&#8221; &#8211; study day in Richmond and Middleham Friday 5th May by coach</strong>
   url: http://www.ypsyork.org/events/my-kingdom-for-a-horse-study-day-in-richmond-and-middleham-theatre-castles-and-horse-racing/
-  logo: http://www.ypsyork.org/wp-content/uploads/2017/02/Georgian-Theatre-Richmond-200x125.jpg
+  logo: http://www.ypsyork.org/wp-content/uploads/2016/11/Woman-structural-engineer-200x125.jpg
   starts: 2017-05-05T00:00:00.0000000
   ends: 2017-05-05T23:00:00.0000000
+  venue: 9 May 2017
 - name: 'Women&#8217;s employment in Britain over the last fifty years: changes, challenges and unexpected outcomes'
   description: 'Women&#8217;s employment in Britain over the last fifty years: changes, challenges and unexpected outcomes'
   url: http://www.ypsyork.org/events/womens-employment-in-britain-over-the-last-fifty-years-changes-challenges-and-unexpected-outcomes/
