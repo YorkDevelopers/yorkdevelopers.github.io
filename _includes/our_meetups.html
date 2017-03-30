@@ -1,4 +1,4 @@
-<!-- Our Meetups Section -->
+<!-- Portfolio Grid Section -->
     <section class="our_meetups" id="meetups">
         <div class="container">
             <div class="row">
@@ -8,22 +8,20 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12 text-center">
-
-                    {% for post in site.meetups %}
-                    <div class="col-sm-4 portfolio-item">
-                        <a href="#{{ post.modalID }}" class="portfolio-link" data-toggle="modal">
+                {% for post in site.posts %}
+                    {% if post.categories contains 'Meetup' %}
+                    <div class="col-sm-4 meetups-item">
+                        <a href="#{{ post.modalID }}" class="meetups-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="{{ site.baseurl }}/{{ meetup.img }}" class="img-rounded img-responsive" alt="">
+                            <img src="{{ site.baseurl }}/{{ post.img }}" class="img-rounded img-responsive" alt="">
                         </a>
                     </div>
-                    {% endfor %}
-                   
-                </div>
+                    {% endif %}
+                {% endfor %}
             </div>
         </div>
     </section>
