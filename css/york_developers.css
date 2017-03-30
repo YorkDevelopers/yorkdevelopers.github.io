@@ -229,15 +229,6 @@ section.our_meetups h2 {
 section.contact_us {
     background: #4800FF;
     color: #fff
-
-
-
-
-
-section.twitter_feed {
-    background: #FFF;
-    color: #4800FF
-=======
 }
 section.contact_us h2 {
     color: #fff
@@ -248,7 +239,6 @@ section.twitter_feed {
 }
 section.twitter_feed h2 {
     color: #000000
->>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
 }
 section.events-even {
     padding: 0 0;
@@ -287,6 +277,9 @@ section.events-odd {
     width: 100%;
     height: 100%;
     opacity: 0;
+
+    
+
     transition: all ease .5s;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s
@@ -326,56 +319,34 @@ section.events-odd {
     }
 }
 
-<<<<<<< HEAD
-#meetups .our_meetups-item {
-    margin: 0 0 15px;
-    right: 0
-}
-#meetups .our_meetups-item .our_meetups-link {
-=======
 
 #posts .posts-item {
     margin: 0 0 15px;
     right: 0
 }
 #posts .posts-item .posts-link {
->>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
     display: block;
     position: relative;
     max-width: 400px;
     margin: 0 auto
 }
-<<<<<<< HEAD
-#meetups .our_meetups-item .our_meetups-link .caption {
-=======
 #posts .posts-item .posts-link .caption {
->>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
     background: rgba(255, 182428, 186, .2);
     position: absolute;
     width: 100%;
     height: 100%;
     opacity: 0;
-<<<<<<< HEAD
-=======
 
     
 
->>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
     transition: all ease .5s;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s
 }
-<<<<<<< HEAD
-#meetups .our_meetups-item .our_meetups-link .caption:hover {
-    opacity: 1
-}
-#meetups .our_meetups-item .our_meetups-link .caption .caption-content {
-=======
 #posts .posts-item .posts-link .caption:hover {
     opacity: 1
 }
 #posts .posts-item .posts-link .caption .caption-content {
->>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
     position: absolute;
     width: 100%;
     height: 20px;
@@ -391,20 +362,6 @@ section.events-odd {
     width: 50px;
     height: 50px
 }
-<<<<<<< HEAD
-#meetups .our_meetups-item .our_meetups-link .caption .caption-content i {
-    margin-top: -12px
-}
-#meetups .our_meetups-item .our_meetups-link .caption .caption-content h3,
-#meetups .our_meetups-item .our_meetups-link .caption .caption-content h4 {
-    margin: 0
-}
-#meetups * {
-    z-index: 2
-}
-@media (min-width: 767px) {
-    #meetups .our_meetups-item {
-=======
 #posts .posts-item .posts-link .caption .caption-content i {
     margin-top: -12px
 }
@@ -417,7 +374,6 @@ section.events-odd {
 }
 @media (min-width: 767px) {
     #posts .posts-item {
->>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
         margin: 0 0 30px
     }
 }
@@ -426,10 +382,6 @@ section.events-odd {
 
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
