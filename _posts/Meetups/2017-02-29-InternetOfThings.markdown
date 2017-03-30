@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "York Intenet of Things"
+title:  "York Internet of Things"
 date:   2017-02-29 15:08:10 -0500
 img: img/meetups/internet-of-things.png
 modalID: modalYorkInternetOfThings
