@@ -156,7 +156,7 @@ header .intro-text .skills {
     letter-spacing: 1px
 }
 .navbar-custom .navbar-nav li a:hover {
-    color: #4800FF;
+    color: #FFD800;
     outline: 0
 }
 .navbar-custom .navbar-nav li a:active,
@@ -229,6 +229,15 @@ section.our_meetups h2 {
 section.contact_us {
     background: #4800FF;
     color: #fff
+
+
+
+
+
+section.twitter_feed {
+    background: #FFF;
+    color: #4800FF
+=======
 }
 section.contact_us h2 {
     color: #fff
@@ -236,6 +245,10 @@ section.contact_us h2 {
 section.twitter_feed {
     background: #FFF;
     color: #4800FF
+}
+section.twitter_feed h2 {
+    color: #000000
+>>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
 }
 section.events-even {
     padding: 0 0;
@@ -256,17 +269,19 @@ section.events-odd {
         padding-top: 75px
     }
 }
-#portfolio .portfolio-item {
+
+
+#meetups .meetups-item {
     margin: 0 0 15px;
     right: 0
 }
-#portfolio .portfolio-item .portfolio-link {
+#meetups .meetups-item .meetups-link {
     display: block;
     position: relative;
     max-width: 400px;
     margin: 0 auto
 }
-#portfolio .portfolio-item .portfolio-link .caption {
+#meetups .meetups-item .meetups-link .caption {
     background: rgba(255, 182428, 186, .2);
     position: absolute;
     width: 100%;
@@ -276,10 +291,10 @@ section.events-odd {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s
 }
-#portfolio .portfolio-item .portfolio-link .caption:hover {
+#meetups .meetups-item .meetups-link .caption:hover {
     opacity: 1
 }
-#portfolio .portfolio-item .portfolio-link .caption .caption-content {
+#meetups .meetups-item .meetups-link .caption .caption-content {
     position: absolute;
     width: 100%;
     height: 20px;
@@ -295,46 +310,72 @@ section.events-odd {
     width: 50px;
     height: 50px
 }
-#portfolio .portfolio-item .portfolio-link .caption .caption-content i {
+#meetups .meetups-item .meetups-link .caption .caption-content i {
     margin-top: -12px
 }
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
+#meetups .meetups-item .meetups-link .caption .caption-content h3,
+#meetups .meetups-item .meetups-link .caption .caption-content h4 {
     margin: 0
 }
-#portfolio * {
+#meetups * {
     z-index: 2
 }
 @media (min-width: 767px) {
-    #portfolio .portfolio-item {
+    #meetups .meetups-item {
         margin: 0 0 30px
     }
 }
 
+<<<<<<< HEAD
 #meetups .our_meetups-item {
     margin: 0 0 15px;
     right: 0
 }
 #meetups .our_meetups-item .our_meetups-link {
+=======
+
+#posts .posts-item {
+    margin: 0 0 15px;
+    right: 0
+}
+#posts .posts-item .posts-link {
+>>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
     display: block;
     position: relative;
     max-width: 400px;
     margin: 0 auto
 }
+<<<<<<< HEAD
 #meetups .our_meetups-item .our_meetups-link .caption {
+=======
+#posts .posts-item .posts-link .caption {
+>>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
     background: rgba(255, 182428, 186, .2);
     position: absolute;
     width: 100%;
     height: 100%;
     opacity: 0;
+<<<<<<< HEAD
+=======
+
+    
+
+>>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
     transition: all ease .5s;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s
 }
+<<<<<<< HEAD
 #meetups .our_meetups-item .our_meetups-link .caption:hover {
     opacity: 1
 }
 #meetups .our_meetups-item .our_meetups-link .caption .caption-content {
+=======
+#posts .posts-item .posts-link .caption:hover {
+    opacity: 1
+}
+#posts .posts-item .posts-link .caption .caption-content {
+>>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
     position: absolute;
     width: 100%;
     height: 20px;
@@ -350,6 +391,7 @@ section.events-odd {
     width: 50px;
     height: 50px
 }
+<<<<<<< HEAD
 #meetups .our_meetups-item .our_meetups-link .caption .caption-content i {
     margin-top: -12px
 }
@@ -362,6 +404,20 @@ section.events-odd {
 }
 @media (min-width: 767px) {
     #meetups .our_meetups-item {
+=======
+#posts .posts-item .posts-link .caption .caption-content i {
+    margin-top: -12px
+}
+#posts .posts-item .posts-link .caption .caption-content h3,
+#posts .posts-item .posts-link .caption .caption-content h4 {
+    margin: 0
+}
+#posts * {
+    z-index: 2
+}
+@media (min-width: 767px) {
+    #posts .posts-item {
+>>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
         margin: 0 0 30px
     }
 }
@@ -370,7 +426,10 @@ section.events-odd {
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 89434e6dd2d0f7e2615c686e529b9b93f5fc5138
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
@@ -562,7 +621,7 @@ fieldset[disabled] .btn-success:hover {
 .scroll-top .btn:focus {
     outline: 0
 }
-.portfolio-modal .modal-content {
+.meetups-modal .modal-content {
     border-radius: 0;
     background-clip: border-box;
     -webkit-box-shadow: none;
@@ -572,17 +631,17 @@ fieldset[disabled] .btn-success:hover {
     padding: 100px 0;
     text-align: center
 }
-.portfolio-modal .modal-content h2 {
+.meetups-modal .modal-content h2 {
     margin: 0;
     font-size: 3em
 }
-.portfolio-modal .modal-content img {
+.meetups-modal .modal-content img {
     margin-bottom: 30px
 }
-.portfolio-modal .modal-content .item-details {
+.meetups-modal .modal-content .item-details {
     margin: 30px 0
 }
-.portfolio-modal .close-modal {
+.meetups-modal .close-modal {
     position: absolute;
     width: 75px;
     height: 75px;
@@ -591,10 +650,10 @@ fieldset[disabled] .btn-success:hover {
     right: 25px;
     cursor: pointer
 }
-.portfolio-modal .close-modal:hover {
+.meetups-modal .close-modal:hover {
     opacity: .3
 }
-.portfolio-modal .close-modal .lr {
+.meetups-modal .close-modal .lr {
     height: 75px;
     width: 1px;
     margin-left: 35px;
@@ -604,7 +663,7 @@ fieldset[disabled] .btn-success:hover {
     -webkit-transform: rotate(45deg);
     z-index: 1051
 }
-.portfolio-modal .close-modal .lr .rl {
+.meetups-modal .close-modal .lr .rl {
     height: 75px;
     width: 1px;
     background-color: #2C3E50;
@@ -613,7 +672,7 @@ fieldset[disabled] .btn-success:hover {
     -webkit-transform: rotate(90deg);
     z-index: 1052
 }
-.portfolio-modal .modal-backdrop {
+.meetups-modal .modal-backdrop {
     opacity: 0;
     display: none
 }

@@ -1,27 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/238379754/
-  is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-03-29T06:30:00.0000000
-  ends: 2017-03-29T09:30:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/238586502/
-  is-free: true
-  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-03-29T07:00:00.0000000
-  ends: 2017-03-29T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: March - Mike Monteith and Ian Thomas
-  description: "<p>Hey there Javascripters!</p> <p><br/>We're excited about March's event! First up we have Mike Monteith (<a href=\"https://twitter.com/MikeMonteithDev\">@MikeMonteithDev</a>) discussing an idea he's had for static sites and going CMS-less for non-developers. It's an interesting idea and we're eager to hear what Mike has to say!</p> <p>Next up we have Ian Thomas (<a href=\"https://twitter.com/anatomic\">@anatomic</a>) who will be talking about giving a talk titled \"Patterns For React Application Design\". Here's a bit from Ian:</p> <p><i>\"Working with React can be equal parts enlightening and bewildering where the community agreed standards change frequently and ideas evolve at a rapid pace. Having worked with React for three years this talk is an attempt to distill some of the core principles and patterns I have used to build scalable, performant applications.</i></p> <p><i>As a firm believer in Test Driven Development, you'd think we'd start by looking at how to effectively unit test React applications, but this isn't the case! Instead, we'll discuss how to introduce React into a codebase before moving on to state management, managing responsibilities in components, lifecycle methods and asynchronous data dependencies.</i></p> <p><i>Finally, we'll wrap up by comparing Observables to Redux, some patterns for testing apps (see it snuck in there somewhere) and a few obscure tips, tricks and areas to watch in the future.\"</i></p> <p>Sounds like it'll be a great talk and we're really looking forward to it!</p> <p>The talks start at around 7:00, but most people show up from 6:45 for pizza and to network and chat about all things JavaScript before the talk. After the talk we’ll be heading over to Headrow House to have a drink and to chat some more.</p> <p>The door to get in is shown here:</p> <p><a href=\"https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY\" class=\"linkified\">https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
-  url: https://www.meetup.com/LeedsJS/events/238379609/
-  is-free: true
-  logo: http://photos1.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2017-03-29T17:45:00.0000000
-  ends: 2017-03-29T20:45:00.0000000
-  venue: Future Labs
 - name: Azure Cloud hosted by Windows User Group [YORK] 30th March 2017
   description: "<p>Join us for the 2nd WUG event of 2017 hosted by Microsoft MVPs Chris Rhodes and Andrew Bettany.</p> <p>Be sure to come along with questions, as well as a desire to meet and network with fellow IT Pros. These events fill up fast and we have limited seating, so please register early to guarantee a seat. Don't forget the event is free.</p> <p>Book your free ticket now: <a href=\"https://www.eventbrite.co.uk/e/windows-user-group-york-30th-march-2017-600pm-azure-backup-and-replication-technologies-tickets-32880626840\" class=\"linkified\">https://www.eventbrite.co.uk/e/windows-user-group-york-30th-march-2017-600pm-azure-backup-and-replication-technologies-tickets-32880626840</a></p> <p>Topics for the evening include:<br/>- Business Continuity in the Azure Cloud by guest speaker Adam Cooperman<br/>- State of the Nation talk - an interactive discussion with Chris and Andrew regarding current and emerging technologies<br/>- Training Needs Survey - announcement and presentation of prizes</p> "
   url: https://www.meetup.com/Windows-User-Group/events/238613182/
@@ -99,3 +75,26 @@
   starts: 2017-04-10T06:30:00.0000000
   ends: 2017-04-10T09:30:00.0000000
   venue: The Perky Peacock
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/gvbctmywgbqb/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-04-12T06:30:00.0000000
+  ends: 2017-04-12T09:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/238641518/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-04-12T07:00:00.0000000
+  ends: 2017-04-12T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Amazing Mazes with Chris
+  url: https://www.meetup.com/York-Code-Dojo/events/238275879/
+  is-free: true
+  logo: http://photos4.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-04-12T17:30:00.0000000
+  ends: 2017-04-12T20:30:00.0000000
+  venue: Room FT/211 York St John University
