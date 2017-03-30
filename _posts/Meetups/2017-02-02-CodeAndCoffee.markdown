@@ -2,7 +2,7 @@
 layout: post
 title:  "Code And Coffee"
 date:   2017-02-02 15:08:10 -0500
-img: img/portfolio/York_Code_And_Coffee.jpg
+img: img/meetups/York_Code_And_Coffee.jpg
 modalID: modalCodeAndCoffee
 category: Meetup
 ---
