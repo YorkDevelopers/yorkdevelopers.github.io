@@ -124,6 +124,35 @@
   starts: 2017-03-30T18:00:00.0000000
   ends: 2017-03-30T21:00:00.0000000
   venue: The Ron Cooke Hub
+- name: Tech Scene York
+  description: >-
+    WHO ARE WE? We are a group of professionals from local business, universities and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.
+
+    PROGRAMME
+
+    1730     Drinks & Networking
+
+    1800     Welcome
+
+    1810     Joanna Ableson, York College – “using the apprenticeship Reforms to drive skills in this sector” 
+
+    1820      Suresh Manandhar - “Introducing the AI Clinic”
+
+    1830     Chris Bray, Purple Frog – “Using AI for smart management of documents”
+
+    1855      Nigel Tracey, Bosch ETAS – “what makes automotive software special?"
+
+    1920     Catherine Hartley - York Maker Hub (joined by Stella Chan from STEM NET)
+
+    1945     Networking
+
+    2030     Close
+  url: https://www.eventbrite.co.uk/e/tech-scene-york-tickets-32431864580?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/29174804/2762975383/1/original.jpg?h=200&w=450&rect=102,0,572,286&s=1b2c85f451fa60dd8ebe8d51b2ae4ab5
+  starts: 2017-04-27T17:30:00.0000000
+  ends: 2017-04-27T20:30:00.0000000
+  venue: Your Bike Shed
 - name: 'Green Manufacturing for the 21st Century Chemical Industry: Case studies, methodologies and tools'
   description: "Increasing demand for chemicals worldwide, depleting resources, stricter legislation and the rising cost of waste disposal are placing increasing pressure on the chemical and related industries.  For any organisation to survive in the current climate, the issue of sustainability must be fundamental to the way it operates.   This free workshop provides an exciting opportunity to gain advice and scientific expertise, explore a broad range of cutting-edge case studies on green chemical manufacturing and learn about the methodologies and tools available to facilitate practical solutions. The workshop is open to all with an interest in the future of sustainable manufacturing.  The programme for the day includes:\n\n Industrial case studies from Croda, Thomas Swan, GSK and Biome\n Insight into Industrial Decarbonisation and Energy Efficiency Roadmaps to 2050\n Drivers for change including the Business Case for Green and REACH \n Guidance on the transition to green manufacturing and circular economy\n Guidance on greener solvent selection and substitution\n Platform molecules and clean synthesis\n Online learning resources and associated tools including metrics and solvent selection\n Opportunities for knowledge transfer, discussion and networking\n\n Speakers\nMike Lancaster, Chemical Industries Association\nDr Simon Grant, Thomas Swan & Co. Ltd\nTerry Thistlethwaite, Croda International plc\nPaul Mines, Biome Technologies plc\nDr John Hayler, GlaxoSmithKline plc\nJo Lloyd, ERM\nProf. Peter Ball, University of York\nDr Rob McElroy, University of York\nDr James Sherwood, University of York\nDr Tom Farmer, University of York\nLouise Summerton, University of York\nRick Taylor, University of York\n\n\n\n \n\n"
   url: https://www.eventbrite.co.uk/e/green-manufacturing-for-the-21st-century-chemical-industry-case-studies-methodologies-and-tools-tickets-32618322280?aff=ebapi
@@ -166,35 +195,25 @@
   starts: 2017-06-12T12:00:00.0000000
   ends: 2017-06-12T13:00:00.0000000
   venue: Yorkshire Museum (outside)
-- name: Tech Scene York
+- name: Understanding York’s environment
   description: >-
-    WHO ARE WE? We are a group of professionals from local business, universities and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.
+    Speakers: Ruth Davis - E3G, Professor Mike Depledge - University of Exeter and Professor Alistair Boxall – Environment Department
 
-    PROGRAMME
+    Research in Focus
 
-    1730     Drinks & Networking
+    This event will be followed by a free drinks reception, a photo exhibition and an interactive installation in the Hub's 3Sixty space. 
 
-    1800     Welcome
+    * * * * * * * * * * * * * * * * * * * * * * * *
 
-    1810     Joanna Ableson, York College – “using the apprenticeship Reforms to drive skills in this sector” 
+    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
 
-    1820      Suresh Manandhar - “Introducing the AI Clinic”
-
-    1830     Chris Bray, Purple Frog – “Using AI for smart management of documents”
-
-    1855      Nigel Tracey, Bosch ETAS – “what makes automotive software special?"
-
-    1920     Catherine Hartley - York Maker Hub (joined by Stella Chan from STEM NET)
-
-    1945     Networking
-
-    2030     Close
-  url: https://www.eventbrite.co.uk/e/tech-scene-york-tickets-32431864580?aff=ebapi
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/understanding-yorks-environment-tickets-33272951293?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/29174804/2762975383/1/original.jpg?h=200&w=450&rect=102,0,572,286&s=1b2c85f451fa60dd8ebe8d51b2ae4ab5
-  starts: 2017-04-27T17:30:00.0000000
-  ends: 2017-04-27T20:30:00.0000000
-  venue: Your Bike Shed
+  logo: https://cdn.evbuc.com/images/29833677/22468345120/1/original.jpg?h=200&w=450&rect=0,10,960,480&s=29df9c36ddcb3900c6157e6f00bb9549
+  starts: 2017-05-25T18:30:00.0000000
+  ends: 2017-05-25T20:00:00.0000000
+  venue: Ron Cooke Hub auditorium
 - name: Microsoft Excel Advanced Course
   description: >-
     Microsoft Excel Advanced course
@@ -344,30 +363,6 @@
   starts: 2017-05-23T09:00:00.0000000
   ends: 2017-05-23T12:30:00.0000000
   venue: York
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/238379754/
-  is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-03-29T06:30:00.0000000
-  ends: 2017-03-29T09:30:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/238586502/
-  is-free: true
-  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-03-29T07:00:00.0000000
-  ends: 2017-03-29T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: March - Mike Monteith and Ian Thomas
-  description: "<p>Hey there Javascripters!</p> <p><br/>We're excited about March's event! First up we have Mike Monteith (<a href=\"https://twitter.com/MikeMonteithDev\">@MikeMonteithDev</a>) discussing an idea he's had for static sites and going CMS-less for non-developers. It's an interesting idea and we're eager to hear what Mike has to say!</p> <p>Next up we have Ian Thomas (<a href=\"https://twitter.com/anatomic\">@anatomic</a>) who will be talking about giving a talk titled \"Patterns For React Application Design\". Here's a bit from Ian:</p> <p><i>\"Working with React can be equal parts enlightening and bewildering where the community agreed standards change frequently and ideas evolve at a rapid pace. Having worked with React for three years this talk is an attempt to distill some of the core principles and patterns I have used to build scalable, performant applications.</i></p> <p><i>As a firm believer in Test Driven Development, you'd think we'd start by looking at how to effectively unit test React applications, but this isn't the case! Instead, we'll discuss how to introduce React into a codebase before moving on to state management, managing responsibilities in components, lifecycle methods and asynchronous data dependencies.</i></p> <p><i>Finally, we'll wrap up by comparing Observables to Redux, some patterns for testing apps (see it snuck in there somewhere) and a few obscure tips, tricks and areas to watch in the future.\"</i></p> <p>Sounds like it'll be a great talk and we're really looking forward to it!</p> <p>The talks start at around 7:00, but most people show up from 6:45 for pizza and to network and chat about all things JavaScript before the talk. After the talk we’ll be heading over to Headrow House to have a drink and to chat some more.</p> <p>The door to get in is shown here:</p> <p><a href=\"https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY\" class=\"linkified\">https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
-  url: https://www.meetup.com/LeedsJS/events/238379609/
-  is-free: true
-  logo: http://photos1.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2017-03-29T17:45:00.0000000
-  ends: 2017-03-29T20:45:00.0000000
-  venue: Future Labs
 - name: Azure Cloud hosted by Windows User Group [YORK] 30th March 2017
   description: "<p>Join us for the 2nd WUG event of 2017 hosted by Microsoft MVPs Chris Rhodes and Andrew Bettany.</p> <p>Be sure to come along with questions, as well as a desire to meet and network with fellow IT Pros. These events fill up fast and we have limited seating, so please register early to guarantee a seat. Don't forget the event is free.</p> <p>Book your free ticket now: <a href=\"https://www.eventbrite.co.uk/e/windows-user-group-york-30th-march-2017-600pm-azure-backup-and-replication-technologies-tickets-32880626840\" class=\"linkified\">https://www.eventbrite.co.uk/e/windows-user-group-york-30th-march-2017-600pm-azure-backup-and-replication-technologies-tickets-32880626840</a></p> <p>Topics for the evening include:<br/>- Business Continuity in the Azure Cloud by guest speaker Adam Cooperman<br/>- State of the Nation talk - an interactive discussion with Chris and Andrew regarding current and emerging technologies<br/>- Training Needs Survey - announcement and presentation of prizes</p> "
   url: https://www.meetup.com/Windows-User-Group/events/238613182/
@@ -445,13 +440,29 @@
   starts: 2017-04-10T06:30:00.0000000
   ends: 2017-04-10T09:30:00.0000000
   venue: The Perky Peacock
-- name: YPS Get-together
-  description: An opportunity for a friendlychat over a cup of tea or coffee. No need to book &#8211; just drop in.
-  url: http://www.ypsyork.org/events/yps-get-together-7/
-  logo: http://www.ypsyork.org/wp-content/uploads/2016/08/Coffee-cup1-200x125.jpg
-  starts: 2017-03-29T14:30:00.0000000
-  ends: 2017-03-29T16:30:00.0000000
-  venue: <a href="http://www.ypsyork.org/locations/star-inn-the-city/" title="Star Inn the City">Star Inn the City</a>
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/gvbctmywgbqb/
+  is-free: true
+  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-04-12T06:30:00.0000000
+  ends: 2017-04-12T09:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/238641518/
+  is-free: true
+  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-04-12T07:00:00.0000000
+  ends: 2017-04-12T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Amazing Mazes with Chris
+  url: https://www.meetup.com/York-Code-Dojo/events/238275879/
+  is-free: true
+  logo: http://photos4.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-04-12T17:30:00.0000000
+  ends: 2017-04-12T20:30:00.0000000
+  venue: Room FT/211 York St John University
 - name: Perfectionism in an Imperfect World
   description: <strong>Perfectionism in an Imperfect World</strong>
   url: http://www.ypsyork.org/events/perfectionism-in-an-imperfect-world/
