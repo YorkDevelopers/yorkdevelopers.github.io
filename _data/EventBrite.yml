@@ -71,59 +71,6 @@
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
   starts: 2017-04-06T20:00:00.0000000
   ends: 2017-04-06T21:00:00.0000000
-- name: Windows User Group (York).  30th March 2017, 6.00pm.  Azure Backup and Replication Technologies.
-  description: >+
-    Windows User Group 
-
-    We would like to invite you for another evening of tech talk and networking with fellow IT Professionals.  The evening will be hosted by MVPs Chris Rhodes and Andrew Bettany.
-
-    Topics for the evening include:
-
-
-
-    Business Continuity in the Azure Cloud by guest speaker Adam Cooperman
-
-    State of the Nation talk - an interactive discussion with Chris and Andrew regarding current and emerging technologies
-
-    Training Needs Survey - announcement and presentation of prizes
-
-
-
-    Be sure to come along with questions, as well as a desire to meet and network with fellow IT Pros. These events fill up fast and we have limited seating, so please register early to guarantee a seat.
-
-    Event attendance is free, but there will also be a number of VIP Sponsor seats which offer extra benefits. Register now!
-
-     
-
-    For more information about the Windows User Group, to find out how to join us on tour, or for up-to-date details of events and how to get involved then please visit our website, or follow us on Twitter and Facebook.  
-
-    facebook.com/WindowsUG
-
-     
-
-    The Windows User Group is a community run event. Please consider helping sponsor the event which will help contribute towards the refreshments and pizza. 
-
-     
-
-    Please visit our sponsors, StorageCraft  and IT Masterclasses,and without their support we would not be able to put on these events.
-
-
-
-    StorageCraft Technology Corporation provides best-in-class business continuity solutions for IT environments. StorageCraft® delivers backup, disaster recovery, system migration and data protection, to help businesses recover anytime, anywhere. With our award-winning solutions, you and your clients can recover quickly and easily following any disaster, great or small.StorageCraft was founded in 2003, with the goal of providing complete disaster recovery to businesses of all sizes. StorageCraft opened its European headquarters in Cork, Ireland in Sept 2013.www.storagecraft.com 
-
-     
-
-
-
-    IT Masterclasses delivers focussed, technical training to your staff over one, two and three days in a highly-focused course. Less time in the classroom allows learners to fit training in around their busy lives. We pack a huge amount of content into the short time, and all attendees are committed to the class and are committed to furthering their understanding.http://itmasterclasses.com
-
-     
-
-  url: https://www.eventbrite.co.uk/e/windows-user-group-york-30th-march-2017-600pm-azure-backup-and-replication-technologies-tickets-32880626840?aff=ebapi
-  logo: https://cdn.evbuc.com/images/29335196/68598935567/1/original.jpg?h=200&w=450&rect=35,0,458,229&s=55a30f79c19f22a24cdc091b3df347a9
-  starts: 2017-03-30T18:00:00.0000000
-  ends: 2017-03-30T21:00:00.0000000
-  venue: The Ron Cooke Hub
 - name: Tech Scene York
   description: >-
     WHO ARE WE? We are a group of professionals from local business, universities and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.
@@ -153,14 +100,6 @@
   starts: 2017-04-27T17:30:00.0000000
   ends: 2017-04-27T20:30:00.0000000
   venue: Your Bike Shed
-- name: 'Green Manufacturing for the 21st Century Chemical Industry: Case studies, methodologies and tools'
-  description: "Increasing demand for chemicals worldwide, depleting resources, stricter legislation and the rising cost of waste disposal are placing increasing pressure on the chemical and related industries.  For any organisation to survive in the current climate, the issue of sustainability must be fundamental to the way it operates.   This free workshop provides an exciting opportunity to gain advice and scientific expertise, explore a broad range of cutting-edge case studies on green chemical manufacturing and learn about the methodologies and tools available to facilitate practical solutions. The workshop is open to all with an interest in the future of sustainable manufacturing.  The programme for the day includes:\n\n Industrial case studies from Croda, Thomas Swan, GSK and Biome\n Insight into Industrial Decarbonisation and Energy Efficiency Roadmaps to 2050\n Drivers for change including the Business Case for Green and REACH \n Guidance on the transition to green manufacturing and circular economy\n Guidance on greener solvent selection and substitution\n Platform molecules and clean synthesis\n Online learning resources and associated tools including metrics and solvent selection\n Opportunities for knowledge transfer, discussion and networking\n\n Speakers\nMike Lancaster, Chemical Industries Association\nDr Simon Grant, Thomas Swan & Co. Ltd\nTerry Thistlethwaite, Croda International plc\nPaul Mines, Biome Technologies plc\nDr John Hayler, GlaxoSmithKline plc\nJo Lloyd, ERM\nProf. Peter Ball, University of York\nDr Rob McElroy, University of York\nDr James Sherwood, University of York\nDr Tom Farmer, University of York\nLouise Summerton, University of York\nRick Taylor, University of York\n\n\n\n \n\n"
-  url: https://www.eventbrite.co.uk/e/green-manufacturing-for-the-21st-century-chemical-industry-case-studies-methodologies-and-tools-tickets-32618322280?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/29793287/30757136331/1/original.jpg?h=200&w=450&rect=5,0,1488,744&s=60a13f8836507da12630bd319356a7e5
-  starts: 2017-05-24T10:00:00.0000000
-  ends: 2017-05-24T17:00:00.0000000
-  venue: Green Chemistry Seminar room, C/F/106
 - name: 'Archivematica Camp York: Day 1 only'
   description: >-
     This ticket is for Day 1 only of Archivematica Camp in York. On Day 1, your options are:
@@ -179,6 +118,14 @@
   starts: 2017-04-04T09:00:00.0000000
   ends: 2017-04-04T17:00:00.0000000
   venue: Ron Cooke Hub
+- name: 'Green Manufacturing for the 21st Century Chemical Industry: Case studies, methodologies and tools'
+  description: "Increasing demand for chemicals worldwide, depleting resources, stricter legislation and the rising cost of waste disposal are placing increasing pressure on the chemical and related industries.  For any organisation to survive in the current climate, the issue of sustainability must be fundamental to the way it operates.   This free workshop provides an exciting opportunity to gain advice and scientific expertise, explore a broad range of cutting-edge case studies on green chemical manufacturing and learn about the methodologies and tools available to facilitate practical solutions. The workshop is open to all with an interest in the future of sustainable manufacturing.  The programme for the day includes:\n\n Industrial case studies from Croda, Thomas Swan, GSK and Biome\n Insight into Industrial Decarbonisation and Energy Efficiency Roadmaps to 2050\n Drivers for change including the Business Case for Green and REACH \n Guidance on the transition to green manufacturing and circular economy\n Guidance on greener solvent selection and substitution\n Platform molecules and clean synthesis\n Online learning resources and associated tools including metrics and solvent selection\n Opportunities for knowledge transfer, discussion and networking\n\n Speakers\nMike Lancaster, Chemical Industries Association\nDr Simon Grant, Thomas Swan & Co. Ltd\nTerry Thistlethwaite, Croda International plc\nPaul Mines, Biome Technologies plc\nDr John Hayler, GlaxoSmithKline plc\nJo Lloyd, ERM\nProf. Peter Ball, University of York\nDr Rob McElroy, University of York\nDr James Sherwood, University of York\nDr Tom Farmer, University of York\nLouise Summerton, University of York\nRick Taylor, University of York\n\n\n\n \n\n"
+  url: https://www.eventbrite.co.uk/e/green-manufacturing-for-the-21st-century-chemical-industry-case-studies-methodologies-and-tools-tickets-32618322280?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/29793287/30757136331/1/original.jpg?h=200&w=450&rect=5,0,1488,744&s=60a13f8836507da12630bd319356a7e5
+  starts: 2017-05-24T10:00:00.0000000
+  ends: 2017-05-24T17:00:00.0000000
+  venue: Green Chemistry Seminar room, C/F/106
 - name: 'Science Places and Things: a York Walk'
   description: >
     Part of the York Festival of Ideas; Organised by the York Science Trails Group.
@@ -195,25 +142,6 @@
   starts: 2017-06-12T12:00:00.0000000
   ends: 2017-06-12T13:00:00.0000000
   venue: Yorkshire Museum (outside)
-- name: Understanding York’s environment
-  description: >-
-    Speakers: Ruth Davis - E3G, Professor Mike Depledge - University of Exeter and Professor Alistair Boxall – Environment Department
-
-    Research in Focus
-
-    This event will be followed by a free drinks reception, a photo exhibition and an interactive installation in the Hub's 3Sixty space. 
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/understanding-yorks-environment-tickets-33272951293?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/29833677/22468345120/1/original.jpg?h=200&w=450&rect=0,10,960,480&s=29df9c36ddcb3900c6157e6f00bb9549
-  starts: 2017-05-25T18:30:00.0000000
-  ends: 2017-05-25T20:00:00.0000000
-  venue: Ron Cooke Hub auditorium
 - name: Microsoft Excel Advanced Course
   description: >-
     Microsoft Excel Advanced course
