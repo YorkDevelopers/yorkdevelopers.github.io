@@ -1,54 +1,3 @@
-- name: 'Archivematica Camp: York UK'
-  description: >-
-    We're excited to announce the first Archivematica Camp being held in Europe, cohosted by the University of York and Artefactual! Inspired by similar events like Hydra Camp, Islandora Camp and Fedora Camp, Archivematica Camp is intended to provide a space for anyone interested in or currently using Archivematica to come together, learn about the platform from other users, and share their experiences. The agenda will reflect the demand of the campers, so let us know what you want to hear about and we'll do our best to accomodate your interests. 
-
-    Archivematica Camp York is a 3-day event with the first day considered optional. The offerings on the introductory day are:
-
-
-
-    Archivematica for Absolute Beginners (AM)
-
-
-
-    Archivematica and AtoM integration workflows (PM)
-
-
-
-    Advanced Archivematica Drop-In Help Clinic (all-day)
-
-
-
-    The price is inclusive of all three days. An expanded agenda is available on the Archivematica Camp York wiki page.
-
-
-    FAQs
-
-    How can I contact the organizer with any questions?
-
-    Send us an email at info@artefactual.com with the subject "Archivematica Camp York". We'll get back to you ASAP! 
-
-    What's the refund policy?
-
-    You can refund your ticket through Eventbrite until March 7th. This gives folks on the waiting list enough time to arrange their attendance and travel.
-
-    From March 8th onwards, refunds must be requested directly by emailing info@artefactual.com with the subject "Archivematica Camp York". After March 8th, we reserve the right to refuse a refund if we are unable to find someone else to pay for the spot.
-
-    Do I have to bring a printed ticket to the event?
-
-    Nope! 
-
-    Can I update my registration information?
-
-    You can update your registration information by either changing the information here on Eventbrite or by emailing us at info@artefactual.com with the subject "Archivematica Camp York". 
-
-    Is my registration fee or ticket transferrable?
-
-    Sure! If you need to transfer your ticket, just let us know who you'll be transferring it to by emailing us at info@artefactual.com with the subject "Archivematica Camp York". 
-  url: https://www.eventbrite.com/e/archivematica-camp-york-uk-registration-31851507717?aff=ebapi
-  logo: https://cdn.evbuc.com/images/28188148/201888938780/1/original.jpg?h=200&w=450&rect=0,20,640,320&s=dc554e566cb18f5c24e57ab637c300a4
-  starts: 2017-04-04T09:00:00.0000000
-  ends: 2017-04-06T17:00:00.0000000
-  venue: The Ron Cooke Hub
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -100,6 +49,22 @@
   starts: 2017-05-24T10:00:00.0000000
   ends: 2017-05-24T17:00:00.0000000
   venue: Green Chemistry Seminar room, C/F/106
+- name: 'Science Places and Things: a York Walk'
+  description: >
+    Part of the York Festival of Ideas; Organised by the York Science Trails Group.
+
+    Join us on a summer afternoon for an accessible guided stroll and hear about people, places and things associated with York's scientific history.  
+
+    From Alcuin and Atomic science to Bears, Botany and Zoos!
+
+    Please sign up! Details will be sent shortly.
+
+    The York Science Trails Group (YSTG) meets at 12 noon on 6th Feb, 13th March, and then 2nd Monday of each month in King's Manor Refectory:    www.YorkScienceTrail.eventbrite.com     
+  url: https://www.eventbrite.co.uk/e/science-places-and-things-a-york-walk-tickets-31707393668?aff=ebapi
+  logo: https://cdn.evbuc.com/images/27937729/20328548666/1/original.jpg?h=200&w=450&rect=0,326,1684,842&s=8995ebc605d5c65f3ee49c39ae724572
+  starts: 2017-06-12T12:00:00.0000000
+  ends: 2017-06-12T13:00:00.0000000
+  venue: Yorkshire Museum (outside)
 - name: Understanding York’s environment
   description: >-
     Speakers: Ruth Davis - E3G, Professor Mike Depledge - University of Exeter and Professor Alistair Boxall – Environment Department
@@ -119,22 +84,6 @@
   starts: 2017-05-25T18:30:00.0000000
   ends: 2017-05-25T20:00:00.0000000
   venue: Ron Cooke Hub auditorium
-- name: 'Science Places and Things: a York Walk'
-  description: >
-    Part of the York Festival of Ideas; Organised by the York Science Trails Group.
-
-    Join us on a summer afternoon for an accessible guided stroll and hear about people, places and things associated with York's scientific history.  
-
-    From Alcuin and Atomic science to Bears, Botany and Zoos!
-
-    Please sign up! Details will be sent shortly.
-
-    The York Science Trails Group (YSTG) meets at 12 noon on 6th Feb, 13th March, and then 2nd Monday of each month in King's Manor Refectory:    www.YorkScienceTrail.eventbrite.com     
-  url: https://www.eventbrite.co.uk/e/science-places-and-things-a-york-walk-tickets-31707393668?aff=ebapi
-  logo: https://cdn.evbuc.com/images/27937729/20328548666/1/original.jpg?h=200&w=450&rect=0,326,1684,842&s=8995ebc605d5c65f3ee49c39ae724572
-  starts: 2017-06-12T12:00:00.0000000
-  ends: 2017-06-12T13:00:00.0000000
-  venue: Yorkshire Museum (outside)
 - name: Microsoft Excel Advanced Course
   description: >-
     Microsoft Excel Advanced course
@@ -215,6 +164,17 @@
   starts: 2017-06-08T09:00:00.0000000
   ends: 2017-06-08T16:30:00.0000000
   venue: York
+- name: BioVale Members' Evening
+  description: >-
+    BioVale members are invited to an exclusive members’ evening to celebrate a successful year for BioVale and Yorkshire and the Humber’s bioeconomy. If you are not already a BioVale member, membership is free and simple to apply for online.
+
+    Speakers (to be confirmed) followed by a chance to network whilst enjoying a delicious Betty's finger buffet. This will be an opportunity to meet and talk with the BioVale Steering Group, drawn from regional industry, research organisations, higher education and local government, as well as other BioVale members.
+  url: https://www.eventbrite.co.uk/e/biovale-members-evening-tickets-32649483484?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/29878344/132068918034/1/original.jpg?h=200&w=450&rect=25,0,2148,1074&s=6e5fde7140032ee8bc5380e5d63f7176
+  starts: 2017-12-07T17:00:00.0000000
+  ends: 2017-12-07T20:00:00.0000000
+  venue: Bettys Café Tea Rooms
 - name: Microsoft VBA Excel Course
   description: >-
     Microsoft Excel VBA
