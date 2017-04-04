@@ -1,16 +1,8 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/238765645/
-  is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-04-03T06:30:00.0000000
-  ends: 2017-04-03T09:30:00.0000000
-  venue: The Perky Peacock
 - name: 'Coding Deathmatch: TDD vs Hacking'
   description: "<p>This month, we'll decide once and for all whether we should be using TDD or not!</p> <p>See the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for details.</p> "
   url: https://www.meetup.com/Leeds-Code-Dojo/events/238288650/
   is-free: true
-  logo: http://photos1.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
   starts: 2017-04-05T17:30:00.0000000
   ends: 2017-04-05T20:00:00.0000000
   venue: Callcredit Information Group Limited
@@ -18,7 +10,7 @@
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/York-Code-Coffee/events/238822849/
   is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
   starts: 2017-04-05T06:30:00.0000000
   ends: 2017-04-05T09:30:00.0000000
   venue: The Perky Peacock
@@ -26,15 +18,15 @@
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
   url: https://www.meetup.com/Code-Coffee-Leeds/events/238823105/
   is-free: true
-  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-04-05T07:00:00.0000000
   ends: 2017-04-05T10:00:00.0000000
   venue: La Bottega Milanese
 - name: GDG Leeds - April
-  description: "<p>If you attended March's meetup can you please spend 30secs and answer <a href=\"https://goo.gl/forms/HA3nGo6rQyNNmY5F2\">this</a> survey? It will help us in organising future events for you all :)</p> <p><br/>This month we're having a talk on Machine Learning by Adam Moss, co-founder of <a href=\"http://fantasyfootballfix.com/\">Fantasy Football Fix</a> and Lecturer in Physics and Astronomy at Nottingham University.</p> <p>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch! </p> <p>Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Intro</p> <p>6.20pm - TBC</p> <p>7.10pm - Machine Learning - Adam Moss</p> <p>7.50pm - Wrap up</p> <p>8.00pm - The end</p> "
+  description: "<p>If you attended March's meetup can you please spend 30secs and answer <a href=\"https://goo.gl/forms/HA3nGo6rQyNNmY5F2\">this</a> survey? It will help us in organising future events for you all :)</p> <p><br/>This month we're having a talk on Machine Learning by Adam Moss, co-founder of <a href=\"http://fantasyfootballfix.com/\">Fantasy Football Fix</a> and Lecturer in Physics and Astronomy at Nottingham University.</p> <p>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch! </p> <p>Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Intro</p> <p>6.20pm - Round up of Google Cloud Next and what's new in Android O</p> <p>7.10pm - Machine Learning - Adam Moss</p> <p>7.50pm - Wrap up</p> <p>8.00pm - The end</p> "
   url: https://www.meetup.com/GDG-Leeds/events/238410137/
   is-free: true
-  logo: http://photos2.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
+  logo: https://secure.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
   starts: 2017-04-06T17:00:00.0000000
   ends: 2017-04-06T19:00:00.0000000
   venue: Sky 2
@@ -49,15 +41,23 @@
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/York-Code-Coffee/events/238825702/
   is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
   starts: 2017-04-10T06:30:00.0000000
   ends: 2017-04-10T09:30:00.0000000
   venue: The Perky Peacock
+- name: Test Driven Development (TDD)
+  description: '<p>In traditional Code Dojo style we are going to practice the art of test driven development using pair programming.</p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend. Students very welcome!</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/211. This is located in the Fountains learning Centre on the second floor. Simply go into the library and either take the lift of walk up the stairs to the second floor. When you come out of either, walk along the open corridor reading the door signs and FT/211 is on your right. Sponsored by York St. John University.</p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/238919666/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-04-12T17:30:00.0000000
+  ends: 2017-04-12T20:30:00.0000000
+  venue: Room FT/211 York St John University
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/York-Code-Coffee/events/238825703/
   is-free: true
-  logo: http://photos3.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
   starts: 2017-04-12T06:30:00.0000000
   ends: 2017-04-12T09:30:00.0000000
   venue: The Perky Peacock
@@ -65,14 +65,15 @@
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
   url: https://www.meetup.com/Code-Coffee-Leeds/events/238641518/
   is-free: true
-  logo: http://photos2.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-04-12T07:00:00.0000000
   ends: 2017-04-12T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Amazing Mazes with Chris
-  url: https://www.meetup.com/York-Code-Dojo/events/238275879/
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/238825716/
   is-free: true
-  logo: http://photos4.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-04-12T17:30:00.0000000
-  ends: 2017-04-12T20:30:00.0000000
-  venue: Room FT/211 York St John University
+  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-04-17T06:30:00.0000000
+  ends: 2017-04-17T09:30:00.0000000
+  venue: The Perky Peacock
