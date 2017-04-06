@@ -1,29 +1,5 @@
-- name: 'Coding Deathmatch: TDD vs Hacking'
-  description: "<p>This month, we'll decide once and for all whether we should be using TDD or not!</p> <p>See the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for details.</p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/238288650/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2017-04-05T17:30:00.0000000
-  ends: 2017-04-05T20:00:00.0000000
-  venue: Callcredit Information Group Limited
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/238822849/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-04-05T06:30:00.0000000
-  ends: 2017-04-05T09:30:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/238823105/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-04-05T07:00:00.0000000
-  ends: 2017-04-05T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: GDG Leeds - April
-  description: "<p>If you attended March's meetup can you please spend 30secs and answer <a href=\"https://goo.gl/forms/HA3nGo6rQyNNmY5F2\">this</a> survey? It will help us in organising future events for you all :)</p> <p><br/>This month we're having a talk on Machine Learning by Adam Moss, co-founder of <a href=\"http://fantasyfootballfix.com/\">Fantasy Football Fix</a> and Lecturer in Physics and Astronomy at Nottingham University.</p> <p>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch! </p> <p>Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Intro</p> <p>6.20pm - Round up of Google Cloud Next and what's new in Android O</p> <p>7.10pm - Machine Learning - Adam Moss</p> <p>7.50pm - Wrap up</p> <p>8.00pm - The end</p> "
+  description: "<p>If you attended March's meetup can you please spend 30secs and answer <a href=\"https://goo.gl/forms/HA3nGo6rQyNNmY5F2\">this</a> survey? It will help us in organising future events for you all :)</p> <p><br/>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch! </p> <p><br/>Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Intro</p> <p>6.20pm - Round up of Google Cloud Next and what's new in Android O</p> <p>7.10pm - Code lab</p> <p>7.50pm - Wrap up</p> <p>8.00pm - The end</p> "
   url: https://www.meetup.com/GDG-Leeds/events/238410137/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
@@ -31,12 +7,12 @@
   ends: 2017-04-06T19:00:00.0000000
   venue: Sky 2
 - name: 'World Internet of Things day: York'
-  description: "<p>Sunday 9th April is world Internet of Things day (IoT). And what better way to mark it in York than by arranging York's first Meetup for people interested in the Internet of Things. This event will be an opportunity for people who share a common interest in IoT to meet each other and explore what potential exists for future Meetups, events and activities. Everyone is welcome whether you're new to this subject or have been active in it for years. Location details etc to be announced soon.</p> "
+  description: "<p>Sunday 9th April is <b>world Internet of Things day</b> (IoT). And what better way to mark it in York than by arranging York's first Meetup for people interested in the Internet of Things. This event will be an opportunity for people who share a common interest in IoT to meet each other and explore what potential exists for future Meetups, events and activities. Everyone is welcome whether you're new to this subject or have been active in it for years.</p> <p><b>Proceedings: </b></p> <p>15:30 - Arrive, coffee, Tea, cake</p> <p>15:45 - Welcome</p> <p>16:00 - IoT Talks</p> <p>16:30 - Open Discussion for types of future IoT meetups in York,</p> <p>17:00 - Pub?</p> <p><b>If you want to do a talk please just message Justin or let us know by posting on the wall below :)</b></p> "
   url: https://www.meetup.com/York-Internet-Of-Things-Meetup/events/238422972/
   is-free: true
   starts: 2017-04-09T14:30:00.0000000
   ends: 2017-04-09T16:00:00.0000000
-  venue: York St.John University
+  venue: De Grey Court Lecture Theatre, York St John University
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/York-Code-Coffee/events/238825702/
@@ -77,3 +53,27 @@
   starts: 2017-04-17T06:30:00.0000000
   ends: 2017-04-17T09:30:00.0000000
   venue: The Perky Peacock
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/238825720/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-04-19T06:30:00.0000000
+  ends: 2017-04-19T09:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywgbzb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-04-19T07:00:00.0000000
+  ends: 2017-04-19T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: 'Flashtalking Driving Ad Tech Using PHP & CouchDB: Scalable NoSQL For Modern Apps'
+  description: "<p>• 18:30 – Turn up, have a drink, some pizza, and a chat. \U0001F355 \U0001F37B ☕️</p> <p><br/>• 19:00 – \"Flashtalking driving Ad Technology using PHP\" - Duren Dexter</p> <p>• 19:35 – Mid session interval</p> <p>• 19:40 – \"CouchDB: Scalable NoSQL For Modern Applications\" - Lorna Mitchell</p> <p><br/>• 20:30ish – Pop over the road to Headrow House pub (a drink or two provided)</p> <p><b>☞ \"Flashtalking driving Ad Technology using PHP\" - Duren Dexter</b></p> <p><i>Find out how Flashtalking uses PHP to build, serve and measure over 1 billion adverts a day.</i></p> <p><br/>Duren Dexter, MD of technology for Flashtalking, started his career in tech working on satellite systems while in the US Air Force as well as at MIT. He has since travelled the globe working in senior technology roles in sports betting (Betfair- Global, Skybet International) &amp; now advertising technology with Flashtalking.</p> <p><br/>Duren Dexter on Twitter: <a href=\"https://twitter.com/dexvondexter\">@dexvondexter</a></p> <p><br/><b>☞ \"CouchDB: Scalable NoSQL For Modern Applications\" - Lorna Mitchell</b></p> <p><br/><i>Come and meet CouchDB, the NoSQL store with magical powers. This session will discuss good use-cases for CouchDB and when to use it in your own applications, including new features in the 2.0 release. If you’re curious about alternative databases, fault-tolerant setup, brilliant replication and a Javascript version called PouchDB then this session is for you.</i></p> <p><br/>Lorna is a Developer Advocate for IBM Cloud Data Services, technology addict and incurable blogger.</p> <p><br/>Lorna Mitchell on Twitter: <a href=\"https://twitter.com/lornajane\">@lornajane</a></p> <p><br/><b>☞ Sponsors</b></p> <p><br/>We can't do this without them. Show them some love.</p> <p><a href=\"http://futurelabs.org.uk/\">Futurelabs</a> - (<a href=\"https://twitter.com/leedsfuturelabs\">@futurelabs</a>) The venue and soft drink providers.</p> <p>Providers of food, drinks and possibilities:</p> <p><a href=\"https://www.maplesyrupmedia.com/careers/\">Quidco/Maple Syrup Media</a> - <a href=\"https://twitter.com/quidco\">@quidco</a></p> <p><a href=\"http://skybetcareers.com/about-us\">Sky Betting &amp; Gaming</a> - <a href=\"https://twitter.com/skybetcareers\">@skybetcareers</a></p> <p><a href=\"http://inviqa.com/\">Inviqa</a> - <a href=\"https://twitter.com/inviqa\">@inviqa</a></p> "
+  url: https://www.meetup.com/leedsphp/events/238572200/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/a/e/d/thumb_455636045.jpeg
+  starts: 2017-04-19T17:30:00.0000000
+  ends: 2017-04-19T20:30:00.0000000
+  venue: Future Labs
