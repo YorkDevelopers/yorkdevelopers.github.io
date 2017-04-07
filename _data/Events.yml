@@ -17,20 +17,6 @@
   starts: 2017-05-25T18:30:00.0000000
   ends: 2017-05-25T20:00:00.0000000
   venue: Ron Cooke Hub auditorium
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here and the Astrocampus is labelled 'Observatory'.  Acess is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-32157686506?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
-  starts: 2017-04-06T20:00:00.0000000
-  ends: 2017-04-06T21:00:00.0000000
 - name: Tech Scene York
   description: >-
     WHO ARE WE? We are a group of professionals from local business, universities and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.
@@ -123,7 +109,7 @@
 
     Wed 26th April- Environmental Sustainability and Resilience, and Health and WellbeingDepartments competing-Health Sciences, Biology and ArchaeologyThurs 27th April -Risk, Evidence and Decision Making and Technologies for the FutureDepartments competing-Biology, Physics, Electronic Engineering,Health Sciences, Maths, Education and Politics
 
-    Participants have just three minutes to articulate how their work contributes to the fall of intellectual, societal and scientific ‘walls’.
+    Participants have just three minutes to articulate how their work contributes to the fall of intellectual, societal and scientific ‘walls’.A list of participants is on the Research Champions web pages.
 
     Please select a date or dates from the select a date button on the right.
 
@@ -150,6 +136,20 @@
   starts: 2017-04-24T12:45:00.0000000
   ends: 2017-04-24T15:00:00.0000000
   venue: Bowland Auditorium
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here and the Astrocampus is labelled 'Observatory'.  Acess is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-33498994394?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
+  starts: 2017-05-11T18:30:00.0000000
+  ends: 2017-05-11T19:30:00.0000000
 - name: Microsoft Excel Advanced Course
   description: >-
     Microsoft Excel Advanced course
@@ -310,14 +310,6 @@
   starts: 2017-05-23T09:00:00.0000000
   ends: 2017-05-23T12:30:00.0000000
   venue: York
-- name: GDG Leeds - April
-  description: "<p>If you attended March's meetup can you please spend 30secs and answer <a href=\"https://goo.gl/forms/HA3nGo6rQyNNmY5F2\">this</a> survey? It will help us in organising future events for you all :)</p> <p><br/>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch! </p> <p><br/>Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Intro</p> <p>6.20pm - Round up of Google Cloud Next and what's new in Android O</p> <p>7.10pm - Code lab</p> <p>7.50pm - Wrap up</p> <p>8.00pm - The end</p> "
-  url: https://www.meetup.com/GDG-Leeds/events/238410137/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
-  starts: 2017-04-06T17:00:00.0000000
-  ends: 2017-04-06T19:00:00.0000000
-  venue: Sky 2
 - name: 'World Internet of Things day: York'
   description: "<p>Sunday 9th April is <b>world Internet of Things day</b> (IoT). And what better way to mark it in York than by arranging York's first Meetup for people interested in the Internet of Things. This event will be an opportunity for people who share a common interest in IoT to meet each other and explore what potential exists for future Meetups, events and activities. Everyone is welcome whether you're new to this subject or have been active in it for years.</p> <p><b>Proceedings: </b></p> <p>15:30 - Arrive, coffee, Tea, cake</p> <p>15:45 - Welcome</p> <p>16:00 - IoT Talks</p> <p>16:30 - Open Discussion for types of future IoT meetups in York,</p> <p>17:00 - Pub?</p> <p><b>If you want to do a talk please just message Justin or let us know by posting on the wall below :)</b></p> "
   url: https://www.meetup.com/York-Internet-Of-Things-Meetup/events/238422972/
@@ -334,7 +326,7 @@
   ends: 2017-04-10T09:30:00.0000000
   venue: The Perky Peacock
 - name: Test Driven Development (TDD)
-  description: '<p>In traditional Code Dojo style we are going to practice the art of test driven development using pair programming.</p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend. Students very welcome!</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/211. This is located in the Fountains learning Centre on the second floor. Simply go into the library and either take the lift of walk up the stairs to the second floor. When you come out of either, walk along the open corridor reading the door signs and FT/211 is on your right. Sponsored by York St. John University.</p> '
+  description: '<p>In traditional York Code Dojo style we are going to practice the art of Test Driven Development (TDD) using pair programming.</p> <p>TDD relies on a cycle of a very short development cycle: first the Developer writes an (initially failing) test case which defines a desired new feature, then produces the minimum amount of code to pass that test, and finally refactors the new code to accepted standards.</p> <p>This skill is a valuable one to learn and also a good one to teach others to do.</p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend. Students very welcome!</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/211. This is located in the Fountains learning Centre on the second floor. Simply go into the library and either take the lift of walk up the stairs to the second floor. When you come out of either, walk along the open corridor reading the door signs and FT/211 is on your right. Sponsored by York St. John University.</p> '
   url: https://www.meetup.com/York-Code-Dojo/events/238919666/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
@@ -389,6 +381,29 @@
   starts: 2017-04-19T17:30:00.0000000
   ends: 2017-04-19T20:30:00.0000000
   venue: Future Labs
+- name: Hands-on Kotlin - Learn some Kotlin by solving coding problems.
+  description: '<p>This meet up will be an opportunity to learn to program in Kotlin and to see first-hand the many features which make Kotlin such an interesting/exciting JVM language.</p> <p>The evening will provide a range of problems which cover the key differences between Java &amp; Kotlin and a range of difficulty so that there should be something to keep every bodies brain working.</p> <p><b>6:15 - Meetup for Pizza/Snacks<br/></b></p> <p><b>6:45 - Brief Overview of Kotlin</b></p> <p><b>7:00 - Start Coding</b></p> <p><b>8:30-ish Compare Solutions</b></p> '
+  url: https://www.meetup.com/Kotlin-Yorkshire-Meetup-Group/events/238832691/
+  is-free: true
+  starts: 2017-04-20T17:15:00.0000000
+  ends: 2017-04-20T19:45:00.0000000
+  venue: EE - Floor 2, BT
+- name: Drupal Yorkshire Monthly Meetup
+  description: "<p>• 6:30 - 6:45 &gt; Arrivals</p> <p>• 6:45 - 7:00 &gt; Announcements</p> <p>• 7:00 - 7:30 - &gt; Speaker/Presentation/Tutorial</p> <p>• 7:30 - 7:45 &gt; Q&amp;A</p> <p>7:45 - 8:30 &gt; Clinic - put your questions to the group for explanation the group for help and feedback</p> <p><br/>Elliot Ward will be letting us know what's coming in Drupal 8.3.0</p> "
+  url: https://www.meetup.com/DrupalYorkshire/events/238051494/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/a/5/0/c/thumb_384222252.jpeg
+  starts: 2017-04-20T17:30:00.0000000
+  ends: 2017-04-20T20:30:00.0000000
+  venue: Future Labs
+- name: Game Developer Monthly meeting
+  description: "<p>The Minster Inn is off Bootham, about 5 minutes walk from Bootham Bar.  It has recently been renovated, and now serves stone baked Pizza, and a good selection of Ales on tap and in bottles.  I have reserved a room from 7 for Thursday.  If you want to keep it private, shut the door; but we didn't have much trouble last time with some regulars wandering in!</p> <p><a href=\"http://minsterinn.co.uk/\"><a href=\"http://minsterinn.co.uk/\" class=\"linkified\">http://minsterinn.co.uk/</a></a></p> <p>As always, if you have something to show, feel free to bring it.  Mostly these meetings are a bunch of interesting folks chatting about Games and development over a beer.</p> <p>Regards,</p> <p><br/>Chris.</p> "
+  url: https://www.meetup.com/York-Game-Developers/events/238672963/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/9/2/4/9/thumb_434677449.jpeg
+  starts: 2017-04-20T17:45:00.0000000
+  ends: 2017-04-20T20:45:00.0000000
+  venue: Minster Inn
 - name: Study Tour of Portsmouth area including the Mary Rose
   description: "<strong>A 5 day tour from Sun 9 April to \x96 Thurs 13th April inclusive.  £464 p.p. couples, £120 single supplement</strong>"
   url: http://www.ypsyork.org/events/study-tour-of-portsmouth-area-including-the-mary-rose/
