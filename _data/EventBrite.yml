@@ -17,20 +17,6 @@
   starts: 2017-05-25T18:30:00.0000000
   ends: 2017-05-25T20:00:00.0000000
   venue: Ron Cooke Hub auditorium
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here and the Astrocampus is labelled 'Observatory'.  Acess is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-32157686506?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
-  starts: 2017-04-06T20:00:00.0000000
-  ends: 2017-04-06T21:00:00.0000000
 - name: Tech Scene York
   description: >-
     WHO ARE WE? We are a group of professionals from local business, universities and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.
@@ -123,7 +109,7 @@
 
     Wed 26th April- Environmental Sustainability and Resilience, and Health and WellbeingDepartments competing-Health Sciences, Biology and ArchaeologyThurs 27th April -Risk, Evidence and Decision Making and Technologies for the FutureDepartments competing-Biology, Physics, Electronic Engineering,Health Sciences, Maths, Education and Politics
 
-    Participants have just three minutes to articulate how their work contributes to the fall of intellectual, societal and scientific ‘walls’.
+    Participants have just three minutes to articulate how their work contributes to the fall of intellectual, societal and scientific ‘walls’.A list of participants is on the Research Champions web pages.
 
     Please select a date or dates from the select a date button on the right.
 
@@ -150,6 +136,20 @@
   starts: 2017-04-24T12:45:00.0000000
   ends: 2017-04-24T15:00:00.0000000
   venue: Bowland Auditorium
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here and the Astrocampus is labelled 'Observatory'.  Acess is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-33498994394?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
+  starts: 2017-05-11T18:30:00.0000000
+  ends: 2017-05-11T19:30:00.0000000
 - name: Microsoft Excel Advanced Course
   description: >-
     Microsoft Excel Advanced course
