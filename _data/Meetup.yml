@@ -1,11 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/238825702/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-04-10T06:30:00.0000000
-  ends: 2017-04-10T09:30:00.0000000
-  venue: The Perky Peacock
 - name: Test Driven Development (TDD)
   description: '<p>In traditional York Code Dojo style we are going to practice the art of Test Driven Development (TDD) using pair programming.</p> <p>TDD relies on a cycle of a very short development cycle: first the Developer writes an (initially failing) test case which defines a desired new feature, then produces the minimum amount of code to pass that test, and finally refactors the new code to accepted standards.</p> <p>This skill is a valuable one to learn and also a good one to teach others to do.</p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend. Students very welcome!</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/211. This is located in the Fountains learning Centre on the second floor. Simply go into the library and either take the lift of walk up the stairs to the second floor. When you come out of either, walk along the open corridor reading the door signs and FT/211 is on your right. Sponsored by York St. John University.</p> '
   url: https://www.meetup.com/York-Code-Dojo/events/238919666/
@@ -77,3 +69,27 @@
   starts: 2017-04-20T17:45:00.0000000
   ends: 2017-04-20T20:45:00.0000000
   venue: Minster Inn
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/gvbctmywgbgc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-04-24T06:30:00.0000000
+  ends: 2017-04-24T09:30:00.0000000
+  venue: The Perky Peacock
+- name: Hiring for digital skills @ Leeds Digital Festival
+  description: "<p><img src=\"http://photos4.meetupstatic.com/photos/event/9/0/6/4/600_459156964.jpeg\" /></p> <p>\n\n\nThe challenge attracting and hiring digital talent in Leeds and Yorkshire is at an all-time high.  We are opening our doors to companies of all sizes to provide help, advice and strategies on both hiring for digital professionals and also retaining them.  Amsource have a wealth of experience helping companies to grow their digital teams across Leeds &amp; Yorkshire and these free to attend sessions will include job spec reviews and advice, interview approach, and ways of attracting talent beyond traditional means. </p> <p><br/>Appointments are a must for the sessions and would in particular suit start-ups / small businesses looking to grow.</p> <p>&lt;a&gt;Email Andrew Maeer for more information: andrew@amsourcetechnology.com. &lt;/a&gt;</p> <p>&lt;a&gt;Email Georgia Harris to book an appointment: georgia@amsourcetechnology.com&lt;/a&gt;</p> <p><br/>**MORE INFORMATION COMING SOON**</p> "
+  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/238209294/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
+  starts: 2017-04-24T08:00:00.0000000
+  ends: 2017-04-28T16:00:00.0000000
+  venue: Amsource Technology
+- name: Careers Clinic @ Leeds Digital Festival
+  description: '<p><img src="http://photos2.meetupstatic.com/photos/event/9/0/2/2/600_459156898.jpeg" /></p> <p>Whether a Graduate or an experienced professional, searching for a new role requires you to be at your best with the ability to impress and communicate effectively. We will be opening up our offices to provide free advice to job seekers of all experience levels. This will include a CV review, interview hints &amp; tips and information on how to improve your personal brand in the digital world.</p> <p>&lt;a&gt;For more information please get in contact with Andrew: andrew@amsourcetechnology.com&lt;/a&gt;</p> <p>&lt;a&gt;To book an appointment, email Georgia: georgia@amsourcetechnology.com&lt;/a&gt;</p> <p><b>**MORE INFORMATION COMING SOON**</b></p> '
+  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/238209417/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
+  starts: 2017-04-24T08:00:00.0000000
+  ends: 2017-04-28T16:00:00.0000000
+  venue: Amsource Technology
