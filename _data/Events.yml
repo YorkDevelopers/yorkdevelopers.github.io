@@ -17,6 +17,21 @@
   starts: 2017-05-25T18:30:00.0000000
   ends: 2017-05-25T20:00:00.0000000
   venue: Ron Cooke Hub auditorium
+- name: 'Cold and Trapped: Using Lasers to Approach Absolute Zero - Dr Andrew Pratt'
+  description: >-
+    “Cold and Trapped: Using Lasers to Approach Absolute Zero”
+
+
+    Given the rude interuption of a poorly timed fire alarm in his last attempt to give this lecture, Physsoc invites back Doctor Andrew Pratt from the York Physics Department. Here he will give (this time) a full explanation of how lasers can be used to cool objects - something not usually associated with them. Below is a summary of the lecture, along with a few figures, from Doctor Pratt to pique your interest.Our everyday experience tells us that if light shines on an object, then that object will heat up, as happens when the Sun’s rays warm our skin. However, lasers, the most powerful sources of light, can actually be used to cool atoms down to within a millionth of a degree of the lowest temperature that is theoretically possible, known as absolute zero (−273.15° Celsius or zero Kelvin). Over five decades, ever more sophisticated techniques, with exotic names such as Sisyphus cooling and optical molasses, have been developed that allow colder and colder temperatures to be reached. Such low temperatures are necessary to make improved measurements of the most fundamental properties of nature and for applications such as metrology and the atomic clocks used in global positioning systems (e.g. GPS). Exciting new technologies are also being explored such as quantum computers and lasers actually made of atoms instead of light. This talk will introduce the concept of ‘laser cooling’, the schemes used to achieve colder and colder temperatures, and how this field benefits our everyday lives.
+
+
+    The figure shows an image of Sisyphus, a mythological king forever destined to roll a massive boulder to the top of a hill, only for it to continually roll back down again. Lasers can be used to create analogous ‘hills’ which allows atoms to be trapped and then cooled to ultralow temperatures.
+  url: https://www.eventbrite.co.uk/e/cold-and-trapped-using-lasers-to-approach-absolute-zero-dr-andrew-pratt-tickets-31927443844?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/30335824/148307828230/1/original.jpg?h=200&w=450&rect=0,0,286,143&s=3bb5329ec1ada503ccf423f430815200
+  starts: 2017-04-25T19:00:00.0000000
+  ends: 2017-04-25T20:00:00.0000000
+  venue: P/L/001
 - name: Tech Scene York
   description: >-
     WHO ARE WE? We are a group of professionals from local business, universities and Science City York, committed to growing and stimulating digital technology development and business in the York area.WHAT WILL WE DO?We will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.Anyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech Scene York events.
@@ -297,30 +312,6 @@
   starts: 2017-05-23T09:00:00.0000000
   ends: 2017-05-23T12:30:00.0000000
   venue: York
-- name: Test Driven Development (TDD)
-  description: '<p>In traditional York Code Dojo style we are going to practice the art of Test Driven Development (TDD) using pair programming.</p> <p>TDD relies on a cycle of a very short development cycle: first the Developer writes an (initially failing) test case which defines a desired new feature, then produces the minimum amount of code to pass that test, and finally refactors the new code to accepted standards.</p> <p>This skill is a valuable one to learn and also a good one to teach others to do.</p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend. Students very welcome!</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/211. This is located in the Fountains learning Centre on the second floor. Simply go into the library and either take the lift of walk up the stairs to the second floor. When you come out of either, walk along the open corridor reading the door signs and FT/211 is on your right. Sponsored by York St. John University.</p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/238919666/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-04-12T17:30:00.0000000
-  ends: 2017-04-12T20:30:00.0000000
-  venue: Room FT/211 York St John University
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/238825703/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-04-12T06:30:00.0000000
-  ends: 2017-04-12T09:30:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/238641518/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-04-12T07:00:00.0000000
-  ends: 2017-04-12T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/York-Code-Coffee/events/238825716/
@@ -354,7 +345,7 @@
   ends: 2017-04-19T20:30:00.0000000
   venue: Future Labs
 - name: Hands-on Kotlin - Learn some Kotlin by solving coding problems.
-  description: '<p>This meet up will be an opportunity to learn to program in Kotlin and to see first-hand the many features which make Kotlin such an interesting/exciting JVM language.</p> <p>The evening will provide a range of problems which cover the key differences between Java &amp; Kotlin and a range of difficulty so that there should be something to keep every bodies brain working.</p> <p><b>6:15 - Meetup for Pizza/Snacks<br/></b></p> <p><b>6:45 - Brief Overview of Kotlin</b></p> <p><b>7:00 - Start Coding</b></p> <p><b>8:30-ish Compare Solutions</b></p> '
+  description: '<p>This meet up will be an opportunity to learn to program in Kotlin and to see first-hand the many features which make Kotlin such an interesting/exciting JVM language.</p> <p>The evening will provide a range of problems which cover the key differences between Java &amp; Kotlin and a range of difficulty so that there should be something to keep every bodies brain working.</p> <p><b>6:15 - Meetup for Pizza/Snacks<br/></b></p> <p><b>6:45 - Brief Overview of Kotlin</b></p> <p><b>7:00 - Start Coding</b></p> <p><b>8:30-ish Compare Solutions</b></p> <p>We will be working in pairs so please bring your own laptop.  Ideally you will have a recent version of IntelliJ which has the Kotlin plugin installed.</p> '
   url: https://www.meetup.com/Kotlin-Yorkshire-Meetup-Group/events/238832691/
   is-free: true
   starts: 2017-04-20T17:15:00.0000000
@@ -408,6 +399,38 @@
   starts: 2017-04-25T17:00:00.0000000
   ends: 2017-04-25T20:00:00.0000000
   venue: Amsource Technology
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/gvbctmywgbjc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-04-26T06:30:00.0000000
+  ends: 2017-04-26T09:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywgbjc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-04-26T07:00:00.0000000
+  ends: 2017-04-26T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Leeds Digital Festival Special
+  description: '<p>Come and join us for our fun third outing for 2017, and to experience two fabulous  "out of this world" talks. We aim to engage with our new project that looks to the stars, and we will serve you a game that will ace your agile thinking.</p> <p><b>Session One: The Equal Experts Space Agency</b></p> <p>Nick Porthouse &amp; Tim Squires, Equal Experts</p> <p>Description: "Not content with expanding internationally over the last few years, in 2017 we’re heading into the stratosphere with the launch of EESA – Equal Experts Space Agency. EESA is supporting EE Associate and Technical Architect Tim Squires in his attempt to break a Guinness World Record. Join us for the ride…"</p> <p><b>Session Two:  Ball Point Game - taking it further</b></p> <p>Bethan Timmins, Delivery Manager, Equal Experts</p> <p>Description: "The Ball Point Game by Boris Gloger is one of the most famous Agile games to help teach people the basic concepts behind Agile delivery.  It allows Participants  to understand the basic principles of a scrum team and the concepts of velocity, Fixed time box delivery, self organisation and communication.</p> <p><br/>However for those of us that have been working within agile teams for a while how can you use this game to highlight specific issues your project team is facing.  This session will go through the Ball Point game and Highlight how it can be used to tackle specific project problems and where you can use it to help your organisation"</p> <p>Pizza and drinks will be provided as usual.</p> <p>See you there</p> '
+  url: https://www.meetup.com/Expert-Talks-Leeds/events/238389075/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2017-04-26T17:00:00.0000000
+  ends: 2017-04-26T20:00:00.0000000
+  venue: 'The White Cloth Gallery '
+- name: April - Alex Fenton & Thiru Muthukumar
+  description: "<p>Hey there Javascripters!</p> <p>We've got a couple of great talks this month and we're really looking forward to them. Our meetup this month is also part of <a href=\"http://leedsdigitalfestival.org/\">Leeds Digital Festival</a> which is full of awesome events, so be sure to give it a look!</p> <p>First up this month we have Alex Fenton (<a href=\"https://twitter.com/afeno90\">@afeno90</a>) who will be giving a talk titled \"Atomic UI design with React.js\".</p> <p>Here is a brief intro from Alex:</p> <p><i>\"What has really made React.js work at Sky is the approach we have taken using atomic design.</i></p> <p><i>I will talk about how atomic design has worked for us and how it can work for others developing large applications.</i></p> <p><i>When paired together atomic design and React.js make for a great development experience, and allows developers, and UX designers to make design decisions that can be propagated through a large application at pace.</i></p> <p><i>As part of this talk I plan to give details of the technologies I used when implementing components at an atom (i.e. Button) and molecule (i.e. Price Panel) level, and the potential benefits that can be seen in production when adopting this approach.\"</i></p> <p>Next up we have Thiru Muthukumar (<a href=\"https://twitter.com/Thiruppathi\">@Thiruppathi</a>) introducing us to Polymer with his talk titled \"Simplify &amp; Amplify with Polymer\".</p> <p>Here is a brief intro from Thiru:</p> <p><i>\"Are you looking to build a cutting edge web app?</i></p> <p><i>In the era of framework fatigue, #UseThePlatform and leverage new web platform primitives to build a better web! In this talk, I'll talk about WebComponents &amp; Polymer and how we can Simplify the app development.\"</i></p> <p>The talks start at around 7:00, but most people show up from 6:45 for pizza and to network and chat about all things JavaScript before the talk. After the talk we’ll be heading over to Headrow House to have a drink and to chat some more.</p> <p>The door to get in is shown here:</p> <p><a href=\"https://lh4.googleusercontent.com/cEGXIalBzTbsvm3bPciWV2VwonK6rte9SgwMNPH8uC9OtHU7aL5Hyv_yWi4kHhk6l2XytvF5pkomT4KiBkBYY5EN19luW5kOuiv6vOdZ2cjHqhWh5ZaLBeAEc8Hs1qiN_K5iliDE\" class=\"linkified\">https://lh4.googleusercontent.com/cEGXIalBzTbsvm3bPciWV2VwonK6rte9SgwMNPH8uC9OtHU7aL5Hyv_yWi4kHhk6l2XytvF5pkomT4KiBkBYY5EN19luW5kOuiv6vOdZ2cjHqhWh5ZaLBeAEc8Hs1qiN_K5iliDE</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/239033834/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2017-04-26T17:45:00.0000000
+  ends: 2017-04-26T20:45:00.0000000
+  venue: Future Labs
 - name: 'The people behind the runes: Scandinavians in the British Isles'
   description: 'The people behind the runes: Scandinavians in the British Isles'
   url: https://www.ypsyork.org/events/the-people-behind-the-runes-scandinavians-in-the-british-isles/
