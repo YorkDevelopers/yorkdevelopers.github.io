@@ -44,15 +44,15 @@
 
     1805     Joanna Ableson, York College – “Using the apprenticeship reforms to drive skills in this sector” 
 
-    1815      Suresh Manandhar - “Introducing the AI Clinic”
+    1815      Suresh Manandhar, University of York - “Introducing the AI Clinic”
 
-    1825     Chris Bray, Purple Frog – “Using AI for smart management of documents”
+    1825     Chris Bray, Purple Frog Text – “Using AI for smart management of documents”
 
     1850-1900 BREAK
 
     1900      Nigel Tracey, Bosch ETAS – “What makes automotive software special?"
 
-    1925     Catherine Hartley - "Introducing York Maker Hub" (joined by Stella Chan from STEM NET)
+    1925     Catherine Hartley, York Maker Hub - "Introducing York Maker Hub" (joined by Stella Chan from STEM NET)
 
     1950     Networking
 
@@ -74,20 +74,6 @@
   starts: 2017-05-24T10:00:00.0000000
   ends: 2017-05-24T17:00:00.0000000
   venue: Green Chemistry Seminar room, C/F/106
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here and the Astrocampus is labelled 'Observatory'.  Acess is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-33498994394?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
-  starts: 2017-05-11T18:30:00.0000000
-  ends: 2017-05-11T19:30:00.0000000
 - name: Falling Walls Research Theme heats
   description: >+
     Research Theme Heats
@@ -129,6 +115,20 @@
   starts: 2017-04-24T12:45:00.0000000
   ends: 2017-04-24T15:00:00.0000000
   venue: Bowland Auditorium
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here and the Astrocampus is labelled 'Observatory'.  Acess is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-33498994394?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
+  starts: 2017-05-11T18:30:00.0000000
+  ends: 2017-05-11T19:30:00.0000000
 - name: 'Science Places and Things: a York Walk'
   description: >
     Part of the York Festival of Ideas; Organised by the York Science Trails Group.
@@ -232,17 +232,6 @@
   starts: 2017-06-08T09:00:00.0000000
   ends: 2017-06-08T16:30:00.0000000
   venue: York
-- name: BioVale Members' Evening
-  description: >-
-    BioVale members are invited to an exclusive members’ evening to celebrate a successful year for BioVale and Yorkshire and the Humber’s bioeconomy. If you are not already a BioVale member, membership is free and simple to apply for online.
-
-    Speakers (to be confirmed) followed by a chance to network whilst enjoying a delicious Betty's finger buffet. This will be an opportunity to meet and talk with the BioVale Steering Group, drawn from regional industry, research organisations, higher education and local government, as well as other BioVale members.
-  url: https://www.eventbrite.co.uk/e/biovale-members-evening-tickets-32649483484?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/29878344/132068918034/1/original.jpg?h=200&w=450&rect=25,0,2148,1074&s=6e5fde7140032ee8bc5380e5d63f7176
-  starts: 2017-12-07T17:00:00.0000000
-  ends: 2017-12-07T20:00:00.0000000
-  venue: Bettys Café Tea Rooms
 - name: Microsoft VBA Excel Course
   description: >-
     Microsoft Excel VBA
