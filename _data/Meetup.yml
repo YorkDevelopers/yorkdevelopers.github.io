@@ -1,13 +1,5 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/238825716/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-04-17T06:30:00.0000000
-  ends: 2017-04-17T09:30:00.0000000
-  venue: The Perky Peacock
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/York-Code-Coffee/events/238825720/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
@@ -16,7 +8,7 @@
   venue: The Perky Peacock
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywgbzb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/239180183/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-04-19T07:00:00.0000000
@@ -47,7 +39,7 @@
   venue: Minster Inn
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/gvbctmywgbgc/
+  url: https://www.meetup.com/York-Code-Coffee/events/239293190/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
   starts: 2017-04-24T06:30:00.0000000
@@ -109,7 +101,7 @@
   starts: 2017-04-26T17:00:00.0000000
   ends: 2017-04-26T20:00:00.0000000
   venue: 'The White Cloth Gallery '
-- name: April - Alex Fenton & Thiru Muthukumar
+- name: April - Alex Fenton & Thiruppathi Muthukumar
   description: "<p>Hey there Javascripters!</p> <p>We've got a couple of great talks this month and we're really looking forward to them. Our meetup this month is also part of <a href=\"http://leedsdigitalfestival.org/\">Leeds Digital Festival</a> which is full of awesome events, so be sure to give it a look!</p> <p>First up this month we have Alex Fenton (<a href=\"https://twitter.com/afeno90\">@afeno90</a>) who will be giving a talk titled \"Atomic UI design with React.js\".</p> <p>Here is a brief intro from Alex:</p> <p><i>\"What has really made React.js work at Sky is the approach we have taken using atomic design.</i></p> <p><i>I will talk about how atomic design has worked for us and how it can work for others developing large applications.</i></p> <p><i>When paired together atomic design and React.js make for a great development experience, and allows developers, and UX designers to make design decisions that can be propagated through a large application at pace.</i></p> <p><i>As part of this talk I plan to give details of the technologies I used when implementing components at an atom (i.e. Button) and molecule (i.e. Price Panel) level, and the potential benefits that can be seen in production when adopting this approach.\"</i></p> <p>Next up we have Thiru Muthukumar (<a href=\"https://twitter.com/Thiruppathi\">@Thiruppathi</a>) introducing us to Polymer with his talk titled \"Simplify &amp; Amplify with Polymer\".</p> <p>Here is a brief intro from Thiru:</p> <p><i>\"Are you looking to build a cutting edge web app?</i></p> <p><i>In the era of framework fatigue, #UseThePlatform and leverage new web platform primitives to build a better web! In this talk, I'll talk about WebComponents &amp; Polymer and how we can Simplify the app development.\"</i></p> <p>The talks start at around 7:00, but most people show up from 6:45 for pizza and to network and chat about all things JavaScript before the talk. After the talk we’ll be heading over to Headrow House to have a drink and to chat some more.</p> <p>The door to get in is shown here:</p> <p><a href=\"https://lh4.googleusercontent.com/cEGXIalBzTbsvm3bPciWV2VwonK6rte9SgwMNPH8uC9OtHU7aL5Hyv_yWi4kHhk6l2XytvF5pkomT4KiBkBYY5EN19luW5kOuiv6vOdZ2cjHqhWh5ZaLBeAEc8Hs1qiN_K5iliDE\" class=\"linkified\">https://lh4.googleusercontent.com/cEGXIalBzTbsvm3bPciWV2VwonK6rte9SgwMNPH8uC9OtHU7aL5Hyv_yWi4kHhk6l2XytvF5pkomT4KiBkBYY5EN19luW5kOuiv6vOdZ2cjHqhWh5ZaLBeAEc8Hs1qiN_K5iliDE</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
   url: https://www.meetup.com/LeedsJS/events/239033834/
   is-free: true
@@ -117,3 +109,35 @@
   starts: 2017-04-26T17:45:00.0000000
   ends: 2017-04-26T20:45:00.0000000
   venue: Future Labs
+- name: AI Gets Serious
+  description: '<p><img src="https://secure.meetupstatic.com/photos/event/3/2/5/8/600_460152888.jpeg" /></p> <p>Get in touch with Karen Burns to secure your space at this event.</p> <p>&lt;a&gt;karen.burns@bjss.com&lt;/a&gt;</p> '
+  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/239295573/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
+  starts: 2017-04-27T17:00:00.0000000
+  ends: 2017-04-27T20:00:00.0000000
+  venue: BJSS Limited
+- name: Lightning talks
+  description: "<p>We will be hosting an eclectic mix of lightning talks (10-15 minutes) plus questions. We have confirmed:</p> <p><br/>• Nawaz Mohammed - Azure (PaaS, IaaS, App Service, Service Bus, Functions and more)</p> <p>• Kieron McIntyre - NHibernate and me</p> <p><br/>• Kevin Smith - MongoDb</p> <p><br/>• John Staveley - TypeScript and EcmaScript 6</p> <p><br/>• Tim Brown - SpecFlow</p> <p>\n\n\n\nIf you want to give a talk on a .Net related subject then please get in touch with one of the organisers, we may have another slot available or you can be considered for future lightning talks.</p> <p><br/>John, Mat and Richard</p> "
+  url: https://www.meetup.com/Leeds-Sharp/events/236743638/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2017-04-27T17:30:00.0000000
+  ends: 2017-04-27T20:30:00.0000000
+  venue: Future Labs
+- name: April Combined Social
+  description: "<p>After a bit of a hiatus due to travel and general life, let's get back in the swing of things by having a social meeting with our sister User Group.</p> <p><br/>Drinks &amp; discussion! Lightning may strike! What's going on with Einstein? Watson with the IBM partnership?</p> <p>For those driving, the car park at Globe Road is free in the evening (<a href=\"http://en.parkopedia.co.uk/parking/meter/globe_road/ls11/leeds/\" class=\"linkified\">http://en.parkopedia.co.uk/parking/meter/globe_road/ls11/leeds/</a>)</p> "
+  url: https://www.meetup.com/North-UK-Salesforce-Developer-User-Group/events/238697677/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/6/a/e/c/thumb_345927372.jpeg
+  starts: 2017-04-27T18:00:00.0000000
+  ends: 2017-04-27T21:00:00.0000000
+  venue: Midnight Bell pub
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/gvbctmywhbcb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-05-01T06:30:00.0000000
+  ends: 2017-05-01T09:30:00.0000000
+  venue: The Perky Peacock
