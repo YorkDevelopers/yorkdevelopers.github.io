@@ -1,27 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/238825720/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
-  starts: 2017-04-19T06:30:00.0000000
-  ends: 2017-04-19T09:30:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/239180183/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-04-19T07:00:00.0000000
-  ends: 2017-04-19T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: 'Flashtalking Driving Ad Tech Using PHP & CouchDB: Scalable NoSQL For Modern Apps'
-  description: "<p>• 18:30 – Turn up, have a drink, some pizza, and a chat. \U0001F355 \U0001F37B ☕️</p> <p><br/>• 19:00 – \"Flashtalking driving Ad Technology using PHP\" - Duren Dexter</p> <p>• 19:35 – Mid session interval</p> <p>• 19:40 – \"CouchDB: Scalable NoSQL For Modern Applications\" - Lorna Mitchell</p> <p><br/>• 20:30ish – Pop over the road to Headrow House pub (a drink or two provided)</p> <p><b>☞ \"Flashtalking driving Ad Technology using PHP\" - Duren Dexter</b></p> <p><i>Find out how Flashtalking uses PHP to build, serve and measure over 1 billion adverts a day.</i></p> <p><br/>Duren Dexter, MD of technology for Flashtalking, started his career in tech working on satellite systems while in the US Air Force as well as at MIT. He has since travelled the globe working in senior technology roles in sports betting (Betfair- Global, Skybet International) &amp; now advertising technology with Flashtalking.</p> <p><br/>Duren Dexter on Twitter: <a href=\"https://twitter.com/dexvondexter\">@dexvondexter</a></p> <p><br/><b>☞ \"CouchDB: Scalable NoSQL For Modern Applications\" - Lorna Mitchell</b></p> <p><br/><i>Come and meet CouchDB, the NoSQL store with magical powers. This session will discuss good use-cases for CouchDB and when to use it in your own applications, including new features in the 2.0 release. If you’re curious about alternative databases, fault-tolerant setup, brilliant replication and a Javascript version called PouchDB then this session is for you.</i></p> <p><br/>Lorna is a Developer Advocate for IBM Cloud Data Services, technology addict and incurable blogger.</p> <p><br/>Lorna Mitchell on Twitter: <a href=\"https://twitter.com/lornajane\">@lornajane</a></p> <p><br/><b>☞ Sponsors</b></p> <p><br/>We can't do this without them. Show them some love.</p> <p><a href=\"http://futurelabs.org.uk/\">Futurelabs</a> - (<a href=\"https://twitter.com/leedsfuturelabs\">@futurelabs</a>) The venue and soft drink providers.</p> <p>Providers of food, drinks and possibilities:</p> <p><a href=\"https://www.maplesyrupmedia.com/careers/\">Quidco/Maple Syrup Media</a> - <a href=\"https://twitter.com/quidco\">@quidco</a></p> <p><a href=\"http://skybetcareers.com/about-us\">Sky Betting &amp; Gaming</a> - <a href=\"https://twitter.com/skybetcareers\">@skybetcareers</a></p> <p><a href=\"http://inviqa.com/\">Inviqa</a> - <a href=\"https://twitter.com/inviqa\">@inviqa</a></p> "
-  url: https://www.meetup.com/leedsphp/events/238572200/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/a/e/d/thumb_455636045.jpeg
-  starts: 2017-04-19T17:30:00.0000000
-  ends: 2017-04-19T20:30:00.0000000
-  venue: Future Labs
 - name: Hands-on Kotlin - Learn some Kotlin by solving coding problems.
   description: '<p>This meet up will be an opportunity to learn to program in Kotlin and to see first-hand the many features which make Kotlin such an interesting/exciting JVM language.</p> <p>The evening will provide a range of problems which cover the key differences between Java &amp; Kotlin and a range of difficulty so that there should be something to keep every bodies brain working.</p> <p><b>6:15 - Meetup for Pizza/Snacks<br/></b></p> <p><b>6:45 - Brief Overview of Kotlin</b></p> <p><b>7:00 - Start Coding</b></p> <p><b>8:30-ish Compare Solutions</b></p> <p>We will be working in pairs so please bring your own laptop.  Ideally you will have a recent version of IntelliJ which has the Kotlin plugin installed.</p> '
   url: https://www.meetup.com/Kotlin-Yorkshire-Meetup-Group/events/238832691/
@@ -79,7 +55,7 @@
   venue: Amsource Technology
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/gvbctmywgbjc/
+  url: https://www.meetup.com/York-Code-Coffee/events/239319704/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
   starts: 2017-04-26T06:30:00.0000000
@@ -125,6 +101,13 @@
   starts: 2017-04-27T17:30:00.0000000
   ends: 2017-04-27T20:30:00.0000000
   venue: Future Labs
+- name: 'April Meetup :: Improving Customer Retention & M2 Frontend Workflow Optimisation'
+  description: "<p>The first of many Magento Leeds Meetups - Our aim over the next few months is to being some fantastic speakers from across the world to Leeds. We'll hopefully be getting a good mix of development, solutions, merchant and vendor topics! If you're interested at speaking at future events, please DM us on <a href=\"https://twitter.com/magentoleeds\">Twitter</a>.</p> <p><b>Note: </b>Magento Leeds will run on the last Thursday of every month.</p> <p><b><br/></b></p> <p><b>SCHEDULE </b></p> <p><b>6:30pm</b> Doors open, networking, food &amp; drink</p> <p><b>7:00pm</b> Rabia Qureshi, <i>Nosto</i> – Increasing Customer Lifetime Value Through Social Advertising</p> <p><b>7:30pm</b> Lewis Sellers, <i>Pinpoint</i> – Using Magento Enterprise Default Functionality to Improve Customer Lifetime Value</p> <p><b>8:00pm</b> Tom Procter – <i>PushOn</i>, Code to Browser in Less than 3 Seconds</p> <p><b>8:30pm</b> networking &amp; drinks</p> <p>\n\n\n<b>Follow us on Twitter <a href=\"https://twitter.com/magentoleeds\">@MagentoLeeds</a></b></p> <p><b><br/></b></p> <p><b>Organisers</b></p> <p><a href=\"https://twitter.com/LewisSellers\">@LewisSellers</a> &amp; <a href=\"https://twitter.com/douglasradburn\">@DouglasRadburn</a></p> "
+  url: https://www.meetup.com/Magento-Leeds/events/238618851/
+  is-free: true
+  starts: 2017-04-27T17:30:00.0000000
+  ends: 2017-04-27T20:30:00.0000000
+  venue: Duke Studios
 - name: April Combined Social
   description: "<p>After a bit of a hiatus due to travel and general life, let's get back in the swing of things by having a social meeting with our sister User Group.</p> <p><br/>Drinks &amp; discussion! Lightning may strike! What's going on with Einstein? Watson with the IBM partnership?</p> <p>For those driving, the car park at Globe Road is free in the evening (<a href=\"http://en.parkopedia.co.uk/parking/meter/globe_road/ls11/leeds/\" class=\"linkified\">http://en.parkopedia.co.uk/parking/meter/globe_road/ls11/leeds/</a>)</p> "
   url: https://www.meetup.com/North-UK-Salesforce-Developer-User-Group/events/238697677/
@@ -141,3 +124,26 @@
   starts: 2017-05-01T06:30:00.0000000
   ends: 2017-05-01T09:30:00.0000000
   venue: The Perky Peacock
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/York-Code-Coffee/events/gvbctmywhbfb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  starts: 2017-05-03T06:30:00.0000000
+  ends: 2017-05-03T09:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/239179655/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-05-03T07:00:00.0000000
+  ends: 2017-05-03T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: EnterpriseDB is organizing an 'EDB Postgres TechTalk’
+  description: "<p>On 3 May EnterpriseDB is organizing an 'EDB Postgres TechTalk’ at NHS Digital.</p> <p>This is a great opportunity for you to explore the latest PostgreSQL innovations and how EnterpriseDB is helping customers like yourself take advantage of them. It’s also a chance to network with peers in the industry facing similar challenges. Furthermore, we will walk you through EDB Ark, our new DBaaS offering for hybrid cloud deployments of Postgres to public and private clouds.</p> <p>Programme:</p> <p>2:00 to 2:30pm Reception<br/>2:30 to 2:50pm PostgreSQL<br/>2:50 to 3:10pm EDB Postgres<br/>3:10 to 3:30pm <a href=\"http://go.enterprisedb.com/P00020iAnL0NNp0F0kFBoG0\">EDB Ark</a><br/>3:30 to 4:00pm Questions</p> "
+  url: https://www.meetup.com/EDB-Postgres-TechTalk/events/238523323/
+  is-free: true
+  starts: 2017-05-03T13:00:00.0000000
+  ends: 2017-05-03T16:00:00.0000000
+  venue: NHS Digital
