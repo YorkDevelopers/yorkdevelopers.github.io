@@ -357,26 +357,11 @@
   starts: 2017-09-20T09:30:00.0000000
   ends: 2017-09-21T16:30:00.0000000
   venue: Spring Lane Building
-- name: Hands-on Kotlin - Learn some Kotlin by solving coding problems.
-  description: '<p>This meet up will be an opportunity to learn to program in Kotlin and to see first-hand the many features which make Kotlin such an interesting/exciting JVM language.</p> <p>The evening will provide a range of problems which cover the key differences between Java &amp; Kotlin and a range of difficulty so that there should be something to keep every bodies brain working.</p> <p><b>6:15 - Meetup for Pizza/Snacks<br/></b></p> <p><b>6:45 - Brief Overview of Kotlin</b></p> <p><b>7:00 - Start Coding</b></p> <p><b>8:30-ish Compare Solutions</b></p> <p>We will be working in pairs so please bring your own laptop.  Ideally you will have a recent version of IntelliJ which has the Kotlin plugin installed.</p> '
-  url: https://www.meetup.com/Kotlin-Yorkshire-Meetup-Group/events/238832691/
-  is-free: true
-  starts: 2017-04-20T17:15:00.0000000
-  ends: 2017-04-20T19:45:00.0000000
-  venue: EE - Floor 2, BT
-- name: Game Developer Monthly meeting
-  description: "<p>The Minster Inn is off Bootham, about 5 minutes walk from Bootham Bar.  It has recently been renovated, and now serves stone baked Pizza, and a good selection of Ales on tap and in bottles.  I have reserved a room from 7 for Thursday.  If you want to keep it private, shut the door; but we didn't have much trouble last time with some regulars wandering in!</p> <p><a href=\"http://minsterinn.co.uk/\"><a href=\"http://minsterinn.co.uk/\" class=\"linkified\">http://minsterinn.co.uk/</a></a></p> <p>As always, if you have something to show, feel free to bring it.  Mostly these meetings are a bunch of interesting folks chatting about Games and development over a beer.</p> <p>Regards,</p> <p><br/>Chris.</p> "
-  url: https://www.meetup.com/York-Game-Developers/events/238672963/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/9/2/4/9/thumb_434677449.jpeg
-  starts: 2017-04-20T17:45:00.0000000
-  ends: 2017-04-20T20:45:00.0000000
-  venue: Minster Inn
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/239293190/
+  url: https://www.meetup.com/YorkDevelopers/events/239293190/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-04-24T06:30:00.0000000
   ends: 2017-04-24T09:30:00.0000000
   venue: The Perky Peacock
@@ -414,15 +399,15 @@
   venue: Amsource Technology
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/239319704/
+  url: https://www.meetup.com/YorkDevelopers/events/239319704/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-04-26T06:30:00.0000000
   ends: 2017-04-26T09:30:00.0000000
   venue: The Perky Peacock
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywgbjc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/239350954/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-04-26T07:00:00.0000000
@@ -477,17 +462,17 @@
   venue: Midnight Bell pub
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/gvbctmywhbcb/
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywhbcb/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-05-01T06:30:00.0000000
   ends: 2017-05-01T09:30:00.0000000
   venue: The Perky Peacock
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/York-Code-Coffee/events/gvbctmywhbfb/
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywhbfb/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/4/d/6/c/thumb_446899820.jpeg
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-05-03T06:30:00.0000000
   ends: 2017-05-03T09:30:00.0000000
   venue: The Perky Peacock
@@ -506,6 +491,14 @@
   starts: 2017-05-03T13:00:00.0000000
   ends: 2017-05-03T16:00:00.0000000
   venue: NHS Digital
+- name: GDG Leeds - May
+  description: "<p>This month we have a talk on Machine Learning by Adam Moss, Lecturer in physics and astronomy at Nottingham University. This was scheduled last month but due to unforeseen circumstances had to be cancelled.</p> <p>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch! Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Intro</p> <p>6.20pm - Machine Learning - Adam Moss</p> <p>7.10pm - TBC</p> <p>7.50pm - Wrap up</p> <p>8.00pm - The end</p> "
+  url: https://www.meetup.com/GDG-Leeds/events/239355700/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
+  starts: 2017-05-04T17:00:00.0000000
+  ends: 2017-05-04T20:00:00.0000000
+  venue: Sky 2
 - name: 'The people behind the runes: Scandinavians in the British Isles'
   description: 'The people behind the runes: Scandinavians in the British Isles'
   url: https://www.ypsyork.org/events/the-people-behind-the-runes-scandinavians-in-the-british-isles/
