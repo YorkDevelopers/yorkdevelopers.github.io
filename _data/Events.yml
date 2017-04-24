@@ -327,6 +327,85 @@
   starts: 2017-09-20T09:30:00.0000000
   ends: 2017-09-21T16:30:00.0000000
   venue: Spring Lane Building
+- name: Nuclear Masterclass
+  description: >
+    Join the Department of Physics at the Unviversity of York for a Nuclear Masterclass: open to all students studying A level Physics (or equivalent).  
+
+    There will be two different streams running during the day: 
+
+    A: Nuclear Astrophysics
+
+    Workshop 1: The Hot CNO Cycle in Supernovae 
+
+    Discover the nuclear reactions happening in stars during stellar explosions in an activity demonstrating half-lives and the random nature of radioactive decay.  
+
+    Workshop 2: Neutron Stars and Fundamental Forces
+
+    Investigate a computer simulation of the liquid drop model of neutron stars and learn about the influence of the fundamental forces at the nuclear scale.
+
+    Workshop 3/4: Binding Blocks: Building the Universe one Nucleaus at a Time
+
+    Explore the concept and applications of binding energy through building a LEGO nuclear chart.  Follow nuclear decay chains and research the uses of different isotopes.  
+
+    B: Applications of Nuclear Physics
+
+    Workshop 1: Advanced gamma detection for nuclear experiments and applications
+
+    Utilise advanced gamma detectors to analyse energy spectra and identify unknown sources and materials.  
+
+    Workshop 2: Fusion technology 
+
+    Visit the University's Tokomak Control Room and find out about methods of creating nuclear fusion as a power source.  
+
+    Workshop 3/4: Binding Blocks: Building the Universe one Nucleaus at a Time
+
+    Explore the concept and applications of binding energy through building a LEGO nuclear chart.  Follow nuclear decay chains and research the uses of different isotopes.  
+
+    Programme:
+
+    09.45 - 10.00  Arrival
+
+    10.00 - 10.10  Welcome 
+
+    10.10 - 10.40  Lecture: An introduction to Nuclear Physics
+
+    10.40 - 10.55  Tea/Coffee
+
+    11.05 - 11.50  Workshop 1
+
+    11.55 - 12.40  Workshop 2
+
+    12.50 - 13.20  Lunch
+
+    13.30 - 14.15  Workshop 3
+
+    14.20 - 15.05  Workshop 4
+
+    15.15 - 15.45  Lecture: Cutting-Edge Nuclear Physics
+
+    15.45 - 16.00  Evaluation
+
+    Further information
+
+    Groups of less than 5 students from any one school may attend without a teacher.  However, they must have consent from both their school and parents.  
+
+    A maximum of 30 stduents may attend from any one school: 15 in each strand.  
+
+    Students are not required to be in school uniform.  
+
+    Tea/coffee/water will be available at breaks, but all attendees will need to bring a packed lunch.  
+
+    For further information about the day, please see: 
+
+    For more information about the Binding Blocks project, please see: www.york.ac.uk/physics/bindingblocks
+
+    For more information about Nuclear Physics at the Unviversity of York, please see www.york.ac.uk/physics/research/nuclear/ 
+  url: https://www.eventbrite.co.uk/e/nuclear-masterclass-tickets-33920067836?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/30626336/70544580407/1/original.jpg?h=200&w=450&rect=0,0,5112,2556&s=326d186bcc40d91a093f54a2c6c8c179
+  starts: 2017-06-22T10:00:00.0000000
+  ends: 2017-06-22T16:00:00.0000000
+  venue: Department of Physics
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/239293190/
@@ -432,7 +511,7 @@
   venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywhbcb/
+  url: https://www.meetup.com/YorkDevelopers/events/239430382/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-05-01T06:30:00.0000000
@@ -440,7 +519,7 @@
   venue: The Perky Peacock
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywhbfb/
+  url: https://www.meetup.com/YorkDevelopers/events/239430385/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-05-03T06:30:00.0000000
