@@ -13,8 +13,8 @@ p.small-even {
     color: #000000;
     font-size: 16px
 }
-p.tiny {
-    font-size: 8px
+p.standard {
+    font-size: 14px
 }
 
 a,
@@ -665,14 +665,16 @@ fieldset[disabled] .btn-success:hover {
 
 #navcontainer-odd ul li a:hover
 {
-    color: #4800FF;
-    background-color: #FFD800;
+    color: #000000;
+    background-color: #FFF;
+    font-weight: bold;
 }
 
 #navcontainer-even ul li a:hover
 {
-    color: #FFD800;
-    background-color: #4800FF;
+    color: #000000;
+    background-color: #ADD8E6;
+    font-weight: bold;
 }
 
 .event_image_right

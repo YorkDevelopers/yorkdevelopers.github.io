@@ -1,22 +1,82 @@
-<div class="col-sm-12 meetups-item">
-    <div class="caption">
-        <div>
-            {{ post.author }}
-        </div>
-        <div>
-            @{{ post.author-twitter }}
-        </div>
-        <div>
-            {{ post.author-linkedin }}
-        </div>
-        <div>
-            {{ post.title }}
-        </div>
-        <div>
-            {{ post.content }}
+{% assign blog_image = post.img %}
+
+{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+
+<section class="events-{{thecycle}}" id="events">
+
+    <div class="outer-div" style="text-align:center" id="navcontainer-{{thecycle}}">
+
+        
+
+        <div class="inner-div" id="{{ post.title | replace: ' ', ''}}">
+        
+        <br>
+        <br>
+        <br>
+
+        <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+            <ul>
+                {% if blog_image %}
+                <li>
+                    <div class="event_image_right">
+                        <img src="{{ site.baseurl }}/{{ post.img }}" class="img-rounded img-responsive" alt="" style="width:100px;height: auto;">
+                    </div>
+                </li>
+                {% endif %}
+            
+                <li>
+                    <h3 class="archive__item-title" itemprop="headline">
+                        {{ post.title }}
+                    </h3>
+                </li>   
+
+                <li>
+                    <div>
+                        {{ post.date | date_to_string }}
+                    </div>
+                </li>
+
+                <li>
+                    <div>
+                        <p itemprop="description">{{ post.content }}</p>
+                        <br>
+                    </div>
+                </li>
+
+                <li>
+                    <div>
+                        <img src="/img/blog/{{ post.author }}.jpg" alt="" class="img-rounded img-responsive" style="width:50px;height: auto;float: left; margin-right: 10px;">
+                        <b>{{ post.author }}</b>{% if post.author-bio %} <i>{{ post.author-bio }}</i>{% else %}<br><br>{% endif %}
+                    </div>
+                    <div>
+                        <br>
+                        {% if post.author-twitter %}
+                        <img src="/img/blog/twitter.png" alt="" style="width:25px;height: auto;vertical-align:middle;">
+                        <a href="https://twitter.com/{{ post.author-twitter }}">@{{ post.author-twitter }}</a>
+                        {% endif %}
+                    </div>
+                    <div>
+                        {% if post.author-linkedin %}
+                        <img src="/img/blog/linkedin.png" alt="" style="width:25px;height: auto;vertical-align:middle;">
+                        <a href="https://www.linkedin.com/in/{{ post.author-linkedin }}/">linkedin.com/in/{{ post.author-linkedin }}/</a>
+                        {% endif %}
+                    </div>
+                </li>
+
+                 <li>
+                    <div>
+                    <br>
+                    {% if post.tags %} Tags | 
+                        {% for tag in post.tags %}
+                        <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
+                        {% endfor %}
+                    {% endif %}
+                    </div>
+                </li>
+
+            </ul>
+        </article>
         </div>
     </div>
-    <img src="{{ site.baseurl }}/{{ post.img }}" class="img-rounded img-responsive" alt="">
-</div>
-                   
-            
+
+</section>   
