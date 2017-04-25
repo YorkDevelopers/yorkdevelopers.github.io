@@ -9,7 +9,17 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#page-top">{{ site.title }}</a>
+
+{% if page.url contains 'blog' %}
+                    {% assign domain = site.url | append: site.baseurl %}
+                    <a class="navbar-brand" href="/index.html">{{ site.title }}</a>
+                    {% else %}
+                    <a class="navbar-brand" href="#page-top">{{ site.title }}</a>
+                    {% endif %}
+
+
+
+            
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -36,18 +46,10 @@
                 <li class="page-scroll">
                     {% if page.url contains 'blog' %}
                     {% assign domain = site.url | append: site.baseurl %}
-                    <a href="{{ domain }}/#posts">Posts</a>
+                    <a href="{{ domain }}/#posts">News</a>
                     {% else %}
-                    <a href="#posts">Posts</a>
+                    <a href="#posts">News</a>
                     {% endif %}
-                </li>
-                <li class="page-scroll">
-                    {% if page.url contains 'blog' %}
-                    {% assign domain = site.url | append: site.baseurl %}
-                    <a href="{{ domain }}/#twitter">Tweets</a>
-                    {% else %}
-                    <a href="#twitter">Tweets</a>
-                    {% endif %}                  
                 </li>
 
                 {% for link in site.data.navigation.main %}
@@ -58,6 +60,15 @@
                     {% endif %}
                     <li class="page-scroll"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
                 {% endfor %}
+
+                <li class="page-scroll">
+                    {% if page.url contains 'blog' %}
+                    {% assign domain = site.url | append: site.baseurl %}
+                    <a href="{{ domain }}/#twitter">Tweets</a>
+                    {% else %}
+                    <a href="#twitter">Tweets</a>
+                    {% endif %}                  
+                </li>
 
             </ul>
         </div>
