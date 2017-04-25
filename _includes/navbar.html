@@ -18,16 +18,36 @@
                     <a href="#page-top"></a>
                 </li>
                 <li class="page-scroll">
+                    {% if page.url contains 'blog' %}
+                    {% assign domain = site.url | append: site.baseurl %}
+                    <a href="{{ domain }}/#about">About</a>
+                    {% else %}
                     <a href="#about">About</a>
+                    {% endif %}
                 </li>
                 <li class="page-scroll">
+                    {% if page.url contains 'blog' %}
+                    {% assign domain = site.url | append: site.baseurl %}
+                    <a href="{{ domain }}/#meetups">Our Meetups</a>
+                    {% else %}
                     <a href="#meetups">Our Meetups</a>
+                    {% endif %}
                 </li>
                 <li class="page-scroll">
-                    <a href="#posts">Our Posts</a>
+                    {% if page.url contains 'blog' %}
+                    {% assign domain = site.url | append: site.baseurl %}
+                    <a href="{{ domain }}/#posts">Posts</a>
+                    {% else %}
+                    <a href="#posts">Posts</a>
+                    {% endif %}
                 </li>
                 <li class="page-scroll">
+                    {% if page.url contains 'blog' %}
+                    {% assign domain = site.url | append: site.baseurl %}
+                    <a href="{{ domain }}/#twitter">Tweets</a>
+                    {% else %}
                     <a href="#twitter">Tweets</a>
+                    {% endif %}                  
                 </li>
 
                 {% for link in site.data.navigation.main %}
