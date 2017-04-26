@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Mission Statement"
 date:   2017-04-24 15:08:10 -0500
 img: img/blog/york-dot-developers-small.png

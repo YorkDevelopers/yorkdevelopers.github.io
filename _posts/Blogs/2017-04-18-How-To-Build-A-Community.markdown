@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How To Build A Community"
 date:   2017-04-25 15:08:10 -0500
 img: img/blog/meetup_blue_icon.png
