@@ -41,7 +41,7 @@
                 <li>
                     <div>
                         {% if post.author %}
-                        <img src="/img/blog/{{ post.author }}.jpg" alt="" class="img-rounded img-responsive" style="width:50px;height: auto;float: left; margin-right: 10px;">
+                        <img src="/img/blog/{{ post.author | downcase }}.jpg" alt="" class="img-rounded img-responsive" style="width:50px;height: auto;float: left; margin-right: 10px;">
                         <b>{{ post.author }}</b>{% if post.author-bio %} <i>{{ post.author-bio }}</i>{% else %}<br><br>{% endif %}
                         {% endif %}
                     </div>

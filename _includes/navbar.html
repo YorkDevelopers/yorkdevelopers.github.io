@@ -10,15 +10,12 @@
                 <span class="icon-bar"></span>
             </button>
 
-{% if page.url contains 'blog' %}
-                    {% assign domain = site.url | append: site.baseurl %}
-                    <a class="navbar-brand" href="/index.html">{{ site.title }}</a>
-                    {% else %}
-                    <a class="navbar-brand" href="#page-top">{{ site.title }}</a>
-                    {% endif %}
-
-
-
+            {% if page.url contains 'blog' %}
+            {% assign domain = site.url | append: site.baseurl %}
+            <a class="navbar-brand" href="/index.html">{{ site.title }}</a>
+            {% else %}
+            <a class="navbar-brand" href="#page-top">{{ site.title }}</a>
+            {% endif %}
             
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
