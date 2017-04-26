@@ -1,19 +1,3 @@
-- name: 'Tech//Connect: LiveCode in the Code Dojo'
-  description: "<p><img src=\"https://secure.meetupstatic.com/photos/event/b/9/0/8/600_459587368.jpeg\" /></p> <p>\n\n\nEver since we moved on from machine code, programmers have been looking for the next best abstraction to represent our systems.  For a long time, objects seemed to fit the bill - conceptually simple, easy to work with, a good way to split up code.  But with the move to increasingly server-based systems and the need for easy parallelisation, the functional style previously used only by beardy academics has stepped into the limelight.</p> <p>\n\nSome say this functional nonsense is just a flash in the pan, the hipster programmer's flavour of the month.  I mean, who wants to swap object hierarchies and encapsulation for closures and monads?  Others say just because the world is made of objects doesn't mean our code should be - and besides, nobody really does proper OO anyway!</p> <p>\n\nSo which is the better paradigm, Object Oriented or Functional?  Tonight, we will find out once and for all!</p> <p>\n\nWe'll split you into roughly even groups of Functional Fans and Object-Oriented Aficionados, and get you to code solutions using your preferred style.  Within each group you'll be working in pairs on your own solution, so you can use whichever language you like.  Once coding time is up, we'll employ a sophisticated static analysis algorithm to prove mathematically which set of solutions is better.  That, or we'll just pick which ones look nice..</p> <p>\n\nThis night is suitable for anyone with at least a basic knowledge of programming, although an understanding of Functional or OO will help. Bring a laptop, if you can, with your choice of language ready for action.  If you can't, we'll pair you up with someone - hopefully with at least the same preferred programming style, if not the same preferred language!</p> <p>Food and drink will be provided.</p> <p>\n\nTo secure your space at this event please email us at : </p> <p><a href=\"http://www.amsourcetechnology.com/events/techconnect@amsourcetechnology.co\">techconnect@amsourcetechnology.com</a></p> "
-  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/237786305/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
-  starts: 2017-04-25T17:00:00.0000000
-  ends: 2017-04-25T20:00:00.0000000
-  venue: Amsource Technology
-- name: 'Coding Deathmatch: OO vs Functional @ TechConnect'
-  description: "<p>This month we'll find out once and for all which is the better paradigm - Object Oriented or Functional?</p> <p>Note the different day and venue!  This will be a joint session with Leeds Code Dojo and Tech//Connect, as part of Leeds Digital Festival.</p> <p>\n\n\nSee the <a href=\"http://leedscodedojo.github.io/\">Leeds Code Dojo website</a> for further info.</p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/239128577/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2017-04-25T17:00:00.0000000
-  ends: 2017-04-25T20:00:00.0000000
-  venue: Amsource Technology
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/239319704/
