@@ -59,6 +59,20 @@
   starts: 2017-04-27T17:30:00.0000000
   ends: 2017-04-27T20:20:00.0000000
   venue: Your Bike Shed
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here and the Astrocampus is labelled 'Observatory'.  Acess is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-33498994394?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
+  starts: 2017-05-11T18:30:00.0000000
+  ends: 2017-05-11T19:30:00.0000000
 - name: 'Green Manufacturing for the 21st Century Chemical Industry: Case studies, methodologies and tools'
   description: "Increasing demand for chemicals worldwide, depleting resources, stricter legislation and the rising cost of waste disposal are placing increasing pressure on the chemical and related industries.  For any organisation to survive in the current climate, the issue of sustainability must be fundamental to the way it operates.   This free workshop provides an exciting opportunity to gain advice and scientific expertise, explore a broad range of cutting-edge case studies on green chemical manufacturing and learn about the methodologies and tools available to facilitate practical solutions. The workshop is open to all with an interest in the future of sustainable manufacturing.  The programme for the day includes:\n\n Industrial case studies from Croda, Thomas Swan, GSK and Biome\n Insight into Industrial Decarbonisation and Energy Efficiency Roadmaps to 2050\n Drivers for change including the Business Case for Green and REACH \n Guidance on the transition to green manufacturing and circular economy\n Guidance on greener solvent selection and substitution\n Platform molecules and clean synthesis\n Online learning resources and associated tools including metrics and solvent selection\n Opportunities for knowledge transfer, discussion and networking\n\n Speakers\nMike Lancaster, Chemical Industries Association\nDr Simon Grant, Thomas Swan & Co. Ltd\nTerry Thistlethwaite, Croda International plc\nPaul Mines, Biome Technologies plc\nDr John Hayler, GlaxoSmithKline plc\nJo Lloyd, ERM\nProf. Peter Ball, University of York\nDr Rob McElroy, University of York\nDr James Sherwood, University of York\nDr Tom Farmer, University of York\nLouise Summerton, University of York\nRick Taylor, University of York\nThis event is being co-organised by CHEM21 (www.chem21.eu), the Chemical Industries Association and the Green Chemistry Centre of Excellence at the University of York.\nCHEM21 is Europe’s largest public-private partnership dedicated to the development of manufacturing sustainable pharmaceuticals and brings together six pharmaceutical com-panies (GlaxoSmithKline, Bayer, Janssen, Orion, Pfizer and Sanofi), 13 Universities and four small to medium enterprises from across Europe (www.chem21.eu). CHEM21 has received funding from the Innovative Medicines Initiative Joint Undertaking under grant agreement n°115360, resources of which are composed of financial contribution from the European Union’s Seventh Framework Programme. (FP7/2007-2013) and EFPIA companies’ in kind contribution. www.imi.europa.eu\n\n\n \n\n"
   url: https://www.eventbrite.co.uk/e/green-manufacturing-for-the-21st-century-chemical-industry-case-studies-methodologies-and-tools-tickets-32618322280?aff=ebapi
@@ -102,26 +116,12 @@
     Please be seated by 1pm so the entrants are not disturbed mid-presentation.
 
 
-  url: https://www.eventbrite.co.uk/e/falling-walls-research-theme-heats-tickets-33393833856?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/falling-walls-research-theme-heats-tickets-33393834859?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/29994716/99962846797/1/original.jpg?h=200&w=450&rect=0,118,4252,2126&s=556516a6f21ca2279227cc56aa1c90ec
-  starts: 2017-04-26T12:45:00.0000000
-  ends: 2017-04-26T15:00:00.0000000
+  starts: 2017-04-27T12:45:00.0000000
+  ends: 2017-04-27T15:00:00.0000000
   venue: Bowland Auditorium
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here and the Astrocampus is labelled 'Observatory'.  Acess is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-33498994394?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
-  starts: 2017-05-11T18:30:00.0000000
-  ends: 2017-05-11T19:30:00.0000000
 - name: 'Science Places and Things: a York Walk'
   description: >
     Part of the York Festival of Ideas; Organised by the York Science Trails Group.
@@ -456,38 +456,6 @@
   starts: 2017-06-13T14:00:00.0000000
   ends: 2017-06-13T17:00:00.0000000
   venue: The Ron Cooke Hub
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/239319704/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-04-26T06:30:00.0000000
-  ends: 2017-04-26T09:30:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/239350954/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-04-26T07:00:00.0000000
-  ends: 2017-04-26T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Leeds Digital Festival Special
-  description: '<p>Come and join us for our fun third outing for 2017, and to experience two fabulous  "out of this world" talks. We aim to engage with our new project that looks to the stars, and we will serve you a game that will ace your agile thinking.</p> <p><b>Session One: The Equal Experts Space Agency</b></p> <p>Nick Porthouse &amp; Tim Squires, Equal Experts</p> <p>Description: "Not content with expanding internationally over the last few years, in 2017 we’re heading into the stratosphere with the launch of EESA – Equal Experts Space Agency. EESA is supporting EE Associate and Technical Architect Tim Squires in his attempt to break a Guinness World Record. Join us for the ride…"</p> <p><b>Session Two:  Ball Point Game - taking it further</b></p> <p>Bethan Timmins, Delivery Manager, Equal Experts</p> <p>Description: "The Ball Point Game by Boris Gloger is one of the most famous Agile games to help teach people the basic concepts behind Agile delivery.  It allows Participants  to understand the basic principles of a scrum team and the concepts of velocity, Fixed time box delivery, self organisation and communication.</p> <p><br/>However for those of us that have been working within agile teams for a while how can you use this game to highlight specific issues your project team is facing.  This session will go through the Ball Point game and Highlight how it can be used to tackle specific project problems and where you can use it to help your organisation"</p> <p>Pizza and drinks will be provided as usual.</p> <p>See you there</p> '
-  url: https://www.meetup.com/Expert-Talks-Leeds/events/238389075/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
-  starts: 2017-04-26T17:00:00.0000000
-  ends: 2017-04-26T20:00:00.0000000
-  venue: 'The White Cloth Gallery '
-- name: April - Alex Fenton & Thiruppathi Muthukumar
-  description: "<p>Hey there Javascripters!</p> <p>We've got a couple of great talks this month and we're really looking forward to them. Our meetup this month is also part of <a href=\"http://leedsdigitalfestival.org/\">Leeds Digital Festival</a> which is full of awesome events, so be sure to give it a look!</p> <p>First up this month we have Alex Fenton (<a href=\"https://twitter.com/afeno90\">@afeno90</a>) who will be giving a talk titled \"Atomic UI design with React.js\".</p> <p>Here is a brief intro from Alex:</p> <p><i>\"What has really made React.js work at Sky is the approach we have taken using atomic design.</i></p> <p><i>I will talk about how atomic design has worked for us and how it can work for others developing large applications.</i></p> <p><i>When paired together atomic design and React.js make for a great development experience, and allows developers, and UX designers to make design decisions that can be propagated through a large application at pace.</i></p> <p><i>As part of this talk I plan to give details of the technologies I used when implementing components at an atom (i.e. Button) and molecule (i.e. Price Panel) level, and the potential benefits that can be seen in production when adopting this approach.\"</i></p> <p>Next up we have Thiru Muthukumar (<a href=\"https://twitter.com/Thiruppathi\">@Thiruppathi</a>) introducing us to Polymer with his talk titled \"Simplify &amp; Amplify with Polymer\".</p> <p>Here is a brief intro from Thiru:</p> <p><i>\"Are you looking to build a cutting edge web app?</i></p> <p><i>In the era of framework fatigue, #UseThePlatform and leverage new web platform primitives to build a better web! In this talk, I'll talk about WebComponents &amp; Polymer and how we can Simplify the app development.\"</i></p> <p>The talks start at around 7:00, but most people show up from 6:45 for pizza and to network and chat about all things JavaScript before the talk. After the talk we’ll be heading over to Headrow House to have a drink and to chat some more.</p> <p>The door to get in is shown here:</p> <p><a href=\"https://lh4.googleusercontent.com/cEGXIalBzTbsvm3bPciWV2VwonK6rte9SgwMNPH8uC9OtHU7aL5Hyv_yWi4kHhk6l2XytvF5pkomT4KiBkBYY5EN19luW5kOuiv6vOdZ2cjHqhWh5ZaLBeAEc8Hs1qiN_K5iliDE\" class=\"linkified\">https://lh4.googleusercontent.com/cEGXIalBzTbsvm3bPciWV2VwonK6rte9SgwMNPH8uC9OtHU7aL5Hyv_yWi4kHhk6l2XytvF5pkomT4KiBkBYY5EN19luW5kOuiv6vOdZ2cjHqhWh5ZaLBeAEc8Hs1qiN_K5iliDE</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
-  url: https://www.meetup.com/LeedsJS/events/239033834/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2017-04-26T17:45:00.0000000
-  ends: 2017-04-26T20:45:00.0000000
-  venue: Future Labs
 - name: Lightning talks
   description: "<p>We will be hosting an eclectic mix of lightning talks (10-15 minutes) plus questions. We have confirmed:</p> <p><br/>• Nawaz Mohammed - Azure (PaaS, IaaS, App Service, Service Bus, Functions and more)</p> <p>• Kieron McIntyre - NHibernate and me</p> <p><br/>• Kevin Smith - MongoDb</p> <p><br/>• John Staveley - TypeScript and EcmaScript 6</p> <p><br/>• Tim Brown - SpecFlow</p> <p>\n\n\n\nIf you want to give a talk on a .Net related subject then please get in touch with one of the organisers, we may have another slot available or you can be considered for future lightning talks.</p> <p><br/>John, Mat and Richard</p> "
   url: https://www.meetup.com/Leeds-Sharp/events/236743638/
@@ -496,6 +464,13 @@
   starts: 2017-04-27T17:30:00.0000000
   ends: 2017-04-27T20:30:00.0000000
   venue: Future Labs
+- name: 'April Meetup :: Improving Customer Retention & M2 Frontend Workflow Optimisation'
+  description: "<p>The first of many Magento Leeds Meetups - Our aim over the next few months is to being some fantastic speakers from across the world to Leeds. We'll hopefully be getting a good mix of development, solutions, merchant and vendor topics! If you're interested at speaking at future events, please DM us on <a href=\"https://twitter.com/magentoleeds\">Twitter</a>.</p> <p><b>Note: </b>Magento Leeds will run on the last Thursday of every month.</p> <p><b><br/></b></p> <p><b>SCHEDULE </b></p> <p><b>6:30pm</b> Doors open, networking, food &amp; drink</p> <p><b>7:00pm</b> Rabia Qureshi, <i>Nosto</i> – Increasing Customer Lifetime Value Through Social Advertising</p> <p><b>7:30pm</b> Lewis Sellers, <i>Pinpoint</i> – Using Magento Enterprise Default Functionality to Improve Customer Lifetime Value</p> <p><b>8:00pm</b> Tom Procter – <i>PushOn</i>, Code to Browser in Less than 3 Seconds</p> <p><b>8:30pm</b> networking &amp; drinks</p> <p>\n\n\n<b>Follow us on Twitter <a href=\"https://twitter.com/magentoleeds\">@MagentoLeeds</a></b></p> <p><b><br/></b></p> <p><b>Organisers</b></p> <p><a href=\"https://twitter.com/LewisSellers\">@LewisSellers</a> &amp; <a href=\"https://twitter.com/douglasradburn\">@DouglasRadburn</a></p> "
+  url: https://www.meetup.com/Magento-Leeds/events/238618851/
+  is-free: true
+  starts: 2017-04-27T17:30:00.0000000
+  ends: 2017-04-27T20:30:00.0000000
+  venue: Duke Studios
 - name: April Combined Social
   description: "<p>After a bit of a hiatus due to travel and general life, let's get back in the swing of things by having a social meeting with our sister User Group.</p> <p><br/>Drinks &amp; discussion! Lightning may strike! What's going on with Einstein? Watson with the IBM partnership?</p> <p>For those driving, the car park at Globe Road is free in the evening (<a href=\"http://en.parkopedia.co.uk/parking/meter/globe_road/ls11/leeds/\" class=\"linkified\">http://en.parkopedia.co.uk/parking/meter/globe_road/ls11/leeds/</a>)</p> "
   url: https://www.meetup.com/North-UK-Salesforce-Developer-User-Group/events/238697677/
@@ -558,13 +533,30 @@
   starts: 2017-05-08T06:30:00.0000000
   ends: 2017-05-08T09:30:00.0000000
   venue: The Perky Peacock
-- name: Spring Social
-  description: A chance to enjoy the company of fellow members, supper and some lively games and entertainment.
-  url: https://www.ypsyork.org/events/spring-social-2/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/01/Beechwood-Close-2-200x125.jpg
-  starts: 2017-04-26T18:30:00.0000000
-  ends: 2017-04-26T20:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/beechwood-close-hotel/" title="Beechwood Close Hotel">Beechwood Close Hotel</a>
+- name: Amazing Mazes with Chris
+  description: "<p>For our session in May we'll get lost together, looking at various ways to generate mazes.  </p> <p>As usual, the session will begin with a description of the problem, followed by grouping into pairs to work on it, and brief presentation of solutions at the end.  This means you need to find somebody to work with on the day.  All languages are OK to use - as long as you can find somebody to pair with!  Bring a laptop, with plenty of charge :) </p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend.  Students very welcome!</p> <p>NOTE: Food in pizza form will be provided.  On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p><i>The room for the York Code Dojo is FT/211. This is located in the Fountains learning Centre on the second floor. Simply go into the library and either take the lift of walk up the stairs to the second floor. When you come out of either, walk along the open corridor reading the door signs and FT/211 is on your right.</i> </p> <p><br/>Sponsored by York St. John University.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> "
+  url: https://www.meetup.com/York-Code-Dojo/events/238275879/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-05-10T17:30:00.0000000
+  ends: 2017-05-10T20:30:00.0000000
+  venue: Room FT/211 York St John University
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/239430387/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-05-10T06:30:00.0000000
+  ends: 2017-05-10T09:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/239350701/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-05-10T07:00:00.0000000
+  ends: 2017-05-10T10:00:00.0000000
+  venue: La Bottega Milanese
 - name: Geology on the Rails
   description: >-
     <strong>&#8220;Geology on the Rails&#8221;<br />
@@ -629,9 +621,10 @@
 - name: Coldstones Cut and Stump Cross Cavern
   description: This is an advance notice of an unusual proposed trip to visit a show cave and a unique sculpture/maze on a vantage point overlooking not only some superb scenery, but also a working quarry. If you are interested, either contact <strong>Paul Thornley</strong> directly (<a href="mailto:&#x79;&#x70;&#x73;&#x67;&#x65;&#x6f;&#x6c;&#x6f;&#x67;&#x79;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x79;&#x70;&#x73;&#x67;&#x65;&#x6f;&#x6c;&#x6f;&#x67;&#x79;&#x40;<span class="oe_displaynone">null</span>&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a>   tel  07810 402684) <strong>or</strong> complete the form below and return it to the YPS Lodge as soon as you can, and anyway by <strong>Friday 28 April 2017</strong>. Please enclose two  SAEs or your email address.  Paul will send you more details and a booking form as soon as details are finalised.
   url: https://www.ypsyork.org/events/coldstones-cut-and-stump-cross-cavern/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/04/Coldstone2-200x125.jpg
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/02/Volcanoe-200x125.jpg
   starts: 2017-06-08T08:15:00.0000000
   ends: 2017-06-08T10:15:00.0000000
+  venue: 13 Jun 2017
 - name: Volcanoes and their Health Hazards
   description: Volcanoes and their health hazards
   url: https://www.ypsyork.org/events/volcanoes-and-their-health-hazards/
