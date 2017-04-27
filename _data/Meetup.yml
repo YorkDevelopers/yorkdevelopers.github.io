@@ -1,35 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/239319704/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-04-26T06:30:00.0000000
-  ends: 2017-04-26T09:30:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/239350954/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-04-26T07:00:00.0000000
-  ends: 2017-04-26T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Leeds Digital Festival Special
-  description: '<p>Come and join us for our fun third outing for 2017, and to experience two fabulous  "out of this world" talks. We aim to engage with our new project that looks to the stars, and we will serve you a game that will ace your agile thinking.</p> <p><b>Session One: The Equal Experts Space Agency</b></p> <p>Nick Porthouse &amp; Tim Squires, Equal Experts</p> <p>Description: "Not content with expanding internationally over the last few years, in 2017 we’re heading into the stratosphere with the launch of EESA – Equal Experts Space Agency. EESA is supporting EE Associate and Technical Architect Tim Squires in his attempt to break a Guinness World Record. Join us for the ride…"</p> <p><b>Session Two:  Ball Point Game - taking it further</b></p> <p>Bethan Timmins, Delivery Manager, Equal Experts</p> <p>Description: "The Ball Point Game by Boris Gloger is one of the most famous Agile games to help teach people the basic concepts behind Agile delivery.  It allows Participants  to understand the basic principles of a scrum team and the concepts of velocity, Fixed time box delivery, self organisation and communication.</p> <p><br/>However for those of us that have been working within agile teams for a while how can you use this game to highlight specific issues your project team is facing.  This session will go through the Ball Point game and Highlight how it can be used to tackle specific project problems and where you can use it to help your organisation"</p> <p>Pizza and drinks will be provided as usual.</p> <p>See you there</p> '
-  url: https://www.meetup.com/Expert-Talks-Leeds/events/238389075/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
-  starts: 2017-04-26T17:00:00.0000000
-  ends: 2017-04-26T20:00:00.0000000
-  venue: 'The White Cloth Gallery '
-- name: April - Alex Fenton & Thiruppathi Muthukumar
-  description: "<p>Hey there Javascripters!</p> <p>We've got a couple of great talks this month and we're really looking forward to them. Our meetup this month is also part of <a href=\"http://leedsdigitalfestival.org/\">Leeds Digital Festival</a> which is full of awesome events, so be sure to give it a look!</p> <p>First up this month we have Alex Fenton (<a href=\"https://twitter.com/afeno90\">@afeno90</a>) who will be giving a talk titled \"Atomic UI design with React.js\".</p> <p>Here is a brief intro from Alex:</p> <p><i>\"What has really made React.js work at Sky is the approach we have taken using atomic design.</i></p> <p><i>I will talk about how atomic design has worked for us and how it can work for others developing large applications.</i></p> <p><i>When paired together atomic design and React.js make for a great development experience, and allows developers, and UX designers to make design decisions that can be propagated through a large application at pace.</i></p> <p><i>As part of this talk I plan to give details of the technologies I used when implementing components at an atom (i.e. Button) and molecule (i.e. Price Panel) level, and the potential benefits that can be seen in production when adopting this approach.\"</i></p> <p>Next up we have Thiru Muthukumar (<a href=\"https://twitter.com/Thiruppathi\">@Thiruppathi</a>) introducing us to Polymer with his talk titled \"Simplify &amp; Amplify with Polymer\".</p> <p>Here is a brief intro from Thiru:</p> <p><i>\"Are you looking to build a cutting edge web app?</i></p> <p><i>In the era of framework fatigue, #UseThePlatform and leverage new web platform primitives to build a better web! In this talk, I'll talk about WebComponents &amp; Polymer and how we can Simplify the app development.\"</i></p> <p>The talks start at around 7:00, but most people show up from 6:45 for pizza and to network and chat about all things JavaScript before the talk. After the talk we’ll be heading over to Headrow House to have a drink and to chat some more.</p> <p>The door to get in is shown here:</p> <p><a href=\"https://lh4.googleusercontent.com/cEGXIalBzTbsvm3bPciWV2VwonK6rte9SgwMNPH8uC9OtHU7aL5Hyv_yWi4kHhk6l2XytvF5pkomT4KiBkBYY5EN19luW5kOuiv6vOdZ2cjHqhWh5ZaLBeAEc8Hs1qiN_K5iliDE\" class=\"linkified\">https://lh4.googleusercontent.com/cEGXIalBzTbsvm3bPciWV2VwonK6rte9SgwMNPH8uC9OtHU7aL5Hyv_yWi4kHhk6l2XytvF5pkomT4KiBkBYY5EN19luW5kOuiv6vOdZ2cjHqhWh5ZaLBeAEc8Hs1qiN_K5iliDE</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
-  url: https://www.meetup.com/LeedsJS/events/239033834/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2017-04-26T17:45:00.0000000
-  ends: 2017-04-26T20:45:00.0000000
-  venue: Future Labs
 - name: Lightning talks
   description: "<p>We will be hosting an eclectic mix of lightning talks (10-15 minutes) plus questions. We have confirmed:</p> <p><br/>• Nawaz Mohammed - Azure (PaaS, IaaS, App Service, Service Bus, Functions and more)</p> <p>• Kieron McIntyre - NHibernate and me</p> <p><br/>• Kevin Smith - MongoDb</p> <p><br/>• John Staveley - TypeScript and EcmaScript 6</p> <p><br/>• Tim Brown - SpecFlow</p> <p>\n\n\n\nIf you want to give a talk on a .Net related subject then please get in touch with one of the organisers, we may have another slot available or you can be considered for future lightning talks.</p> <p><br/>John, Mat and Richard</p> "
   url: https://www.meetup.com/Leeds-Sharp/events/236743638/
@@ -38,6 +6,13 @@
   starts: 2017-04-27T17:30:00.0000000
   ends: 2017-04-27T20:30:00.0000000
   venue: Future Labs
+- name: 'April Meetup :: Improving Customer Retention & M2 Frontend Workflow Optimisation'
+  description: "<p>The first of many Magento Leeds Meetups - Our aim over the next few months is to being some fantastic speakers from across the world to Leeds. We'll hopefully be getting a good mix of development, solutions, merchant and vendor topics! If you're interested at speaking at future events, please DM us on <a href=\"https://twitter.com/magentoleeds\">Twitter</a>.</p> <p><b>Note: </b>Magento Leeds will run on the last Thursday of every month.</p> <p><b><br/></b></p> <p><b>SCHEDULE </b></p> <p><b>6:30pm</b> Doors open, networking, food &amp; drink</p> <p><b>7:00pm</b> Rabia Qureshi, <i>Nosto</i> – Increasing Customer Lifetime Value Through Social Advertising</p> <p><b>7:30pm</b> Lewis Sellers, <i>Pinpoint</i> – Using Magento Enterprise Default Functionality to Improve Customer Lifetime Value</p> <p><b>8:00pm</b> Tom Procter – <i>PushOn</i>, Code to Browser in Less than 3 Seconds</p> <p><b>8:30pm</b> networking &amp; drinks</p> <p>\n\n\n<b>Follow us on Twitter <a href=\"https://twitter.com/magentoleeds\">@MagentoLeeds</a></b></p> <p><b><br/></b></p> <p><b>Organisers</b></p> <p><a href=\"https://twitter.com/LewisSellers\">@LewisSellers</a> &amp; <a href=\"https://twitter.com/douglasradburn\">@DouglasRadburn</a></p> "
+  url: https://www.meetup.com/Magento-Leeds/events/238618851/
+  is-free: true
+  starts: 2017-04-27T17:30:00.0000000
+  ends: 2017-04-27T20:30:00.0000000
+  venue: Duke Studios
 - name: April Combined Social
   description: "<p>After a bit of a hiatus due to travel and general life, let's get back in the swing of things by having a social meeting with our sister User Group.</p> <p><br/>Drinks &amp; discussion! Lightning may strike! What's going on with Einstein? Watson with the IBM partnership?</p> <p>For those driving, the car park at Globe Road is free in the evening (<a href=\"http://en.parkopedia.co.uk/parking/meter/globe_road/ls11/leeds/\" class=\"linkified\">http://en.parkopedia.co.uk/parking/meter/globe_road/ls11/leeds/</a>)</p> "
   url: https://www.meetup.com/North-UK-Salesforce-Developer-User-Group/events/238697677/
@@ -100,3 +75,27 @@
   starts: 2017-05-08T06:30:00.0000000
   ends: 2017-05-08T09:30:00.0000000
   venue: The Perky Peacock
+- name: Amazing Mazes with Chris
+  description: "<p>For our session in May we'll get lost together, looking at various ways to generate mazes.  </p> <p>As usual, the session will begin with a description of the problem, followed by grouping into pairs to work on it, and brief presentation of solutions at the end.  This means you need to find somebody to work with on the day.  All languages are OK to use - as long as you can find somebody to pair with!  Bring a laptop, with plenty of charge :) </p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend.  Students very welcome!</p> <p>NOTE: Food in pizza form will be provided.  On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p><i>The room for the York Code Dojo is FT/211. This is located in the Fountains learning Centre on the second floor. Simply go into the library and either take the lift of walk up the stairs to the second floor. When you come out of either, walk along the open corridor reading the door signs and FT/211 is on your right.</i> </p> <p><br/>Sponsored by York St. John University.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> "
+  url: https://www.meetup.com/York-Code-Dojo/events/238275879/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-05-10T17:30:00.0000000
+  ends: 2017-05-10T20:30:00.0000000
+  venue: Room FT/211 York St John University
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/239430387/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-05-10T06:30:00.0000000
+  ends: 2017-05-10T09:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/239350701/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-05-10T07:00:00.0000000
+  ends: 2017-05-10T10:00:00.0000000
+  venue: La Bottega Milanese
