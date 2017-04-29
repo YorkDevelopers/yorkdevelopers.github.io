@@ -79,6 +79,21 @@
   logo: https://cdn.evbuc.com/images/30693819/121126826831/1/original.jpg?h=200&w=450&rect=0,0,436,218&s=0ce19e3e297bc41aeb46cdf256f19213
   starts: 2017-05-10T12:30:00.0000000
   ends: 2017-05-10T14:00:00.0000000
+- name: Technology for All? A story of bias in design
+  description: >-
+    Join us for a behind-the-scenes look at how ‘things’ are designed. This interactive workshop will explore how technologies have been developed – consciously or not – to favour certain users. Civil engineer Carolyn Dougherty will then explore ‘universal design’, showing how technology can be for everyone if challenges are met with common sense and empathy. Early booking is advised for the workshop as numbers are limited.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/technology-for-all-a-story-of-bias-in-design-tickets-33994709090?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/30703082/22468345120/1/original.jpg?h=200&w=450&rect=11,0,1016,508&s=7a5add895ae97d4798c9c55e58ce658b
+  starts: 2017-06-13T14:00:00.0000000
+  ends: 2017-06-13T17:00:00.0000000
+  venue: The Ron Cooke Hub
 - name: 'York Science Trails Group: 12 noon on 2nd Monday of each month'
   description: "                   York  Science  Trails:   a new project\n\n                             Diversifying  York's  history \nvia Science, Technology, Engineering,  Medicine and  Mathematics.\n\n                        Will you or your group(s) get involved ?\n\nOpen Meetings: 2nd Monday of each month\n12 noon; King’s Manor Refectory\n                             email  JOHN BIBBY    jb43@york.ac.uk\n\n===\nFor details of special event in June 2017, please see  yorksciencetrail.eventbrite.com\nThis link, for the regular monthly meetings, is yorksciencetrails.eventbrite.com\n                                 \n\n===================\n                                    MORE  DETAILS  FOLLOWING  SOON!\n\n====   SEE BELOW FOR TEXT RELATING TO OUR FIRST MEETING ON 5 DECEMBER:\nThis is an OPEN meeting to discuss a proposed Science Trail for York. Please sign up if you are interested, even if you cannot come to the meeting. And tell your friends!\nDetails to follow: an aim is to eventually include all science-related places in York.\nWhat is \"Science\"?  We take a broad definition. It certainly includes all of \"STEMM\": Science, Technology, Engineering, Medicine and Mathematics.\nWhat do we mean by \"York\"?  Again, our definition is broad. We can include outliers such as Cayley/ Scarborough/ Whitby/ Castle Howard etc.. However, initially we shall focus on places walkable from York city centre. Examples are below. But if you want to include something else, please join us! \nHow will this get published? All avenues are possible. Online, on-paper, on-air. Apps and baps and flaps. We want to rach and energise as many people as possible.\nWho is behind this? If the idea fails, you can blame John Bibby. If it succeeds, there will be many parents! So far we have had welcome inputs from the Yorkshire Philosophical Society, U3A, York Past and Present, Timeline York, York Bus Forum, local history societies and even a few schools and universities  I am sure we will get many more!\nPlease give some examples.  Some locations will be well-known, such as:\n\nCholera burial-ground\nNational Railway Museum\nTreasurer’s House\n\nBut we will also include lesser-known places & stories such as Thomas Laycock and the People’s Dispensary. I’d like all Local History groups to provide suggestions for inclusion from their local areas.\nOne idea is for the trail to zigzag round the city walls in a clockwise direction, starting and finish at the railway station. Plans are still at an early stage. The first thing to do is to develop a list of possible points on the trail, along with a list of potential partner organisations and individuals. Please volunteer or let John Bibby have your nominations for both of these lists.\nJohn can be contacted via jb43@york.ac.uk or on 01904-330334.\nPlease forward this link to anyone who might be interested!"
   url: https://www.eventbrite.co.uk/e/york-science-trails-group-12-noon-on-2nd-monday-of-each-month-tickets-33542501525?aff=ebapi
@@ -366,21 +381,6 @@
   starts: 2017-06-12T12:00:00.0000000
   ends: 2017-06-12T13:00:00.0000000
   venue: Yorkshire Museum (outside)
-- name: Technology for All? A story of bias in design
-  description: >-
-    Join us for a behind-the-scenes look at how ‘things’ are designed. This interactive workshop will explore how technologies have been developed – consciously or not – to favour certain users. Civil engineer Carolyn Dougherty will then explore ‘universal design’, showing how technology can be for everyone if challenges are met with common sense and empathy. Early booking is advised for the workshop as numbers are limited.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/technology-for-all-a-story-of-bias-in-design-tickets-33994709090?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/30703082/22468345120/1/original.jpg?h=200&w=450&rect=11,0,1016,508&s=7a5add895ae97d4798c9c55e58ce658b
-  starts: 2017-06-13T14:00:00.0000000
-  ends: 2017-06-13T17:00:00.0000000
-  venue: The Ron Cooke Hub
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/239430382/
@@ -413,7 +413,7 @@
   ends: 2017-05-03T16:00:00.0000000
   venue: NHS Digital
 - name: GDG Leeds - May
-  description: "<p>This month we have a talk on Machine Learning by Adam Moss, Lecturer in physics and astronomy at Nottingham University. This was scheduled last month but due to unforeseen circumstances had to be cancelled.</p> <p>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch! Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Intro</p> <p>6.20pm - Machine Learning - Adam Moss</p> <p>7.10pm - TBC</p> <p>7.50pm - Wrap up</p> <p>8.00pm - The end</p> "
+  description: "<p>This month we have a talk on Machine Learning by Adam Moss, Lecturer in physics and astronomy at Nottingham University. This was scheduled last month but due to unforeseen circumstances had to be cancelled.</p> <p>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch!</p> <p>Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Machine Learning - Adam Moss</p> <p>7.00pm - Chat</p> <p>7.30pm - The End</p> "
   url: https://www.meetup.com/GDG-Leeds/events/239355700/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
