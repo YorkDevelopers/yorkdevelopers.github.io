@@ -8,7 +8,7 @@ category: Blog
 ##### Our mission statement sums it up nicely.
 
 {:.standard}
-*York Developers support, develop and encourage a community of Software Developers in (and around) the City of York.  We promote the values of learning and collaboration, helping to develop individuals and groups.  We focus on the progression of people, who in turn we hope will assist others in their learning journey.*
+*York Developers support, develop and encourage a community of Software Developers in (and around) the City of York.  We promote the values of learning and collaboration, helping to develop individuals and groups.  We focus on the progression of people, who we hope in turn will assist others in their learning journey.*
 
 {:.standard}
-*We believe this empowerment of others will support the need for technological and personal advancement in a wider context.  We do not focus any result but instead provide the framework for those involved to determine a goal and drive towards it through innovation and collaboration.*
+*We believe this empowerment of others will support the need for technological and personal advancement in a wider context.  We do not focus any result - instead we provide the framework for those involved to determine a goal and drive towards it through innovation and collaboration.*
