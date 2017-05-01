@@ -12,3 +12,7 @@ category: Blog
 
 {:.standard}
 *We believe this empowerment of others will support the need for technological and personal advancement in a wider context.  We do not focus any result - instead we provide the framework for those involved to determine a goal and drive towards it through innovation and collaboration.*
+
+
+{:.standard}
+*We are a non-profit organisation.*
