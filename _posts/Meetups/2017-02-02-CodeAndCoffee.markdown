@@ -10,4 +10,4 @@ Code And Coffee - An informal meeting of software developers before we start our
 
 Visit our [Code And Coffee Meetup][code-and-coffee-meetup-link] for more information.
 
-[code-and-coffee-meetup-link]: https://www.meetup.com/York-Code-Coffee/
+[code-and-coffee-meetup-link]: https://www.meetup.com/YorkDevelopers/
