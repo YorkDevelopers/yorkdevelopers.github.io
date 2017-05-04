@@ -13,29 +13,6 @@
   starts: 2017-05-20T19:00:00.0000000
   ends: 2017-06-16T14:00:00.0000000
   venue: York
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/239430385/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-05-03T06:30:00.0000000
-  ends: 2017-05-03T09:30:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/239179655/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-05-03T07:00:00.0000000
-  ends: 2017-05-03T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: EnterpriseDB is organizing an 'EDB Postgres TechTalk’
-  description: "<p>On 3 May EnterpriseDB is organizing an 'EDB Postgres TechTalk’ at NHS Digital.</p> <p><b>Subject: NoSQL &amp; Unstructured data in EDB Postgres</b></p> <p><br/>During this TechTalk you will learn:</p> <p>- How to use EDB Postgres as a document store all the way from the browser app</p> <p>- How to use EDB Postgres for IoT data as a key-value store</p> <p>- How to combine the flexibility of schema-less with the power of relational and transactional models</p> <p>- Use EDB Postgres for Data Integration to non-relational datasources</p> "
-  url: https://www.meetup.com/EDB-Postgres-TechTalk/events/238523323/
-  is-free: true
-  starts: 2017-05-03T13:00:00.0000000
-  ends: 2017-05-03T14:00:00.0000000
-  venue: NHS Digital
 - name: GDG Leeds - May
   description: "<p>This month we have a talk on Machine Learning by Adam Moss, Lecturer in physics and astronomy at Nottingham University. This was scheduled last month but due to unforeseen circumstances had to be cancelled.</p> <p>If you'd like to do a talk or know someone you'd like us to get for a talk then please get in touch!</p> <p>Schedule is as follows:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Machine Learning - Adam Moss</p> <p>7.00pm - Chat</p> <p>7.30pm - The End</p> "
   url: https://www.meetup.com/GDG-Leeds/events/239355700/
@@ -92,18 +69,22 @@
   starts: 2017-05-15T18:00:00.0000000
   ends: 2017-05-15T20:00:00.0000000
   venue: 'BrewDog '
-- name: Geology on the Rails
-  description: >-
-    <strong>&#8220;Geology on the Rails&#8221;<br />
-
-    </strong><br />
-
-    Presentation from Network Rail Geo-Technical Engineer and Geologist colleague.
-  url: https://www.ypsyork.org/events/geology-on-the-rails/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/04/dreamstime_xxl_83008951-200x125.jpg
-  starts: 2017-05-03T19:30:00.0000000
-  ends: 2017-05-03T21:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/city-screen-basement-bar/" title="City Screen Basement Bar">City Screen Basement Bar</a>
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/239430389/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-05-17T06:30:00.0000000
+  ends: 2017-05-17T09:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/239533732/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-05-17T07:00:00.0000000
+  ends: 2017-05-17T10:00:00.0000000
+  venue: La Bottega Milanese
 - name: '&#8220;My Kingdom for a Horse&#8221; &#8211; study day in Richmond and Middleham: theatre, castles and horse racing'
   description: <strong>&#8220;My Kingdom for a horse&#8221; &#8211; study day in Richmond and Middleham Friday 5th May by coach</strong>
   url: https://www.ypsyork.org/events/my-kingdom-for-a-horse-study-day-in-richmond-and-middleham-theatre-castles-and-horse-racing/
@@ -170,9 +151,10 @@
 - name: Coldstones Cut and Stump Cross Cavern
   description: This is an advance notice of an unusual proposed trip to visit a show cave and a unique sculpture/maze on a vantage point overlooking not only some superb scenery, but also a working quarry. If you are interested, either contact <strong>Paul Thornley</strong> directly (<a href="mailto:&#x79;&#x70;&#x73;&#x67;&#x65;&#x6f;&#x6c;&#x6f;&#x67;&#x79;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x79;&#x70;&#x73;&#x67;&#x65;&#x6f;&#x6c;&#x6f;&#x67;&#x79;&#x40;<span class="oe_displaynone">null</span>&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a>   tel  07810 402684) <strong>or</strong> complete the form below and return it to the YPS Lodge as soon as you can, and anyway by <strong>Friday 28 April 2017</strong>. Please enclose two  SAEs or your email address.  Paul will send you more details and a booking form as soon as details are finalised.
   url: https://www.ypsyork.org/events/coldstones-cut-and-stump-cross-cavern/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/04/Coldstone2-200x125.jpg
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/02/Volcanoe-200x125.jpg
   starts: 2017-06-08T08:15:00.0000000
   ends: 2017-06-08T10:15:00.0000000
+  venue: 13 Jun 2017
 - name: Volcanoes and their Health Hazards
   description: Volcanoes and their health hazards
   url: https://www.ypsyork.org/events/volcanoes-and-their-health-hazards/
@@ -230,20 +212,3 @@
   starts: 2017-06-07T21:00:00.0000000
   ends: 2017-06-07T21:00:00.0000000
   venue: Bootham School - Assembly Hall
-- name: 'Bootham Talks presents: The Search for Extra-terrestrial Life'
-  description: >
-    Bootham Talks are a series of informal lectures and discussions covering a wide range of subjects. Each topic is presented by someone passionate about their field and has opportunity for questions and discussion afterwards.
-
-
-    The talks take place on the first Wednesday of each month in term time.
-
-
-    The search for life elsewhere in space is one of the great unfinished works of the Enlightenment. Recent discoveries now make it highly likely that the search will be successful within a few decades.
-
-
-    This introduction to the field looks at the techniques used in the quest, and the places we are expecting to find extraterrestrial life.
-  url: https://bootham-school.ticketleap.com/bootham-talks-5/
-  logo: https://ticketleap-media-master.s3.amazonaws.com/641b001f-ace8-47af-a9c3-152c0da7f1f8/full.jpg
-  starts: 2017-05-03T21:00:00.0000000
-  ends: 2017-05-03T21:00:00.0000000
-  venue: Bootham School - Arts Centre Auditorium
