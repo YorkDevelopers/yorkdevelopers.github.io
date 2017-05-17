@@ -1,43 +1,3 @@
-- name: Amazing Mazes with Chris
-  description: "<p>For our session in May we'll get lost together, looking at various ways to generate mazes.  </p> <p>As usual, the session will begin with a description of the problem, followed by grouping into pairs to work on it, and brief presentation of solutions at the end.  This means you need to find somebody to work with on the day.  All languages are OK to use - as long as you can find somebody to pair with!  Bring a laptop, with plenty of charge :) </p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend.  Students very welcome!</p> <p>NOTE: Food in pizza form will be provided.  On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p><i>The room for the York Code Dojo is FT/211. This is located in the Fountains learning Centre on the second floor. Simply go into the library and either take the lift of walk up the stairs to the second floor. When you come out of either, walk along the open corridor reading the door signs and FT/211 is on your right.</i> </p> <p><br/>Sponsored by York St. John University.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> "
-  url: https://www.meetup.com/York-Code-Dojo/events/238275879/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-05-10T17:30:00.0000000
-  ends: 2017-05-10T20:30:00.0000000
-  venue: Room FT/211 York St John University
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/239430387/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-05-10T06:30:00.0000000
-  ends: 2017-05-10T09:30:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/239350701/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-05-10T07:00:00.0000000
-  ends: 2017-05-10T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/239430388/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-05-15T06:30:00.0000000
-  ends: 2017-05-15T09:30:00.0000000
-  venue: The Perky Peacock
-- name: Bring a 'Thing' you love or loathe and be prepared to talk about it.
-  description: "<p>Bring an Internet of Things 'Thing' you love or loathe and be prepared to talk about it. This meet up is inspired by one of England's most ancient pub sports: Pub Philosophy. If you want to participate, simply come along, bringing with you an image of - or even better - the Internet of Things 'thing' itself and be prepared to explain to the rest of the participants:</p> <p>1. What it is</p> <p>2. why you Love it / Hate it</p> <p>Polemics welcome.</p> <p><br/>*****SPECIAL PROMOTION****</p> <p>BrewDog are offering 2 for 1 on pizzas for participants. Come along, Have a pint of very good beer, enjoy some pizza and a good conversation about The Internet of Things.</p> "
-  url: https://www.meetup.com/York-Internet-Of-Things-Meetup/events/239241100/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/6/7/b/thumb_459913947.jpeg
-  starts: 2017-05-15T18:00:00.0000000
-  ends: 2017-05-15T20:00:00.0000000
-  venue: 'BrewDog '
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/239430389/
@@ -54,8 +14,8 @@
   starts: 2017-05-17T07:00:00.0000000
   ends: 2017-05-17T10:00:00.0000000
   venue: La Bottega Milanese
-- name: “Mental Health in the Tech Industry” - Chad Gowler
-  description: '<p>18:30 – Turn up, have a drink, a snack, and a chat (pizza, beer, coffee, soft drinks)</p> <p>19:00 – TBA</p> <p>19:35 – Mid session interval</p> <p>19:40 – “Mental Health in the Tech Industry” - Chad Gowler</p> <p>20:30ish – Pop over the road to Headrow House pub (a drink or two provided)</p> <p><b>Mental Health in the Tech Industry – Chad Gowler</b></p> <p><i>Mental health is something that will affect most of us. The tech industry is high-paced and high pressure, and this means that we may be leaving some developers to struggle. This talk will examine touchpoints such as meetings, code review and timesheets and think about ways that they could cause difficulty. We will think about how we can make them easier to navigate so that developers can get back doing to what they do best.</i></p> <p>Chad is a software engineer at Sky in Leeds. They have also dipped their toe into project management, user testing, interaction design and event organising. They are a firm believer in inclusive software and digital inclusion. In their spare time, they can be found in various usergroups talking about gender, mental health and gaming for social good.</p> <p>Chad on Twitter: <a href="https://twitter.com/kitation">@kitation</a></p> <p><b>Sponsors</b> Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p><a href="http://futurelabs.org.uk/">Futurelabs</a> – Are a not-for-profit formed to help provide a focal point for tech start-up and scale-up businesses in and around Leeds. Futurelabs offer hot desking, fixed desk space or larger office spaces for tech businesses at very reasonable prices.</p> <p><a href="https://www.maplesyrupmedia.com/our-story/">Quidco/Maple Syrup Media</a> – Maple Syrup Media built its reputation as cashback pioneers with Quidco. They’ve since consolidated their credentials in the UK with grocery and travel specific ventures, CheckoutSmart and EarnAway. Their teams are based in London, Sheffield, Berlin, Paris and Durban – check out their  <a href="https://www.maplesyrupmedia.com/careers/">careers page</a></p> <p><a href="http://skybetcareers.com/about-us">Sky Betting &amp; Gaming</a> – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their  <a href="http://skybetcareers.com/">careers page</a>  provides great detail as to the working environment and range of work available across the technology stack.</p> <p><a href="http://inviqa.com/">Inviqa</a> – With offices in Leeds and across the UK and Europe Inviqa helps pioneering brands and organisations to engage, convert and retain their customers through digital innovation. If you’re looking for a developer role have a look at their  <a href="https://inviqa.com/company/careers">careers page</a>.</p> '
+- name: “Mental Health in the Tech Industry” Chad Gowler, "What’s My Name? Brian Teeman
+  description: "<p>18:30 – Turn up, have a drink, a snack, and a chat (pizza, beer, coffee, soft drinks)</p> <p><br/>19:00 – \"What's My Name?\" – Brian Teeman</p> <p>19:35 – Mid session interval</p> <p>19:40 – “Mental Health in the Tech Industry” - Chad Gowler</p> <p>20:30ish – Pop over the road to Headrow House pub (a drink or two provided)</p> <p><b>What's My Name? – Brian Teeman</b></p> <p><i>In the multicultural world that we live in how do you know my name. Is my first name my last name? What is my family name and what should you call me. As web site developers we regularly ask people for their name so we can personalise the web, but are we using the correct name?</i></p> <p>Brian Teeman is a co-founder of Joomla! Speaker at Joomla! and Open Source events around the world. #joomla #founder</p> <p>Brian on Twitter: <a href=\"https://twitter.com/brianteeman\">(((@brianteeman)))</a> (Why my name is in parentheses: <a href=\"http://tee.mn/newsweek\">tee.mn/newsweek</a>)</p> <p><b>Mental Health in the Tech Industry – Chad Gowler</b></p> <p><i>Mental health is something that will affect most of us. The tech industry is high-paced and high pressure, and this means that we may be leaving some developers to struggle. This talk will examine touchpoints such as meetings, code review and timesheets and think about ways that they could cause difficulty. We will think about how we can make them easier to navigate so that developers can get back doing to what they do best.</i></p> <p>Chad is a software engineer at Sky in Leeds. They have also dipped their toe into project management, user testing, interaction design and event organising. They are a firm believer in inclusive software and digital inclusion. In their spare time, they can be found in various usergroups talking about gender, mental health and gaming for social good.</p> <p>Chad on Twitter: <a href=\"https://twitter.com/kitation\">@kitation</a></p> <p><b>Sponsors</b></p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p><a href=\"http://futurelabs.org.uk/\">Futurelabs</a> – Are a not-for-profit formed to help provide a focal point for tech start-up and scale-up businesses in and around Leeds. Futurelabs offer hot desking, fixed desk space or larger office spaces for tech businesses at very reasonable prices.</p> <p><a href=\"https://www.maplesyrupmedia.com/our-story/\">Quidco/Maple Syrup Media</a> – Maple Syrup Media built its reputation as cashback pioneers with Quidco. They’ve since consolidated their credentials in the UK with grocery and travel specific ventures, CheckoutSmart and EarnAway. Their teams are based in London, Sheffield, Berlin, Paris and Durban – check out their <a href=\"https://www.maplesyrupmedia.com/careers/\">careers page</a></p> <p><a href=\"http://skybetcareers.com/about-us\">Sky Betting &amp; Gaming</a> – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their <a href=\"http://skybetcareers.com/\">careers page</a>provides great detail as to the working environment and range of work available across the technology stack.</p> "
   url: https://www.meetup.com/leedsphp/events/239820088/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/a/e/d/thumb_455636045.jpeg
@@ -78,7 +38,7 @@
   ends: 2017-05-18T21:00:00.0000000
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywhbdc/
+  url: https://www.meetup.com/YorkDevelopers/events/240023493/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-05-22T06:30:00.0000000
@@ -91,3 +51,57 @@
   logo: https://secure.meetupstatic.com/photos/event/2/7/4/5/thumb_458410053.jpeg
   starts: 2017-05-22T18:00:00.0000000
   ends: 2017-05-22T21:00:00.0000000
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/240024871/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-05-24T06:30:00.0000000
+  ends: 2017-05-24T09:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/239719073/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-05-24T07:00:00.0000000
+  ends: 2017-05-24T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: agileYork - The Beginning of an Agile Journey
+  description: "<p>We are a group of Agile advocates who'd like to share and help others develop the values and principles of the Agile manifesto in themselves.</p> <p>We welcome beginners and those already experimenting with this new way of working and wish to learn more.</p> <p>Our vision is to help individuals and teams make their working lives better. By improving the way they learn, share and communicate with others.</p> <p>In our first meetup (Wed 24th May) we will build the backlog, encourage inspection through members of the group prioritising what's in the next meetup and adaption of the content to the group.</p> <p>Please sign up here or on <a href=\"https://www.facebook.com/groups/agileYork/\" class=\"linkified\">https://www.facebook.com/groups/agileYork/</a></p> "
+  url: https://www.meetup.com/YorkDevelopers/events/239675247/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-05-24T17:30:00.0000000
+  ends: 2017-05-24T20:00:00.0000000
+  venue: Stonegate Yard Bar & Brasserie
+- name: All you need to know about .NET Core
+  description: '<p><a href="https://zogface.wordpress.com">Keith Williams</a> leads the development team at <a href="https://www.sunbrandingsolutions.com/">Sun Branding Solutions</a>, working on software that manages the graphics and packaging design for a surprisingly large proportion of the products that end up in your shopping basket. </p> <p>Keith’s team have been early adopters of .NET Core, running applications in production since beta4 in 2015. If you’re confused by .NET Core, are wondering what all the fuss is about, or just don’t see the point of it, then this talk will shed some light on its history, and hopefully show some of the benefits of moving.</p> <p>Come to this talk and you will get two years of professional .NET Core experience distilled down into one juicy, brain-oxygenating Leeds Sharp session.</p> <p>RSVP now and get FREE pizza and FREE drinks (courtesy of <a href="http://www.fruitionit.co.uk/">Fruition IT</a> - THE independent, service driven IT recruitment agency in Leeds that makes .NET developers happy).</p> '
+  url: https://www.meetup.com/Leeds-Sharp/events/239103853/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2017-05-25T17:30:00.0000000
+  ends: 2017-05-25T20:30:00.0000000
+  venue: Future Labs
+- name: 'May Meetup :: M2 Deployments, M2 Repositories & M2 Developer life!'
+  description: "<p>After a very first of many Magento Leeds Meetups - Our aim over the next few months is to being some fantastic speakers from across the world to Leeds. We'll hopefully be getting a good mix of development, solutions, merchant and vendor topics! If you're interested at speaking at future events, please DM us on <a href=\"https://twitter.com/magentoleeds\">Twitter</a>.</p> <p><b>Note: </b>Magento Leeds will run on the last Thursday of every month.</p> <p><b>SCHEDULE </b></p> <p><b>6:30pm</b> - Doors open, networking, food &amp; drink</p> <p><b>7:00pm</b> - Matthew Haworth - \"Handling Magento 2 Deployments\"</p> <p><br/><b>7:30pm</b> - Adam Lappin - \"Introduction to Magento 2's New Resource Model and the Service Contract Layer\"</p> <p><br/><b>8:00pm </b>- James Cowie - \"Magento 2 developer life so far, what I've learned and tips to developing\"</p> <p><br/><b>8:30pm</b> - Networking &amp; Drinks</p> "
+  url: https://www.meetup.com/Magento-Leeds/events/239817006/
+  is-free: true
+  starts: 2017-05-25T17:30:00.0000000
+  ends: 2017-05-25T20:00:00.0000000
+  venue: Duke Studios
+- name: Leeds Ruby Thing meetup
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  url: https://www.meetup.com/LeedsRubyThing/events/239759955/
+  is-free: true
+  starts: 2017-05-25T18:30:00.0000000
+  ends: 2017-05-25T22:30:00.0000000
+  venue: Veritas Ale & Wine Bar
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywhbmc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-05-29T06:30:00.0000000
+  ends: 2017-05-29T09:30:00.0000000
+  venue: The Perky Peacock
