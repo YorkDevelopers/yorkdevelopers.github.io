@@ -1,27 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/239430389/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-05-17T06:30:00.0000000
-  ends: 2017-05-17T09:30:00.0000000
-  venue: The Perky Peacock
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/239533732/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-05-17T07:00:00.0000000
-  ends: 2017-05-17T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: “Mental Health in the Tech Industry” Chad Gowler, "What’s My Name? Brian Teeman
-  description: "<p>18:30 – Turn up, have a drink, a snack, and a chat (pizza, beer, coffee, soft drinks)</p> <p><br/>19:00 – \"What's My Name?\" – Brian Teeman</p> <p>19:35 – Mid session interval</p> <p>19:40 – “Mental Health in the Tech Industry” - Chad Gowler</p> <p>20:30ish – Pop over the road to Headrow House pub (a drink or two provided)</p> <p><b>What's My Name? – Brian Teeman</b></p> <p><i>In the multicultural world that we live in how do you know my name. Is my first name my last name? What is my family name and what should you call me. As web site developers we regularly ask people for their name so we can personalise the web, but are we using the correct name?</i></p> <p>Brian Teeman is a co-founder of Joomla! Speaker at Joomla! and Open Source events around the world. #joomla #founder</p> <p>Brian on Twitter: <a href=\"https://twitter.com/brianteeman\">(((@brianteeman)))</a> (Why my name is in parentheses: <a href=\"http://tee.mn/newsweek\">tee.mn/newsweek</a>)</p> <p><b>Mental Health in the Tech Industry – Chad Gowler</b></p> <p><i>Mental health is something that will affect most of us. The tech industry is high-paced and high pressure, and this means that we may be leaving some developers to struggle. This talk will examine touchpoints such as meetings, code review and timesheets and think about ways that they could cause difficulty. We will think about how we can make them easier to navigate so that developers can get back doing to what they do best.</i></p> <p>Chad is a software engineer at Sky in Leeds. They have also dipped their toe into project management, user testing, interaction design and event organising. They are a firm believer in inclusive software and digital inclusion. In their spare time, they can be found in various usergroups talking about gender, mental health and gaming for social good.</p> <p>Chad on Twitter: <a href=\"https://twitter.com/kitation\">@kitation</a></p> <p><b>Sponsors</b></p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p><a href=\"http://futurelabs.org.uk/\">Futurelabs</a> – Are a not-for-profit formed to help provide a focal point for tech start-up and scale-up businesses in and around Leeds. Futurelabs offer hot desking, fixed desk space or larger office spaces for tech businesses at very reasonable prices.</p> <p><a href=\"https://www.maplesyrupmedia.com/our-story/\">Quidco/Maple Syrup Media</a> – Maple Syrup Media built its reputation as cashback pioneers with Quidco. They’ve since consolidated their credentials in the UK with grocery and travel specific ventures, CheckoutSmart and EarnAway. Their teams are based in London, Sheffield, Berlin, Paris and Durban – check out their <a href=\"https://www.maplesyrupmedia.com/careers/\">careers page</a></p> <p><a href=\"http://skybetcareers.com/about-us\">Sky Betting &amp; Gaming</a> – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their <a href=\"http://skybetcareers.com/\">careers page</a>provides great detail as to the working environment and range of work available across the technology stack.</p> "
-  url: https://www.meetup.com/leedsphp/events/239820088/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/a/e/d/thumb_455636045.jpeg
-  starts: 2017-05-17T17:30:00.0000000
-  ends: 2017-05-17T20:30:00.0000000
-  venue: Future Labs
 - name: Reactive Systems - Go fast or go home!
   description: '<p><b>The JVM Thing 2.0</b></p> <p><br/>Fruition IT are hosting our second JVM Meet Up of 2017</p> <p><b>Reactive Systems - Go fast or go home!</b></p> <p>Please register here for tickets: <a href="https://leedsjvm.eventbrite.co.uk/"><a href="https://www.eventbrite.co.uk/e/the-jvm-thing-reactive-systems-go-fast-or-go-home-tickets-34101114351" class="linkified">https://www.eventbrite.co.uk/e/the-jvm-thing-reactive-systems-go-fast-or-go-home-tickets-34101114351</a></a></p> <p>User expectations for applications have changed radically in the past few years. Systems are now expected to be robust, resilient, responsive and scaleable in the face of varying workloads. Failure is not an option, downtime is not permitted.</p> <p>In the face of these requirements, developers in many different domains are independently discovering the same patterns for building systems. These patterns call for a different approach to building software where system components are flexible, scalable, loosely coupled.</p> <p>Approaches for developing systems with these attributes have existed for some time now, however, putting them all together we get Reactive System</p> <p>They will be some live code demos with Akka, RxJava, microservices and free food &amp; drinks.</p> <p><br/>Join us as we examine why we need Reactive Systems, discuss exactly what they are, investigate what benefits they offer and then show practical examples of Reactive Systems in action... all in a range of JVM languages</p> <p>Venue – Infinity Works</p> <p>Apsley House, 78 Wellington St, Leeds LS1 2EQ</p> <p><br/>Speakers</p> <p>Neil Dunlop – Principal Consultant at Infinity Works</p> <p>James Pittendreigh – Senior Java Developer at EE</p> <p>Ben Foster – Senior Consultant at Infinity Works</p> '
   url: https://www.meetup.com/Leeds-JVMThing/events/239819755/
@@ -51,6 +27,14 @@
   logo: https://secure.meetupstatic.com/photos/event/2/7/4/5/thumb_458410053.jpeg
   starts: 2017-05-22T18:00:00.0000000
   ends: 2017-05-22T21:00:00.0000000
+- name: "Let's Meetup at the GDPR Clinic at York Race Course "
+  description: '<p>GDPR<br/>The Clinic<br/>www.gemalto.com/gdprclinic</p> <p>16 May - 6 June 2017</p> <p>Our GDPR Clinic is touring the country, providing practical advice that will get you prepared for the General Data Protection Regulation (GDPR). Meet Gemalto experts across the UK that can help solve your GDPR compliance challenges.</p> <p>What is the GDPR clinic?</p> <p>We’ve decided to kit out a double decker bus with all the latest Identity and Crypto demos designed to help you get ready for GDPR.</p> <p>The GDPR Clinic will be touring multiple sites across the UK and will conclude at the largest European Security Event in June – InfoSecurity Europe.</p> <p>You will need to book your slot at the GDPR Clinic here -<br/>www.gemalto.com/gdprclinic</p> '
+  url: https://www.meetup.com/GDPR-Meetup/events/238793300/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/a/6/thumb_457836006.jpeg
+  starts: 2017-05-23T09:00:00.0000000
+  ends: 2017-05-24T15:00:00.0000000
+  venue: York Race Course
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/240024871/
@@ -105,3 +89,43 @@
   starts: 2017-05-29T06:30:00.0000000
   ends: 2017-05-29T09:30:00.0000000
   venue: The Perky Peacock
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywhbpc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-05-31T06:30:00.0000000
+  ends: 2017-05-31T09:30:00.0000000
+  venue: The Perky Peacock
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/239899799/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-05-31T07:00:00.0000000
+  ends: 2017-05-31T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: 'BJSS: AI Gets Serious'
+  description: "<p><img src=\"https://secure.meetupstatic.com/photos/event/1/c/f/b/600_460987419.jpeg\" /></p> <p>2017 is the year that AI gets serious and becomes mainstream! Alexa is making waves in the home, driverless cars are being trialled on the roads, IBM’s Watson is being used to diagnose medical conditions and cognitive, digital assistants are answering our online queries.</p> <p>The convergence of improving compute power, Cloud services, mobile, Big Data, machine learning and natural language processing (NLP) with an increasing understanding by businesses on the potential for AI means that new disruptive business models are picking up pace.</p> <p>BJSS and its strategic design consultancy, SPARCK, have been working with clients in this interesting area over the last couple of years and will share their insights through a series of lightning talks.</p> <p>See footage from previous events with BJSS below:</p> <p>\n\n<a href=\"https://www.youtube.com/watch?v=6ROiyB8zaRc\" class=\"embedded\">https://www.youtube.com/watch?v=6ROiyB8zaRc</a></p> <p>\n\n\n\n<a href=\"https://www.youtube.com/watch?v=kdIUAkczcSE\" class=\"embedded\">https://www.youtube.com/watch?v=kdIUAkczcSE</a></p> <p>For more information on this event please get in contact : </p> <p>0113 468 6 700</p> <p><br/><a href=\"mailto:andrew@amsourcetechnology.com\">andrew@amsourcetechnology.com</a></p> <p>\n\nOr register your interest in this event and future events </p> <p><a href=\"http://www.amsourcetechnology.com/register-your-interest\">here.</a></p> "
+  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/239999405/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
+  starts: 2017-05-31T17:00:00.0000000
+  ends: 2017-05-31T20:00:00.0000000
+  venue: BJSS Limited
+- name: 'May: Colin Oakley & Lorna Mitchell'
+  description: "<p>Hey there Javascripters!</p> <p>May is upon us and we've got a couple of great talks lined up for you!</p> <p>First up we have Colin Oakley (<a href=\"https://twitter.com/htmlandbacon\">@htmlandbacon</a>) with a talk titled \"Testing most things in JavaScript\". Testing is one of those areas that people often skip or forget about and it's great to have Colin join us to talk about it and it's importance</p> <p>Here is a brief intro from Colin:</p> <p><i>\"Testing is important - it can improve the quality of your code and give you the reassurance to refactor without fear of destroying your application.</i></p> <p><i>My talk will cover different types of automated testing  in javascript (unit, integration, acceptance) and some regression as well tools to help standardise code (like js lint).</i></p> <p><i>I'll also talk about automated build tools like jenkins and travis ci.\"</i></p> <p>Next up we've got Lorna Mitchell (<a href=\"https://twitter.com/lornajane\">@lornajane</a>) with a talk titled \"Fun with serverless Javascript\". Serverless is one of the areas of development which is growing and I'm really looking forward to hearing more about it!</p> <p>Here is a brief intro from Lorna:</p> <p><i>\"Serverless and the noOps movement are buzzwords that you've probably heard, but could these technologies also solve problems that you actually have?  This session will cover _when_ to use a serverless approach, and answer your questions about how to get started with it. We'll look at how to write code for these platforms, and how to safely and repeatedly deploy your code to them. We'll also look at how we can use these technologies to build a skill for the Amazon Echo.  This session is suitable for JavaScripters of all levels.\"</i></p> <p>The talks start at around 7:00, but most people show up from 6:45 for pizza and to network and chat about all things JavaScript before the talk. After the talk we’ll be heading over to Headrow House to have a drink and to chat some more.</p> <p>The door to get in is shown here:</p> <p><a href=\"https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY\" class=\"linkified\">https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/239749137/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2017-05-31T17:45:00.0000000
+  ends: 2017-05-31T20:45:00.0000000
+  venue: Future Labs
+- name: Introduction to Magento 2's New Resource Model and the Service Contract Layer
+  description: "<p>Introduction to Magento 2's New Resource Model and the Service Contract Layer delivered by Adam Lappin, Senior Systems Development Engineer at Fera Science Ltd. Tips on what to look out for, what could break in the future, and a small whine about Magento 2's core code not following their own best practice.</p> "
+  url: https://www.meetup.com/Magento-York/events/239019467/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/2/3/thumb_444120291.jpeg
+  starts: 2017-05-31T18:00:00.0000000
+  ends: 2017-05-31T21:00:00.0000000
+  venue: The Cross Keys
