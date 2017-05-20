@@ -1,14 +1,3 @@
-- name: 'Professor Lisa Randall: Dark Matter and the Dinosaurs'
-  description: >-
-    Leading theoretical physicist, Professor Lisa Randall of Harvard University, will deliver a lecture on the K-Pg extinction, which wiped out the dinosaurs and most other species on the planet, and a potential connection to dark matter. Along the way, she will elaborate on exactly what dark matter is and its important role in our universe.
-
-    Even if this lecture is sold out, seats may become available shortly before the lecture begins. If you already have a ticket, please note that due to the level of interest these events attract, if you are not in your seat by 6.55pm, your ticket may be made available to those who are waiting.Please either print off your ticket or display it to us on your smartphone or tablet on the evening.
-  url: https://www.eventbrite.co.uk/e/professor-lisa-randall-dark-matter-and-the-dinosaurs-tickets-34273874080?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/31018781/87497926893/1/original.jpg?h=200&w=450&rect=0,197,336,168&s=5baa582aef0e7501e81e821dd149e700
-  starts: 2017-05-19T19:00:00.0000000
-  ends: 2017-05-19T20:30:00.0000000
-  venue: St Peter's School
 - name: 'Professor Paul Freemont: Synthetic Biology - Designing the Future'
   description: Paul Freemont will explore how the powerful combination of molecular biology, design and engineering could lead to a ‘Biotechnological Revolution’ in medicine and healthcare. What is natural, what is manmade and who decides what is a good idea or good biological design?Even if this lecture is sold out, seats may become available shortly before the lecture begins. If you already have a ticket, please note that due to the level of interest these events attract, if you are not in your seat by 6.55pm, your ticket may be made available to those who are waiting.Please either print off your ticket or display it to us on your smartphone or tablet on the evening.
   url: https://www.eventbrite.co.uk/e/professor-paul-freemont-synthetic-biology-designing-the-future-tickets-32723129762?aff=ebapi
@@ -333,6 +322,21 @@
   starts: 2017-06-07T11:15:00.0000000
   ends: 2017-06-07T12:30:00.0000000
   venue: PX001
+- name: The Story of Science
+  description: >-
+    Discover the story of science through the lens of microscopes and telescopes with University of York scientists. Take a look at the historic Vickers Collection of precision scientific instruments manufactured in York over the past 200 years. Learn how cutting-edge microscopes allow us to see a single, moving atom, and gaze into the night skies and wonder at the images we can now capture from space.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/the-story-of-science-tickets-34104359056?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/30829332/22468345120/1/original.jpg?h=200&w=450&rect=11,0,1016,508&s=c022c681ed7030f0b46b3bc33d440452
+  starts: 2017-06-15T18:00:00.0000000
+  ends: 2017-06-15T21:00:00.0000000
+  venue: Physics Exhibition Centre
 - name: The Story of Human Speech and Hearing
   description: >-
     Sound forms a basic part of our lives; in terms of hearing it, we have no ‘ear lids’ so cannot turn it off. Join David Howard of Royal Holloway, University of London as he discusses the nature of sound. How is it used for communication? How is it used for music? How do we make sense of the sounds around us?
@@ -356,36 +360,6 @@
   starts: 2017-05-24T10:00:00.0000000
   ends: 2017-05-24T17:00:00.0000000
   venue: Green Chemistry Seminar room, C/F/106
-- name: The Story of Science
-  description: >-
-    Discover the story of science through the lens of microscopes and telescopes with University of York scientists. Take a look at the historic Vickers Collection of precision scientific instruments manufactured in York over the past 200 years. Learn how cutting-edge microscopes allow us to see a single, moving atom, and gaze into the night skies and wonder at the images we can now capture from space.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/the-story-of-science-tickets-34104359056?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/30829332/22468345120/1/original.jpg?h=200&w=450&rect=11,0,1016,508&s=c022c681ed7030f0b46b3bc33d440452
-  starts: 2017-06-15T18:00:00.0000000
-  ends: 2017-06-15T21:00:00.0000000
-  venue: Physics Exhibition Centre
-- name: Zombies in York
-  description: >-
-    Zombies have taken over York and brought the city to a standstill! But we were quick enough to catch one. Come along and get involved as University of York scientists dissect the captured zombie in front of a live audience. Will you be able to save York by working out how the disease started? An interactive hands-on workshop aimed at children aged eight to 12.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/zombies-in-york-tickets-34102403206?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/30826718/22468345120/1/original.jpg?h=200&w=450&rect=11,0,1016,508&s=a848022c7386c6b69409e13e817a9578
-  starts: 2017-06-13T17:30:00.0000000
-  ends: 2017-06-13T19:00:00.0000000
-  venue: York Explore Library Learning Centre
 - name: The Voices in All Our Heads
   description: >-
     Psychologist and award-winning writer, Charles Fernyhough tells a story of things in our minds. He explores the inner voice and dialogue in all our heads, and how this may help us understand how and why some people hear voices.
@@ -426,6 +400,21 @@
   starts: 2017-06-13T19:30:00.0000000
   ends: 2017-06-13T20:30:00.0000000
   venue: Tempest Anderson Hall
+- name: Zombies in York
+  description: >-
+    Zombies have taken over York and brought the city to a standstill! But we were quick enough to catch one. Come along and get involved as University of York scientists dissect the captured zombie in front of a live audience. Will you be able to save York by working out how the disease started? An interactive hands-on workshop aimed at children aged eight to 12.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/zombies-in-york-tickets-34102403206?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/30826718/22468345120/1/original.jpg?h=200&w=450&rect=11,0,1016,508&s=a848022c7386c6b69409e13e817a9578
+  starts: 2017-06-13T17:30:00.0000000
+  ends: 2017-06-13T19:00:00.0000000
+  venue: York Explore Library Learning Centre
 - name: The Brain in Performance
   description: >-
     Explore our connections with nature, outer space and the brain through a live experimental electronic/acoustic music performance with immersive visual projections. Experience how performers respond musically to the visual stimuli and hear how head mounted biosensors monitoring their brain waves create further audio responses in real time. The event is presented by University of York postgraduate students.
@@ -521,6 +510,51 @@
   starts: 2017-06-12T12:00:00.0000000
   ends: 2017-06-12T13:00:00.0000000
   venue: Yorkshire Museum (outside)
+- name: Astrocampus Star Party - Late Night Observing
+  description: >-
+    As we move further into spring, the nights are becoming shorter and shorter. As a result, there's less opportunities available for astronomy. So wrap up warm and join us at the University of York's Astrocampus on 26th May as we stay up late to learn all about the night sky and (weather permitting) explore it in great deal with our telescopes!
+
+    The main intention of this event will be to make good use of the observatories and telescopes that we have available here at the University of York. The night before will be a new moon, meaning the skies will be as dark as possible for us to hopefully observe some deep sky objects. This would include star clusters, nebulae and other galaxies! If the skies are clear, then there's plenty for us to look up at in the fast approaching summer sky. At the very least though, the planet Jupiter will be shining brightly in the sky, and when peered at through a telescope it'd be hard to miss its four Galilean moons!
+
+    However, clear skies unfortunately aren't a guarantee. So over the course of the event, there will be a range of different talks delivered as well. Topics include:
+
+
+
+    Looking at the basics of astronomy, and learning how you can best get involved with the hobby yourself at home
+
+
+
+    The history of telescopes, telling the 400 year long story from Galileo's handy refracting telescope, to the James Webb Space Telescope being launched by NASA next year
+
+
+
+    A lesson in cosmology, looking at the hidden parts of our universe that we simply cannot see or detect yet makes up most of the universe
+
+
+
+
+    Hot drinks will be provided!
+  url: https://www.eventbrite.co.uk/e/astrocampus-star-party-late-night-observing-tickets-34503116751?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/31269337/133368849299/1/original.jpg?h=200&w=450&rect=0,207,4272,2136&s=c31a6b9e9f46d7333f353b96ddb83484
+  starts: 2017-05-26T21:00:00.0000000
+  ends: 2017-05-27T00:00:00.0000000
+  venue: Astrocampus
+- name: The Brain in Performance
+  description: >-
+    Explore our connections with nature, outer space and the brain through a live experimental electronic/acoustic music performance with immersive visual projections. Experience how performers respond musically to the visual stimuli and hear how head mounted biosensors monitoring their brain waves create further audio responses in real time. The event is presented by University of York postgraduate students.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/the-brain-in-performance-tickets-34104465374?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/30829604/22468345120/1/original.jpg?h=200&w=450&rect=11,0,1016,508&s=3382c7f5ec8dd84d52dd5caa65122f16
+  starts: 2017-06-15T20:30:00.0000000
+  ends: 2017-06-15T21:15:00.0000000
+  venue: The Ron Cooke Hub
 - name: 'Windows User Group (York).  1st June 2017, 6.00pm.  '
   description: >+
     Windows User Group 
@@ -605,51 +639,6 @@
   starts: 2017-07-07T09:30:00.0000000
   ends: 2017-07-07T16:00:00.0000000
   venue: Department of Chemistry
-- name: The Brain in Performance
-  description: >-
-    Explore our connections with nature, outer space and the brain through a live experimental electronic/acoustic music performance with immersive visual projections. Experience how performers respond musically to the visual stimuli and hear how head mounted biosensors monitoring their brain waves create further audio responses in real time. The event is presented by University of York postgraduate students.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/the-brain-in-performance-tickets-34104465374?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/30829604/22468345120/1/original.jpg?h=200&w=450&rect=11,0,1016,508&s=3382c7f5ec8dd84d52dd5caa65122f16
-  starts: 2017-06-15T20:30:00.0000000
-  ends: 2017-06-15T21:15:00.0000000
-  venue: The Ron Cooke Hub
-- name: Astrocampus Star Party - Late Night Observing
-  description: >-
-    As we move further into spring, the nights are becoming shorter and shorter. As a result, there's less opportunities available for astronomy. So wrap up warm and join us at the University of York's Astrocampus on 26th May as we stay up late to learn all about the night sky and (weather permitting) explore it in great deal with our telescopes!
-
-    The main intention of this event will be to make good use of the observatories and telescopes that we have available here at the University of York. The night before will be a new moon, meaning the skies will be as dark as possible for us to hopefully observe some deep sky objects. This would include star clusters, nebulae and other galaxies! If the skies are clear, then there's plenty for us to look up at in the fast approaching summer sky. At the very least though, the planet Jupiter will be shining brightly in the sky, and when peered at through a telescope it'd be hard to miss its four Galilean moons!
-
-    However, clear skies unfortunately aren't a guarantee. So over the course of the event, there will be a range of different talks delivered as well. Topics include:
-
-
-
-    Looking at the basics of astronomy, and learning how you can best get involved with the hobby yourself at home
-
-
-
-    The history of telescopes, telling the 400 year long story from Galileo's handy refracting telescope, to the James Webb Space Telescope being launched by NASA next year
-
-
-
-    A lesson in cosmology, looking at the hidden parts of our universe that we simply cannot see or detect yet makes up most of the universe
-
-
-
-
-    Hot drinks will be provided!
-  url: https://www.eventbrite.co.uk/e/astrocampus-star-party-late-night-observing-tickets-34503116751?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/31269337/133368849299/1/original.jpg?h=200&w=450&rect=0,207,4272,2136&s=c31a6b9e9f46d7333f353b96ddb83484
-  starts: 2017-05-26T21:00:00.0000000
-  ends: 2017-05-27T00:00:00.0000000
-  venue: Astrocampus
 - name: KTN Chemistry and Industrial Biotechnology Showcase 2017
   description: >+
      
