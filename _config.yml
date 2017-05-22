@@ -57,6 +57,7 @@ yandex_site_verification :
 twitter_username         : "yorkdevelopers"
 facebook_username        : "groups/yorkdevelopers"
 github_username          : "yorkdevelopers"
+linkedin_url             : "https://www.linkedin.com/company-beta/18066526"
 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -91,7 +92,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "company-beta/18066526"
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : #assets "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
