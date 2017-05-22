@@ -776,6 +776,14 @@
   starts: 2017-12-04T10:00:00.0000000
   ends: 2017-12-04T16:30:00.0000000
   venue: Department of Biology
+- name: "Let's Meetup at the GDPR Clinic at York Race Course "
+  description: '<p>GDPR<br/>The Clinic<br/>www.gemalto.com/gdprclinic</p> <p>16 May - 6 June 2017</p> <p>Our GDPR Clinic is touring the country, providing practical advice that will get you prepared for the General Data Protection Regulation (GDPR). Meet Gemalto experts across the UK that can help solve your GDPR compliance challenges.</p> <p>What is the GDPR clinic?</p> <p>We’ve decided to kit out a double decker bus with all the latest Identity and Crypto demos designed to help you get ready for GDPR.</p> <p>The GDPR Clinic will be touring multiple sites across the UK and will conclude at the largest European Security Event in June – InfoSecurity Europe.</p> <p>You will need to book your slot at the GDPR Clinic here -<br/>www.gemalto.com/gdprclinic</p> '
+  url: https://www.meetup.com/GDPR-Meetup/events/238793300/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/a/6/thumb_457836006.jpeg
+  starts: 2017-05-23T09:00:00.0000000
+  ends: 2017-05-24T15:00:00.0000000
+  venue: York Race Course
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/240024871/
@@ -784,6 +792,7 @@
   starts: 2017-05-24T06:30:00.0000000
   ends: 2017-05-24T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
   url: https://www.meetup.com/Code-Coffee-Leeds/events/239719073/
@@ -800,6 +809,7 @@
   starts: 2017-05-24T17:30:00.0000000
   ends: 2017-05-24T20:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
+  endorsed: true
 - name: All you need to know about .NET Core
   description: '<p><a href="https://zogface.wordpress.com">Keith Williams</a> leads the development team at <a href="https://www.sunbrandingsolutions.com/">Sun Branding Solutions</a>, working on software that manages the graphics and packaging design for a surprisingly large proportion of the products that end up in your shopping basket. </p> <p>Keith’s team have been early adopters of .NET Core, running applications in production since beta4 in 2015. If you’re confused by .NET Core, are wondering what all the fuss is about, or just don’t see the point of it, then this talk will shed some light on its history, and hopefully show some of the benefits of moving.</p> <p>Come to this talk and you will get two years of professional .NET Core experience distilled down into one juicy, brain-oxygenating Leeds Sharp session.</p> <p>RSVP now and get FREE pizza and FREE drinks (courtesy of <a href="http://www.fruitionit.co.uk/">Fruition IT</a> - THE independent, service driven IT recruitment agency in Leeds that makes .NET developers happy).</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/239103853/
@@ -815,6 +825,14 @@
   starts: 2017-05-25T17:30:00.0000000
   ends: 2017-05-25T20:00:00.0000000
   venue: Duke Studios
+- name: Monthly meet up
+  description: '<p>Chat about Linux and related technology over a drink.<br/>Some people get food from the bar.</p> '
+  url: https://www.meetup.com/West-Yorkshire-Linux-users-group/events/239702278/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/c/e/7/5/thumb_441292853.jpeg
+  starts: 2017-05-25T18:30:00.0000000
+  ends: 2017-05-29T20:00:00.0000000
+  venue: The Lord Darcy
 - name: Leeds Ruby Thing meetup
   description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
   url: https://www.meetup.com/LeedsRubyThing/events/239759955/
@@ -830,6 +848,7 @@
   starts: 2017-05-29T06:30:00.0000000
   ends: 2017-05-29T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywhbpc/
@@ -838,6 +857,7 @@
   starts: 2017-05-31T06:30:00.0000000
   ends: 2017-05-31T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
   url: https://www.meetup.com/Code-Coffee-Leeds/events/239899799/
