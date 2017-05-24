@@ -776,14 +776,14 @@
   starts: 2017-12-04T10:00:00.0000000
   ends: 2017-12-04T16:30:00.0000000
   venue: Department of Biology
-- name: "Let's Meetup at the GDPR Clinic at York Race Course "
-  description: '<p>GDPR<br/>The Clinic<br/>www.gemalto.com/gdprclinic</p> <p>16 May - 6 June 2017</p> <p>Our GDPR Clinic is touring the country, providing practical advice that will get you prepared for the General Data Protection Regulation (GDPR). Meet Gemalto experts across the UK that can help solve your GDPR compliance challenges.</p> <p>What is the GDPR clinic?</p> <p>We’ve decided to kit out a double decker bus with all the latest Identity and Crypto demos designed to help you get ready for GDPR.</p> <p>The GDPR Clinic will be touring multiple sites across the UK and will conclude at the largest European Security Event in June – InfoSecurity Europe.</p> <p>You will need to book your slot at the GDPR Clinic here -<br/>www.gemalto.com/gdprclinic</p> '
-  url: https://www.meetup.com/GDPR-Meetup/events/238793300/
+- name: The beginning of an Agile journey
+  description: "<p>We will meet for informal drinks and discuss what you wish our group should evolve into. Hopefully something that has value to you and others.</p> <p>Throughout the evening we will be using Agile techniques to discover and agree what you'd like from this group. Our hope is that you take away something practical you can put into action and provide some valuable feedback to help shape future events.</p> <p>In our first meetup (Wed 24th May) we will build the backlog, encourage inspection through members of the group prioritising what's in the next meetup and adaption of the content to the group.</p> <p>If this sounds like something you'd be interested in we look forward to meeting you,</p> <p>Daniel and Tony</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/4/9/7/4/600_461058804.jpeg\" /></p> "
+  url: https://www.meetup.com/agileYork/events/240081789/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/c/a/6/thumb_457836006.jpeg
-  starts: 2017-05-23T09:00:00.0000000
-  ends: 2017-05-24T15:00:00.0000000
-  venue: York Race Course
+  logo: https://secure.meetupstatic.com/photos/event/6/9/e/9/thumb_461067113.jpeg
+  starts: 2017-05-24T17:30:00.0000000
+  ends: 2017-05-24T20:00:00.0000000
+  venue: Stonegate Yard Bar & Brasserie
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/240024871/
@@ -810,13 +810,6 @@
   ends: 2017-05-24T20:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
-- name: The beginning of an Agile journey
-  description: "<p>We will meet for informal drinks and discuss what you wish our group should evolve into.  Hopefully something that has value to you and others.</p> <p>Throughout the evening we will be using Agile techniques to discover and agree what you'd like from this group.  Our hope is that you take away something practical you can put into action and provide some valuable feedback to help shape future events.</p> <p>In our first meetup (Wed 24th May) we will build the backlog, encourage inspection through members of the group prioritising what's in the next meetup and adaption of the content to the group.</p> <p>If this sounds like something you'd be interested in we look forward to meeting you,</p> <p>Daniel and Tony.</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/4/9/7/4/600_461058804.jpeg\" /></p> "
-  url: https://www.meetup.com/agileYork/events/240081789/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/9/e/9/thumb_461067113.jpeg
-  starts: 2017-05-24T17:30:00.0000000
-  ends: 2017-05-24T20:00:00.0000000
 - name: All you need to know about .NET Core
   description: '<p><a href="https://zogface.wordpress.com">Keith Williams</a> leads the development team at <a href="https://www.sunbrandingsolutions.com/">Sun Branding Solutions</a>, working on software that manages the graphics and packaging design for a surprisingly large proportion of the products that end up in your shopping basket. </p> <p>Keith’s team have been early adopters of .NET Core, running applications in production since beta4 in 2015. If you’re confused by .NET Core, are wondering what all the fuss is about, or just don’t see the point of it, then this talk will shed some light on its history, and hopefully show some of the benefits of moving.</p> <p>Come to this talk and you will get two years of professional .NET Core experience distilled down into one juicy, brain-oxygenating Leeds Sharp session.</p> <p>RSVP now and get FREE pizza and FREE drinks (courtesy of <a href="http://www.fruitionit.co.uk/">Fruition IT</a> - THE independent, service driven IT recruitment agency in Leeds that makes .NET developers happy).</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/239103853/
@@ -841,7 +834,7 @@
   venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywhbmc/
+  url: https://www.meetup.com/YorkDevelopers/events/240203216/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-05-29T06:30:00.0000000
@@ -941,7 +934,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywhbmc/
+  url: https://www.meetup.com/YorkDevelopers/events/240203216/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-05-29T06:30:00.0000000
@@ -1411,6 +1404,15 @@
   ends: 2017-11-08T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywpbrb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-11-13T07:30:00.0000000
+  ends: 2017-11-13T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmywpbvb/
@@ -1467,13 +1469,6 @@
   starts: 2018-05-17T18:00:00.0000000
   ends: 2018-05-17T21:00:00.0000000
   endorsed: true
-- name: The River Hull Living Landscape
-  description: The River Hull Living Landscape
-  url: https://www.ypsyork.org/events/the-river-hull-living-landscape/
-  logo: https://www.ypsyork.org/wp-content/uploads/2016/11/River_Hull_at_Wawne-200x125.jpg
-  starts: 2017-05-23T19:30:00.0000000
-  ends: 2017-05-23T21:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: YPS Get-together
   description: "YPS Get-Together<br />\nWe meet informally in the bar at The Star Inn the City to catch up with YPS news and meet friendly faces.  "
   url: https://www.ypsyork.org/events/yps-get-together-8/
@@ -1543,9 +1538,10 @@
 
     </strong>
   url: https://www.ypsyork.org/events/bringing-science-and-water-to-life/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/01/Bridgewater-Canal-200x125.jpg
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/04/Helmsley-Walled-Garden-200x125.jpg
   starts: 2017-07-17T08:15:00.0000000
   ends: 2017-07-17T10:15:00.0000000
+  venue: 11 Sep 2017
 - name: 'Gardens and Archaeology: a day in Helmsley'
   description: <strong>            £24 per person inclusive of Gardens Tour, light lunch and a donation to support the archaeology collection.</strong>
   url: https://www.ypsyork.org/events/gardens-and-archaeology-a-day-in-helmsley/
