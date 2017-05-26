@@ -21,46 +21,6 @@
   starts: 2017-06-08T18:00:00.0000000
   ends: 2017-06-08T19:30:00.0000000
   venue: The Ron Cooke Hub
-- name: Understanding York’s environment
-  description: >-
-    Speakers: Ruth Davis - E3G, Professor Mike Depledge - University of Exeter and Professor Alistair Boxall – Environment Department
-
-
-    Research in Focus
-
-    This event will be followed by a free drinks reception, a photo exhibition and an interactive installation in the Hub's 3Sixty space. 
-
-    About half of the world’s population lives in urban areas and ongoing migration into cities has given rise to larger, ultimately, mega-cities. Latest figures show that by 2050, 66% of the world’s population will be urban - equivalent to around 6.3 billion people. If not managed adequately, urbanization can adversely affect the health and wellbeing of human beings and lead to social and environmental injustice. It has long been recognised that that the quality and distribution of the natural environment within cities (e.g. amounts of blue and green space, levels of pollution and the degree of biodiversity) affects the health, wellbeing and equity amongst city populations. However, the relationship between these different endpoints is still relatively poorly understood. With improved understandings of these relationships, it may be possible to better manage natural environments within cities providing multiple benefits to the whole community.
-
-    New technologies, such as wireless sensing networks, wearable devices, drones, crowdsourcing, 3D models of cities and virtual reality used together could provide the environmental, health and social data we need to understand the relationships between the quality of natural systems and linkage to health, wellbeing and equity of city populations at very high temporal and spatial resolutions. The York City Environment Observatory (YCEO) project, which is jointly led by the City of York Council and the University of York, aims to design and lay the groundwork for establishing a unique city observatory for determining the links between environment quality issues in York in order to better understand how these issues affect health, well-being and the economy of the city. The YCEO will look to the past, present and future in trying to diagnose and predict environmental issues for York and their associated human health and well-being and economic impacts.
-
-    This series of three keynote lectures, given by leading experts from environment and health, will explore the importance of place and nature, how the environment affects our health and wellbeing, and finally, how novel projects, such as the York City Environment Observatory, seek to understand and quantify these relationships.
-
-    Speaker biographies: 
-
-    Ruth Davis is a writer, campaigner, political analyst and conservationist with over twenty years’ experience in the environment sector. 
-
-    Her areas of interest include the relationship between environmental politics, social justice and the wider politics of the common good; the importance of place and a love of nature in determining identity and fostering well-being; and how these forces interact with different models of economic development and democratic participation, to shape future land-use planning, housing and infrastructure choices.
-
-    She took her first degree in English at Oxford before studying at Kew Gardens and Reading University, where she obtained an MSc in Plant Sciences. Between 1997 and 2001 she managed an extensive programme of conservation projects for Plantlife – the Wild Plant Conservation Charity - before joining the Royal Society for the Protection of Birds, where she lead the Society’s work on water and climate change. From 2009 to 2015 she was Political Director at Greenpeace UK, where she helped develop and implement campaigns on climate and energy, fair and sustainable fishing and the protection of the Arctic. Ruth writes extensively about the philosophy, politics and practice of environmentalism, and was awarded an MBE for services to the environment in 2014.
-
-    Mike Depledge has given hundreds of lectures at international conferences, workshops, universities and research institutes over the past 30 years, to a wide range of audiences. He has recently led establishment of the European Centre for Environment and Human Health on the University of Exeter Medical School campus in Truro.
-
-    Professor Depledge is interested in all aspects of biology, but especially the ways in which anthropogenic activities affect the environment and human health. The ecotoxicological research he conducted has focused on the effects of environmental pollutants on the physiology and behaviour of marine invertebrates and subsequent ecological and evolutionary consequences. He has a particular interest in biomarkers that allow changes in the health and physiological status of organisms to be monitored over time.
-
-    Alistair Boxall is Professor in Environmental Science.  Alistair’s research focuses on understanding emerging and future ecological and health risks posed by chemical contaminants in the natural environment. Alistair is a member of the Defra Advisory Hazardous Substances Advisory Committee and is Chair of the Pharmaceutical Advisory Group of the Society of Environmental Toxicology and Chemistry. He regularly advises national and international organisations on issues relating to chemical impacts on the environment and has published extensively on the topic of emerging contaminants (pharmaceuticals, nanomaterials and veterinary medicines) in the environment. Alistair is co-ordinator of the 3.5 M Euro project 'CAPACITIE' which is exploring methods for monitoring pollution in cities.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/understanding-yorks-environment-tickets-33272951293?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/29833677/22468345120/1/original.jpg?h=200&w=450&rect=0,10,960,480&s=29df9c36ddcb3900c6157e6f00bb9549
-  starts: 2017-05-25T18:30:00.0000000
-  ends: 2017-05-25T20:00:00.0000000
-  venue: Ron Cooke Hub auditorium
 - name: Nuclear Masterclass
   description: >
     Join the Department of Physics at the Unviversity of York for a Nuclear Masterclass: open to all students studying A level Physics (or equivalent).  
@@ -792,28 +752,6 @@
   starts: 2017-12-04T10:00:00.0000000
   ends: 2017-12-04T16:30:00.0000000
   venue: Department of Biology
-- name: All you need to know about .NET Core
-  description: '<p><a href="https://zogface.wordpress.com">Keith Williams</a> leads the development team at <a href="https://www.sunbrandingsolutions.com/">Sun Branding Solutions</a>, working on software that manages the graphics and packaging design for a surprisingly large proportion of the products that end up in your shopping basket. </p> <p>Keith’s team have been early adopters of .NET Core, running applications in production since beta4 in 2015. If you’re confused by .NET Core, are wondering what all the fuss is about, or just don’t see the point of it, then this talk will shed some light on its history, and hopefully show some of the benefits of moving.</p> <p>Come to this talk and you will get two years of professional .NET Core experience distilled down into one juicy, brain-oxygenating Leeds Sharp session.</p> <p>RSVP now and get FREE pizza and FREE drinks (courtesy of <a href="http://www.fruitionit.co.uk/">Fruition IT</a> - THE independent, service driven IT recruitment agency in Leeds that makes .NET developers happy).</p> '
-  url: https://www.meetup.com/Leeds-Sharp/events/239103853/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2017-05-25T17:30:00.0000000
-  ends: 2017-05-25T20:30:00.0000000
-  venue: Future Labs
-- name: 'May Meetup :: M2 Deployments, M2 Repositories & M2 Developer life!'
-  description: "<p>After a very first of many Magento Leeds Meetups - Our aim over the next few months is to being some fantastic speakers from across the world to Leeds. We'll hopefully be getting a good mix of development, solutions, merchant and vendor topics! If you're interested at speaking at future events, please DM us on <a href=\"https://twitter.com/magentoleeds\">Twitter</a>.</p> <p><b>Note: </b>Magento Leeds will run on the last Thursday of every month.</p> <p><b>SCHEDULE </b></p> <p><b>6:30pm</b> - Doors open, networking, food &amp; drink</p> <p><b>7:00pm</b> - Matthew Haworth - \"Handling Magento 2 Deployments\"</p> <p><br/><b>7:30pm</b> - Adam Lappin - \"Introduction to Magento 2's New Resource Model and the Service Contract Layer\"</p> <p><br/><b>8:00pm </b>- James Cowie - \"Magento 2 developer life so far, what I've learned and tips to developing\"</p> <p><br/><b>8:30pm</b> - Networking &amp; Drinks</p> "
-  url: https://www.meetup.com/Magento-Leeds/events/239817006/
-  is-free: true
-  starts: 2017-05-25T17:30:00.0000000
-  ends: 2017-05-25T20:00:00.0000000
-  venue: Duke Studios
-- name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
-  url: https://www.meetup.com/LeedsRubyThing/events/239759955/
-  is-free: true
-  starts: 2017-05-25T18:30:00.0000000
-  ends: 2017-05-25T22:30:00.0000000
-  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/240203216/
@@ -823,9 +761,17 @@
   ends: 2017-05-29T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Free Open to Everyone Evening!
+  description: "<p><b>What's happening?</b></p> <p>Are you an artist, maker, hobbyist, tinkerer, engineer or someone who just likes to make things or even just discuss creativity in Leeds?</p> <p>Come along and talk to like minded people and members at Leeds Hackspace, feel free to bring along a project that you're working on or just have a chat.</p> <p><b>So is this free? Do I have to book or something?</b></p> <p>Yes, it is free. Leeds Hackspace is a work-space, community group type and workshop area. We have snacks you can buy at our own Tuck Shop, internet access via WiFi or wired Ethernet.</p> <p><b>There doesn't seem to be many attending?</b></p> <p>A lot of our members, some 30+ do not use Meetup, and they regularly attend the open evenings/days without RSVPing on here. So don't worry, the open evenings happen regularly and every week.</p> <p><b>What do you have?</b></p> <p>Wood and metal workshop, laser cutter, 3D Printer, Vinyl cutter, computers, electronics, a heat press, and all sorts of <a href=\"https://wiki.leedshackspace.org.uk/wiki/Leeds_Hackspace\">other goodies</a>. However, using a lot of these things require an induction and for you to be a paying member, but we have these open evenings so that you can look around and check the place out. Some members are happy to help you if you need to be pointed in the right direction or have something that needs repairs.</p> <p><b>So is this a business.. ?</b></p> <p>Leeds Hackspace is registered as a business, but it is run voluntarily by Directors and members, if you want to see a change you can make it happen.</p> <p><b>How do I get there?</b></p> <p>You can find out more details about visiting here: <a href=\"http://leedshackspace.org.uk/getting-here/\"><a href=\"http://leedshackspace.org.uk/getting-here/\" class=\"linkified\">http://leedshackspace.org.uk/getting-here/</a></a> there is limited on-site free parking, and on-street parking is free after 6pm.</p> <p><b>What if I want to ask more questions?</b></p> <p>We also have a mailing list: <a href=\"https://groups.google.com/forum/#!forum/leeds-hack-space\" class=\"linkified\">https://groups.google.com/forum/#!forum/leeds-hack-space</a></p> "
+  url: https://www.meetup.com/Leeds-Hackspace/events/240092444/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/6/c/e/a/thumb_427947882.jpeg
+  starts: 2017-05-30T18:00:00.0000000
+  ends: 2017-05-30T22:30:00.0000000
+  venue: Leeds Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywhbpc/
+  url: https://www.meetup.com/YorkDevelopers/events/240260441/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-05-31T06:30:00.0000000
@@ -887,6 +833,14 @@
   ends: 2017-06-05T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Free Open to Everyone Evening!
+  description: "<p><b>What's happening?</b></p> <p>Are you an artist, maker, hobbyist, tinkerer, engineer or someone who just likes to make things or even just discuss creativity in Leeds?</p> <p>Come along and talk to like minded people and members at Leeds Hackspace, feel free to bring along a project that you're working on or just have a chat.</p> <p><b>So is this free? Do I have to book or something?</b></p> <p>Yes, it is free. Leeds Hackspace is a work-space, community group type and workshop area. We have snacks you can buy at our own Tuck Shop, internet access via WiFi or wired Ethernet.</p> <p><b>There doesn't seem to be many attending?</b></p> <p>A lot of our members, some 30+ do not use Meetup, and they regularly attend the open evenings/days without RSVPing on here. So don't worry, the open evenings happen regularly and every week.</p> <p><b>What do you have?</b></p> <p>Wood and metal workshop, laser cutter, 3D Printer, Vinyl cutter, computers, electronics, a heat press, and all sorts of <a href=\"https://wiki.leedshackspace.org.uk/wiki/Leeds_Hackspace\">other goodies</a>. However, using a lot of these things require an induction and for you to be a paying member, but we have these open evenings so that you can look around and check the place out. Some members are happy to help you if you need to be pointed in the right direction or have something that needs repairs.</p> <p><b>So is this a business.. ?</b></p> <p>Leeds Hackspace is registered as a business, but it is run voluntarily by Directors and members, if you want to see a change you can make it happen.</p> <p><b>How do I get there?</b></p> <p>You can find out more details about visiting here: <a href=\"http://leedshackspace.org.uk/getting-here/\"><a href=\"http://leedshackspace.org.uk/getting-here/\" class=\"linkified\">http://leedshackspace.org.uk/getting-here/</a></a> there is limited on-site free parking, and on-street parking is free after 6pm.</p> <p><b>What if I want to ask more questions?</b></p> <p>We also have a mailing list: <a href=\"https://groups.google.com/forum/#!forum/leeds-hack-space\" class=\"linkified\">https://groups.google.com/forum/#!forum/leeds-hack-space</a></p> "
+  url: https://www.meetup.com/Leeds-Hackspace/events/240205124/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/6/c/e/a/thumb_427947882.jpeg
+  starts: 2017-06-06T18:00:00.0000000
+  ends: 2017-06-06T22:30:00.0000000
+  venue: Leeds Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbkb/
@@ -912,6 +866,14 @@
   starts: 2017-06-07T17:00:00.0000000
   ends: 2017-06-07T20:00:00.0000000
   venue: Callcredit Information Group Limited
+- name: GDG Leeds - June
+  description: '<p><i>More details to follow.</i></p> <p>This month we will have a roundup of all the big things (and maybe the little things you might miss) announced at IO followed by an introduction to Kotlin by Darren Atherton. </p> <p><b>Schedule</b>:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Google IO Roundup</p> <p>7.00pm - Kotlin for Java Developers - Darren Atherton</p> <p>8.00pm - The End</p> '
+  url: https://www.meetup.com/GDG-Leeds/events/239748214/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
+  starts: 2017-06-08T17:00:00.0000000
+  ends: 2017-06-08T19:00:00.0000000
+  venue: Sky 2
 - name: Robot Wars (using RoboCode)
   description: '<p>Kevin Smith will put us through near military standard training to code with RoboCode (<a href="http://robocode.sourceforge.net/" class="linkified">http://robocode.sourceforge.net/</a>) Hosted by Kevin Smith (@kev_bite).</p> <p>More information to follow...</p> '
   url: https://www.meetup.com/York-Code-Dojo/events/239817109/
@@ -932,7 +894,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywhbpc/
+  url: https://www.meetup.com/YorkDevelopers/events/240260441/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-05-31T06:30:00.0000000
@@ -1400,6 +1362,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-11-13T07:30:00.0000000
   ends: 2017-11-13T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywpbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-11-15T07:30:00.0000000
+  ends: 2017-11-15T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
