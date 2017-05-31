@@ -45,8 +45,8 @@
   starts: 2017-05-31T17:45:00.0000000
   ends: 2017-05-31T20:45:00.0000000
   venue: Future Labs
-- name: Introduction to Magento 2's New Resource Model and the Service Contract Layer
-  description: "<p>Introduction to Magento 2's New Resource Model and the Service Contract Layer delivered by Adam Lappin, Senior Systems Development Engineer at Fera Science Ltd. Tips on what to look out for, what could break in the future, and a small whine about Magento 2's core code not following their own best practice.</p> "
+- name: Magento 2 Resource Model/Service Contract Layer + PHP Code Sniffer/Mess Detector
+  description: "<p>Two talks in this one evening:</p> <p>Introduction to Magento 2's New Resource Model and the Service Contract Layer delivered by Adam Lappin, Senior Systems Development Engineer at Fera Science Ltd. Tips on what to look out for, what could break in the future, and a small whine about Magento 2's core code not following their own best practice.</p> <p>PHP Code Sniffer and PHP Mess Detector - An overview by Simon Frost, Senior Web Developer at PureNet Solutions of the PHP Code Sniffer (<a href=\"https://github.com/squizlabs/PHP_CodeSniffer)\"><a href=\"https://github.com/squizlabs/PHP_CodeSniffer\" class=\"linkified\">https://github.com/squizlabs/PHP_CodeSniffer</a>)</a> and the PHP Mess Detector (<a href=\"https://phpmd.org/)\"><a href=\"https://phpmd.org/\" class=\"linkified\">https://phpmd.org/</a>)</a> </p> "
   url: https://www.meetup.com/Magento-York/events/239019467/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/1/2/3/thumb_444120291.jpeg
@@ -69,7 +69,7 @@
   venue: Futurelabs
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbhb/
+  url: https://www.meetup.com/YorkDevelopers/events/240382597/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-06-05T06:30:00.0000000
@@ -119,13 +119,13 @@
   venue: The Perky Peacock
   endorsed: true
 - name: Robot Wars (using RoboCode)
-  description: '<p>Kevin Smith will put us through near military standard training to code with RoboCode (<a href="http://robocode.sourceforge.net/" class="linkified">http://robocode.sourceforge.net/</a>) Hosted by Kevin Smith (@kev_bite).</p> <p>More information to follow...</p> '
+  description: '<p>Kevin Smith will put us through near military standard training to code with RoboCode (<a href="http://robocode.sourceforge.net/" class="linkified">http://robocode.sourceforge.net/</a>) Hosted by Kevin Smith (@kev_bite).</p> <p>Coding in C# or Java.</p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend.  Students very welcome!</p> <p>NOTE: Food in pizza form will be provided.  On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>WE HAVE A NEW ROOM - SAME BUILDING :-)</p> <p><i>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor. </i></p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/239817109/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
   starts: 2017-06-14T17:30:00.0000000
   ends: 2017-06-14T20:30:00.0000000
-  venue: Room FT/211 York St John University
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
@@ -138,7 +138,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbhb/
+  url: https://www.meetup.com/YorkDevelopers/events/240382597/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-06-05T06:30:00.0000000
@@ -624,6 +624,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-11-16T19:00:00.0000000
   ends: 2017-11-16T22:00:00.0000000
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywpbbc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-11-20T07:30:00.0000000
+  ends: 2017-11-20T10:30:00.0000000
+  venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
