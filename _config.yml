@@ -9,9 +9,10 @@
 locale                   : "en"
 title                    : "YorkDevelopers.org"
 title_separator          : "-"
-name                     : "{york.developers}"
-description              : "YorkDevelopers.org"
+name                     : "York Developers"
+description              : "York Developers support, develop and encourage a community of Software Developers in (and around) the City of York. We promote the values of learning and collaboration, helping to develop individuals and groups."
 url                      : "https://www.yorkdevelopers.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo                     : "/img/york-dot-developers.png"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yorkdevelopers/yorkdevelopers.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -65,6 +66,10 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - https://twitter.com/YorkDevelopers
+    - https://www.facebook.com/groups/yorkdevelopers
+    - https://www.linkedin.com/company-beta/18066526
+    - https://github.com/yorkdevelopers
 
 # Analytics
 analytics:
@@ -182,6 +187,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
