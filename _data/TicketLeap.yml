@@ -32,20 +32,6 @@
   starts: 2017-02-07T18:00:00.0000000
   ends: 2017-02-07T18:00:00.0000000
   venue: Bootham School - Assembly Hall
-- name: 'Bootham Talks presents: CafeTED – Happiness'
-  description: >
-    Bootham Talks are a series of informal lectures and discussions covering a wide range of subjects. At CafeTED events a few TED Talks are shown with a linking theme. There is then the opportunity to discuss and debate the topics whilst eating dessert!
-
-
-    The talks take place on the first Wednesday of each month in term time.
-
-
-    Are you happy? What is Happiness? Look at some research and discuss the concepts surrounding the emotion.
-  url: https://bootham-school.ticketleap.com/bootham-talks-4/
-  logo: https://ticketleap-media-master.s3.amazonaws.com/807cad9c-47a6-4a73-8ee3-23ede02cb06f/full.jpg
-  starts: 2017-06-07T21:00:00.0000000
-  ends: 2017-06-07T21:00:00.0000000
-  venue: Bootham School - Assembly Hall
 - name: 'Bootham Talks presents: The Fractals of Maths and Music'
   description: >
     Bootham Talks are a series of informal lectures and discussions covering a wide range of subjects. Each topic is presented by someone passionate about their field and has opportunity for questions and discussion afterwards.
@@ -77,6 +63,20 @@
   starts: 2017-05-03T21:00:00.0000000
   ends: 2017-05-03T21:00:00.0000000
   venue: Bootham School - Arts Centre Auditorium
+- name: 'CANCELLED | Bootham Talks presents: CafeTED – Happiness'
+  description: >
+    Bootham Talks are a series of informal lectures and discussions covering a wide range of subjects. At CafeTED events a few TED Talks are shown with a linking theme. There is then the opportunity to discuss and debate the topics whilst eating dessert!
+
+
+    The talks take place on the first Wednesday of each month in term time.
+
+
+    Are you happy? What is Happiness? Look at some research and discuss the concepts surrounding the emotion.
+  url: https://bootham-school.ticketleap.com/bootham-talks-4/
+  logo: https://ticketleap-media-master.s3.amazonaws.com/807cad9c-47a6-4a73-8ee3-23ede02cb06f/full.jpg
+  starts: 2017-06-07T21:00:00.0000000
+  ends: 2017-06-07T21:00:00.0000000
+  venue: Bootham School - Assembly Hall
 - name: Diversity is a Reality, Inclusion is a Choice
   description: >
     As part of our week celebrating diversity and inclusion, and marking anti-bullying week, we are delighted to welcome Claire Harvey as our keynote speaker.
