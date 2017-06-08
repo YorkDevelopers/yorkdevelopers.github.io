@@ -5,31 +5,6 @@
   starts: 2017-06-08T09:00:00.0000000
   ends: 2017-06-08T18:00:00.0000000
   venue: Central Methodist Church
-- name: TBD
-  description: '<p>Session details to be announced nearer the time.</p> <p>See the <a href="http://leedscodedojo.github.io/">LCD website</a> for further info.</p> '
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/239689314/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2017-06-07T17:00:00.0000000
-  ends: 2017-06-07T20:00:00.0000000
-  venue: Callcredit Information Group Limited
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/240443993/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-07T06:30:00.0000000
-  ends: 2017-06-07T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/240444342/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-06-07T07:00:00.0000000
-  ends: 2017-06-07T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: GDG Leeds - June
   description: '<p><i>More details to follow.</i></p> <p>This month we will have a roundup of all the big things (and maybe the little things you might miss) announced at IO followed by an introduction to Kotlin by Darren Atherton. </p> <p><b>Schedule</b>:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Google IO Roundup</p> <p>7.00pm - Kotlin for Java Developers - Darren Atherton</p> <p>8.00pm - The End</p> '
   url: https://www.meetup.com/GDG-Leeds/events/239748214/
@@ -106,15 +81,6 @@
   starts: 2017-06-14T17:30:00.0000000
   ends: 2017-06-14T20:30:00.0000000
   venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/240443993/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-07T06:30:00.0000000
-  ends: 2017-06-07T09:30:00.0000000
-  venue: The Perky Peacock
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
@@ -653,20 +619,6 @@
   starts: 2018-05-17T18:00:00.0000000
   ends: 2018-05-17T21:00:00.0000000
   endorsed: true
-- name: Designers of the Future
-  description: >-
-    <strong>Designers of the Future </strong><br />
-
-    with <em>Warren Fearn, York St John University, Design Centre</strong><br />
-
-    </em><br />
-
-    <strong>York Festival of Ideas Event. </strong> Free tickets from City Screen, York.
-  url: https://www.ypsyork.org/events/designers-of-the-future/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/05/VR1-200x125.jpg
-  starts: 2017-06-07T19:30:00.0000000
-  ends: 2017-06-07T21:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/city-screen-basement-bar/" title="City Screen Basement Bar">City Screen Basement Bar</a>
 - name: Coldstones Cut and Stump Cross Cavern
   description: This is an advance notice of an unusual proposed trip to visit a show cave and a unique sculpture/maze on a vantage point overlooking not only some superb scenery, but also a working quarry. If you are interested, either contact <strong>Paul Thornley</strong> directly (<a href="mailto:&#x79;&#x70;&#x73;&#x67;&#x65;&#x6f;&#x6c;&#x6f;&#x67;&#x79;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x79;&#x70;&#x73;&#x67;&#x65;&#x6f;&#x6c;&#x6f;&#x67;&#x79;&#x40;<span class="oe_displaynone">null</span>&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a>   tel  07810 402684) <strong>or</strong> complete the form below and return it to the YPS Lodge as soon as you can, and anyway by <strong>Friday 28 April 2017</strong>. Please enclose two  SAEs or your email address.  Paul will send you more details and a booking form as soon as details are finalised.
   url: https://www.ypsyork.org/events/coldstones-cut-and-stump-cross-cavern/
@@ -718,12 +670,6 @@
   logo: https://www.ypsyork.org/wp-content/uploads/2017/06/blenheim_palace_oxfordshire_original-200x125.jpg
   starts: 2017-10-08T08:00:00.0000000
   ends: 2017-10-08T10:00:00.0000000
-- name: Humans and Bots Conf
-  description: Call for Speakers now open for Humans and Robots (8th June, ) -
-  url: http://buff.ly/2lMpMKi
-  logo: http://pbs.twimg.com/profile_images/833637583100006400/Us7IO7Dj_normal.jpg
-  starts: 2017-06-08T00:00:00.0000000
-  ends: 2017-06-08T00:00:00.0000000
 - name: "'Save the planet!' - A talk by Alex Evans"
   description: >
     Share a Myth and ignore the data!
@@ -744,17 +690,3 @@
   starts: 2017-06-20T21:00:00.0000000
   ends: 2017-06-20T21:00:00.0000000
   venue: Bootham School
-- name: 'CANCELLED | Bootham Talks presents: CafeTED – Happiness'
-  description: >
-    Bootham Talks are a series of informal lectures and discussions covering a wide range of subjects. At CafeTED events a few TED Talks are shown with a linking theme. There is then the opportunity to discuss and debate the topics whilst eating dessert!
-
-
-    The talks take place on the first Wednesday of each month in term time.
-
-
-    Are you happy? What is Happiness? Look at some research and discuss the concepts surrounding the emotion.
-  url: https://bootham-school.ticketleap.com/bootham-talks-4/
-  logo: https://ticketleap-media-master.s3.amazonaws.com/807cad9c-47a6-4a73-8ee3-23ede02cb06f/full.jpg
-  starts: 2017-06-07T21:00:00.0000000
-  ends: 2017-06-07T21:00:00.0000000
-  venue: Bootham School - Assembly Hall
