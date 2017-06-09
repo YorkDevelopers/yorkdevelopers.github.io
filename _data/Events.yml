@@ -1,18 +1,3 @@
-- name: Humans and Bots
-  description: Increase productivity, improve your business and expand your mind by hearing from innovators and thought leaders on bots, automation and VR.Join over 300 curious minds as we explore how you can:Improve your digital products by learning from award-winning designers and best-selling authors on how to design for Humans instead of just users and devices.Save time and increase productivity for yourself and your business by hearing case-studies and advice from industry leaders on using bots to automate everyday tasks and servicesIncrease engagement by exploring the practical applications of Virtual Reality and learn how you can get started from senior engineers and developers at marketing-leading companiesHave your voice heard as we debate the implications and ethics of Artificial Intelligence on our work, homes and lives.Meet some of the most proactive and forward-thinking people in the entire sectorLunch & refreshments are included in the ticket priceContinue the discussion with an invitation to our private after-party4 panels packed with innovators and industry leaders from across the UK, including award-winning desginers, best-selling authors and senior developers, ux experts and engineers from Google, Samsung, Shopify and more!
-  url: https://www.eventbrite.co.uk/e/humans-and-bots-tickets-33309714252?aff=ebapi
-  logo: https://cdn.evbuc.com/images/29885646/80271930531/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=a2c66ace4b91f4dda23a240fd8079aaa
-  starts: 2017-06-08T09:00:00.0000000
-  ends: 2017-06-08T18:00:00.0000000
-  venue: Central Methodist Church
-- name: GDG Leeds - June
-  description: '<p><i>More details to follow.</i></p> <p>This month we will have a roundup of all the big things (and maybe the little things you might miss) announced at IO followed by an introduction to Kotlin by Darren Atherton. </p> <p><b>Schedule</b>:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Google IO Roundup</p> <p>7.00pm - Kotlin for Java Developers - Darren Atherton</p> <p>8.00pm - The End</p> '
-  url: https://www.meetup.com/GDG-Leeds/events/239748214/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
-  starts: 2017-06-08T17:00:00.0000000
-  ends: 2017-06-08T19:00:00.0000000
-  venue: Sky 2
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbqb/
@@ -619,13 +604,6 @@
   starts: 2018-05-17T18:00:00.0000000
   ends: 2018-05-17T21:00:00.0000000
   endorsed: true
-- name: Coldstones Cut and Stump Cross Cavern
-  description: This is an advance notice of an unusual proposed trip to visit a show cave and a unique sculpture/maze on a vantage point overlooking not only some superb scenery, but also a working quarry. If you are interested, either contact <strong>Paul Thornley</strong> directly (<a href="mailto:&#x79;&#x70;&#x73;&#x67;&#x65;&#x6f;&#x6c;&#x6f;&#x67;&#x79;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x79;&#x70;&#x73;&#x67;&#x65;&#x6f;&#x6c;&#x6f;&#x67;&#x79;&#x40;<span class="oe_displaynone">null</span>&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a>   tel  07810 402684) <strong>or</strong> complete the form below and return it to the YPS Lodge as soon as you can, and anyway by <strong>Friday 28 April 2017</strong>. Please enclose two  SAEs or your email address.  Paul will send you more details and a booking form as soon as details are finalised.
-  url: https://www.ypsyork.org/events/coldstones-cut-and-stump-cross-cavern/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/02/Volcanoe-200x125.jpg
-  starts: 2017-06-08T08:15:00.0000000
-  ends: 2017-06-08T10:15:00.0000000
-  venue: 13 Jun 2017
 - name: Volcanoes and their Health Hazards
   description: Volcanoes and their health hazards
   url: https://www.ypsyork.org/events/volcanoes-and-their-health-hazards/
@@ -640,6 +618,13 @@
   starts: 2017-06-14T14:30:00.0000000
   ends: 2017-06-14T16:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/star-inn-the-city/" title="Star Inn the City">Star Inn the City</a>
+- name: '&#8220;Electronic Dreams &#8211; How 1980&#8217;s Britain learned to love the home computer&#8221;'
+  description: "&#8220;Electronic Dreams &#8211; How 1980&#8217;s Britain learned to love the home computer&#8221;<br />\nDr Tom Lean, The British Library "
+  url: https://www.ypsyork.org/events/electronic-dreams-how-1980s-britain-learned-to-love-the-home-computer/
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/06/Electronic-Dreams-Computer-Pile-small-200x125.jpg
+  starts: 2017-07-05T19:30:00.0000000
+  ends: 2017-07-05T21:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/city-screen-basement-bar/" title="City Screen Basement Bar">City Screen Basement Bar</a>
 - name: 'The Life Project: The extraordinary story of our ordinary lives'
   description: by Helen Pearson, science writer and editor, &#8220;Nature&#8221;
   url: https://www.ypsyork.org/events/the-life-project-the-extraordinary-story-of-our-ordinary-lives/
