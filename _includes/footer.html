@@ -3,7 +3,7 @@
     <div class="footer-above">
         <div class="container">
             <div class="row">
-                <div class="footer-col col-md-4">
+                <div class="footer-col col-md-12">
                     <h3>Our web presence...</h3>
                     <ul class="list-inline">
                         <img src="https://slackin-yorkdevelopers.herokuapp.com/badge.svg">
@@ -34,7 +34,7 @@
                         {% endif %}
                         {% if site.googleplus_username %}
                         <li>
-							<a href="https://plus.google.com/+{{ site.googleplus_username }}" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+							<a href="https://plus.google.com/{{ site.googleplus_username }}" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
                         </li>
                         {% endif %}
                         {% if site.skype_username %}
