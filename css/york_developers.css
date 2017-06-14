@@ -691,3 +691,8 @@ fieldset[disabled] .btn-success:hover {
      margin: 0 auto;
      max-width: 500px; 
 }
+.inner-div-blog
+{
+     margin: 0 auto;
+     max-width: 800px; 
+}
