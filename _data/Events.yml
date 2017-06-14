@@ -1,3 +1,11 @@
+- name: IISE - York Pennsylvania "Made in America" Plant Tour 
+  description: "Join your colleagues from the National Capital Chapter as we put York, PA, the “Factory Tour Capital of the World”, to the test. During their annual Made in America event, York factories open their doors to the public. We’ll be visiting perennial favorite Harley Davidson, plus a handful of area-highlight factories.  \n9:00-10:30     Harley Davidson Vehicle Operations, Motorcycles\n11:00-12:00     Microtrac Inc., Particle Measurement Instruments\n12:00-1:30     Lunch, Mission BBQ\n1:30-2:30     Brewery Products Inc., Beverage Distributor   "
+  url: https://www.eventbrite.com/e/iise-york-pennsylvania-made-in-america-plant-tour-tickets-33601114839?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/30269015/147755609570/1/original.jpg?h=200&w=450&rect=59,0,702,351&s=4e9f1c397df48fcfede249eb54b02425
+  starts: 2017-06-16T09:00:00.0000000
+  ends: 2017-06-16T15:00:00.0000000
+  venue: York
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbsb/
@@ -586,13 +594,6 @@
   starts: 2018-05-17T18:00:00.0000000
   ends: 2018-05-17T21:00:00.0000000
   endorsed: true
-- name: Volcanoes and their Health Hazards
-  description: Volcanoes and their health hazards
-  url: https://www.ypsyork.org/events/volcanoes-and-their-health-hazards/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/02/Volcanoe-200x125.jpg
-  starts: 2017-06-13T19:30:00.0000000
-  ends: 2017-06-13T21:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: YPS Get-together
   description: Another opportunity to meet friends over a cup of coffee in pleasant surroundings at the Star Inn, overlooking the Ouse. No need to book
   url: https://www.ypsyork.org/events/yps-get-together-9/
