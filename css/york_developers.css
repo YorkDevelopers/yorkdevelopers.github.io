@@ -3,7 +3,7 @@ body {
     overflow-x: hidden
 } 
 p {
-    font-size: 20px
+    font-size: 16px
 }
 p.small-odd {
     color: #000000;
@@ -13,8 +13,8 @@ p.small-even {
     color: #000000;
     font-size: 16px
 }
-p.standard {
-    font-size: 14px
+p.large {
+    font-size: 20px
 }
 
 a,
