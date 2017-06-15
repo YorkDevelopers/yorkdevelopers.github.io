@@ -6,32 +6,6 @@
   starts: 2017-06-16T09:00:00.0000000
   ends: 2017-06-16T15:00:00.0000000
   venue: York
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbsb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-14T06:30:00.0000000
-  ends: 2017-06-14T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/240260293/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-06-14T07:00:00.0000000
-  ends: 2017-06-14T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Robot Wars (using RoboCode)
-  description: '<p>Kevin Smith will put us through near military standard training to code with RoboCode (<a href="http://robocode.sourceforge.net/" class="linkified">http://robocode.sourceforge.net/</a>) Hosted by Kevin Smith (@kev_bite).</p> <p>Coding in C# or Java.</p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend.  Students very welcome!</p> <p>NOTE: Food in pizza form will be provided.  On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>WE HAVE A NEW ROOM - SAME BUILDING :-)</p> <p><i>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor. </i></p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/239817109/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-06-14T17:30:00.0000000
-  ends: 2017-06-14T20:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmywjbtb/
@@ -55,24 +29,6 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-06-19T06:30:00.0000000
   ends: 2017-06-19T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Robot Wars (using RoboCode)
-  description: '<p>Kevin Smith will put us through near military standard training to code with RoboCode (<a href="http://robocode.sourceforge.net/" class="linkified">http://robocode.sourceforge.net/</a>) Hosted by Kevin Smith (@kev_bite).</p> <p>Coding in C# or Java.</p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend.  Students very welcome!</p> <p>NOTE: Food in pizza form will be provided.  On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>WE HAVE A NEW ROOM - SAME BUILDING :-)</p> <p><i>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor. </i></p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/239817109/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-06-14T17:30:00.0000000
-  ends: 2017-06-14T20:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbsb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-14T06:30:00.0000000
-  ends: 2017-06-14T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
@@ -594,13 +550,6 @@
   starts: 2018-05-17T18:00:00.0000000
   ends: 2018-05-17T21:00:00.0000000
   endorsed: true
-- name: YPS Get-together
-  description: Another opportunity to meet friends over a cup of coffee in pleasant surroundings at the Star Inn, overlooking the Ouse. No need to book
-  url: https://www.ypsyork.org/events/yps-get-together-9/
-  logo: https://www.ypsyork.org/wp-content/uploads/2016/08/Coffee-cup1-200x125.jpg
-  starts: 2017-06-14T14:30:00.0000000
-  ends: 2017-06-14T16:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/star-inn-the-city/" title="Star Inn the City">Star Inn the City</a>
 - name: '&#8220;Electronic Dreams &#8211; How 1980&#8217;s Britain learned to love the home computer&#8221;'
   description: "&#8220;Electronic Dreams &#8211; How 1980&#8217;s Britain learned to love the home computer&#8221;<br />\nDr Tom Lean, The British Library "
   url: https://www.ypsyork.org/events/electronic-dreams-how-1980s-britain-learned-to-love-the-home-computer/
