@@ -1,4 +1,6 @@
 {% for post in site.posts %}
+{% if post.categories contains 'Post' or post.categories contains 'Meetup' %}
+
 <div class="meetups-modal modal fade" id="{{ post.modalID }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
         <div class="close-modal" data-dismiss="modal">
@@ -32,4 +34,5 @@
         </div>
     </div>
 </div>
+ {% endif %}
 {% endfor %}

@@ -269,7 +269,8 @@ section.events-odd {
     display: block;
     position: relative;
     max-width: 400px;
-    margin: 0 auto
+    margin: 0 auto;
+    text-decoration: none;
 }
 #meetups .meetups-item .meetups-link .caption {
     background: rgba(255, 182428, 186, .2);
@@ -278,14 +279,13 @@ section.events-odd {
     height: 100%;
     opacity: 0;
 
-    
-
     transition: all ease .5s;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s
 }
 #meetups .meetups-item .meetups-link .caption:hover {
-    opacity: 1
+    opacity: 1;
+    
 }
 #meetups .meetups-item .meetups-link .caption .caption-content {
     position: absolute;

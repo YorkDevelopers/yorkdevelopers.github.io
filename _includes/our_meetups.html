@@ -18,7 +18,11 @@
                                 </div>
                             </div>
                             <img src="{{ site.baseurl }}/{{ post.img }}" class="img-rounded img-responsive" alt="{{ post.title }}">
+                            
                         </a>
+                        
+<a href="#{{ post.modalID }}" class="meetups-link" data-toggle="modal"><h5>{{ post.title }}</h5></a>
+
                     </div>
                     {% endif %}
                 {% endfor %}
