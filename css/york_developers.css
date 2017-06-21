@@ -16,6 +16,9 @@ p.small-even {
 p.large {
     font-size: 20px
 }
+p.tiny {
+    font-size: 12px
+}
 
 a,
 a.active,
