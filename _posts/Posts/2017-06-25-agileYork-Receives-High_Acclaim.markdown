@@ -2,7 +2,7 @@
 layout: post
 title:  "AgileYork receives high acclaim from York Council’s ICT team"
 date:   2017-06-25 07:00:10 -0000
-img: img/posts/techforyork.jpg
+img: img/posts/TechForYork.jpg
 modalID: modalAgileYorkExternalBlogJune2017
 category: Post
 ---
