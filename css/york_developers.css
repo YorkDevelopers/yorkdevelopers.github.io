@@ -273,7 +273,7 @@ section.events-odd {
     position: relative;
     max-width: 400px;
     margin: 0 auto;
-    text-decoration: none;
+    color: #FFF;
 }
 #meetups .meetups-item .meetups-link .caption {
     background: rgba(255, 182428, 186, .2);

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "York.Developers Launch"
+title:  "York.Developers Launch Community Hub"
 date:   2017-02-28 07:00:10 -0000
 img: img/posts/york-dot-developers-small.png
 modalID: modalSiteLaunch

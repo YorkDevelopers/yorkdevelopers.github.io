@@ -11,6 +11,9 @@
                 {% for post in site.posts %}
                     {% if post.categories contains 'Post' %}
                     <div class="col-sm-3 posts-item">
+                        <a href="#{{ post.modalID }}" class="posts-link" data-toggle="modal"><p class="tiny">{{ post.date | date: "%-d %B %Y" }}</p></a>
+                        <a href="#{{ post.modalID }}" class="posts-link" data-toggle="modal"><h6>{{ post.title }}</h6></a>
+                        <br>
                         <a href="#{{ post.modalID }}" class="posts-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
@@ -19,8 +22,6 @@
                             </div>
                             <img src="{{ site.baseurl }}/{{ post.img }}" class="img-rounded img-responsive" alt="{{ post.title }}">
                         </a>
-                        <br>
-                        <a href="#{{ post.modalID }}" class="posts-link" data-toggle="modal"><h5>{{ post.title }}</h5></a>
                     </div>
                     {% endif %}
                 {% endfor %}
