@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "YorkDevelopers at York St. John Conference"
+title:  "YorkDevelopers keynote at York St. John Conference"
 date:   2017-05-14 07:00:10 -0000
 img: img/posts/york-st-john-logo.png
 modalID: modalYorkStJohnConferenceMay2017

@@ -331,7 +331,8 @@ section.events-odd {
     display: block;
     position: relative;
     max-width: 400px;
-    margin: 0 auto
+    margin: 0 auto;
+    color: #000000;
 }
 #posts .posts-item .posts-link .caption {
     background: rgba(255, 182428, 186, .2);
