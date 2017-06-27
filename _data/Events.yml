@@ -1,14 +1,5 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbjc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-26T06:30:00.0000000
-  ends: 2017-06-26T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjblc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -509,10 +500,20 @@
 - name: 'Gardens and Archaeology: a day in Helmsley'
   description: <strong>            £24 per person inclusive of Gardens Tour, light lunch and a donation to support the archaeology collection.</strong>
   url: https://www.ypsyork.org/events/gardens-and-archaeology-a-day-in-helmsley/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/06/blenheim_palace_oxfordshire_original-200x125.jpg
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/06/Graham-Law-200x125.jpg
   starts: 2017-09-11T10:00:00.0000000
   ends: 2017-09-11T12:00:00.0000000
-  venue: 8 Oct 2017
+  venue: 19 Sep 2017
+- name: 'Sleep: the science and the myths'
+  description: >-
+    <strong>Sleep: the science and the myths<br />
+
+    Professor Graham Law</strong>
+  url: https://www.ypsyork.org/events/sleep-the-science-and-the-myths/
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/06/Graham-Law-200x125.jpg
+  starts: 2017-09-19T19:30:00.0000000
+  ends: 2017-09-19T21:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall-4/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: Secrets, spies and Statesmen.  Study Tour to Bletchley, Blenheim and Hughendon
   description: “Just for Groups” for the Yorkshire Philosophical Society
   url: https://www.ypsyork.org/events/secrets-spies-and-statesmen-study-tour-to-bletchley-blenheim-and-hughendon/
