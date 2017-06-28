@@ -1,179 +1,128 @@
-- name: TBD
-  description: '<p>Session details to be announced nearer the time.</p> <p>See the <a href="http://leedscodedojo.github.io/">LCD website</a> for further info.</p> '
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/239689314/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2017-06-07T17:00:00.0000000
-  ends: 2017-06-07T20:00:00.0000000
-  venue: Callcredit Information Group Limited
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/240443993/
+  url: https://www.meetup.com/YorkDevelopers/events/240986546/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-07T06:30:00.0000000
-  ends: 2017-06-07T09:30:00.0000000
+  starts: 2017-06-28T06:30:00.0000000
+  ends: 2017-06-28T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/240444342/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/240947718/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-06-07T07:00:00.0000000
-  ends: 2017-06-07T10:00:00.0000000
+  starts: 2017-06-28T07:00:00.0000000
+  ends: 2017-06-28T10:00:00.0000000
   venue: La Bottega Milanese
-- name: GDG Leeds - June
-  description: '<p><i>More details to follow.</i></p> <p>This month we will have a roundup of all the big things (and maybe the little things you might miss) announced at IO followed by an introduction to Kotlin by Darren Atherton. </p> <p><b>Schedule</b>:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.15pm - Google IO Roundup</p> <p>7.00pm - Kotlin for Java Developers - Darren Atherton</p> <p>8.00pm - The End</p> '
-  url: https://www.meetup.com/GDG-Leeds/events/239748214/
+- name: June - Anthony Brown & a prize giveaway!
+  description: "<p>Update: We've thought of how we're going to give away prizes, see below for details!</p> <p>Hey there Javascripters!</p> <p><br/>This month we've got a great talk from Anthony Brown about using Swagger to build Node APIs titled \"Add some swagger to your web apis with node.js\".</p> <p>Here is a brief intro from Anthony:</p> <p><i>\"Web APIs are everywhere these days, but they are only useful if people know how to use them. This talk is an introduction to swagger (or open api specification as it is now known) as a way to document APIs, and how to write a rest type API in node.js that uses a swagger file to ensure that your documentation is always up to date\"</i></p> <p>We'll also have a quiz for the chance to win a code for a year subscription to Frontend Masters. It'll be a general knowledge quiz rather than a JavaScript specific one so that no matter your level, you can join in! Before the quiz there will be a little talk about the custom quiz engine that we're going to be using and how it works.</p> <p>The talks start at around 7:00, but most people show up from 6:45 for pizza and to network and chat about all things JavaScript before the talk. After the talk we’ll be heading over to Headrow House to have a drink and to chat some more.</p> <p>The door to get in is shown here:</p> <p><a href=\"https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY\" class=\"linkified\">https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/240753306/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2017-06-28T17:45:00.0000000
+  ends: 2017-06-28T20:45:00.0000000
+  venue: Future Labs
+- name: 'Tron Battle: Bot Programming'
+  description: "<p>Learn about bot programming the fun way! In this session, we'll be explaining in detail popular game theory algorithms such as the <a href=\"https://en.wikipedia.org/wiki/Minimax\">Minimax algorithm</a>, <a href=\"https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning\">Alpha–beta pruning algorithm</a>, and also the <a href=\"https://en.wikipedia.org/wiki/Flood_fill\">flood fill algorithm</a>, and <a href=\"https://en.wikipedia.org/wiki/Pathfinding\">pathfinding algorithms</a> to combine them all into an AI bot that will compete against other bots live on the big screen. </p> <p><br/><img src=\"https://secure.meetupstatic.com/photos/event/e/7/9/c/600_460439292.jpeg\" /></p> <p>You can choose between leaning back and watching the Leeds Sharp regulars live coding on stage, or you can bring your laptop and code your own bot as we go along.</p> <p><br/>You can view the results on the <a href=\"https://www.codingame.com/leaderboards/puzzle/tron-battle/school/30999\">Leeds Sharp Leaderboard</a> before, during, and after the session. </p> <p>We'll be submitting our bots on <a href=\"https://www.codingame.com/servlet/urlinvite?u=1955980\">CodinGame.com</a> and playing <a href=\"https://www.codingame.com/multiplayer/bot-programming/tron-battle\">Tron Battle</a>. If you want your bot to show up on the <a href=\"https://www.codingame.com/leaderboards/puzzle/tron-battle/school/30999\">Leeds Sharp Leaderboard</a>, we suggest you register before the event using <a href=\"https://www.codingame.com/servlet/urlinvite?u=1955980\">this link</a>. Once registered, it is <b>important</b><b> that you update your profile and set your \"Company\" to \"Leeds Sharp\"</b>.</p> <p><b>THE GAME</b></p> <p>In <a href=\"https://www.codingame.com/multiplayer/bot-programming/tron-battle\">Tron Battle</a> your are a program driving the legendary tron light cycle. The light cycle moves in straight lines and only turns in 90° angles while leaving a solid light ribbon in its wake. Each cycle and associated ribbon features a different color.<br/>Should a light cycle stop, hit a light ribbon or go off the game grid, it will be instantly deactivated. The last cycle in play wins the game.</p> <p><br/><b>WHAT WILL YOU LEARN?</b></p> <p>In this puzzle, you need to move to empty cells while trying to trap your opponents. In order to achieve this goal, you can evaluate your move possibilities by using a flood-fill algorithm, a Voronoï-based method or a pathfinding algorithm.<br/>A popular algorithm for this puzzle is Minimax (or MinMax). With the help of an evaluation method, this algorithm will help you to chose the move that maximizes your score and minimizes the score of your opponent. For that, you'll compute the future states of the game.<br/>Finally, artificial intelligence games are based on your capacity to be creative. Observe, adapt, improve, and share with the community to create a powerful AI.</p> "
+  url: https://www.meetup.com/Leeds-Sharp/events/239505732/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2017-06-29T17:30:00.0000000
+  ends: 2017-06-29T20:00:00.0000000
+  venue: Futurelabs
+- name: Thursday June 29th - Sky News node to PHP, and async PHP on Alexa
+  description: "<p>This is a free event, come along and learn something new and fun.</p> <p>• 18:30 – Turn up, have a drink, a snack, and a chat (pizza, beer, coffee, soft drinks)</p> <p>• 19:00 – <b>Sky News: The Journey from Node.js to PHP - Brendan Quigley</b></p> <p>• 19:35 – Mid session interval</p> <p>• 19:40 – <b>Alexa PHP: Using serverless asynchronous PHP for Alexa bus timetables - Chris Bell</b></p> <p>• 20:30ish – Pop over to the Adelphi pub for a drink and a chat</p> <p>June’s event is to be <b>held at Sky</b> on <b>Thursday June 29th</b>. Note that this isn’t our usual day or venue. It's near Royal Armouries - there's a map at <a href=\"http://leedsphp.org/\">leedsphp.org</a>.</p> <p>This is the last event until September so come along and join us, it'll be better than that last day of school when you got to watch <a href=\"http://www.imdb.com/title/tt0096446/\">Willow</a>.</p> <p><b>The Talks</b></p> <p><b>Sky News: The Journey from Node.js to PHP - Brendan Quigley</b></p> <p><br/><i>In mid-2015 we began migrating the Sky News website from Node.js to Symfony. In the year that followed, we overhauled how we build PHP apps in the Digital Content tribe at Sky, leading to a cleaner, more testable, and more modular codebase.</p> <p>This talk will cover that journey, from our initial decisions through to going live… and a little beyond.</i></p> <p>Brendan is a senior software engineer in the Digital Content tribe at Sky, which looks after the Sky News and Sky Sports digital estate. He has also worked as a solutions architect in the tribe, as well as doing very interesting things previously at digital agency 9xb and travel search engine icelolly.com.</p> <p>Brendan on Twitter: <a href=\"https://twitter.com/beequeuebrendan\">@BeequeueBrendan</a></p> <p><b>Alexa PHP: Using serverless asynchronous PHP for Alexa bus timetables - Chris Bell</b></p> <p><i>In this session, I’ll be demonstrating how to build a practical Alexa skill running on AWS Lambda, using PHP 7. We’ll use the serverless framework to package and deploy our function. We’ll also touch on how asynchronous PHP can help improve our function execution time.</p> <p>If you’re interested in PHP, AWS Lambda, Function as a Service (FaaS), serverless framework, docker or promises - this talk is for you.</i></p> <p>Chris Bell is a clean coder with lean principles. He recently led a large international project for Sky Sport Deutschland. Chris is co-organiser of LeedsPHP and the indie developer behind <a href=\"https://salarybot.co.uk/\">SalaryBot Salary Calculator</a>.</p> <p>Chris on Twitter: <a href=\"https://twitter.com/cabdesigns\">@cabdesigns</a></p> <p><b>Sponsors</b></p> <p>• Sky are providing the venue, the pizza, and drinks for this meetup. Thanks Sky!</p> <p>• <a href=\"http://skybetcareers.com/about-us\">Sky Betting &amp; Gaming</a> will be providing the bar tab – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their <a href=\"http://skybetcareers.com/\">careers page</a> provides great detail as to the working environment and range of work available across the technology stack.</p> "
+  url: https://www.meetup.com/leedsphp/events/240601179/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/a/e/d/thumb_455636045.jpeg
+  starts: 2017-06-29T17:30:00.0000000
+  ends: 2017-06-29T20:30:00.0000000
+  venue: Sky 2,
+- name: 'June Meetup :: QA Testing, Merchandising Strategies and more...'
+  description: "<p>Our aim over the next few months is to being some fantastic speakers from across the world to Leeds. We'll hopefully be getting a good mix of development, solutions, merchant and vendor topics! If you're interested at speaking at future events, please DM us on Twitter.</p> <p>Note: Magento Leeds will run on the last Thursday of every month.</p> <p>SCHEDULE 6:30pm - Doors open, networking, food &amp; drink</p> <p>7:00pm - Lissie Cox, Ampersand - \"Fitting QA into the Agile Jigsaw\"</p> <p>7:30pm - Stephen Kenwright, Branded3 - \"Merchandising and Inventory Strategies for better SEO\"</p> <p>8:00pm - Douglas Radburn, Pinpoint - \" Code Design and Best Practices for Magento 2 Using Plugins\"</p> <p>8:30pm - Networking &amp; Drinks</p> "
+  url: https://www.meetup.com/Magento-Leeds/events/240603412/
+  is-free: true
+  starts: 2017-06-29T17:30:00.0000000
+  ends: 2017-06-29T20:30:00.0000000
+  venue: The Tetley
+- name: Leeds Ruby Thing meetup
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  url: https://www.meetup.com/LeedsRubyThing/events/240177761/
+  is-free: true
+  starts: 2017-06-29T18:30:00.0000000
+  ends: 2017-06-29T22:30:00.0000000
+  venue: Veritas Ale & Wine Bar
+- name: Monthly meet up
+  description: '<p>Chat about Linux and related technology over a drink.<br/>Some people get food from the bar.</p> '
+  url: https://www.meetup.com/West-Yorkshire-Linux-users-group/events/240367731/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/c/e/7/5/thumb_441292853.jpeg
+  starts: 2017-06-29T18:30:00.0000000
+  ends: 2017-07-03T20:00:00.0000000
+  venue: The Lord Darcy
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/241109866/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-07-03T06:30:00.0000000
+  ends: 2017-07-03T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywkbhb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-07-05T06:30:00.0000000
+  ends: 2017-07-05T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/240809175/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-07-05T07:00:00.0000000
+  ends: 2017-07-05T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: 'BABoss: The Only Business Analysis Management Event in Yorkshire'
+  description: '<p>Corecom Consulting is delighted to announce the first BABoss networking event, which will take place on Thursday 6 July 2017. BABoss is the one and only event in Yorkshire designed to bring the Business Analysis management community closer together.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?<br/></b>BABoss is hosted by Georgie Lynskey, Consultant at Corecom Consulting. The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>- a brief intro and welcome from Georgie<br/>- input from leaders within the industry<br/>- discussions on hot topics chosen by you<br/>- a buffet and refreshments<br/>- event round-up and thank you at approximately 8.30pm<br/>drinks and networking.</p> <p><br/><b>WHO ATTENDS?<br/></b>Leaders within Analysis Management. This is an invitation-only event organised and held by Corecom Consulting.</p> <p><b>WHY SHOULD I ATTEND?<br/></b>BABoss creates a unique platform for Analysis Managers through to Heads of Analysis all over Yorkshire to debate and discuss hot topics, learn from reputable and established speakers, whilst networking with like-minded individuals in an intimate but friendly environment.</p> '
+  url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237042194/
+  is-free: true
+  starts: 2017-07-06T17:00:00.0000000
+  ends: 2017-07-06T19:30:00.0000000
+  venue: Sky Lounge
+- name: GDG Leeds - July
+  description: "<p>Find us here! -&gt; <a href=\"https://goo.gl/maps/wSEDFPzEeZR2\" class=\"linkified\">https://goo.gl/maps/wSEDFPzEeZR2</a></p> <p>This month we will being doing a codelab on the Google Speech SDK presented by our very own Richard Rose. Make sure you bring a laptop! (Charged preferably as there may be limited plugs for charging). More details may follow so keep an eye on this event!</p> <p>The event is booked for 2 hours for safety, but it's likely we'll be finished earlier.</p> <p><br/><b>Schedule</b>:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.10pm - Google Speech SDK Codelab - Richard Rose</p> <p>8.00pm - The End (or earlier)</p> "
+  url: https://www.meetup.com/GDG-Leeds/events/241061710/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
-  starts: 2017-06-08T17:00:00.0000000
-  ends: 2017-06-08T19:00:00.0000000
+  starts: 2017-07-06T17:00:00.0000000
+  ends: 2017-07-06T19:00:00.0000000
   venue: Sky 2
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbqb/
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywkbnb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-12T06:30:00.0000000
-  ends: 2017-06-12T09:30:00.0000000
+  starts: 2017-07-10T06:30:00.0000000
+  ends: 2017-07-10T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbsb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-14T06:30:00.0000000
-  ends: 2017-06-14T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/240260293/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-06-14T07:00:00.0000000
-  ends: 2017-06-14T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Robot Wars (using RoboCode)
-  description: '<p>Kevin Smith will put us through near military standard training to code with RoboCode (<a href="http://robocode.sourceforge.net/" class="linkified">http://robocode.sourceforge.net/</a>) Hosted by Kevin Smith (@kev_bite).</p> <p>Coding in C# or Java.</p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend.  Students very welcome!</p> <p>NOTE: Food in pizza form will be provided.  On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>WE HAVE A NEW ROOM - SAME BUILDING :-)</p> <p><i>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor. </i></p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/239817109/
+- name: Recursion - see July's dojo for more information
+  description: '<p>Details to follow soon.</p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/240850855/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-06-14T17:30:00.0000000
-  ends: 2017-06-14T20:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmywjbtb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-15T18:00:00.0000000
-  ends: 2017-06-15T21:00:00.0000000
-  endorsed: true
-- name: 'Low Powered Wide Area Network (LPWAN) '
-  description: '<p>The next York IoT meetup will explore the York LPWAN initiative. Full details to follow soon.</p> '
-  url: https://www.meetup.com/York-Internet-Of-Things-Meetup/events/240012832/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/6/7/b/thumb_459913947.jpeg
-  starts: 2017-06-18T13:00:00.0000000
-  ends: 2017-06-18T15:00:00.0000000
-  venue: University of York
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbzb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-19T06:30:00.0000000
-  ends: 2017-06-19T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Robot Wars (using RoboCode)
-  description: '<p>Kevin Smith will put us through near military standard training to code with RoboCode (<a href="http://robocode.sourceforge.net/" class="linkified">http://robocode.sourceforge.net/</a>) Hosted by Kevin Smith (@kev_bite).</p> <p>Coding in C# or Java.</p> <p>BEGINNERS ARE WELCOME - A good one for any aspiring software developer to attend.  Students very welcome!</p> <p>NOTE: Food in pizza form will be provided.  On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>WE HAVE A NEW ROOM - SAME BUILDING :-)</p> <p><i>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor. </i></p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/239817109/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-06-14T17:30:00.0000000
-  ends: 2017-06-14T20:30:00.0000000
+  starts: 2017-07-12T17:30:00.0000000
+  ends: 2017-07-12T20:30:00.0000000
   venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/240443993/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-07T06:30:00.0000000
-  ends: 2017-06-07T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbqb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-12T06:30:00.0000000
-  ends: 2017-06-12T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbsb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-14T06:30:00.0000000
-  ends: 2017-06-14T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmywjbtb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-15T18:00:00.0000000
-  ends: 2017-06-15T21:00:00.0000000
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbzb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-19T06:30:00.0000000
-  ends: 2017-06-19T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbcc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-21T06:30:00.0000000
-  ends: 2017-06-21T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: agileYork - Second Meeting - Speakers TBC
-  description: '<p>See <a href="https://www.meetup.com/agileYork/events/240248111/" class="linkified">https://www.meetup.com/agileYork/events/240248111/</a> for more info.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/240302648/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-21T17:30:00.0000000
-  ends: 2017-06-21T19:30:00.0000000
-  venue: Black Swan Inn
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjbjc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-26T06:30:00.0000000
-  ends: 2017-06-26T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywjblc/
+  url: https://www.meetup.com/YorkDevelopers/events/240986546/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-06-28T06:30:00.0000000
@@ -182,7 +131,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywkbfb/
+  url: https://www.meetup.com/YorkDevelopers/events/241109866/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-07-03T06:30:00.0000000
@@ -598,6 +547,69 @@
   ends: 2017-11-22T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywpbkc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-11-27T07:30:00.0000000
+  ends: 2017-11-27T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywpbmc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-11-29T07:30:00.0000000
+  ends: 2017-11-29T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywqbgb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-12-04T07:30:00.0000000
+  ends: 2017-12-04T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywqbjb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-12-06T07:30:00.0000000
+  ends: 2017-12-06T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywqbpb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-12-11T07:30:00.0000000
+  ends: 2017-12-11T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywqbrb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-12-13T07:30:00.0000000
+  ends: 2017-12-13T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywqbxb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-12-18T07:30:00.0000000
+  ends: 2017-12-18T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmywqbcc/
@@ -645,4 +657,12 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-05-17T18:00:00.0000000
   ends: 2018-05-17T21:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxjbcc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-06-21T18:00:00.0000000
+  ends: 2018-06-21T21:00:00.0000000
   endorsed: true
