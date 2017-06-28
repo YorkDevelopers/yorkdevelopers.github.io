@@ -59,7 +59,8 @@ twitter_username         : "yorkdevelopers"
 facebook_username        : "groups/yorkdevelopers"
 github_username          : "yorkdevelopers"
 linkedin_url             : "https://www.linkedin.com/company-beta/18066526"
-googleplus_username      : "communities/101256815151571206242" 
+googleplus_username      : "communities/101256815151571206242"
+contact_email_address    : "code@yorkdevelopers.org" 
 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -86,7 +87,7 @@ author:
   avatar           : # path of avatar image" # e.g. "/assets/images/bio-photo.jpg"
   bio              : "York Developers"
   location         : "York, UK"
-  email            :
+  email            : "code@yorkdevelopers.org"
   uri              :
   bitbucket        :
   codepen          :
