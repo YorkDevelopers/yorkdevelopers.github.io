@@ -229,6 +229,13 @@ section.our_meetups {
 section.our_meetups h2 {
     color: #fff
 }
+section.blog_index {
+    background: #4800FF;
+    color: #fff
+}
+section.blog_index h2 {
+    color: #fff
+}
 section.twitter_feed {
     background: #FFF;
     color: #4800FF
