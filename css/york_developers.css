@@ -229,13 +229,6 @@ section.our_meetups {
 section.our_meetups h2 {
     color: #fff
 }
-section.contact_us {
-    background: #4800FF;
-    color: #fff
-}
-section.contact_us h2 {
-    color: #fff
-}
 section.twitter_feed {
     background: #FFF;
     color: #4800FF
@@ -321,6 +314,21 @@ section.events-odd {
         margin: 0 0 30px
     }
 }
+
+
+
+#blog-index .blog-index-item {
+    margin: 0 0 15px;
+    right: 0
+}
+#blog-index .blog-index-item .blog-index-link {
+    display: block;
+    position: relative;
+    max-width: 400px;
+    margin: 0 auto;
+    color: #FFD800;    
+}
+
 
 
 #posts .posts-item {
