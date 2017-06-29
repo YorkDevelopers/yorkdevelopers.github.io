@@ -1,28 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/240986546/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-28T06:30:00.0000000
-  ends: 2017-06-28T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/240947718/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-06-28T07:00:00.0000000
-  ends: 2017-06-28T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: June - Anthony Brown & a prize giveaway!
-  description: "<p>Update: We've thought of how we're going to give away prizes, see below for details!</p> <p>Hey there Javascripters!</p> <p><br/>This month we've got a great talk from Anthony Brown about using Swagger to build Node APIs titled \"Add some swagger to your web apis with node.js\".</p> <p>Here is a brief intro from Anthony:</p> <p><i>\"Web APIs are everywhere these days, but they are only useful if people know how to use them. This talk is an introduction to swagger (or open api specification as it is now known) as a way to document APIs, and how to write a rest type API in node.js that uses a swagger file to ensure that your documentation is always up to date\"</i></p> <p>We'll also have a quiz for the chance to win a code for a year subscription to Frontend Masters. It'll be a general knowledge quiz rather than a JavaScript specific one so that no matter your level, you can join in! Before the quiz there will be a little talk about the custom quiz engine that we're going to be using and how it works.</p> <p>The talks start at around 7:00, but most people show up from 6:45 for pizza and to network and chat about all things JavaScript before the talk. After the talk we’ll be heading over to Headrow House to have a drink and to chat some more.</p> <p>The door to get in is shown here:</p> <p><a href=\"https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY\" class=\"linkified\">https://lh4.googleusercontent.com/WEs_alSgXLU9mlLSGXSFeewOjmQLpOuz6eyr80eP2iyaIDQrxDXo92ZdGieYhauCC0pEm1OscRbGdC3lNbWSRgakHCSv1AxFGEBwV6VFqkw3U2KCjb1IO1t6ftdVDUYB35QNAwPY</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
-  url: https://www.meetup.com/LeedsJS/events/240753306/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2017-06-28T17:45:00.0000000
-  ends: 2017-06-28T20:45:00.0000000
-  venue: Future Labs
 - name: 'Tron Battle: Bot Programming'
   description: "<p>Learn about bot programming the fun way! In this session, we'll be explaining in detail popular game theory algorithms such as the <a href=\"https://en.wikipedia.org/wiki/Minimax\">Minimax algorithm</a>, <a href=\"https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning\">Alpha–beta pruning algorithm</a>, and also the <a href=\"https://en.wikipedia.org/wiki/Flood_fill\">flood fill algorithm</a>, and <a href=\"https://en.wikipedia.org/wiki/Pathfinding\">pathfinding algorithms</a> to combine them all into an AI bot that will compete against other bots live on the big screen. </p> <p><br/><img src=\"https://secure.meetupstatic.com/photos/event/e/7/9/c/600_460439292.jpeg\" /></p> <p>You can choose between leaning back and watching the Leeds Sharp regulars live coding on stage, or you can bring your laptop and code your own bot as we go along.</p> <p><br/>You can view the results on the <a href=\"https://www.codingame.com/leaderboards/puzzle/tron-battle/school/30999\">Leeds Sharp Leaderboard</a> before, during, and after the session. </p> <p>We'll be submitting our bots on <a href=\"https://www.codingame.com/servlet/urlinvite?u=1955980\">CodinGame.com</a> and playing <a href=\"https://www.codingame.com/multiplayer/bot-programming/tron-battle\">Tron Battle</a>. If you want your bot to show up on the <a href=\"https://www.codingame.com/leaderboards/puzzle/tron-battle/school/30999\">Leeds Sharp Leaderboard</a>, we suggest you register before the event using <a href=\"https://www.codingame.com/servlet/urlinvite?u=1955980\">this link</a>. Once registered, it is <b>important</b><b> that you update your profile and set your \"Company\" to \"Leeds Sharp\"</b>.</p> <p><b>THE GAME</b></p> <p>In <a href=\"https://www.codingame.com/multiplayer/bot-programming/tron-battle\">Tron Battle</a> your are a program driving the legendary tron light cycle. The light cycle moves in straight lines and only turns in 90° angles while leaving a solid light ribbon in its wake. Each cycle and associated ribbon features a different color.<br/>Should a light cycle stop, hit a light ribbon or go off the game grid, it will be instantly deactivated. The last cycle in play wins the game.</p> <p><br/><b>WHAT WILL YOU LEARN?</b></p> <p>In this puzzle, you need to move to empty cells while trying to trap your opponents. In order to achieve this goal, you can evaluate your move possibilities by using a flood-fill algorithm, a Voronoï-based method or a pathfinding algorithm.<br/>A popular algorithm for this puzzle is Minimax (or MinMax). With the help of an evaluation method, this algorithm will help you to chose the move that maximizes your score and minimizes the score of your opponent. For that, you'll compute the future states of the game.<br/>Finally, artificial intelligence games are based on your capacity to be creative. Observe, adapt, improve, and share with the community to create a powerful AI.</p> "
   url: https://www.meetup.com/Leeds-Sharp/events/239505732/
@@ -119,15 +94,6 @@
   starts: 2017-07-12T17:30:00.0000000
   ends: 2017-07-12T20:30:00.0000000
   venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/240986546/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-06-28T06:30:00.0000000
-  ends: 2017-06-28T09:30:00.0000000
-  venue: The Perky Peacock
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
