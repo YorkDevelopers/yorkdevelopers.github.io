@@ -1,20 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/241168484/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-07-05T06:30:00.0000000
-  ends: 2017-07-05T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/240809175/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-07-05T07:00:00.0000000
-  ends: 2017-07-05T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: 'BABoss: The Only Business Analysis Management Event in Yorkshire'
   description: '<p>Corecom Consulting is delighted to announce the first BABoss networking event, which will take place on Thursday 6 July 2017. BABoss is the one and only event in Yorkshire designed to bring the Business Analysis management community closer together.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?<br/></b>BABoss is hosted by Georgie Lynskey, Consultant at Corecom Consulting. The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>- a brief intro and welcome from Georgie<br/>- input from leaders within the industry<br/>- discussions on hot topics chosen by you<br/>- a buffet and refreshments<br/>- event round-up and thank you at approximately 8.30pm<br/>drinks and networking.</p> <p><br/><b>WHO ATTENDS?<br/></b>Leaders within Analysis Management. This is an invitation-only event organised and held by Corecom Consulting.</p> <p><b>WHY SHOULD I ATTEND?<br/></b>BABoss creates a unique platform for Analysis Managers through to Heads of Analysis all over Yorkshire to debate and discuss hot topics, learn from reputable and established speakers, whilst networking with like-minded individuals in an intimate but friendly environment.</p> '
   url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237042194/
@@ -89,15 +72,6 @@
   starts: 2017-07-12T17:30:00.0000000
   ends: 2017-07-12T20:30:00.0000000
   venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/241168484/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-07-05T06:30:00.0000000
-  ends: 2017-07-05T09:30:00.0000000
-  venue: The Perky Peacock
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
@@ -627,13 +601,6 @@
   starts: 2018-06-21T18:00:00.0000000
   ends: 2018-06-21T21:00:00.0000000
   endorsed: true
-- name: '&#8220;Electronic Dreams &#8211; How 1980&#8217;s Britain learned to love the home computer&#8221;'
-  description: "&#8220;Electronic Dreams &#8211; How 1980&#8217;s Britain learned to love the home computer&#8221;<br />\nDr Tom Lean, The British Library "
-  url: https://www.ypsyork.org/events/electronic-dreams-how-1980s-britain-learned-to-love-the-home-computer/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/06/Electronic-Dreams-Computer-Pile-small-200x125.jpg
-  starts: 2017-07-05T19:30:00.0000000
-  ends: 2017-07-05T21:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/city-screen-basement-bar/" title="City Screen Basement Bar">City Screen Basement Bar</a>
 - name: 'The Life Project: The extraordinary story of our ordinary lives'
   description: by Helen Pearson, science writer and editor, &#8220;Nature&#8221;
   url: https://www.ypsyork.org/events/the-life-project-the-extraordinary-story-of-our-ordinary-lives/
