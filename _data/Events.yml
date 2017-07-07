@@ -1,18 +1,86 @@
-- name: 'BABoss: The Only Business Analysis Management Event in Yorkshire'
-  description: '<p>Corecom Consulting is delighted to announce the first BABoss networking event, which will take place on Thursday 6 July 2017. BABoss is the one and only event in Yorkshire designed to bring the Business Analysis management community closer together.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?<br/></b>BABoss is hosted by Georgie Lynskey, Consultant at Corecom Consulting. The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>- a brief intro and welcome from Georgie<br/>- input from leaders within the industry<br/>- discussions on hot topics chosen by you<br/>- a buffet and refreshments<br/>- event round-up and thank you at approximately 8.30pm<br/>drinks and networking.</p> <p><br/><b>WHO ATTENDS?<br/></b>Leaders within Analysis Management. This is an invitation-only event organised and held by Corecom Consulting.</p> <p><b>WHY SHOULD I ATTEND?<br/></b>BABoss creates a unique platform for Analysis Managers through to Heads of Analysis all over Yorkshire to debate and discuss hot topics, learn from reputable and established speakers, whilst networking with like-minded individuals in an intimate but friendly environment.</p> '
-  url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237042194/
-  is-free: true
-  starts: 2017-07-06T17:00:00.0000000
-  ends: 2017-07-06T19:30:00.0000000
-  venue: Sky Lounge
-- name: GDG Leeds - July
-  description: "<p>Find us here! -&gt; <a href=\"https://goo.gl/maps/wSEDFPzEeZR2\" class=\"linkified\">https://goo.gl/maps/wSEDFPzEeZR2</a></p> <p>This month we will being doing a codelab on the Google Speech SDK presented by our very own Richard Rose. Make sure you bring a laptop! (Charged preferably as there may be limited plugs for charging). Google provide a free tier for speech and currently provide a $300 credit for new accounts.</p> <p>The event is booked for 2 hours for safety, but it's likely we'll be finished earlier.</p> <p><br/><b>Schedule</b>:</p> <p>6.00pm - Arrive, mingle, get drinks</p> <p>6.10pm - Ice breaker - Fun quiz</p> <p>6.15pm - Google Assistant - RPi demo</p> <p>7.30pm - Google Speech SDK Codelab - Richard Rose</p> <p>* Note if you want to run the demo, please ensure you sign up a free Google Cloud account <a href=\"http://bit.ly/2i7mQHI\"><a href=\"http://bit.ly/2i7mQHI\" class=\"linkified\">http://bit.ly/2i7mQHI</a></a></p> <p>8.00pm - The End (or earlier)</p> "
-  url: https://www.meetup.com/GDG-Leeds/events/241061710/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
-  starts: 2017-07-06T17:00:00.0000000
-  ends: 2017-07-06T19:00:00.0000000
-  venue: Sky 2
+- name: South York 'How to Ace the Tech Interview Bootcamp
+  description: >
+    Overview
+
+    If you want to have your dream come true of working for Google or Facebook or Apple or one of the hottest startups in the silicon valley or seattle or another tech town, you have to ace their tech or technical interview. This is an art as well as a science and it can be learned, practiced and perfected.
+
+
+    Next Class starting
+
+    July 31, 2017
+
+
+    Where?
+
+    Virtual Instructor led Online
+
+
+    Video Conference Link
+
+    Will be sent upon Registration and Payment
+
+     
+
+    Who Can Attend?
+
+
+    You are interested in improving your tech interview and problem solving skills.
+
+    You are interested in working for one of the top tech companies or hottest start up
+
+    You are willing to put in the efforts required to learn, practice and clear the toughest tech interviews.
+
+    You do not need to have a background in computer science or computer programming. Steve Jobs did not have any such background.
+
+    Software engineers, Tech PMs, software test engineers, architects
+
+
+     
+
+    Why Tech interview coaching?
+
+    Tech professionals are in great demand in the software industry today.
+
+    You do not need any programming skills – just an appreciation for technologies and willingness to learn and do the hard work necessary to build a career in the tech industry
+
+     
+
+    Why Tech interview coaching from Omni212?
+
+    Omni212 techies are in great demand in the software industry. We have trained, coached and helped hundreds of tech professionals. 
+
+
+    Class Schedule
+
+    July 31 - August 24, 2017
+
+    Mon, Thu 7:00 PM - 9:00 PM (Pacific Standard Time)
+
+
+    Training Dates
+
+    July 31, August 3, 7, 10, 14, 17, 21, 24
+
+
+
+    REFUND POLICY
+
+    1. There will be no refunds.
+
+    2. If a class is not taken for any reason, purchase price can be applied toward any published future class by Omni212 of equal or lesser value.
+
+
+
+    Our Corporate Training Offering
+
+    Learn more about our Corporate Training offering:
+
+    https://www.omni212.com/services/training/
+  url: https://www.eventbrite.com/e/south-york-how-to-ace-the-tech-interview-bootcamp-tickets-35956205980?aff=ebapi
+  logo: https://cdn.evbuc.com/images/32988550/59307985005/1/original.jpg?h=200&w=450&rect=0,230,2764,1382&s=246a740f9e838a4b4b1a594a28779c89
+  starts: 2017-07-31T22:00:00.0000000
+  ends: 2017-08-25T00:00:00.0000000
+  venue: Instructor led Online | Video Conference
 - name: "Lightning Talks & Hack Night \U0001F4BB"
   description: "<p>This month is an open hack night with time for lightning talks. The format is open and all speakers are welcome. Why not come show us your latest side-project or something awesome you've learnt?</p> <p><br/><b>Note: Time for the lighting talks is limited - If you're interested in speaking please leave a comment or drop us a tweet @elixirnorth.</b></p> <p><br/>After any talks we'll break out into an open hack night. Bring a fully charged laptop along with your latest projects, ideas or problems. Come meet new devs, pair on something awesome or ask for support. New to Elixir? We'd love to help out!</p> <p><br/>Pizza will be served 6:30 and we'll start the talks at 6:45. Drinks will be available throughout.</p> <p><br/><i>Please note the group is intended for people looking to expand their knowledge in a recruitment free zone. We welcome recruiters who want to learn but have a strict no recruitment policy. </i></p> "
   url: https://www.meetup.com/Elixir-North/events/241115455/
