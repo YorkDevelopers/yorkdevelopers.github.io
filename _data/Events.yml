@@ -81,13 +81,6 @@
   starts: 2017-07-31T22:00:00.0000000
   ends: 2017-08-25T00:00:00.0000000
   venue: Instructor led Online | Video Conference
-- name: "Lightning Talks & Hack Night \U0001F4BB"
-  description: "<p>This month is an open hack night with time for lightning talks. The format is open and all speakers are welcome. Why not come show us your latest side-project or something awesome you've learnt?</p> <p><br/><b>Note: Time for the lighting talks is limited - If you're interested in speaking please leave a comment or drop us a tweet @elixirnorth.</b></p> <p><br/>After any talks we'll break out into an open hack night. Bring a fully charged laptop along with your latest projects, ideas or problems. Come meet new devs, pair on something awesome or ask for support. New to Elixir? We'd love to help out!</p> <p><br/>Pizza will be served 6:30 and we'll start the talks at 6:45. Drinks will be available throughout.</p> <p><br/><i>Please note the group is intended for people looking to expand their knowledge in a recruitment free zone. We welcome recruiters who want to learn but have a strict no recruitment policy. </i></p> "
-  url: https://www.meetup.com/Elixir-North/events/241115455/
-  is-free: true
-  starts: 2017-07-07T17:15:00.0000000
-  ends: 2017-07-07T20:15:00.0000000
-  venue: Futurelabs
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/241184128/
@@ -669,13 +662,6 @@
   starts: 2018-06-21T18:00:00.0000000
   ends: 2018-06-21T21:00:00.0000000
   endorsed: true
-- name: 'The Life Project: The extraordinary story of our ordinary lives'
-  description: by Helen Pearson, science writer and editor, &#8220;Nature&#8221;
-  url: https://www.ypsyork.org/events/the-life-project-the-extraordinary-story-of-our-ordinary-lives/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/01/The-life-story-200x125.png
-  starts: 2017-07-07T19:30:00.0000000
-  ends: 2017-07-07T21:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: Bringing Science and Water to Life
   description: >-
     <strong>This day trip will leave Memorial Gardens at 8.15 am, and offers a  morning visit to the Manchester Museum of Science and Industry (free roaming around), followed by an afternoon boat trip on the Bridgewater Canal. Cost £37 plus optional tea &#8211; see below<br />
