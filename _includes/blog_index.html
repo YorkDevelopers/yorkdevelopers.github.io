@@ -14,16 +14,20 @@
                 
                
 
-                <div class="col-lg-4 blog-index-item text-left">
+                <div class="col-lg-4 blog-index-item">
                     
-                    <a href="#{{ site.url }}/blog#{{ post.title | replace: ' ', ''}}" class="blog-index-link" data-toggle="modal"><p class="tiny">{{ post.date | date: "%-d %B %Y" }}</p></a>
+                    
                     <a href="{{ site.url }}/blog#{{ post.title | replace: ' ', ''}}" class="blog-index-link">{{ post.title }}</a>
+                    &nbsp;&nbsp;{{ post.date | date: "%-d %B %Y" }}
                 
-                    <div class="event_image_right">
-                        <img src="{{ site.baseurl }}/{{ post.img }}" class="img-rounded img-responsive" alt="" style="width:100px;height: auto;">
+                    <div>
+                        <img src="{{ site.baseurl }}/{{ post.img }}" class="blog_image img-rounded img-responsive" alt="" style="width:50px;height: auto;">
                     </div>
 
-                    {{ post.excerpt }}
+                    <div class="blog-excerpt"> 
+                        {{ post.content | strip_html | truncatewords: 30 }}
+                    </div>
+                    
                 </div>
                 
                 {% endif %}

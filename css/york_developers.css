@@ -19,6 +19,9 @@ p.large {
 p.tiny {
     font-size: 12px
 }
+p.micro {
+    font-size: 10px
+}
 
 a,
 a.active,
@@ -324,18 +327,21 @@ section.events-odd {
 
 
 
+
 #blog-index .blog-index-item {
     margin: 0 0 15px;
     right: 0
 }
 #blog-index .blog-index-item .blog-index-link {
-    display: block;
-    position: relative;
     max-width: 400px;
     margin: 0 auto;
-    color: #FFD800;    
+    color: #FFD800;
+    font-size: 20px;    
 }
 
+#blog-index .blog_image {
+    float:right;
+}
 
 
 #posts .posts-item {
