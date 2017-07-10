@@ -269,7 +269,9 @@ section.events-odd {
 
 #meetups .meetups-item {
     margin: 0 0 15px;
-    right: 0
+    right: 0;
+    /*border: 1px solid #FFF;*/
+    text-align: center;
 }
 #meetups .meetups-item .meetups-link {
     display: block;

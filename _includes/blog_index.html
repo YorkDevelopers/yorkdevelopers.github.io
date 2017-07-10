@@ -11,12 +11,9 @@
 
                 {% for post in site.posts %}
                 {% if post.categories contains 'Blog' %}
-                
-               
 
-                <div class="col-lg-4 blog-index-item">
-                    
-                    
+                <div class="col-md-4 col-sm-5 blog-index-item">
+                              
                     <a href="{{ site.url }}/blog#{{ post.title | replace: ' ', ''}}" class="blog-index-link">{{ post.title }}</a>
                     &nbsp;&nbsp;{{ post.date | date: "%-d %B %Y" }}
                 

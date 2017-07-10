@@ -15,8 +15,9 @@
                     <div class="modal-body">
                         <h2>{{ post.title }}</h2>
                         <hr class="star-primary">
-                        <img src="{{ site.baseurl }}/{{ post.img }}" class="img-responsive img-centered" alt="">
+                        <img src="{{ site.baseurl }}/{{ post.img }}" class="img-rounded img-responsive img-centered" alt="">
                         {{ post.content }}
+                        {% if post.categories contains 'Post' %}
                         <ul class="list-inline item-details">
                             <li>Category:
                                 <strong>{{ post.category }}
@@ -27,6 +28,7 @@
                                     </strong>
                             </li>
                         </ul>
+                        {% endif %}
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                     </div>
                 </div>
@@ -34,5 +36,5 @@
         </div>
     </div>
 </div>
- {% endif %}
+{% endif %}
 {% endfor %}
