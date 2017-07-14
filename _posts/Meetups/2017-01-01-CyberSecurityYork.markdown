@@ -8,6 +8,6 @@ category: Meetup
 ---
 Cyber Security York.
 
-Created to bring together the next generation of Cyber Defenders from the City of York interested in developing and discussing cyber security issues and techniques.  Formed with a goal to put together a team to enter Cyber Challenges locally and nationally.
+Created to bring together the next generation of Cyber Defenders from the City of York interested in developing and discussing cyber security issues and techniques.  Formed with a goal to put together a team to enter Cyber Challenges locally, nationally and internationally.
 
 Coming soon...
