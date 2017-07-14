@@ -2,7 +2,7 @@
 layout: post
 title:  "York Game Developers"
 date:   2017-03-01 15:08:10 -0500
-img: img/meetups/York_Game_Developers.jpg
+img: img/meetups/york_game_dev_logo_large.png
 modalID: modalYorkGameDevelopers
 category: Meetup
 ---
