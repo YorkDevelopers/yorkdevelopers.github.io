@@ -1130,6 +1130,14 @@
   starts: 2017-07-19T17:00:00.0000000
   ends: 2017-07-19T19:00:00.0000000
   venue: City of York Council
+- name: Organisational meeting
+  description: "<p>Hello everyone!</p> <p>We're holding an organisational meeting and want you involved! The aim of the meeting is to help guide the direction for the future of LeedsJS and we want input from the community.</p> <p>We're aiming to keep it to around an hour so that we keep it focused on things we can change in the near future and gradually make changes.</p> <p>If you have any ideas, feel free to bring them so that we can discuss them as a group!</p> <p>Hopefully we'll hold these every few months so that we can guide LeedsJS with the help of the community.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/241716484/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2017-07-19T18:00:00.0000000
+  ends: 2017-07-19T19:00:00.0000000
+  venue: Future Labs
 - name: An evening to showcase Kotlin, an emerging JVM Language!!
   description: '<p>The JVM Thing!</p> <p>Organised by Fruition IT our next JVM meet of 2017 is confirmed; An evening to showcase Kotlin, an emerging JVM Language – What’s all the fuss about?</p> <p>With Andy Bowes, Software Consultant @ Sky &amp; Michael Richardson, Mobile Developer @ Sky who will be talking about the following:</p> <p>An overview of the Kotlin Language to demonstrate the key features of the language.<br/>This session provides an introduction to the language, covering basic concepts and tips for Java developers to get started with it.</p> <p>Demonstration of use of Kotlin to create REST Microservices using Spring Boot.<br/>This will cover the similarity between Kotlin &amp; Java Spring Boot applications &amp; introduce the new features that are being introduced into the Spring framework to support Kotlin.</p> <p>Google recently announced first-class support for Kotlin in Android development.<br/>This session will demonstrate the creation of Android applications using Kotlin and highlight the features of the language which make it a natural fit for Android development.</p> <p>Please RSVP to reserve your space, we are expecting high demand for this event - <a href="https://the-jvm-thing-kotlin.eventbrite.co.uk"><a href="https://the-jvm-thing-kotlin.eventbrite.co.uk" class="linkified">https://the-jvm-thing-kotlin.eventbrite.co.uk</a></a></p> <p>Venue – Infinity Works</p> <p>Apsley House, 78 Wellington St, Leeds LS1 2EQ</p> '
   url: https://www.meetup.com/Leeds-JVMThing/events/240968157/
@@ -1139,7 +1147,7 @@
   venue: Infinity Works Consulting
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmywkbbc/
+  url: https://www.meetup.com/YorkDevelopers/events/241727506/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-07-20T18:00:00.0000000
