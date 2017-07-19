@@ -1089,13 +1089,6 @@
   starts: 2017-08-05T12:00:00.0000000
   ends: 2017-09-10T14:00:00.0000000
   venue: Instructor led Online | Video Conference
-- name: 'DevBoss: Bringing Together Leaders in Software Development in Yorkshire'
-  description: "<p>Our next DevBoss networking event will take place on Tuesday 18 July 2017. DevBoss creates a unique platform for Developers all over Yorkshire to debate, discuss hot topics, and learn from reputable and established speakers and network with like-minded individuals.</p> <p>DevBoss is an invitation only networking event for leaders in Software Development across Yorkshire, hosted by IT recruitment specialist Corecom Consulting. The event creates a unique community for leaders in development to network, debate, discuss hot topics, and learn from reputable and established speakers who are leaders in the industry.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?<br/></b>DevBoss is hosted by Andreas Xiarchos, Development Specialist at Corecom Consulting. The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>- a brief intro and welcome from Andreas<br/>- a talk from a leading Software Development professional<br/>- lightning discussions on hot industry specific topics chosen by you<br/>- event roundup and thank you at approximately 8.30pm<br/>drinks and networking to finish.</p> <p>\n\n<b>WHO ATTENDS?<br/></b>Development Managers, Lead Software Developers, Heads of Development, Heads of IT, Technical Architects, Business Consultants and the like. This is an invitation-only event organised and held by Corecom Consulting, Yorkshire’s contract and permanent IT recruitment specialist.</p> <p>\n\n\n<b>FEEDBACK FROM PREVIOUS DEVBOSS EVENTS<br/></b>“I feel that DevBoss has enabled me to broaden my horizons. I have gained knowledge from people who face both very different and similar challenges to me and I have learned how those challenges have been dealt with effectively.”</p> <p><i>Philip Rashleigh, Technical Director, Audacia</i></p> "
-  url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237042233/
-  is-free: true
-  starts: 2017-07-18T17:00:00.0000000
-  ends: 2017-07-18T19:30:00.0000000
-  venue: Banyan Bar Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/241678879/
@@ -1146,7 +1139,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywkbgc/
+  url: https://www.meetup.com/YorkDevelopers/events/241810214/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-07-24T06:30:00.0000000
@@ -1661,6 +1654,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-01-03T07:30:00.0000000
   ends: 2018-01-03T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcblb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-01-08T07:30:00.0000000
+  ends: 2018-01-08T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
