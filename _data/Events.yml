@@ -1089,39 +1089,6 @@
   starts: 2017-08-05T12:00:00.0000000
   ends: 2017-09-10T14:00:00.0000000
   venue: Instructor led Online | Video Conference
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/241678879/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-07-19T06:30:00.0000000
-  ends: 2017-07-19T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/241640589/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-07-19T07:00:00.0000000
-  ends: 2017-07-19T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Agile for Motivating and Engagement + The Essence of Scrum
-  description: "<p><b>Agile for Motivating and Engagement</b></p> <p>A story about using Agile to Motivate a Team. Rather than focusing on how the work was managed this story focuses on how agile helped motivate a team to complete a complex task. The story hopefully meets the following requirements:</p> <p>Agile success story Using agile for things other than software development Diversity of tools and techniques Using Agile when the world around is waterfall This talk comes with extra Powerpoint</p> <p><b>About Martyn</b></p> <p>I am a Business Analyst (though relatively new to it) and have worked in the change space for 6 years either doing training, migration or projects. I have limited agile experience, but have had the benefit of being one of the drivers for Agile. I also read a lot and play a lot of games. <b><br/></b></p> <p><b>The Essence of Scrum</b></p> <p>A talk inspired by Tobias Mayer which looks to describe Scrum through the eyes of a layperson and a software developer in a single talk.</p> <p>Tony shares one of the most popular Agile frameworks that, when well understood, allows the creation of processes that organize complex projects within a team. He discusses the core values of courage, trust, congruity, humility, and a sense of service, and then shares the components for high productivity in a fail-fast environment.</p> <p>These are:<br/>1. Empiricism - creating a feedback loop, vs trying to plan everything up front.<br/>2. Self-organization - based on the premise that the people closest to the problem are best able to know the solution to the problem; allowing them to figure it out for themselves.<br/>3. Agility - valuing collaboration vs comprehensive documentation (in which you get exactly what you ask for, not what you want or need).<br/>4. Focus - being able to move each item from concept to complete, without paying overhead to 'context switching' (which is hugely inefficient).<br/>5. Transparency - banishing fear &amp; suspicion.<br/>6. Rhythm &amp; Ritual - guiding you to a state of flow.<br/>7. Emergence - the best solutions are not created. Rather, they evolve.</p> <p><b>About Tony</b></p> <p>Tony Richards is an Agile Coach working on a large scale Agile Transformation at Aviva. Helping teams embrace Agile values and principles through a combination of training, mentoring and coaching.</p> <p>Starting his career in software development working with Toyota. He has worked across utilities, telecoms, finance and public sector. Which also exposed him to Finance, Marketing and Corporate Strategy during this time.</p> "
-  url: https://www.meetup.com/agileYork/events/240974394/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/9/e/9/thumb_461067113.jpeg
-  starts: 2017-07-19T17:00:00.0000000
-  ends: 2017-07-19T19:00:00.0000000
-  venue: City of York Council
-- name: Organisational meeting
-  description: "<p>Hello everyone!</p> <p>We're holding an organisational meeting and want you involved! The aim of the meeting is to help guide the direction for the future of LeedsJS and we want input from the community.</p> <p>We're aiming to keep it to around an hour so that we keep it focused on things we can change in the near future and gradually make changes.</p> <p>If you have any ideas, feel free to bring them so that we can discuss them as a group!</p> <p>Hopefully we'll hold these every few months so that we can guide LeedsJS with the help of the community.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
-  url: https://www.meetup.com/LeedsJS/events/241716484/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2017-07-19T18:00:00.0000000
-  ends: 2017-07-19T19:00:00.0000000
-  venue: Future Labs
 - name: An evening to showcase Kotlin, an emerging JVM Language!!
   description: '<p>The JVM Thing!</p> <p>Organised by Fruition IT our next JVM meet of 2017 is confirmed; An evening to showcase Kotlin, an emerging JVM Language – What’s all the fuss about?</p> <p>With Andy Bowes, Software Consultant @ Sky &amp; Michael Richardson, Mobile Developer @ Sky who will be talking about the following:</p> <p>An overview of the Kotlin Language to demonstrate the key features of the language.<br/>This session provides an introduction to the language, covering basic concepts and tips for Java developers to get started with it.</p> <p>Demonstration of use of Kotlin to create REST Microservices using Spring Boot.<br/>This will cover the similarity between Kotlin &amp; Java Spring Boot applications &amp; introduce the new features that are being introduced into the Spring framework to support Kotlin.</p> <p>Google recently announced first-class support for Kotlin in Android development.<br/>This session will demonstrate the creation of Android applications using Kotlin and highlight the features of the language which make it a natural fit for Android development.</p> <p>Please RSVP to reserve your space, we are expecting high demand for this event - <a href="https://the-jvm-thing-kotlin.eventbrite.co.uk"><a href="https://the-jvm-thing-kotlin.eventbrite.co.uk" class="linkified">https://the-jvm-thing-kotlin.eventbrite.co.uk</a></a></p> <p>Venue – Infinity Works</p> <p>Apsley House, 78 Wellington St, Leeds LS1 2EQ</p> '
   url: https://www.meetup.com/Leeds-JVMThing/events/240968157/
@@ -1170,6 +1137,13 @@
   starts: 2017-07-26T07:00:00.0000000
   ends: 2017-07-26T10:00:00.0000000
   venue: La Bottega Milanese
+- name: Leeds Windows User Group (WUG) event, 26th July
+  description: "<p><b>Join us on the 26th July 2017, 6pm</b></p> <p>Windows User Group events are a great opportunity for local IT Professionals to meet and network with others professionals in their region and to keep up-to-date with new and emerging Microsoft technologies and news.</p> <p><b><br/></b></p> <p><b>What is a Windows User Group (WUG)?</b></p> <p><br/>The WUG events are community events ran by Microsoft MVPs Chris Rhodes and Andrew Bettany. The events are free of charge for attendees and are both a networking event and a learning opportunity.</p> <p>Book your free tickets now: <a href=\"https://www.eventbrite.co.uk/e/windows-user-group-leeds-26th-july-2017-600pm-tickets-34748000204?ref=estw\" class=\"linkified\">https://www.eventbrite.co.uk/e/windows-user-group-leeds-26th-july-2017-600pm-tickets-34748000204?ref=estw</a></p> <p>\n\n\n<b>What happens at the events?</b></p> <p>At each event usually two topics are presented and discussed.</p> <p>There is also time for questions and networking.</p> <p><b><br/></b></p> <p><b>Free pizza / pies</b></p> <p><br/>We offer food on the evening for everyone. Either pie and chips and sometimes pizza.</p> <p>\n\n\n<b>Guest Speakers</b></p> <p>We also have guest speakers. Members of the IT community can offer to speak, on a topic about which they are knowledgeable, to help share their expertise.</p> <p>\n\n\n<b>Event topic (1) </b></p> <p><i>PowerShell Intro – PowerShell when the GUI doesn’t cut it anymore!</i></p> <p>Today's administrators need to automate more than ever before to be efficient and agile. Combined with the 'Rise of the Module' over recent years that has seen a marked increase in the availability of PowerShell cmdlets and functions, and it's not hard to see why your skill set should include PowerShell. If you think you missed the boat on this, you may be surprised to learn how many people are turning to PowerShell this year as they see the potential and realise how it can boost productivity and ultimately your career. </p> <p><i>In this session, Chris Rhodes MVP, will showcase how PowerShell is more popular than ever, and invite audience feedback and your real world experience to support this trend.</i></p> <p><br/><i><br/></i></p> <p><b> Event topic (2) </b></p> <p><i>All in the cloud: Working without servers</i></p> <p>Can you really remove all your on-premises servers and live purely in the cloud? In this talk, we will investigate the options and parallels that exist for you in public cloud offerings such as Azure and Office 365. We'll also discuss the blockers and how to propose this within your business to free yourself from racks, UPSs and downtime issues that can plague IT departments without losing your job in the process! </p> <p><i>Whether you are all 'in' or you’re working in a hybrid environment today, join us for an interactive talk about the future of IT.</i></p> <p>\n\n\n<b>Event details</b></p> <p><br/>July 26th 2017<br/>6.00pm - 9.00pm</p> <p>The Cross Keys Pub<br/>107 Water Lane<br/>Leeds<br/>LS11 5DW</p> <p>\n\n\n<i>Tickets are free, but please book a ticket so that we can plan food and refreshments. Thank you.</i></p> <p>Book your free tickets now: <a href=\"https://www.eventbrite.co.uk/e/windows-user-group-leeds-26th-july-2017-600pm-tickets-34748000204?ref=estw\" class=\"linkified\">https://www.eventbrite.co.uk/e/windows-user-group-leeds-26th-july-2017-600pm-tickets-34748000204?ref=estw</a></p> "
+  url: https://www.meetup.com/Windows-User-Group/events/240783599/
+  is-free: true
+  starts: 2017-07-26T17:00:00.0000000
+  ends: 2017-07-26T20:00:00.0000000
+  venue: Cross Keys Pub, Leeds
 - name: 'July Meetup :: eCommerce Content Writing & Magento Business Intelligence'
   description: "<p>*** Due to conflicts with some other events, we're moving Magento Leeds to the last Wednesday of each month! ***</p> <p>\n\n\nThis month, we've got two fantastic speakers which are perfect for both agencies and merchants to attend. We're fortunate to have someone from Magento BI doing a hands on demo with Magento Business Intelligence, along with Kelly from Making you Content speaking about writing content for eCom sites.</p> <p>SCHEDULE 6:30pm - Doors open, networking, food &amp; drink</p> <p>7:00pm - Kelly Gilmour-Grassam, Making You Content - \"The Content Conundrum: Balancing Volume Versus Quality\"</p> <p>7:30pm - Nate Golubiewski, Magento BI - A hands on Demo with Magento Business Intelligence</p> <p>8:30pm - Networking &amp; Drinks</p> "
   url: https://www.meetup.com/Magento-Leeds/events/241398535/
@@ -1202,15 +1176,6 @@
   ends: 2017-07-31T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Pi In The Sky
-  description: '<p>Details TBC</p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/241662866/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-09-13T17:30:00.0000000
-  ends: 2017-09-13T19:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywlbdb/
@@ -1219,6 +1184,31 @@
   starts: 2017-08-02T06:30:00.0000000
   ends: 2017-08-02T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywlbdb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-08-02T07:00:00.0000000
+  ends: 2017-08-02T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: TBD
+  description: '<p>Session details to be announced nearer the time.</p> <p>See the <a href="http://leedscodedojo.github.io/">LCD website</a> for general info.</p> '
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/241020813/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2017-08-02T17:00:00.0000000
+  ends: 2017-08-02T20:00:00.0000000
+  venue: Callcredit Information Group Limited
+- name: Pi In The Sky
+  description: '<p>Details TBC</p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/241662866/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-09-13T17:30:00.0000000
+  ends: 2017-09-13T19:30:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
@@ -1712,6 +1702,14 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-06-21T18:00:00.0000000
   ends: 2018-06-21T21:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxkbzb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-07-19T18:00:00.0000000
+  ends: 2018-07-19T21:00:00.0000000
   endorsed: true
 - name: Cafe Scientifique September 6th
   description: Title and speaker to be confirmed shortly.
