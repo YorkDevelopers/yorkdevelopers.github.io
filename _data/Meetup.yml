@@ -1,21 +1,5 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/241810214/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-07-24T06:30:00.0000000
-  ends: 2017-07-24T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: IoT Leeds - July 2017 meetup
-  description: "<p>The July meetup will be at the same time and place as last month.</p> <p>\n\n\n\n6:30 PM - Doors open</p> <p>7:00 PM - First talk</p> <p>7:30 PM - Break</p> <p>7:45 PM - Second talk</p> <p>8:30 PM - Finish</p> <p>\n\n\nOur first talk from this month is from Alan Pope, Developer Advocate at Canonical.</p> <p><b>Easily Delivering Your Software to Millions of Linux Users </b></p> <p><br/>In this talk Alan outlines the current ways of delivering software to Linux users and developers, how that's flawed, and how Snapcraft is here to fix it. We'll look at the benefits of the Snapcraft tools and how developers can hook their Github repos up to build and automatically deploy updates to devices in minutes.</p> <p><br/>Our second talk is from Philip Handley, Head of Technology Strategy at Arqiva.</p> <p><b>Lowdown on Low Power</b></p> <p><br/>Arqiva are a communications infrastructure company and are currently deploying a low-power wireless network for the Internet of Things.</p> <p><br/>Hope to see you there!</p> "
-  url: https://www.meetup.com/IoT-Leeds/events/240729567/
-  is-free: true
-  starts: 2017-07-24T17:30:00.0000000
-  ends: 2017-07-24T20:30:00.0000000
-  venue: Future Labs
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/241871240/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -103,15 +87,6 @@
   starts: 2017-08-03T16:30:00.0000000
   ends: 2017-08-03T19:30:00.0000000
   venue: The Adelphi
-- name: Pi In The Sky
-  description: '<p>Details TBC</p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/241662866/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-09-13T17:30:00.0000000
-  ends: 2017-09-13T19:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywlbkb/
@@ -120,6 +95,15 @@
   starts: 2017-08-07T06:30:00.0000000
   ends: 2017-08-07T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: Pi In The Sky
+  description: '<p>Details TBC</p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/241662866/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-09-13T17:30:00.0000000
+  ends: 2017-09-13T19:30:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
