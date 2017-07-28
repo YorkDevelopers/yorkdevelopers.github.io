@@ -1,0 +1,14 @@
+                        <a href="#{{ post.modalID }}" class="posts-link" data-toggle="modal"><p class="medium">{{ post.date | date: "%-d %B %Y" }}</p></a>
+                        <a href="#{{ post.modalID }}" class="posts-link" data-toggle="modal"><h5>{{ post.title }}</h5></a>
+                        <div class="posts-link">
+                        {{ post.content | strip_html | truncatewords: 30 }}
+                        </div>
+                        <br>
+                        <a href="#{{ post.modalID }}" class="posts-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="{{ site.baseurl }}/{{ post.img }}" class="img-rounded img-responsive" alt="{{ post.title }}" style="height:150px;width:auto;">
+                        </a>

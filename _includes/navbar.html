@@ -10,9 +10,9 @@
                 <span class="icon-bar"></span>
             </button>
 
-            {% if page.url contains 'blog' %}
+            {% if page.url contains 'blog' or page.url contains 'events' or page.url contains 'news' %}
             {% assign domain = site.url | append: site.baseurl %}
-            <a class="navbar-brand" href="/index.html">{{ site.title }}</a>
+            <a class="navbar-brand" href="/">{{ site.title }}</a>
             {% else %}
             <a class="navbar-brand" href="#page-top">{{ site.title }}</a>
             {% endif %}
@@ -25,30 +25,30 @@
                     <a href="#page-top"></a>
                 </li>
                 <li class="page-scroll">
-                    {% if page.url contains 'blog' %}
+                    {% if page.url contains 'blog' or page.url contains 'events' or page.url contains 'news' %}
                     {% assign domain = site.url | append: site.baseurl %}
-                    <a href="{{ domain }}/#about">About</a>
+                    <a href="/index.html#about">About</a>
                     {% else %}
                     <a href="#about">About</a>
                     {% endif %}
                 </li>
                 <li class="page-scroll">
-                    {% if page.url contains 'blog' %}
+                    {% if page.url contains 'blog' or page.url contains 'events' or page.url contains 'news' %}
                     {% assign domain = site.url | append: site.baseurl %}
-                    <a href="{{ domain }}/#meetups">Our Meetups</a>
+                    <a href="/index.html#meetups">Our Meetups</a>
                     {% else %}
                     <a href="#meetups">Our Meetups</a>
                     {% endif %}
                 </li>
                 <li class="page-scroll">
-                    {% if page.url contains 'blog' %}
+                    {% if page.url contains 'blog' or page.url contains 'events' or page.url contains 'news' %}
                     {% assign domain = site.url | append: site.baseurl %}
-                    <a href="{{ domain }}/#posts">News</a>
+                    <a href="/index.html#posts">News</a>
                     {% else %}
                     <a href="#posts">News</a>
                     {% endif %}
                 </li>
-
+                
                 {% for link in site.data.navigation.main %}
                     {% if link.url contains 'http' %}
                         {% assign domain = '' %}
@@ -59,9 +59,9 @@
                 {% endfor %}
 
                 <li class="page-scroll">
-                    {% if page.url contains 'blog' %}
+                    {% if page.url contains 'blog' or page.url contains 'events' or page.url contains 'news' %}
                     {% assign domain = site.url | append: site.baseurl %}
-                    <a href="{{ domain }}/#twitter">Tweets</a>
+                    <a href="/index.html#twitter">Tweets</a>
                     {% else %}
                     <a href="#twitter">Tweets</a>
                     {% endif %}                  

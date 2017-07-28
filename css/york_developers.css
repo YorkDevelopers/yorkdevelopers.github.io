@@ -16,6 +16,9 @@ p.small-even {
 p.large {
     font-size: 20px
 }
+p.medium {
+    font-size: 16px
+}
 p.tiny {
     font-size: 12px
 }
@@ -97,6 +100,8 @@ hr.star-events-even:after {
     background-color: #ADD8E6;
     color: #4800FF
 }
+
+
 
 .our_meetups_detail {
     background: #4800FF;
@@ -346,9 +351,19 @@ section.events-odd {
 }
 
 
+section.our_posts a {
+    color: #000000;
+    font-size: 26px;
+}
+
+
 #posts .posts-item {
     margin: 0 0 15px;
-    right: 0
+    right: 0;
+    height: 400px;
+    border-style: solid;
+    border-width: 0px;
+    border-color: #4800FF;
 }
 #posts .posts-item .posts-link {
     display: block;
@@ -363,8 +378,6 @@ section.events-odd {
     width: 100%;
     height: 100%;
     opacity: 0;
-
-    
 
     transition: all ease .5s;
     -webkit-transition: all ease .5s;
@@ -615,8 +628,12 @@ fieldset[disabled] .btn-success:hover {
     border: none;
     min-height: 100%;
     padding: 100px 0;
-    text-align: center
+    text-align: left;
 }
+.meetups-modal .modal-content .modal-content-center {
+    text-align: center;
+}
+
 .meetups-modal .modal-content h2 {
     margin: 0;
     font-size: 3em

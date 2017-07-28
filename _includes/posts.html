@@ -8,23 +8,22 @@
                 </div>
             </div>
             <div class="row">
+
+                {% assign the_value = 0 %}
+
                 {% for post in site.posts %}
                     {% if post.categories contains 'Post' %}
-                    <div class="col-sm-3 posts-item">
-                        <a href="#{{ post.modalID }}" class="posts-link" data-toggle="modal"><p class="tiny">{{ post.date | date: "%-d %B %Y" }}</p></a>
-                        <a href="#{{ post.modalID }}" class="posts-link" data-toggle="modal"><h6>{{ post.title }}</h6></a>
-                        <br>
-                        <a href="#{{ post.modalID }}" class="posts-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
-                                </div>
+                        {% capture the_value %}{{ the_value | plus:1 }}{% endcapture %}
+                        {% if the_value == '1' or the_value == '2' or the_value == '3' %}
+                            <div class="col-sm-4 col-md-4 col-lg-4 posts-item">
+                                {% include a_post.html %}
                             </div>
-                            <img src="{{ site.baseurl }}/{{ post.img }}" class="img-rounded img-responsive" alt="{{ post.title }}">
-                        </a>
-                    </div>
+                        {% endif %}
                     {% endif %}
                 {% endfor %}
+            </div>
+            <div class="row">
+                <a href="{{ domain }}/news" class="posts-item">READ MORE....</a>
             </div>
         </div>
     </section>
