@@ -1,5 +1,5 @@
 - name: 'Central PA RUG Meeting: Renderings and Beyond'
-  description: "This program will highlight the workflows and techniques to prepare models for successful transition to visualization products. Our presenters will demonstrate multiple software and their links to Revit, which include: Revit Live, Lumion and Enscape. They will provide live, \"fake\" (not real projects) models to demonstrate the real world, practical applications for visualization within Revit and Beyond!\nCome explore these different software options and obtain a better understanding of the different types, as well as the benefits of 3D visualization. Incorporating these software options into your daily workflow will help you achieve real time updates, exportable walkthroughs, easy software maneuvering, and basic graphic controls; not to mention the compatibility with Oculus rift technology. \nMake sure to reserve your seat now by registering. We hope to see you there!\n\n\n\n***Plus, details for 2017 Rendering Contest will be revealed!\n\n\n\n\n\nRichard Carter\nWarfel Construction Company\nDirector of Virtual Design & Construction\n\n\n\nCat Conlin\nBeers Hoffman Architects\nBIM Manager\n\n\n\n"
+  description: "This program will highlight the workflows and techniques to prepare models for successful transition to visualization products. Our presenters will demonstrate multiple software and their links to Revit, which include: Revit Live, Lumion and Enscape. They will provide live, \"fake\" (not real projects) models to demonstrate the real world, practical applications for visualization within Revit and Beyond!\nCome explore these different software options and obtain a better understanding of the different types, as well as the benefits of 3D visualization. Incorporating these software options into your daily workflow will help you achieve real time updates, exportable walkthroughs, easy software maneuvering, and basic graphic controls; not to mention the compatibility with Oculus rift technology. \nMake sure to reserve your seat now by registering. We hope to see you there!\n\n\n\n***Plus, details for 2017 Rendering Contest will be revealed!\n\n       Richard Carter Warfel Construction Company Director of Virtual Design & Construction      Cat Conlin Beers   Hoffman Architects BIM Manager   \n"
   url: https://www.eventbrite.com/e/central-pa-rug-meeting-renderings-and-beyond-tickets-36417698316?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/33442369/176770047813/1/original.jpg?h=200&w=450&rect=0,0,1080,540&s=94c5f08e75d108d1d3388bf7ecc817f5
@@ -1097,22 +1097,6 @@
   starts: 2017-08-05T12:00:00.0000000
   ends: 2017-09-10T14:00:00.0000000
   venue: Instructor led Online | Video Conference
-- name: Messaging - RabbitMQ, Azure (Service Bus), Docker and Azure Functions
-  description: '<p>Message queuing is becoming an essential part of modern architectures and essential for asynchronous architectures and microservices. In this session will be described the benefits of messaging systems, the software solutions that are available and typical messaging architectures. Examples will be made using RabbitMQ. This talk is primarily about messaging, however as this session is for tech hipsters, the demos will be done giving an extensive introduction to Azure functions, Azure Service Bus and Docker.</p> <p>Bio: John Staveley<br/>John Staveley is an organiser at LeedsSharp with 17 years programming experience and has been a heavy user of RabbitMQ and Azure in the past couple of years.</p> '
-  url: https://www.meetup.com/Leeds-Sharp/events/240783294/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2017-07-27T17:30:00.0000000
-  ends: 2017-07-27T20:30:00.0000000
-  venue: Futurelabs
-- name: Monthly meet up
-  description: '<p>Chat about Linux and related technology over a drink.<br/>Some people get food from the bar.</p> '
-  url: https://www.meetup.com/West-Yorkshire-Linux-users-group/events/241719251/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/c/e/7/5/thumb_441292853.jpeg
-  starts: 2017-07-27T18:30:00.0000000
-  ends: 2017-07-31T20:00:00.0000000
-  venue: The Lord Darcy
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/241998335/
@@ -1130,6 +1114,14 @@
   starts: 2017-08-01T18:00:00.0000000
   ends: 2017-08-01T22:30:00.0000000
   venue: Leeds Hackspace
+- name: TBD
+  description: '<p>Session details to be announced nearer the time.</p> <p>See the <a href="http://leedscodedojo.github.io/">LCD website</a> for general info.</p> '
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/241020813/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2017-08-02T17:00:00.0000000
+  ends: 2017-08-02T20:00:00.0000000
+  venue: Callcredit Information Group Limited
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/241998338/
@@ -1141,20 +1133,12 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywlbdb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/242057178/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-08-02T07:00:00.0000000
   ends: 2017-08-02T10:00:00.0000000
   venue: La Bottega Milanese
-- name: TBD
-  description: '<p>Session details to be announced nearer the time.</p> <p>See the <a href="http://leedscodedojo.github.io/">LCD website</a> for general info.</p> '
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/241020813/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2017-08-02T17:00:00.0000000
-  ends: 2017-08-02T20:00:00.0000000
-  venue: Callcredit Information Group Limited
 - name: Social Meetup
   description: "<p>We'll be having our regular meetup on the first Thursday of July - this one will be a social so there's no set agenda . </p> <p>Come along to meet other Umbracians from Leeds and the surrounding areas.</p> "
   url: https://www.meetup.com/umbLeeds/events/241810100/
@@ -1183,7 +1167,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywlbmb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/242059372/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-08-09T07:00:00.0000000
@@ -1641,6 +1625,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-01-15T07:30:00.0000000
   ends: 2018-01-15T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcbwb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-01-17T07:30:00.0000000
+  ends: 2018-01-17T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
