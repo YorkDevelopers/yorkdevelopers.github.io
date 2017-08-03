@@ -1014,31 +1014,6 @@
   starts: 2017-08-05T12:00:00.0000000
   ends: 2017-09-10T14:00:00.0000000
   venue: Instructor led Online | Video Conference
-- name: RegEx Rumble
-  description: "<p>This month we're going to have a go at writing our own Regular Expression engines.</p> <p>See the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for details.</p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/241020813/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2017-08-02T17:00:00.0000000
-  ends: 2017-08-02T20:00:00.0000000
-  venue: Callcredit Information Group Limited
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/241998338/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-08-02T06:30:00.0000000
-  ends: 2017-08-02T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/242057178/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-08-02T07:00:00.0000000
-  ends: 2017-08-02T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: Social Meetup
   description: "<p>We'll be having our regular meetup on the first Thursday of July - this one will be a social so there's no set agenda . </p> <p>Come along to meet other Umbracians from Leeds and the surrounding areas.</p> "
   url: https://www.meetup.com/umbLeeds/events/241810100/
@@ -1105,15 +1080,6 @@
   starts: 2017-08-15T18:00:00.0000000
   ends: 2017-08-15T22:30:00.0000000
   venue: Leeds Hackspace
-- name: Pi In The Sky
-  description: '<p>Join us for fun with Raspberry Pis in the labs of York St. John Computer Science department. More details to follow soon.</p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/241662866/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-09-13T17:30:00.0000000
-  ends: 2017-09-13T20:00:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywlbvb/
@@ -1122,6 +1088,23 @@
   starts: 2017-08-16T06:30:00.0000000
   ends: 2017-08-16T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywlbvb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-08-16T07:00:00.0000000
+  ends: 2017-08-16T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Pi In The Sky
+  description: '<p>Join us for fun with Raspberry Pis in the labs of York St. John Computer Science department. More details to follow soon.</p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/241662866/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-09-13T17:30:00.0000000
+  ends: 2017-09-13T20:00:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
