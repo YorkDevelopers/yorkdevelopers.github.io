@@ -1,11 +1,3 @@
-- name: Social Meetup
-  description: "<p>We'll be having our regular meetup on the first Thursday of July - this one will be a social so there's no set agenda . </p> <p>Come along to meet other Umbracians from Leeds and the surrounding areas.</p> "
-  url: https://www.meetup.com/umbLeeds/events/241810100/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
-  starts: 2017-08-03T16:30:00.0000000
-  ends: 2017-08-03T19:30:00.0000000
-  venue: The Adelphi
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/241998340/
@@ -25,7 +17,7 @@
   venue: Leeds Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywlbmb/
+  url: https://www.meetup.com/YorkDevelopers/events/242246576/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-08-09T06:30:00.0000000
@@ -40,13 +32,6 @@
   starts: 2017-08-09T07:00:00.0000000
   ends: 2017-08-09T10:00:00.0000000
   venue: La Bottega Milanese
-- name: UK Oracle APEX Meetup - Leeds - All Welcome
-  description: "<p>We are excited to be announcing our next Leeds APEX Meetup event and entry to this is FREE!  </p> <p>This event will take place on:</p> <p>Wednesday 9th August between 6.30 pm and 9.30 pm.  </p> <p>Whether you have never used APEX before, are a seasoned developer or a student, come join us for the evening. </p> <p><br/>This event will be held at The Adelphi Leeds.</p> <p><br/>Agenda</p> <p>6:30 - 7:00 - Networking</p> <p>7:00 - 7:10 - Welcome</p> <p>7:10 - 8:00 - Richard Dacre - APEX-Powered Infographics</p> <p>8:00 - 8:10 - Break </p> <p>8:10 - 9:00 - Adrian Trotman - Navigation - Trying Not To Get Lost</p> <p>9:00- 9:30 - Networking and Close</p> <p>\n\n\n<b>Presenters</b></p> <p><b>Richard Dacre - Senior Developer - APEX Evangelists</b></p> <p>Richard is an IT professional with over 17 years of experience (really - even though he doesn't look old enough).</p> <p>An experienced Software Developer across multiple areas, including PL/SQL, Oracle Forms, Reports and Application Express.</p> <p><b>APEX-Powered Infographics</b></p> <p>Taking inspiration from Infographics used in the media, this session will run through how to create components that can be used to visualise your data differently. Using graphical design tools such as Adobe Illustrator and open source libraries, this session with cover real-time examples of designing and implementing customised visualisations to represent data.</p> <p>\n\n\n<b>Adrian Trotman - Senior Developer - Goldclipper</b></p> <p>I have been a developer for over 25 years. I first encountered Oracle about 16 years ago, but really started working with it about 7 years ago. I started working with Apex in 2013, and I am mainly self taught. For the last 4 years I have been working for Goldclipper Computing. Our website says \"Goldclipper are a boutique data consultancy. We love doing data and techie stuff.\"</p> <p><b>Navigation - Trying Not To Get Lost</b></p> <p>A presentation to describe problems encountered when navigating through numerous pages, offering solutions available.</p> <p>Are You Interested in Presenting?</p> <p><br/>If you are interested in demonstrating some of your work at this or future Meetup events, please get in touch! </p> <p><br/><b>Information</b></p> <p><br/>You will find cheap parking opposite the venue after 6pm. The venue is only a few minutes from Leeds train station so hopefully this a great location for all. </p> <p><br/>Food will not be provided so please grab something before you come.</p> <p><br/>Space is limited so please make sure you RSVP.</p> <p><br/>Unfortunately, your beer bill will be your own! </p> "
-  url: https://www.meetup.com/orclapex_uk/events/241872326/
-  is-free: true
-  starts: 2017-08-09T17:30:00.0000000
-  ends: 2017-08-09T20:30:00.0000000
-  venue: The Adelphi
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywlbsb/
@@ -81,15 +66,14 @@
   starts: 2017-08-16T07:00:00.0000000
   ends: 2017-08-16T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Pi In The Sky
-  description: '<p>Join us for fun with Raspberry Pis in the labs of York St. John Computer Science department. More details to follow soon.</p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/241662866/
+- name: Drupal Yorkshire Monthly Meetup
+  description: '<p>• 6:30 - 6:45 &gt; Arrivals</p> <p>• 6:45 - 7:00 &gt; Announcements</p> <p>• 7:00 - 7:30 - &gt; Speaker/Presentation/Tutorial</p> <p>• 7:30 - 7:45 &gt; Q&amp;A</p> <p>7:45 - 8:30 &gt; Clinic - put your questions to the group for explanation the group for help and feedback</p> <p><br/>Daniel Pickering will be giving us a talk this month, details to follow.</p> <p>Daniel has been working with Drupal for over 2years and has spent most of his professional Drupal time supporting end users for OSTraining.</p> <p><a href="https://twitter.com/dclpuk"><a href="https://twitter.com/dclpuk" class="linkified">https://twitter.com/dclpuk</a></a></p> <p><a href="https://www.drupal.org/u/ikit-claw" class="linkified">https://www.drupal.org/u/ikit-claw</a></p> '
+  url: https://www.meetup.com/DrupalYorkshire/events/241898596/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-09-13T17:30:00.0000000
-  ends: 2017-09-13T20:00:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
+  logo: https://secure.meetupstatic.com/photos/event/a/5/0/c/thumb_384222252.jpeg
+  starts: 2017-08-17T17:30:00.0000000
+  ends: 2017-08-17T20:30:00.0000000
+  venue: Future Labs
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmywlbwb/
@@ -97,6 +81,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-08-17T18:00:00.0000000
   ends: 2017-08-17T21:00:00.0000000
+  endorsed: true
+- name: Pi In The Sky
+  description: "<p>Join us for fun with Raspberry Pis in the labs of York St. John Computer Science department. In this month's Code Dojo we will construct a fibre-optic communication system using two Raspberry Pis, some LEDs and some high-performance optical coupling paste (blu-tack) and investigate how to send messages from one board to the other using only visible light.</p> <p>We will write code in Python, Javascript or C and look at the best (or maybe worst) ways to encode information into photons.</p> "
+  url: https://www.meetup.com/York-Code-Dojo/events/241662866/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-09-13T17:30:00.0000000
+  ends: 2017-09-13T20:00:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
@@ -541,6 +534,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-01-22T07:30:00.0000000
   ends: 2018-01-22T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcbgc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-01-24T07:30:00.0000000
+  ends: 2018-01-24T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
