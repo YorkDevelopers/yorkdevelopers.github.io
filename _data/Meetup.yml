@@ -58,6 +58,14 @@
   ends: 2017-08-21T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Lessons learned on an “agile" government project
+  description: "<p><b>About the Session</b></p> <p>The government Vehicle Operator Licencing service is used by lorry and bus industries for the registration and management of their operations.  After three years of development, the service went live last year delivering benefits to the public, industry and the staff who use it. Laura, the current delivery manager and Steve, product owner, talk about the challenges of the project, lessons learned and the journey from an air quotes agile project to actual agile project.</p> <p><br/><b>About Laura Clatworthy</b></p> <p>Laura joined a software consultancy as a developer before dabbling in consultancy and finding her calling in agile delivery management. She has worked in the private sector for international clients across various industries. In the last 5 years Laura has managed medium to large scale digital by default services on the supplier side and more recently, client side on the Vehicle Operator Licencing project.  She enjoys working with talented people, promoting an agile, safe to fail culture and delivering projects that helps citizens.</p> <p><b>About Steve Fox</b></p> <p>1996,fresh out of University and with some “education” related bills to pay Steve joined the Civil Service. Since then he has enjoyed 20 years management experience working in a variety of roles including operations, HR and policy. He joined the Vehicle Operator Licensing digital project as product owner in 2013 and brings a refreshingly honest approach to the challenges of delivering digital within the Civil Service.  He relishes the challenge of balancing the needs of users, business stakeholders and the budget whilst also being supportive of everyone who makes it happen.</p> <p><b>Practical bits</b></p> <p>• Doors open at 6 and the talk starts at 6:30</p> <p>• Go up to the third floor in the venue (lift available) and turn left at the top.  Note that this is the same venue as the last few meetups but different from the start of the year.</p> <p>------------</p> <p>Agile in Leeds supports<a href=\"http://diversitycharter.org\"> diversitycharter.org</a></p> <p>\n\n<img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/d/3/2/600_449916146.jpeg\" /></p> "
+  url: https://www.meetup.com/Agile-in-Leeds/events/241530578/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
+  starts: 2017-08-22T17:00:00.0000000
+  ends: 2017-08-22T20:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Pi In The Sky
   description: "<p>Join us for fun with Raspberry Pis in the labs of York St. John Computer Science department. In this month's Code Dojo we will construct a fibre-optic communication system using two Raspberry Pis, some LEDs and some high-performance optical coupling paste (blu-tack) and investigate how to send messages from one board to the other using only visible light.</p> <p>We will write code in Python, Javascript or C and look at the best (or maybe worst) ways to encode information into photons.</p> "
   url: https://www.meetup.com/York-Code-Dojo/events/241662866/
@@ -510,6 +518,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-01-24T07:30:00.0000000
   ends: 2018-01-24T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcbmc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-01-29T07:30:00.0000000
+  ends: 2018-01-29T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
