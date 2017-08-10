@@ -1,22 +1,5 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/242246576/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-08-09T06:30:00.0000000
-  ends: 2017-08-09T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/242059372/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-08-09T07:00:00.0000000
-  ends: 2017-08-09T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/242364909/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -41,6 +24,14 @@
   starts: 2017-08-16T07:00:00.0000000
   ends: 2017-08-16T10:00:00.0000000
   venue: La Bottega Milanese
+- name: 'AWS Leeds User Group #10'
+  description: "<p><b>Looking forward to seeing you all!</b></p> <p>This Meetup is provisionally at Parallax's offices in the city centre although we're going to see if we can grab a venue that's a bit roomier if possible so may be subject to change.</p> <p>If you're interested in hosting or sponsoring please drop us a line.</p> <p>As usual we'll be providing plenty of food and drinks =)</p> <p><b>Agenda:</b></p> <p><b>Doug Winter: Serverless + AWS Cognito</b></p> <p>One of the missing pieces of the Serverless puzzle has been authentication and authorisation: how to easily identify your users and grant them access. </p> <p>AWS Cognito provides an API complete solution for this, as well as providing simple integration with Lambda and row-level security for DynamoDB. </p> <p>Doug will talk about how these can be used in a React application, with code examples.</p> <p><br/><b>Lawrence Dudley: Containers/Kubernetes on AWS</b></p> <p>Containers - everyone keeps going on about them but how production-ready is the tooling that's available? Lawrence will talk about Parallax's journey to finding a way to run production-ready, scalable containers on AWS.</p> <p>---</p> <p>We're looking for one additional speaker on top of the above agenda so if you have something interesting to speak about please let us know!</p> <p>See you there!</p> "
+  url: https://www.meetup.com/AWS-Leeds-User-Group/events/241905286/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/8/d/0/thumb_374267312.jpeg
+  starts: 2017-08-16T18:00:00.0000000
+  ends: 2017-08-16T20:30:00.0000000
+  venue: Duke Studios
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmywlbwb/
@@ -66,15 +57,6 @@
   starts: 2017-08-22T17:00:00.0000000
   ends: 2017-08-22T20:00:00.0000000
   venue: 3rd Floor, Apsley House
-- name: Pi In The Sky
-  description: "<p>Join us for fun with Raspberry Pis in the labs of York St. John Computer Science department. In this month's Code Dojo we will construct a fibre-optic communication system using two Raspberry Pis, some LEDs and some high-performance optical coupling paste (blu-tack) and investigate how to send messages from one board to the other using only visible light.</p> <p>We will write code in Python, Javascript or C and look at the best (or maybe worst) ways to encode information into photons.</p> "
-  url: https://www.meetup.com/York-Code-Dojo/events/241662866/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-09-13T17:30:00.0000000
-  ends: 2017-09-13T20:00:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/241211676/
@@ -83,6 +65,31 @@
   starts: 2017-08-23T06:30:00.0000000
   ends: 2017-08-23T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywlbfc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-08-23T07:00:00.0000000
+  ends: 2017-08-23T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: agileYork - details of talk with Wojciech Walczak to follow shortly
+  description: '<p>About Wojciech Walczak</p> <p>Agile, Lean &amp; Systems Thinking practitioner who got pulled into consulting, teaching, training, coaching and research. Diverse Agile-related experience obtained on all organisational levels and in various companies, countries and cultures. Professional Scrum Trainer. Strong believer in Agile as a pragmatic approach to new product development.</p> '
+  url: https://www.meetup.com/agileYork/events/241305631/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2017-08-23T17:30:00.0000000
+  ends: 2017-08-23T20:00:00.0000000
+  venue: York St.John University
+- name: Pi In The Sky
+  description: "<p>Join us for fun with Raspberry Pis in the labs of York St. John Computer Science department. In this month's Code Dojo we will construct a fibre-optic communication system using two Raspberry Pis, some LEDs and some high-performance optical coupling paste (blu-tack) and investigate how to send messages from one board to the other using only visible light.</p> <p>We will write code in Python, Javascript or C and look at the best (or maybe worst) ways to encode information into photons.</p> <p><i>The session will be led by Carl Hetherington. Carl is an electronic engineer and programmer working as a technician and lecturer on the Computer Science programme at York St. John University. In his spare time Carl contributes to open-source projects; in the past these have included inkscape.org (vector graphics editor) and ardour.org (digital audio workstation). Carl wrote and now maintains dcpomatic.com, the easiest (and cheapest) way to create content files for professional digital cinema systems. </i></p> "
+  url: https://www.meetup.com/York-Code-Dojo/events/241662866/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-09-13T17:30:00.0000000
+  ends: 2017-09-13T20:00:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
