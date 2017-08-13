@@ -233,14 +233,6 @@
   ends: 2017-08-21T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Lessons learned on an “agile" government project
-  description: "<p><b>About the Session</b></p> <p>The government Vehicle Operator Licencing service is used by lorry and bus industries for the registration and management of their operations.  After three years of development, the service went live last year delivering benefits to the public, industry and the staff who use it. Laura, the current delivery manager and Steve, product owner, talk about the challenges of the project, lessons learned and the journey from an air quotes agile project to actual agile project.</p> <p><br/><b>About Laura Clatworthy</b></p> <p>Laura joined a software consultancy as a developer before dabbling in consultancy and finding her calling in agile delivery management. She has worked in the private sector for international clients across various industries. In the last 5 years Laura has managed medium to large scale digital by default services on the supplier side and more recently, client side on the Vehicle Operator Licencing project.  She enjoys working with talented people, promoting an agile, safe to fail culture and delivering projects that helps citizens.</p> <p><b>About Steve Fox</b></p> <p>1996,fresh out of University and with some “education” related bills to pay Steve joined the Civil Service. Since then he has enjoyed 20 years management experience working in a variety of roles including operations, HR and policy. He joined the Vehicle Operator Licensing digital project as product owner in 2013 and brings a refreshingly honest approach to the challenges of delivering digital within the Civil Service.  He relishes the challenge of balancing the needs of users, business stakeholders and the budget whilst also being supportive of everyone who makes it happen.</p> <p><b>Practical bits</b></p> <p>• Doors open at 6 and the talk starts at 6:30</p> <p>• Go up to the third floor in the venue (lift available) and turn left at the top.  Note that this is the same venue as the last few meetups but different from the start of the year.</p> <p>------------</p> <p>Agile in Leeds supports<a href=\"http://diversitycharter.org\"> diversitycharter.org</a></p> <p>\n\n<img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/d/3/2/600_449916146.jpeg\" /></p> "
-  url: https://www.meetup.com/Agile-in-Leeds/events/241530578/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
-  starts: 2017-08-22T17:00:00.0000000
-  ends: 2017-08-22T20:00:00.0000000
-  venue: 3rd Floor, Apsley House
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/241211676/
@@ -266,6 +258,15 @@
   starts: 2017-08-23T17:30:00.0000000
   ends: 2017-08-23T20:00:00.0000000
   venue: York St.John University
+- name: agileYork - August Meetup
+  description: '<p>Please see <a href="https://www.meetup.com/agileYork/events/241305631/" class="linkified">https://www.meetup.com/agileYork/events/241305631/</a> for more details.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/242488503/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-08-23T17:30:00.0000000
+  ends: 2017-08-23T19:30:00.0000000
+  venue: York St.John University
+  endorsed: true
 - name: 'ITBoss: Bringing Yorkshire’s Senior IT Professionals Together'
   description: "<p>We are delighted to announce our next ITBoss networking event will take place on Thursday 24 August 2017. ITBoss is the one and only event in Yorkshire designed to bring together Senior IT Professionals.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?<br/></b>The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>- a brief intro and welcome<br/>- a talk from industry experts<br/>- lightning discussions on hot industry specific topics chosen by you<br/>- event roundup and thank you at approximately 8.30pm<br/>- drinks and networking to finish.</p> <p>\n\n<b>WHO ATTENDS?<br/></b>Senior IT Professionals including IT Directors, Programme Managers, CIOs and CTOs. This is an invitation-only event organised and held by Corecom Consulting, Yorkshire’s fastest growing IT recruitment specialist.</p> <p><b>WHY SHOULD I ATTEND?<br/></b>ITBoss creates a unique platform for Senior IT Professionals all over Yorkshire to debate, discuss hot topics, learn from reputable and established speakers whilst networking with like minded individuals in an intimate but friendly environment.</p> <p><b>FEEDBACK FROM PREVIOUS ITBOSS EVENTS<br/></b>“The ITBoss networking event was an extremely valuable event to participate in. I networked with like-minded IT Directors and Heads of IT, sharing some useful tools, practices and insights which I have transferred to the workplace. It has also provided me with a network of contacts that I can call upon when dealing with future challenges and when seeking advice.”</p> <p><i>Sunder Iyer, Project Manager, LexisNexis</i></p> <p>“The most useful sections of the ITBoss event was having a guest speaker on a subject area which I am very interested in my current role…there is a lot of focus on aligning with strategy. The lightning topics were great in that they were on three different topics, everyone at some point got involved in the discussions and they were time-boxed! A good event all round.”</p> <p><i>Philippa Rickard, Programme Manager, William Hill</i></p> "
   url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237042271/
@@ -335,6 +336,15 @@
   starts: 2017-09-13T06:30:00.0000000
   ends: 2017-09-13T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: York Code Dojo - Pi In The Sky
+  description: '<p>Please see <a href="https://www.meetup.com/York-Code-Dojo/events/241662866/" class="linkified">https://www.meetup.com/York-Code-Dojo/events/241662866/</a> for more details.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/242488520/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-09-13T17:30:00.0000000
+  ends: 2017-09-13T20:30:00.0000000
+  venue: York St. John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
