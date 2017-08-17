@@ -182,31 +182,6 @@
   starts: 2017-08-26T13:00:00.0000000
   ends: 2017-10-08T16:00:00.0000000
   venue: Instructor led Online | Video Conference
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/242364910/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-08-16T06:30:00.0000000
-  ends: 2017-08-16T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/242432564/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-08-16T07:00:00.0000000
-  ends: 2017-08-16T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: 'AWS Leeds User Group #10'
-  description: "<p><b>Looking forward to seeing you all!</b></p> <p>If you're interested in hosting or sponsoring please drop us a line.</p> <p><br/>As usual we'll be providing plenty of food and drinks =)</p> <p><b>Agenda:</b></p> <p><b>Doug Winter: Serverless + AWS Cognito</b></p> <p>One of the missing pieces of the Serverless puzzle has been authentication and authorisation: how to easily identify your users and grant them access. </p> <p>AWS Cognito provides an API complete solution for this, as well as providing simple integration with Lambda and row-level security for DynamoDB. </p> <p>Doug will talk about how these can be used in a React application, with code examples.</p> <p><br/><b>Lawrence Dudley: Containers/Kubernetes on AWS</b></p> <p>Containers - everyone keeps going on about them but how production-ready is the tooling that's available? Lawrence will talk about Parallax's journey to finding a way to run production-ready, scalable containers on AWS.</p> <p>---</p> <p>We're looking for one additional speaker on top of the above agenda so if you have something interesting to speak about please let us know!</p> <p>See you there!</p> "
-  url: https://www.meetup.com/AWS-Leeds-User-Group/events/241905286/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/8/d/0/thumb_374267312.jpeg
-  starts: 2017-08-16T18:00:00.0000000
-  ends: 2017-08-16T20:30:00.0000000
-  venue: Duke Studios
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/242473880/
@@ -224,6 +199,22 @@
   ends: 2017-08-21T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Lessons learned on an “agile" government project
+  description: "<p><b>About the Session</b></p> <p>The government Vehicle Operator Licencing service is used by lorry and bus industries for the registration and management of their operations.  After three years of development, the service went live last year delivering benefits to the public, industry and the staff who use it. Laura, the current delivery manager and Steve, product owner, talk about the challenges of the project, lessons learned and the journey from an air quotes agile project to actual agile project.</p> <p><br/><b>About Laura Clatworthy</b></p> <p>Laura joined a software consultancy as a developer before dabbling in consultancy and finding her calling in agile delivery management. She has worked in the private sector for international clients across various industries. In the last 5 years Laura has managed medium to large scale digital by default services on the supplier side and more recently, client side on the Vehicle Operator Licencing project.  She enjoys working with talented people, promoting an agile, safe to fail culture and delivering projects that helps citizens.</p> <p><b>About Steve Fox</b></p> <p>1996,fresh out of University and with some “education” related bills to pay Steve joined the Civil Service. Since then he has enjoyed 20 years management experience working in a variety of roles including operations, HR and policy. He joined the Vehicle Operator Licensing digital project as product owner in 2013 and brings a refreshingly honest approach to the challenges of delivering digital within the Civil Service.  He relishes the challenge of balancing the needs of users, business stakeholders and the budget whilst also being supportive of everyone who makes it happen.</p> <p><b>Practical bits</b></p> <p>• Doors open at 6 and the talk starts at 6:30</p> <p>• Go up to the third floor in the venue (lift available) and turn left at the top.  Note that this is the same venue as the last few meetups but different from the start of the year.</p> <p>------------</p> <p>Agile in Leeds supports<a href=\"http://diversitycharter.org\"> diversitycharter.org</a></p> <p>\n\n<img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/d/3/2/600_449916146.jpeg\" /></p> "
+  url: https://www.meetup.com/Agile-in-Leeds/events/241530578/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
+  starts: 2017-08-22T17:00:00.0000000
+  ends: 2017-08-22T20:00:00.0000000
+  venue: 3rd Floor, Apsley House
+- name: Free Open to Everyone Evening!
+  description: "<p><b>What's happening?</b></p> <p>Are you an artist, maker, hobbyist, tinkerer, engineer or someone who just likes to make things or even just discuss creativity in Leeds?</p> <p>Come along and talk to like minded people and members at Leeds Hackspace, feel free to bring along a project that you're working on or just have a chat.</p> <p><b>So is this free? Do I have to book or something?</b></p> <p>Yes, it is free. Leeds Hackspace is a work-space, community group type and workshop area. We have snacks you can buy at our own Tuck Shop, internet access via WiFi or wired Ethernet.</p> <p><b>There doesn't seem to be many attending?</b></p> <p>A lot of our members, some 30+ do not use Meetup, and they regularly attend the open evenings/days without RSVPing on here. So don't worry, the open evenings happen regularly and every week.</p> <p><b>What do you have?</b></p> <p>Wood and metal workshop, laser cutter, 3D Printer, Vinyl cutter, computers, electronics, a heat press, and all sorts of <a href=\"https://wiki.leedshackspace.org.uk/wiki/Leeds_Hackspace\">other goodies</a>. However, using a lot of these things require an induction and for you to be a paying member, but we have these open evenings so that you can look around and check the place out. Some members are happy to help you if you need to be pointed in the right direction or have something that needs repairs.</p> <p><b>So is this a business.. ?</b></p> <p>Leeds Hackspace is registered as a business, but it is run voluntarily by Directors and members, if you want to see a change you can make it happen.</p> <p><b>How do I get there?</b></p> <p>You can find out more details about visiting here: <a href=\"http://leedshackspace.org.uk/getting-here/\"><a href=\"http://leedshackspace.org.uk/getting-here/\" class=\"linkified\">http://leedshackspace.org.uk/getting-here/</a></a> there is limited on-site free parking, and on-street parking is free after 6pm.</p> <p><b>What if I want to ask more questions?</b></p> <p>We also have a mailing list: <a href=\"https://groups.google.com/forum/#!forum/leeds-hack-space\" class=\"linkified\">https://groups.google.com/forum/#!forum/leeds-hack-space</a></p> "
+  url: https://www.meetup.com/Leeds-Hackspace/events/242596405/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/6/c/e/a/thumb_427947882.jpeg
+  starts: 2017-08-22T18:00:00.0000000
+  ends: 2017-08-22T22:30:00.0000000
+  venue: Leeds Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/241211676/
@@ -274,15 +265,6 @@
   ends: 2017-08-28T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Pi In The Sky
-  description: "<p>Join us for fun with Raspberry Pis in the labs of York St. John Computer Science department. In this month's Code Dojo we will construct a fibre-optic communication system using two Raspberry Pis, some LEDs and some high-performance optical coupling paste (blu-tack) and investigate how to send messages from one board to the other using only visible light.</p> <p>We will write code in Python, Javascript or C and look at the best (or maybe worst) ways to encode information into photons.</p> <p><i>The session will be led by Carl Hetherington. Carl is an electronic engineer and programmer working as a technician and lecturer on the Computer Science programme at York St. John University. In his spare time Carl contributes to open-source projects; in the past these have included inkscape.org (vector graphics editor) and ardour.org (digital audio workstation). Carl wrote and now maintains dcpomatic.com, the easiest (and cheapest) way to create content files for professional digital cinema systems. </i></p> "
-  url: https://www.meetup.com/York-Code-Dojo/events/241662866/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-09-13T17:30:00.0000000
-  ends: 2017-09-13T20:00:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywlbnc/
@@ -291,6 +273,31 @@
   starts: 2017-08-30T06:30:00.0000000
   ends: 2017-08-30T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywlbnc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-08-30T07:00:00.0000000
+  ends: 2017-08-30T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: August - Adam Hepton
+  description: "<p>Join us for a of great talk from Adam Hepton, as well as a chance to win a code for a year subscription to Frontend Masters!</p> <p><b>Agenda:</b></p> <p>• 6:30 - 6:45: People start arriving</p> <p>• 6:45 - 6:50: Introductions</p> <p>• 6:50 - 7:20: Adam Hepton - I Just Want to Code</p> <p>• 7:20 - 7:35: Break with food and chat</p> <p>• 7:35 - 8:20: Free spot (Katie has had to cancel unfortunately)</p> <p>• 8:20 - 9:25: Social &amp; point that people can leave</p> <p>• 9:25 - 9:40: Pack up and leave</p> <p><i>Note: We will no longer be going to the pub after the talks. This is in the interest of inclusivity.</i></p> <p><b>Talks:</b></p> <p><b>Adam Hepton - I Just Want to Code</b></p> <p><i>Developers can get frustrated in a variety of ways; in this talk, experienced technical manager Adam Hepton discusses what it’s like to be frustrated in coding for you and those around you, and what you can all do about it to help each other.</i></p> <p><b>Unfortunately Katie Fenn has had to cancel, please get in touch if you'd like to do a JavaScript talk in the main spot.</b></p> <p>The door to get in is shown here:</p> <p><a href=\"https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ\" class=\"linkified\">https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/242158352/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2017-08-30T17:30:00.0000000
+  ends: 2017-08-30T20:30:00.0000000
+  venue: Future Labs
+- name: Pi In The Sky
+  description: "<p>Join us for fun with Raspberry Pis in the labs of York St. John Computer Science department. In this month's Code Dojo we will construct a fibre-optic communication system using two Raspberry Pis, some LEDs and some high-performance optical coupling paste (blu-tack) and investigate how to send messages from one board to the other using only visible light.</p> <p>We will write code in Python, Javascript or C and look at the best (or maybe worst) ways to encode information into photons.</p> <p><i>The session will be led by Carl Hetherington. Carl is an electronic engineer and programmer working as a technician and lecturer on the Computer Science programme at York St. John University. In his spare time Carl contributes to open-source projects; in the past these have included inkscape.org (vector graphics editor) and ardour.org (digital audio workstation). Carl wrote and now maintains dcpomatic.com, the easiest (and cheapest) way to create content files for professional digital cinema systems. </i></p> "
+  url: https://www.meetup.com/York-Code-Dojo/events/241662866/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-09-13T17:30:00.0000000
+  ends: 2017-09-13T20:00:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
@@ -793,6 +800,14 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-07-19T18:00:00.0000000
   ends: 2018-07-19T21:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxlbvb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-08-16T18:00:00.0000000
+  ends: 2018-08-16T21:00:00.0000000
   endorsed: true
 - name: Cafe Scientifique September 6th
   description: Title and speaker to be confirmed shortly.
