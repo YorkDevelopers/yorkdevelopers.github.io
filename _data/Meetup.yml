@@ -1,11 +1,11 @@
-- name: Lessons learned on an “agile" government project
-  description: "<p><b>About the Session</b></p> <p>The government Vehicle Operator Licencing service is used by lorry and bus industries for the registration and management of their operations.  After three years of development, the service went live last year delivering benefits to the public, industry and the staff who use it. Laura, the current delivery manager and Steve, product owner, talk about the challenges of the project, lessons learned and the journey from an air quotes agile project to actual agile project.</p> <p><br/><b>About Laura Clatworthy</b></p> <p>Laura joined a software consultancy as a developer before dabbling in consultancy and finding her calling in agile delivery management. She has worked in the private sector for international clients across various industries. In the last 5 years Laura has managed medium to large scale digital by default services on the supplier side and more recently, client side on the Vehicle Operator Licencing project.  She enjoys working with talented people, promoting an agile, safe to fail culture and delivering projects that helps citizens.</p> <p><b>About Steve Fox</b></p> <p>1996,fresh out of University and with some “education” related bills to pay Steve joined the Civil Service. Since then he has enjoyed 20 years management experience working in a variety of roles including operations, HR and policy. He joined the Vehicle Operator Licensing digital project as product owner in 2013 and brings a refreshingly honest approach to the challenges of delivering digital within the Civil Service.  He relishes the challenge of balancing the needs of users, business stakeholders and the budget whilst also being supportive of everyone who makes it happen.</p> <p><b>Practical bits</b></p> <p>• Doors open at 6 and the talk starts at 6:30</p> <p>• Go up to the third floor in the venue (lift available) and turn left at the top.  Note that this is the same venue as the last few meetups but different from the start of the year.</p> <p>------------</p> <p>Agile in Leeds supports<a href=\"http://diversitycharter.org\"> diversitycharter.org</a></p> <p>\n\n<img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/d/3/2/600_449916146.jpeg\" /></p> "
-  url: https://www.meetup.com/Agile-in-Leeds/events/241530578/
+- name: Scrum Alternatives? Plus the all new Agile clinic
+  description: '<p>Scrum Alternatives?</p> <p>Is Scrum the only right option for you, your team, your business to become agile? Are there any other frameworks that provide a real alternative to Scrum? Are there any methods complimentary to Scrum that you really should take a look at to boost your agility? I’d like to walk you through the Agile landscape and share my highly subjective opinions and recommendations.</p> <p>About Wojciech</p> <p>Agile, Lean &amp; Systems Thinking practitioner who got pulled into consulting, teaching, training, coaching and research. Diverse Agile-related experience obtained on all organisational levels and in various companies, countries and cultures. Professional Scrum Trainer. Strong believer in Agile as a pragmatic approach to new product development.</p> <p>Agile clinic</p> <p>This week we introduce the all new Agile clinic where members of agileYork can bring along a situation or question for the group. After a short introduction we then crowdsource ideas and suggestions from the wealth of experience in the room to support a fellow agileYorkie. Our very own Heather McCartney has agreed to kick things off with an interesting question involving teams.</p> <p>NOTE: Food in the form of pizza will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>Sponsored by York St. John University.</p> <p><img src="https://secure.meetupstatic.com/photos/event/2/8/f/600_463860655.jpeg" /></p> '
+  url: https://www.meetup.com/agileYork/events/241305631/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
-  starts: 2017-08-22T17:00:00.0000000
-  ends: 2017-08-22T20:00:00.0000000
-  venue: 3rd Floor, Apsley House
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2017-08-23T17:30:00.0000000
+  ends: 2017-08-23T20:00:00.0000000
+  venue: York St.John University
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/241211676/
@@ -23,14 +23,6 @@
   starts: 2017-08-23T07:00:00.0000000
   ends: 2017-08-23T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Scrum Alternatives? Plus the all new Agile clinic
-  description: '<p>Scrum Alternatives?</p> <p>Is Scrum the only right option for you, your team, your business to become agile? Are there any other frameworks that provide a real alternative to Scrum? Are there any methods complimentary to Scrum that you really should take a look at to boost your agility? I’d like to walk you through the Agile landscape and share my highly subjective opinions and recommendations.</p> <p>About Wojciech</p> <p>Agile, Lean &amp; Systems Thinking practitioner who got pulled into consulting, teaching, training, coaching and research. Diverse Agile-related experience obtained on all organisational levels and in various companies, countries and cultures. Professional Scrum Trainer. Strong believer in Agile as a pragmatic approach to new product development.</p> <p>Agile clinic</p> <p>This week we introduce the all new Agile clinic where members of agileYork can bring along a situation or question for the group. After a short introduction we then crowdsource ideas and suggestions from the wealth of experience in the room to support a fellow agileYorkie. Our very own Heather McCartney has agreed to kick things off with an interesting question involving teams.</p> <p>NOTE: Food in the form of pizza will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>Sponsored by York St. John University.</p> <p><img src="https://secure.meetupstatic.com/photos/event/2/8/f/600_463860655.jpeg" /></p> '
-  url: https://www.meetup.com/agileYork/events/241305631/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
-  starts: 2017-08-23T17:30:00.0000000
-  ends: 2017-08-23T20:00:00.0000000
-  venue: York St.John University
 - name: agileYork - August Meetup
   description: '<p>Please see <a href="https://www.meetup.com/agileYork/events/241305631/" class="linkified">https://www.meetup.com/agileYork/events/241305631/</a> for more details.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/242488503/
@@ -49,7 +41,7 @@
   venue: Banyan Bar Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywlblc/
+  url: https://www.meetup.com/YorkDevelopers/events/242733033/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-08-28T06:30:00.0000000
@@ -98,6 +90,13 @@
   ends: 2017-09-04T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: ProductTank Yorkshire (Leeds) - September
+  description: "<p>After a small hiatus ProductTank Yorkshire is back, aiming to drive the local product community together. The hope being we get the region sharing ideas, best practices and lessons learnt from across the various industries. If that's not enough to persuade you, as with last time there will be free drinks and pizza!</p> <p>We will be branching out this September, with the talk taking place in a new venue, with parking available. The venue address is:</p> <p>Flashtalking<br/>Marshalls Mill,<br/>Marshall St,<br/>Leeds.<br/>LS11 9YJ</p> <p>Arriving: 6.20 - 6.55pm</p> <p>Franc: 7.00 - 7.20pm</p> <p>Andy: 7.30 - 7.50pm</p> <p>Brett: 8.00 - 8.20pm</p> <p>8.30 pm onwards we will head over to the Northern Monk Brewery just across the road for a few cheeky drinks. Our lovely speakers this time are...</p> <p><b>Franc Nicoletti, Product Manager, Masternaut</b> </p> <p>Franc has worked for 15 years at Masternaut, one of Europe’s largest providers of telematics solutions. As employee number 5, he’s seen the company grow from a start-up to a successful pan European business. He is currently a product manager, responsible for the businesses core B2B SaaS application, helping commercial fleets become safer, cleaner and more productive. </p> <p>Franc will be talking about his experiences with product complexity, a silent killer of product.</p> <p><b>Andy Sacre, Head of Payments at Sky Betting &amp; Gaming</b> </p> <p>Considered a thought leader &amp; game changer in payments, Andy's decade of experience is giving Sky Betting &amp; Gaming a competitive edge, securing their place as a leading name in payments. </p> <p>In Andy’s talk, you’ll hear about what’s going on right now, where paying for things is heading &amp; what we can learn about great products &amp; experiences from the unlikeliest of sources… shoplifters.’</p> <p><b>Brett Evans, Product Manager at Flashtalking</b></p> <p>With 10 years of Product Management experience working in Spread Betting, Financial Trading and Online Advertising; Brett has a track record of introducing and expanding the product function and departments of Small Enterprises as they grow.<br/>He is currently Product Manager for Flashtalking’s Measure Tribe, responsible for data processing and reporting platforms in an Ad server that serves billions of impressions a day.</p> <p>In Brett’s talk he will be talking about the journey Flashtalking has taken to find the roadmap process that works for them.</p> <p>See you there!</p> <p>Andy</p> "
+  url: https://www.meetup.com/ProductTank-Yorkshire/events/242469714/
+  is-free: true
+  starts: 2017-09-05T18:00:00.0000000
+  ends: 2017-09-05T19:30:00.0000000
+  venue: Flashtalking
 - name: Pi In The Sky
   description: "<p>Join us for fun with Raspberry Pis in the labs of York St. John Computer Science department. In this month's Code Dojo we will construct a fibre-optic communication system using two Raspberry Pis, some LEDs and some high-performance optical coupling paste (blu-tack) and investigate how to send messages from one board to the other using only visible light.</p> <p>We will write code in Python, Javascript or C and look at the best (or maybe worst) ways to encode information into photons.</p> <p><i>The session will be led by Carl Hetherington. Carl is an electronic engineer and programmer working as a technician and lecturer on the Computer Science programme at York St. John University. In his spare time Carl contributes to open-source projects; in the past these have included inkscape.org (vector graphics editor) and ardour.org (digital audio workstation). Carl wrote and now maintains dcpomatic.com, the easiest (and cheapest) way to create content files for professional digital cinema systems. </i></p> "
   url: https://www.meetup.com/York-Code-Dojo/events/241662866/
@@ -559,6 +558,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-02-07T07:30:00.0000000
   ends: 2018-02-07T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxdbqb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-02-12T07:30:00.0000000
+  ends: 2018-02-12T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
