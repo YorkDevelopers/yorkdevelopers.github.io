@@ -1,10 +1,3 @@
-- name: 'ITBoss: Bringing Yorkshire’s Senior IT Professionals Together'
-  description: "<p>We are delighted to announce our next ITBoss networking event will take place on Thursday 24 August 2017. ITBoss is the one and only event in Yorkshire designed to bring together Senior IT Professionals.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?<br/></b>The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>- a brief intro and welcome<br/>- a talk from industry experts<br/>- lightning discussions on hot industry specific topics chosen by you<br/>- event roundup and thank you at approximately 8.30pm<br/>- drinks and networking to finish.</p> <p>\n\n<b>WHO ATTENDS?<br/></b>Senior IT Professionals including IT Directors, Programme Managers, CIOs and CTOs. This is an invitation-only event organised and held by Corecom Consulting, Yorkshire’s fastest growing IT recruitment specialist.</p> <p><b>WHY SHOULD I ATTEND?<br/></b>ITBoss creates a unique platform for Senior IT Professionals all over Yorkshire to debate, discuss hot topics, learn from reputable and established speakers whilst networking with like minded individuals in an intimate but friendly environment.</p> <p><b>FEEDBACK FROM PREVIOUS ITBOSS EVENTS<br/></b>“The ITBoss networking event was an extremely valuable event to participate in. I networked with like-minded IT Directors and Heads of IT, sharing some useful tools, practices and insights which I have transferred to the workplace. It has also provided me with a network of contacts that I can call upon when dealing with future challenges and when seeking advice.”</p> <p><i>Sunder Iyer, Project Manager, LexisNexis</i></p> <p>“The most useful sections of the ITBoss event was having a guest speaker on a subject area which I am very interested in my current role…there is a lot of focus on aligning with strategy. The lightning topics were great in that they were on three different topics, everyone at some point got involved in the discussions and they were time-boxed! A good event all round.”</p> <p><i>Philippa Rickard, Programme Manager, William Hill</i></p> "
-  url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237042271/
-  is-free: true
-  starts: 2017-08-24T17:00:00.0000000
-  ends: 2017-08-24T19:30:00.0000000
-  venue: Banyan Bar Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/242733033/
@@ -24,7 +17,7 @@
   venue: Leeds Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywlbnc/
+  url: https://www.meetup.com/YorkDevelopers/events/242790763/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-08-30T06:30:00.0000000
@@ -33,7 +26,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywlbnc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/242791080/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-08-30T07:00:00.0000000
@@ -55,6 +48,14 @@
   starts: 2017-08-31T17:30:00.0000000
   ends: 2017-08-31T19:30:00.0000000
   venue: Futurelabs
+- name: Monthly meet up
+  description: '<p>Chat about Linux and related technology over a drink.<br/>Some people get food from the bar.</p> '
+  url: https://www.meetup.com/West-Yorkshire-Linux-users-group/events/242337092/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/c/e/7/5/thumb_441292853.jpeg
+  starts: 2017-08-31T18:30:00.0000000
+  ends: 2017-09-04T20:00:00.0000000
+  venue: The Lord Darcy
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywmbgb/
@@ -104,6 +105,14 @@
   starts: 2017-09-06T18:00:00.0000000
   ends: 2017-09-06T21:00:00.0000000
   venue: The Cross Keys
+- name: 'Delving Into Umbraco: Bugfix Hack Evening'
+  description: "<p>We've previously had a lot of discussion around concepts, best practice and war-stories so this meetup will focus on some actual code and hopefully contribute something back to the core. </p> <p>The main idea is to look at the bug tracker as a group and identify an issue or two that we're going to try and solve. We'll then split into smaller groups to work on the issues and just see how it pans out.</p> <p>Since we'll having laptops around (feel free to bring your own) why not also show us what you're proud of or bring along an issue that's currently making you scratch your head, we'll try to help!</p> "
+  url: https://www.meetup.com/umbLeeds/events/242611722/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
+  starts: 2017-09-07T18:30:00.0000000
+  ends: 2017-09-07T21:30:00.0000000
+  venue: The Adelphi
 - name: Pi In The Sky
   description: "<p>Join us for fun with Raspberry Pis in the labs of York St. John Computer Science department. In this month's Code Dojo we will construct a fibre-optic communication system using two Raspberry Pis, some LEDs and some high-performance optical coupling paste (blu-tack) and investigate how to send messages from one board to the other using only visible light.</p> <p>We will write code in Python, Javascript or C and look at the best (or maybe worst) ways to encode information into photons.</p> <p><i>The session will be led by Carl Hetherington. Carl is an electronic engineer and programmer working as a technician and lecturer on the Computer Science programme at York St. John University. In his spare time Carl contributes to open-source projects; in the past these have included inkscape.org (vector graphics editor) and ardour.org (digital audio workstation). Carl wrote and now maintains dcpomatic.com, the easiest (and cheapest) way to create content files for professional digital cinema systems. </i></p> "
   url: https://www.meetup.com/York-Code-Dojo/events/241662866/
@@ -565,6 +574,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-02-12T07:30:00.0000000
   ends: 2018-02-12T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxdbsb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-02-14T07:30:00.0000000
+  ends: 2018-02-14T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
