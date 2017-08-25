@@ -1,5 +1,5 @@
-- name: Cafe Scientifique September 6th
-  description: Title and speaker to be confirmed shortly.
+- name: “Geological, geotechnical and hydrogeological aspects of the Sirius Minerals tunnel”
+  description: <strong>“Geological, geotechnical and hydrogeological aspects of the Sirius Minerals tunnel” </strong>
   url: https://www.ypsyork.org/events/cafe-scientifique-september-6th/
   logo: https://www.ypsyork.org/wp-content/uploads/2017/07/Cafe-1-Feb-17-200x125.jpg
   starts: 2017-09-06T19:30:00.0000000
@@ -29,6 +29,13 @@
   starts: 2017-09-19T19:30:00.0000000
   ends: 2017-09-19T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall-4/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
+- name: YPS Get-Together September 27th 2.30pm
+  description: YPS Get-Together
+  url: https://www.ypsyork.org/events/yps-get-together-september-27th-2-30pm/
+  logo: https://www.ypsyork.org/wp-content/uploads/2015/01/York-Museum-Gardens-Rockery-200x125.jpg
+  starts: 2017-09-27T14:30:00.0000000
+  ends: 2017-09-27T16:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/star-inn-the-city/" title="Star Inn the City">Star Inn the City</a>
 - name: 'From Flat-screen TVs to Augmented Reality Devices: How Yorkshire Helped to Build the High-tech World of Today'
   description: Emeritus Professor John Goodby, University of York with Dr Stephen Cowling
   url: https://www.ypsyork.org/events/from-flat-screen-tvs-to-augmented-reality-devices-how-yorkshire-helped-to-build-the-high-tech-world-of-today/
@@ -39,10 +46,24 @@
 - name: Secrets, spies and Statesmen.  Study Tour to Bletchley, Blenheim and Hughendon
   description: “Just for Groups” for the Yorkshire Philosophical Society
   url: https://www.ypsyork.org/events/secrets-spies-and-statesmen-study-tour-to-bletchley-blenheim-and-hughendon/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/08/Hilton2-200x125.jpg
+  logo: https://www.ypsyork.org/wp-content/uploads/2016/11/Woman-structural-engineer-200x125.jpg
   starts: 2017-10-08T08:00:00.0000000
   ends: 2017-10-08T10:00:00.0000000
-  venue: 8 Nov 2017
+  venue: 17 Oct 2017
+- name: 'One Day, Three Perspectives: A Day in the Life of a Rail Engineer'
+  description: '<strong>One Day, Three Perspectives: A day in the life of a Rail Engineer</strong>'
+  url: https://www.ypsyork.org/events/one-day-three-perspectives-a-day-in-the-life-of-a-rail-engineer/
+  logo: https://www.ypsyork.org/wp-content/uploads/2016/11/Woman-structural-engineer-200x125.jpg
+  starts: 2017-10-17T19:30:00.0000000
+  ends: 2017-10-17T21:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
+- name: Evidence-Based Education
+  description: <strong>Evidence-Based Education</strong>
+  url: https://www.ypsyork.org/events/evidence-based-education/
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/08/BetteChambersphotosmall-200x125.jpg
+  starts: 2017-10-31T19:30:00.0000000
+  ends: 2017-10-31T21:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: YPS  Annual Dinner 2017
   description: <em> </em>
   url: https://www.ypsyork.org/events/the-yorkshire-philosophical-society-annual-dinner-2017/
