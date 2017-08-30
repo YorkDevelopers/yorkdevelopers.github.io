@@ -180,14 +180,6 @@
   starts: 2017-08-30T07:00:00.0000000
   ends: 2017-08-30T10:00:00.0000000
   venue: La Bottega Milanese
-- name: August - Adam Hepton & Temitope Faro
-  description: "<p>Join us for a of great talk from Adam Hepton, as well as a chance to win a code for a year subscription to Frontend Masters!</p> <p><b>Agenda:</b></p> <p>• 6:30 - 6:45: People start arriving</p> <p>• 6:45 - 6:50: Introductions</p> <p>• 6:50 - 7:20: Adam Hepton - I Just Want to Code</p> <p>• 7:20 - 7:35: Break with food and chat</p> <p>• 7:35 - 8:20: Temitope Faro - Building GraphQL applications in JavaScript</p> <p>• 8:20 - 9:25: Social &amp; point that people can leave</p> <p>• 9:25 - 9:40: Pack up and leave</p> <p><i>Note: We will no longer be going to the pub after the talks. This is in the interest of inclusivity.</i></p> <p><b>Talks:</b></p> <p><b>Adam Hepton - I Just Want to Code</b></p> <p><i>Developers can get frustrated in a variety of ways; in this talk, experienced technical manager Adam Hepton discusses what it’s like to be frustrated in coding for you and those around you, and what you can all do about it to help each other.</i></p> <p><b>Temitope Faro - Building GraphQL applications in JavaScript</b></p> <p><i>I'll be sharing real life experiences on building real life front-end applications that interface with GraphQL backend APIs. I'll be covering the why/what is GraphQL, integrating your front-end JS applications to GraphQL, testing your GraphQL applications and how to mock your GraphQL services for rapid development. Also, I'll have a live demo to with all of this! </i></p> <p><br/>The door to get in is shown here:</p> <p><a href=\"https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ\" class=\"linkified\">https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
-  url: https://www.meetup.com/LeedsJS/events/242158352/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2017-08-30T17:30:00.0000000
-  ends: 2017-08-30T20:30:00.0000000
-  venue: Future Labs
 - name: Adding Prediction to .NET Apps with Azure Machine Learning
   description: '<p>Kevin Evans is CIO at SUN BRANDING SOLUTIONS and is currently doing a PhD in Machine Learning, AI &amp; Computer Security.</p> <p>In this talk, Kev will show us how to use Azure Machine Learning to add prediction to a .NET client via a RESTful ML service.</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/242198079/
@@ -198,20 +190,13 @@
   venue: Futurelabs
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywmbgb/
+  url: https://www.meetup.com/YorkDevelopers/events/242918359/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-09-04T06:30:00.0000000
   ends: 2017-09-04T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: ProductTank Yorkshire (Leeds) - September
-  description: "<p>After a small hiatus ProductTank Yorkshire is back, aiming to drive the local product community together. The hope being we get the region sharing ideas, best practices and lessons learnt from across the various industries. If that's not enough to persuade you, as with last time there will be free drinks and pizza!</p> <p>We will be branching out this September, with the talk taking place in a new venue, with parking available. The venue address is:</p> <p>Flashtalking<br/>Marshalls Mill,<br/>Marshall St,<br/>Leeds.<br/>LS11 9YJ</p> <p>Arriving: 6.20 - 6.55pm</p> <p>Franc: 7.00 - 7.20pm</p> <p>Andy: 7.30 - 7.50pm</p> <p>Brett: 8.00 - 8.20pm</p> <p>8.30 pm onwards we will head over to the Northern Monk Brewery just across the road for a few cheeky drinks. Our lovely speakers this time are...</p> <p><b>Franc Nicoletti, Product Manager, Masternaut</b> </p> <p>Franc has worked for 15 years at Masternaut, one of Europe’s largest providers of telematics solutions. As employee number 5, he’s seen the company grow from a start-up to a successful pan European business. He is currently a product manager, responsible for the businesses core B2B SaaS application, helping commercial fleets become safer, cleaner and more productive. </p> <p>Franc will be talking about his experiences with product complexity, a silent killer of product.</p> <p><b>Andy Sacre, Head of Payments at Sky Betting &amp; Gaming</b> </p> <p>Considered a thought leader &amp; game changer in payments, Andy's decade of experience is giving Sky Betting &amp; Gaming a competitive edge, securing their place as a leading name in payments. </p> <p>In Andy’s talk, you’ll hear about what’s going on right now, where paying for things is heading &amp; what we can learn about great products &amp; experiences from the unlikeliest of sources… shoplifters.’</p> <p><b>Brett Evans, Product Manager at Flashtalking</b></p> <p>With 10 years of Product Management experience working in Spread Betting, Financial Trading and Online Advertising; Brett has a track record of introducing and expanding the product function and departments of Small Enterprises as they grow.<br/>He is currently Product Manager for Flashtalking’s Measure Tribe, responsible for data processing and reporting platforms in an Ad server that serves billions of impressions a day.</p> <p>In Brett’s talk he will be talking about the journey Flashtalking has taken to find the roadmap process that works for them.</p> <p>See you there!</p> <p>Andy</p> "
-  url: https://www.meetup.com/ProductTank-Yorkshire/events/242469714/
-  is-free: true
-  starts: 2017-09-05T18:00:00.0000000
-  ends: 2017-09-05T19:30:00.0000000
-  venue: Flashtalking
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywmbjb/
@@ -749,6 +734,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-02-15T19:00:00.0000000
   ends: 2018-02-15T22:00:00.0000000
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxdbzb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-02-19T07:30:00.0000000
+  ends: 2018-02-19T10:30:00.0000000
+  venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
