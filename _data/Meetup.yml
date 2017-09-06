@@ -50,7 +50,7 @@
   venue: The Adelphi
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywmbpb/
+  url: https://www.meetup.com/YorkDevelopers/events/243106444/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-09-11T06:30:00.0000000
@@ -68,7 +68,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywmbrb/
+  url: https://www.meetup.com/YorkDevelopers/events/243124396/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-09-13T06:30:00.0000000
@@ -92,6 +92,14 @@
   ends: 2017-09-13T20:30:00.0000000
   venue: York St. John University
   endorsed: true
+- name: CodeMill launch night with spacecraft engineer Katie Hassell
+  description: "<p><b>Launch night at ODI Leeds</b></p> <p>We're thrilled to be launching CodeMill at ODI Leeds with a very special guest speaker: spacecraft engineer Katie Hassell (@khassellspace)</p> <p><b>Software and Spacecraft: Not Just for Computer Scientists<br/></b></p> <p>Like many engineered products of today (cars, aeroplanes, buildings), spacecraft have complex designs; not made any easier by a lack of access after launch and usually no \"repeat\" mission to iterate a design over.  It will come as no surprise that computational analysis features heavily in the life of a spacecraft engineer. </p> <p>Katie will introduce the general principles behind spacecraft engineering, including an overview of different roles and uses of software.  She will share her experience of being a thermal analyst for spacecraft and a brief history of how software use has changed in the industry, looking at some more recent missions and how software is changing the scope of future space exploration.</p> <p><br/><b>Katie Hassell</b></p> <p><img src=\"https://secure.meetupstatic.com/photos/event/9/1/a/3/600_463897283.jpeg\" /></p> <p>\n\n\nOriginally from Giggleswick in North Yorkshire, Katie studied Physics at The University of Warwick. After a few years in the administrative wilderness, she completed a Masters in Aerospace Engineering, before becoming a Spacecraft Thermal Engineer. Over the last six years she has been lucky enough to work on a whole range of missions, including: EarthCARE, Solar Orbiter, LISA Pathfinder, Biomass and PLATO.</p> <p><br/><a href=\"https://twitter.com/khassellspace\">@khassellspace</a></p> <p>---</p> <p><b>Introduction to CodeMill </b></p> <p>The founder of CodeMill, Matthew Skelton (<a href=\"https://twitter.com/matthewpskelton\">@matthewpskelton</a>), will give an overview of CodeMill and what we hope to achieve over the coming months and years: a boost to the digital skills of the region!</p> "
+  url: https://www.meetup.com/CodeMill-Digital-Skills/events/242539230/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/7/5/3/thumb_463015123.jpeg
+  starts: 2017-09-14T17:30:00.0000000
+  ends: 2017-09-14T20:30:00.0000000
+  venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywmbxb/
@@ -617,6 +625,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-02-21T07:30:00.0000000
   ends: 2018-02-21T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxdbjc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-02-26T07:30:00.0000000
+  ends: 2018-02-26T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Agile York
