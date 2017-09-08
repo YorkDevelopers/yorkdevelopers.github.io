@@ -1,11 +1,3 @@
-- name: 'Delving Into Umbraco: Bugfix Hack Evening'
-  description: "<p>We've previously had a lot of discussion around concepts, best practice and war-stories so this meetup will focus on some actual code and hopefully contribute something back to the core. </p> <p>The main idea is to look at the bug tracker as a group and identify an issue or two that we're going to try and solve. We'll then split into smaller groups to work on the issues and just see how it pans out.</p> <p>Since we'll having laptops around (feel free to bring your own) why not also show us what you're proud of or bring along an issue that's currently making you scratch your head, we'll try to help!</p> "
-  url: https://www.meetup.com/umbLeeds/events/242611722/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
-  starts: 2017-09-07T18:30:00.0000000
-  ends: 2017-09-07T21:30:00.0000000
-  venue: The Adelphi
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/243106444/
@@ -108,6 +100,13 @@
   starts: 2017-09-20T18:00:00.0000000
   ends: 2017-09-20T21:00:00.0000000
   endorsed: true
+- name: Java 9 Launch Party!!
+  description: '<p>Java 9 Launch!</p> <p>Join us on Thursday 21st September to learn more about Java 9, we have long being anticipating the new release and this will provide an overview of the new features around everything Java 9 has to offer.</p> <p>We’ll be hold 2 discussions as part of the evening:</p> <p><b> Java 9; Jigsaw, putting the pieces together.</b> </p> <p>Key Speaker: Samael Bate Java Developer @ Hermes </p> <p><b>The 9 best things about Java 9</b> </p> <p>Key Speakers: James Pittendreigh @ EE and Neil Dunlop @ Infinity Works Consulting</p> <p>They’ll be plenty of time for questions and networking over some complimentary beer and nibbles.</p> <p>Arrival – 6pm</p> <p>Start – 6.30pm</p> <p>Finish – 8.30pm</p> <p>Drinks Afterwards</p> <p>Location – Aspley House, 78 Wellington Street, Leeds, LS1 2EQ</p> '
+  url: https://www.meetup.com/Leeds-JVMThing/events/242958954/
+  is-free: true
+  starts: 2017-09-21T17:30:00.0000000
+  ends: 2017-09-21T20:30:00.0000000
+  venue: Infinity Works Consulting
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmywmbcc/
@@ -616,6 +615,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-02-26T07:30:00.0000000
   ends: 2018-02-26T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxdblc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-02-28T07:30:00.0000000
+  ends: 2018-02-28T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Agile York
