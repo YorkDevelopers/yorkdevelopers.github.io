@@ -207,7 +207,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywmbxb/
+  url: https://www.meetup.com/YorkDevelopers/events/243296694/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-09-18T06:30:00.0000000
@@ -788,6 +788,15 @@
   ends: 2018-02-28T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbhb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-03-05T07:30:00.0000000
+  ends: 2018-03-05T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
 - name: Agile York
   description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
   url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxfbkb/
@@ -892,13 +901,6 @@
   starts: 2018-08-22T18:00:00.0000000
   ends: 2018-08-22T21:00:00.0000000
   endorsed: true
-- name: Building Stones of York Tour
-  description: Walking Tour of York organised by the YPS Geology Group
-  url: https://www.ypsyork.org/events/building-stones-of-york-tour/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/07/B-Stones-flyer-v3-200x125.jpg
-  starts: 2017-09-12T10:30:00.0000000
-  ends: 2017-09-12T12:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/exhibition-square/" title="Exhibition Square">Exhibition Square</a>
 - name: 'Sleep: the science and the myths'
   description: >-
     <strong>Sleep: the science and the myths<br />
