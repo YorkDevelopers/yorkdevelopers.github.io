@@ -1,38 +1,3 @@
-- name: Pi In The Sky
-  description: "<p>Join us for fun with Raspberry Pis in the labs of York St. John Computer Science department. In this month's Code Dojo we will construct a fibre-optic communication system using two Raspberry Pis, some LEDs and some high-performance optical coupling paste (blu-tack) and investigate how to send messages from one board to the other using only visible light.</p> <p>We will write code in Python, Javascript or C and look at the best (or maybe worst) ways to encode information into photons.</p> <p><i>The session will be led by Carl Hetherington. Carl is an electronic engineer and programmer working as a technician and lecturer on the Computer Science programme at York St. John University. In his spare time Carl contributes to open-source projects; in the past these have included inkscape.org (vector graphics editor) and ardour.org (digital audio workstation). Carl wrote and now maintains dcpomatic.com, the easiest (and cheapest) way to create content files for professional digital cinema systems. </i></p> "
-  url: https://www.meetup.com/York-Code-Dojo/events/241662866/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-09-13T17:30:00.0000000
-  ends: 2017-09-13T20:00:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/243124396/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-09-13T06:30:00.0000000
-  ends: 2017-09-13T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/242790507/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-09-13T07:00:00.0000000
-  ends: 2017-09-13T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: York Code Dojo - Pi In The Sky
-  description: '<p>Please see <a href="https://www.meetup.com/York-Code-Dojo/events/241662866/" class="linkified">https://www.meetup.com/York-Code-Dojo/events/241662866/</a> for more details.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/242488520/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-09-13T17:30:00.0000000
-  ends: 2017-09-13T20:30:00.0000000
-  venue: York St. John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/243296694/
@@ -123,6 +88,39 @@
   ends: 2017-09-27T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywmbkc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-09-27T07:00:00.0000000
+  ends: 2017-09-27T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Moving Towards Operability
+  description: "<p><b>Session One: Moving Towards Operability</b></p> <p>All too often DevOps is a constraint for organisations. People have been led to believe it will solve all their problems, but it's shrouded in magic, mystery, and pixie dust. We want to distill DevOps down to its thing of value - operability - and help organisations to create a real feedback loop for their production systems and improve their delivery flow.</p> <p>Dan Mitchell, Operability Lead, Equal Experts</p> <p><b>Session Two: Fishbowl Discussion  </b></p> <p>Fishbowl session, run by Geraint Dawe from Equal Experts, where all attendees will have a chance to discuss their views on Operability and any points of interests from Session One.</p> <p>\n\n\n\nPlease note the change in venue. As always, food and drinks will be provided. </p> "
+  url: https://www.meetup.com/Expert-Talks-Leeds/events/242217604/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2017-09-27T17:00:00.0000000
+  ends: 2017-09-27T19:30:00.0000000
+  venue: Lamberts yard,
+- name: September - James Moorhouse & Lewis Cowper
+  description: "<p>Join us for a couple of great talks from James Moorhouse and Lewis Cowper, as well as a chance to win a code for a year subscription to Frontend Masters!</p> <p><b>Agenda:</b></p> <p>6:30 - 6:45: People start arriving</p> <p>6:45 - 6:50: Introductions</p> <p>6:50 - 7:20: James Moorhouse - Modernising our App with Typescript</p> <p>7:20 - 7:35: Break with food and chat</p> <p>7:35 - 8:20: Lewis Cowper - CSS and component based systems</p> <p>8:20 - 9:25: Social &amp; point that people can leave</p> <p>9:25 - 9:40: Pack up and leave</p> <p><b>Talks: </b></p> <p><b>James Moorhouse - Modernising our App with Typescript</b></p> <p><i>A look at what TypeScript is, why you might want to use it and how we used it to refactor the ‘My Bets’ codebase at Sky Bet to provide a stable platform for future development.</i></p> <p><i>The talk starts off by going over TypeScript and demonstrating some of its capabilities, whilst the latter part discusses how we overcame the problems we encountered from doing a large scale refactor on a codebase with daily commits.</i></p> <p><i>It's now coming up to 12 months since we started using TypeScript so come along to learn more about whether TypeScript has stood the test of time!</i></p> <p><br/><b><br/></b></p> <p><b><br/></b></p> <p><b>Lewis Cowper - CSS and component based systems</b></p> <p><br/><i>With more and more frameworks and libraries moving towards defining components rather than pages, it is getting more difficult to make sure the cascade doesn't trip us up. In this talk, we'll look at how we can take advantage of new tools and approaches to make dealing with CSS and components much easier. We'll look at three approaches for styling components, and discuss the benefits and drawbacks of each approach. While React will be used as the example component that needs styling, the techniques and approaches should be applicable across the front end ecosystem.</i></p> <p><br/>The door to get in is shown here:</p> <p><a href=\"https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ\" class=\"linkified\">https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/243199853/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2017-09-27T17:30:00.0000000
+  ends: 2017-09-27T20:30:00.0000000
+  venue: Future Labs
+- name: October York Code Dojo - TBC
+  description: '<p>TBC</p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/243341488/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-10-11T17:30:00.0000000
+  ends: 2017-10-11T19:30:00.0000000
+  venue: Room FT/211 York St John University
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbdb/
@@ -141,8 +139,8 @@
   ends: 2017-10-04T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: dotnet York - First meetup
-  description: '<p>Our first meetup on and surrounding all the .NET ecosystem led by Kevin Smith (@kev_bite).</p> <p>More details to follow.</p> '
+- name: DotNetYork - Building APIs with Azure Functions
+  description: "<p>Our first meetup on and surrounding all the .NET ecosystem led by Kevin Smith (@kev_bite).</p> <p>Functions as a Service (FaaS) seems to be trending as the next big buzzword, in this session we'll look at the advantages of using FaaS and how we can take advantage of Azure Functions to build our APIs. Through this demo lead session we'll see examples of how we can take advantage of HttpTriggers, Routing, Proxies and API definition to build a set of rich functions as the source for our APIs.</p> "
   url: https://www.meetup.com/YorkDevelopers/events/242946975/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -388,14 +386,6 @@
   ends: 2017-12-20T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: YorkDevelopers Christmas Party
-  description: '<p>More of a get together in York City Centre where you buy your own food and drinks - but very social I promise... :-)</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/242850175/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-12-20T19:00:00.0000000
-  ends: 2017-12-20T22:00:00.0000000
-  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmywqbcc/
@@ -403,6 +393,14 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-12-21T19:00:00.0000000
   ends: 2017-12-21T22:00:00.0000000
+  endorsed: true
+- name: YorkDevelopers Christmas Party
+  description: '<p>More of a get together in York City Centre where you buy your own food and drinks - but very social I promise... :-)</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/242850175/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-12-21T19:00:00.0000000
+  ends: 2017-12-21T21:00:00.0000000
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
