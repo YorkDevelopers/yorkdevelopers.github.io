@@ -196,7 +196,7 @@
   venue: York St.John University
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywmbbc/
+  url: https://www.meetup.com/YorkDevelopers/events/243355459/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-09-20T06:30:00.0000000
@@ -205,7 +205,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywmbbc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/243355814/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-09-20T07:00:00.0000000
@@ -268,14 +268,6 @@
   starts: 2017-09-27T07:00:00.0000000
   ends: 2017-09-27T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Moving Towards Operability
-  description: "<p><b>Session One: Moving Towards Operability</b></p> <p>All too often DevOps is a constraint for organisations. People have been led to believe it will solve all their problems, but it's shrouded in magic, mystery, and pixie dust. We want to distill DevOps down to its thing of value - operability - and help organisations to create a real feedback loop for their production systems and improve their delivery flow.</p> <p>Dan Mitchell, Operability Lead, Equal Experts</p> <p><b>Session Two: Fishbowl Discussion  </b></p> <p>Fishbowl session, run by Geraint Dawe from Equal Experts, where all attendees will have a chance to discuss their views on Operability and any points of interests from Session One.</p> <p>\n\n\n\nPlease note the change in venue. As always, food and drinks will be provided. </p> "
-  url: https://www.meetup.com/Expert-Talks-Leeds/events/242217604/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
-  starts: 2017-09-27T17:00:00.0000000
-  ends: 2017-09-27T19:30:00.0000000
-  venue: Lamberts yard,
 - name: September - James Moorhouse & Lewis Cowper
   description: "<p>Join us for a couple of great talks from James Moorhouse and Lewis Cowper, as well as a chance to win a code for a year subscription to Frontend Masters!</p> <p><b>Agenda:</b></p> <p>6:30 - 6:45: People start arriving</p> <p>6:45 - 6:50: Introductions</p> <p>6:50 - 7:20: James Moorhouse - Modernising our App with Typescript</p> <p>7:20 - 7:35: Break with food and chat</p> <p>7:35 - 8:20: Lewis Cowper - CSS and component based systems</p> <p>8:20 - 9:25: Social &amp; point that people can leave</p> <p>9:25 - 9:40: Pack up and leave</p> <p><b>Talks: </b></p> <p><b>James Moorhouse - Modernising our App with Typescript</b></p> <p><i>A look at what TypeScript is, why you might want to use it and how we used it to refactor the ‘My Bets’ codebase at Sky Bet to provide a stable platform for future development.</i></p> <p><i>The talk starts off by going over TypeScript and demonstrating some of its capabilities, whilst the latter part discusses how we overcame the problems we encountered from doing a large scale refactor on a codebase with daily commits.</i></p> <p><i>It's now coming up to 12 months since we started using TypeScript so come along to learn more about whether TypeScript has stood the test of time!</i></p> <p><br/><b><br/></b></p> <p><b><br/></b></p> <p><b>Lewis Cowper - CSS and component based systems</b></p> <p><br/><i>With more and more frameworks and libraries moving towards defining components rather than pages, it is getting more difficult to make sure the cascade doesn't trip us up. In this talk, we'll look at how we can take advantage of new tools and approaches to make dealing with CSS and components much easier. We'll look at three approaches for styling components, and discuss the benefits and drawbacks of each approach. While React will be used as the example component that needs styling, the techniques and approaches should be applicable across the front end ecosystem.</i></p> <p><br/>The door to get in is shown here:</p> <p><a href=\"https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ\" class=\"linkified\">https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
   url: https://www.meetup.com/LeedsJS/events/243199853/
@@ -284,6 +276,14 @@
   starts: 2017-09-27T17:30:00.0000000
   ends: 2017-09-27T20:30:00.0000000
   venue: Future Labs
+- name: Introduction to Umbraco CMS + Adding Search with Umbraco Examine & Lucene.NET
+  description: "<p>This month, you'll be learning about Umbraco, an open source CMS running on ASP.NET, and Lucene.NET, a search engine library for adding search to your site.</p> <p>Did you know that Vogue, Storm Models, Carlsberg,Reckitt Benckiser (Veet,Dettol,Finish,Scholl), Wired, Glamour, and GQ magazine all use Umbraco as their CMS of choice?</p> <p>Did you know that NASA, Disney, eBay, Reddit, and CNET all use Lucene as their search engine of choice?</p> <p>To give us the low-down on Umbraco and Lucene.NET, Leeds Sharp is excited to welcome Ismail Mayat to Futurelabs this month.</p> <p>Ismail is an official <a href=\"https://umbraco.com/\">Umbraco</a> trainer, MVP, and senior developer at <a href=\"https://thecogworks.com/\">The Cogworks</a>. He is the founding father of the Umbraco Course: Searching and Indexing with Examine. </p> <p>Hoping to see you on Thursday, 28 September. </p> <p>RSVP now and get absolutely nothing for free!</p> <p>\n\n\nTeam LS#</p> "
+  url: https://www.meetup.com/Leeds-Sharp/events/241812863/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2017-09-28T17:30:00.0000000
+  ends: 2017-09-28T20:30:00.0000000
+  venue: Futurelabs
 - name: October York Code Dojo - TBC
   description: '<p>TBC</p> '
   url: https://www.meetup.com/York-Code-Dojo/events/243341488/
@@ -795,6 +795,15 @@
   ends: 2018-03-05T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbkb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-03-07T07:30:00.0000000
+  ends: 2018-03-07T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
 - name: Agile York
   description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
   url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxfbkb/
@@ -923,6 +932,13 @@
   starts: 2017-10-03T19:30:00.0000000
   ends: 2017-10-03T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
+- name: '&#8220;Language and the Representation of Number(s)”'
+  description: '&#8220;Language and the Representation of Number(s)”  by George Tsoulas, Senior lecturer from the Language and Linguistic Science Department at York University.'
+  url: https://www.ypsyork.org/events/language-and-the-representation-of-numbers/
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/07/Cafe-1-Feb-17-200x125.jpg
+  starts: 2017-10-04T19:30:00.0000000
+  ends: 2017-10-04T21:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/city-screen-basement-bar/" title="City Screen Basement Bar">City Screen Basement Bar</a>
 - name: Secrets, spies and Statesmen.  Study Tour to Bletchley, Blenheim and Hughendon
   description: “Just for Groups” for the Yorkshire Philosophical Society
   url: https://www.ypsyork.org/events/secrets-spies-and-statesmen-study-tour-to-bletchley-blenheim-and-hughendon/
@@ -944,6 +960,13 @@
   starts: 2017-10-17T19:30:00.0000000
   ends: 2017-10-17T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
+- name: YPS Get Together 18th October
+  description: YPS Get-Together on Wednesday 18th October
+  url: https://www.ypsyork.org/events/yps-get-together-18th-october/
+  logo: https://www.ypsyork.org/wp-content/uploads/2015/01/York-Museum-Gardens-Rockery-200x125.jpg
+  starts: 2017-10-18T14:30:00.0000000
+  ends: 2017-10-18T16:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/star-inn-the-city/" title="Star Inn the City">Star Inn the City</a>
 - name: Evidence-Based Education
   description: <strong>Evidence-Based Education</strong>
   url: https://www.ypsyork.org/events/evidence-based-education/
@@ -958,3 +981,20 @@
   starts: 2017-11-08T18:30:00.0000000
   ends: 2017-11-08T20:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/hilton-hotel-3/" title="Hilton Hotel">Hilton Hotel</a>
+- name: 'William the Conqueror and the Harrying of the North 1069-70: Contexts and Perspectives'
+  description: >-
+    Professor David Bates, University of East Anglia<br />
+
+    Author of &#8220;William the Conqueror&#8221; in the &#8220;English Monarchs Series&#8221; from Yale University Press
+  url: https://www.ypsyork.org/events/william-the-conqueror-and-the-harrying-of-the-north-1069-70-contexts-and-perspectives/
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/09/BayeuxTapestryScene47-200x125.jpg
+  starts: 2017-11-14T19:30:00.0000000
+  ends: 2017-11-14T21:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
+- name: YPS Get Together 22nd November
+  description: YPS Get-Together on Wednesday 22nd November
+  url: https://www.ypsyork.org/events/yps-get-together-22nd-november/
+  logo: https://www.ypsyork.org/wp-content/uploads/2016/08/Coffee-cup.jpg
+  starts: 2017-11-22T14:30:00.0000000
+  ends: 2017-11-22T16:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/star-inn-the-city-4/" title="Star Inn the City">Star Inn the City</a>
