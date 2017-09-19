@@ -15,19 +15,17 @@
                     <div class="modal-body">
                         <div class="modal-content-center">
                             <h3>{{ post.title }}</h3>
-                        </div>
-                        <hr class="star-primary">
-                        <img src="{{ site.baseurl }}/{{ post.img }}" class="img-rounded img-responsive img-centered" alt="{{ post.title }}" style="height:200px;width: auto;">
-                        {{ post.content }}
-                        {% if post.categories contains 'Post' %}
-
-                        <div class="modal-content-center">
-                            <ul class="list-inline item-details">
-                                <li>Date:
-                                    <strong>{{ post.date | date: "%-d %B %Y" }}
-                                        </strong>
-                                </li>
-                            </ul>
+                            <hr class="star-primary">
+                            <img src="{{ site.baseurl }}/{{ post.img }}" class="img-rounded img-responsive img-centered" alt="{{ post.title }}" style="height:200px;width: auto;">
+                            {{ post.content }}
+                            {% if post.categories contains 'Post' %}
+                            
+                                <ul class="list-inline item-details">
+                                    <li>Date:
+                                        <strong>{{ post.date | date: "%-d %B %Y" }}
+                                            </strong>
+                                    </li>
+                                </ul>
                             {% endif %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
