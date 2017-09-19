@@ -1,18 +1,9 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/243296694/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-09-18T06:30:00.0000000
-  ends: 2017-09-18T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
 - name: "Lightning Talks & Hack Night \U0001F4BB ⚡️"
-  description: "<p>This month is an open hack night beginning with lightning talks/demos. The format is open and all speakers are welcome. Come show us your latest side-project or something awesome you've learnt?</p> <p><br/>After any talks we'll break out into an open hack night. Bring a fully charged laptop along with your latest projects, ideas or problems. Come meet new devs, pair on something awesome or ask for support. New to Elixir? We'd love to help out! </p> <p>\n\n\n<b>Make sure you RSVP and try to arrive between 6:00 - 6:30. If you're running late, please call[masked] 6211.</b></p> <p><br/><b>Note: If you're interested in speaking please leave a comment or drop us a tweet @elixirnorth.</b></p> <p>\n\n\nPizza will be served 6:30 and we'll start the talks at 6:45. Drinks will be available throughout.</p> <p>\n\n\n\nSky @ Leeds Dock Entrance:</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/6/0/a/d/600_463404749.jpeg\" /></p> <p>\n\n\n<i>Please note the group is intended for people looking to expand their knowledge in a recruitment free zone. We welcome recruiters who want to learn but have a strict no recruitment policy. </i></p> "
+  description: "<p>This month is an open hack night beginning with lightning talks/demos. The format is open and all speakers are welcome. Come show us your latest side-project or something awesome you've learnt?</p> <p>After any talks we'll break out into an open hack night. Bring a fully charged laptop along with your latest projects, ideas or problems. Come meet new devs, pair on something awesome or ask for support. New to Elixir? We'd love to help out!</p> <p>Make sure you RSVP and try to arrive between 6:15 - 6:30. If you're running late, please use the intercom on the door.</p> <p>Note: If you're interested in speaking please leave a comment or drop us a tweet @elixirnorth.</p> <p>Pizza will be served 6:30 and we'll start the talks at 6:45. Drinks will be available throughout.</p> <p>Sky @ Leeds Dock Entrance:</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/6/0/a/d/600_463404749.jpeg\" /></p> <p>Please note the group is intended for people looking to expand their knowledge in a recruitment free zone. We welcome recruiters who want to learn but have a strict no recruitment policy.</p> "
   url: https://www.meetup.com/Elixir-North/events/243229951/
   is-free: true
   starts: 2017-09-19T17:15:00.0000000
-  ends: 2017-09-19T20:15:00.0000000
+  ends: 2017-09-19T19:15:00.0000000
   venue: Sky @ Leeds Dock
 - name: Motivation for software developers and development teams
   description: "<p><b>Motivation for software developers and development teams</b></p> <p>As a software craftsman an agilest we strive to raise the bar. We strive to be better, to leave a legacy. To do this we need motivation. What motivates us? This is the story of how as a rising engineer I got blindsided by failure. I will detail my journey to positivity and what this journey taught me. A highly motivational talk covering many areas of personal motivation we all struggle with as engineers and teams.</p> <p> • Goals and Dreams</p> <p> • Inner Voice</p> <p> • Excuses</p> <p> • Fear</p> <p> • Time/Habits</p> <p> • Skill</p> <p><b>About Stephen Mounsey</b></p> <p>Stephen is an Agile Coach who values visualisation, games, play and fun at work. He's an enthusiastic agilist with a passion for emergent thinking and self-organising teams. When Stephen gets time away from his 2 dogs and 2 young children, he likes to attend and speak at agile and test meet ups.</p> "
@@ -96,14 +87,6 @@
   starts: 2017-09-27T07:00:00.0000000
   ends: 2017-09-27T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Moving Towards Operability
-  description: "<p><b>Session One: Moving Towards Operability</b></p> <p>All too often DevOps is a constraint for organisations. People have been led to believe it will solve all their problems, but it's shrouded in magic, mystery, and pixie dust. We want to distill DevOps down to its thing of value - operability - and help organisations to create a real feedback loop for their production systems and improve their delivery flow.</p> <p>Dan Mitchell, Operability Lead, Equal Experts</p> <p><b>Session Two: Fishbowl Discussion  </b></p> <p>Fishbowl session, run by Geraint Dawe from Equal Experts, where all attendees will have a chance to discuss their views on Operability and any points of interests from Session One.</p> <p>\n\n\n\nPlease note the change in venue. As always, food and drinks will be provided. </p> "
-  url: https://www.meetup.com/Expert-Talks-Leeds/events/242217604/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
-  starts: 2017-09-27T17:00:00.0000000
-  ends: 2017-09-27T19:30:00.0000000
-  venue: Lamberts yard,
 - name: September - James Moorhouse & Lewis Cowper
   description: "<p>Join us for a couple of great talks from James Moorhouse and Lewis Cowper, as well as a chance to win a code for a year subscription to Frontend Masters!</p> <p><b>Agenda:</b></p> <p>6:30 - 6:45: People start arriving</p> <p>6:45 - 6:50: Introductions</p> <p>6:50 - 7:20: James Moorhouse - Modernising our App with Typescript</p> <p>7:20 - 7:35: Break with food and chat</p> <p>7:35 - 8:20: Lewis Cowper - CSS and component based systems</p> <p>8:20 - 9:25: Social &amp; point that people can leave</p> <p>9:25 - 9:40: Pack up and leave</p> <p><b>Talks: </b></p> <p><b>James Moorhouse - Modernising our App with Typescript</b></p> <p><i>A look at what TypeScript is, why you might want to use it and how we used it to refactor the ‘My Bets’ codebase at Sky Bet to provide a stable platform for future development.</i></p> <p><i>The talk starts off by going over TypeScript and demonstrating some of its capabilities, whilst the latter part discusses how we overcame the problems we encountered from doing a large scale refactor on a codebase with daily commits.</i></p> <p><i>It's now coming up to 12 months since we started using TypeScript so come along to learn more about whether TypeScript has stood the test of time!</i></p> <p><br/><b><br/></b></p> <p><b><br/></b></p> <p><b>Lewis Cowper - CSS and component based systems</b></p> <p><br/><i>With more and more frameworks and libraries moving towards defining components rather than pages, it is getting more difficult to make sure the cascade doesn't trip us up. In this talk, we'll look at how we can take advantage of new tools and approaches to make dealing with CSS and components much easier. We'll look at three approaches for styling components, and discuss the benefits and drawbacks of each approach. While React will be used as the example component that needs styling, the techniques and approaches should be applicable across the front end ecosystem.</i></p> <p><br/>The door to get in is shown here:</p> <p><a href=\"https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ\" class=\"linkified\">https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
   url: https://www.meetup.com/LeedsJS/events/243199853/
@@ -120,15 +103,6 @@
   starts: 2017-09-28T17:30:00.0000000
   ends: 2017-09-28T20:30:00.0000000
   venue: Futurelabs
-- name: October York Code Dojo - TBC
-  description: '<p>TBC</p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/243341488/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-10-11T17:30:00.0000000
-  ends: 2017-10-11T19:30:00.0000000
-  venue: Room FT/211 York St John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbdb/
@@ -137,6 +111,15 @@
   starts: 2017-10-02T06:30:00.0000000
   ends: 2017-10-02T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: October York Code Dojo - TBC
+  description: '<p>TBC</p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/243341488/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-10-11T17:30:00.0000000
+  ends: 2017-10-11T19:30:00.0000000
+  venue: Room FT/211 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
