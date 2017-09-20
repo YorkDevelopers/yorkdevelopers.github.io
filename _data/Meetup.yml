@@ -1,10 +1,3 @@
-- name: "Lightning Talks & Hack Night \U0001F4BB ⚡️"
-  description: "<p>This month is an open hack night beginning with lightning talks/demos. The format is open and all speakers are welcome. Come show us your latest side-project or something awesome you've learnt?</p> <p>After any talks we'll break out into an open hack night. Bring a fully charged laptop along with your latest projects, ideas or problems. Come meet new devs, pair on something awesome or ask for support. New to Elixir? We'd love to help out!</p> <p>Make sure you RSVP and try to arrive between 6:15 - 6:30. If you're running late, please use the intercom on the door.</p> <p>Note: If you're interested in speaking please leave a comment or drop us a tweet @elixirnorth.</p> <p>Pizza will be served 6:30 and we'll start the talks at 6:45. Drinks will be available throughout.</p> <p>Sky @ Leeds Dock Entrance:</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/6/0/a/d/600_463404749.jpeg\" /></p> <p>Please note the group is intended for people looking to expand their knowledge in a recruitment free zone. We welcome recruiters who want to learn but have a strict no recruitment policy.</p> "
-  url: https://www.meetup.com/Elixir-North/events/243229951/
-  is-free: true
-  starts: 2017-09-19T17:15:00.0000000
-  ends: 2017-09-19T19:15:00.0000000
-  venue: Sky @ Leeds Dock
 - name: Motivation for software developers and development teams
   description: "<p><b>Motivation for software developers and development teams</b></p> <p>As a software craftsman an agilest we strive to raise the bar. We strive to be better, to leave a legacy. To do this we need motivation. What motivates us? This is the story of how as a rising engineer I got blindsided by failure. I will detail my journey to positivity and what this journey taught me. A highly motivational talk covering many areas of personal motivation we all struggle with as engineers and teams.</p> <p> • Goals and Dreams</p> <p> • Inner Voice</p> <p> • Excuses</p> <p> • Fear</p> <p> • Time/Habits</p> <p> • Skill</p> <p><b>About Stephen Mounsey</b></p> <p>Stephen is an Agile Coach who values visualisation, games, play and fun at work. He's an enthusiastic agilist with a passion for emergent thinking and self-organising teams. When Stephen gets time away from his 2 dogs and 2 young children, he likes to attend and speak at agile and test meet ups.</p> "
   url: https://www.meetup.com/agileYork/events/241911756/
@@ -63,7 +56,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywmbhc/
+  url: https://www.meetup.com/YorkDevelopers/events/243484477/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-09-25T06:30:00.0000000
@@ -631,6 +624,15 @@
   starts: 2018-03-07T19:00:00.0000000
   ends: 2018-03-07T22:00:00.0000000
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbqb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-03-12T07:30:00.0000000
+  ends: 2018-03-12T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxfbtb/
@@ -726,4 +728,12 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-08-22T18:00:00.0000000
   ends: 2018-08-22T21:00:00.0000000
+  endorsed: true
+- name: Agile York
+  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxmbzb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-09-19T18:00:00.0000000
+  ends: 2018-09-19T21:00:00.0000000
   endorsed: true
