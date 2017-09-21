@@ -456,47 +456,6 @@
   starts: 2017-10-04T21:00:00.0000000
   ends: 2017-11-10T22:30:00.0000000
   venue: Instructor led Online | Video Conference
-- name: Motivation for software developers and development teams
-  description: "<p><b>Motivation for software developers and development teams</b></p> <p>As a software craftsman an agilest we strive to raise the bar. We strive to be better, to leave a legacy. To do this we need motivation. What motivates us? This is the story of how as a rising engineer I got blindsided by failure. I will detail my journey to positivity and what this journey taught me. A highly motivational talk covering many areas of personal motivation we all struggle with as engineers and teams.</p> <p> • Goals and Dreams</p> <p> • Inner Voice</p> <p> • Excuses</p> <p> • Fear</p> <p> • Time/Habits</p> <p> • Skill</p> <p><b>About Stephen Mounsey</b></p> <p>Stephen is an Agile Coach who values visualisation, games, play and fun at work. He's an enthusiastic agilist with a passion for emergent thinking and self-organising teams. When Stephen gets time away from his 2 dogs and 2 young children, he likes to attend and speak at agile and test meet ups.</p> "
-  url: https://www.meetup.com/agileYork/events/241911756/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
-  starts: 2017-09-20T17:30:00.0000000
-  ends: 2017-09-20T20:00:00.0000000
-  venue: York St.John University
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/243355459/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-09-20T06:30:00.0000000
-  ends: 2017-09-20T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/243355814/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-09-20T07:00:00.0000000
-  ends: 2017-09-20T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: MQTT signalling and Node-Red (IOT stuff!) + Docker and Symfony console
-  description: "<p>• 18:30 – Turn up, have a drink, a snack, and a chat (pizza, beer, coffee, soft drinks)</p> <p>• 19:00 – MQTT* signalling and using Node-Red* to facilitate I/O and interface to on-line services. – Brian Ackroyd</p> <p>• 19:45 – Mid session interval</p> <p>• 19:50 – Docker and Symfony Console – Gareth Midwood</p> <p>• 20:30ish – Pop over to Headrow House pub for a drink and a chat</p> <p><b>MQTT* signalling and using Node-Red** to facilitate I/O and interface to on-line services. – Brian Ackroyd</b></p> <p><i>This talk will give people an appreciation of how it's easily possible to send MQTT messages and then progress to interface to that technology in Node-Red to control things. Examples might include controlling the brightness of an LED, as well as switch Internet Radio stations, and interface with Twitter and http.</i></p> <p>* <b>MQ Telemetry Transport</b> or <b>Message Queue Telemetry Transport - </b><a href=\"https://en.wikipedia.org/wiki/MQTT\"><a href=\"https://en.wikipedia.org/wiki/MQTT\" class=\"linkified\">https://en.wikipedia.org/wiki/MQTT</a></a></p> <p>** Node-RED is a software tool developed by IBM for wiring together hardware devices, APIs and online services as part of the Internet of Things. - <a href=\"https://nodered.org/\"><a href=\"https://nodered.org/\" class=\"linkified\">https://nodered.org/</a></a></p> <p>Brian is a regular at LeedsPHP with many an interesting story to tell - We're looking forward to this one!</p> <p><b>Docker and Symfony console – Gareth Midwood</b></p> <p><i>This is going to be a beginner level talk about Docker and Symfony console, and how @ <a href=\"http://www.creode.co.uk/\">Creode</a> we're building our own open source command line app to simplify the configuration and running of our Docker projects, and why you might want to do the same</i><b><br/></b></p> <p>Gareth's on twitter: <a href=\"https://twitter.com/gmidwood\">@gmidwood</a>.</p> <p><b>Sponsors</b></p> <p><b>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</b></p> <p><a href=\"http://futurelabs.org.uk/\">• Futurelabs</a> – Are a not-for-profit formed to help provide a focal point for tech start-up and scale-up businesses in and around Leeds. Futurelabs offer hot desking, fixed desk space or larger office spaces for tech businesses at very reasonable prices. <a href=\"https://twitter.com/LeedsFuturelabs\">@LeedsFuturelabs</a></p> <p><b>• <a href=\"http://skybetcareers.com/about-us\">Sky Betting &amp; Gaming</a> – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their <a href=\"http://skybetcareers.com/\">careers page</a> provides great detail as to the working environment and range of work available across the technology stack. <a href=\"https://twitter.com/skybetcareers\">@skybetcareers</a></b></p> <p>• <a href=\"https://www.infinityworks.com/\">Infinity Works</a> – Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. <a href=\"https://twitter.com/InfinityWorks\">@InfinityWorks</a></p> "
-  url: https://www.meetup.com/leedsphp/events/242024553/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
-  starts: 2017-09-20T17:30:00.0000000
-  ends: 2017-09-20T19:30:00.0000000
-  venue: Future Labs
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/243084679/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-09-20T18:00:00.0000000
-  ends: 2017-09-20T21:00:00.0000000
-  endorsed: true
 - name: Java 9 Launch Party!!
   description: '<p>Java 9 Launch!</p> <p>Join us on Thursday 21st September to learn more about Java 9, we have long being anticipating the new release and this will provide an overview of the new features around everything Java 9 has to offer.</p> <p>We’ll be hold 2 discussions as part of the evening:</p> <p><b> Java 9; Jigsaw, putting the pieces together.</b> </p> <p>Key Speaker: Samael Bate Java Developer @ Hermes </p> <p><b>The 9 best things about Java 9</b> </p> <p>Key Speakers: James Pittendreigh @ EE and Neil Dunlop @ Infinity Works Consulting</p> <p>They’ll be plenty of time for questions and networking over some complimentary beer and nibbles.</p> <p>Arrival – 6pm</p> <p>Start – 6.30pm</p> <p>Finish – 8.30pm</p> <p>Drinks Afterwards</p> <p>Location – Aspley House, 78 Wellington Street, Leeds, LS1 2EQ</p> '
   url: https://www.meetup.com/Leeds-JVMThing/events/242958954/
@@ -532,12 +491,28 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywmbkc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/243511802/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-09-27T07:00:00.0000000
   ends: 2017-09-27T10:00:00.0000000
   venue: La Bottega Milanese
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/243511803/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-09-27T07:00:00.0000000
+  ends: 2017-09-27T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Moving Towards Operability
+  description: "<p><b>Session One: Moving Towards Operability</b></p> <p>All too often DevOps is a constraint for organisations. People have been led to believe it will solve all their problems, but it's shrouded in magic, mystery, and pixie dust. We want to distill DevOps down to its thing of value - operability - and help organisations to create a real feedback loop for their production systems and improve their delivery flow.</p> <p>Dan Mitchell, Operability Lead, Equal Experts</p> <p><b>Session Two: Fishbowl Discussion  </b></p> <p>Fishbowl session, run by Geraint Dawe from Equal Experts, where all attendees will have a chance to discuss their views on Operability and any points of interests from Session One.</p> <p>\n\n\n\nPlease note the change in venue. As always, food and drinks will be provided. </p> "
+  url: https://www.meetup.com/Expert-Talks-Leeds/events/242217604/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2017-09-27T17:00:00.0000000
+  ends: 2017-09-27T19:30:00.0000000
+  venue: Lamberts yard,
 - name: September - James Moorhouse & Lewis Cowper
   description: "<p>Join us for a couple of great talks from James Moorhouse and Lewis Cowper, as well as a chance to win a code for a year subscription to Frontend Masters!</p> <p><b>Agenda:</b></p> <p>6:30 - 6:45: People start arriving</p> <p>6:45 - 6:50: Introductions</p> <p>6:50 - 7:20: James Moorhouse - Modernising our App with Typescript</p> <p>7:20 - 7:35: Break with food and chat</p> <p>7:35 - 8:20: Lewis Cowper - CSS and component based systems</p> <p>8:20 - 9:25: Social &amp; point that people can leave</p> <p>9:25 - 9:40: Pack up and leave</p> <p><b>Talks: </b></p> <p><b>James Moorhouse - Modernising our App with Typescript</b></p> <p><i>A look at what TypeScript is, why you might want to use it and how we used it to refactor the ‘My Bets’ codebase at Sky Bet to provide a stable platform for future development.</i></p> <p><i>The talk starts off by going over TypeScript and demonstrating some of its capabilities, whilst the latter part discusses how we overcame the problems we encountered from doing a large scale refactor on a codebase with daily commits.</i></p> <p><i>It's now coming up to 12 months since we started using TypeScript so come along to learn more about whether TypeScript has stood the test of time!</i></p> <p><br/><b><br/></b></p> <p><b><br/></b></p> <p><b>Lewis Cowper - CSS and component based systems</b></p> <p><br/><i>With more and more frameworks and libraries moving towards defining components rather than pages, it is getting more difficult to make sure the cascade doesn't trip us up. In this talk, we'll look at how we can take advantage of new tools and approaches to make dealing with CSS and components much easier. We'll look at three approaches for styling components, and discuss the benefits and drawbacks of each approach. While React will be used as the example component that needs styling, the techniques and approaches should be applicable across the front end ecosystem.</i></p> <p><br/>The door to get in is shown here:</p> <p><a href=\"https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ\" class=\"linkified\">https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
   url: https://www.meetup.com/LeedsJS/events/243199853/
@@ -563,15 +538,6 @@
   ends: 2017-10-02T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: October York Code Dojo - TBC
-  description: '<p>TBC</p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/243341488/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-10-11T17:30:00.0000000
-  ends: 2017-10-11T19:30:00.0000000
-  venue: Room FT/211 York St John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbgb/
@@ -580,6 +546,23 @@
   starts: 2017-10-04T06:30:00.0000000
   ends: 2017-10-04T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/243355018/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-10-04T07:00:00.0000000
+  ends: 2017-10-04T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: October York Code Dojo - Refactoring
+  description: '<p>This month we will be working in pairs on a classic Code Dojo refactoring exercise. Starter templates will be provided for the most common programming languages.</p> <p>To make the best use of your evening, we recommend that configure your programming environment of choice in advance.</p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/243341488/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-10-11T17:30:00.0000000
+  ends: 2017-10-11T19:30:00.0000000
+  venue: Room FT/211 York St John University
   endorsed: true
 - name: DotNetYork - Building APIs with Azure Functions
   description: "<p>Our first meetup on and surrounding all the .NET ecosystem led by Kevin Smith (@kev_bite).</p> <p>Functions as a Service (FaaS) seems to be trending as the next big buzzword, in this session we'll look at the advantages of using FaaS and how we can take advantage of Azure Functions to build our APIs. Through this demo lead session we'll see examples of how we can take advantage of HttpTriggers, Routing, Proxies and API definition to build a set of rich functions as the source for our APIs.</p> "
@@ -1194,6 +1177,14 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-09-19T18:00:00.0000000
   ends: 2018-09-19T21:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxmbbc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-09-20T18:00:00.0000000
+  ends: 2018-09-20T21:00:00.0000000
   endorsed: true
 - name: YPS Get-Together September 27th 2.30pm
   description: YPS Get-Together
