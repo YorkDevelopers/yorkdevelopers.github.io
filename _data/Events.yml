@@ -514,6 +514,13 @@
   starts: 2017-09-28T17:30:00.0000000
   ends: 2017-09-28T20:30:00.0000000
   venue: Futurelabs
+- name: Leeds Ruby Thing meetup
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  url: https://www.meetup.com/LeedsRubyThing/events/243586178/
+  is-free: true
+  starts: 2017-09-28T18:30:00.0000000
+  ends: 2017-09-28T22:30:00.0000000
+  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbdb/
@@ -540,13 +547,6 @@
   starts: 2017-10-04T07:00:00.0000000
   ends: 2017-10-04T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Leeds Windows User Group (WUG) event, 4th October 2017
-  description: "<p><b>Join us on the 4th October 2017, 6pm</b></p> <p>Windows User Group events are a great opportunity for local IT Professionals to meet and network with others professionals in their region and to keep up-to-date with new and emerging Microsoft technologies and news.</p> <p>We usually have around 20-30 people attend each event so come along and don't miss out.</p> <p><b><br/></b></p> <p><b>What is a Windows User Group (WUG)?</b></p> <p><br/>The WUG events are community events ran by Microsoft MVPs Chris Rhodes and Andrew Bettany. The events are free of charge for attendees and are both a networking event and a learning opportunity.</p> <p>Book your free tickets now: <a href=\"https://leedswugoctober.eventbrite.co.uk\"><a href=\"https://leedswugoctober.eventbrite.co.uk\" class=\"linkified\">https://leedswugoctober.eventbrite.co.uk</a></a></p> <p>\n\n\n<b>What happens at the events?</b></p> <p>At each event usually two topics are presented and discussed.</p> <p>There is also time for questions and networking.</p> <p><b><br/></b></p> <p><b>Free pizza / pies</b></p> <p><br/>We offer food on the evening for everyone. Either pie and chips and sometimes pizza.</p> <p>\n\n\n<b>Guest Speakers</b></p> <p>We also have guest speakers. Members of the IT community can offer to speak, on a topic about which they are knowledgeable, to help share their expertise.</p> <p>\n\n\n<b>Event topics </b></p> <p><b>EMS – Your key to cloud and data security.</b></p> <p>MVP Ed Baker joins the Windows User Group for a special session on Enterprise Mobility and Security (EMS). EMS is Microsoft’s suite of products aimed at ensuring your mobile devices, data and applications remain secure against internal and external threats.</p> <p>Come and see how you can manage your iPhone or your Samsung Galaxy or even your Windows phone and all the data securely.</p> <p>\n\n\n<b>Microsoft Ignite - School Report</b></p> <p>Hot on the heels from Microsoft’s premier event for IT Pros and Developers, Windows User Group founder Chris Rhodes will share some of the big stories and upcoming changes in the technology space that were announced at Ignite. If you didn’t get approval to go, let Orlando come to you, and save yourself the shoe leather from the 1000’s of steps from walking round a busy convention centre for a week, and sit back and enjoy a debrief over a pie and a pint!</p> <p>\n\n\nIt is a great venue and should be a fun evening.  Don't forget there will be pies and chips on the evening too!</p> <p><b><br/></b></p> <p><b>Event details</b></p> <p><br/>October 4th 2017<br/>6.00pm - 9.00pm</p> <p>The Cross Keys Pub<br/>107 Water Lane<br/>Leeds<br/>LS11 5DW</p> <p>\n\n\n<i>Tickets are free, but please book a ticket so that we can plan food and refreshments. Thank you.</i></p> <p>Book your free tickets now: <a href=\"https://leedswugoctober.eventbrite.co.uk/\"><a href=\"https://leedswugoctober.eventbrite.co.uk\" class=\"linkified\">https://leedswugoctober.eventbrite.co.uk</a></a></p> "
-  url: https://www.meetup.com/Windows-User-Group/events/243108773/
-  is-free: true
-  starts: 2017-10-04T17:00:00.0000000
-  ends: 2017-10-04T20:00:00.0000000
-  venue: Cross Keys Pub, Leeds
 - name: DotNetYork - Building APIs with Azure Functions
   description: "<p>Our first meetup on and surrounding all the .NET ecosystem led by Kevin Smith (@kev_bite).</p> <p>Functions as a Service (FaaS) seems to be trending as the next big buzzword, in this session we'll look at the advantages of using FaaS and how we can take advantage of Azure Functions to build our APIs. Through this demo lead session we'll see examples of how we can take advantage of HttpTriggers, Routing, Proxies and API definition to build a set of rich functions as the source for our APIs.</p> "
   url: https://www.meetup.com/YorkDevelopers/events/242946975/
@@ -1289,9 +1289,9 @@
   ends: 2017-11-28T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: 'Reconnecting with our Rivers: Community-led Natural Flood Management on Tang Hall and Osbaldwick Becks'
-  description: '&#8220;Reconnecting with our Rivers&#8221; with Jonathan Dent, Nature Reserve Manager'
+  description: '&#8220;Reconnecting with our Rivers&#8221; with Jonathan Dent, Nature Reserve Manager, St Nick&#8217;s'
   url: https://www.ypsyork.org/events/reconnecting-with-our-rivers-community-led-natural-flood-management-on-tang-hall-and-osbaldwick-becks/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/09/Trees-200x125.jpg
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/09/THBeck_byLewisOuting_Aug2016_web-200x125.jpg
   starts: 2017-12-06T19:30:00.0000000
   ends: 2017-12-06T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/city-screen-basement-bar-4/" title="City Screen Basement Bar">City Screen Basement Bar</a>
