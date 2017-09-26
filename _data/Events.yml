@@ -458,15 +458,6 @@
   venue: Instructor led Online | Video Conference
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/243484477/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-09-25T06:30:00.0000000
-  ends: 2017-09-25T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/243542917/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -554,6 +545,14 @@
   starts: 2017-10-04T17:00:00.0000000
   ends: 2017-10-04T20:00:00.0000000
   venue: Cross Keys Pub, Leeds
+- name: TBC
+  description: '<p>Session to be announced nearer the time.</p> <p>Check out the <a href="http://leedscodedojo.github.io/">LCD website</a> for general details.</p> '
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/243651530/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2017-10-04T17:00:00.0000000
+  ends: 2017-10-04T20:00:00.0000000
+  venue: Callcredit Information Group Limited
 - name: DotNetYork - Building APIs with Azure Functions
   description: "<p>Our first meetup on and surrounding all the .NET ecosystem led by Kevin Smith (@kev_bite).</p> <p>Functions as a Service (FaaS) seems to be trending as the next big buzzword, in this session we'll look at the advantages of using FaaS and how we can take advantage of Azure Functions to build our APIs. Through this demo lead session we'll see examples of how we can take advantage of HttpTriggers, Routing, Proxies and API definition to build a set of rich functions as the source for our APIs.</p> "
   url: https://www.meetup.com/YorkDevelopers/events/242946975/
@@ -563,15 +562,6 @@
   ends: 2017-10-05T20:30:00.0000000
   venue: The Cross Keys
   endorsed: true
-- name: October York Code Dojo - Refactoring
-  description: '<p>This month we will be working in pairs on a classic Code Dojo refactoring exercise. Starter templates will be provided for the most common programming languages.</p> <p>To make the best use of your evening, we recommend that configure your programming environment of choice in advance.</p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/243341488/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-10-11T17:30:00.0000000
-  ends: 2017-10-11T19:30:00.0000000
-  venue: Room FT/211 York St John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbmb/
@@ -580,6 +570,15 @@
   starts: 2017-10-09T06:30:00.0000000
   ends: 2017-10-09T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: October York Code Dojo - Refactoring
+  description: '<p>This month we will be working in pairs on a classic Code Dojo refactoring exercise. Starter templates will be provided for the most common programming languages.</p> <p>To make the best use of your evening, we recommend that configure your programming environment of choice in advance.</p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/243341488/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-10-11T17:30:00.0000000
+  ends: 2017-10-11T19:30:00.0000000
+  venue: Room FT/211 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
