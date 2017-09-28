@@ -456,47 +456,6 @@
   starts: 2017-10-04T21:00:00.0000000
   ends: 2017-11-10T22:30:00.0000000
   venue: Instructor led Online | Video Conference
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/243542917/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-09-27T06:30:00.0000000
-  ends: 2017-09-27T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/243511802/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-09-27T07:00:00.0000000
-  ends: 2017-09-27T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/243511803/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-09-27T07:00:00.0000000
-  ends: 2017-09-27T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Moving Towards Operability
-  description: "<p><b>Session One: Moving Towards Operability</b></p> <p>All too often DevOps is a constraint for organisations. People have been led to believe it will solve all their problems, but it's shrouded in magic, mystery, and pixie dust. We want to distill DevOps down to its thing of value - operability - and help organisations to create a real feedback loop for their production systems and improve their delivery flow.</p> <p>Dan Mitchell, Operability Lead, Equal Experts</p> <p><b>Session Two: Fishbowl Discussion  </b></p> <p>Fishbowl session, run by Geraint Dawe from Equal Experts, where all attendees will have a chance to discuss their views on Operability and any points of interests from Session One.</p> <p>\n\n\n\nPlease note the change in venue. As always, food and drinks will be provided. </p> "
-  url: https://www.meetup.com/Expert-Talks-Leeds/events/242217604/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
-  starts: 2017-09-27T17:00:00.0000000
-  ends: 2017-09-27T19:30:00.0000000
-  venue: Lamberts yard,
-- name: September - James Moorhouse & Lewis Cowper
-  description: "<p>Join us for a couple of great talks from James Moorhouse and Lewis Cowper, as well as a chance to win a code for a year subscription to Frontend Masters!</p> <p><b>Agenda:</b></p> <p>6:30 - 6:45: People start arriving</p> <p>6:45 - 6:50: Introductions</p> <p>6:50 - 7:20: James Moorhouse - Modernising our App with Typescript</p> <p>7:20 - 7:35: Break with food and chat</p> <p>7:35 - 8:20: Lewis Cowper - CSS and component based systems</p> <p>8:20 - 9:25: Social &amp; point that people can leave</p> <p>9:25 - 9:40: Pack up and leave</p> <p><b>Talks: </b></p> <p><b>James Moorhouse - Modernising our App with Typescript</b></p> <p><i>A look at what TypeScript is, why you might want to use it and how we used it to refactor the ‘My Bets’ codebase at Sky Bet to provide a stable platform for future development.</i></p> <p><i>The talk starts off by going over TypeScript and demonstrating some of its capabilities, whilst the latter part discusses how we overcame the problems we encountered from doing a large scale refactor on a codebase with daily commits.</i></p> <p><i>It's now coming up to 12 months since we started using TypeScript so come along to learn more about whether TypeScript has stood the test of time!</i></p> <p><br/><b><br/></b></p> <p><b><br/></b></p> <p><b>Lewis Cowper - CSS and component based systems</b></p> <p><br/><i>With more and more frameworks and libraries moving towards defining components rather than pages, it is getting more difficult to make sure the cascade doesn't trip us up. In this talk, we'll look at how we can take advantage of new tools and approaches to make dealing with CSS and components much easier. We'll look at three approaches for styling components, and discuss the benefits and drawbacks of each approach. While React will be used as the example component that needs styling, the techniques and approaches should be applicable across the front end ecosystem.</i></p> <p><br/>The door to get in is shown here:</p> <p><a href=\"https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ\" class=\"linkified\">https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
-  url: https://www.meetup.com/LeedsJS/events/243199853/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2017-09-27T17:30:00.0000000
-  ends: 2017-09-27T20:30:00.0000000
-  venue: Future Labs
 - name: Introduction to Umbraco CMS + Adding Search with Umbraco Examine & Lucene.NET
   description: "<p>This month, you'll be learning about Umbraco, an open source CMS running on ASP.NET, and Lucene.NET, a search engine library for adding search to your site.</p> <p>Did you know that Vogue, Storm Models, Carlsberg,Reckitt Benckiser (Veet,Dettol,Finish,Scholl), Wired, Glamour, and GQ magazine all use Umbraco as their CMS of choice?</p> <p>Did you know that NASA, Disney, eBay, Reddit, and CNET all use Lucene as their search engine of choice?</p> <p>To give us the low-down on Umbraco and Lucene.NET, Leeds Sharp is excited to welcome Ismail Mayat to Futurelabs this month.</p> <p>Ismail is an official <a href=\"https://umbraco.com/\">Umbraco</a> trainer, MVP, and senior developer at <a href=\"https://thecogworks.com/\">The Cogworks</a>. He is the founding father of the Umbraco Course: Searching and Indexing with Examine. </p> <p>Hoping to see you on Thursday, 28 September. </p> <p>RSVP now and get absolutely nothing for free!</p> <p>\n\n\nTeam LS#</p> "
   url: https://www.meetup.com/Leeds-Sharp/events/241812863/
@@ -545,8 +504,8 @@
   starts: 2017-10-04T17:00:00.0000000
   ends: 2017-10-04T20:00:00.0000000
   venue: Cross Keys Pub, Leeds
-- name: TBC
-  description: '<p>Session to be announced nearer the time.</p> <p>Check out the <a href="http://leedscodedojo.github.io/">LCD website</a> for general details.</p> '
+- name: Get Cryptic
+  description: "<p>This October we're going to have a look at some Cryptography-based exercises.  If you aren't familiar with Hex, Base 64 and bit-shifting, you will be after this!</p> <p>Check out the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for general details.</p> "
   url: https://www.meetup.com/Leeds-Code-Dojo/events/243651530/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
@@ -562,6 +521,14 @@
   ends: 2017-10-05T20:30:00.0000000
   venue: The Cross Keys
   endorsed: true
+- name: Building APIs with Azure Functions
+  description: "<p>Functions as a Service (FaaS) seems to be trending as the next big buzzword, in this session we'll look at the advantages of using FaaS and how we can take advantage of Azure Functions to build our APIs. Through this demo lead session, we'll see examples of how we can take advantage of HttpTriggers, Routing, Proxies and API definition to build a set of rich functions as the source for our APIs.</p> <p>\n\n\n\n<b>Kevin Smith</b></p> <p>Kevin is an enthusiastic software engineer who is actively involved with community events. He runs dotnetsheff and dotnetYork, and casually speaks at user groups. Kevin has worked across a broad range of domains including: law, travel, finance and analytics. He is a keen contributor to open source projects.</p> <p><a href=\"https://kevsoft.net\"><a href=\"https://kevsoft.net\" class=\"linkified\">https://kevsoft.net</a></a></p> <p><a href=\"https://twitter.com/@kev_bite\"><a href=\"https://twitter.com/@kev_bite\" class=\"linkified\">https://twitter.com/@kev_bite</a></a></p> "
+  url: https://www.meetup.com/dotnetYork/events/243704196/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
+  starts: 2017-10-05T17:30:00.0000000
+  ends: 2017-10-05T20:30:00.0000000
+  venue: The Cross Keys
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbmb/
@@ -589,6 +556,14 @@
   ends: 2017-10-11T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/243542657/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-10-11T07:00:00.0000000
+  ends: 2017-10-11T10:00:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbvb/
@@ -1202,13 +1177,6 @@
   starts: 2018-09-20T18:00:00.0000000
   ends: 2018-09-20T21:00:00.0000000
   endorsed: true
-- name: YPS Get-Together September 27th 2.30pm
-  description: YPS Get-Together
-  url: https://www.ypsyork.org/events/yps-get-together-september-27th-2-30pm/
-  logo: https://www.ypsyork.org/wp-content/uploads/2015/01/York-Museum-Gardens-Rockery-200x125.jpg
-  starts: 2017-09-27T14:30:00.0000000
-  ends: 2017-09-27T16:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/star-inn-the-city/" title="Star Inn the City">Star Inn the City</a>
 - name: 'From Flat-screen TVs to Augmented Reality Devices: How Yorkshire Helped to Build the High-tech World of Today'
   description: Emeritus Professor John Goodby, University of York with Dr Stephen Cowling
   url: https://www.ypsyork.org/events/from-flat-screen-tvs-to-augmented-reality-devices-how-yorkshire-helped-to-build-the-high-tech-world-of-today/
