@@ -456,21 +456,6 @@
   starts: 2017-10-04T21:00:00.0000000
   ends: 2017-11-10T22:30:00.0000000
   venue: Instructor led Online | Video Conference
-- name: Introduction to Umbraco CMS + Adding Search with Umbraco Examine & Lucene.NET
-  description: "<p>This month, you'll be learning about Umbraco, an open source CMS running on ASP.NET, and Lucene.NET, a search engine library for adding search to your site.</p> <p>Did you know that Vogue, Storm Models, Carlsberg,Reckitt Benckiser (Veet,Dettol,Finish,Scholl), Wired, Glamour, and GQ magazine all use Umbraco as their CMS of choice?</p> <p>Did you know that NASA, Disney, eBay, Reddit, and CNET all use Lucene as their search engine of choice?</p> <p>To give us the low-down on Umbraco and Lucene.NET, Leeds Sharp is excited to welcome Ismail Mayat to Futurelabs this month.</p> <p>Ismail is an official <a href=\"https://umbraco.com/\">Umbraco</a> trainer, MVP, and senior developer at <a href=\"https://thecogworks.com/\">The Cogworks</a>. He is the founding father of the Umbraco Course: Searching and Indexing with Examine. </p> <p>Hoping to see you on Thursday, 28 September. </p> <p>RSVP now and get absolutely nothing for free!</p> <p>\n\n\nTeam LS#</p> "
-  url: https://www.meetup.com/Leeds-Sharp/events/241812863/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2017-09-28T17:30:00.0000000
-  ends: 2017-09-28T20:30:00.0000000
-  venue: Futurelabs
-- name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
-  url: https://www.meetup.com/LeedsRubyThing/events/243586178/
-  is-free: true
-  starts: 2017-09-28T18:30:00.0000000
-  ends: 2017-09-28T22:30:00.0000000
-  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/243631117/
@@ -480,6 +465,14 @@
   ends: 2017-10-02T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Get Cryptic
+  description: "<p>This October we're going to have a look at some Cryptography-based exercises.  If you aren't familiar with Hex, Base 64 and bit-shifting, you will be after this!</p> <p>Check out the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for general details.</p> "
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/243651530/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2017-10-04T17:00:00.0000000
+  ends: 2017-10-04T20:00:00.0000000
+  venue: Callcredit Information Group Limited
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/243631123/
@@ -504,14 +497,6 @@
   starts: 2017-10-04T17:00:00.0000000
   ends: 2017-10-04T20:00:00.0000000
   venue: Cross Keys Pub, Leeds
-- name: Get Cryptic
-  description: "<p>This October we're going to have a look at some Cryptography-based exercises.  If you aren't familiar with Hex, Base 64 and bit-shifting, you will be after this!</p> <p>Check out the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for general details.</p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/243651530/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2017-10-04T17:00:00.0000000
-  ends: 2017-10-04T20:00:00.0000000
-  venue: Callcredit Information Group Limited
 - name: DotNetYork - Building APIs with Azure Functions
   description: "<p>Our first meetup on and surrounding all the .NET ecosystem led by Kevin Smith (@kev_bite).</p> <p>Functions as a Service (FaaS) seems to be trending as the next big buzzword, in this session we'll look at the advantages of using FaaS and how we can take advantage of Azure Functions to build our APIs. Through this demo lead session we'll see examples of how we can take advantage of HttpTriggers, Routing, Proxies and API definition to build a set of rich functions as the source for our APIs.</p> "
   url: https://www.meetup.com/YorkDevelopers/events/242946975/
@@ -531,7 +516,7 @@
   venue: The Cross Keys
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbmb/
+  url: https://www.meetup.com/YorkDevelopers/events/243754306/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-10-09T06:30:00.0000000
@@ -549,7 +534,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbpb/
+  url: https://www.meetup.com/YorkDevelopers/events/243754310/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-10-11T06:30:00.0000000
@@ -564,9 +549,17 @@
   starts: 2017-10-11T07:00:00.0000000
   ends: 2017-10-11T10:00:00.0000000
   venue: La Bottega Milanese
+- name: 'October 2017: Lorraine Underwood - cycling safety with micro:bit'
+  description: "<p>Lorraine Underwood will share her experience of creating a cool cycle safety turning indicator using BBC micro:bit</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/2/e/b/2/600_464411954.jpeg\" /></p> <p>\n\n\nMore details soon</p> "
+  url: https://www.meetup.com/CodeMill-Digital-Skills/events/243110597/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/6/4/6/d/thumb_464545709.jpeg
+  starts: 2017-10-12T17:30:00.0000000
+  ends: 2017-10-12T20:30:00.0000000
+  venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbvb/
+  url: https://www.meetup.com/YorkDevelopers/events/243754312/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-10-16T06:30:00.0000000
@@ -575,7 +568,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbxb/
+  url: https://www.meetup.com/YorkDevelopers/events/243754313/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-10-18T06:30:00.0000000
@@ -600,7 +593,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbfc/
+  url: https://www.meetup.com/YorkDevelopers/events/243754315/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-10-23T06:30:00.0000000
@@ -609,7 +602,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbhc/
+  url: https://www.meetup.com/YorkDevelopers/events/243754318/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-10-25T06:30:00.0000000
@@ -618,7 +611,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywnbnc/
+  url: https://www.meetup.com/YorkDevelopers/events/243754321/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-10-30T07:30:00.0000000
@@ -1071,6 +1064,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-03-19T07:30:00.0000000
   ends: 2018-03-19T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbcc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-03-21T07:30:00.0000000
+  ends: 2018-03-21T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Agile York
