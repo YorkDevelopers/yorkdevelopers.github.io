@@ -506,6 +506,14 @@
   ends: 2017-10-05T20:30:00.0000000
   venue: The Cross Keys
   endorsed: true
+- name: 'Delving Into Umbraco: Bugfix Hack Evening'
+  description: "<p>We've previously had a lot of discussion around concepts, best practice and war-stories so this meetup will focus on some actual code and hopefully contribute something back to the core. </p> <p>The main idea is to look at the bug tracker as a group and identify an issue or two that we're going to try and solve. We'll then split into smaller groups to work on the issues and just see how it pans out.</p> <p>Since we'll having laptops around (feel free to bring your own) why not also show us what you're proud of or bring along an issue that's currently making you scratch your head, we'll try to help!</p> "
+  url: https://www.meetup.com/umbLeeds/events/243781243/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
+  starts: 2017-10-05T16:30:00.0000000
+  ends: 2017-10-05T19:30:00.0000000
+  venue: The Adelphi
 - name: Building APIs with Azure Functions
   description: "<p>Functions as a Service (FaaS) seems to be trending as the next big buzzword, in this session we'll look at the advantages of using FaaS and how we can take advantage of Azure Functions to build our APIs. Through this demo lead session, we'll see examples of how we can take advantage of HttpTriggers, Routing, Proxies and API definition to build a set of rich functions as the source for our APIs.</p> <p>\n\n\n\n<b>Kevin Smith</b></p> <p>Kevin is an enthusiastic software engineer who is actively involved with community events. He runs dotnetsheff and dotnetYork, and casually speaks at user groups. Kevin has worked across a broad range of domains including: law, travel, finance and analytics. He is a keen contributor to open source projects.</p> <p><a href=\"https://kevsoft.net\"><a href=\"https://kevsoft.net\" class=\"linkified\">https://kevsoft.net</a></a></p> <p><a href=\"https://twitter.com/@kev_bite\"><a href=\"https://twitter.com/@kev_bite\" class=\"linkified\">https://twitter.com/@kev_bite</a></a></p> "
   url: https://www.meetup.com/dotnetYork/events/243704196/
@@ -549,8 +557,8 @@
   starts: 2017-10-11T07:00:00.0000000
   ends: 2017-10-11T10:00:00.0000000
   venue: La Bottega Milanese
-- name: 'October 2017: Lorraine Underwood - cycling safety with micro:bit'
-  description: "<p>Lorraine Underwood will share her experience of creating a cool cycle safety turning indicator using BBC micro:bit</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/2/e/b/2/600_464411954.jpeg\" /></p> <p>\n\n\nMore details soon</p> "
+- name: 'Oct 2017: Lorraine Underwood - Using the BBC micro:bit in real life applications'
+  description: "<p><b>Oct 2017: Lorraine Underwood - Using the BBC micro:bit in real life applications</b></p> <p><br/>Learn how you can use the BBC micro:bit in real life applications like a cycling jacket, a running aid and as a fashion item! </p> <p><img src=\"https://secure.meetupstatic.com/photos/event/2/e/b/2/600_464411954.jpeg\" /></p> <p>\n\n\nBiography: I am a maker living in Yorkshire. I have just recently returned to teaching at Lancaster Girls' Grammar School. I love to make fun, shiny and even useful things with boards like the Raspberry Pi and the BBC micro:bit. I am passionate about Computing being accessible and appealing to everyone. I run a Raspberry Pi Jam in Kendal library on the last Saturday every month and as part of my other job at Lancaster University I regularly run training sessions for Computing Teachers. If I could have anything it would be more time to make all the ideas in my head! </p> <p><br/>Twitter: <a href=\"https://twitter.com/LMcUnderwood\">@LMcUnderwood</a></p> "
   url: https://www.meetup.com/CodeMill-Digital-Skills/events/243110597/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/6/4/6/d/thumb_464545709.jpeg
