@@ -291,15 +291,6 @@
   starts: 2017-10-04T21:00:00.0000000
   ends: 2017-11-10T22:30:00.0000000
   venue: Instructor led Online | Video Conference
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/243631117/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-10-02T06:30:00.0000000
-  ends: 2017-10-02T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
 - name: Get Cryptic
   description: "<p>This October we're going to have a look at some Cryptography-based exercises.  If you aren't familiar with Hex, Base 64 and bit-shifting, you will be after this!</p> <p>Check out the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for general details.</p> "
   url: https://www.meetup.com/Leeds-Code-Dojo/events/243651530/
@@ -1029,8 +1020,8 @@
   starts: 2017-10-03T19:30:00.0000000
   ends: 2017-10-03T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
-- name: '&#8220;Language and the Representation of Number(s)”'
-  description: '&#8220;Language and the Representation of Number(s)”  by George Tsoulas, Senior lecturer from the Language and Linguistic Science Department at York University.'
+- name: '&#8220;Language and the Representation of Number”'
+  description: '&#8220;Language and the Representation of Number”  by George Tsoulas, Senior lecturer from the Language and Linguistic Science Department at York University.'
   url: https://www.ypsyork.org/events/language-and-the-representation-of-numbers/
   logo: https://www.ypsyork.org/wp-content/uploads/2017/07/Cafe-1-Feb-17-200x125.jpg
   starts: 2017-10-04T19:30:00.0000000
