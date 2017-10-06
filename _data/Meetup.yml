@@ -1,28 +1,3 @@
-- name: DotNetYork - Building APIs with Azure Functions
-  description: "<p>Our first meetup on and surrounding all the .NET ecosystem led by Kevin Smith (@kev_bite).</p> <p>Functions as a Service (FaaS) seems to be trending as the next big buzzword, in this session we'll look at the advantages of using FaaS and how we can take advantage of Azure Functions to build our APIs. Through this demo lead session we'll see examples of how we can take advantage of HttpTriggers, Routing, Proxies and API definition to build a set of rich functions as the source for our APIs.</p> "
-  url: https://www.meetup.com/YorkDevelopers/events/242946975/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-10-05T17:30:00.0000000
-  ends: 2017-10-05T20:30:00.0000000
-  venue: The Cross Keys
-  endorsed: true
-- name: 'Delving Into Umbraco: Bugfix Hack Evening'
-  description: "<p>We've previously had a lot of discussion around concepts, best practice and war-stories so this meetup will focus on some actual code and hopefully contribute something back to the core. </p> <p>The main idea is to look at the bug tracker as a group and identify an issue or two that we're going to try and solve. We'll then split into smaller groups to work on the issues and just see how it pans out.</p> <p>Since we'll having laptops around (feel free to bring your own) why not also show us what you're proud of or bring along an issue that's currently making you scratch your head, we'll try to help!</p> "
-  url: https://www.meetup.com/umbLeeds/events/243781243/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
-  starts: 2017-10-05T16:30:00.0000000
-  ends: 2017-10-05T19:30:00.0000000
-  venue: The Adelphi
-- name: Building APIs with Azure Functions
-  description: "<p>Functions as a Service (FaaS) seems to be trending as the next big buzzword, in this session we'll look at the advantages of using FaaS and how we can take advantage of Azure Functions to build our APIs. Through this demo lead session, we'll see examples of how we can take advantage of HttpTriggers, Routing, Proxies and API definition to build a set of rich functions as the source for our APIs.</p> <p>\n\n\n\n<b>Kevin Smith</b></p> <p>Kevin is an enthusiastic software engineer who is actively involved with community events. He runs dotnetsheff and dotnetYork, and casually speaks at user groups. Kevin has worked across a broad range of domains including: law, travel, finance and analytics. He is a keen contributor to open source projects.</p> <p><a href=\"https://kevsoft.net\"><a href=\"https://kevsoft.net\" class=\"linkified\">https://kevsoft.net</a></a></p> <p><a href=\"https://twitter.com/@kev_bite\"><a href=\"https://twitter.com/@kev_bite\" class=\"linkified\">https://twitter.com/@kev_bite</a></a></p> "
-  url: https://www.meetup.com/dotnetYork/events/243704196/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2017-10-05T17:30:00.0000000
-  ends: 2017-10-05T20:30:00.0000000
-  venue: The Cross Keys
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/243754306/
@@ -32,14 +7,6 @@
   ends: 2017-10-09T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Ada Lovelace Day - Hidden Figures Screening at the Everyman
-  description: "<p>It's Ada Lovelace Day coming up on October 10th. This is an international celebration day of the achievements of women in science, technology, engineering and maths (STEM). It aims to increase the profile of women in STEM and, in doing so, create new role models who will encourage more girls into STEM careers and support women already working in STEM. (<a href=\"https://findingada.com/\" class=\"linkified\">https://findingada.com/</a>)</p> <p>Ada is known as the mother of computing, considered to be the first computer programmer before computers even really existed. She wrote a paper in the 1840s imagining the potential of Babbage’s machines, including the idea that they could compose music and the original computer algorithm is now widely considered to be the world’s first computer programme.</p> <p>She went on to inspire early computer pioneers including a certain Alan Turing (who found her paper during his research). Turing is of course the mathematician whose codebreaking Enigma computer helped end the Second World War.</p> <p>We're proud to celebrate ALD at Sky@LeedsDock and have arranged for a <b>free private screening</b> of the excellent film ‘<a href=\"http://www.imdb.com/title/tt4846340/\">Hidden Figures’</a> at the swanky <b>Everyman Cinema in Leeds City Centre.</b><br/>The film tells the true story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – 3 brilliant African-American women working at NASA who served as the brains behind one of the greatest operations in history: the launch of astronaut John Glenn into orbit, a stunning achievement that turned around the Space Race. The visionary trio crossed all gender and race lines to inspire generations to dream big.</p> <p>Complimentary Pizza and Prosecco will also be served.</p> <p>We have limited tickets available so please only RSVP if you are 100% able to attend<br/>Look forward to seeing you there!</p> "
-  url: https://www.meetup.com/Leeds-TechHub/events/243912099/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/3/0/5/thumb_458505829.jpeg
-  starts: 2017-10-10T16:00:00.0000000
-  ends: 2017-10-10T19:00:00.0000000
-  venue: Everyman Cinema
 - name: October York Code Dojo - Refactoring
   description: '<p>This month we will be working in pairs on a classic Code Dojo refactoring exercise. Starter templates will be provided for the most common programming languages.</p> <p>To make the best use of your evening, we recommend that configure your programming environment of choice in advance.</p> '
   url: https://www.meetup.com/York-Code-Dojo/events/243341488/
@@ -623,6 +590,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-03-26T06:30:00.0000000
   ends: 2018-03-26T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfblc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-03-28T06:30:00.0000000
+  ends: 2018-03-28T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Agile York
