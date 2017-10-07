@@ -57,20 +57,6 @@
   starts: 2017-11-17T10:00:00.0000000
   ends: 2017-11-17T18:30:00.0000000
   venue: University of York
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-37488058793?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
-  starts: 2017-10-19T18:30:00.0000000
-  ends: 2017-10-19T19:30:00.0000000
 - name: Nano-spintronic devices
   description: >-
     Speaker: Professor Atsufumi Hirohata, Department of Electronic Engineering
@@ -96,6 +82,20 @@
   starts: 2017-11-16T18:00:00.0000000
   ends: 2017-11-16T19:00:00.0000000
   venue: Room P/X001
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-37488058793?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
+  starts: 2017-10-19T18:30:00.0000000
+  ends: 2017-10-19T19:30:00.0000000
 - name: 'Showcasing research to deliver impact: ECR skills workshop'
   description: "ARCC network \nShowcasing research to deliver impact\n15 &16 November 2017 (residential)\n\nAs the head of the new UKRI, Sir Mark Walport’s initial public statements have articulated that success will be measured through the impact it delivers.  For you as researchers, you will increasingly be called upon to deliver your results to non-academic audiences, and this is more than the papers you publish in journals.  Join us at this workshop to discuss what impact really is, and how you can achieve it across the duration of your research. \nThe workshop will be structured around facilitated sessions, focussing on various approaches to showcasing research outputs to reach a variety of audiences, and practical challenges to allow participants to build on their own expertise and put the concepts into practice. Creative approaches using exhibitions, trade fairs, videos and blogs, and public media channels will all be discussed as options for delivering imapct.\nWe hope participants will gain a better understanding of the benefits and challenges of different approaches to communicating outputs that will be of assistance in their own research activities. The transferable skills gained during this workshop will help participants enhance the value of their work, its use and potential impact. \nTarget audience: early career researchers working on adaptation in the built environment and infrastructure sectors.\nWorkshop facilitators: Dr Pete Walton, KE Fellow University of Oxford, Tanya Wilkins, Communications specialist, ARCC Network, UKCIP, and invited experts\n\nThere is no charge for this event. All meals, refreshments and overnight accommodation at the venue on 15 November are provided. Numbers are limited to 20.  "
   url: https://www.eventbrite.co.uk/e/showcasing-research-to-deliver-impact-ecr-skills-workshop-registration-35812098952?aff=ebapi
@@ -358,6 +358,39 @@
   starts: 2017-10-23T18:00:00.0000000
   ends: 2017-10-23T20:00:00.0000000
   venue: University of York
+- name: Get In The Game Careers Talks; York St John University
+  description: >-
+    The award-winning Grads In Games initiative is coming to the York St John University for the Get in the Game Careers Talk Tour 2017.
+
+    Please note room details are to be confirmed
+
+    Talks will be presented by our Grads In Games team, with guests & speakers from the games industry.
+
+    Our talks are given for students to learn what it really takes to make it into such a competitive industry. Covering topics such as:
+
+    • Careers in games advice
+
+    • Information of how to maximise your chances of securing your first games industry role.
+
+    • CV, Portfolio and Demo Advice
+
+    • Interview Techniques
+
+    • Technical and practical knowledge required by studios
+
+    • How to increase employability
+
+    • Q & A session
+
+    We’ll also be giving away goodie bags to a handful of lucky winners, with prizes from our partner studios.
+
+    This is a great opportunity that offers expert information which could prove vital in your career. You don’t want to be missing out! Get your ticket now!
+  url: https://www.eventbrite.co.uk/e/get-in-the-game-careers-talks-york-st-john-university-tickets-38656960008?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/36277614/107396689973/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=6197d3d9f260514e6f098fd2f3de059d
+  starts: 2017-10-23T13:00:00.0000000
+  ends: 2017-10-23T16:00:00.0000000
+  venue: York St John University
 - name: MCT "IT Pro" Readiness (UK North) 25-26 November 2017
   description: >+
     Calling all MCTs
@@ -511,6 +544,14 @@
   ends: 2017-10-09T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Ada Lovelace Day - Hidden Figures Screening at the Everyman
+  description: "<p>It's Ada Lovelace Day coming up on October 10th. This is an international celebration day of the achievements of women in science, technology, engineering and maths (STEM). It aims to increase the profile of women in STEM and, in doing so, create new role models who will encourage more girls into STEM careers and support women already working in STEM. (<a href=\"https://findingada.com/\" class=\"linkified\">https://findingada.com/</a>)</p> <p>Ada is known as the mother of computing, considered to be the first computer programmer before computers even really existed. She wrote a paper in the 1840s imagining the potential of Babbage’s machines, including the idea that they could compose music and the original computer algorithm is now widely considered to be the world’s first computer programme.</p> <p>She went on to inspire early computer pioneers including a certain Alan Turing (who found her paper during his research). Turing is of course the mathematician whose codebreaking Enigma computer helped end the Second World War.</p> <p>We're proud to celebrate ALD at Sky@LeedsDock and have arranged for a <b>free private screening</b> of the excellent film ‘<a href=\"http://www.imdb.com/title/tt4846340/\">Hidden Figures’</a> at the swanky <b>Everyman Cinema in Leeds City Centre.</b><br/>The film tells the true story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – 3 brilliant African-American women working at NASA who served as the brains behind one of the greatest operations in history: the launch of astronaut John Glenn into orbit, a stunning achievement that turned around the Space Race. The visionary trio crossed all gender and race lines to inspire generations to dream big.</p> <p>Complimentary Pizza and Prosecco will also be served.</p> <p>We have limited tickets available so please only RSVP if you are 100% able to attend<br/>Look forward to seeing you there!</p> "
+  url: https://www.meetup.com/Leeds-TechHub/events/243912099/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/3/0/5/thumb_458505829.jpeg
+  starts: 2017-10-10T16:00:00.0000000
+  ends: 2017-10-10T19:00:00.0000000
+  venue: Everyman Cinema
 - name: October York Code Dojo - Refactoring
   description: '<p>This month we will be working in pairs on a classic Code Dojo refactoring exercise. Starter templates will be provided for the most common programming languages.</p> <p>To make the best use of your evening, we recommend that configure your programming environment of choice in advance.</p> '
   url: https://www.meetup.com/York-Code-Dojo/events/243341488/
