@@ -7,22 +7,14 @@
   ends: 2017-10-09T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Ada Lovelace Day - Hidden Figures Screening at the Everyman
-  description: "<p>It's Ada Lovelace Day coming up on October 10th. This is an international celebration day of the achievements of women in science, technology, engineering and maths (STEM). It aims to increase the profile of women in STEM and, in doing so, create new role models who will encourage more girls into STEM careers and support women already working in STEM. (<a href=\"https://findingada.com/\" class=\"linkified\">https://findingada.com/</a>)</p> <p>Ada is known as the mother of computing, considered to be the first computer programmer before computers even really existed. She wrote a paper in the 1840s imagining the potential of Babbage’s machines, including the idea that they could compose music and the original computer algorithm is now widely considered to be the world’s first computer programme.</p> <p>She went on to inspire early computer pioneers including a certain Alan Turing (who found her paper during his research). Turing is of course the mathematician whose codebreaking Enigma computer helped end the Second World War.</p> <p>We're proud to celebrate ALD at Sky@LeedsDock and have arranged for a <b>free private screening</b> of the excellent film ‘<a href=\"http://www.imdb.com/title/tt4846340/\">Hidden Figures’</a> at the swanky <b>Everyman Cinema in Leeds City Centre.</b><br/>The film tells the true story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – 3 brilliant African-American women working at NASA who served as the brains behind one of the greatest operations in history: the launch of astronaut John Glenn into orbit, a stunning achievement that turned around the Space Race. The visionary trio crossed all gender and race lines to inspire generations to dream big.</p> <p>Complimentary Pizza and Prosecco will also be served.</p> <p>We have limited tickets available so please only RSVP if you are 100% able to attend<br/>Look forward to seeing you there!</p> "
-  url: https://www.meetup.com/Leeds-TechHub/events/243912099/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/3/0/5/thumb_458505829.jpeg
-  starts: 2017-10-10T16:00:00.0000000
-  ends: 2017-10-10T19:00:00.0000000
-  venue: Everyman Cinema
 - name: October York Code Dojo - Refactoring
-  description: '<p>This month we will be working in pairs on a classic Code Dojo refactoring exercise. Starter templates will be provided for the most common programming languages.</p> <p>To make the best use of your evening, we recommend that configure your programming environment of choice in advance.</p> '
+  description: '<p>This month we will be working in pairs on a classic Code Dojo refactoring exercise. Starter templates will be provided for the most common programming languages.</p> <p>To make the best use of your evening, we recommend that configure your programming environment of choice in advance.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p><i>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</i></p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/243341488/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
   starts: 2017-10-11T17:30:00.0000000
   ends: 2017-10-11T19:30:00.0000000
-  venue: Room FT/211 York St John University
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
