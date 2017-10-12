@@ -1,29 +1,3 @@
-- name: October York Code Dojo - Refactoring
-  description: '<p>This month we will be working in pairs on a classic Code Dojo refactoring exercise. Starter templates will be provided for the most common programming languages.</p> <p>To make the best use of your evening, we recommend that configure your programming environment of choice in advance.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p><i>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</i></p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/243341488/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-10-11T17:30:00.0000000
-  ends: 2017-10-11T19:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/243754310/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-10-11T06:30:00.0000000
-  ends: 2017-10-11T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/243542657/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-10-11T07:00:00.0000000
-  ends: 2017-10-11T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: 'Oct 2017: Lorraine Underwood - Using the BBC micro:bit in real life applications'
   description: "<p><b>Oct 2017: Lorraine Underwood - Using the BBC micro:bit in real life applications</b></p> <p><br/>Learn how you can use the BBC micro:bit in real life applications like a cycling jacket, a running aid and as a fashion item! </p> <p>We'll explore the electronics, the software, and the other skills to get these wearables working.</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/4/c/f/600_464941231.jpeg\" /></p> <p>\n\n\n<b>Biography</b>: I am a maker living in Yorkshire. I have just recently returned to teaching at Lancaster Girls' Grammar School. I love to make fun, shiny and even useful things with boards like the Raspberry Pi and the BBC micro:bit. I am passionate about Computing being accessible and appealing to everyone. I run a Raspberry Pi Jam in Kendal library on the last Saturday every month and as part of my other job at Lancaster University I regularly run training sessions for Computing Teachers. If I could have anything it would be more time to make all the ideas in my head! </p> <p><br/><img src=\"https://secure.meetupstatic.com/photos/event/4/c/b/600_464941227.jpeg\" /></p> <p>\n\n\nTwitter: <a href=\"https://twitter.com/LMcUnderwood\">@LMcUnderwood</a></p> "
   url: https://www.meetup.com/CodeMill-Digital-Skills/events/243110597/
@@ -107,6 +81,31 @@
   starts: 2017-10-25T06:30:00.0000000
   ends: 2017-10-25T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/243941566/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-10-25T07:00:00.0000000
+  ends: 2017-10-25T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: October - Ryan Townsend & Adam Holloway
+  description: '<p>Join us for a couple of great talks from Ryan Townsend and Adam Holloway, as well as a chance to win a code for a year subscription to Frontend Masters!</p> <p>Agenda:</p> <p>6:30 - 6:45: People start arriving</p> <p>6:45 - 6:50: Introductions</p> <p>6:50 - 7:20: Ryan Townsend - How to launch a large-scale site confidently and successfully</p> <p>7:20 - 7:35: Break with food and chat</p> <p>7:35 - 8:20: Adam Holloway - An Introduction to Vue.js</p> <p>8:20 - 9:25: Social &amp; point that people can leave</p> <p>9:25 - 9:40: Pack up and leave</p> <p>Talks:</p> <p><b>Ryan Townsend - How to launch a large-scale site confidently and successfully</b></p> <p><i>"Launch day for a website can be a stressful one, especially with the project stakeholders keeping an extra keen eye on how things are going.</i></p> <p>Having relaunched Matalan’s website back in May, Ryan will be talking you through various technical and non-technical lessons learned opening the floodgates to large-scale traffic, so you can be far more confident in your next launch.<i>"</i></p> <p><b>Adam Holloway - An Introduction to Vue.js</b></p> <p><i>"This talk will introduce you to Vue.js, showing how it can be used as a single-page application or integrated with a content management system’s presentation layer. We will cover the foundations, starting with how to get setup manually and using the Vue CLI, the Vue lifecycle, directives and event handling. Then we’ll dive into more advanced areas such as components, component communication, slots, mixins, Vuex, unit testing and more."</i></p> <p>The door to get in is shown here:</p> <p><a href="https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ" class="linkified">https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href="http://leedsjs.com/code-of-conduct/">Code of conduct</a></p> '
+  url: https://www.meetup.com/LeedsJS/events/243739216/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2017-10-25T17:30:00.0000000
+  ends: 2017-10-25T20:30:00.0000000
+  venue: Future Labs
+- name: November York Code Dojo - TBC
+  description: '<p>Subject TBC</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/244123249/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-11-08T18:30:00.0000000
+  ends: 2017-11-08T20:30:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
