@@ -281,14 +281,6 @@
   starts: 2017-10-30T22:00:00.0000000
   ends: 2017-11-16T00:00:00.0000000
   venue: Instructor led Online | Video Conference
-- name: 'Oct 2017: Lorraine Underwood - Using the BBC micro:bit in real life applications'
-  description: "<p><b>Oct 2017: Lorraine Underwood - Using the BBC micro:bit in real life applications</b></p> <p><br/>Learn how you can use the BBC micro:bit in real life applications like a cycling jacket, a running aid and as a fashion item! </p> <p>We'll explore the electronics, the software, and the other skills to get these wearables working.</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/4/c/f/600_464941231.jpeg\" /></p> <p>\n\n\n<b>Biography</b>: I am a maker living in Yorkshire. I have just recently returned to teaching at Lancaster Girls' Grammar School. I love to make fun, shiny and even useful things with boards like the Raspberry Pi and the BBC micro:bit. I am passionate about Computing being accessible and appealing to everyone. I run a Raspberry Pi Jam in Kendal library on the last Saturday every month and as part of my other job at Lancaster University I regularly run training sessions for Computing Teachers. If I could have anything it would be more time to make all the ideas in my head! </p> <p><br/><img src=\"https://secure.meetupstatic.com/photos/event/4/c/b/600_464941227.jpeg\" /></p> <p>\n\n\nTwitter: <a href=\"https://twitter.com/LMcUnderwood\">@LMcUnderwood</a></p> "
-  url: https://www.meetup.com/CodeMill-Digital-Skills/events/243110597/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/4/6/d/thumb_464545709.jpeg
-  starts: 2017-10-12T17:30:00.0000000
-  ends: 2017-10-12T20:30:00.0000000
-  venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/243754312/
@@ -309,7 +301,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywnbxb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/244139097/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-10-18T07:00:00.0000000
@@ -333,7 +325,7 @@
   venue: Future Labs
 - name: Agile York
   description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnywnbxb/
+  url: https://www.meetup.com/YorkDevelopers/events/244152672/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-10-18T18:00:00.0000000
@@ -381,6 +373,21 @@
   starts: 2017-10-25T17:30:00.0000000
   ends: 2017-10-25T20:30:00.0000000
   venue: Future Labs
+- name: Continuous Delivery - making it work with Windows and .NET
+  description: "<p><b>Matthew Skelton: Continuous Delivery - making it work with Windows and .NET </b></p> <p><br/>The technologies and approaches for Continuous Delivery are essentially identical across different operating systems, but some things need special treatment for Windows and .NET. When Jez Humble and Dave Farley published their groundbreaking book 'Continuous Delivery' in 2010, many of the tools described were either nonexistent on the Windows platform or did not support the rich automation capabilities they do now.<br/>This talk aims to encourage many more teams working with Windows and .NET to adopt Continuous Delivery by sharing real-world success stories of organisations using Windows and .NET for Continuous Delivery; the speakers share their first-hand experience in different organisations and also explore some case studies from the O'Reilly eBook '<a href=\"http://cdwithwindows.net/\">Continuous Delivery with Windows and .NET</a>'.</p> <p>\n\n\n\nBiog: Matthew Skelton has been building, deploying, and operating commercial software systems since 1998. Co-founder and Principal Consultant at Skelton Thatcher Consulting Ltd, he specialises in helping organisations to adopt and sustain good practices for building and operating software systems: Continuous Delivery, DevOps, aspects of ITIL, and software operability.</p> "
+  url: https://www.meetup.com/Leeds-Sharp/events/240754445/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2017-10-26T17:30:00.0000000
+  ends: 2017-10-26T20:30:00.0000000
+  venue: Futurelabs
+- name: Leeds Ruby Thing meetup
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  url: https://www.meetup.com/LeedsRubyThing/events/242790793/
+  is-free: true
+  starts: 2017-10-26T18:30:00.0000000
+  ends: 2017-10-26T22:30:00.0000000
+  venue: Veritas Ale & Wine Bar
 - name: November York Code Dojo - TBC
   description: '<p>Subject TBC</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/244123249/
@@ -881,6 +888,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-04-02T06:30:00.0000000
   ends: 2018-04-02T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxgbgb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-04-04T06:30:00.0000000
+  ends: 2018-04-04T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Agile York
