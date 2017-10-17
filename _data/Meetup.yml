@@ -1,14 +1,5 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/243754312/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-10-16T06:30:00.0000000
-  ends: 2017-10-16T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/243754313/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -25,7 +16,7 @@
   ends: 2017-10-18T10:00:00.0000000
   venue: La Bottega Milanese
 - name: agileYork - The 5 pillars of collaborative product ownership
-  description: "<p><b>The 5 pillars of collaborative product ownership</b></p> <p>\n\nWhile business knowledge and domain expertise is useful and essential, is this only achievable with a 'single wringable neck'? What would happen if the whole team could be encouraged to take ownership of product direction?</p> <p>This session looks at how we have often created dysfunctional relationships with our product owners through both the way we collaborate (or don't) with them and the language we use to talk about the role itself.</p> <p>We will discuss questions like:</p> <p>is having a product owner an anti-pattern?why do we discourage 'hero' developers but encourage 'hero' product owners?do product owners make it hard to have a sustainable pace?can the whole team engage in product ownership?what can you do to support your PO?</p> <p><b>About John Le Drew</b></p> <p><br/>Starting my career in systems administration, I first dipped into software engineering writing automation and data migration tools mostly using Perl and VBScript on Windows. This sparked my interest and led to 10 years as a software engineer, working in a wide range of environments and languages including C, C++, PHP, Python, Ruby, C#, VB, Java, JavaScript and probably more that I have forgotten!</p> <p>After a decade as a software engineer, I then spent most of the last 10 years as an independent consultant. Working with companies to help them get the most out of their technology teams. I soon recognised that the technological problems I was hired to solve, were rooted not in technology, but in the way teams were collaborating. This led me to research lean and agile ways of working, transforming my practice.</p> "
+  description: "<p>The 5 pillars of collaborative product ownership</p> <p>While business knowledge and domain expertise is useful and essential, is this only achievable with a 'single wringable neck'? What would happen if the whole team could be encouraged to take ownership of product direction?</p> <p>This session looks at how we have often created dysfunctional relationships with our product owners through both the way we collaborate (or don't) with them and the language we use to talk about the role itself.</p> <p>We will discuss questions like:</p> <p>is having a product owner an anti-pattern?why do we discourage 'hero' developers but encourage 'hero' product owners?do product owners make it hard to have a sustainable pace?can the whole team engage in product ownership?what can you do to support your PO?</p> <p>About John Le Drew</p> <p>Starting my career in systems administration, I first dipped into software engineering writing automation and data migration tools mostly using Perl and VBScript on Windows. This sparked my interest and led to 10 years as a software engineer, working in a wide range of environments and languages including C, C++, PHP, Python, Ruby, C#, VB, Java, JavaScript and probably more that I have forgotten!</p> <p>After a decade as a software engineer, I then spent most of the last 10 years as an independent consultant. Working with companies to help them get the most out of their technology teams. I soon recognised that the technological problems I was hired to solve, were rooted not in technology, but in the way teams were collaborating. This led me to research lean and agile ways of working, transforming my practice.</p> "
   url: https://www.meetup.com/agileYork/events/241911826/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
@@ -105,15 +96,6 @@
   starts: 2017-10-26T18:30:00.0000000
   ends: 2017-10-26T22:30:00.0000000
   venue: Veritas Ale & Wine Bar
-- name: November York Code Dojo - TBC
-  description: '<p>Subject TBC</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/244123249/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-11-08T18:30:00.0000000
-  ends: 2017-11-08T20:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/243754321/
@@ -122,6 +104,15 @@
   starts: 2017-10-30T07:30:00.0000000
   ends: 2017-10-30T10:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: November York Code Dojo - TBC
+  description: '<p>Subject TBC</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/244123249/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-11-08T18:30:00.0000000
+  ends: 2017-11-08T20:30:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
