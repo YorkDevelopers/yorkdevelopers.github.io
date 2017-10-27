@@ -1,18 +1,3 @@
-- name: Continuous Delivery - making it work with Windows and .NET
-  description: "<p><b>Matthew Skelton: Continuous Delivery - making it work with Windows and .NET </b></p> <p><br/>The technologies and approaches for Continuous Delivery are essentially identical across different operating systems, but some things need special treatment for Windows and .NET. When Jez Humble and Dave Farley published their groundbreaking book 'Continuous Delivery' in 2010, many of the tools described were either nonexistent on the Windows platform or did not support the rich automation capabilities they do now.<br/>This talk aims to encourage many more teams working with Windows and .NET to adopt Continuous Delivery by sharing real-world success stories of organisations using Windows and .NET for Continuous Delivery; the speakers share their first-hand experience in different organisations and also explore some case studies from the O'Reilly eBook '<a href=\"http://cdwithwindows.net/\">Continuous Delivery with Windows and .NET</a>'.</p> <p>\n\n\n\nBiog: Matthew Skelton has been building, deploying, and operating commercial software systems since 1998. Co-founder and Principal Consultant at Skelton Thatcher Consulting Ltd, he specialises in helping organisations to adopt and sustain good practices for building and operating software systems: Continuous Delivery, DevOps, aspects of ITIL, and software operability.</p> "
-  url: https://www.meetup.com/Leeds-Sharp/events/240754445/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2017-10-26T17:30:00.0000000
-  ends: 2017-10-26T20:30:00.0000000
-  venue: Futurelabs
-- name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
-  url: https://www.meetup.com/LeedsRubyThing/events/242790793/
-  is-free: true
-  starts: 2017-10-26T18:30:00.0000000
-  ends: 2017-10-26T22:30:00.0000000
-  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/243754321/
@@ -22,6 +7,14 @@
   ends: 2017-10-30T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: LeedsDevops - October 2017 Meetup
+  description: "<p>It's time for our 4th anniversary bash at the ODI Node in Leeds for an evening of spooktacular devops talks and cackling:</p> <p>• 6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>• 7:15 - 7:20 : Group updates/news/announcements<br/>• 7:20 - 8:05 : Rightsizing for the Cloud - Bernard Jauregui<br/>• 8:05 - 8:20 : Intermission<br/>• 8:20 - 9:00 : Mesosphere 101 - Matt Jarvis<br/>• 9:00 - late : Decamp to the Wardrobe</p> <p><br/>We are delighted to welcome Bernard Jauregui from BJSS, this talk is about Bernard's time as a test lead, focusing on minimising platform overheads. He takes the discussion beyond the obvious concerns of cost; looking at risk, motivation and solution longevity. A well architected cloud solution can meet demand with elasticity, hear about getting a robust approach to right-sizing, potential pitfalls and cloud specific complications. The talk highlights some key considerations:</p> <p>• Metrics for elastic architectures<br/>• Risks and rewards<br/>• Weird outcomes and gotchas<br/>• Effective refactoring of infrastructure as code</p> <p><br/>Our headline speaker for the evening is Matt Jarvis is a developer advocate at Mesosphere, his job is to engage with the communities around DC/OS and Mesos. Matt has spent more than 15 years building products and services around open source software, on everything from embedded devices to large scale distributed systems. Most recently he has been focused on the open cloud infrastructure space, and in emerging patterns for cloud native applications. </p> <p>His talk Mesosphere 101 showcases the Apache Mesos project as a distributed system for running other distributed systems, often described as a distributed kernel. It's in use at massive scale at some of the worlds largest companies like Apple, Netflix, Uber and Yelp. DC/OS is an open source distribution of Mesos, which adds all the functionality to run Mesos in production across any substrate, both on-premise and in the cloud. In this talk, he'll introduce both Mesos and DC/OS and talk about how they work under the hood, and what the benefits are of running these new kinds of systems for emerging workloads. </p> <p><br/>As it's our 4th birthday bash and Halloween we thought we'd introduce a little trick or treat fun - we're going to have a prize giveaway for the best halloween costume, so turn up in your best spooky outfit and the best one will win a small but perfectly formed Raspberry Pi Zero! No one leaves LeedsDevops empty handed so we have commissioned a set of beautifully crafted artisan LeedsDevops stickers, all attendees may take one home and decorate their laptops as they see fit.</p> <p>Once again <a href=\"https://www.infinityworks.com/\">Infinity Works </a>have agreed to sponsor the refreshments and lodgings for the evening, ensuring there is a plentiful supply of our favorite beverages, soft drinks and as it's Halloween a bumper supply of sweets!</p> <p><b>Code Of Conduct</b></p> <p>Please note that we have now added an <a href=\"https://tmblr.co/ZdJfSq2PpSK99\">anti harassment policy and code of conduct </a>in order to support the inclusive nature of the meetup.</p> <p><b>Venue</b></p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street (not too far from the Adelphi). If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\"><a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\"><a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a></a> or talk to us on twitter <a href=\"http://twitter.com/leedsDevops/\">@leedsdevops</a>.</p> <p>Look forward to seeing you there!</p> <p>For more details see the<a href=\"https://tmblr.co/ZdJfSq2R2b2jS\"> event page on leedsdevops.org.uk</a><a href=\"https://tmblr.co/ZdJfSq2PpSr0M\">&lt;/a&gt; &lt;a href=\"https://tmblr.co/ZdJfSq2JXsbMw\"&gt;</a></p> "
+  url: https://www.meetup.com/LeedsDevops/events/244258569/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/a/6/0/thumb_333467712.jpeg
+  starts: 2017-10-31T18:45:00.0000000
+  ends: 2017-10-31T21:00:00.0000000
+  venue: ODI Leeds Node
 - name: 'Try a Language: Kotlin'
   description: '<p>This month, Andy Bowes will be introducing us to <a href="http://kotlinlang.org/">Kotlin</a>, a programming language that provides a pragmatic combination of OOP &amp; Functional Programming.</p> <p>Check out the <a href="http://leedscodedojo.github.io/">LCD website</a> for details.</p> '
   url: https://www.meetup.com/Leeds-Code-Dojo/events/243949427/
@@ -32,7 +25,7 @@
   venue: Callcredit Information Group Limited
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywpbcb/
+  url: https://www.meetup.com/YorkDevelopers/events/244538747/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-11-01T07:30:00.0000000
@@ -47,8 +40,8 @@
   starts: 2017-11-01T08:00:00.0000000
   ends: 2017-11-01T11:00:00.0000000
   venue: La Bottega Milanese
-- name: MagentoYork - November Meetup - TBC
-  description: '<p>TBC</p> '
+- name: MagentoYork - November Meetup - Lightning Talks
+  description: '<p>In a series of short talks we discuss the latest happenings of Magento 2.</p> '
   url: https://www.meetup.com/Magento-York/events/243341513/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/1/2/3/thumb_444120291.jpeg
@@ -80,6 +73,14 @@
   ends: 2017-11-06T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Kx Retail & Consumer Products Data and Technology Event
+  description: "<p>Hi Kx Community Leeds, </p> <p>We're holding our next Kx Meetup on Tuesday 7th November- we hope you can join!</p> <p><b>Agenda: </b></p> <p><b>1:30 pm</b> – Registration</p> <p><b>2:00 pm</b> – <b><i>Kx </i></b>- Pete Denby, Thomas Hill &amp; Damon Bryan – Key insights from the Kx Retail Innovation Index</p> <p><b>2:30 pm</b> – <b><i>Asda </i></b>- Liz Lamb &amp; Ed Child – How Asda is using data to put the customer at the heart of the organisation</p> <p><b>3:30 pm</b> – <b><i>Telefonica </i></b>- Nick Henthorn – How Telefonica became the market leader in mobile Big Data monetisation</p> <p><b>4.00 pm</b> – <b><i>ResearchBods </i></b>- Robin Hilton – How brands are using technology to get closer to their customers</p> <p><b>4.30 pm - <i>Lens - </i></b>Vicky Smith &amp; Helen Fennel -</p> <p>Connecting data through the customer journey</p> <p><b>5.00 pm </b>– Drinks, Nibbles &amp; Networking</p> <p><b>Venue</b></p> <p>The Tetley</p> <p>We look forward to meeting you all,</p> <p>Kx</p> <p><b>About </b></p> <p>Join us at this event for retail and consumer product professionals to understand how data and technology is going to revolutionise their industries. Learn about the inaugural Kx Retail Innovation Index and hear how leading worldwide brands such as ASDA and Telefonica are putting data and technology at the heart of their business.</p> <p>This event will be held at The Tetley, a centre for contemporary art and learning, located in the stunning art deco headquarters of the former Tetley Brewery in central Leeds, from 2pm to 5pm.</p> <p><b>Why should you attend? </b></p> <p>Understand the role of data and technology in retail and consumer products today, learn which companies are using them to deliver business value, and hear from leading brands about how they are realising the opportunities they offer.</p> <p>Join a group of likeminded individuals and be part of a Northern hub for data and technology. Uncover opportunities for collaboration and further professional development.</p> <p>The event will be run in a relaxed style, encouraging discussion and discovery. We will follow the presentations with drinks and nibbles, allowing further opportunity for networking with fellow attendees.</p> <p><b>RSVP</b></p> <p>Please RSVP your attendance. For more information, please contact &lt;a&gt;[masked]&lt;/a&gt;. This is an event not to be missed.</p> <p><br/><i>Kx Community. By attending this event, you consent to the disclosure of your personal information (including first name, last name, title, email and company) to FD plc and its affiliates, and that FD plc and its affiliates may use such information for purposes of contacting you, sending marketing materials from and/or sending invitations to events.</i></p> "
+  url: https://www.meetup.com/Kx-Retail-Consumer-Products-Data-and-Technology-Event/events/242948359/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/2/3/f/thumb_464133343.jpeg
+  starts: 2017-11-07T13:30:00.0000000
+  ends: 2017-11-07T17:00:00.0000000
+  venue: The Tetley
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywpblb/
@@ -605,6 +606,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-04-16T06:30:00.0000000
   ends: 2018-04-16T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxgbxb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-04-18T06:30:00.0000000
+  ends: 2018-04-18T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
