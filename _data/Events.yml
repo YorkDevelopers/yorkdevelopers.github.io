@@ -212,21 +212,13 @@
   venue: The Cross Keys
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywpbjb/
+  url: https://www.meetup.com/YorkDevelopers/events/244679079/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-11-06T07:30:00.0000000
   ends: 2017-11-06T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Kx Retail & Consumer Products Data and Technology Event
-  description: "<p>Hi Kx Community Leeds, </p> <p>We're holding our next Kx Meetup on Tuesday 7th November- we hope you can join!</p> <p><b>Agenda: </b></p> <p><b>1:30 pm</b> – Registration</p> <p><b>2:00 pm</b> – <b><i>Kx </i></b>- Pete Denby, Thomas Hill &amp; Damon Bryan – Key insights from the Kx Retail Innovation Index</p> <p><b>2:30 pm</b> – <b><i>Asda </i></b>- Liz Lamb &amp; Ed Child – How Asda is using data to put the customer at the heart of the organisation</p> <p><b>3:30 pm</b> – <b><i>Telefonica </i></b>- Nick Henthorn – How Telefonica became the market leader in mobile Big Data monetisation</p> <p><b>4.00 pm</b> – <b><i>ResearchBods </i></b>- Robin Hilton – How brands are using technology to get closer to their customers</p> <p><b>4.30 pm - <i>Lens - </i></b>Vicky Smith &amp; Helen Fennel -</p> <p>Connecting data through the customer journey</p> <p><b>5.00 pm </b>– Drinks, Nibbles &amp; Networking</p> <p><b>Venue</b></p> <p>The Tetley</p> <p>We look forward to meeting you all,</p> <p>Kx</p> <p><b>About </b></p> <p>Join us at this event for retail and consumer product professionals to understand how data and technology is going to revolutionise their industries. Learn about the inaugural Kx Retail Innovation Index and hear how leading worldwide brands such as ASDA and Telefonica are putting data and technology at the heart of their business.</p> <p>This event will be held at The Tetley, a centre for contemporary art and learning, located in the stunning art deco headquarters of the former Tetley Brewery in central Leeds, from 2pm to 5pm.</p> <p><b>Why should you attend? </b></p> <p>Understand the role of data and technology in retail and consumer products today, learn which companies are using them to deliver business value, and hear from leading brands about how they are realising the opportunities they offer.</p> <p>Join a group of likeminded individuals and be part of a Northern hub for data and technology. Uncover opportunities for collaboration and further professional development.</p> <p>The event will be run in a relaxed style, encouraging discussion and discovery. We will follow the presentations with drinks and nibbles, allowing further opportunity for networking with fellow attendees.</p> <p><b>RSVP</b></p> <p>Please RSVP your attendance. For more information, please contact &lt;a&gt;[masked]&lt;/a&gt;. This is an event not to be missed.</p> <p><br/><i>Kx Community. By attending this event, you consent to the disclosure of your personal information (including first name, last name, title, email and company) to FD plc and its affiliates, and that FD plc and its affiliates may use such information for purposes of contacting you, sending marketing materials from and/or sending invitations to events.</i></p> "
-  url: https://www.meetup.com/Kx-Retail-Consumer-Products-Data-and-Technology-Event/events/242948359/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/2/3/f/thumb_464133343.jpeg
-  starts: 2017-11-07T13:30:00.0000000
-  ends: 2017-11-07T17:00:00.0000000
-  venue: The Tetley
 - name: November York Code Dojo - Test Driven Development
   description: "<p>A chance to learn and practice the technique of test driven development. The evening will take the format of:</p> <p>Introductions and Pizza A very short presentation on what is TDD and the night's problem Divide up into pairs to work on the Kata (problem) Regroup to discuss solutions. Continue networking in a local pub. It would be very helpful that if you have a laptop that you bring it along with your programming language of choice already installed on it.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</p> <p>Sponsored by York St. John University.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg\" /></p> "
   url: https://www.meetup.com/York-Code-Dojo/events/244123249/
@@ -780,6 +772,15 @@
   starts: 2018-04-19T18:00:00.0000000
   ends: 2018-04-19T21:00:00.0000000
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxgbfc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-04-23T06:30:00.0000000
+  ends: 2018-04-23T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
 - name: Agile York
   description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
   url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxhbdb/
@@ -884,20 +885,6 @@
   starts: 2018-10-18T18:00:00.0000000
   ends: 2018-10-18T21:00:00.0000000
   endorsed: true
-- name: YPS Multi-day Study Tour Presentation
-  description: After a short presentation starting at 7pm, before our regular lecture on October 31<sup>st</sup>, the Activities Group will ask your advice about which Study Tours you would prefer us to offer to members in 2018. These tours would be organised specifically for the YPS by the travel agents, &#8216;Just for Groups!&#8217;, .
-  url: https://www.ypsyork.org/events/yps-multi-day-study-tour-presentation/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/09/Scottish-Gardens-200x125.jpg
-  starts: 2017-10-31T19:00:00.0000000
-  ends: 2017-10-31T21:00:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
-- name: Evidence-Based Education
-  description: <strong>Evidence-Based Education</strong>
-  url: https://www.ypsyork.org/events/evidence-based-education/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/08/BetteChambersphotosmall-200x125.jpg
-  starts: 2017-10-31T19:30:00.0000000
-  ends: 2017-10-31T21:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: 'Cafe Scientifique Debate: &#8220;Does it Matter who Funds Science?&#8221;'
   description: <strong>Does it Matter who Funds Science?</strong>
   url: https://www.ypsyork.org/events/cafe-scientifique-debate-november/
