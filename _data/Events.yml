@@ -1,11 +1,488 @@
-- name: Real-world .NET Core (now with more 2.0!)
-  description: "<p>Keith Williams leads the development team at Sun Branding Solutions, working on software that designs and packages a surprisingly large proportion of the items in your shopping basket. </p> <p><br/>Keith's team have been proudly and successfully running .NET Core apps in production since the heady days of beta4 in 2015, and here he is to share his experience and hard-won knowledge of the field with us. If you've been paddling in the changeable cross-platform waters yourself, are confused and surprised by the current expanding landscape, or are just wondering what the point of it all is, then this talk is for you. Keith will shed light on the history of .Net Core, convince you of the benefits of its adoption, and give you tips on how to successfully develop and deploy on it with minimal friction. </p> "
-  url: https://www.meetup.com/dotnetYork/events/244034620/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2017-11-02T18:30:00.0000000
-  ends: 2017-11-02T20:30:00.0000000
-  venue: The Cross Keys
+- name: South York Certified Ethical Hacker Training | CEH Training | CEH V9 exam Prep Bootcamp
+  description: >2
+
+    Video Conference Details
+
+    Will be sent to you once you register and make the payment
+
+
+    Next class starting
+
+    Devember 2, 2017
+
+
+    Training Session Details
+
+    There will be 10 online sessions, each session being of 2.5 hours. Every session will have presentation about theory, concepts and technology, followed by Hands-on Lab practice exercises.
+
+
+    Training Dates
+
+
+    Begins December 2, taught over 5 weekends ending December 31
+
+    Sat and Sun 8:00 AM - 10:30 AM (US Pacific Time)
+
+    Class dates: December 2,3,9,10,16,17,23,24,30,31
+
+    Each session will be recorded and the recordings will be shared after each session with students.
+
+
+
+    The Certified Ethical Hacker V9 Class
+
+    Introduction
+
+    The Certified Ethical Hacker program is the pinnacle of the most desired information security training program any information security professional will ever want to be in. To master the hacking technologies, you will need to become one, but an ethical one! The accredited course provides the advanced hacking tools and techniques used by hackers and information security professionals alike to break into an organization. As we put it, “To beat a hacker, you need to think like a hacker”. This course will immerse you into the Hacker Mindset so that you will be able to defend against future attacks. The security mindset in any organization must not be limited to the silos of a certain vendor, technologies or pieces of equipment.
+
+    This ethical hacking course puts you in the driver’s seat of a hands-on environment with a systematic process. Here, you will be exposed to an entirely different way of achieving optimal information security posture in their organization; by hacking it! You will scan, test, hack and secure your own systems. You will be taught the five phases of ethical hacking and taught how you can approach your target and succeed at breaking in every time! The five phases include Reconnaissance, Gaining Access, Enumeration, Maintaining Access, and covering your tracks!
+
+
+    Target Audience
+
+    This course will significantly benefit security officers, auditors, security professionals, site administrators, and anyone who is concerned about the integrity of the network infrastructure.
+
+
+    Prerequisites
+
+    The knowledge and skills that a learner must have before attending this course is as follows:
+
+
+    Have successfully completed EC-Council’s Certified Network Defender (CND) course or
+
+    Have successfully completed CompTIA’s Security+ (IN-SE) course
+
+
+    There is a minimum age requirement that applies and attendance of the Ethical Hacking and Countermeasures training course or attempts at the relevant exam, is restricted to candidates who are at least 18 years old.
+
+
+    Why Certified Ethical Hacker Training from CybersecurityEdX ?
+
+
+    Our CEH training is very hands on. You will use Virtual images including Kali Linux image for practical lab exercises.
+
+    Our Instructors are EC Council Certified Ethical Hackers and penetration testers who actively work on helping the police and Government with cybercrimes.
+
+    Employees of Microsoft, Dept. of Homeland Security, TD Ameritrade, a Minnesota county and other companies have taken our classes.
+
+    Those with US Top Security Clearance have taken our class.
+
+
+
+    Who should take this class?
+
+    Our typical student profile is someone who wants to learn ethical hacking to enhance their cybersecurity skills, those who want to take the CEH V9 certification exam, software engineer, cybersecurity, information security professionals, IT professional, network engineer, students.
+
+
+    Course Objectives
+
+    Upon completing this course, the learner will be able to:
+
+    Master an ethical hacking methodology that can be used in a penetration testing or ethical hacking situation. You walk out the door with ethical hacking skills that are highly in demand, as well as the internationally recognized Certified Ethical Hacker certification! This course prepares you for EC-Council Certified Ethical Hacker exam 312-50. 
+
+
+    Course Content
+
+    1. Introduction to Ethical Hacking
+
+
+    Internet is Integral Part of Business and Personal Life - What Happens Online in 60 Seconds
+
+    Information Security Overview
+
+    Information Security Threats and Attack Vectors
+
+    Hacking Concepts, Types and Phases
+
+    Ethical Hacking Concepts and Scope
+
+    Information Security Controls
+
+    Information Security Laws and Standards
+
+
+
+    2. Footprinting and Reconnaissance
+
+
+    Footprinting Concepts
+
+    Footprinting Methodology
+
+    Footprinting Tools
+
+    Footprinting Countermeasures
+
+    Footprinting Penetration Testing
+
+
+
+    3. Scanning Networks
+
+
+    Overview of Network Scanning
+
+    CEH Scanning Methodology
+
+    Scanning Beyond IDS
+
+    Banner Grabbing
+
+    Scan for Vulnerability
+
+    Draw Network Diagrams
+
+    Prepare Proxies
+
+    Scanning Pen Testing
+
+
+
+    4. Enumeration
+
+
+    Enumeration Concepts
+
+    NetBIOS Enumeration
+
+    SNMP Enumeration
+
+    LDAP Enumeration
+
+    NTP Enumeration
+
+    SMTP Enumeration
+
+    Enumeration Countermeasures
+
+    SMB Enumeration Countermeasures
+
+    Enumeration Pen Testing
+
+
+
+    5. System Hacking
+
+
+    Information at Hand Before System Hacking Stage
+
+    System Hacking: Goals
+
+    CEH Hacking Methodology (CHM)
+
+    CEH System Hacking Steps
+
+    Hiding Files
+
+    Covering Tracks
+
+    Penetration Testing
+
+
+
+    6. Malware Threats
+
+
+    Introduction to Malware
+
+    Trojan Concepts
+
+    Types of Trojans
+
+    Virus and Worms Concepts
+
+    Malware Reverse Engineering
+
+    Malware Detection
+
+    Countermeasures
+
+    Anti-Malware Software
+
+    Penetration Testing
+
+
+
+    7. Sniffing
+
+
+    Sniffing Concepts
+
+    MAC Attacks
+
+    DHCP Attacks
+
+    ARP Poisoning
+
+    Spoofing Attack
+
+    DNS Poisoning
+
+    Sniffing Tools
+
+    Sniffing Tool: Wireshark
+
+    Follow TCP Stream in Wireshark
+
+    Display Filters in Wireshark
+
+    Additional Wireshark Filters
+
+    Packet Sniffing Tool: Capsa Network Analyzer
+
+    Network Packet Analyzer
+
+    Counter measures
+
+    Sniffing Detection Techniques
+
+    Sniffing Pen Testing
+
+
+
+    8. Social Engineering
+
+
+    Social Engineering Concepts
+
+    Social Engineering Techniques
+
+    Impersonation on Social Networking Site
+
+    Identity Theft
+
+    Social Engineering Countermeasures
+
+    Penetration Testing
+
+
+
+    9. Denial of Service
+
+
+    DoS/DDoS Concepts
+
+    DoS/DDoS Attack Techniques
+
+    Botnets
+
+    DDoS Case Study
+
+    DoS/DDoS Attack Tools
+
+    Counter-measures
+
+    DoS/DDoS Protection Tools
+
+    DoS/DDoS Attack Penetration Testing
+
+
+
+    10. Session Hijacking
+
+
+    Session Hijacking Concepts
+
+    Application Level Session Hijacking
+
+    Network-level Session Hijacking
+
+    Session Hijacking Tools
+
+    Counter-measures
+
+    Session Hijacking Pen Testing
+
+
+
+    11. Hacking Web Servers
+
+
+    Webserver Concepts
+
+    Webserver Attacks
+
+    Attack Methodology
+
+    Webserver Attack Tools
+
+    Counter-measures
+
+    Patch Management
+
+    Webserver Security Tools
+
+    Webserver Pen Testing
+
+
+
+    12. Hacking Web Applications
+
+
+    Web App Concepts
+
+    Web App Threats
+
+    Web App Hacking Methodology
+
+    Web Application Hacking Tools
+
+    Countermeasures
+
+    Security Tools
+
+    Web App Pen Testing
+
+
+
+    13. SQL Injection
+
+
+    SQL Injection Concepts
+
+    Types of SQL Injection
+
+    SQL Injection Methodology
+
+    SQL Injection Tools
+
+    Evasion Techniques
+
+    Counter-measures
+
+
+
+    14. Hacking Wireless Networks
+
+
+    Wireless Concepts
+
+    Wireless Encryption
+
+    Wireless Threats
+
+    Wireless Hacking Methodology
+
+    Wireless Hacking Tools
+
+    Bluetooth Hacking
+
+    Counter-measures
+
+    Wireless Security Tools
+
+    Wi-Fi Pen Testing
+
+
+
+    15. Hacking Mobile Platforms
+
+
+    Mobile Platform Attack Vectors
+
+    Hacking Android OS
+
+    Hacking iOS
+
+    Hacking Windows Phone OS
+
+    Hacking BlackBerry
+
+    Mobile Device Management (MDM)
+
+    Mobile Security Guidelines and Tools
+
+    Mobile Pen Testing
+
+
+
+    16. Evading IDS, Firewalls and Honeypots
+
+
+    IDS, Firewall and Honeypot Concepts
+
+    IDS, Firewall and Honeypot System
+
+    Evading IDS
+
+    Evading Firewalls
+
+    IDS/Firewall Evading Tools
+
+    Detecting Honeypots
+
+    IDS/Firewall Evasion Counter-measures
+
+    Penetration Testing
+
+
+
+    17. Cloud Computing
+
+
+    Introduction to Cloud Computing
+
+    Cloud Computing Threats
+
+    Cloud Computing Attacks
+
+    Cloud Security
+
+    Cloud Security Tools
+
+    Cloud Penetration Testing
+
+
+
+    18. Cryptography
+
+
+    Market Survey 2014: The Year of Encryption
+
+    Case Study: Heartbleed
+
+    Case Study: Poodlebleed
+
+    Cryptography Concepts
+
+    Encryption Algorithms
+
+    Cryptography Tools
+
+    Public Key Infrastructure (PKI)
+
+    Email Encryption
+
+    Disk Encryption
+
+    Cryptography Attacks
+
+    Cryptanalysis Tools
+
+
+
+    Class Size: Maximum 22
+
+
+    Refund Policy
+
+    1. There will be no refunds.2. If a class is not taken for any reason, rescheduled or cancelled, purchase price can be applied toward any published future class by Omni212 of equal or lesser value.
+
+
+    Disclaimer
+
+    This is not an EC Council Certified class. This is not being taught by an EC Council Accredited Training Center. However we help you prepare for the Certified Ethical Hacker (CEH) V9 exam. Our instructors are EC Council Certified Ethical Hackers and Instructors. In order to take the exam, these are the qualifications:
+
+    1. Either demonstrate a verifiable experience (Education + Work experience) of at least 2 years in Information security.
+
+    OR
+
+    2. Take a Certified Ethical Hacker V9 training from an EC Council Certified Accredited Training Center which costs around $2,500. This price includes the CEH exam voucher.
+  url: https://www.eventbrite.com/e/south-york-certified-ethical-hacker-training-ceh-training-ceh-v9-exam-prep-bootcamp-tickets-39525660314?aff=ebapi
+  logo: https://cdn.evbuc.com/images/37310252/195507934244/1/original.jpg?h=200&w=450&rect=0,0,800,400&s=ac82a98da76de1b630af791f7af8b268
+  starts: 2017-12-02T11:00:00.0000000
+  ends: 2017-12-31T13:30:00.0000000
+  venue: Instructor led Online | Video Conference
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/244679079/
@@ -15,14 +492,6 @@
   ends: 2017-11-06T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Kx Retail & Consumer Products Data and Technology Event
-  description: "<p>Hi Kx Community Leeds, </p> <p>We're holding our next Kx Meetup on Tuesday 7th November- we hope you can join!</p> <p><b>Agenda: </b></p> <p><b>1:30 pm</b> – Registration</p> <p><b>2:00 pm</b> – <b><i>Kx </i></b>- Pete Denby, Thomas Hill &amp; Damon Bryan – Key insights from the Kx Retail Innovation Index</p> <p><b>2:30 pm</b> – <b><i>Asda </i></b>- Liz Lamb &amp; Ed Child – How Asda is using data to put the customer at the heart of the organisation</p> <p><b>3:30 pm</b> – <b><i>Telefonica </i></b>- Nick Henthorn – How Telefonica became the market leader in mobile Big Data monetisation</p> <p><b>4.00 pm</b> – <b><i>ResearchBods </i></b>- Robin Hilton – How brands are using technology to get closer to their customers</p> <p><b>4.30 pm - <i>Lens - </i></b>Vicky Smith &amp; Helen Fennel -</p> <p>Connecting data through the customer journey</p> <p><b>5.00 pm </b>– Drinks, Nibbles &amp; Networking</p> <p><b>Venue</b></p> <p>The Tetley</p> <p>We look forward to meeting you all,</p> <p>Kx</p> <p><b>About </b></p> <p>Join us at this event for retail and consumer product professionals to understand how data and technology is going to revolutionise their industries. Learn about the inaugural Kx Retail Innovation Index and hear how leading worldwide brands such as ASDA and Telefonica are putting data and technology at the heart of their business.</p> <p>This event will be held at The Tetley, a centre for contemporary art and learning, located in the stunning art deco headquarters of the former Tetley Brewery in central Leeds, from 2pm to 5pm.</p> <p><b>Why should you attend? </b></p> <p>Understand the role of data and technology in retail and consumer products today, learn which companies are using them to deliver business value, and hear from leading brands about how they are realising the opportunities they offer.</p> <p>Join a group of likeminded individuals and be part of a Northern hub for data and technology. Uncover opportunities for collaboration and further professional development.</p> <p>The event will be run in a relaxed style, encouraging discussion and discovery. We will follow the presentations with drinks and nibbles, allowing further opportunity for networking with fellow attendees.</p> <p><b>RSVP</b></p> <p>Please RSVP your attendance. For more information, please contact &lt;a&gt;[masked]&lt;/a&gt;. This is an event not to be missed.</p> <p><br/><i>Kx Community. By attending this event, you consent to the disclosure of your personal information (including first name, last name, title, email and company) to FD plc and its affiliates, and that FD plc and its affiliates may use such information for purposes of contacting you, sending marketing materials from and/or sending invitations to events.</i></p> "
-  url: https://www.meetup.com/Kx-Retail-Consumer-Products-Data-and-Technology-Event/events/242948359/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/2/3/f/thumb_464133343.jpeg
-  starts: 2017-11-07T13:30:00.0000000
-  ends: 2017-11-07T17:00:00.0000000
-  venue: The Tetley
 - name: November York Code Dojo - Test Driven Development
   description: "<p>A chance to learn and practice the technique of test driven development. The evening will take the format of:</p> <p>Introductions and Pizza A very short presentation on what is TDD and the night's problem Divide up into pairs to work on the Kata (problem) Regroup to discuss solutions. Continue networking in a local pub. It would be very helpful that if you have a laptop that you bring it along with your programming language of choice already installed on it.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</p> <p>Sponsored by York St. John University.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg\" /></p> "
   url: https://www.meetup.com/York-Code-Dojo/events/244123249/
@@ -34,7 +503,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywpblb/
+  url: https://www.meetup.com/YorkDevelopers/events/244745542/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-11-08T07:30:00.0000000
@@ -91,6 +560,13 @@
   starts: 2017-11-15T18:30:00.0000000
   ends: 2017-11-15T20:30:00.0000000
   venue: Future Labs
+- name: 'BIBoss: Bringing Yorkshire’s Senior Business Intelligence Professionals Together'
+  description: '<p>Our next BIBoss networking event will take place on 16 November 2017. BIBoss creates a unique platform for Senior BI Professionals all over Yorkshire to debate, discuss hot topics, and learn from reputable and established speakers and network with like-minded individuals.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?<br/></b>The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>-a talk from an industry expert<br/>-lightning discussions on hot industry specific topics, chosen by you<br/>-event roundup and thank you at approximately 8.30pm<br/>-drinks and networking to finish.</p> <p><br/><b>WHO ATTENDS?<br/></b>BI Managers, Data Warehouse Managers, Heads of IT, Heads of Information, Directors of IT, and Senior BI Architects. This is an invitation-only event organised and held by Corecom Consulting.</p> <p><b>FEEDBACK FROM PREVIOUS BIBOSS EVENTS<br/></b>“It has been interesting to hear other people’s issues, what technology stacks they are on and particular pain points. It was really useful to understand the size of data warehouses that people are using – this has particularly been an eye opener for me.”</p> <p><i>Guy Nicholson, Data Services Manager at Hermes Parcelnet Ltd.</i></p> '
+  url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237042383/
+  is-free: true
+  starts: 2017-11-16T18:00:00.0000000
+  ends: 2017-11-16T20:30:00.0000000
+  venue: Banyan Bar Leeds
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmywpbvb/
@@ -599,6 +1075,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-04-23T06:30:00.0000000
   ends: 2018-04-23T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxgbhc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-04-25T06:30:00.0000000
+  ends: 2018-04-25T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Agile York
