@@ -1,446 +1,485 @@
-- name: York Big Data Training | Hadoop Training - Omni212
-  description: >-
+- name: South York Certified Ethical Hacker Training | CEH Training | CEH V9 exam Prep Bootcamp
+  description: >2
+
+    Video Conference Details
+
+    Will be sent to you once you register and make the payment
+
+
     Next class starting
 
-    October 30, 2017
-
-
-    Video Conference link for the Training
-
-    Will be sent upon Registration and Payment
-
-
-    Why Big Data Training from Omni212?
-
-    1. Omni212 is a Hortonworks Hadoop Consulting Partner.
-
-    2. Certifed Hadoop instructors teach this class.
-
-    3. Cloud account on Microsoft Azure with Hands-on lab exercises under the guidance of two experienced big data, hadoop instructors.
-
-    4. Post class support
-
-    5. Career advancement and Job placement assistance
-
-
-    Class Schedule
-
-    October 30 - November 16, 2017  
-
-    Every week, Mon, Wed, Thu  7:00 - 9:00 PM (Pacific Standard Time)
-
-
-    Training Dates
-
-    October 30, November 1,2,6,8,9,13,15, 2017 
-
-
-    Pre-requisite
-
-    Desired but not required - exposure to, working proficiency of BI, sql, scripting, how to handle and manage data and databases, using Excel.
+    Devember 2, 2017
 
 
     Training Session Details
 
-    There will be 8 online sessions, each session being 2 hours. Every session will have presentation about theory, concepts and technology, followed by Hands-on Lab practice exercises.
+    There will be 10 online sessions, each session being of 2.5 hours. Every session will have presentation about theory, concepts and technology, followed by Hands-on Lab practice exercises.
 
-    Each student will have access to a login account on the cloud, Microsoft Azure, where they can install Hadoop on a cloud virtual machine and perform hands-on lab exercises with instructor guidance. There will be two experienced big data, hadoop instructors supporting the students throughout the class.
+
+    Training Dates
+
+
+    Begins December 2, taught over 5 weekends ending December 31
+
+    Sat and Sun 8:00 AM - 10:30 AM (US Pacific Time)
+
+    Class dates: December 2,3,9,10,16,17,23,24,30,31
 
     Each session will be recorded and the recordings will be shared after each session with students.
 
 
 
-    Course Outline
+    The Certified Ethical Hacker V9 Class
 
+    Introduction
 
-    Session 1: Big Data Basics
+    The Certified Ethical Hacker program is the pinnacle of the most desired information security training program any information security professional will ever want to be in. To master the hacking technologies, you will need to become one, but an ethical one! The accredited course provides the advanced hacking tools and techniques used by hackers and information security professionals alike to break into an organization. As we put it, “To beat a hacker, you need to think like a hacker”. This course will immerse you into the Hacker Mindset so that you will be able to defend against future attacks. The security mindset in any organization must not be limited to the silos of a certain vendor, technologies or pieces of equipment.
 
-    • An Introduction to Big Data?
+    This ethical hacking course puts you in the driver’s seat of a hands-on environment with a systematic process. Here, you will be exposed to an entirely different way of achieving optimal information security posture in their organization; by hacking it! You will scan, test, hack and secure your own systems. You will be taught the five phases of ethical hacking and taught how you can approach your target and succeed at breaking in every time! The five phases include Reconnaissance, Gaining Access, Enumeration, Maintaining Access, and covering your tracks!
 
-    • Why Big Data? Why now?
 
-    • The Three Dimensions of Big Data (Three Vs)
+    Target Audience
 
-    • Evolution of Big Data
+    This course will significantly benefit security officers, auditors, security professionals, site administrators, and anyone who is concerned about the integrity of the network infrastructure.
 
-    • Big Data versus Traditional RDBMS Databases
 
-    • Big Data versus Traditional BI and Analytics
+    Prerequisites
 
-    • Big Data versus Traditional Storage
+    The knowledge and skills that a learner must have before attending this course is as follows:
 
-    • Key Challenges in Big Data adoption
 
-    • Benefits of adoption of Big Data
+    Have successfully completed EC-Council’s Certified Network Defender (CND) course or
 
-    • Introduction to Big Data Technology Stack
+    Have successfully completed CompTIA’s Security+ (IN-SE) course
 
-    • Apache Hadoop Framework
 
-    • Introduction to Microsoft HDInsight – Microsoft’s Big Data Service
+    There is a minimum age requirement that applies and attendance of the Ethical Hacking and Countermeasures training course or attempts at the relevant exam, is restricted to candidates who are at least 18 years old.
 
-    Hands-On Lab:
 
-    • Creating Azure Storage Account
+    Why Certified Ethical Hacker Training from CybersecurityEdX ?
 
-    • Creating HDInsight Cluster
 
-    • Using services on HDInsight Cluster
+    Our CEH training is very hands on. You will use Virtual images including Kali Linux image for practical lab exercises.
 
+    Our Instructors are EC Council Certified Ethical Hackers and penetration testers who actively work on helping the police and Government with cybercrimes.
 
-    Session 2: The Big Data Technology Stack
+    Employees of Microsoft, Dept. of Homeland Security, TD Ameritrade, a Minnesota county and other companies have taken our classes.
 
-    • Basics of Hadoop Distributed File System (HDFS)
+    Those with US Top Security Clearance have taken our class.
 
-    • Basics of Hadoop Distributed Processing (Map Reduce Jobs)
 
-    Hands-On Lab:
 
-    • Loading files to Azure storage account
+    Who should take this class?
 
-    • Moving files across HDInsight Cluster
+    Our typical student profile is someone who wants to learn ethical hacking to enhance their cybersecurity skills, those who want to take the CEH V9 certification exam, software engineer, cybersecurity, information security professionals, IT professional, network engineer, students.
 
-    • Remote Access to Azure Storage Account and HDInsight Cluster
 
-     
+    Course Objectives
 
-    Session 3: Deep dive into Hadoop Storage System (HDFS) (1 Hour)
+    Upon completing this course, the learner will be able to:
 
-    • HDFS
+    Master an ethical hacking methodology that can be used in a penetration testing or ethical hacking situation. You walk out the door with ethical hacking skills that are highly in demand, as well as the internationally recognized Certified Ethical Hacker certification! This course prepares you for EC-Council Certified Ethical Hacker exam 312-50. 
 
-    • Reading files with HDFS
 
-    • Writing files with HDFS
+    Course Content
 
-    • Error Handling
+    1. Introduction to Ethical Hacking
 
-    Hands-On Lab:
 
-    • Accessing Hadoop configuration files using HDInsight Cluster
+    Internet is Integral Part of Business and Personal Life - What Happens Online in 60 Seconds
 
-     
+    Information Security Overview
 
-    Session 4: Processing Big Data –MapReduce and YARN
+    Information Security Threats and Attack Vectors
 
-    • How MapReduce works
+    Hacking Concepts, Types and Phases
 
-    • Handling Common Errors
+    Ethical Hacking Concepts and Scope
 
-    • Bottlenecks with MapReduce
+    Information Security Controls
 
-    • How YARN (MapReduceV2) works
+    Information Security Laws and Standards
 
-    • Difference between MR1 and MR2
 
-    • Error Handling
 
-    Hands-On Lab:
+    2. Footprinting and Reconnaissance
 
-    • Running a simple MapReduce application (word count)
 
-    • Running a custom MapReduce application (census data)
+    Footprinting Concepts
 
-    • Running MapReduce via PowerShell
+    Footprinting Methodology
 
-    • Running a MapReduce application using PowerShell
+    Footprinting Tools
 
-    • Monitoring application status
+    Footprinting Countermeasures
 
-     
+    Footprinting Penetration Testing
 
-    Session 5: Big Data Development Framework
 
-    • Introduction to HIVE
 
-    • Introduction to PIG
+    3. Scanning Networks
 
-    • HBase
 
-    Hands-On Lab:
+    Overview of Network Scanning
 
-    • Loading the data into HIVE
+    CEH Scanning Methodology
 
-    • Submitting Pig jobs using HDInsight
+    Scanning Beyond IDS
 
-    • Submitting Pig jobs via PowerShell
+    Banner Grabbing
 
-     
+    Scan for Vulnerability
 
-    Session 6: Big Data Integration and Management
+    Draw Network Diagrams
 
-    • Big Data Integration using Polybase
+    Prepare Proxies
 
-    • Big Data Management using Ambari
+    Scanning Pen Testing
 
-    Hands-On Lab:
 
-    • Fetching HDInsight data into SQL
 
-    • Using Ambari for managing HDInsight cluster
+    4. Enumeration
 
-     
 
-    Session 7: Big Data – BI and Reporting using Power BI
+    Enumeration Concepts
 
-    • Introduction to Power BI
+    NetBIOS Enumeration
 
-    • Usual workflow of Power BI
+    SNMP Enumeration
 
-    • Power BI Ecosystem
+    LDAP Enumeration
 
-    • Getting Data into Power BI
+    NTP Enumeration
 
-    • Reports vs Dashboards
+    SMTP Enumeration
 
-    • Additional elements of Power BI Reports
+    Enumeration Countermeasures
 
-    Hands-On Lab:
+    SMB Enumeration Countermeasures
 
-    • Fetching HDInsight Data into Power BI desktop
+    Enumeration Pen Testing
 
-    • Data Modelling using Power BI desktop
 
-    • Creating reports using Power BI desktop
 
-     
+    5. System Hacking
 
-    Session 8: PowerBI.com services – Deep dive
 
-    • Power BI Dashboards
+    Information at Hand Before System Hacking Stage
 
-    • Natural Language Query
+    System Hacking: Goals
 
-    • Power BI Workspaces – Personal and Group Workspaces
+    CEH Hacking Methodology (CHM)
 
-    • Sharing using OneDrive for Business
+    CEH System Hacking Steps
 
-    Hands-On Lab:
+    Hiding Files
 
-    • Publishing reports to Powerbi.com
+    Covering Tracks
 
-    • Sharing reports using OneDrive for Business
+    Penetration Testing
 
-    End-to-End Use Case Implementation- Lab Exercise
 
-    • Use case -Healthcare Analytics using Hadoop framework through Microsoft HDInsight and Power BI
+
+    6. Malware Threats
+
+
+    Introduction to Malware
+
+    Trojan Concepts
+
+    Types of Trojans
+
+    Virus and Worms Concepts
+
+    Malware Reverse Engineering
+
+    Malware Detection
+
+    Countermeasures
+
+    Anti-Malware Software
+
+    Penetration Testing
+
+
+
+    7. Sniffing
+
+
+    Sniffing Concepts
+
+    MAC Attacks
+
+    DHCP Attacks
+
+    ARP Poisoning
+
+    Spoofing Attack
+
+    DNS Poisoning
+
+    Sniffing Tools
+
+    Sniffing Tool: Wireshark
+
+    Follow TCP Stream in Wireshark
+
+    Display Filters in Wireshark
+
+    Additional Wireshark Filters
+
+    Packet Sniffing Tool: Capsa Network Analyzer
+
+    Network Packet Analyzer
+
+    Counter measures
+
+    Sniffing Detection Techniques
+
+    Sniffing Pen Testing
+
+
+
+    8. Social Engineering
+
+
+    Social Engineering Concepts
+
+    Social Engineering Techniques
+
+    Impersonation on Social Networking Site
+
+    Identity Theft
+
+    Social Engineering Countermeasures
+
+    Penetration Testing
+
+
+
+    9. Denial of Service
+
+
+    DoS/DDoS Concepts
+
+    DoS/DDoS Attack Techniques
+
+    Botnets
+
+    DDoS Case Study
+
+    DoS/DDoS Attack Tools
+
+    Counter-measures
+
+    DoS/DDoS Protection Tools
+
+    DoS/DDoS Attack Penetration Testing
+
+
+
+    10. Session Hijacking
+
+
+    Session Hijacking Concepts
+
+    Application Level Session Hijacking
+
+    Network-level Session Hijacking
+
+    Session Hijacking Tools
+
+    Counter-measures
+
+    Session Hijacking Pen Testing
+
+
+
+    11. Hacking Web Servers
+
+
+    Webserver Concepts
+
+    Webserver Attacks
+
+    Attack Methodology
+
+    Webserver Attack Tools
+
+    Counter-measures
+
+    Patch Management
+
+    Webserver Security Tools
+
+    Webserver Pen Testing
+
+
+
+    12. Hacking Web Applications
+
+
+    Web App Concepts
+
+    Web App Threats
+
+    Web App Hacking Methodology
+
+    Web Application Hacking Tools
+
+    Countermeasures
+
+    Security Tools
+
+    Web App Pen Testing
+
+
+
+    13. SQL Injection
+
+
+    SQL Injection Concepts
+
+    Types of SQL Injection
+
+    SQL Injection Methodology
+
+    SQL Injection Tools
+
+    Evasion Techniques
+
+    Counter-measures
+
+
+
+    14. Hacking Wireless Networks
+
+
+    Wireless Concepts
+
+    Wireless Encryption
+
+    Wireless Threats
+
+    Wireless Hacking Methodology
+
+    Wireless Hacking Tools
+
+    Bluetooth Hacking
+
+    Counter-measures
+
+    Wireless Security Tools
+
+    Wi-Fi Pen Testing
+
+
+
+    15. Hacking Mobile Platforms
+
+
+    Mobile Platform Attack Vectors
+
+    Hacking Android OS
+
+    Hacking iOS
+
+    Hacking Windows Phone OS
+
+    Hacking BlackBerry
+
+    Mobile Device Management (MDM)
+
+    Mobile Security Guidelines and Tools
+
+    Mobile Pen Testing
+
+
+
+    16. Evading IDS, Firewalls and Honeypots
+
+
+    IDS, Firewall and Honeypot Concepts
+
+    IDS, Firewall and Honeypot System
+
+    Evading IDS
+
+    Evading Firewalls
+
+    IDS/Firewall Evading Tools
+
+    Detecting Honeypots
+
+    IDS/Firewall Evasion Counter-measures
+
+    Penetration Testing
+
+
+
+    17. Cloud Computing
+
+
+    Introduction to Cloud Computing
+
+    Cloud Computing Threats
+
+    Cloud Computing Attacks
+
+    Cloud Security
+
+    Cloud Security Tools
+
+    Cloud Penetration Testing
+
+
+
+    18. Cryptography
+
+
+    Market Survey 2014: The Year of Encryption
+
+    Case Study: Heartbleed
+
+    Case Study: Poodlebleed
+
+    Cryptography Concepts
+
+    Encryption Algorithms
+
+    Cryptography Tools
+
+    Public Key Infrastructure (PKI)
+
+    Email Encryption
+
+    Disk Encryption
+
+    Cryptography Attacks
+
+    Cryptanalysis Tools
 
 
 
     Class Size: Maximum 22
 
 
-    Price: $495
+    Refund Policy
 
+    1. There will be no refunds.2. If a class is not taken for any reason, rescheduled or cancelled, purchase price can be applied toward any published future class by Omni212 of equal or lesser value.
 
-    REFUND POLICY
 
-    1. There will be no refunds.
+    Disclaimer
 
-    2. If a class is not taken for any reason, purchase price can be applied toward any published future class by Omni212 of equal or lesser value.
+    This is not an EC Council Certified class. This is not being taught by an EC Council Accredited Training Center. However we help you prepare for the Certified Ethical Hacker (CEH) V9 exam. Our instructors are EC Council Certified Ethical Hackers and Instructors. In order to take the exam, these are the qualifications:
 
+    1. Either demonstrate a verifiable experience (Education + Work experience) of at least 2 years in Information security.
 
-    Our Big Data Consulting Projects Showcase
+    OR
 
-    Learn more about our Big Data Consulting projects showcase:
-
-    https://www.omni212.com/capabilities/analytics-bi-and-big-data/big-data-solutions-showcase/
-
-
-    Our Corporate Training Offering
-
-    Learn more about our Corporate Training offering:
-
-    https://www.omni212.com/services/training/
-
-
-    STUDENT REVIEWS
-
-
-    AJ, Deputy CIO, City of Phoenix - Well published labs, class notes and videotaping of all classes. (evaluation score 4.9/5.0)
-
-    Henry Figueroa, Business Analyst - Great job! I cannot sign up for your upcoming hacking course and others due to another scheduled training commitment, but will consider future schedules as they come. (evaluation score 4.95/5.0
-
-
-
-    Omni212 Prime membership
-
-    Now become an Omni212 Prime member and get $100 off every training course published by Omni212 on eventbrite
-
-    Sign up for Omni212 Prime membership: http://bit.ly/2xrLpXC
-
-    To see all currently published Omni212 courses in eventbrite, type your city name and 'Omni212' in the evenbrite search box.
-
-
-    Unlimited Training
-
-    Now you can enjoy unlimited training from Omni212. Find out more about our Unlimited training Plan:
-
-    http://bit.ly/2y3d3d2
-  url: https://www.eventbrite.com/e/york-big-data-training-hadoop-training-omni212-tickets-38715760883?aff=ebapi
-  logo: https://cdn.evbuc.com/images/36344478/59307985005/1/original.jpg?h=200&w=450&rect=0,33,266,133&s=b81649897fad52cb15d6bde234c48a07
-  starts: 2017-10-30T22:00:00.0000000
-  ends: 2017-11-16T00:00:00.0000000
-  venue: Instructor led Online | Video Conference
-- name: South York Unlimited IT Training - AI | Artificial Intelligence | Machine Learning | Data Science | IoT | Ethical Hacking | Certified Ethical Hacker | Cybersecurity | Robotics | training
-  description: >2+
-
-    Unlimited Training* 
-
-    Now you can enjoy unlimited training from Omni212. 
-
-    Look for Asterisk* on Omni212 Eventbrite courses.
-
-    Any course published by Omni212 on eventbrite with *Asterisk* on the course title can be taken individually as well as a part of the Unlimited training program.
-
-    These are the terms and conditions:
-
-
-    Unlimited training periods consist of 1, 3, 6, 9 and 12 months respectively. See appropriate ticket type for price.
-
-    You will have access to the training material, class recordings, across all of the published courses whether you attend or do not attend the Live Instructor Led Online sessions for the unlimited period purchased by you. 
-
-    You will loose all access after your unlimited training period expires unless you are already enrolled in the course(s) which began within the unlimited training period (UTP) you registered for and continue beyond the end of the UTP
-
-    All of the course material, class recordings are yours to keep. You can download.
-
-    Your unlimited training period will start from the first session of the first course that you take.
-
-    This applies only for the courses published by Omni212 on Eventbrite.
-
-    Students may enroll in a course and complete the course even if it starts on the last day of the Unlimited period.
-
-    While Omni212 strives to maximize the benefit for the students who purchase any of the unlimited training periods, this program applies only to the published courses for the purchased time period. 
-
-    Although we will strive to have all of these courses published and available for you to take, we cannot guarantee that all the courses under each unlimited period will be available and published.
-
-    Course Availability and schedule is subject to availability of the instructors, enough enrollment, no overflow.
-
-
-
-    The following courses, if avaiable, if published and if held as originally scheduled will be available for unlimited training program:
-
-
-    BRONZE - Included in Unlimited Training for 1 month 
-
-           1. Big Data, Analytics & Hadoop
-
-           2. Cloud Computing Level 100
-
-           3. Artifical Intelligence Level 100
-
-           4. Tableau 
-
-           5. Scrum Master
-
-           6. Certified Ethical Hacking 
-
-           7. Machine Learning 
-
-           8. How to Ace the Tech Interview 
-
-           9. PMP 
-
-          
-
-    SILVER - Included in Unlimited training for 3 months
-
-           1. All courses included in Unlimited training for 1 month
-
-           2. Cloud Computing Level 200
-
-           3. Data Science Level 100
-
-           4. Artifical Intelligence Level 200
-
-           5. DevOps 
-
-           6. Learn to Code from Scratch
-
-                        
-
-    GOLD - Included in Unlimited training for 6 months
-
-           1.All courses included in Unlimited training for 3 months
-
-           2. AWS (Amazon Web Services) Level 100
-
-           3. Data Structures & Algorithms 
-
-           4. Microsoft Cloud (Azure) Level 100
-
-           5. Design Thinking 
-
-           6. Microsoft Office 365
-
-          
-
-    PLATINUM - Included in Unlimited training for 9 months
-
-           1. All courses included in Unlimited training for 6 months
-
-           2. Data Science Level 200
-
-           4. Artifical Intelligence Level 200
-
-           5. AWS (Amazon Web Services) - Level 200
-
-           6. How to Ace the Tech Interview 
-
-         
-
-    DIAMOND - Included in Unlimited training for 12 months
-
-           1. All courses included in Unlimited training for 9 months
-
-            2. IoT 
-
-            3. Software Testing 
-
-            4. SDET (Automation Testing)
-
-            5. Salesforce.com 
-
-            6. Microsoft Dynamics 365 
-
-            7. SQL BI 
-
-
-
-
-    Why Unlimited Training AI, Analytics, Big Data, Cloud, Data Science, IoT, Machine Learning, Cybersecurity & More from Omni212?
-
-    1. Our Vision is to bring high quality, affordable Live Instructor led Online tech education to everyone around the world whether you are a student or an employee. 
-
-    2. Our Mission is to touch the lives of everyone who knows how to use a computer through our Global tech education program.
-
-    2. Our Instructors are highly qualified with either Ph.D. or Master's in their areas of expertise with many years of work experience in the Corporate world.
-
-    3. Employees of Microsoft; Dept. of Homeland Security; TD Ameritrade; city, county and federal employees and other organizations have taken our classes.
-
-    4. Those with US Top Security Clearance have taken our class.
-
-    5 Upon Registration and payment, immediate access to all the available course material on the cloud is immediately provided. 
-
-    6. Class recordings for all class will be made available.
-
-    7. Post class support
-
-    8. Career advancement and Job placement assistance 
-
-
-    Video Conference link
-
-    For each course will be sent separately
-
-
-    REFUND POLICY
-
-    1. There are no refunds.
-
-    2. If for any reason, students decide not to take this class, the class is rescheduled or cancelled, the payment can be applied towards any future course by Omni212. 
-
-  url: https://www.eventbrite.com/e/south-york-unlimited-it-training-ai-artificial-intelligence-machine-learning-data-science-iot-tickets-39082418566?aff=ebapi
-  logo: https://cdn.evbuc.com/images/36787570/59307985005/1/original.jpg?h=200&w=450&rect=95,0,710,355&s=dfe9ed843cb0836f0b875569f596867d
-  starts: 2017-11-01T16:00:00.0000000
-  ends: 2018-10-31T19:00:00.0000000
+    2. Take a Certified Ethical Hacker V9 training from an EC Council Certified Accredited Training Center which costs around $2,500. This price includes the CEH exam voucher.
+  url: https://www.eventbrite.com/e/south-york-certified-ethical-hacker-training-ceh-training-ceh-v9-exam-prep-bootcamp-tickets-39525660314?aff=ebapi
+  logo: https://cdn.evbuc.com/images/37310252/195507934244/1/original.jpg?h=200&w=450&rect=0,0,800,400&s=ac82a98da76de1b630af791f7af8b268
+  starts: 2017-12-02T11:00:00.0000000
+  ends: 2017-12-31T13:30:00.0000000
   venue: Instructor led Online | Video Conference
