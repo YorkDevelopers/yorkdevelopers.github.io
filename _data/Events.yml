@@ -483,32 +483,6 @@
   starts: 2017-12-02T11:00:00.0000000
   ends: 2017-12-31T13:30:00.0000000
   venue: Instructor led Online | Video Conference
-- name: November York Code Dojo - Test Driven Development
-  description: "<p>A chance to learn and practice the technique of test driven development. The evening will take the format of:</p> <p>Introductions and Pizza A very short presentation on what is TDD and the night's problem Divide up into pairs to work on the Kata (problem) Regroup to discuss solutions. Continue networking in a local pub. It would be very helpful that if you have a laptop that you bring it along with your programming language of choice already installed on it.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</p> <p>Sponsored by York St. John University.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg\" /></p> "
-  url: https://www.meetup.com/York-Code-Dojo/events/244123249/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-11-08T18:30:00.0000000
-  ends: 2017-11-08T20:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/244745542/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-11-08T07:30:00.0000000
-  ends: 2017-11-08T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/244337988/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-11-08T08:00:00.0000000
-  ends: 2017-11-08T11:00:00.0000000
-  venue: La Bottega Milanese
 - name: Umbraco Meetup (2nd Thursday)
   description: "<p>Since Umbraco UK Festival is later this week (plus Stefano and Andy are both away too) it seems sensible that we have the Meetup on the second Thursday this month.</p> <p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> "
   url: https://www.meetup.com/umbLeeds/events/244651512/
@@ -591,6 +565,29 @@
   ends: 2017-11-22T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/244745030/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-11-22T08:00:00.0000000
+  ends: 2017-11-22T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: York WUG event, 22nd November 2017 at 6.00pm
+  description: '<p><img src="https://secure.meetupstatic.com/photos/event/6/a/0/e/600_460887150.jpeg" /></p> <p><b>Windows User Group </b></p> <p><br/>We would like to invite you for another evening of tech talk and networking with fellow IT Professionals.  The evening will be hosted by MVPs Chris Rhodes and Andrew Bettany.</p> <p><b>Topics for the evening will include:</b></p> <p><br/>(1)  Is Malware hiding in your network? </p> <p><i>With guest speaker Jack Case.</i></p> <p><br/>An interactive talk about what malware and something called Ransomware is, and what potentially could be hiding in your network.</p> <p><br/>(2) Top 10 ways an SME Organization can mess up security, and how to avoid them!</p> <p><i>With Guest Speaker Graham Parkinson</i></p> <p>In this pragmatic run down based on industry insight and notes from the field we will cover the top ten proven issues that hit SME,  what caused them and how you can protect yourself</p> <p>Many issues are caused by changing technology, and not understanding the gaps, come and not repeat others mistakes.</p> <p>Most fixes  are free or low cost , so why do people not do them ? </p> <p>(3) A look at Intune (hah) the future: Intune, Mobile Access and Device Management in Office 365.</p> <p><br/><i>With Guest Speaker Joseph Morley</i></p> <p>In this session, Joseph will be providing an overview to the planning, implementation and user adoption of Intune for Remote, and Mobile Access, in Office 365.</p> <p>Using real-world examples of moving away from traditional Mobile Device Management (MDM) and Enterprise Mobility Management (EMM), we will look at how the decision was made within each environment, the benefits and drawbacks over traditional device management, ensuring security and integrity of data, and finally, user adoption and buy in.</p> <p>________________________________________________________________________________________________</p> <p>Be sure to come along with questions, as well as a desire to meet and network with fellow IT Pros. These events fill up fast and we have limited seating, so please register early to guarantee a seat.</p> <p>Event attendance is free, but there will also be a number of VIP Sponsor seats which offer extra benefits. </p> <p>Please can you book a ticket via Eventbrite as we use the information to plan catering and seating numbers for the event.  Thank you.</p> <p><a href="https://yorkwugnov2017.eventbrite.co.uk"><a href="https://yorkwugnov2017.eventbrite.co.uk" class="linkified">https://yorkwugnov2017.eventbrite.co.uk</a></a></p> <p><br/>For more information about the Windows User Group, to find out how to join us on tour, or for up-to-date details of events and how to get involved then please visit our website, or follow us on Twitter and Facebook.  </p> <p><br/><a href="https://www.facebook.com/WindowsUG">facebook.com/WindowsUG</a></p> <p><a href="https://twitter.com/WindowsUG"><a href="https://twitter.com/WindowsUG" class="linkified">https://twitter.com/WindowsUG</a></a></p> <p><br/>The Windows User Group is a community run event.</p> '
+  url: https://www.meetup.com/Windows-User-Group/events/243549669/
+  is-free: true
+  starts: 2017-11-22T18:00:00.0000000
+  ends: 2017-11-22T21:00:00.0000000
+  venue: Lakehouse, Ron Cooke Hub
+- name: agileYork - Disruptive Leadership + Yes we Kanban
+  description: '<p>Disruptive Leadership</p> <p>A talk delivered by Daniel Woolfson to illustrate how leadership can disrupt thinking, doing and perceiving. Impactful actions, words and presence can complement and accompany change in product and process. It takes a person, a team or an organisation to make change - or the best tool of the lot - influence - to allow others to choose to make that change themselves.</p> <p>About Daniel Woolfson</p> <p>Daniel is a Community Leader at YorkDevelopers (www.yorkdevelopers.org) - providing the toolbox for communities to grow for Software Professionals in the beautiful City of York. He is also Head of Development and Test at PureNet (www.purenet.co.uk) enabling software teams to deliver bespoke software solutions.</p> '
+  url: https://www.meetup.com/agileYork/events/242720613/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2017-11-22T18:30:00.0000000
+  ends: 2017-11-22T21:00:00.0000000
+  venue: York St.John University
 - name: AgileYork - to coincide with York Business Week
   description: '<p>Please RSVP at: <a href="https://www.meetup.com/agileYork/events/242720613/" class="linkified">https://www.meetup.com/agileYork/events/242720613/</a></p> '
   url: https://www.meetup.com/YorkDevelopers/events/244635107/
@@ -1197,13 +1194,6 @@
   starts: 2018-10-18T18:00:00.0000000
   ends: 2018-10-18T21:00:00.0000000
   endorsed: true
-- name: YPS  Annual Dinner 2017
-  description: <em> </em>
-  url: https://www.ypsyork.org/events/the-yorkshire-philosophical-society-annual-dinner-2017/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/08/Hilton2-200x125.jpg
-  starts: 2017-11-08T18:30:00.0000000
-  ends: 2017-11-08T20:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/hilton-hotel-3/" title="Hilton Hotel">Hilton Hotel</a>
 - name: 'William the Conqueror and the Harrying of the North 1069-70: Contexts and Perspectives'
   description: >-
     Professor David Bates, University of East Anglia<br />
