@@ -485,15 +485,6 @@
   venue: Instructor led Online | Video Conference
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/244891492/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-11-13T07:30:00.0000000
-  ends: 2017-11-13T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/244895515/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -517,6 +508,13 @@
   starts: 2017-11-15T18:30:00.0000000
   ends: 2017-11-15T20:30:00.0000000
   venue: Future Labs
+- name: 'BIBoss: Bringing Yorkshire’s Senior Business Intelligence Professionals Together'
+  description: '<p>Our next BIBoss networking event will take place on 16 November 2017. BIBoss creates a unique platform for Senior BI Professionals all over Yorkshire to debate, discuss hot topics, and learn from reputable and established speakers and network with like-minded individuals.</p> <p><b>WHAT DOES THE EVENT SCHEDULE LOOK LIKE?<br/></b>The evening kicks off with drinks at the bar and networking at 6.00pm, followed by:</p> <p>-a talk from an industry expert<br/>-lightning discussions on hot industry specific topics, chosen by you<br/>-event roundup and thank you at approximately 8.30pm<br/>-drinks and networking to finish.</p> <p><br/><b>WHO ATTENDS?<br/></b>BI Managers, Data Warehouse Managers, Heads of IT, Heads of Information, Directors of IT, and Senior BI Architects. This is an invitation-only event organised and held by Corecom Consulting.</p> <p><b>FEEDBACK FROM PREVIOUS BIBOSS EVENTS<br/></b>“It has been interesting to hear other people’s issues, what technology stacks they are on and particular pain points. It was really useful to understand the size of data warehouses that people are using – this has particularly been an eye opener for me.”</p> <p><i>Guy Nicholson, Data Services Manager at Hermes Parcelnet Ltd.</i></p> '
+  url: https://www.meetup.com/Corecom-Consultings-Award-winning-Boss-Event-Series/events/237042383/
+  is-free: true
+  starts: 2017-11-16T18:00:00.0000000
+  ends: 2017-11-16T20:30:00.0000000
+  venue: Banyan Bar Leeds
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/244895524/
