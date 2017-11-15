@@ -40,7 +40,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywpbbc/
+  url: https://www.meetup.com/YorkDevelopers/events/245100473/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-11-20T07:30:00.0000000
@@ -48,7 +48,7 @@
   venue: The Perky Peacock
   endorsed: true
 - name: HackerNest Manchester November Tech Social
-  description: "<p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/b/c/6/b/600_438828235.jpeg\" /></p> <p><a href=\"https://www.youtube.com/watch?v=9wG2TpzEm5o\">HackerNest Tech Socials </a>HackerNest Tech Socials are a fun, relaxed way to connect with your local tech community. Atmosphere: chill, friendly, unpretentious, agenda-free (no sales pitch, yo), and brimming with UltraSmart(TM) people.</p> <p>We believe that strong, supportive tech communities should exist everywhere - not just in hotspots like San Francisco and New York. Manchester is an up and coming UK tech hub and HackerNest wants to help you connect with the local tech scene! </p> <p>Follow us on <a href=\"http://srn.kr/HNtweets\">Twitter</a> and<a href=\"http://hckrn.st/1WT3Xoh\"> Instagram</a>, like us on <a href=\"http://srn.kr/HNTOfb\">Facebook</a>, hi-5 us in person. :) </p> <p>The typical Tech Social schedule:</p> <p>- 7:00pm: folks arrive, grab drinks, socialize <br/>- 8:00pm: quick intro, thank sponsors, quick announcements <br/>- 8:10pm: back to chatting with interesting new friends <br/>- 10:30pm: go home exhausted from great conversations</p> <p><b>Sponsors:</b></p> <p><a href=\"http://hackernest.com/sponsor_info/\">&lt;/a&gt;&lt;a href=\"http://hackernest.com/sponsor_info/\"&gt;Sponsors</a> make this growing movement possible, so we treasure and build deep, long-term relationships with the companies that endorse us. Please email <a href=\"mailto:[masked]\">[masked]</a> for ways to connect with the HackerNest community!</p> <p><b>About Us:</b></p> <p><i><a href=\"http://hackernest.com/\">&lt;/a&gt;&lt;a href=\"http://hackernest.com/\"&gt;</a><a href=\"http://hackernest.com/\">HackerNest</a> is an international nonprofit uniting local tech <a href=\"http://hackernest.com/cities/\">communities</a> through unpretentious <a href=\"http://hackernest.com/cities/\">Tech Socials</a>, <a href=\"http://hackernest.com/hackathons/\">hackathons</a>, <a href=\"http://hackernest.com/expo/\">Tech Expos and Job Fairs</a>. Our relaxed, down-to-earth events attract a diverse and highly technical membership. Strict 'no-scuzzbag' <a href=\"http://hackernest.com/faqs/for-attendees/\">policy</a>.</i></p> <p><i>Want to volunteer at our HackerNest Tech Socials? Visit <a href=\"http://hackernest.com/volunteer/\"><a href=\"http://hackernest.com/volunteer/\" class=\"linkified\">http://hackernest.com/volunteer/</a></a> for more information and to apply!<br/></i></p> "
+  description: '<p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/b/c/6/b/600_438828235.jpeg" /></p> <p><a href="https://www.youtube.com/watch?v=9wG2TpzEm5o">HackerNest Tech Socials </a>HackerNest Tech Socials are a fun, relaxed way to connect with your local tech community. Atmosphere: chill, friendly, unpretentious, agenda-free (no sales pitch, yo), and brimming with UltraSmart(TM) people.</p> <p>We believe that strong, supportive tech communities should exist everywhere - not just in hotspots like San Francisco and New York. Manchester is an up and coming UK tech hub and HackerNest wants to help you connect with the local tech scene! </p> <p>Follow us on <a href="http://srn.kr/HNtweets">Twitter</a> and<a href="http://hckrn.st/1WT3Xoh"> Instagram</a>, like us on <a href="http://srn.kr/HNTOfb">Facebook</a>, hi-5 us in person. :) </p> <p>The typical Tech Social schedule:</p> <p>- 7:00pm: folks arrive, grab drinks, socialize <br/>- 8:00pm: quick intro, thank sponsors, quick announcements <br/>- 8:10pm: back to chatting with interesting new friends <br/>- 10:30pm: go home exhausted from great conversations</p> <p><b>Sponsors:</b></p> <p><a href="http://hackernest.com/sponsor_info/">&lt;/a&gt;&lt;a href="http://hackernest.com/sponsor_info/"&gt;Sponsors</a> make this growing movement possible, so we treasure and build deep, long-term relationships with the companies that endorse us. Please email <a href="mailto:[masked]">[masked]</a> for ways to connect with the HackerNest community!</p> <p><b>About Us:</b></p> <p><a href="http://hackernest.com/">HackerNest</a> builds strong, supportive local tech communities around the world. We run unpretentious tech and innovation events that improve humanity and overall economic prosperity.</p> <p><br/>Check out this video to see what Tech Socials are like:</p> <p><a href="https://youtu.be/9wG2TpzEm5o" class="embedded">https://youtu.be/9wG2TpzEm5o</a></p> <p><i>Want to volunteer at our HackerNest Tech Socials? Visit <a href="http://hackernest.com/volunteer/"><a href="http://hackernest.com/volunteer/" class="linkified">http://hackernest.com/volunteer/</a></a> for more information and to apply!<br/></i></p> '
   url: https://www.meetup.com/HackerNestMAN/events/235880303/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/2/7/4/5/thumb_458410053.jpeg
@@ -95,8 +95,8 @@
   ends: 2017-11-22T21:30:00.0000000
   venue: York St.John University
   endorsed: true
-- name: 'November 2017: Cloud automation with Packer and Terraform - Jon Topper'
-  description: '<p>More details soon.</p> '
+- name: 'November 2017: Jon Topper - A Brief History of Cloud Infrastructure'
+  description: "<p><b>Nov 2017: Jon Topper - A Brief History of Cloud Infrastructure</b></p> <p>In the bad old days [before 2008], we used to spend time in cold, noisy rooms, plugging boxes into metal cages.  Today we can build infrastructure from the comfort of our desks. I'll explore how we got to this point, and introduce some modern tools for infrastructure as code.</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/6/5/6/9/600_466165961.jpeg\" /></p> <p><b>Jon Topper</b></p> <p>Jon Topper has been doing DevOps since before we called it that. His UK-based consultancy, The Scale Factory, are a team of DevOps and cloud infrastructure specialists, helping organisations of various sizes design, build, operate and scale their infrastructure. He was recently awarded “DevOps Leader of The Year” by Computing Magazine.</p> <p><br/><a href=\"https://twitter.com/jtopper\">@jtopper</a></p> <p>---</p> <p>There will be some drinks and snacks at the meetup but no pizza or similar.</p> "
   url: https://www.meetup.com/CodeMill-Digital-Skills/events/243110683/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/6/4/6/d/thumb_464545709.jpeg
@@ -613,6 +613,15 @@
   starts: 2018-05-02T18:00:00.0000000
   ends: 2018-05-02T21:00:00.0000000
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxhbkb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-05-07T06:30:00.0000000
+  ends: 2018-05-07T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxhbwb/
@@ -708,4 +717,12 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-10-18T18:00:00.0000000
   ends: 2018-10-18T21:00:00.0000000
+  endorsed: true
+- name: Agile York
+  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxpbsb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-11-14T19:00:00.0000000
+  ends: 2018-11-14T22:00:00.0000000
   endorsed: true
