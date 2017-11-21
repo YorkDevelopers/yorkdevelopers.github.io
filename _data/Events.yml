@@ -485,15 +485,6 @@
   venue: Instructor led Online | Video Conference
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/245100473/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-11-20T07:30:00.0000000
-  ends: 2017-11-20T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/245155778/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -599,7 +590,7 @@
   ends: 2017-11-30T21:30:00.0000000
   venue: Futurelabs
 - name: Java 9 is here, Is it time to Switch?
-  description: '<p><b>The JVM Thing 4.0</b></p> <p>Organised by Fruition IT our next JVM meet up of 2017 is confirmed; Java 9 is here, is it time to switch?</p> <p>Join us on Thursday 30th November to learn more about Java 9, following the release in September this will provide an overview of the new features around everything Java 9 has to offer. Plus the news about the 6 month release cycle and Java EE going open source. </p> <p>We’ll be holding 2 discussions as part of the evening:</p> <p>Java 9; Jigsaw, putting the pieces together by Samael Bate, Senior Java Developer @ Hermes </p> <p>9 things about Java 9 - James Pittendreigh @ EE , Ben Foster &amp; Neil Dunlop @ Infinity Works Consulting</p> <p>They’ll be plenty of time for questions and networking over some complimentary beer and nibbles.</p> <p>Arrival – 6.30pm</p> <p>Start – 7pm</p> <p>Finish – 8.30pm</p> <p>Drinks Afterwards </p> <p>Location – Coronet House, Queen St, Leeds, LS1 2TW</p> '
+  description: '<p><b>The JVM Thing 4.0</b></p> <p>Organised by Fruition IT our next JVM meet up of 2017 is confirmed; Java 9 is here, is it time to switch?</p> <p>Join us on Thursday 30th November to learn more about Java 9, following the release in September this will provide an overview of the new features around everything Java 9 has to offer. Plus the news about the 6 month release cycle and Java EE going open source. </p> <p>Hosted &amp; Intro by Ali Pickard, Head of Software Development @ BJSS</p> <p>We’ll be holding 2 discussions as part of the evening:</p> <p>Java 9; Jigsaw, putting the pieces together by Samael Bate, Senior Java Developer @ Hermes </p> <p>9 things about Java 9 - James Pittendreigh @ EE , Ben Foster &amp; Neil Dunlop @ Infinity Works Consulting</p> <p>They’ll be plenty of time for questions and networking over some complimentary beer and nibbles.</p> <p>Arrival – 6.30pm</p> <p>Start – 7pm</p> <p>Finish – 8.30pm</p> <p>Drinks Afterwards </p> <p>Location – BJSS, Coronet House, Queen St, Leeds, LS1 2TW</p> '
   url: https://www.meetup.com/Leeds-JVMThing/events/244997243/
   is-free: true
   starts: 2017-11-30T18:30:00.0000000
@@ -1286,3 +1277,10 @@
   starts: 2018-02-07T19:30:00.0000000
   ends: 2018-02-07T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/city-screen-basement-bar/" title="City Screen Basement Bar">City Screen Basement Bar</a>
+- name: 'YPS Tour: Gardens and Abbeys of Edinburgh and the Scottish Borders'
+  description: This study tour will be based at the 4* Macdonald Cardrona Hotel near Peebles for four days, three nights bed and breakfast, two lunches, two dinners and one evening reception, with all entry fees and tips included.
+  url: https://www.ypsyork.org/events/yps-tour-gardens-and-abbeys-of-edinburgh-and-the-scottish-borders/
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/11/Kailzie-Gardens129289707395156250_Kailzie_068-200x125.jpg
+  starts: 2018-06-24T08:00:00.0000000
+  ends: 2018-06-24T10:00:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/macdonald-cardrona-hotel/" title="Macdonald Cardrona Hotel">Macdonald Cardrona Hotel</a>
