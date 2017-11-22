@@ -49,7 +49,7 @@
   venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywpbkc/
+  url: https://www.meetup.com/YorkDevelopers/events/245276475/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-11-27T07:30:00.0000000
@@ -67,14 +67,14 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywpbmc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/245279141/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-11-29T08:00:00.0000000
   ends: 2017-11-29T11:00:00.0000000
   venue: La Bottega Milanese
 - name: 'Tech//Connect Dev Workshop: RESTful APIs'
-  description: "<p><img src=\"https://secure.meetupstatic.com/photos/event/b/a/2/6/600_465827654.jpeg\" /></p> <p>We've teamed up our client BJSS for a dev workshop involving an introduction to RESTful APIs and a practical implementation workshop including live demos and collaborative exercises.</p> <p>We'll be joined by BJSS' Senior Architect Jeff Watkins and Architect Nick Copley who will cover the basics all the way to collaborative API management.</p> <p>The workshop will suit seasoned Developers looking to refresh their knowledge as well as Developers who are looking to start their journey in RESTful APIs.</p> <p>**The event will run from 6pm in Leeds City Centre**</p> <p>**Food &amp; drinks will also be provided**</p> <p>For more details on this event please call Andrew 0113 468 6700 <br/>or email <a href=\"mailto:techconnect@amsourcetechnology.com\">techconnect@amsourcetechnology.com</a></p> "
+  description: "<p><img src=\"https://secure.meetupstatic.com/photos/event/b/a/2/6/600_465827654.jpeg\" /></p> <p>We've teamed up our client BJSS for a dev workshop involving an introduction to RESTful APIs and a practical implementation workshop including live demos and collaborative exercises.</p> <p>We'll be joined by BJSS' Senior Architect Jeff Watkins and Architect Nick Copley who will cover the basics all the way to collaborative API management.</p> <p>The workshop will suit seasoned Developers looking to refresh their knowledge as well as Developers who are looking to start their journey in RESTful APIs.</p> <p>**The event will run from 6pm in Leeds City Centre**</p> <p>**Food &amp; drinks will also be provided**</p> <p><b>**THE WORKSHOP HAS NOW REACHED MAX CAPACITY** </b></p> <p>To be added to the reserve list please contact Kelly</p> <p>kelly@amsourcetechnology.com / 0113 468 6700</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/5/7/7/0/600_466342384.jpeg\" /></p> "
   url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/244721784/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
@@ -626,6 +626,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-05-09T06:30:00.0000000
   ends: 2018-05-09T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxhbsb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-05-14T06:30:00.0000000
+  ends: 2018-05-14T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
