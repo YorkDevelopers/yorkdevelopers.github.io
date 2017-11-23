@@ -1,44 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/245155778/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-11-22T07:30:00.0000000
-  ends: 2017-11-22T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/244745030/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-11-22T08:00:00.0000000
-  ends: 2017-11-22T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: York WUG event, 22nd November 2017 at 6.00pm
-  description: '<p><img src="https://secure.meetupstatic.com/photos/event/6/a/0/e/600_460887150.jpeg" /></p> <p><b>Windows User Group </b></p> <p><br/>We would like to invite you for another evening of tech talk and networking with fellow IT Professionals.  The evening will be hosted by MVPs Chris Rhodes and Andrew Bettany.</p> <p><b>Topics for the evening will include:</b></p> <p><br/>(1)  Is Malware hiding in your network? </p> <p><i>With guest speaker Jack Case.</i></p> <p><br/>An interactive talk about what malware and something called Ransomware is, and what potentially could be hiding in your network.</p> <p><br/>(2) Top 10 ways an SME Organization can mess up security, and how to avoid them!</p> <p><i>With Guest Speaker Graham Parkinson</i></p> <p>In this pragmatic run down based on industry insight and notes from the field we will cover the top ten proven issues that hit SME,  what caused them and how you can protect yourself</p> <p>Many issues are caused by changing technology, and not understanding the gaps, come and not repeat others mistakes.</p> <p>Most fixes  are free or low cost , so why do people not do them ? </p> <p>(3) A look at Intune (hah) the future: Intune, Mobile Access and Device Management in Office 365.</p> <p><br/><i>With Guest Speaker Joseph Morley</i></p> <p>In this session, Joseph will be providing an overview to the planning, implementation and user adoption of Intune for Remote, and Mobile Access, in Office 365.</p> <p>Using real-world examples of moving away from traditional Mobile Device Management (MDM) and Enterprise Mobility Management (EMM), we will look at how the decision was made within each environment, the benefits and drawbacks over traditional device management, ensuring security and integrity of data, and finally, user adoption and buy in.</p> <p>________________________________________________________________________________________________</p> <p>Be sure to come along with questions, as well as a desire to meet and network with fellow IT Pros. These events fill up fast and we have limited seating, so please register early to guarantee a seat.</p> <p>Event attendance is free, but there will also be a number of VIP Sponsor seats which offer extra benefits. </p> <p>Please can you book a ticket via Eventbrite as we use the information to plan catering and seating numbers for the event.  Thank you.</p> <p><a href="https://yorkwugnov2017.eventbrite.co.uk"><a href="https://yorkwugnov2017.eventbrite.co.uk" class="linkified">https://yorkwugnov2017.eventbrite.co.uk</a></a></p> <p><br/>For more information about the Windows User Group, to find out how to join us on tour, or for up-to-date details of events and how to get involved then please visit our website, or follow us on Twitter and Facebook.  </p> <p><br/><a href="https://www.facebook.com/WindowsUG">facebook.com/WindowsUG</a></p> <p><a href="https://twitter.com/WindowsUG"><a href="https://twitter.com/WindowsUG" class="linkified">https://twitter.com/WindowsUG</a></a></p> <p><br/>The Windows User Group is a community run event.</p> '
-  url: https://www.meetup.com/Windows-User-Group/events/243549669/
-  is-free: true
-  starts: 2017-11-22T18:00:00.0000000
-  ends: 2017-11-22T21:00:00.0000000
-  venue: Lakehouse, Ron Cooke Hub
-- name: agileYork - Disruptive Leadership + Yes we Kanban
-  description: "<p>This month agileYork will be collaborating with York Business Week and York Business School. To host a talk on disruption and an interactive session on Kanban</p> <p>Disruptive Leadership</p> <p>A talk delivered by Daniel Woolfson to illustrate how leadership can disrupt thinking, doing and perceiving. Impactful actions, words and presence can complement and accompany change in product and process. It takes a person, a team or an organisation to make change - or the best tool of the lot - influence - to allow others to choose to make that change themselves.</p> <p>About Daniel Woolfson</p> <p>Daniel is a Community Leader at YorkDevelopers (www.yorkdevelopers.org) - providing the toolbox for communities to grow for Software Professionals in the beautiful City of York. He is also Head of Development and Test at PureNet (www.purenet.co.uk) enabling software teams to deliver bespoke software solutions.</p> <p>Yes We Kanban</p> <p>Whether you've heard of, used or your new to the ideas behind Kanban. This interactive session will let you experience the principles of flow in practice and try to launch more products than your competitors.</p> "
-  url: https://www.meetup.com/agileYork/events/242720613/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
-  starts: 2017-11-22T18:30:00.0000000
-  ends: 2017-11-22T21:00:00.0000000
-  venue: York St.John University
-- name: AgileYork - to coincide with York Business Week
-  description: '<p>Please RSVP at: <a href="https://www.meetup.com/agileYork/events/242720613/" class="linkified">https://www.meetup.com/agileYork/events/242720613/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/244635107/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-11-22T18:30:00.0000000
-  ends: 2017-11-22T21:30:00.0000000
-  venue: York St.John University
-  endorsed: true
 - name: 'November 2017: Jon Topper - A Brief History of Cloud Infrastructure'
   description: "<p><b>Nov 2017: Jon Topper - A Brief History of Cloud Infrastructure</b></p> <p>In the bad old days [before 2008], we used to spend time in cold, noisy rooms, plugging boxes into metal cages.  Today we can build infrastructure from the comfort of our desks. I'll explore how we got to this point, and introduce some modern tools for infrastructure as code.</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/6/5/6/9/600_466165961.jpeg\" /></p> <p><b>Jon Topper</b></p> <p>Jon Topper has been doing DevOps since before we called it that. His UK-based consultancy, The Scale Factory, are a team of DevOps and cloud infrastructure specialists, helping organisations of various sizes design, build, operate and scale their infrastructure. He was recently awarded “DevOps Leader of The Year” by Computing Magazine.</p> <p><br/><a href=\"https://twitter.com/jtopper\">@jtopper</a></p> <p>---</p> <p>There will be some drinks and snacks at the meetup but no pizza or similar.</p> "
   url: https://www.meetup.com/CodeMill-Digital-Skills/events/243110683/
@@ -82,7 +41,7 @@
   ends: 2017-11-29T21:00:00.0000000
   venue: Leeds City Centre
 - name: Erlang Key-Value Stores
-  description: "<p>This month we'll be hearing from Martin Summer (@masleeds (<a href=\"http://twitter.com/masleeds\" class=\"linkified\">http://twitter.com/masleeds</a>)) about key-value stores in Erlang.</p> <p>\"This will provide an overview of some of the activity around Erlang-based Key/Value stores that is going on in the area: work on the Riak K/V store (and its use at the NHS in Leeds) as well as my work on the Leveled pure-Erlang K/V store using the Log Structured Merge Tree pattern. Although this is all Erlang rather than Elixir based, I will cover some of the reasons why the beam and the Actor Model make such work suited to the eco-system.\"</p> <p>As always we'll have some time for pizza and drinks before hand with the talk starting at 6:30.</p> <p>Note: If you're interested in speaking please leave a comment or drop us a tweet @elixirnorth.</p> <p>Sky @ Leeds Dock Entrance:</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/6/0/a/d/600_463404749.jpeg\" /></p> <p>Please note the group is intended for people looking to expand their knowledge in a recruitment free zone. We welcome recruiters who want to learn but have a strict no recruitment policy.</p> "
+  description: "<p>This month we'll be hearing from Martin Sumner (@masleeds) about key-value stores in Erlang.</p> <p>\"This will provide an overview of some of the activity around Erlang-based Key/Value stores that is going on in the area: work on the Riak K/V store (and its use at the NHS in Leeds) as well as my work on the Leveled pure-Erlang K/V store using the Log Structured Merge Tree pattern. Although this is all Erlang rather than Elixir based, I will cover some of the reasons why the beam and the Actor Model make such work suited to the eco-system.\"</p> <p>As always we'll have some time for pizza and drinks before hand with the talk starting at 6:30.</p> <p>Note: If you're interested in speaking please leave a comment or drop us a tweet @elixirnorth.</p> <p>Sky @ Leeds Dock Entrance: <img src=\"https://secure.meetupstatic.com/photos/event/6/0/a/d/600_463404749.jpeg\" /></p> <p>Please note the group is intended for people looking to expand their knowledge in a recruitment free zone. We welcome recruiters who want to learn but have a strict no recruitment policy.</p> "
   url: https://www.meetup.com/Elixir-North/events/245100234/
   is-free: true
   starts: 2017-11-29T18:15:00.0000000
@@ -111,6 +70,13 @@
   starts: 2017-11-30T18:30:00.0000000
   ends: 2017-11-30T21:30:00.0000000
   venue: BJSS Limited
+- name: Informal social to get IoT Harrogate up and running.
+  description: "<p>For our first meeting, we'd just like to gather the IoT enthusiasts in Harrogate for an informal chat on what you'd like us to do with the community.</p> <p>We'll be in the pub, so hopefully a few beets and a bag of crisps can get the conversation flowing as we build up an IoT community here in the spa town of Harrogate.</p> "
+  url: https://www.meetup.com/IoT-Harrogate/events/244652043/
+  is-free: true
+  starts: 2017-11-30T19:00:00.0000000
+  ends: 2017-11-30T22:00:00.0000000
+  venue: North Bar
 - name: Leeds Ruby Thing meetup
   description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
   url: https://www.meetup.com/LeedsRubyThing/events/245127475/
@@ -135,6 +101,31 @@
   starts: 2017-12-06T07:30:00.0000000
   ends: 2017-12-06T10:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywqbjb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-12-06T08:00:00.0000000
+  ends: 2017-12-06T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: TBD
+  description: "<p>December's session to be announced nearer the time.</p> <p>Check out the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for info.</p> "
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/244862033/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2017-12-06T18:00:00.0000000
+  ends: 2017-12-06T21:00:00.0000000
+  venue: Callcredit Information Group Limited
+- name: December York Code Dojo
+  description: '<p>It would be very helpful that if you have a laptop that you bring it along with your programming language of choice already installed on it.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/245303883/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-12-13T18:30:00.0000000
+  ends: 2017-12-13T20:30:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
