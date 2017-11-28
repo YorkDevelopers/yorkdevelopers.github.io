@@ -485,15 +485,6 @@
   venue: Instructor led Online | Video Conference
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/245276475/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-11-27T07:30:00.0000000
-  ends: 2017-11-27T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/245332534/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -588,6 +579,14 @@
   starts: 2017-12-06T18:00:00.0000000
   ends: 2017-12-06T21:00:00.0000000
   venue: Callcredit Information Group Limited
+- name: Lightning Talks & Thinking Functionally in C#
+  description: "<p>This will be our 3rd donetYork meetup, and we're going to be running a few lightning talks and then a talk on Thinking Functionally!</p> <p>- MongoDB - Kevin Smith (@kev_bite)<br/>- Custom Visual Studio Analysers - David Betteridge (@da_betteridge)<br/>- Using .NET in PowerShell - Chris Gardner (@halbaradkenafin)</p> <p><br/>- Thinking Functionally - John Stovin (@johnstovin)</p> <p>The determined programmer can write FORTRAN programs in any language - Ed Post</p> <p>To program effectively in a functional language, you need to discard many of the thought processes and habits that you have developed for coding in ‘curly bracket’ languages, and understand a new set of idioms and ways to think about code.</p> <p>In this session, John will talk about some of those fundamental idioms, explain why they exist and how they interact to provide a very different framework for thinking about your code. Even if you never write any F#, these ways of thinking can be used to make your C# code more efficient and more robust.</p> <p>He will also discuss some C# libraries that you can use to apply functional principles to your existing C# code.</p> "
+  url: https://www.meetup.com/dotnetYork/events/245111706/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
+  starts: 2017-12-07T18:30:00.0000000
+  ends: 2017-12-07T21:00:00.0000000
+  venue: The Cross Keys
 - name: Umbraco Meetup
   description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/e/6/b/1/event_466199057.jpeg\" /></p> <p>We have been sponsored by Jetbrains that will kindly provide one coupon per month, to redeem for one of their products 100% free! Isn't that great? Just show your face by 7 PM to participate!</p> "
   url: https://www.meetup.com/umbLeeds/events/245154612/
@@ -604,23 +603,6 @@
   starts: 2017-12-07T18:30:00.0000000
   ends: 2017-12-07T21:30:00.0000000
   venue: ODI Leeds Node
-- name: Lightning Talks
-  description: "<p>This will be our 3rd donetYork meetup, and we're going to be running lightning talks!</p> <p>If you're intrested in speaking please get in touch, we're trying to lineup around 5 people which can be around a problem, project, framework, library or tooling.</p> <p>Our lineup so far:<br/>- MongoDB - Kevin Smith (@kev_bite)<br/>- Custom Visual Studio Analysers - David Betteridge (@da_betteridge)<br/>- Using .NET in PowerShell - Chris Gardner (@halbaradkenafin)</p> "
-  url: https://www.meetup.com/dotnetYork/events/245111706/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2017-12-07T18:30:00.0000000
-  ends: 2017-12-07T21:00:00.0000000
-  venue: The Cross Keys
-- name: December York Code Dojo
-  description: '<p>It would be very helpful that if you have a laptop that you bring it along with your programming language of choice already installed on it.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/245303883/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2017-12-13T18:30:00.0000000
-  ends: 2017-12-13T20:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmywqbpb/
@@ -629,6 +611,15 @@
   starts: 2017-12-11T07:30:00.0000000
   ends: 2017-12-11T10:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: December York Code Dojo
+  description: '<p>It would be very helpful that if you have a laptop that you bring it along with your programming language of choice already installed on it.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/245303883/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2017-12-13T18:30:00.0000000
+  ends: 2017-12-13T20:30:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
