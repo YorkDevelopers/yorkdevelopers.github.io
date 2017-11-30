@@ -483,46 +483,6 @@
   starts: 2017-12-02T11:00:00.0000000
   ends: 2017-12-31T13:30:00.0000000
   venue: Instructor led Online | Video Conference
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/245332534/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-11-29T07:30:00.0000000
-  ends: 2017-11-29T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/245279141/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-11-29T08:00:00.0000000
-  ends: 2017-11-29T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: 'Tech//Connect Dev Workshop: RESTful APIs'
-  description: "<p><img src=\"https://secure.meetupstatic.com/photos/event/b/a/2/6/600_465827654.jpeg\" /></p> <p>We've teamed up our client BJSS for a dev workshop involving an introduction to RESTful APIs and a practical implementation workshop including live demos and collaborative exercises.</p> <p>We'll be joined by BJSS' Senior Architect Jeff Watkins and Architect Nick Copley who will cover the basics all the way to collaborative API management.</p> <p>The workshop will suit seasoned Developers looking to refresh their knowledge as well as Developers who are looking to start their journey in RESTful APIs.</p> <p>**The event will run from 6pm in Leeds City Centre**</p> <p>**Food &amp; drinks will also be provided**</p> <p><b>**THE WORKSHOP HAS NOW REACHED MAX CAPACITY** </b></p> <p>To be added to the reserve list please contact Kelly</p> <p>kelly@amsourcetechnology.com / 0113 468 6700</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/5/7/7/0/600_466342384.jpeg\" /></p> "
-  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/244721784/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
-  starts: 2017-11-29T18:00:00.0000000
-  ends: 2017-11-29T21:00:00.0000000
-  venue: Leeds City Centre
-- name: Erlang Key-Value Stores
-  description: "<p>This month we'll be hearing from Martin Sumner (@masleeds) about key-value stores in Erlang.</p> <p>\"This will provide an overview of some of the activity around Erlang-based Key/Value stores that is going on in the area: work on the Riak K/V store (and its use at the NHS in Leeds) as well as my work on the Leveled pure-Erlang K/V store using the Log Structured Merge Tree pattern. Although this is all Erlang rather than Elixir based, I will cover some of the reasons why the beam and the Actor Model make such work suited to the eco-system.\"</p> <p>As always we'll have some time for pizza and drinks before hand with the talk starting at 6:30.</p> <p>Note: If you're interested in speaking please leave a comment or drop us a tweet @elixirnorth.</p> <p>Sky @ Leeds Dock Entrance: <img src=\"https://secure.meetupstatic.com/photos/event/6/0/a/d/600_463404749.jpeg\" /></p> <p>Please note the group is intended for people looking to expand their knowledge in a recruitment free zone. We welcome recruiters who want to learn but have a strict no recruitment policy.</p> "
-  url: https://www.meetup.com/Elixir-North/events/245100234/
-  is-free: true
-  starts: 2017-11-29T18:15:00.0000000
-  ends: 2017-11-29T20:00:00.0000000
-  venue: Sky 2
-- name: November - Andrew Macpherson & Jusef Belkasemi
-  description: "<p>Join us for a couple of great talks from Andrew Macpherson and Jusef Belkasemi, as well as a chance to win a code for a year subscription to Frontend Masters!</p> <p><b>Agenda:</b></p> <p>6:30 - 6:45: People start arriving</p> <p>6:45 - 6:50: Introductions</p> <p>6:50 - 7:20: Andrew Macpherson - Drupal APIs for Javascript Developers</p> <p>7:20 - 7:35: Break with food and chat</p> <p>7:35 - 8:20: Jusef Belkasemi - Making \"Progress\" with Progressive Web Apps and Ionic 3</p> <p>8:20 - 9:30: Social &amp; point that people can leave</p> <p><b>Talks: </b></p> <p><b>Andrew Macpherson - Drupal APIs for Javascript Developers</b></p> <p><br/><i>\"Drupal 8 is now an attractive framework for use as a decoupled (a.k.a. headless) content management system.  This talk will provide an introduction to Drupal's web service features, for Javascript developers who need to communicate with a Drupal system.</i></p> <p><i>We'll take a look at:</i></p> <p><i>• Scenarios where you'll want a powerful content management system (versus writing a lightweight REST service, or syncing a local PouchDB).</i></p> <p><i>• Drupal's Entity model:  fields, references, and validation.</i></p> <p><i>• How Drupal data can be provided as generic HAL-JSON, JSONAPI, and GraphQL</i></p> <p><i>• Some Drupal-specific Javascript SDK-type libraries.</i></p> <p><i>• Road map of Drupal's API-first initiative.\"</i></p> <p><b>Jusef Belkasemi - Making \"Progress\" with Progressive Web Apps and Ionic 3</b></p> <p><i>\"In this talk I will aim at giving an introduction into the world of Progressive Web Apps (PWAs). I will cover what PWAs are, why should we care about them and why I have been excited about this approach to building web apps. I will then use the awesome Ionic 3 framework to show an example of how to build a progressive web app.\"</i></p> <p><b>The door to get in is shown here:</b></p> <p><a href=\"https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ\" class=\"linkified\">https://lh3.googleusercontent.com/w3nc7HPVD3srV3MMi1iQV-Zj2Ojnb5XvdX7U5g6f_7Wl1xFGNE_gbzoiAwxZdOjLieTEqb18YHaAwWUra4Yx0RjA1QFN4QqFbnE4G5EyzBvXCAEMPuUA9tBA1kw5bqucz3_FHfhJ</a></p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.</p> <p><a href=\"http://leedsjs.com/code-of-conduct/\">Code of conduct</a></p> "
-  url: https://www.meetup.com/LeedsJS/events/244746367/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2017-11-29T18:30:00.0000000
-  ends: 2017-11-29T21:30:00.0000000
-  venue: Future Labs
 - name: Christmas Panel Show 2017
   description: "<p>Our Christmas panel show is a less formal, more relaxed affair. We'll have lots of goodies to give away. Everyone who attends will get a 2017 Leeds Sharp Hoodie. We'll be doing a geeky quiz using our own Leeds Sharp chatbot via Twitter. There will be plenty of mulled wine, soft drinks, cake, and mince pies</p> <p>Topics will include the future of software development, machine learning, .NET Core, HoloLens, VR, design patterns, conferences, best talk of 2017 vote and many more rants. </p> "
   url: https://www.meetup.com/Leeds-Sharp/events/244570682/
@@ -538,13 +498,6 @@
   starts: 2017-11-30T18:30:00.0000000
   ends: 2017-11-30T21:30:00.0000000
   venue: BJSS Limited
-- name: Informal social to get IoT Harrogate up and running.
-  description: "<p>For our first meeting, we'd just like to gather the IoT enthusiasts in Harrogate for an informal chat on what you'd like us to do with the community.</p> <p>We'll be in the pub, so hopefully a few beets and a bag of crisps can get the conversation flowing as we build up an IoT community here in the spa town of Harrogate.</p> "
-  url: https://www.meetup.com/IoT-Harrogate/events/244652043/
-  is-free: true
-  starts: 2017-11-30T19:00:00.0000000
-  ends: 2017-11-30T22:00:00.0000000
-  venue: North Bar
 - name: Leeds Ruby Thing meetup
   description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
   url: https://www.meetup.com/LeedsRubyThing/events/245127475/
@@ -637,6 +590,14 @@
   ends: 2017-12-13T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywqbrb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-12-13T08:00:00.0000000
+  ends: 2017-12-13T11:00:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/245474488/
