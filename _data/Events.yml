@@ -1,3 +1,11 @@
+- name: 'The Central PA RUG Meeting: Streamline Project Management with Bluebeam'
+  description: "Collaboration is the new buzz word as construction projects become increasing complex in dealing with numerous parties through conception, design, and building. This month’s meeting will provide an overview of the software tool Bluebeam and how it facilitates working with all the different entities within a construction project.\nFrom the design perspective, you will learn how you can host virtual meetings that enable remote project partners from across time zones to collaborate online – in real time. Replicate a conference room setting, but instead of face-to-face, do it in a digital environment.\nYou will also learn how you can export your 3D design from Revit to create a 3D PDF. See how you can mark-up the PDF to easily communicate with others in the project chain who don’t have access to Revit.\nMoving from design to construction, learn how the presenter’s company leverages Bluebeam for real-time, in-the-field communication. Construction teams have immediate access to the most up-to-date plans. RFIs are answered more quickly reducing costly down time.\nRegister by December 11th to attend in person or tune-in virtually.\n       Doug Galloway Erdman Anthony Senior Mechanical Designer   \n"
+  url: https://www.eventbrite.com/e/the-central-pa-rug-meeting-streamline-project-management-with-bluebeam-tickets-40908061112?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38268299/176770047813/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=dfce63e48aae0d6d9d084addadd141fb
+  starts: 2017-12-12T17:15:00.0000000
+  ends: 2017-12-12T18:45:00.0000000
+  venue: Kinsley Education Center
 - name: South York Certified Ethical Hacker Training | CEH Training | CEH V9 exam Prep Bootcamp
   description: >2
 
@@ -483,28 +491,6 @@
   starts: 2017-12-02T11:00:00.0000000
   ends: 2017-12-31T13:30:00.0000000
   venue: Instructor led Online | Video Conference
-- name: Christmas Panel Show 2017
-  description: "<p>Our Christmas panel show is a less formal, more relaxed affair. We'll have lots of goodies to give away. Everyone who attends will get a 2017 Leeds Sharp Hoodie. We'll be doing a geeky quiz using our own Leeds Sharp chatbot via Twitter. There will be plenty of mulled wine, soft drinks, cake, and mince pies</p> <p>Topics will include the future of software development, machine learning, .NET Core, HoloLens, VR, design patterns, conferences, best talk of 2017 vote and many more rants. </p> "
-  url: https://www.meetup.com/Leeds-Sharp/events/244570682/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2017-11-30T18:30:00.0000000
-  ends: 2017-11-30T21:30:00.0000000
-  venue: Futurelabs
-- name: Java 9 is here, Is it time to Switch?
-  description: '<p><b>The JVM Thing 4.0</b></p> <p>Organised by Fruition IT our next JVM meet up of 2017 is confirmed; Java 9 is here, is it time to switch?</p> <p>Join us on Thursday 30th November to learn more about Java 9, following the release in September this will provide an overview of the new features around everything Java 9 has to offer. Plus the news about the 6 month release cycle and Java EE going open source. </p> <p>Hosted &amp; Intro by Ali Pickard, Head of Software Development @ BJSS</p> <p>We’ll be holding 2 discussions as part of the evening:</p> <p>Java 9; Jigsaw, putting the pieces together by Samael Bate, Senior Java Developer @ Hermes </p> <p>9 things about Java 9 - James Pittendreigh @ EE , Ben Foster &amp; Neil Dunlop @ Infinity Works Consulting</p> <p>They’ll be plenty of time for questions and networking over some complimentary beer and nibbles.</p> <p>Arrival – 6.30pm</p> <p>Start – 7pm</p> <p>Finish – 8.30pm</p> <p>Drinks Afterwards </p> <p>Location – BJSS, Coronet House, Queen St, Leeds, LS1 2TW</p> '
-  url: https://www.meetup.com/Leeds-JVMThing/events/244997243/
-  is-free: true
-  starts: 2017-11-30T18:30:00.0000000
-  ends: 2017-11-30T21:30:00.0000000
-  venue: BJSS Limited
-- name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
-  url: https://www.meetup.com/LeedsRubyThing/events/245127475/
-  is-free: true
-  starts: 2017-11-30T19:30:00.0000000
-  ends: 2017-11-30T23:30:00.0000000
-  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/245461288/
@@ -514,6 +500,14 @@
   ends: 2017-12-04T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Christmas Coding
+  description: "<p>To help you get ready for the festive season (assuming you're not sick of it already), we're going to have a go at some vaguely Christmassy programming problems from <a href=\"http://adventofcode.com/\">Advent of Code</a>.</p> <p>Check out the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for info.</p> "
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/244862033/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2017-12-06T18:00:00.0000000
+  ends: 2017-12-06T21:00:00.0000000
+  venue: Callcredit Information Group Limited
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/245474461/
@@ -525,20 +519,12 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywqbjb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/245524123/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-12-06T08:00:00.0000000
   ends: 2017-12-06T11:00:00.0000000
   venue: La Bottega Milanese
-- name: Christmas Coding
-  description: "<p>To help you get ready for the festive season (assuming you're not sick of it already), we're going to have a go at some vaguely Christmassy programming problems from <a href=\"http://adventofcode.com/\">Advent of Code</a>.</p> <p>Check out the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for info.</p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/244862033/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2017-12-06T18:00:00.0000000
-  ends: 2017-12-06T21:00:00.0000000
-  venue: Callcredit Information Group Limited
 - name: Lightning Talks & Thinking Functionally in C#
   description: "<p>This will be our 3rd donetYork meetup, and we're going to be running a few lightning talks and then a talk on Thinking Functionally!</p> <p>- MongoDB - Kevin Smith (@kev_bite)<br/>- Custom Visual Studio Analysers - David Betteridge (@da_betteridge)<br/>- Using .NET in PowerShell - Chris Gardner (@halbaradkenafin)</p> <p><br/>- Thinking Functionally - John Stovin (@johnstovin)</p> <p>The determined programmer can write FORTRAN programs in any language - Ed Post</p> <p>To program effectively in a functional language, you need to discard many of the thought processes and habits that you have developed for coding in ‘curly bracket’ languages, and understand a new set of idioms and ways to think about code.</p> <p>In this session, John will talk about some of those fundamental idioms, explain why they exist and how they interact to provide a very different framework for thinking about your code. Even if you never write any F#, these ways of thinking can be used to make your C# code more efficient and more robust.</p> <p>He will also discuss some C# libraries that you can use to apply functional principles to your existing C# code.</p> "
   url: https://www.meetup.com/dotnetYork/events/245111706/
@@ -559,7 +545,7 @@
   description: '<p>Details soon</p> '
   url: https://www.meetup.com/CodeMill-Digital-Skills/events/243110732/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/4/6/d/thumb_464545709.jpeg
+  logo: https://secure.meetupstatic.com/photos/event/8/3/1/5/thumb_466533557.jpeg
   starts: 2017-12-07T18:30:00.0000000
   ends: 2017-12-07T21:30:00.0000000
   venue: ODI Leeds Node
@@ -572,6 +558,14 @@
   ends: 2017-12-11T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Quality vs Features - Note that this meetup will be rearranged for the New Year
+  description: '<p><b>Note that this meetup will not be happening in December- a new date is being organised.</b></p> <p><b><br/></b></p> <p><b><br/></b></p> <p><b>About the Session</b></p> <p>So the product is now live and we’ve got users, can we hurry up and deliver a new feature already? Yes we can, but… there’s this bit over there that we’re worried about…</p> <p>As a team, how do you tell a compelling story around the quality of a product, what about taking it a step further and getting the business to prioritise quality alongside new features? It can sometimes be a hard sell when there are differing opinions on what adds value. Quality views involves the whole team in creating a picture of the product, making it really easy to identify the parts the business should care about. Natalie will talk through her experience of using the tool and how it can also benefit any team not involved in hands-on development. </p> <p><b>About Natalie Lovett</b></p> <p><br/>Natalie is a delivery manager with experience working in public sector services and for private sector clients. She’s enthusiastic about coaching teams, delivering products and building a great learning culture within a company. Always keen to try new things, Natalie is currently looking for the motivation to enter a triathlon! Follow her on LinkedIn.</p> <p><br/><b>Practical bits</b></p> <p>• Doors open at 6 and the session starts at 6:30 </p> <p>• Note that this is a different venue than recent meetups - we are now back in thw White Cloth Gallery where we were at the start of the year.</p> <p><br/>• Go to the room at the back of the building.  </p> <p>------------</p> <p>Agile in Leeds supports<a href="http://diversitycharter.org/"> diversitycharter.org</a></p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/d/3/2/600_449916146.jpeg" /></p> '
+  url: https://www.meetup.com/Agile-in-Leeds/events/243522670/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
+  starts: 2017-12-11T18:00:00.0000000
+  ends: 2017-12-11T21:00:00.0000000
+  venue: 'The White Cloth Gallery '
 - name: December York Code Dojo
   description: '<p>It would be very helpful that if you have a laptop that you bring it along with your programming language of choice already installed on it.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</p> <p>Sponsored by York St. John University.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/245303883/
@@ -1097,6 +1091,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-05-21T06:30:00.0000000
   ends: 2018-05-21T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxhbfc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-05-23T06:30:00.0000000
+  ends: 2018-05-23T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Agile York
