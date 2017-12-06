@@ -39,8 +39,8 @@
   starts: 2017-12-07T17:30:00.0000000
   ends: 2017-12-07T20:30:00.0000000
   venue: The Adelphi
-- name: 'December 2017: Containers with legacy apps - Alexandra Carter'
-  description: '<p>Alex Carter - Containerisation of a Legacy Software Solution</p> <p>This is the story of how we took a legacy solution and pushed it into containers on Windows in just three days. After one further day, it was fully working! This was also a great chance to work with Microsoft at the cutting edge of their work on containerisation, VSTS and Azure. Case study: <a href="https://microsoft.github.io/techcasestudies/devops/2017/06/16/Callcredit_DevOps.html" class="linkified">https://microsoft.github.io/techcasestudies/devops/2017/06/16/Callcredit_DevOps.html</a></p> <p>@smileandeliver (<a href="https://twitter.com/smileandeliver" class="linkified">https://twitter.com/smileandeliver</a>)</p> '
+- name: 'December 2017: Alex Carter - Containerisation Hack of a Legacy Software Solution'
+  description: '<p>Alexandra Carter - Callcredit, Numero and Microsoft: Containerisation Hack of a Legacy Software Solution</p> <p>This is the story of how we took a legacy solution and pushed it into containers on windows in just three days. This was also a great chance to work with Microsoft at the cutting edge of their work on containerisation, VSTS and Azure. Moving on from our Hackathon, we have continued adding new components, experimenting with orchestration and showcasing our work. I’ll talk you through the prep work, the 3 day hack and the subsequent work; what it means for the product roadmap, the experimentation we have done and how stakeholders are responding. Finally, we’ll look ahead to next steps.</p> <p>Case study: <a href="https://microsoft.github.io/techcasestudies/devops/2017/06/16/Callcredit_DevOps.html" class="linkified">https://microsoft.github.io/techcasestudies/devops/2017/06/16/Callcredit_DevOps.html</a></p> <p><br/>Alex Carter</p> <p>"I have worked in IT, Marketing, Software Support and Software Delivery before moving into my current System Build (DevOps) role within Callcredit. I live and breathe DevOps and am currently focussing on anything around containerisation in Windows. A day without Metal and motor racing is a dull one."</p> <p>@smileandeliver (<a href="https://twitter.com/smileandeliver" class="linkified">https://twitter.com/smileandeliver</a>)</p> '
   url: https://www.meetup.com/CodeMill-Digital-Skills/events/243110732/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/8/3/1/5/thumb_466533557.jpeg
@@ -590,6 +590,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-05-23T06:30:00.0000000
   ends: 2018-05-23T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxhblc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-05-28T06:30:00.0000000
+  ends: 2018-05-28T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Agile York
