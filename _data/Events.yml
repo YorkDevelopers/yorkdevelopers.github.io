@@ -6,31 +6,6 @@
   starts: 2017-12-12T17:15:00.0000000
   ends: 2017-12-12T18:45:00.0000000
   venue: Kinsley Education Center
-- name: Christmas Coding
-  description: "<p>To help you get ready for the festive season (assuming you're not sick of it already), we're going to have a go at some vaguely Christmassy programming problems from <a href=\"http://adventofcode.com/\">Advent of Code</a>.</p> <p>Check out the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for info.</p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/244862033/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2017-12-06T18:00:00.0000000
-  ends: 2017-12-06T21:00:00.0000000
-  venue: Callcredit Information Group Limited
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/245474461/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-12-06T07:30:00.0000000
-  ends: 2017-12-06T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/245524123/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2017-12-06T08:00:00.0000000
-  ends: 2017-12-06T11:00:00.0000000
-  venue: La Bottega Milanese
 - name: Lightning Talks & Thinking Functionally in C#
   description: "<p>This will be our 3rd donetYork meetup, and we're going to be running a few lightning talks and then a talk on Thinking Functionally!</p> <p>- MongoDB - Kevin Smith (@kev_bite)<br/>- Custom Visual Studio Analysers - David Betteridge (@da_betteridge)<br/>- Using .NET in PowerShell - Chris Gardner (@halbaradkenafin)</p> <p><br/>- Thinking Functionally - John Stovin (@johnstovin)</p> <p>The determined programmer can write FORTRAN programs in any language - Ed Post</p> <p>To program effectively in a functional language, you need to discard many of the thought processes and habits that you have developed for coding in ‘curly bracket’ languages, and understand a new set of idioms and ways to think about code.</p> <p>In this session, John will talk about some of those fundamental idioms, explain why they exist and how they interact to provide a very different framework for thinking about your code. Even if you never write any F#, these ways of thinking can be used to make your C# code more efficient and more robust.</p> <p>He will also discuss some C# libraries that you can use to apply functional principles to your existing C# code.</p> "
   url: https://www.meetup.com/dotnetYork/events/245111706/
@@ -108,6 +83,14 @@
   ends: 2017-12-20T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywqbbc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2017-12-20T08:00:00.0000000
+  ends: 2017-12-20T11:00:00.0000000
+  venue: La Bottega Milanese
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmywqbcc/
@@ -713,13 +696,6 @@
   starts: 2018-11-15T19:00:00.0000000
   ends: 2018-11-15T22:00:00.0000000
   endorsed: true
-- name: 'Reconnecting with our Rivers: Community-led Natural Flood Management on Tang Hall and Osbaldwick Becks'
-  description: '&#8220;Reconnecting with our Rivers&#8221; with Jonathan Dent, Nature Reserve Manager, St Nick&#8217;s'
-  url: https://www.ypsyork.org/events/reconnecting-with-our-rivers-community-led-natural-flood-management-on-tang-hall-and-osbaldwick-becks/
-  logo: https://www.ypsyork.org/wp-content/uploads/2017/09/THBeck_byLewisOuting_Aug2016_web-200x125.jpg
-  starts: 2017-12-06T19:30:00.0000000
-  ends: 2017-12-06T21:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/city-screen-basement-bar-4/" title="City Screen Basement Bar">City Screen Basement Bar</a>
 - name: Can Wine Prevent Dementia?
   description: >-
     Can Wine Prevent Dementia?<br />
@@ -751,6 +727,30 @@
   starts: 2018-02-07T19:30:00.0000000
   ends: 2018-02-07T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/city-screen-basement-bar/" title="City Screen Basement Bar">City Screen Basement Bar</a>
+- name: 'The Biophysics Design Project: a collaborative arts-science approach'
+  description: Dr Lorna Dougan, Department of Physics, University of Leeds
+  url: https://www.ypsyork.org/events/the-biophysics-design-project-a-collaborative-arts-science-approach/
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/12/Leeds-science-art-200x125.jpg
+  starts: 2018-02-13T19:30:00.0000000
+  ends: 2018-02-13T21:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
+- name: '&#8220;Transcranial Magnetic Stimulation &#8211;  reaching the parts other stimulators cannot reach&#8221;'
+  description: >-
+    &#8220;Transcranial Magnetic Stimulation &#8211; reaching the parts other stimulators cannot reach&#8221;<br />
+
+    Professor Anthony Barker, Medical School, University of Sheffield
+  url: https://www.ypsyork.org/events/transcranial-magnetic-stimulation-reaching-the-parts-other-stimulators-cannot-reach/
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/12/atbTMSmotorcortexE-fields--200x125.jpg
+  starts: 2018-02-27T19:30:00.0000000
+  ends: 2018-02-27T21:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
+- name: '“Discovering Dinosaurs in Britain: the original Dinomania!”'
+  description: “Discovering Dinosaurs in Britain:The original Dinomania!” with Dean Lomax, Palaeontologist
+  url: https://www.ypsyork.org/events/discovering-dinosaurs-in-britain-the-original-dinomania/
+  logo: https://www.ypsyork.org/wp-content/uploads/2017/12/Lomax-ichthyosaur-200x125.jpg
+  starts: 2018-03-13T19:30:00.0000000
+  ends: 2018-03-13T21:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: 'YPS Tour: Gardens and Abbeys of Edinburgh and the Scottish Borders'
   description: This study tour will be based at the 4* Macdonald Cardrona Hotel near Peebles for four days, three nights bed and breakfast, two lunches, two dinners and one evening reception, with all entry fees and tips included.
   url: https://www.ypsyork.org/events/yps-tour-gardens-and-abbeys-of-edinburgh-and-the-scottish-borders/
