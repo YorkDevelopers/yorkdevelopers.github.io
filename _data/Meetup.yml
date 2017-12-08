@@ -1,27 +1,11 @@
-- name: Lightning Talks & Thinking Functionally in C#
-  description: "<p>This will be our 3rd donetYork meetup, and we're going to be running a few lightning talks and then a talk on Thinking Functionally!</p> <p>- MongoDB - Kevin Smith (@kev_bite)<br/>- Custom Visual Studio Analysers - David Betteridge (@da_betteridge)<br/>- Using .NET in PowerShell - Chris Gardner (@halbaradkenafin)</p> <p><br/>- Thinking Functionally - John Stovin (@johnstovin)</p> <p>The determined programmer can write FORTRAN programs in any language - Ed Post</p> <p>To program effectively in a functional language, you need to discard many of the thought processes and habits that you have developed for coding in ‘curly bracket’ languages, and understand a new set of idioms and ways to think about code.</p> <p>In this session, John will talk about some of those fundamental idioms, explain why they exist and how they interact to provide a very different framework for thinking about your code. Even if you never write any F#, these ways of thinking can be used to make your C# code more efficient and more robust.</p> <p>He will also discuss some C# libraries that you can use to apply functional principles to your existing C# code.</p> "
-  url: https://www.meetup.com/dotnetYork/events/245111706/
+- name: 'Introduction to crochet: fingerless gloves'
+  description: '<p><img src="https://secure.meetupstatic.com/photos/event/7/b/3/9/600_466411545.jpeg" /></p> <p>Learn crochet basics in a hands-on session hosted by the Leeds Hackspace and leave with a pair of<br/>fingerless gloves to keep your hands a bit warmer this winter.<br/>The session will go through choosing the right equipment, how to hold a crochet hook and how to<br/>do simple crochet stitches. These skills will then be used to create a pair of fingerless gloves made to<br/>your hand size. Those who attend will also receive a cheat sheet of common crochet abbreviations<br/>to take home with them.</p> <p>What should I bring?<br/>Just yourselves, Leeds Hackspace will provide the crochet hook, wool and scissors.</p> <p>How much will it cost?<br/>This workshop is £5 for non-members, or donation-based for members.</p> <p>This workshop is for beginners and novices.<br/>This workshop is restricted to 18+ unless agreed with the organiser on a case by case basis.</p> '
+  url: https://www.meetup.com/Leeds-Hackspace/events/245386523/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2017-12-07T18:30:00.0000000
-  ends: 2017-12-07T21:00:00.0000000
-  venue: The Cross Keys
-- name: Umbraco Meetup
-  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/e/6/b/1/event_466199057.jpeg\" /></p> <p>We have been sponsored by Jetbrains that will kindly provide one coupon per month, to redeem for one of their products 100% free! Isn't that great? Just show your face by 7 PM to participate!</p> "
-  url: https://www.meetup.com/umbLeeds/events/245154612/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
-  starts: 2017-12-07T17:30:00.0000000
-  ends: 2017-12-07T20:30:00.0000000
-  venue: The Adelphi
-- name: 'December 2017: Alex Carter - Containerisation Hack of a Legacy Software Solution'
-  description: '<p>Alexandra Carter - Callcredit, Numero and Microsoft: Containerisation Hack of a Legacy Software Solution</p> <p>This is the story of how we took a legacy solution and pushed it into containers on windows in just three days. This was also a great chance to work with Microsoft at the cutting edge of their work on containerisation, VSTS and Azure. Moving on from our Hackathon, we have continued adding new components, experimenting with orchestration and showcasing our work. I’ll talk you through the prep work, the 3 day hack and the subsequent work; what it means for the product roadmap, the experimentation we have done and how stakeholders are responding. Finally, we’ll look ahead to next steps.</p> <p>Case study: <a href="https://microsoft.github.io/techcasestudies/devops/2017/06/16/Callcredit_DevOps.html" class="linkified">https://microsoft.github.io/techcasestudies/devops/2017/06/16/Callcredit_DevOps.html</a></p> <p><br/>Alex Carter</p> <p>"I have worked in IT, Marketing, Software Support and Software Delivery before moving into my current System Build (DevOps) role within Callcredit. I live and breathe DevOps and am currently focussing on anything around containerisation in Windows. A day without Metal and motor racing is a dull one."</p> <p>@smileandeliver (<a href="https://twitter.com/smileandeliver" class="linkified">https://twitter.com/smileandeliver</a>)</p> '
-  url: https://www.meetup.com/CodeMill-Digital-Skills/events/243110732/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/3/1/5/thumb_466533557.jpeg
-  starts: 2017-12-07T18:30:00.0000000
-  ends: 2017-12-07T21:30:00.0000000
-  venue: ODI Leeds Node
+  logo: https://secure.meetupstatic.com/photos/event/6/c/e/a/thumb_427947882.jpeg
+  starts: 2017-12-10T13:30:00.0000000
+  ends: 2017-12-10T17:00:00.0000000
+  venue: Leeds Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/245474462/
@@ -51,7 +35,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywqbrb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/245722603/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-12-13T08:00:00.0000000
@@ -83,14 +67,6 @@
   starts: 2017-12-20T08:00:00.0000000
   ends: 2017-12-20T11:00:00.0000000
   venue: La Bottega Milanese
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmywqbcc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-12-21T19:00:00.0000000
-  ends: 2017-12-21T22:00:00.0000000
-  endorsed: true
 - name: YorkDevelopers Christmas Party
   description: '<p>More of a get together in York City Centre where you buy your own food and drinks - but very social I promise... :-)</p> '
   url: https://www.meetup.com/YorkDevelopers/events/242850175/
@@ -98,6 +74,14 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-12-21T19:00:00.0000000
   ends: 2017-12-21T21:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/245738149/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2017-12-21T19:00:00.0000000
+  ends: 2017-12-21T22:00:00.0000000
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
@@ -582,6 +566,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-05-28T06:30:00.0000000
   ends: 2018-05-28T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxhbnc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-05-30T06:30:00.0000000
+  ends: 2018-05-30T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Agile York
