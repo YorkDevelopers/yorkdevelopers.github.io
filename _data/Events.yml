@@ -1,19 +1,628 @@
-- name: Drupal Yorkshire Monthly Meetup
-  description: "<p>Christmas drinks !</p> <p>No meetup this month and the Leeds digital drinks event doesn't appear to be on either so we're going to head to this one for Christmas Drinks.</p> <p>If we don't see, have a great Christmas and see you in the new year.</p> <p><a href=\"https://www.eventbrite.co.uk/e/christmas-drinks-for-the-leeds-tech-digital-community-2017-tickets-41136414122\" class=\"linkified\">https://www.eventbrite.co.uk/e/christmas-drinks-for-the-leeds-tech-digital-community-2017-tickets-41136414122</a></p> "
-  url: https://www.meetup.com/DrupalYorkshire/events/245817692/
+- name: 'Dr Pete Edwards: Gravity, Gas and Stardust'
+  description: >-
+    This free lecture will be taking place as part of St Peter's School's Stargazing Live event. This annual exhibition will feature a planetarium dome, hands-on experiments, a variety of telescopes to explore the night sky with.Join us in the Shepherd Hall from 5.30pm to ensure you have plenty of time to explore the exhibition before the lecture.Admission to both the exhibition and the lecture is free, but you must reserve a place for the lecture.
+
+    Dr Pete Edwards, University of Durham: Gravity, Gas and StardustHow and when did our universe begin? What made it look like this? How will it end? These are all questions that have preoccupied mankind since the beginning of civilisation. This lecture will explore humanity’s latest progress in developing an understanding of what makes our universe tick. 
+  url: https://www.eventbrite.co.uk/e/dr-pete-edwards-gravity-gas-and-stardust-tickets-41106191726?aff=ebapi
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/a/5/0/c/thumb_384222252.jpeg
-  starts: 2017-12-19T18:30:00.0000000
-  ends: 2017-12-19T21:30:00.0000000
-  venue: platform
-- name: Free Open to Everyone Evening!
-  description: "<p><b>What's happening?</b></p> <p>Are you an artist, maker, hobbyist, tinkerer, engineer or someone who just likes to make things or even just discuss creativity in Leeds?</p> <p>Come along and talk to like minded people and members at Leeds Hackspace, feel free to bring along a project that you're working on or just have a chat.</p> <p><b>So is this free? Do I have to book or something?</b></p> <p>Yes, it is free. Leeds Hackspace is a work-space, community group type and workshop area. We have snacks you can buy at our own Tuck Shop, internet access via WiFi or wired Ethernet.</p> <p><b>There doesn't seem to be many attending?</b></p> <p>A lot of our members, some 30+ do not use Meetup, and they regularly attend the open evenings/days without RSVPing on here. So don't worry, the open evenings happen regularly and every week.</p> <p><b>What do you have?</b></p> <p>Wood and metal workshop, laser cutter, 3D Printer, Vinyl cutter, computers, electronics, a heat press, and all sorts of <a href=\"https://wiki.leedshackspace.org.uk/wiki/Leeds_Hackspace\">other goodies</a>. However, using a lot of these things require an induction and for you to be a paying member, but we have these open evenings so that you can look around and check the place out. Some members are happy to help you if you need to be pointed in the right direction or have something that needs repairs.</p> <p><b>So is this a business.. ?</b></p> <p>Leeds Hackspace is registered as a business, but it is run voluntarily by Directors and members, if you want to see a change you can make it happen.</p> <p><b>How do I get there?</b></p> <p>You can find out more details about visiting here: <a href=\"http://leedshackspace.org.uk/getting-here/\"><a href=\"http://leedshackspace.org.uk/getting-here/\" class=\"linkified\">http://leedshackspace.org.uk/getting-here/</a></a> there is limited on-site free parking, and on-street parking is free after 6pm.</p> <p><b>What if I want to ask more questions?</b></p> <p>We also have a mailing list: <a href=\"https://groups.google.com/forum/#!forum/leeds-hack-space\" class=\"linkified\">https://groups.google.com/forum/#!forum/leeds-hack-space</a></p> "
-  url: https://www.meetup.com/Leeds-Hackspace/events/245891744/
+  logo: https://cdn.evbuc.com/images/38488639/87497926893/1/original.jpg?h=200&w=450&rect=0,87,1200,600&s=937249361d9d4239505b6039be5a5075
+  starts: 2018-01-12T19:00:00.0000000
+  ends: 2018-01-12T20:30:00.0000000
+  venue: St Peter's School
+- name: Building a better computer
+  description: >-
+    Speaker: Professor Jim Austin, Department of Computer Science
+
+    Computer Science Lectures
+
+    Building computers is a complex task, relatively inefficient, resulting in power hungry systems that untrained individuals cannot alter without some risk to the computer and to themselves. There must be a better way to do this that would make lives easier for everyone.
+
+    Jim Austin has been working on a new concept in computing for over 17 years. Inspired by his immense collection of computers (www.computermuseum.org.uk) he felt it was time to take a fresh look at how we physically build a computer system – this has involved him in a wide range of subjects including, Computer Architectures, Computer networking, 3D topology, chemistry, 3D printing, Manufacturing, Design, physics – a fascinating and challenging journey.
+
+    The idea stems from the basic concept of removing everything from the computer apart from the chips that drive it. The solution started out with a small plastic ball containing the chip which communicates and is powered without wires – throw a pile of balls into bucket and you have your computer – A Ball Computer (ABC).
+
+    The practical conclusion of the ABC idea resulted in the COOL Computer, which will be demonstrated and the story of the journey in reaching the practical solution presented. 
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/building-a-better-computer-tickets-41337886732?aff=ebapi
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/c/e/a/thumb_427947882.jpeg
-  starts: 2017-12-19T19:00:00.0000000
-  ends: 2017-12-19T23:30:00.0000000
-  venue: Leeds Hackspace
+  logo: https://cdn.evbuc.com/images/38740398/22468345120/1/original.jpg?h=200&w=450&rect=0,69,250,125&s=c5e395e61c0b44b67f315f78aeccd430
+  starts: 2018-02-28T18:30:00.0000000
+  ends: 2018-02-28T19:30:00.0000000
+  venue: Ron Cooke Hub auditorium
+- name: Global Game Jam York 2018
+  description: >
+    ***This event is free for all students and staff from the University of York and University of York St John; email enterprise@york.ac.uk for the discount code***
+
+
+
+
+    Want to make a video game? 
+
+    Learn how by joining the York Game Jam as part of Global Game Jam 2018! Bring along your friends and make a game together, or come and meet new friends.
+
+
+    How does it work?
+
+    You'll be set a theme for the game on the Friday evening (26th January). Then, over the course of 48 hours you and your fellow team mates will rapidly go through each stage of game development in crunchtime fashion. This covers everything from theme development through to music, artwork and programming. When the deadline hits you will have a fully playable game!
+
+    Industry experts will be coming along on both the Saturday and Sunday to play your games and give you hints and advice!
+
+
+    No code experience? No problem.
+
+    Whether you're an industry veteran or a total beginner, anyone is welcome to try their hand at making a game – no code experience is required (although having computer skills helps, and we're sure you've got those!).
+
+
+    ***Introductory workshop***
+
+
+    In preparation for the Game Jam, we will be running the following workshops on GameMaker (focussing on 2D games) and the Unity game engine (focussing on 3D games). Tickets will be made available for these once times and venues have been confirmed.
+
+
+    GameMaker Beginners (Time and Location TBC)
+
+    Never made a game before? No programming experience? No problem. An industry insider will take you through the basics. Be sure to bring your laptop with you, and have GameMaker pre-installed (free version available online). Note: Windows OS only.
+
+    Unity Workshop - (Time and Location TBC)
+
+    This workshop will cover setting up a project through to moving a character around a 3D virtual environment. Previous experience with either C# or JavaScript would be ideal, but prior experience in other programming languages should suffice. Be sure to bring your laptop with you, and have Unity pre-installed (free version available online).
+
+
+    What do I need to bring?
+
+    Bring your laptops, your friends and your curiosity. Don't forget to bring refreshments to keep up your energy levels, bearing in mind, though, that you're not in any way expected to work through the night. Sleep is a beautiful thing.
+
+    We recommend that you download the software you'd like to use in advance of the Game Jam so you're ready to go. If you're not sure of what you’ll need, see thesuggestions on the Game Jam website.
+
+
+    Sounds fun?
+
+    For more information email enterprise@york.ac.uk, visit www.globalgamejam.org or visit the University of York page on the Global Game Jam site. 
+
+
+    Under 18?
+
+    It is now Global Game Jam policy to not allow Under 18s to participate unless they are accompanied by their legal guardian at all times while attending the jam. Read more about the new age policy at http://globalgamejam.org/news/word-about-our-new-age-policy
+  url: https://www.eventbrite.co.uk/e/global-game-jam-york-2018-tickets-38802450173?aff=ebapi
+  logo: https://cdn.evbuc.com/images/36687201/160740409336/1/original.jpg?h=200&w=450&rect=250,0,1000,500&s=487189d4ca1745718ebf8d7e820a06fb
+  starts: 2018-01-26T16:00:00.0000000
+  ends: 2018-01-28T20:00:00.0000000
+  venue: Ron Cooke Hub
+- name: 'From brown to green chemistry: Sustainability, waste and the circular economy'
+  description: >-
+    Speaker: Dr Avtar Matharu, Green Chemistry Centre of Excellence
+
+    One Planet Week
+
+    For all the good that Chemistry brings us, it is still very much misconstrued as dirty, polluting and harmful.  This image is often referred to as ‘brown or red’ chemistry and is gradually changing for the better to a variety of shades of green, encompassing sustainability and circularity. 
+
+    This talk will give examples of turning waste into resource, promoting cradle to cradle rather than cradle to grave thinking, and will highlight global opportunities and barriers to development of Circular Economies.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/from-brown-to-green-chemistry-sustainability-waste-and-the-circular-economy-tickets-41333928894?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38735377/22468345120/1/original.jpg?h=200&w=450&rect=0,85,408,204&s=f792503d1312b3bfea3a9ae384dd16b3
+  starts: 2018-02-13T18:30:00.0000000
+  ends: 2018-02-13T19:30:00.0000000
+  venue: Ron Cooke Hub auditorium
+- name: Visiting Professor David Rogers Inaugural Lecture
+  description: >
+    Visiting Professor David Rogers Inaugural Lecture
+
+    Professor David Rogers discusses future trust in the internet of things and connected economies, and how to help prevent artificial intelligence systems from easily being gamed by adversaries.
+
+    5pm: Drinks Reception 5:30pm - 6:30pm: Lecture and Q&A'The real world is not real: manipulation of data and people in the future internet'
+
+    In the future, how will it be possible to trust anything at all? What we read, what we see and what we do – how will we know that any of it is real? How will we prove that something is false or that we didn’t do something?
+
+    Current “trusted” systems based on collective ratings are manipulated on a wholesale basis, with services to perform this available to anyone prepared to pay. From products, to restaurant reviews and endorsements, our perceptions are being twisted by falsehoods which are sometimes algorithmically generated; pictures can be manipulated and false data trails created relatively easily.
+
+     Combined with the use of so-called “dark patterns”, rudimentary artificial intelligence is already shaping what we do, nudging humans into behaviours that are desired by the shepherds of such automated systems.
+
+     As our future shifts to one which humans delegate management of data gathering, leaving machines to trust data from other machines, which in turn lead to machine-based decision trees based on that data, how quickly can manipulation of critical elements of what is relied upon be turned into economic disaster?
+
+    Biography
+
+    David is a mobile phone and Internet of Things (IoT) security expert who runs Copper Horse Solutions Ltd, a software and security company based in Windsor, UK. His company is currently focusing on security and privacy research for the Internet of Things, including providing training for companies. He has recently been working with the UK government to ensure that future consumer IoT products and services are designed and built to be secure by default.
+
+     David chairs the Device Security Group at the GSM Association and sits on the Executive Board of the Internet of Things Security Foundation. He is a Visiting Professor in Cyber Security and Digital Forensics at York St John University and teaches Mobile Systems Security at the University of Oxford.
+
+     Twitter: @drogersuk
+  url: https://www.eventbrite.co.uk/e/visiting-professor-david-rogers-inaugural-lecture-tickets-41205977187?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38675035/14297485693/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=e7e5c097bf0e8f355f8b1d38a993d18f
+  starts: 2018-01-24T17:00:00.0000000
+  ends: 2018-01-24T18:30:00.0000000
+  venue: De Grey Lecture Theatre (DG/017)
+- name: York Raspberry Jam
+  description: >-
+    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
+
+    York Raspberry Jam happens every other month.  That is: January then March ... . It's for beginners and people who know a bit about Raspberry Pi computers too!  You don't need to bring a Raspberry Pi as we have some you can use - but if you'd like to bring your own kit please feel free to do so.
+
+    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
+  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-tickets-41078098699?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38453358/76824838621/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=b0f12b20aca2fcd49aa65d19d801b5e4
+  starts: 2018-01-22T17:15:00.0000000
+  ends: 2018-01-22T19:15:00.0000000
+  venue: Acomb Explore Library
+- name: Measuring ability in generic skills - should we and can we?
+  description: >-
+    Speaker: Professor Tony Ward, Department of Electronic Engineering
+
+    Department of Electronic Engineering Inaugural Lectures
+
+    In relation to generic skills, Higher Education faces two fundamental questions: Should we be measuring the ability of students?; and secondly if we should, can we? The talk starts with the "should we" by looking at a model of the student first employment transition and what industry declares it needs. Some current research into the analysis of job adverts tells an interesting story in terms of what skills are sought by industry and, more interestingly how level of ability is articulated. The talk then addresses the obvious question of what are the generic skills and discusses the complexities in terminology and definitions. It then turns to the second question of can we measure ability in generic skills and discusses issues of accuracy, reliability, rater bias and fatigue and certification in relation to public speaking as an examplar. The conclusion? Should we and can we? Come along and find out some of the things that affect our ability to answer these questions and do anything.
+
+    Speaker biography:  Tony joined the Department of Electronics on the 1st January 1993 as a lecturer in Business Management after 18 years in Industry as an electronic design engineer, technical manager and programme manager for a number of different companies in the UK and US. Within York he has held the position of Provost of Alcuin College and Director of the Centre for Excellence in Teaching and Learning in Enterprise. Externally he has been President of the European Association for Education in Electrical and Information Engineering and managed or participated in over 20 research projects. His research is in area of Engineering Education and Entrepreneurship with a specific focus on exploring the development and assessment of generic skills.
+
+    NB There will be a drinks reception in PT005A at 5.30pm. All lecture attendees welcome. 
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/measuring-ability-in-generic-skills-should-we-and-can-we-tickets-41333676138?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38735148/22468345120/1/original.jpg?h=200&w=450&rect=0,25,262,131&s=4a75412b926e841175e7f2d260908b37
+  starts: 2018-02-01T18:30:00.0000000
+  ends: 2018-02-01T19:30:00.0000000
+  venue: Room P/X001
+- name: Creative Engineering
+  description: >-
+    Speaker: Professor Andy Hunt, Department of Electronic Engineering
+
+    Department of Electronic Engineering Inaugural Lectures
+
+    NB There will be a drinks reception in PT005A at 5.30pm. All lecture attendees welcome. 
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/creative-engineering-tickets-41333804522?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38735280/22468345120/1/original.jpg?h=200&w=450&rect=0,198,450,225&s=ba1ab530c6aee96f074b191fed583a09
+  starts: 2018-03-15T18:30:00.0000000
+  ends: 2018-03-15T19:30:00.0000000
+  venue: Room P/X001
+- name: 'WE1: Website CMS Basic training (Wed 17 Jan 13:00-15:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to staff given prior approval by the website team
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-wed-17-jan-1300-1500-tickets-40785041156?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38136204/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=41ca2b570d9b27858d658b6598b5d958
+  starts: 2018-01-17T13:00:00.0000000
+  ends: 2018-01-17T15:00:00.0000000
+  venue: ILS Training area (outside FT/120)
+- name: 'IGS UK Symposium: Use of Geosynthetics in Rail: Towards 2025'
+  description: >-
+    With high-speed railways planned across the world, budget limitations pressing for ever more efficient structures and the Paris Agreement demanding more sustainable solutions, there are many challenges to overcome in the rail sector.
+
+    The UK chapter of the IGS want to educate the Industry about the use of geosynthetics in Rail. The symposium will showcase the established use of geosynthetics in rail applications from around the world for over 30 years. It will also discuss how they could be utilised in high speed networks to create steeper embankments, construct abutments, facilitate drainage and many other uses.
+
+    Further information can be found at: http://www.igs-uk.org/rail/
+  url: https://www.eventbrite.co.uk/e/igs-uk-symposium-use-of-geosynthetics-in-rail-towards-2025-tickets-35319374199?aff=ebapi
+  logo: https://cdn.evbuc.com/images/33001134/202817109813/1/original.jpg?h=200&w=450&rect=0,111,954,477&s=5c1caee93ad8c37ce4dd8c3e03320e98
+  starts: 2018-04-18T08:30:00.0000000
+  ends: 2018-04-18T17:00:00.0000000
+  venue: National Railway Museum York
+- name: Texture in formulations – SCS RDG North
+  description: >-
+    22 MARCH 2018 
+
+    HALF DAY CONFERENCE
+
+    TEXTURE IN FORMULATIONS
+
+    Venue  York Marriott Hotel York Marriott Hotel, Tadcaster Road, York YO24 1QQ
+  url: https://www.eventbrite.co.uk/e/texture-in-formulations-scs-rdg-north-tickets-35612155917?aff=ebapi
+  logo: https://cdn.evbuc.com/images/36172222/133132925311/1/original.jpg?h=200&w=450&rect=0,400,3632,1816&s=a967159adb8d4e23784325b1cb745b62
+  starts: 2018-03-22T12:00:00.0000000
+  ends: 2018-03-22T17:00:00.0000000
+  venue: York Marriott Hotel
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-41280762873?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
+  starts: 2018-01-18T18:30:00.0000000
+  ends: 2018-01-18T19:30:00.0000000
+- name: 'WE1: Website CMS Basic training (Thu 8 Feb 10:00-12:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to staff given prior approval by the website team
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-thu-8-feb-1000-1200-tickets-40785999021?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38136787/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=ab03984372ff46ae17ef9a3fb5f816f7
+  starts: 2018-02-08T10:00:00.0000000
+  ends: 2018-02-08T12:00:00.0000000
+  venue: ILS Training area (outside FT/120)
+- name: 'WE1: Website CMS Basic training (Thu 8 Mar 14:00-16:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to staff given prior approval by the website team
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-thu-8-mar-1400-1600-tickets-40786057195?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38136872/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=dd4f8173c11c2029110040fe0fa62c60
+  starts: 2018-03-08T14:00:00.0000000
+  ends: 2018-03-08T16:00:00.0000000
+  venue: ILS Training area (outside FT/120)
+- name: 'WE1: Website CMS Basic training (Tue 27 Mar 10:00-12:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to staff given prior approval by the website team
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-tue-27-mar-1000-1200-tickets-40786083273?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38136930/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=e54437d84af22613b63e1e83fcdd7c5c
+  starts: 2018-03-27T10:00:00.0000000
+  ends: 2018-03-27T12:00:00.0000000
+  venue: ILS Training area (outside FT/120)
+- name: 'WE1: Website CMS Basic training (Thu 12 Apr 14:00-16:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to staff given prior approval by the website team
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-thu-12-apr-1400-1600-tickets-40786142450?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38137002/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=513d9748ceecc61e3dfb464db1b45f02
+  starts: 2018-04-12T14:00:00.0000000
+  ends: 2018-04-12T16:00:00.0000000
+  venue: ILS Training area (outside FT/120)
+- name: 'QU1: Qualtrics Essentials (Tue 23 Jan 14:00-15:00)'
+  description: >-
+    These courses are for staff, students and alumni of York St. John University only.
+
+
+    QU1: Qualtrics essentials
+
+    Prior knowledge: None
+
+    Qualtics is a powerful, yet easy to use survey tool.
+
+    This course includes:
+
+
+    Logging in to Qualtrics
+
+    Different question types
+
+    Question Options
+
+    Previwing a survey
+
+    Launching and distributing a survey
+
+    Creating Reports
+
+    Downloading responses
+
+
+    Is this course open to anyone?
+
+    This course is only available to students, staff and alumni of York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/qu1-qualtrics-essentials-tue-23-jan-1400-1500-tickets-40834901289?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38173235/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=485b04650854094e01dbb4577cf394e3
+  starts: 2018-01-23T14:00:00.0000000
+  ends: 2018-01-23T15:00:00.0000000
+  venue: ILS Training area (outside FT/120)
+- name: 'QU1: Qualtrics Essentials (Fri 16 Feb 10:00-11:00)'
+  description: >-
+    These courses are for staff, students and alumni of York St. John University only.
+
+
+    QU1: Qualtrics essentials
+
+    Prior knowledge: None
+
+    Qualtics is a powerful, yet easy to use survey tool.
+
+    This course includes:
+
+
+    Logging in to Qualtrics
+
+    Different question types
+
+    Question Options
+
+    Previwing a survey
+
+    Launching and distributing a survey
+
+    Creating Reports
+
+    Downloading responses
+
+
+    Is this course open to anyone?
+
+    This course is only available to students, staff and alumni of York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/qu1-qualtrics-essentials-fri-16-feb-1000-1100-tickets-40835412819?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38173922/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=b80d41b7f2b5170b579b07b484a4d7d9
+  starts: 2018-02-16T10:00:00.0000000
+  ends: 2018-02-16T11:00:00.0000000
+  venue: ILS Training area (outside FT/120)
+- name: 'QU1: Qualtrics Essentials (Tue 6 Mar 15:00-16:00)'
+  description: >-
+    These courses are for staff, students and alumni of York St. John University only.
+
+
+    QU1: Qualtrics essentials
+
+    Prior knowledge: None
+
+    Qualtics is a powerful, yet easy to use survey tool.
+
+    This course includes:
+
+
+    Logging in to Qualtrics
+
+    Different question types
+
+    Question Options
+
+    Previwing a survey
+
+    Launching and distributing a survey
+
+    Creating Reports
+
+    Downloading responses
+
+
+    Is this course open to anyone?
+
+    This course is only available to students, staff and alumni of York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/qu1-qualtrics-essentials-tue-6-mar-1500-1600-tickets-40835434885?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38173984/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=fe63c70b04760121abc9c0a1da0d10dd
+  starts: 2018-03-06T15:00:00.0000000
+  ends: 2018-03-06T16:00:00.0000000
+  venue: ILS Training area (outside FT/120)
+- name: 'QU1: Qualtrics Essentials (Wed 21 Mar 15:00-16:00)'
+  description: >-
+    These courses are for staff, students and alumni of York St. John University only.
+
+
+    QU1: Qualtrics essentials
+
+    Prior knowledge: None
+
+    Qualtics is a powerful, yet easy to use survey tool.
+
+    This course includes:
+
+
+    Logging in to Qualtrics
+
+    Different question types
+
+    Question Options
+
+    Previwing a survey
+
+    Launching and distributing a survey
+
+    Creating Reports
+
+    Downloading responses
+
+
+    Is this course open to anyone?
+
+    This course is only available to students, staff and alumni of York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/qu1-qualtrics-essentials-wed-21-mar-1500-1600-tickets-40835457954?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38174022/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=0916a66b35c8b2c1f3cd9f5949fb2120
+  starts: 2018-03-21T15:00:00.0000000
+  ends: 2018-03-21T16:00:00.0000000
+  venue: ILS Training area (outside FT/120)
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/245809810/
@@ -58,7 +667,7 @@
   venue: Seven Arts Centre
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmywqbhc/
+  url: https://www.meetup.com/YorkDevelopers/events/246033391/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2017-12-25T07:30:00.0000000
@@ -582,6 +1191,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-06-06T06:30:00.0000000
   ends: 2018-06-06T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxjbpb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-06-11T06:30:00.0000000
+  ends: 2018-06-11T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
