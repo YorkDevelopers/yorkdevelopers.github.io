@@ -9,6 +9,22 @@
   starts: 2018-01-12T19:00:00.0000000
   ends: 2018-01-12T20:30:00.0000000
   venue: St Peter's School
+- name: 'Professor Phil Manning: Last Days of the Dinosaurs'
+  description: The end of the dinosaurs’ reign on Earth was 65 million years ago. What happened? New discoveries in Mexico provide the first ever timing of events on the last day of the Cretaceous.
+  url: https://www.eventbrite.co.uk/e/professor-phil-manning-last-days-of-the-dinosaurs-tickets-41454392203?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38869976/87497926893/1/original.jpg?h=200&w=450&rect=0,540,2722,1361&s=155eac19bba50a8c95d91c134735dd3f
+  starts: 2018-03-24T15:00:00.0000000
+  ends: 2018-03-24T16:30:00.0000000
+  venue: St Peter's School
+- name: 'Dr Marina Petri - Exotic Nuclei: On the Edge of Existence'
+  description: In the laboratory, physicists can create atomic nuclei which we haven't otherwise observed in nature, challenging our understanding of the fundamental fabric of the universe. Dr Petri discusses her work in one of the most exciting fields of experimental Physics.
+  url: https://www.eventbrite.co.uk/e/dr-marina-petri-exotic-nuclei-on-the-edge-of-existence-tickets-41454063219?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38869513/87497926893/1/original.jpg?h=200&w=450&rect=0,225,1200,600&s=36dc3df3fff7dbbe8f89a2b0db1568db
+  starts: 2018-02-28T19:00:00.0000000
+  ends: 2018-02-28T20:30:00.0000000
+  venue: St Peter's School
 - name: Building a better computer
   description: >-
     Speaker: Professor Jim Austin, Department of Computer Science
@@ -137,6 +153,20 @@
   starts: 2018-01-26T16:00:00.0000000
   ends: 2018-01-28T20:00:00.0000000
   venue: Ron Cooke Hub
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-41280762873?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
+  starts: 2018-01-18T18:30:00.0000000
+  ends: 2018-01-18T19:30:00.0000000
 - name: Visiting Professor David Rogers Inaugural Lecture
   description: >
     Visiting Professor David Rogers Inaugural Lecture
@@ -179,20 +209,6 @@
   starts: 2018-01-22T17:15:00.0000000
   ends: 2018-01-22T19:15:00.0000000
   venue: Acomb Explore Library
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-41280762873?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
-  starts: 2018-01-18T18:30:00.0000000
-  ends: 2018-01-18T19:30:00.0000000
 - name: Creative Engineering
   description: >-
     Speaker: Professor Andy Hunt, Department of Electronic Engineering
