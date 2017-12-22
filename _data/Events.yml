@@ -9,6 +9,22 @@
   starts: 2018-01-12T19:00:00.0000000
   ends: 2018-01-12T20:30:00.0000000
   venue: St Peter's School
+- name: 'Professor Phil Manning: Last Days of the Dinosaurs'
+  description: The end of the dinosaurs’ reign on Earth was 65 million years ago. What happened? New discoveries in Mexico provide the first ever timing of events on the last day of the Cretaceous.
+  url: https://www.eventbrite.co.uk/e/professor-phil-manning-last-days-of-the-dinosaurs-tickets-41454392203?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38869976/87497926893/1/original.jpg?h=200&w=450&rect=0,540,2722,1361&s=155eac19bba50a8c95d91c134735dd3f
+  starts: 2018-03-24T15:00:00.0000000
+  ends: 2018-03-24T16:30:00.0000000
+  venue: St Peter's School
+- name: 'Dr Marina Petri - Exotic Nuclei: On the Edge of Existence'
+  description: In the laboratory, physicists can create atomic nuclei which we haven't otherwise observed in nature, challenging our understanding of the fundamental fabric of the universe. Dr Petri discusses her work in one of the most exciting fields of experimental Physics.
+  url: https://www.eventbrite.co.uk/e/dr-marina-petri-exotic-nuclei-on-the-edge-of-existence-tickets-41454063219?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38869513/87497926893/1/original.jpg?h=200&w=450&rect=0,225,1200,600&s=36dc3df3fff7dbbe8f89a2b0db1568db
+  starts: 2018-02-28T19:00:00.0000000
+  ends: 2018-02-28T20:30:00.0000000
+  venue: St Peter's School
 - name: Building a better computer
   description: >-
     Speaker: Professor Jim Austin, Department of Computer Science
@@ -137,6 +153,20 @@
   starts: 2018-01-26T16:00:00.0000000
   ends: 2018-01-28T20:00:00.0000000
   venue: Ron Cooke Hub
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-41280762873?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
+  starts: 2018-01-18T18:30:00.0000000
+  ends: 2018-01-18T19:30:00.0000000
 - name: Visiting Professor David Rogers Inaugural Lecture
   description: >
     Visiting Professor David Rogers Inaugural Lecture
@@ -179,20 +209,6 @@
   starts: 2018-01-22T17:15:00.0000000
   ends: 2018-01-22T19:15:00.0000000
   venue: Acomb Explore Library
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-41280762873?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
-  starts: 2018-01-18T18:30:00.0000000
-  ends: 2018-01-18T19:30:00.0000000
 - name: Creative Engineering
   description: >-
     Speaker: Professor Andy Hunt, Department of Electronic Engineering
@@ -623,23 +639,6 @@
   starts: 2018-03-21T15:00:00.0000000
   ends: 2018-03-21T16:00:00.0000000
   venue: ILS Training area (outside FT/120)
-- name: YorkDevelopers Christmas Party
-  description: '<p>More of a get together in York City Centre where you buy your own food and drinks - but very social I promise... :-)</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/242850175/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-12-21T19:00:00.0000000
-  ends: 2017-12-21T21:00:00.0000000
-  venue: The Yak and Yeti (Gurkha) Restaurant
-  endorsed: true
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/245738149/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2017-12-21T19:00:00.0000000
-  ends: 2017-12-21T22:00:00.0000000
-  endorsed: true
 - name: Blogging tips, confidence & coffee!
   description: "<p>• What we'll do<br/>Share your draft posts, get constructive feedback from the group, ideas for content, tech tips, and any questions for the group to discuss.</p> <p>• What to bring<br/>Laptop - for content and tech</p> <p>• Important to know<br/>First time attending is free. Then £10 for 4 Meetups</p> "
   url: https://www.meetup.com/Chapel-Allerton-Bloggers-Meetup/events/245986984/
@@ -676,7 +675,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlywqbkc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/246087214/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2017-12-27T08:00:00.0000000
@@ -716,6 +715,21 @@
   starts: 2018-01-03T18:00:00.0000000
   ends: 2018-01-03T21:00:00.0000000
   venue: Callcredit Information Group Limited
+- name: Umbraco Meetup
+  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> "
+  url: https://www.meetup.com/umbLeeds/events/245663400/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
+  starts: 2018-01-04T17:30:00.0000000
+  ends: 2018-01-04T20:30:00.0000000
+  venue: The Adelphi
+- name: Become a Bot Builder with Microsoft Bot Framework
+  description: "<p>The way in which customers expect to be able to interact with companies is changing. We'll look at this change and how you can take advantage of it by creating chatbots using the Microsoft Bot Framework.</p> <p>\n\nWe'll cover the basics, including what tools you can use and where to go in order to get started. Then we'll see how we can use Microsoft Cognitive Services to sprinkle AI magic on your chatbots and turn them from simple command-line pretenders to useful tools that customers will love.</p> <p>\n\nCome along and become a chatbot builder for your organisation today!</p> <p>\n\nJames Mann is a Microsoft MVP working as a software consultant at Black Marble with intrests in chat bots and cognitive services</p> <p>\n\n<a href=\"https://twitter.com/jamesemann\"><a href=\"https://twitter.com/jamesemann\" class=\"linkified\">https://twitter.com/jamesemann</a></a></p> <p>\n\n<a href=\"http://blogs.blackmarble.co.uk/blogs/jmann\"><a href=\"http://blogs.blackmarble.co.uk/blogs/jmann\" class=\"linkified\">http://blogs.blackmarble.co.uk/blogs/jmann</a></a></p> "
+  url: https://www.meetup.com/dotnetYork/events/243704122/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
+  starts: 2018-01-04T18:30:00.0000000
+  ends: 2018-01-04T21:30:00.0000000
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcblb/
@@ -1207,6 +1221,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-06-11T06:30:00.0000000
   ends: 2018-06-11T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxjbrb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-06-13T06:30:00.0000000
+  ends: 2018-06-13T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
