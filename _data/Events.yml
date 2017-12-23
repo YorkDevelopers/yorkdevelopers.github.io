@@ -94,6 +94,35 @@
   starts: 2018-02-01T18:30:00.0000000
   ends: 2018-02-01T19:30:00.0000000
   venue: Room P/X001
+- name: Visiting Professor David Rogers Inaugural Lecture
+  description: >
+    Visiting Professor David Rogers Inaugural Lecture
+
+    Professor David Rogers discusses future trust in the internet of things and connected economies, and how to help prevent artificial intelligence systems from easily being gamed by adversaries.
+
+    5pm: Drinks Reception 5:30pm - 6:30pm: Lecture and Q&A'The real world is not real: manipulation of data and people in the future internet'
+
+    In the future, how will it be possible to trust anything at all? What we read, what we see and what we do – how will we know that any of it is real? How will we prove that something is false or that we didn’t do something?
+
+    Current “trusted” systems based on collective ratings are manipulated on a wholesale basis, with services to perform this available to anyone prepared to pay. From products, to restaurant reviews and endorsements, our perceptions are being twisted by falsehoods which are sometimes algorithmically generated; pictures can be manipulated and false data trails created relatively easily.
+
+     Combined with the use of so-called “dark patterns”, rudimentary artificial intelligence is already shaping what we do, nudging humans into behaviours that are desired by the shepherds of such automated systems.
+
+     As our future shifts to one which humans delegate management of data gathering, leaving machines to trust data from other machines, which in turn lead to machine-based decision trees based on that data, how quickly can manipulation of critical elements of what is relied upon be turned into economic disaster?
+
+    Biography
+
+    David is a mobile phone and Internet of Things (IoT) security expert who runs Copper Horse Solutions Ltd, a software and security company based in Windsor, UK. His company is currently focusing on security and privacy research for the Internet of Things, including providing training for companies. He has recently been working with the UK government to ensure that future consumer IoT products and services are designed and built to be secure by default.
+
+     David chairs the Device Security Group at the GSM Association and sits on the Executive Board of the Internet of Things Security Foundation. He is a Visiting Professor in Cyber Security and Digital Forensics at York St John University and teaches Mobile Systems Security at the University of Oxford.
+
+     Twitter: @drogersuk
+  url: https://www.eventbrite.co.uk/e/visiting-professor-david-rogers-inaugural-lecture-tickets-41205977187?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38675035/14297485693/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=e7e5c097bf0e8f355f8b1d38a993d18f
+  starts: 2018-01-24T17:00:00.0000000
+  ends: 2018-01-24T18:30:00.0000000
+  venue: De Grey Lecture Theatre (DG/017)
 - name: Global Game Jam York 2018
   description: >
     ***This event is free for all students and staff from the University of York and University of York St John; email enterprise@york.ac.uk for the discount code***
@@ -167,35 +196,6 @@
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
   starts: 2018-01-18T18:30:00.0000000
   ends: 2018-01-18T19:30:00.0000000
-- name: Visiting Professor David Rogers Inaugural Lecture
-  description: >
-    Visiting Professor David Rogers Inaugural Lecture
-
-    Professor David Rogers discusses future trust in the internet of things and connected economies, and how to help prevent artificial intelligence systems from easily being gamed by adversaries.
-
-    5pm: Drinks Reception 5:30pm - 6:30pm: Lecture and Q&A'The real world is not real: manipulation of data and people in the future internet'
-
-    In the future, how will it be possible to trust anything at all? What we read, what we see and what we do – how will we know that any of it is real? How will we prove that something is false or that we didn’t do something?
-
-    Current “trusted” systems based on collective ratings are manipulated on a wholesale basis, with services to perform this available to anyone prepared to pay. From products, to restaurant reviews and endorsements, our perceptions are being twisted by falsehoods which are sometimes algorithmically generated; pictures can be manipulated and false data trails created relatively easily.
-
-     Combined with the use of so-called “dark patterns”, rudimentary artificial intelligence is already shaping what we do, nudging humans into behaviours that are desired by the shepherds of such automated systems.
-
-     As our future shifts to one which humans delegate management of data gathering, leaving machines to trust data from other machines, which in turn lead to machine-based decision trees based on that data, how quickly can manipulation of critical elements of what is relied upon be turned into economic disaster?
-
-    Biography
-
-    David is a mobile phone and Internet of Things (IoT) security expert who runs Copper Horse Solutions Ltd, a software and security company based in Windsor, UK. His company is currently focusing on security and privacy research for the Internet of Things, including providing training for companies. He has recently been working with the UK government to ensure that future consumer IoT products and services are designed and built to be secure by default.
-
-     David chairs the Device Security Group at the GSM Association and sits on the Executive Board of the Internet of Things Security Foundation. He is a Visiting Professor in Cyber Security and Digital Forensics at York St John University and teaches Mobile Systems Security at the University of Oxford.
-
-     Twitter: @drogersuk
-  url: https://www.eventbrite.co.uk/e/visiting-professor-david-rogers-inaugural-lecture-tickets-41205977187?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38675035/14297485693/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=e7e5c097bf0e8f355f8b1d38a993d18f
-  starts: 2018-01-24T17:00:00.0000000
-  ends: 2018-01-24T18:30:00.0000000
-  venue: De Grey Lecture Theatre (DG/017)
 - name: York Raspberry Jam
   description: >-
     Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
@@ -639,14 +639,6 @@
   starts: 2018-03-21T15:00:00.0000000
   ends: 2018-03-21T16:00:00.0000000
   venue: ILS Training area (outside FT/120)
-- name: Blogging tips, confidence & coffee!
-  description: "<p>• What we'll do<br/>Share your draft posts, get constructive feedback from the group, ideas for content, tech tips, and any questions for the group to discuss.</p> <p>• What to bring<br/>Laptop - for content and tech</p> <p>• Important to know<br/>First time attending is free. Then £10 for 4 Meetups</p> "
-  url: https://www.meetup.com/Chapel-Allerton-Bloggers-Meetup/events/245986984/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/d/d/2/thumb_465048594.jpeg
-  starts: 2017-12-23T11:30:00.0000000
-  ends: 2017-12-23T13:00:00.0000000
-  venue: Seven Arts Centre
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/246033391/
@@ -681,6 +673,14 @@
   starts: 2017-12-27T08:00:00.0000000
   ends: 2017-12-27T11:00:00.0000000
   venue: La Bottega Milanese
+- name: Monthly meet up
+  description: '<p>Chat about Linux and related technology over a drink.<br/>Some people get food from the bar.</p> '
+  url: https://www.meetup.com/West-Yorkshire-Linux-users-group/events/246127099/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/c/e/7/5/thumb_441292853.jpeg
+  starts: 2017-12-28T19:30:00.0000000
+  ends: 2017-12-28T21:00:00.0000000
+  venue: The Lord Darcy
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcbcb/
