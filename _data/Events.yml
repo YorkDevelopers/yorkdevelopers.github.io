@@ -639,14 +639,6 @@
   starts: 2018-03-21T15:00:00.0000000
   ends: 2018-03-21T16:00:00.0000000
   venue: ILS Training area (outside FT/120)
-- name: Monthly meet up
-  description: '<p>Chat about Linux and related technology over a drink.<br/>Some people get food from the bar.</p> '
-  url: https://www.meetup.com/West-Yorkshire-Linux-users-group/events/246127099/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/c/e/7/5/thumb_441292853.jpeg
-  starts: 2017-12-28T19:30:00.0000000
-  ends: 2017-12-28T21:00:00.0000000
-  venue: The Lord Darcy
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/246206294/
@@ -666,7 +658,7 @@
   venue: Leeds Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcbfb/
+  url: https://www.meetup.com/YorkDevelopers/events/246261105/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-01-03T07:30:00.0000000
@@ -675,7 +667,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxcbfb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/246261540/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-01-03T08:00:00.0000000
@@ -714,7 +706,7 @@
   venue: Seven Arts Centre
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcblb/
+  url: https://www.meetup.com/YorkDevelopers/events/246276778/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-01-08T07:30:00.0000000
@@ -731,7 +723,7 @@
   venue: FutureLabs @ Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcbnb/
+  url: https://www.meetup.com/YorkDevelopers/events/246276783/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-01-10T07:30:00.0000000
@@ -746,17 +738,17 @@
   starts: 2018-01-10T08:00:00.0000000
   ends: 2018-01-10T11:00:00.0000000
   venue: La Bottega Milanese
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxcbnb/
+- name: 'January 2018: - (Cool things with RasPi and micro:bit) Matt Moore'
+  description: '<p>Details soon</p> '
+  url: https://www.meetup.com/CodeMill-Digital-Skills/events/243110763/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-01-10T19:00:00.0000000
-  ends: 2018-01-10T22:00:00.0000000
-  endorsed: true
+  logo: https://secure.meetupstatic.com/photos/event/8/3/1/5/thumb_466533557.jpeg
+  starts: 2018-01-11T18:30:00.0000000
+  ends: 2018-01-11T21:30:00.0000000
+  venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcbtb/
+  url: https://www.meetup.com/YorkDevelopers/events/246276823/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-01-15T07:30:00.0000000
@@ -833,14 +825,6 @@
   starts: 2018-02-07T07:30:00.0000000
   ends: 2018-02-07T10:30:00.0000000
   venue: The Perky Peacock
-  endorsed: true
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxdbkb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-02-07T19:00:00.0000000
-  ends: 2018-02-07T22:00:00.0000000
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
@@ -921,14 +905,6 @@
   starts: 2018-03-07T07:30:00.0000000
   ends: 2018-03-07T10:30:00.0000000
   venue: The Perky Peacock
-  endorsed: true
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxfbkb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-03-07T19:00:00.0000000
-  ends: 2018-03-07T22:00:00.0000000
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
@@ -1237,6 +1213,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-06-18T06:30:00.0000000
   ends: 2018-06-18T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxjbbc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-06-20T06:30:00.0000000
+  ends: 2018-06-20T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
