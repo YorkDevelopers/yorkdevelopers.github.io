@@ -1,12 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/246206294/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-01-01T07:30:00.0000000
-  ends: 2018-01-01T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
 - name: Free Open to Everyone Evening!
   description: "<p><b>What's happening?</b></p> <p>Are you an artist, maker, hobbyist, tinkerer, engineer or someone who just likes to make things or even just discuss creativity in Leeds?</p> <p>Come along and talk to like minded people and members at Leeds Hackspace, feel free to bring along a project that you're working on or just have a chat.</p> <p><b>So is this free? Do I have to book or something?</b></p> <p>Yes, it is free. Leeds Hackspace is a work-space, community group type and workshop area. We have snacks you can buy at our own Tuck Shop, internet access via WiFi or wired Ethernet.</p> <p><b>There doesn't seem to be many attending?</b></p> <p>A lot of our members, some 30+ do not use Meetup, and they regularly attend the open evenings/days without RSVPing on here. So don't worry, the open evenings happen regularly and every week.</p> <p><b>What do you have?</b></p> <p>Wood and metal workshop, laser cutter, 3D Printer, Vinyl cutter, computers, electronics, a heat press, and all sorts of <a href=\"https://wiki.leedshackspace.org.uk/wiki/Leeds_Hackspace\">other goodies</a>. However, using a lot of these things require an induction and for you to be a paying member, but we have these open evenings so that you can look around and check the place out. Some members are happy to help you if you need to be pointed in the right direction or have something that needs repairs.</p> <p><b>So is this a business.. ?</b></p> <p>Leeds Hackspace is registered as a business, but it is run voluntarily by Directors and members, if you want to see a change you can make it happen.</p> <p><b>How do I get there?</b></p> <p>You can find out more details about visiting here: <a href=\"http://leedshackspace.org.uk/getting-here/\"><a href=\"http://leedshackspace.org.uk/getting-here/\" class=\"linkified\">http://leedshackspace.org.uk/getting-here/</a></a> there is limited on-site free parking, and on-street parking is free after 6pm.</p> <p><b>What if I want to ask more questions?</b></p> <p>We also have a mailing list: <a href=\"https://groups.google.com/forum/#!forum/leeds-hack-space\" class=\"linkified\">https://groups.google.com/forum/#!forum/leeds-hack-space</a></p> "
   url: https://www.meetup.com/Leeds-Hackspace/events/246245326/
@@ -15,6 +6,14 @@
   starts: 2018-01-02T19:00:00.0000000
   ends: 2018-01-02T23:30:00.0000000
   venue: Leeds Hackspace
+- name: 'Coding Deathmatch: Static vs Dynamic'
+  description: "<p>We kick off 2018 with a good old-fashioned grudge match, pitting the safety and assurance of statically typed languages against the speed and flexibility of dynamic ones. Using the language of your choice, you'll be put into the dynamic or static group, and will work on a problem set on the evening. At the end we'll see how everyone's done, and prove once and for all which is the better language choice - Static or Dynamic!</p> <p>Check out the LCD website (<a href=\"http://leedscodedojo.github.io/\" class=\"linkified\">http://leedscodedojo.github.io/</a>) for further info.</p> "
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/245751729/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2018-01-03T18:00:00.0000000
+  ends: 2018-01-03T21:00:00.0000000
+  venue: Callcredit Information Group Limited
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/246261105/
@@ -32,14 +31,6 @@
   starts: 2018-01-03T08:00:00.0000000
   ends: 2018-01-03T11:00:00.0000000
   venue: La Bottega Milanese
-- name: TBD
-  description: "<p>Details of January's session to be announced nearer the time.</p> <p>Check out the <a href=\"http://leedscodedojo.github.io/\">LCD website</a> for info.</p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/245751729/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2018-01-03T18:00:00.0000000
-  ends: 2018-01-03T21:00:00.0000000
-  venue: Callcredit Information Group Limited
 - name: Umbraco Meetup
   description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> "
   url: https://www.meetup.com/umbLeeds/events/245663400/
