@@ -1,11 +1,3 @@
-- name: Free Open to Everyone Evening!
-  description: "<p><b>What's happening?</b></p> <p>Are you an artist, maker, hobbyist, tinkerer, engineer or someone who just likes to make things or even just discuss creativity in Leeds?</p> <p>Come along and talk to like minded people and members at Leeds Hackspace, feel free to bring along a project that you're working on or just have a chat.</p> <p><b>So is this free? Do I have to book or something?</b></p> <p>Yes, it is free. Leeds Hackspace is a work-space, community group type and workshop area. We have snacks you can buy at our own Tuck Shop, internet access via WiFi or wired Ethernet.</p> <p><b>There doesn't seem to be many attending?</b></p> <p>A lot of our members, some 30+ do not use Meetup, and they regularly attend the open evenings/days without RSVPing on here. So don't worry, the open evenings happen regularly and every week.</p> <p><b>What do you have?</b></p> <p>Wood and metal workshop, laser cutter, 3D Printer, Vinyl cutter, computers, electronics, a heat press, and all sorts of <a href=\"https://wiki.leedshackspace.org.uk/wiki/Leeds_Hackspace\">other goodies</a>. However, using a lot of these things require an induction and for you to be a paying member, but we have these open evenings so that you can look around and check the place out. Some members are happy to help you if you need to be pointed in the right direction or have something that needs repairs.</p> <p><b>So is this a business.. ?</b></p> <p>Leeds Hackspace is registered as a business, but it is run voluntarily by Directors and members, if you want to see a change you can make it happen.</p> <p><b>How do I get there?</b></p> <p>You can find out more details about visiting here: <a href=\"http://leedshackspace.org.uk/getting-here/\"><a href=\"http://leedshackspace.org.uk/getting-here/\" class=\"linkified\">http://leedshackspace.org.uk/getting-here/</a></a> there is limited on-site free parking, and on-street parking is free after 6pm.</p> <p><b>What if I want to ask more questions?</b></p> <p>We also have a mailing list: <a href=\"https://groups.google.com/forum/#!forum/leeds-hack-space\" class=\"linkified\">https://groups.google.com/forum/#!forum/leeds-hack-space</a></p> "
-  url: https://www.meetup.com/Leeds-Hackspace/events/246245326/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/c/e/a/thumb_427947882.jpeg
-  starts: 2018-01-02T19:00:00.0000000
-  ends: 2018-01-02T23:30:00.0000000
-  venue: Leeds Hackspace
 - name: 'Coding Deathmatch: Static vs Dynamic'
   description: "<p>We kick off 2018 with a good old-fashioned grudge match, pitting the safety and assurance of statically typed languages against the speed and flexibility of dynamic ones. Using the language of your choice, you'll be put into the dynamic or static group, and will work on a problem set on the evening. At the end we'll see how everyone's done, and prove once and for all which is the better language choice - Static or Dynamic!</p> <p>Check out the LCD website (<a href=\"http://leedscodedojo.github.io/\" class=\"linkified\">http://leedscodedojo.github.io/</a>) for further info.</p> "
   url: https://www.meetup.com/Leeds-Code-Dojo/events/245751729/
@@ -55,14 +47,6 @@
   ends: 2018-01-08T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: 'January 2018: Katie Fenn - Writing Modular Stylesheets with CSS Modules'
-  description: "<p>Writing Modular Stylesheets with CSS Modules<br/>Composition has long been a goal of CSS design. Creating a rich library of styles that can be reused and combined saves time in the long run, but often lead to unmaintainable or verbose code.</p> <p>WebPack is commonly used for bundling JS modules, but its flexibility means it can also be used to load CSS Modules: local styles that can be imported and exported just like scripts.</p> <p>This talk introduces WebPack and will demonstrate how to write, bundle and use CSS Modules. We'll also examine their benefits, and why they can help in ways other tools have failed in the past.</p> <p>Bio:<br/>Katie Fenn is a software engineer at npm. She works with all aspects of the web, particularly JavaScript, CSS, Node.JS and ops. When not at her desk, she is usually in the pool or on her bike in the Peak District.</p> <p>@katie_fenn</p> "
-  url: https://www.meetup.com/Leeds-Front-End/events/243361901/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/2/f/e/1/thumb_464292257.jpeg
-  starts: 2018-01-09T18:30:00.0000000
-  ends: 2018-01-09T20:00:00.0000000
-  venue: FutureLabs @ Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/246276783/
@@ -97,6 +81,14 @@
   ends: 2018-01-15T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Agile Transformation Speaker Panel
+  description: '<p>About the Session</p> <p>This speaker panel will include people from within the Leeds area who have been heavily involved in agile transformation. What has worked well and what would they do differently next time?</p> <p>About the Panel</p> <p>Participants will be listed closer to the date.</p> <p>Practical bits</p> <p>• Doors open at 6 and the session starts at 6:30</p> <p>• Note that this is back in Apsley House.</p> <p>• Go to the 3rd Floor.</p> <p>------------</p> <p>Agile in Leeds supports diversitycharter.org (<a href="http://diversitycharter.org/" class="linkified">http://diversitycharter.org/</a>)</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/d/3/2/600_449916146.jpeg" /></p> '
+  url: https://www.meetup.com/Agile-in-Leeds/events/243522670/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
+  starts: 2018-01-16T18:00:00.0000000
+  ends: 2018-01-16T20:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcbwb/
@@ -328,14 +320,6 @@
   ends: 2018-04-04T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxgbgb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-04-04T18:00:00.0000000
-  ends: 2018-04-04T21:00:00.0000000
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxgbmb/
@@ -415,14 +399,6 @@
   starts: 2018-05-02T06:30:00.0000000
   ends: 2018-05-02T09:30:00.0000000
   venue: The Perky Peacock
-  endorsed: true
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxhbdb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-05-02T18:00:00.0000000
-  ends: 2018-05-02T21:00:00.0000000
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
@@ -504,14 +480,6 @@
   ends: 2018-05-30T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxhbnc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-05-30T18:00:00.0000000
-  ends: 2018-05-30T21:00:00.0000000
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxjbgb/
@@ -574,13 +542,14 @@
   starts: 2018-06-21T18:00:00.0000000
   ends: 2018-06-21T21:00:00.0000000
   endorsed: true
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxjbkc/
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxjbhc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-06-27T18:00:00.0000000
-  ends: 2018-06-27T21:00:00.0000000
+  starts: 2018-06-25T06:30:00.0000000
+  ends: 2018-06-25T09:30:00.0000000
+  venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
@@ -590,14 +559,6 @@
   starts: 2018-07-19T18:00:00.0000000
   ends: 2018-07-19T21:00:00.0000000
   endorsed: true
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxkbhc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-07-25T18:00:00.0000000
-  ends: 2018-07-25T21:00:00.0000000
-  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxlbvb/
@@ -605,22 +566,6 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-08-16T18:00:00.0000000
   ends: 2018-08-16T21:00:00.0000000
-  endorsed: true
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxlbdc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-08-22T18:00:00.0000000
-  ends: 2018-08-22T21:00:00.0000000
-  endorsed: true
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxmbzb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-09-19T18:00:00.0000000
-  ends: 2018-09-19T21:00:00.0000000
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
@@ -630,14 +575,6 @@
   starts: 2018-09-20T18:00:00.0000000
   ends: 2018-09-20T21:00:00.0000000
   endorsed: true
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxnbwb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-10-17T18:00:00.0000000
-  ends: 2018-10-17T21:00:00.0000000
-  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxnbxb/
@@ -646,14 +583,6 @@
   starts: 2018-10-18T18:00:00.0000000
   ends: 2018-10-18T21:00:00.0000000
   endorsed: true
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxpbsb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-11-14T19:00:00.0000000
-  ends: 2018-11-14T22:00:00.0000000
-  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxpbtb/
@@ -661,14 +590,6 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-11-15T19:00:00.0000000
   ends: 2018-11-15T22:00:00.0000000
-  endorsed: true
-- name: Agile York
-  description: '<p>Please see:</p> <p><a href="https://www.meetup.com/agileYork/events/241911756/" class="linkified">https://www.meetup.com/agileYork/events/241911756/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vccbsnyxqbqb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-12-12T19:00:00.0000000
-  ends: 2018-12-12T22:00:00.0000000
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
