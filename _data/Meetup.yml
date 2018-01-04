@@ -1,28 +1,3 @@
-- name: 'Coding Deathmatch: Static vs Dynamic'
-  description: "<p>We kick off 2018 with a good old-fashioned grudge match, pitting the safety and assurance of statically typed languages against the speed and flexibility of dynamic ones. Using the language of your choice, you'll be put into the dynamic or static group, and will work on a problem set on the evening. At the end we'll see how everyone's done, and prove once and for all which is the better language choice - Static or Dynamic!</p> <p>Check out the LCD website (<a href=\"http://leedscodedojo.github.io/\" class=\"linkified\">http://leedscodedojo.github.io/</a>) for further info.</p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/245751729/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2018-01-03T18:00:00.0000000
-  ends: 2018-01-03T21:00:00.0000000
-  venue: Callcredit Information Group Limited
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/246261105/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-01-03T07:30:00.0000000
-  ends: 2018-01-03T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/246261540/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-01-03T08:00:00.0000000
-  ends: 2018-01-03T11:00:00.0000000
-  venue: La Bottega Milanese
 - name: Umbraco Meetup
   description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> "
   url: https://www.meetup.com/umbLeeds/events/245663400/
@@ -32,12 +7,20 @@
   ends: 2018-01-04T20:30:00.0000000
   venue: The Adelphi
 - name: Become a Bot Builder with Microsoft Bot Framework
-  description: "<p>The way in which customers expect to be able to interact with companies is changing. We'll look at this change and how you can take advantage of it by creating chatbots using the Microsoft Bot Framework.</p> <p>\n\nWe'll cover the basics, including what tools you can use and where to go in order to get started. Then we'll see how we can use Microsoft Cognitive Services to sprinkle AI magic on your chatbots and turn them from simple command-line pretenders to useful tools that customers will love.</p> <p>\n\nCome along and become a chatbot builder for your organisation today!</p> <p>\n\nJames Mann is a Microsoft MVP working as a software consultant at Black Marble with intrests in chat bots and cognitive services</p> <p>\n\n<a href=\"https://twitter.com/jamesemann\"><a href=\"https://twitter.com/jamesemann\" class=\"linkified\">https://twitter.com/jamesemann</a></a></p> <p>\n\n<a href=\"http://blogs.blackmarble.co.uk/blogs/jmann\"><a href=\"http://blogs.blackmarble.co.uk/blogs/jmann\" class=\"linkified\">http://blogs.blackmarble.co.uk/blogs/jmann</a></a></p> "
+  description: "<p>The way in which customers expect to be able to interact with companies is changing. We'll look at this change and how you can take advantage of it by creating chatbots using the Microsoft Bot Framework.</p> <p>We'll cover the basics, including what tools you can use and where to go in order to get started. Then we'll see how we can use Microsoft Cognitive Services to sprinkle AI magic on your chatbots and turn them from simple command-line pretenders to useful tools that customers will love.</p> <p>Come along and become a chatbot builder for your organisation today!</p> <p>James Mann is a Microsoft MVP working as a software consultant at Black Marble with intrests in chat bots and cognitive services</p> <p><a href=\"https://twitter.com/jamesemann\" class=\"linkified\">https://twitter.com/jamesemann</a></p> <p><a href=\"http://blogs.blackmarble.co.uk/blogs/jmann\" class=\"linkified\">http://blogs.blackmarble.co.uk/blogs/jmann</a></p> "
   url: https://www.meetup.com/dotnetYork/events/243704122/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
   starts: 2018-01-04T18:30:00.0000000
   ends: 2018-01-04T21:30:00.0000000
+  venue: The Cross Keys
+- name: Crypto Meet & chat with drinks
+  description: "<p>• What we'll do<br/>Digital currency and investment informal meet, chat and drinks</p> <p>• What to bring<br/>Just bring yourself!! Arrive when you like and leave when you like.</p> <p>• Important to know</p> "
+  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/246451773/
+  is-free: true
+  starts: 2018-01-04T18:30:00.0000000
+  ends: 2018-01-04T20:30:00.0000000
+  venue: Royal Oak
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/246276778/
@@ -46,6 +29,15 @@
   starts: 2018-01-08T07:30:00.0000000
   ends: 2018-01-08T10:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: Try My Brand New Unit Testing Game
+  description: "<p>Come along and try out David's new game based on unit tests. This session will be suitable for programmers of all abilities.</p> <p>It would be very helpful that if you have a laptop that you bring it along with your programming language of choice already installed on it, and ideally configured with a unit testing framework.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</p> <p>Sponsored by York St. John University.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg\" /></p> "
+  url: https://www.meetup.com/York-Code-Dojo/events/246460704/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2018-01-10T18:30:00.0000000
+  ends: 2018-01-10T20:30:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
@@ -98,6 +90,30 @@
   ends: 2018-01-17T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxcbwb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-01-17T08:00:00.0000000
+  ends: 2018-01-17T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: Building websites with Zend Expressive 2 - Rob Allen
+  description: "<p>18:30 – Turn up, have a drink, a snack, and a chat (pizza, soft drinks, beer, coffee)<br/>19:00 – Welcome and announcements<br/>19:15 – Building websites with Zend Expressive 2 - Rob Allen<br/>20:00ish – Pop over to the pub for a chat and a drink</p> <p>This is a free event, open to all. There will be some bottles of beer, tea, coffee, soft drinks, and pizza provided.</p> <p>Please note that Futurelabs has moved to a new location.<br/>_______________________________</p> <p>★ Building websites with Zend Expressive 2 - Rob Allen (<a href=\"https://twitter.com/akrabat\" class=\"linkified\">https://twitter.com/akrabat</a>)</p> <p>We’re very pleased to have Rob Allen speaking. Rob is Lead developer of Slim Framework (<a href=\"https://www.slimframework.com\" class=\"linkified\">https://www.slimframework.com</a>), author, and conference speaker.</p> <p>\"Zend Expressive 2 is the ideal framework for building PHP applications of all types. Its easy-to-understand architecture makes it ideal for projects of all shapes and sizes. In this talk, I'll show you how to build an Expressive application than can scale with your needs. We will look at how Expressive's middleware system leverages the upcoming PSR-15 specification to create easily understandable and flexible applications. We will cover application setup, routing and error handling before diving into some thoughts on how architect an Expressive application. By the end of the session, you will be equipped to create Expressive applications yourself.\"<br/><a href=\"https://framework.zend.com/blog/2017-03-07-expressive-2.html\" class=\"linkified\">https://framework.zend.com/blog/2017-03-07-expressive-2.html</a><br/>_______________________________</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Futurelabs (<a href=\"http://futurelabs.org.uk/\" class=\"linkified\">http://futurelabs.org.uk/</a>) – Are a not-for-profit formed to help provide a focal point for tech start-up and scale-up businesses in and around Leeds. Futurelabs offer hot desking, fixed desk space or larger office spaces for tech businesses at very reasonable prices. @LeedsFuturelabs (<a href=\"https://twitter.com/LeedsFuturelabs\" class=\"linkified\">https://twitter.com/LeedsFuturelabs</a>)</p> <p>• Sky Betting &amp; Gaming (<a href=\"http://skybetcareers.com/about-us\" class=\"linkified\">http://skybetcareers.com/about-us</a>) – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their careers page (<a href=\"http://skybetcareers.com/\" class=\"linkified\">http://skybetcareers.com/</a>) provides great detail as to the working environment and range of work available across the technology stack. @skybetcareers (<a href=\"https://twitter.com/skybetcareers\" class=\"linkified\">https://twitter.com/skybetcareers</a>)</p> <p>• Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) – Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href=\"https://twitter.com/InfinityWorks\" class=\"linkified\">https://twitter.com/InfinityWorks</a>)</p> "
+  url: https://www.meetup.com/leedsphp/events/245232740/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
+  starts: 2018-01-17T18:30:00.0000000
+  ends: 2018-01-17T20:30:00.0000000
+  venue: FutureLabs @ Platform
+- name: 'AI GETS SERIOUS : PART 2'
+  description: "<p>Kicking off 2018 we are teaming up with BJSS for part 2 of our 'AI gets serious' events.<br/>Find footage of part 1 here: <a href=\"https://www.youtube.com/watch?v=MGgWDa0tfpQ\" class=\"embedded\">https://www.youtube.com/watch?v=MGgWDa0tfpQ</a> This will be a highly engaging/ interactive event. We advise you to register your interest as soon as possible to avoid disapointment.</p> <p>Email: techconnect@amsourcetechnology.com</p> "
+  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/245943412/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
+  starts: 2018-01-17T18:30:00.0000000
+  ends: 2018-01-17T21:00:00.0000000
+  venue: BJSS Limited
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxcbxb/
