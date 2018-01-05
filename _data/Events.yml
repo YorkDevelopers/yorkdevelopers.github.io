@@ -25,6 +25,29 @@
   starts: 2018-02-28T19:00:00.0000000
   ends: 2018-02-28T20:30:00.0000000
   venue: St Peter's School
+- name: Measuring ability in generic skills - should we and can we?
+  description: >-
+    Speaker: Professor Tony Ward, Department of Electronic Engineering
+
+    Department of Electronic Engineering Inaugural Lectures
+
+    In relation to generic skills, Higher Education faces two fundamental questions: Should we be measuring the ability of students?; and secondly if we should, can we? The talk starts with the "should we" by looking at a model of the student first employment transition and what industry declares it needs. Some current research into the analysis of job adverts tells an interesting story in terms of what skills are sought by industry and, more interestingly how level of ability is articulated. The talk then addresses the obvious question of what are the generic skills and discusses the complexities in terminology and definitions. It then turns to the second question of can we measure ability in generic skills and discusses issues of accuracy, reliability, rater bias and fatigue and certification in relation to public speaking as an examplar. The conclusion? Should we and can we? Come along and find out some of the things that affect our ability to answer these questions and do anything.
+
+    Speaker biography:  Tony joined the Department of Electronics on the 1st January 1993 as a lecturer in Business Management after 18 years in Industry as an electronic design engineer, technical manager and programme manager for a number of different companies in the UK and US. Within York he has held the position of Provost of Alcuin College and Director of the Centre for Excellence in Teaching and Learning in Enterprise. Externally he has been President of the European Association for Education in Electrical and Information Engineering and managed or participated in over 20 research projects. His research is in area of Engineering Education and Entrepreneurship with a specific focus on exploring the development and assessment of generic skills.
+
+    NB There will be a drinks reception in PT005A at 5.30pm. All lecture attendees welcome. 
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/measuring-ability-in-generic-skills-should-we-and-can-we-tickets-41333676138?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38735148/22468345120/1/original.jpg?h=200&w=450&rect=0,25,262,131&s=4a75412b926e841175e7f2d260908b37
+  starts: 2018-02-01T18:30:00.0000000
+  ends: 2018-02-01T19:30:00.0000000
+  venue: Room P/X001
 - name: Building a better computer
   description: >-
     Speaker: Professor Jim Austin, Department of Computer Science
@@ -50,29 +73,6 @@
   starts: 2018-02-28T18:30:00.0000000
   ends: 2018-02-28T19:30:00.0000000
   venue: Ron Cooke Hub auditorium
-- name: Measuring ability in generic skills - should we and can we?
-  description: >-
-    Speaker: Professor Tony Ward, Department of Electronic Engineering
-
-    Department of Electronic Engineering Inaugural Lectures
-
-    In relation to generic skills, Higher Education faces two fundamental questions: Should we be measuring the ability of students?; and secondly if we should, can we? The talk starts with the "should we" by looking at a model of the student first employment transition and what industry declares it needs. Some current research into the analysis of job adverts tells an interesting story in terms of what skills are sought by industry and, more interestingly how level of ability is articulated. The talk then addresses the obvious question of what are the generic skills and discusses the complexities in terminology and definitions. It then turns to the second question of can we measure ability in generic skills and discusses issues of accuracy, reliability, rater bias and fatigue and certification in relation to public speaking as an examplar. The conclusion? Should we and can we? Come along and find out some of the things that affect our ability to answer these questions and do anything.
-
-    Speaker biography:  Tony joined the Department of Electronics on the 1st January 1993 as a lecturer in Business Management after 18 years in Industry as an electronic design engineer, technical manager and programme manager for a number of different companies in the UK and US. Within York he has held the position of Provost of Alcuin College and Director of the Centre for Excellence in Teaching and Learning in Enterprise. Externally he has been President of the European Association for Education in Electrical and Information Engineering and managed or participated in over 20 research projects. His research is in area of Engineering Education and Entrepreneurship with a specific focus on exploring the development and assessment of generic skills.
-
-    NB There will be a drinks reception in PT005A at 5.30pm. All lecture attendees welcome. 
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/measuring-ability-in-generic-skills-should-we-and-can-we-tickets-41333676138?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38735148/22468345120/1/original.jpg?h=200&w=450&rect=0,25,262,131&s=4a75412b926e841175e7f2d260908b37
-  starts: 2018-02-01T18:30:00.0000000
-  ends: 2018-02-01T19:30:00.0000000
-  venue: Room P/X001
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -639,29 +639,6 @@
   starts: 2018-03-21T15:00:00.0000000
   ends: 2018-03-21T16:00:00.0000000
   venue: ILS Training area (outside FT/120)
-- name: Umbraco Meetup
-  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> "
-  url: https://www.meetup.com/umbLeeds/events/245663400/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
-  starts: 2018-01-04T17:30:00.0000000
-  ends: 2018-01-04T20:30:00.0000000
-  venue: The Adelphi
-- name: Become a Bot Builder with Microsoft Bot Framework
-  description: "<p>The way in which customers expect to be able to interact with companies is changing. We'll look at this change and how you can take advantage of it by creating chatbots using the Microsoft Bot Framework.</p> <p>We'll cover the basics, including what tools you can use and where to go in order to get started. Then we'll see how we can use Microsoft Cognitive Services to sprinkle AI magic on your chatbots and turn them from simple command-line pretenders to useful tools that customers will love.</p> <p>Come along and become a chatbot builder for your organisation today!</p> <p>James Mann is a Microsoft MVP working as a software consultant at Black Marble with intrests in chat bots and cognitive services</p> <p><a href=\"https://twitter.com/jamesemann\" class=\"linkified\">https://twitter.com/jamesemann</a></p> <p><a href=\"http://blogs.blackmarble.co.uk/blogs/jmann\" class=\"linkified\">http://blogs.blackmarble.co.uk/blogs/jmann</a></p> "
-  url: https://www.meetup.com/dotnetYork/events/243704122/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2018-01-04T18:30:00.0000000
-  ends: 2018-01-04T21:30:00.0000000
-  venue: The Cross Keys
-- name: Crypto Meet & chat with drinks
-  description: "<p>• What we'll do<br/>Digital currency and investment informal meet, chat and drinks</p> <p>• What to bring<br/>Just bring yourself!! Arrive when you like and leave when you like.</p> <p>• Important to know</p> "
-  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/246451773/
-  is-free: true
-  starts: 2018-01-04T18:30:00.0000000
-  ends: 2018-01-04T20:30:00.0000000
-  venue: Royal Oak
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/246276778/
@@ -691,19 +668,19 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxcbnb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/246478753/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-01-10T08:00:00.0000000
   ends: 2018-01-10T11:00:00.0000000
   venue: La Bottega Milanese
-- name: 'January 2018: - (Cool things with RasPi and micro:bit) Matt Moore'
-  description: '<p>Details soon</p> '
+- name: 'January 2018: Matt Moore - Learn to code with Raspberry Pi, Microbit, MakeyMakey'
+  description: "<p>** Here's why Raspberry Pi / Microbit / MakeyMakey are great for learning to code **</p> <p>Matt will begin by sharing his experience of teaching young people to write code using Raspberry Pi, Microbit, and MakeyMakey, and how these tools let people learn to code in a simple, fun and accessible way. We'll see these devices in action and what coding them looks like. Following his talk, Matt will then help attendees to get \"hands-on\" with coding some simple programmes on these devices.</p> <p>Come and see these awesome devices in action and get a taste of how to code them!!!</p> <p>**Matt Moore** is a Primary Computing Specialist: a full time teacher in Bradford, and a full time Nerd in Leeds! \"I have 8 years teaching in primary, 5 as a computing specialist. Working across 5 schools, improving the provision and skills of teachers. A passion for using tech to bring the most out of pupils. You tend to find me with my head stuck in a 3d printer, or under a pile of wires on my desk!\" Twitter: @AlwaysComputing</p> "
   url: https://www.meetup.com/CodeMill-Digital-Skills/events/243110763/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/8/3/1/5/thumb_466533557.jpeg
   starts: 2018-01-11T18:30:00.0000000
-  ends: 2018-01-11T21:30:00.0000000
+  ends: 2018-01-11T20:30:00.0000000
   venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
@@ -755,6 +732,13 @@
   starts: 2018-01-17T18:30:00.0000000
   ends: 2018-01-17T21:00:00.0000000
   venue: BJSS Limited
+- name: Come to talk Java, Kafka, sports and betting with William Hill
+  description: "<p>• What we'll do<br/>Here at William Hill Java is a core part of our technology stack running through everything we do. Our teams of Developers are always looking for ways to share what they know and also learn from others in the same field. The Java world after all, is fast paced and constantly changing. Just like betting and gaming.</p> <p>We have some ambitious global projects going on within Java Tech which we’d like to share with you. So, our very first Java meetup is going to be held on Thursday 18th January at our offices in central Leeds. On the night, there’ll be presentations from our tech teams plus food, drink and lots of opportunity to chat to fellow engineers keen to learn and share.</p> <p>Planned agenda.</p> <p>Introductions from Chris Noble, Development Lead, with an overview to what we do at William Hill.</p> <p>Presentation 1 - Retail team<br/>Our Retail developers are making in-shop betting future proof – we’re no longer just the bookies on the high street. You can help us deliver omni-channel betting to customers – linking their online and shop accounts. Get involved in rolling out a state of the art EPOS system to over 2300 shops. That’s more UK shops than McDonalds and Burger King combined.</p> <p>Presentation 2 - Trading Team<br/>Our Trading team work on back-end betting systems that span our international customer base from Australia to Vegas and beyond. They code the platform which William Hill’s odds traders use to update the bet prices on live events. Our systems have to reflect millions of real-time, In-Play sports events, so developing systems that are designed for low latency and high throughput is critical.</p> <p>• What to bring<br/>Good chat about cutting edge software development</p> <p>• Important to know<br/>This event is open to anyone with a genuine interest or experience in the tech we're talking about, and how we're applying it to William Hill's trading and retail systems. The event isn't open to recruiters. If you register, we'll get in touch to introduce ourselves and find out a bit more about you.</p> "
+  url: https://www.meetup.com/Leeds-Java-Meetup/events/245939425/
+  is-free: true
+  starts: 2018-01-18T18:00:00.0000000
+  ends: 2018-01-18T21:00:00.0000000
+  venue: William Hill
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxcbxb/
@@ -1206,6 +1190,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-06-25T06:30:00.0000000
   ends: 2018-06-25T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxjbkc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-06-27T06:30:00.0000000
+  ends: 2018-06-27T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
