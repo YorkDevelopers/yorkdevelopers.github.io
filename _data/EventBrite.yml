@@ -48,6 +48,20 @@
   starts: 2018-02-01T18:30:00.0000000
   ends: 2018-02-01T19:30:00.0000000
   venue: Room P/X001
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-41280762873?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
+  starts: 2018-01-18T18:30:00.0000000
+  ends: 2018-01-18T19:30:00.0000000
 - name: Building a better computer
   description: >-
     Speaker: Professor Jim Austin, Department of Computer Science
@@ -73,20 +87,6 @@
   starts: 2018-02-28T18:30:00.0000000
   ends: 2018-02-28T19:30:00.0000000
   venue: Ron Cooke Hub auditorium
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-41280762873?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
-  starts: 2018-01-18T18:30:00.0000000
-  ends: 2018-01-18T19:30:00.0000000
 - name: 'From brown to green chemistry: Sustainability, waste and the circular economy'
   description: >-
     Speaker: Dr Avtar Matharu, Green Chemistry Centre of Excellence
@@ -137,6 +137,25 @@
   starts: 2018-01-24T17:00:00.0000000
   ends: 2018-01-24T18:30:00.0000000
   venue: De Grey Lecture Theatre (DG/017)
+- name: Creative Engineering
+  description: >-
+    Speaker: Professor Andy Hunt, Department of Electronic Engineering
+
+    Department of Electronic Engineering Inaugural Lectures
+
+    NB There will be a drinks reception in PT005A at 5.30pm. All lecture attendees welcome. 
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/creative-engineering-tickets-41333804522?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38735280/22468345120/1/original.jpg?h=200&w=450&rect=0,198,450,225&s=ba1ab530c6aee96f074b191fed583a09
+  starts: 2018-03-15T18:30:00.0000000
+  ends: 2018-03-15T19:30:00.0000000
+  venue: Room P/X001
 - name: Global Game Jam York 2018
   description: >
     ***This event is free for all students and staff from the University of York and University of York St John; email enterprise@york.ac.uk for the discount code***
@@ -196,25 +215,6 @@
   starts: 2018-01-26T16:00:00.0000000
   ends: 2018-01-28T20:00:00.0000000
   venue: Ron Cooke Hub
-- name: Creative Engineering
-  description: >-
-    Speaker: Professor Andy Hunt, Department of Electronic Engineering
-
-    Department of Electronic Engineering Inaugural Lectures
-
-    NB There will be a drinks reception in PT005A at 5.30pm. All lecture attendees welcome. 
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/creative-engineering-tickets-41333804522?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38735280/22468345120/1/original.jpg?h=200&w=450&rect=0,198,450,225&s=ba1ab530c6aee96f074b191fed583a09
-  starts: 2018-03-15T18:30:00.0000000
-  ends: 2018-03-15T19:30:00.0000000
-  venue: Room P/X001
 - name: York Raspberry Jam
   description: >-
     Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
@@ -291,6 +291,14 @@
   starts: 2018-03-22T12:00:00.0000000
   ends: 2018-03-22T17:00:00.0000000
   venue: York Marriott Hotel
+- name: 'Unavoidable food waste in Yorkshire: opportunities to add value.'
+  description: "The BioVale Value from Unavoidable Food Waste Special Interest Group (VFW SIG) has been working with the University of York to map and identify opportunities for added value from food manufacturing waste in Yorkshire. \nThis meeting aims to draw together food manufacturers who have unavoidable waste with technology providers who can use that waste to make useful products as well as funders who can help support innovation projects. \nThe optional afternoon session is an open innovation event, focusing on developing projects and technologies to add value to poultry waste and by-products of fresh produce.\n\nAgenda\nMorning session: Presentation of mapping results and innovation opportunities\n10.00    Registration, coffee networking\n11.00    Peter Ball, University of York Welcome\n11.05     Welcome from BioVale VFW SIG\n11.10    Anne O’Brien, Anthesis Ltd Review of results from food waste mapping exercise\n11.30    Joe Bennett BDC Review of opportunities to add value to waste from poultry raising, fresh produce and                 farinaceous products\n12.00     Panel discussion\n12.30    Networking lunch\n \nOptional afternoon session: Facilitated innovation project development workshop \n13.30     Presentation by poultry farmer on waste issues\n13.50     Short presentations by innovation and technology providers\n14.30     Offers of funding for innovation\n14.45     Tea break\n15.00     Facilitated discussions and 1:1 meetings\n16.00     Feedback\n16.15    Depart\nThis event is organised by BioVale's special interest group on Value from Unavoidable Food Waste. By registering for this event, you will become a member of BioVale and receive the BioVale newsletter by email.Further details here on membership and terms and conditions. "
+  url: https://www.eventbrite.co.uk/e/unavoidable-food-waste-in-yorkshire-opportunities-to-add-value-tickets-41834018676?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/39215364/132068918034/1/original.jpg?h=200&w=450&rect=0,480,5760,2880&s=af188788624e9bdd8b0fb4c7c5e49df6
+  starts: 2018-02-27T10:00:00.0000000
+  ends: 2018-02-27T16:00:00.0000000
+  venue: Holiday Inn York
 - name: 'WE1: Website CMS Basic training (Thu 8 Feb 10:00-12:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -588,54 +596,4 @@
   logo: https://cdn.evbuc.com/images/38173984/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=fe63c70b04760121abc9c0a1da0d10dd
   starts: 2018-03-06T15:00:00.0000000
   ends: 2018-03-06T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
-- name: 'QU1: Qualtrics Essentials (Wed 21 Mar 15:00-16:00)'
-  description: >-
-    These courses are for staff, students and alumni of York St. John University only.
-
-
-    QU1: Qualtrics essentials
-
-    Prior knowledge: None
-
-    Qualtrics is a powerful, yet easy to use survey tool.
-
-    This course includes:
-
-
-    Logging in to Qualtrics
-
-    Different question types
-
-    Question Options
-
-    Previewing a survey
-
-    Launching and distributing a survey
-
-    Creating Reports
-
-    Downloading responses
-
-
-    Is this course open to anyone?
-
-    This course is only available to students, staff and alumni of York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/qu1-qualtrics-essentials-wed-21-mar-1500-1600-tickets-40835457954?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38174022/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=0916a66b35c8b2c1f3cd9f5949fb2120
-  starts: 2018-03-21T15:00:00.0000000
-  ends: 2018-03-21T16:00:00.0000000
   venue: ILS Training area (outside FT/120)
