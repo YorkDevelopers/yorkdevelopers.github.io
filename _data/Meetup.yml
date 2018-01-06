@@ -41,6 +41,13 @@
   starts: 2018-01-11T18:30:00.0000000
   ends: 2018-01-11T20:30:00.0000000
   venue: ODI Leeds Node
+- name: Crypto chat with drinks!
+  description: "<p>• What we'll do<br/>We meet up and have an informal chat about digital currency and investing over drinks.</p> <p>• What to bring</p> <p><br/>• Important to know<br/>We are in the function room upstairs. Grab a drink and then come up the stirs to the right. Please arrive and leave when you like.</p> "
+  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/246513856/
+  is-free: true
+  starts: 2018-01-11T18:30:00.0000000
+  ends: 2018-01-11T20:30:00.0000000
+  venue: Royal Oak
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/246276823/
@@ -50,14 +57,6 @@
   ends: 2018-01-15T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Agile Transformation Speaker Panel
-  description: '<p>About the Session</p> <p>This speaker panel will include people from within the Leeds area who have been heavily involved in agile transformation. What has worked well and what would they do differently next time?</p> <p>About the Panel</p> <p>Participants will be listed closer to the date.</p> <p>Practical bits</p> <p>• Doors open at 6 and the session starts at 6:30</p> <p>• Note that this is back in Apsley House.</p> <p>• Go to the 3rd Floor.</p> <p>------------</p> <p>Agile in Leeds supports diversitycharter.org (<a href="http://diversitycharter.org/" class="linkified">http://diversitycharter.org/</a>)</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/d/3/2/600_449916146.jpeg" /></p> '
-  url: https://www.meetup.com/Agile-in-Leeds/events/243522670/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
-  starts: 2018-01-16T18:00:00.0000000
-  ends: 2018-01-16T20:00:00.0000000
-  venue: 3rd Floor, Apsley House
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcbwb/
