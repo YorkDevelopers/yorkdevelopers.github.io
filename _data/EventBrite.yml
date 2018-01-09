@@ -1,14 +1,3 @@
-- name: 'Dr Pete Edwards: Gravity, Gas and Stardust'
-  description: >-
-    This free lecture will be taking place as part of St Peter's School's Stargazing Live event. This annual exhibition will feature a planetarium dome, hands-on experiments, a variety of telescopes to explore the night sky with.Join us in the Shepherd Hall from 5.30pm to ensure you have plenty of time to explore the exhibition before the lecture.Admission to both the exhibition and the lecture is free, but you must reserve a place for the lecture.
-
-    Dr Pete Edwards, University of Durham: Gravity, Gas and StardustHow and when did our universe begin? What made it look like this? How will it end? These are all questions that have preoccupied mankind since the beginning of civilisation. This lecture will explore humanity’s latest progress in developing an understanding of what makes our universe tick. 
-  url: https://www.eventbrite.co.uk/e/dr-pete-edwards-gravity-gas-and-stardust-tickets-41106191726?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38488639/87497926893/1/original.jpg?h=200&w=450&rect=0,87,1200,600&s=937249361d9d4239505b6039be5a5075
-  starts: 2018-01-12T19:00:00.0000000
-  ends: 2018-01-12T20:30:00.0000000
-  venue: St Peter's School
 - name: 'Professor Phil Manning: Last Days of the Dinosaurs'
   description: The end of the dinosaurs’ reign on Earth was 65 million years ago. What happened? New discoveries in Mexico provide the first ever timing of events on the last day of the Cretaceous.
   url: https://www.eventbrite.co.uk/e/professor-phil-manning-last-days-of-the-dinosaurs-tickets-41454392203?aff=ebapi
@@ -183,16 +172,19 @@
     ***Introductory workshop***
 
 
-    In preparation for the Game Jam, we will be running the following workshops on GameMaker (focussing on 2D games) and the Unity game engine (focussing on 3D games). Tickets will be made available for these once times and venues have been confirmed.
+    In preparation for the Game Jam, we will be running the following workshops on Ren'Py and the Unity game engine (focussing on 3D games).
+
+    Ren'Py Beginners (Wednesday 17th January, 2-4pm, RCH/017)
+
+    Never made a game before? Are you creative and would like to learn some simple tools for making a narrative-based game? We are offering a free Ren'Py workshop on Wednesday 17th January at 14:00 in the Ron Cooke Hub. Ren'Py is a visual novel engine – used by thousands of creators from around the world – that helps you use words, images, and sounds to tell interactive stories that run on computers and mobile devices. These can be both visual novels and life simulation games. All you need to bring is your creativity and your laptop, ideally with the free software downloaded in advance (available here: https://www.renpy.org/)
+
+    If you would like to dip your toe into the game-making waters, book a workshop ticket now!
 
 
-    GameMaker Beginners (Time and Location TBC)
-
-    Never made a game before? No programming experience? No problem. An industry insider will take you through the basics. Be sure to bring your laptop with you, and have GameMaker pre-installed (free version available online). Note: Windows OS only.
-
-    Unity Workshop - (Time and Location TBC)
+    Unity (Friday 26th January, 1-4pm, RCH/003)
 
     This workshop will cover setting up a project through to moving a character around a 3D virtual environment. Previous experience with either C# or JavaScript would be ideal, but prior experience in other programming languages should suffice. Be sure to bring your laptop with you, and have Unity pre-installed (free version available online).
+
 
 
     What do I need to bring?
@@ -228,6 +220,14 @@
   starts: 2018-01-22T17:15:00.0000000
   ends: 2018-01-22T19:15:00.0000000
   venue: Acomb Explore Library
+- name: 'Unavoidable food waste in Yorkshire: opportunities to add value.'
+  description: "The BioVale Value from Unavoidable Food Waste Special Interest Group (VFW SIG) has been working with the University of York to map and identify opportunities for added value from food manufacturing waste in Yorkshire. \nThis meeting aims to present the results of this work and draw together food manufacturers who have unavoidable waste with technology providers who can use that waste to make useful products as well as funders who can help support innovation projects. \nThe optional afternoon session is an open innovation event, focusing on developing projects and technologies to add value to poultry waste and by-products of fresh produce.\n\nAgenda\nMorning session: Presentation of mapping results and innovation opportunities\n10.00    Registration, coffee networking\n11.00    Peter Ball, University of York Welcome\n11.05     Welcome from BioVale VFW SIG\n11.10    Anne O’Brien, Anthesis Ltd Review of results from food waste mapping exercise\n11.30    Joe Bennett BDC Review of opportunities to add value to waste from poultry raising, fresh produce and                 farinaceous products\n12.00     Panel discussion\n12.30    Networking lunch\n \nOptional afternoon session: Facilitated innovation project development workshop \n13.30     Presentation by poultry farmer on waste issues\n13.50     Short presentations by innovation and technology providers\n14.30     Offers of funding for innovation\n14.45     Tea break\n15.00     Facilitated discussions and 1:1 meetings\n16.00     Feedback\n16.15    Depart\nThis event is organised by BioVale's special interest group on Value from Unavoidable Food Waste. By registering for this event, you will become a member of BioVale and receive the BioVale newsletter by email.Further details here on membership and terms and conditions. "
+  url: https://www.eventbrite.co.uk/e/unavoidable-food-waste-in-yorkshire-opportunities-to-add-value-tickets-41834018676?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/39215364/132068918034/1/original.jpg?h=200&w=450&rect=0,480,5760,2880&s=af188788624e9bdd8b0fb4c7c5e49df6
+  starts: 2018-02-27T10:00:00.0000000
+  ends: 2018-02-27T13:00:00.0000000
+  venue: Holiday Inn York
 - name: Texture in formulations – SCS RDG North
   description: >-
     22 MARCH 2018 
@@ -291,14 +291,56 @@
   starts: 2018-04-18T08:30:00.0000000
   ends: 2018-04-18T17:00:00.0000000
   venue: National Railway Museum York
-- name: 'Unavoidable food waste in Yorkshire: opportunities to add value.'
-  description: "The BioVale Value from Unavoidable Food Waste Special Interest Group (VFW SIG) has been working with the University of York to map and identify opportunities for added value from food manufacturing waste in Yorkshire. \nThis meeting aims to draw together food manufacturers who have unavoidable waste with technology providers who can use that waste to make useful products as well as funders who can help support innovation projects. \nThe optional afternoon session is an open innovation event, focusing on developing projects and technologies to add value to poultry waste and by-products of fresh produce.\n\nAgenda\nMorning session: Presentation of mapping results and innovation opportunities\n10.00    Registration, coffee networking\n11.00    Peter Ball, University of York Welcome\n11.05     Welcome from BioVale VFW SIG\n11.10    Anne O’Brien, Anthesis Ltd Review of results from food waste mapping exercise\n11.30    Joe Bennett BDC Review of opportunities to add value to waste from poultry raising, fresh produce and                 farinaceous products\n12.00     Panel discussion\n12.30    Networking lunch\n \nOptional afternoon session: Facilitated innovation project development workshop \n13.30     Presentation by poultry farmer on waste issues\n13.50     Short presentations by innovation and technology providers\n14.30     Offers of funding for innovation\n14.45     Tea break\n15.00     Facilitated discussions and 1:1 meetings\n16.00     Feedback\n16.15    Depart\nThis event is organised by BioVale's special interest group on Value from Unavoidable Food Waste. By registering for this event, you will become a member of BioVale and receive the BioVale newsletter by email.Further details here on membership and terms and conditions. "
-  url: https://www.eventbrite.co.uk/e/unavoidable-food-waste-in-yorkshire-opportunities-to-add-value-tickets-41834018676?aff=ebapi
+- name: 'QU1: Qualtrics Essentials (Fri 23 Feb 10:00-11:00)'
+  description: >-
+    These courses are for staff, students and alumni of York St. John University only.
+
+
+    QU1: Qualtrics essentials
+
+    Prior knowledge: None
+
+    Qualtrics is a powerful, yet easy to use survey tool.
+
+    This course includes:
+
+
+    Logging in to Qualtrics
+
+    Different question types
+
+    Question Options
+
+    Previewing a survey
+
+    Launching and distributing a survey
+
+    Creating Reports
+
+    Downloading responses
+
+
+    Is this course open to anyone?
+
+    This course is only available to students, staff and alumni of York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/qu1-qualtrics-essentials-fri-23-feb-1000-1100-tickets-40835412819?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/39215364/132068918034/1/original.jpg?h=200&w=450&rect=0,480,5760,2880&s=af188788624e9bdd8b0fb4c7c5e49df6
-  starts: 2018-02-27T10:00:00.0000000
-  ends: 2018-02-27T16:00:00.0000000
-  venue: Holiday Inn York
+  logo: https://cdn.evbuc.com/images/38173922/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=b80d41b7f2b5170b579b07b484a4d7d9
+  starts: 2018-02-23T10:00:00.0000000
+  ends: 2018-02-23T11:00:00.0000000
+  venue: ILS Training area (outside FT/120)
 - name: 'WE1: Website CMS Basic training (Thu 8 Feb 10:00-12:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -497,56 +539,6 @@
   starts: 2018-01-23T14:00:00.0000000
   ends: 2018-01-23T15:00:00.0000000
   venue: ILS Training area (outside FT/120)
-- name: 'QU1: Qualtrics Essentials (Fri 16 Feb 10:00-11:00)'
-  description: >-
-    These courses are for staff, students and alumni of York St. John University only.
-
-
-    QU1: Qualtrics essentials
-
-    Prior knowledge: None
-
-    Qualtrics is a powerful, yet easy to use survey tool.
-
-    This course includes:
-
-
-    Logging in to Qualtrics
-
-    Different question types
-
-    Question Options
-
-    Previewing a survey
-
-    Launching and distributing a survey
-
-    Creating Reports
-
-    Downloading responses
-
-
-    Is this course open to anyone?
-
-    This course is only available to students, staff and alumni of York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/qu1-qualtrics-essentials-fri-16-feb-1000-1100-tickets-40835412819?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38173922/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=b80d41b7f2b5170b579b07b484a4d7d9
-  starts: 2018-02-16T10:00:00.0000000
-  ends: 2018-02-16T11:00:00.0000000
-  venue: ILS Training area (outside FT/120)
 - name: 'QU1: Qualtrics Essentials (Tue 6 Mar 15:00-16:00)'
   description: >-
     These courses are for staff, students and alumni of York St. John University only.
@@ -596,4 +588,54 @@
   logo: https://cdn.evbuc.com/images/38173984/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=fe63c70b04760121abc9c0a1da0d10dd
   starts: 2018-03-06T15:00:00.0000000
   ends: 2018-03-06T16:00:00.0000000
+  venue: ILS Training area (outside FT/120)
+- name: 'QU1: Qualtrics Essentials (Wed 21 Mar 15:00-16:00)'
+  description: >-
+    These courses are for staff, students and alumni of York St. John University only.
+
+
+    QU1: Qualtrics essentials
+
+    Prior knowledge: None
+
+    Qualtrics is a powerful, yet easy to use survey tool.
+
+    This course includes:
+
+
+    Logging in to Qualtrics
+
+    Different question types
+
+    Question Options
+
+    Previewing a survey
+
+    Launching and distributing a survey
+
+    Creating Reports
+
+    Downloading responses
+
+
+    Is this course open to anyone?
+
+    This course is only available to students, staff and alumni of York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/qu1-qualtrics-essentials-wed-21-mar-1500-1600-tickets-40835457954?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38174022/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=0916a66b35c8b2c1f3cd9f5949fb2120
+  starts: 2018-03-21T15:00:00.0000000
+  ends: 2018-03-21T16:00:00.0000000
   venue: ILS Training area (outside FT/120)
