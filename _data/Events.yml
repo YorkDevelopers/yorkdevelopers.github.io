@@ -188,6 +188,14 @@
   starts: 2018-01-26T16:00:00.0000000
   ends: 2018-01-28T20:00:00.0000000
   venue: Ron Cooke Hub
+- name: 'Unavoidable food waste in Yorkshire: opportunities to add value.'
+  description: "The BioVale Value from Unavoidable Food Waste Special Interest Group (VFW SIG) has been working with the University of York to map and identify opportunities for added value from food manufacturing waste in Yorkshire. \nThis meeting aims to present the results of this work and draw together food manufacturers who have unavoidable waste with technology providers who can use that waste to make useful products as well as funders who can help support innovation projects. \nThe optional afternoon session is an open innovation event, focusing on developing projects and technologies to add value to poultry waste and by-products of fresh produce.\n\nAgenda\nMorning session: Presentation of mapping results and innovation opportunities\n10.00    Registration, coffee networking\n11.00    Peter Ball, University of York Welcome\n11.05     Welcome from BioVale VFW SIG\n11.10    Anne O’Brien, Anthesis Ltd Review of results from food waste mapping exercise\n11.30    Joe Bennett BDC Review of opportunities to add value to waste from poultry raising, fresh produce and                 farinaceous products\n12.00     Panel discussion\n12.30    Networking lunch\n \nOptional afternoon session: Facilitated innovation project development workshop \n13.30     Presentation by poultry farmer on waste issues\n13.50     Short presentations by innovation and technology providers\n14.30     Offers of funding for innovation\n14.45     Tea break\n15.00     Facilitated discussions and 1:1 meetings\n16.00     Feedback\n16.15    Depart\nThis event is organised by BioVale's special interest group on Value from Unavoidable Food Waste. By registering for this event, you will become a member of BioVale and receive the BioVale newsletter by email.Further details here on membership and terms and conditions. "
+  url: https://www.eventbrite.co.uk/e/unavoidable-food-waste-in-yorkshire-opportunities-to-add-value-tickets-41834018676?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/39215364/132068918034/1/original.jpg?h=200&w=450&rect=0,480,5760,2880&s=af188788624e9bdd8b0fb4c7c5e49df6
+  starts: 2018-02-27T10:00:00.0000000
+  ends: 2018-02-27T13:00:00.0000000
+  venue: Holiday Inn York
 - name: Creative Engineering
   description: >-
     Speaker: Professor Andy Hunt, Department of Electronic Engineering
@@ -207,14 +215,6 @@
   starts: 2018-03-15T18:30:00.0000000
   ends: 2018-03-15T19:30:00.0000000
   venue: Room P/X001
-- name: 'Unavoidable food waste in Yorkshire: opportunities to add value.'
-  description: "The BioVale Value from Unavoidable Food Waste Special Interest Group (VFW SIG) has been working with the University of York to map and identify opportunities for added value from food manufacturing waste in Yorkshire. \nThis meeting aims to present the results of this work and draw together food manufacturers who have unavoidable waste with technology providers who can use that waste to make useful products as well as funders who can help support innovation projects. \nThe optional afternoon session is an open innovation event, focusing on developing projects and technologies to add value to poultry waste and by-products of fresh produce.\n\nAgenda\nMorning session: Presentation of mapping results and innovation opportunities\n10.00    Registration, coffee networking\n11.00    Peter Ball, University of York Welcome\n11.05     Welcome from BioVale VFW SIG\n11.10    Anne O’Brien, Anthesis Ltd Review of results from food waste mapping exercise\n11.30    Joe Bennett BDC Review of opportunities to add value to waste from poultry raising, fresh produce and                 farinaceous products\n12.00     Panel discussion\n12.30    Networking lunch\n \nOptional afternoon session: Facilitated innovation project development workshop \n13.30     Presentation by poultry farmer on waste issues\n13.50     Short presentations by innovation and technology providers\n14.30     Offers of funding for innovation\n14.45     Tea break\n15.00     Facilitated discussions and 1:1 meetings\n16.00     Feedback\n16.15    Depart\nThis event is organised by BioVale's special interest group on Value from Unavoidable Food Waste. By registering for this event, you will become a member of BioVale and receive the BioVale newsletter by email.Further details here on membership and terms and conditions. "
-  url: https://www.eventbrite.co.uk/e/unavoidable-food-waste-in-yorkshire-opportunities-to-add-value-tickets-41834018676?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/39215364/132068918034/1/original.jpg?h=200&w=450&rect=0,480,5760,2880&s=af188788624e9bdd8b0fb4c7c5e49df6
-  starts: 2018-02-27T10:00:00.0000000
-  ends: 2018-02-27T13:00:00.0000000
-  venue: Holiday Inn York
 - name: York Raspberry Jam
   description: >-
     Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
@@ -639,32 +639,6 @@
   starts: 2018-03-21T15:00:00.0000000
   ends: 2018-03-21T16:00:00.0000000
   venue: ILS Training area (outside FT/120)
-- name: Try My Brand New Unit Testing Game
-  description: "<p>Come along and try out David's new game based on unit tests. This session will be suitable for programmers of all abilities.</p> <p>It would be very helpful that if you have a laptop that you bring it along with your programming language of choice already installed on it, and ideally configured with a unit testing framework.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The room for the York Code Dojo is FT/112. This is located in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the first floor.</p> <p>Sponsored by York St. John University.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg\" /></p> "
-  url: https://www.meetup.com/York-Code-Dojo/events/246460704/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2018-01-10T18:30:00.0000000
-  ends: 2018-01-10T20:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/246276783/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-01-10T07:30:00.0000000
-  ends: 2018-01-10T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/246478753/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-01-10T08:00:00.0000000
-  ends: 2018-01-10T11:00:00.0000000
-  venue: La Bottega Milanese
 - name: 'January 2018: Matt Moore - Learn to code with Raspberry Pi, Microbit, MakeyMakey'
   description: "<p>** Here's why Raspberry Pi / Microbit / MakeyMakey are great for learning to code **</p> <p>Matt will begin by sharing his experience of teaching young people to write code using Raspberry Pi, Microbit, and MakeyMakey, and how these tools let people learn to code in a simple, fun and accessible way. We'll see these devices in action and what coding them looks like. Following his talk, Matt will then help attendees to get \"hands-on\" with coding some simple programmes on these devices.</p> <p>Come and see these awesome devices in action and get a taste of how to code them!!!</p> <p>**Matt Moore** is a Primary Computing Specialist: a full time teacher in Bradford, and a full time Nerd in Leeds! \"I have 8 years teaching in primary, 5 as a computing specialist. Working across 5 schools, improving the provision and skills of teachers. A passion for using tech to bring the most out of pupils. You tend to find me with my head stuck in a 3d printer, or under a pile of wires on my desk!\" Twitter: @AlwaysComputing</p> "
   url: https://www.meetup.com/CodeMill-Digital-Skills/events/243110763/
@@ -746,15 +720,8 @@
   ends: 2018-01-22T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: IoT Leeds - January 2018 meetup
-  description: '<p>The January meetup will be at the same time and venue as previous months.</p> <p>6:30 PM - Doors open</p> <p>7:00 PM - First talk</p> <p>7:30 PM - Break</p> <p>7:45 PM - Second talk</p> <p>8:30 PM - Finish</p> '
-  url: https://www.meetup.com/IoT-Leeds/events/244960101/
-  is-free: true
-  starts: 2018-01-22T18:30:00.0000000
-  ends: 2018-01-22T21:30:00.0000000
-  venue: FutureLabs @ Platform
-- name: HackerNest ManchesterTech Social
-  description: '<p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/b/c/6/b/600_438828235.jpeg" /></p> <p><a href="https://www.youtube.com/watch?v=9wG2TpzEm5o">HackerNest Tech Socials </a>HackerNest Tech Socials are a fun, relaxed way to connect with your local tech community. Atmosphere: chill, friendly, unpretentious, agenda-free (no sales pitch, yo), and brimming with UltraSmart(TM) people.</p> <p>We believe that strong, supportive tech communities should exist everywhere - not just in hotspots like San Francisco and New York. Manchester is an up and coming UK tech hub and HackerNest wants to help you connect with the local tech scene! </p> <p>Follow us on <a href="http://srn.kr/HNtweets">Twitter</a> and<a href="http://hckrn.st/1WT3Xoh"> Instagram</a>, like us on <a href="http://srn.kr/HNTOfb">Facebook</a>, hi-5 us in person. :) </p> <p><b>&gt;&lt;&gt; FISHACKATHON &lt;&gt;&lt;</b></p> <p><a href="http://fishackathon.hackernest.com/">Fishackathon</a> 2018 is coming to your city! Come take part of this global, 60+ city event the weekend of February 10th and 11th, 2018!</p> <p>Participant tickets open soon - get on the list - <a href="http://hckrn.st/fh04hook">hckrn.st/fh04hook</a>. Local or regional/global sponsors, please email <a href="mailto:[masked]">[masked]</a> to chat!</p> <p><a href="https://lh3.googleusercontent.com/-hZwsGkHA8oR_RAQ_C56KEBap7XF7nMTuvpjloEDHVEiLu88cAluCRLvIsQzyfCw5ayAxkLtisZ0My4IYn7DfTwylP9AIqqSkSe7qHpuuSi3p36tR4VTDOdiGYi-FGWvag66B0WG" class="linkified">https://lh3.googleusercontent.com/-hZwsGkHA8oR_RAQ_C56KEBap7XF7nMTuvpjloEDHVEiLu88cAluCRLvIsQzyfCw5ayAxkLtisZ0My4IYn7DfTwylP9AIqqSkSe7qHpuuSi3p36tR4VTDOdiGYi-FGWvag66B0WG</a></p> <p><br/>The typical Tech Social schedule:</p> <p>- 7:00pm: folks arrive, grab drinks, socialize <br/>- 8:00pm: quick intro, thank sponsors, quick announcements <br/>- 8:10pm: back to chatting with interesting new friends <br/>- 10:30pm: go home exhausted from great conversations</p> <p><b>Sponsors:</b></p> <p><a href="http://hackernest.com/sponsor_info/">&lt;/a&gt;&lt;a href="http://hackernest.com/sponsor_info/"&gt;Sponsors</a> make this growing movement possible, so we treasure and build deep, long-term relationships with the companies that endorse us. Please email <a href="mailto:[masked]">[masked]</a> for ways to connect with the HackerNest community!</p> <p><b>About Us:</b></p> <p><a href="http://hackernest.com/">HackerNest</a> builds strong, supportive local tech communities around the world. We run unpretentious tech and innovation events that improve humanity and overall economic prosperity.</p> <p><br/>Check out this video to see what Tech Socials are like:</p> <p><a href="https://youtu.be/9wG2TpzEm5o" class="embedded">https://youtu.be/9wG2TpzEm5o</a></p> <p><i>Want to volunteer at our HackerNest Tech Socials? Visit <a href="http://about.hackernest.com/volunteer/"><a href="http://about.hackernest.com/volunteer/" class="linkified">http://about.hackernest.com/volunteer/</a></a> for more information and to apply!<br/></i></p> '
+- name: HackerNest Manchester Tech Social
+  description: '<p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/b/c/6/b/600_438828235.jpeg" /></p> <p>HackerNest Tech Socials (<a href="https://www.youtube.com/watch?v=9wG2TpzEm5o" class="embedded">https://www.youtube.com/watch?v=9wG2TpzEm5o</a>) HackerNest Tech Socials are a fun, relaxed way to connect with your local tech community. Atmosphere: chill, friendly, unpretentious, agenda-free (no sales pitch, yo), and brimming with UltraSmart(TM) people.</p> <p>We believe that strong, supportive tech communities should exist everywhere - not just in hotspots like San Francisco and New York. Manchester is an up and coming UK tech hub and HackerNest wants to help you connect with the local tech scene!</p> <p>Follow us on Twitter (<a href="http://srn.kr/HNtweets" class="linkified">http://srn.kr/HNtweets</a>) and Instagram (<a href="http://hckrn.st/1WT3Xoh" class="linkified">http://hckrn.st/1WT3Xoh</a>), like us on Facebook (<a href="http://srn.kr/HNTOfb" class="linkified">http://srn.kr/HNTOfb</a>), hi-5 us in person. :)</p> <p>&amp;gt;&amp;lt;&amp;gt; FISHACKATHON &amp;lt;&amp;gt;&amp;lt;</p> <p>Fishackathon (<a href="http://fishackathon.hackernest.com/" class="linkified">http://fishackathon.hackernest.com/</a>) 2018 is coming to your city! Come take part of this global, 60+ city event the weekend of February 10th and 11th, 2018!</p> <p>Participant tickets open soon - get on the list - <a href="http://hckrn.st/fh04hook" class="linkified">http://hckrn.st/fh04hook</a> . Local or regional/global sponsors, please email [masked] to chat!</p> <p><a href="https://lh3.googleusercontent.com/-hZwsGkHA8oR_RAQ_C56KEBap7XF7nMTuvpjloEDHVEiLu88cAluCRLvIsQzyfCw5ayAxkLtisZ0My4IYn7DfTwylP9AIqqSkSe7qHpuuSi3p36tR4VTDOdiGYi-FGWvag66B0WG" class="linkified">https://lh3.googleusercontent.com/-hZwsGkHA8oR_RAQ_C56KEBap7XF7nMTuvpjloEDHVEiLu88cAluCRLvIsQzyfCw5ayAxkLtisZ0My4IYn7DfTwylP9AIqqSkSe7qHpuuSi3p36tR4VTDOdiGYi-FGWvag66B0WG</a></p> <p>The typical Tech Social schedule:</p> <p>- 7:00pm: folks arrive, grab drinks, socialize<br/>- 8:00pm: quick intro, thank sponsors, quick announcements<br/>- 8:10pm: back to chatting with interesting new friends<br/>- 10:30pm: go home exhausted from great conversations</p> <p>Sponsors:</p> <p>Sponsors (<a href="http://hackernest.com/sponsor_info/" class="linkified">http://hackernest.com/sponsor_info/</a>) make this growing movement possible, so we treasure and build deep, long-term relationships with the companies that endorse us. Please email [masked] for ways to connect with the HackerNest community!</p> <p>About Us:</p> <p>HackerNest (<a href="http://hackernest.com/" class="linkified">http://hackernest.com/</a>) builds strong, supportive local tech communities around the world. We run unpretentious tech and innovation events that improve humanity and overall economic prosperity.</p> <p>Check out this video to see what Tech Socials are like:</p> <p><a href="https://youtu.be/9wG2TpzEm5o" class="embedded">https://youtu.be/9wG2TpzEm5o</a></p> <p>Want to volunteer at our HackerNest Tech Socials? Visit <a href="http://about.hackernest.com/volunteer/" class="linkified">http://about.hackernest.com/volunteer/</a> for more information and to apply!</p> '
   url: https://www.meetup.com/HackerNestMAN/events/235880303/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/2/7/4/5/thumb_458410053.jpeg
@@ -769,6 +736,14 @@
   ends: 2018-01-24T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxcbgc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-01-24T08:00:00.0000000
+  ends: 2018-01-24T11:00:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcbmc/
@@ -1307,6 +1282,13 @@
   starts: 2018-02-27T19:30:00.0000000
   ends: 2018-02-27T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
+- name: Iron and Fossils at Scunthorpe
+  description: The YPS Geology Group invites all YPS members to join the following tour, which will be led by Paul Hildreth, of the Yorkshire Geology Group. A flyer giving further details will be issued in the next newsletter.
+  url: https://www.ypsyork.org/events/iron-and-fossils-at-scunthorpe/
+  logo: https://www.ypsyork.org/wp-content/uploads/2018/01/Scunthorpe-mudstone-200x125.jpg
+  starts: 2018-03-09T10:30:00.0000000
+  ends: 2018-03-09T12:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/north-lincolnshire-museum-scunthorpe-5/" title="North Lincolnshire Museum, Scunthorpe">North Lincolnshire Museum, Scunthorpe</a>
 - name: '“Discovering Dinosaurs in Britain: the original Dinomania!”'
   description: “Discovering Dinosaurs in Britain:The original Dinomania!” with Dean Lomax, Palaeontologist
   url: https://www.ypsyork.org/events/discovering-dinosaurs-in-britain-the-original-dinomania/
@@ -1321,3 +1303,23 @@
   starts: 2018-06-24T08:00:00.0000000
   ends: 2018-06-24T10:00:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/macdonald-cardrona-hotel/" title="Macdonald Cardrona Hotel">Macdonald Cardrona Hotel</a>
+- name: Kindertransport and the Quakers; A conversation with Peter Kurer and Kurt Strauss
+  description: >
+    This event is part of a series part of the BOOTHAM SCHOOL SOCIAL JUSTICE PROGRAMME 2018
+
+
+    Refreshments will be available from 6.30pm.
+
+
+    The main event will begin at 7.00pm with a Welcome. Peter Kurer will then discuss what the Quakers did for the Jews of Nazi Europe.Kurt Strauss will then share his own experiences of leaving Nazi Germany in 1939 and starting a new life in a hostel run by Quakers. This will then be followed by a Q&A session.
+
+
+     
+
+
+     
+  url: https://bootham-school.ticketleap.com/kindertransport/
+  logo: https://ticketleap-media-master.s3.amazonaws.com/a79bf8e2-95f0-4f09-9431-ea9c21e69ecf/full.jpg
+  starts: 2018-01-31T20:00:00.0000000
+  ends: 2018-01-31T20:00:00.0000000
+  venue: Bootham School - Assembly Hall
