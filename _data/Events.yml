@@ -228,20 +228,6 @@
   starts: 2018-01-22T17:15:00.0000000
   ends: 2018-01-22T19:15:00.0000000
   venue: Acomb Explore Library
-- name: Texture in formulations – SCS RDG North
-  description: >-
-    22 MARCH 2018 
-
-    HALF DAY CONFERENCE
-
-    TEXTURE IN FORMULATIONS
-
-    Venue  York Marriott Hotel York Marriott Hotel, Tadcaster Road, York YO24 1QQ
-  url: https://www.eventbrite.co.uk/e/texture-in-formulations-scs-rdg-north-tickets-35612155917?aff=ebapi
-  logo: https://cdn.evbuc.com/images/36172222/133132925311/1/original.jpg?h=200&w=450&rect=0,400,3632,1816&s=a967159adb8d4e23784325b1cb745b62
-  starts: 2018-03-22T12:00:00.0000000
-  ends: 2018-03-22T17:00:00.0000000
-  venue: York Marriott Hotel
 - name: 'WE1: Website CMS Basic training (Wed 17 Jan 13:00-15:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -279,6 +265,32 @@
   starts: 2018-01-17T13:00:00.0000000
   ends: 2018-01-17T15:00:00.0000000
   venue: ILS Training area (outside FT/120)
+- name: Texture in formulations – SCS RDG North
+  description: >-
+    22 MARCH 2018 
+
+    HALF DAY CONFERENCE
+
+    TEXTURE IN FORMULATIONS
+
+    Venue  York Marriott Hotel York Marriott Hotel, Tadcaster Road, York YO24 1QQ
+  url: https://www.eventbrite.co.uk/e/texture-in-formulations-scs-rdg-north-tickets-35612155917?aff=ebapi
+  logo: https://cdn.evbuc.com/images/36172222/133132925311/1/original.jpg?h=200&w=450&rect=0,400,3632,1816&s=a967159adb8d4e23784325b1cb745b62
+  starts: 2018-03-22T12:00:00.0000000
+  ends: 2018-03-22T17:00:00.0000000
+  venue: York Marriott Hotel
+- name: 'IGS UK Symposium: Use of Geosynthetics in Rail: Towards 2025'
+  description: >-
+    With high-speed railways planned across the world, budget limitations pressing for ever more efficient structures and the Paris Agreement demanding more sustainable solutions, there are many challenges to overcome in the rail sector.
+
+    The UK chapter of the IGS want to educate the Industry about the use of geosynthetics in Rail. The symposium will showcase the established use of geosynthetics in rail applications from around the world for over 30 years. It will also discuss how they could be utilised in high speed networks to create steeper embankments, construct abutments, facilitate drainage and many other uses.
+
+    Further information can be found at: http://www.igs-uk.org/rail/
+  url: https://www.eventbrite.co.uk/e/igs-uk-symposium-use-of-geosynthetics-in-rail-towards-2025-tickets-35319374199?aff=ebapi
+  logo: https://cdn.evbuc.com/images/33001134/202817109813/1/original.jpg?h=200&w=450&rect=0,111,954,477&s=5c1caee93ad8c37ce4dd8c3e03320e98
+  starts: 2018-04-18T08:30:00.0000000
+  ends: 2018-04-18T17:00:00.0000000
+  venue: National Railway Museum York
 - name: 'WE1: Website CMS Basic training (Thu 8 Feb 10:00-12:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -316,18 +328,6 @@
   starts: 2018-02-08T10:00:00.0000000
   ends: 2018-02-08T12:00:00.0000000
   venue: ILS Training area (outside FT/120)
-- name: 'IGS UK Symposium: Use of Geosynthetics in Rail: Towards 2025'
-  description: >-
-    With high-speed railways planned across the world, budget limitations pressing for ever more efficient structures and the Paris Agreement demanding more sustainable solutions, there are many challenges to overcome in the rail sector.
-
-    The UK chapter of the IGS want to educate the Industry about the use of geosynthetics in Rail. The symposium will showcase the established use of geosynthetics in rail applications from around the world for over 30 years. It will also discuss how they could be utilised in high speed networks to create steeper embankments, construct abutments, facilitate drainage and many other uses.
-
-    Further information can be found at: http://www.igs-uk.org/rail/
-  url: https://www.eventbrite.co.uk/e/igs-uk-symposium-use-of-geosynthetics-in-rail-towards-2025-tickets-35319374199?aff=ebapi
-  logo: https://cdn.evbuc.com/images/33001134/202817109813/1/original.jpg?h=200&w=450&rect=0,111,954,477&s=5c1caee93ad8c37ce4dd8c3e03320e98
-  starts: 2018-04-18T08:30:00.0000000
-  ends: 2018-04-18T17:00:00.0000000
-  venue: National Railway Museum York
 - name: 'QU1: Qualtrics Essentials (Fri 23 Feb 10:00-11:00)'
   description: >-
     These courses are for staff, students and alumni of York St. John University only.
