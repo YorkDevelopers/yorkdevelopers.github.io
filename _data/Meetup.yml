@@ -1,53 +1,5 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/246707913/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-01-17T07:30:00.0000000
-  ends: 2018-01-17T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/246708003/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-01-17T08:00:00.0000000
-  ends: 2018-01-17T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: Building websites with Zend Expressive 2 - Rob Allen
-  description: "<p>18:30 – Turn up, have a drink, a snack, and a chat (pizza, soft drinks, beer, coffee)<br/>19:00 – Welcome and announcements<br/>19:15 – Building websites with Zend Expressive 2 - Rob Allen<br/>20:00ish – Pop over to the pub for a chat and a drink</p> <p>This is a free event, open to all. There will be some bottles of beer, tea, coffee, soft drinks, and pizza provided.</p> <p>Please note that Futurelabs has moved to a new location at Platform above Leeds city train station .<br/>_______________________________</p> <p>★ Building websites with Zend Expressive 2 - Rob Allen (<a href=\"https://twitter.com/akrabat\" class=\"linkified\">https://twitter.com/akrabat</a>)</p> <p>We’re very pleased to have Rob Allen speaking. Rob is Lead developer of Slim Framework (<a href=\"https://www.slimframework.com\" class=\"linkified\">https://www.slimframework.com</a>), author, and conference speaker.</p> <p>\"Zend Expressive 2 is the ideal framework for building PHP applications of all types. Its easy-to-understand architecture makes it ideal for projects of all shapes and sizes. In this talk, I'll show you how to build an Expressive application than can scale with your needs. We will look at how Expressive's middleware system leverages the upcoming PSR-15 specification to create easily understandable and flexible applications. We will cover application setup, routing and error handling before diving into some thoughts on how architect an Expressive application. By the end of the session, you will be equipped to create Expressive applications yourself.\"<br/><a href=\"https://framework.zend.com/blog/2017-03-07-expressive-2.html\" class=\"linkified\">https://framework.zend.com/blog/2017-03-07-expressive-2.html</a><br/>_______________________________</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform (<a href=\"https://bruntwood.co.uk/our-locations/leeds/platform/\" class=\"linkified\">https://bruntwood.co.uk/our-locations/leeds/platform/</a>) – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Sky Betting &amp; Gaming (<a href=\"http://skybetcareers.com/about-us\" class=\"linkified\">http://skybetcareers.com/about-us</a>) – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their careers page (<a href=\"http://skybetcareers.com/\" class=\"linkified\">http://skybetcareers.com/</a>) provides great detail as to the working environment and range of work available across the technology stack. @skybetcareers (<a href=\"https://twitter.com/skybetcareers\" class=\"linkified\">https://twitter.com/skybetcareers</a>)</p> <p>• Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) – Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href=\"https://twitter.com/InfinityWorks\" class=\"linkified\">https://twitter.com/InfinityWorks</a>)</p> "
-  url: https://www.meetup.com/leedsphp/events/245232740/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
-  starts: 2018-01-17T18:30:00.0000000
-  ends: 2018-01-17T20:30:00.0000000
-  venue: FutureLabs @ Platform
-- name: 'AI GETS SERIOUS : PART 2'
-  description: "<p>Kicking off 2018 we are teaming up with BJSS for part 2 of our 'AI gets serious' events.<br/>Find footage of part 1 here: <a href=\"https://www.youtube.com/watch?v=MGgWDa0tfpQ\" class=\"embedded\">https://www.youtube.com/watch?v=MGgWDa0tfpQ</a> This will be a highly engaging/ interactive event. We advise you to register your interest as soon as possible to avoid disapointment.</p> <p>Email: techconnect@amsourcetechnology.com</p> "
-  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/245943412/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
-  starts: 2018-01-17T18:30:00.0000000
-  ends: 2018-01-17T21:00:00.0000000
-  venue: BJSS Limited
-- name: Come to talk Java, Kafka, sports and betting with William Hill
-  description: "<p>• What we'll do<br/>Here at William Hill Java is a core part of our technology stack running through everything we do. Our teams of Developers are always looking for ways to share what they know and also learn from others in the same field. The Java world after all, is fast paced and constantly changing. Just like betting and gaming.</p> <p>We have some ambitious global projects going on within Java Tech which we’d like to share with you. So, our very first Java meetup is going to be held on Thursday 18th January at our offices in central Leeds. On the night, there’ll be presentations from our tech teams plus food, drink and lots of opportunity to chat to fellow engineers keen to learn and share.</p> <p>Planned agenda.</p> <p>Introductions from Chris Noble, Development Lead, with an overview to what we do at William Hill.</p> <p>Presentation 1 - Retail team<br/>Our Retail developers are making in-shop betting future proof – we’re no longer just the bookies on the high street. You can help us deliver omni-channel betting to customers – linking their online and shop accounts. Get involved in rolling out a state of the art EPOS system to over 2300 shops. That’s more UK shops than McDonalds and Burger King combined.</p> <p>Presentation 2 - Trading Team<br/>Our Trading team work on back-end betting systems that span our international customer base from Australia to Vegas and beyond. They code the platform which William Hill’s odds traders use to update the bet prices on live events. Our systems have to reflect millions of real-time, In-Play sports events, so developing systems that are designed for low latency and high throughput is critical.</p> <p>• What to bring<br/>Good chat about cutting edge software development</p> <p>• Important to know<br/>This event is open to anyone with a genuine interest or experience in the tech we're talking about, and how we're applying it to William Hill's trading and retail systems. The event isn't open to recruiters. If you register, we'll get in touch to introduce ourselves and find out a bit more about you.</p> "
-  url: https://www.meetup.com/Leeds-Java-Meetup/events/245939425/
-  is-free: true
-  starts: 2018-01-18T18:00:00.0000000
-  ends: 2018-01-18T21:00:00.0000000
-  venue: William Hill
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/246757510/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-01-18T19:00:00.0000000
-  ends: 2018-01-18T22:00:00.0000000
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/246861284/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -55,6 +7,13 @@
   ends: 2018-01-22T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: IoT Leeds - January 2018 meetup
+  description: '<p>The January meetup will be at the same time and venue as previous months.</p> <p>6:30 PM - Doors open</p> <p>7:00 PM - First talk</p> <p>7:30 PM - Break</p> <p>7:45 PM - Second talk</p> <p>8:30 PM - Finish</p> '
+  url: https://www.meetup.com/IoT-Leeds/events/244960101/
+  is-free: true
+  starts: 2018-01-22T18:30:00.0000000
+  ends: 2018-01-22T21:30:00.0000000
+  venue: FutureLabs @ Platform
 - name: Bitcoin & Crypto chat and live demos
   description: "<p>• What we'll do<br/>At this meet up, we are going to have our first live demonstrations of the top strategies and trades that some of our members are using to get success in digital currency.<br/>There will be plenty of time for spontaneous chat too!!</p> <p>• What to bring<br/>You may like to bring a pen and paper. Feel free to bring your laptops too.</p> <p>• Important to know</p> "
   url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/246744920/
@@ -64,7 +23,7 @@
   venue: Royal Oak
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxcbgc/
+  url: https://www.meetup.com/YorkDevelopers/events/246928369/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-01-24T07:30:00.0000000
@@ -73,7 +32,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxcbgc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/246928465/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-01-24T08:00:00.0000000
@@ -126,6 +85,22 @@
   ends: 2018-01-31T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxcbpc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-01-31T08:00:00.0000000
+  ends: 2018-01-31T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: An introduction to Blockchain technologies
+  description: '<p>With interest in Bitcoin and other virtual currencies going through the roof, Blockchain, the technology behind it, has never been more relevant. But how does it work?</p> <p>This talk is a technical introduction to Blockchains. What are they?<br/>How are they different from traditional architecture?<br/>What makes them unique? It also dives into Smart Contracts, explaining how you can encapsulate logic on the Blockchain, and wraps up with examples of real-world applications currently being developed and in-use.</p> <p>SPEAKER<br/>Andy Gray – Software Developer at Equal Experts</p> <p>&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;<br/>**Food and drink will be provided - we look forward to seeing you there!**<br/>&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;</p> '
+  url: https://www.meetup.com/Expert-Talks-Leeds/events/245914282/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2018-02-01T18:00:00.0000000
+  ends: 2018-02-01T21:00:00.0000000
+  venue: Lamberts yard,
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxdbhb/
@@ -571,6 +546,15 @@
   ends: 2018-07-09T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxkbpb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-07-11T06:30:00.0000000
+  ends: 2018-07-11T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxkbzb/
@@ -618,4 +602,12 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-12-20T19:00:00.0000000
   ends: 2018-12-20T22:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzcbwb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-01-17T19:00:00.0000000
+  ends: 2019-01-17T22:00:00.0000000
   endorsed: true
