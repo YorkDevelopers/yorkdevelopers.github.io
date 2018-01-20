@@ -36,8 +36,8 @@
   starts: 2018-02-27T19:30:00.0000000
   ends: 2018-02-27T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
-- name: Visit to Mansion House
-  description: As you will know, the Mansion House has recently been refurbished. This is an opportunity to have an in-depth tour of the house and collections. The tour takes two hours, from 6pm to 8pm, and the chaarge will be £18, to include £3 YPS admin. fee.
+- name: Visit to York Mansion House
+  description: As you will know, the Mansion House has recently been refurbished. This is an opportunity to have an in-depth tour of the house and collections. The tour takes two hours, from 6pm to 8pm, and the charge will be £21, to include tea/coffee and £3 YPS admin. fee.
   url: https://www.ypsyork.org/events/visit-to-mansion-house/
   logo: https://www.ypsyork.org/wp-content/uploads/2018/01/Mansion-H-200x125.jpg
   starts: 2018-02-28T18:00:00.0000000
@@ -56,6 +56,13 @@
   logo: https://www.ypsyork.org/wp-content/uploads/2017/12/Lomax-ichthyosaur-200x125.jpg
   starts: 2018-03-13T19:30:00.0000000
   ends: 2018-03-13T21:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
+- name: A Sheep is a Sheep is a Sheep…. Or is it?
+  description: A Sheep is a Sheep is a Sheep…. Or is it?
+  url: https://www.ypsyork.org/events/a-sheep-is-a-sheep-is-a-sheep-or-is-it/
+  logo: https://www.ypsyork.org/wp-content/uploads/2018/01/Sheep-200x125.png
+  starts: 2018-03-27T19:30:00.0000000
+  ends: 2018-03-27T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: 'YPS Tour: Gardens and Abbeys of Edinburgh and the Scottish Borders'
   description: This study tour will be based at the 4* Macdonald Cardrona Hotel near Peebles for four days, three nights bed and breakfast, two lunches, two dinners and one evening reception, with all entry fees and tips included.
