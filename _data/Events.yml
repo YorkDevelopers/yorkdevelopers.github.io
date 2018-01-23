@@ -107,6 +107,23 @@
   starts: 2018-01-26T16:00:00.0000000
   ends: 2018-01-28T20:00:00.0000000
   venue: Ron Cooke Hub
+- name: "Members' Private View: Yorkshire's Jurassic World"
+  description: >-
+    YMT Card Holders are invited to attend an exclusive free private view of our brand new major exhibition Yorkshire's Jurassic World at the Yorkshire Museum, featuring a short talk from the show's curator, Dr. Sarah King, Curator of Natural Science at York Museums Trust. 
+
+    Due to popular demand, we are offering two timed slots as follows:
+
+    Session One: 5:30pm to 7pmSession Two: 7pm to 8:30pm
+
+    Dr. Sarah King will be speaking at each session. Each adult member is invited to bring up to two children free of charge. Tickets must be reserved for each child. YMT Card Holders only.
+
+    For futher information, or to become a member, please contact us on 01904 650345 or email ymtcard@ymt.org.uk
+  url: https://www.eventbrite.co.uk/e/members-private-view-yorkshires-jurassic-world-tickets-42417916129?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/39897611/199168849513/1/original.jpg?h=200&w=450&rect=0,931,5120,2560&s=213852aec33b495e76f0b1d69b6c8a85
+  starts: 2018-03-26T17:30:00.0000000
+  ends: 2018-03-26T19:00:00.0000000
+  venue: Yorkshire Museum
 - name: Measuring ability in generic skills - should we and can we?
   description: >-
     Speaker: Professor Tony Ward, Department of Electronic Engineering
@@ -151,35 +168,6 @@
   starts: 2018-02-13T18:30:00.0000000
   ends: 2018-02-13T19:30:00.0000000
   venue: Ron Cooke Hub auditorium
-- name: Visiting Professor David Rogers Inaugural Lecture
-  description: >
-    Visiting Professor David Rogers Inaugural Lecture
-
-    Professor David Rogers discusses future trust in the internet of things and connected economies, and how to help prevent artificial intelligence systems from easily being gamed by adversaries.
-
-    5pm: Drinks Reception 5:30pm - 6:30pm: Lecture and Q&A'The real world is not real: manipulation of data and people in the future internet'
-
-    In the future, how will it be possible to trust anything at all? What we read, what we see and what we do – how will we know that any of it is real? How will we prove that something is false or that we didn’t do something?
-
-    Current “trusted” systems based on collective ratings are manipulated on a wholesale basis, with services to perform this available to anyone prepared to pay. From products, to restaurant reviews and endorsements, our perceptions are being twisted by falsehoods which are sometimes algorithmically generated; pictures can be manipulated and false data trails created relatively easily.
-
-     Combined with the use of so-called “dark patterns”, rudimentary artificial intelligence is already shaping what we do, nudging humans into behaviours that are desired by the shepherds of such automated systems.
-
-     As our future shifts to one which humans delegate management of data gathering, leaving machines to trust data from other machines, which in turn lead to machine-based decision trees based on that data, how quickly can manipulation of critical elements of what is relied upon be turned into economic disaster?
-
-    Biography
-
-    David is a mobile phone and Internet of Things (IoT) security expert who runs Copper Horse Solutions Ltd, a software and security company based in Windsor, UK. His company is currently focusing on security and privacy research for the Internet of Things, including providing training for companies. He has recently been working with the UK government to ensure that future consumer IoT products and services are designed and built to be secure by default.
-
-     David chairs the Device Security Group at the GSM Association and sits on the Executive Board of the Internet of Things Security Foundation. He is a Visiting Professor in Cyber Security and Digital Forensics at York St John University and teaches Mobile Systems Security at the University of Oxford.
-
-     Twitter: @drogersuk
-  url: https://www.eventbrite.co.uk/e/visiting-professor-david-rogers-inaugural-lecture-tickets-41205977187?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38675035/14297485693/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=e7e5c097bf0e8f355f8b1d38a993d18f
-  starts: 2018-01-24T17:00:00.0000000
-  ends: 2018-01-24T18:30:00.0000000
-  venue: De Grey Lecture Theatre (DG/017)
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -231,19 +219,26 @@
   starts: 2018-03-15T18:30:00.0000000
   ends: 2018-03-15T19:30:00.0000000
   venue: Room P/X001
-- name: York Raspberry Jam
-  description: >-
-    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
+- name: ISCF Medicines Manufacturing Round 2 Challenge Fund Competition - Engagement Workshop
+  description: >+
+      
 
-    York Raspberry Jam happens every other month.  That is: January then March ... . It's for beginners and people who know a bit about Raspberry Pi computers too!  You don't need to bring a Raspberry Pi as we have some you can use - but if you'd like to bring your own kit please feel free to do so.
+    In anticipation of a further round of funding under the ISCF Leading Edge Healthcare Challenge, the KTN is working with Innovate UK on an engagement event to update companies, academics and organisations looking to put proposals into the forthcoming Medicines Manufacturing Challenge Fund Round 2 call of £10million.
 
-    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
-  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-tickets-41078098699?aff=ebapi
+
+
+    In Round 1, which closed in November 2017, Innovate UK held a £15m competition to invest in innovation projects in medicines manufacturing to be funded through the Industrial Strategy Challenge Fund. Both feasibility and industrial research projects were in scope with a focus on identified technical or commercial challenges. 
+
+
+
+    Join Innovate UK and the KTN at this event in York where you will have the opportunity to hear the latest on this as well as pitch for partners and network with others in the sector. Further information will be available on the future scope and details of the call at this event and a follow on webinar for the official competition launch.
+
+  url: https://www.eventbrite.co.uk/e/iscf-medicines-manufacturing-round-2-challenge-fund-competition-engagement-workshop-registration-41762208891?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/38453358/76824838621/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=b0f12b20aca2fcd49aa65d19d801b5e4
-  starts: 2018-01-22T17:15:00.0000000
-  ends: 2018-01-22T19:15:00.0000000
-  venue: Acomb Explore Library
+  logo: https://cdn.evbuc.com/images/39166600/132030012589/1/original.jpg?h=200&w=450&rect=0,0,960,480&s=b2a59506a6f5ccaa278cb498e8d50c2b
+  starts: 2018-03-07T10:00:00.0000000
+  ends: 2018-03-07T15:00:00.0000000
+  venue: National Railway Museum (Main Entrance)
 - name: Texture in formulations – SCS RDG North
   description: >-
     22 MARCH 2018 
@@ -295,6 +290,14 @@
   starts: 2018-02-08T10:00:00.0000000
   ends: 2018-02-08T12:00:00.0000000
   venue: ILS Training area (outside FT/120)
+- name: 'YSJ Terra Two, Workshop Four: Planting and Writing workshop at the T2/Pollination Allotment '
+  description: "NASA is currently aiming to settle the first human beings on MARS by 2030. Terra Two’s project designers suggest that writers, artists, musicians, philosophers and spiritual thinkers have an ethical responsibility to lend their voices to this far-sighted scientific experiment.  Terra Two is an online magazine/archive which was officially launched at York St John in September 2017 in order to collate science-fictional contributions from YSJ staff, postgraduate students, undergraduate students and invited guests in the form of writing, music, visual images, games and podcasts. The aim of these collected contributions is to help create a sustainable future for human beings as well as the non-human plant and animal species we directly impact upon, both on Earth and off-world. For our magazine, see https://yorkstjohnterratwo.com. This year we are introducing a workshop series to develop and disseminate the ideas underpinning Terra Two, and we invite you to get involved with one or more! Workshops will be facilitated by one or more members of the Terra Two editorial team, and refreshments will be provided. This summer the Terra Two team will produce a printed catalogue which participants will have the opportunity to contribute to. \nSign up to join us!\n\n\n\nWorkshop Four: Planting and Writing workshop at the T2/PollinationAllotment \nThis workshop will take place down at the @YSJTerra2 and @ysjpollinationproject1 allotment on Haxby Road, a short bus ride away. We will think about the theme of beginning in ‘the middle’, based on the concept advanced by Deleuze, and we will read extracts from post-apocalyptic science fiction and solar punk. We will plant in rows of wildflower seeds, and then we will individually take a lawn chair off to a corner of the allotment space in order to write or sketch a response to the two experiences. Later, back at YSJ in a warmer environment, we will spend an hour discussing our ideas and developing a plan for an article, poem, short story, visual art, or piece of work for a summer submission to Terra Two. This workshop will be delivered jointly by Liesl King and Abi Curtis.\n"
+  url: https://www.eventbrite.co.uk/e/ysj-terra-two-workshop-four-planting-and-writing-workshop-at-the-t2pollination-allotment-tickets-42230722227?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/39664173/240355785937/1/original.jpg?h=200&w=450&rect=0,84,728,364&s=1f9aedb3921bcdfc7e1bf8a6134c9ea3
+  starts: 2018-04-24T14:00:00.0000000
+  ends: 2018-04-24T17:00:00.0000000
+  venue: Northfield
 - name: 'YSJ Terra Two, Workshop Five: Science Fictional Favourites'
   description: "NASA is currently aiming to settle the first human beings on MARS by 2030. Terra Two’s project designers suggest that writers, artists, musicians, philosophers and spiritual thinkers have an ethical responsibility to lend their voices to this far-sighted scientific experiment.  Terra Two is an online magazine/archive which was officially launched at York St John in September 2017 in order to collate science-fictional contributions from YSJ staff, postgraduate students, undergraduate students and invited guests in the form of writing, music, visual images, games and podcasts. The aim of these collected contributions is to help create a sustainable future for human beings as well as the non-human plant and animal species we directly impact upon, both on Earth and off-world. For our magazine, see https://yorkstjohnterratwo.com. This year we are introducing a workshop series to develop and disseminate the ideas underpinning Terra Two, and we invite you to get involved with one or more! Workshops will be facilitated by one or more members of the Terra Two editorial team, and refreshments will be provided. This summer the Terra Two team will produce a printed catalogue which participants will have the opportunity to contribute to. \n Sign up to join us!\n\n\nWorkshop Five: Science Fictional Favourites \nFor this event, participants are invited to come and give a five minute presentation in any format on any favourite SF text in order to persuade others to read/view/play or listen to it. Participants need to send the title, author/director and publication date to l.king@yorksj.ac.uk a week in advance, as well as a PowerPoint slide or handout (if these will be used). Ideally the presentations will not only inspire enjoyable watching, reading and playing, but will feed into creative and critical ideas that can be developed for the August submission deadline for Terra Two. Following the presentations we will complete some writing tasks to that end. Participants will receive a list of ‘science fictional favourites’ to take away. \n"
   url: https://www.eventbrite.co.uk/e/ysj-terra-two-workshop-five-science-fictional-favourites-tickets-42231565750?aff=ebapi
@@ -315,14 +318,6 @@
   starts: 2018-04-18T08:30:00.0000000
   ends: 2018-04-18T17:00:00.0000000
   venue: National Railway Museum York
-- name: 'YSJ Terra Two, Workshop Four: Planting and Writing workshop at the T2/Pollination Allotment '
-  description: "NASA is currently aiming to settle the first human beings on MARS by 2030. Terra Two’s project designers suggest that writers, artists, musicians, philosophers and spiritual thinkers have an ethical responsibility to lend their voices to this far-sighted scientific experiment.  Terra Two is an online magazine/archive which was officially launched at York St John in September 2017 in order to collate science-fictional contributions from YSJ staff, postgraduate students, undergraduate students and invited guests in the form of writing, music, visual images, games and podcasts. The aim of these collected contributions is to help create a sustainable future for human beings as well as the non-human plant and animal species we directly impact upon, both on Earth and off-world. For our magazine, see https://yorkstjohnterratwo.com. This year we are introducing a workshop series to develop and disseminate the ideas underpinning Terra Two, and we invite you to get involved with one or more! Workshops will be facilitated by one or more members of the Terra Two editorial team, and refreshments will be provided. This summer the Terra Two team will produce a printed catalogue which participants will have the opportunity to contribute to. \nSign up to join us!\n\n\n\nWorkshop Four: Planting and Writing workshop at the T2/PollinationAllotment \nThis workshop will take place down at the @YSJTerra2 and @ysjpollinationproject1 allotment on Haxby Road, a short bus ride away. We will think about the theme of beginning in ‘the middle’, based on the concept advanced by Deleuze, and we will read extracts from post-apocalyptic science fiction and solar punk. We will plant in rows of wildflower seeds, and then we will individually take a lawn chair off to a corner of the allotment space in order to write or sketch a response to the two experiences. Later, back at YSJ in a warmer environment, we will spend an hour discussing our ideas and developing a plan for an article, poem, short story, visual art, or piece of work for a summer submission to Terra Two. This workshop will be delivered jointly by Liesl King and Abi Curtis.\n"
-  url: https://www.eventbrite.co.uk/e/ysj-terra-two-workshop-four-planting-and-writing-workshop-at-the-t2pollination-allotment-tickets-42230722227?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/39664173/240355785937/1/original.jpg?h=200&w=450&rect=0,84,728,364&s=1f9aedb3921bcdfc7e1bf8a6134c9ea3
-  starts: 2018-04-24T14:00:00.0000000
-  ends: 2018-04-24T17:00:00.0000000
-  venue: Northfield
 - name: 'QU1: Qualtrics Essentials (Fri 23 Feb 10:00-11:00)'
   description: >-
     These courses are for staff, students and alumni of York St. John University only.
@@ -566,29 +561,6 @@
   venue: ILS Training area (outside FT/120)
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/246861284/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-01-22T07:30:00.0000000
-  ends: 2018-01-22T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: IoT Leeds - January 2018 meetup
-  description: '<p>The January meetup will be at the same time and venue as previous months.</p> <p>6:30 PM - Doors open</p> <p>7:00 PM - First talk</p> <p>7:30 PM - Break</p> <p>7:45 PM - Second talk</p> <p>8:30 PM - Finish</p> '
-  url: https://www.meetup.com/IoT-Leeds/events/244960101/
-  is-free: true
-  starts: 2018-01-22T18:30:00.0000000
-  ends: 2018-01-22T21:30:00.0000000
-  venue: FutureLabs @ Platform
-- name: Bitcoin & Crypto chat and live demos
-  description: "<p>• What we'll do<br/>At this meet up, we are going to have our first live demonstrations of the top strategies and trades that some of our members are using to get success in digital currency.<br/>There will be plenty of time for spontaneous chat too!!</p> <p>• What to bring<br/>You may like to bring a pen and paper. Feel free to bring your laptops too.</p> <p>• Important to know</p> "
-  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/246744920/
-  is-free: true
-  starts: 2018-01-22T18:30:00.0000000
-  ends: 2018-01-22T20:30:00.0000000
-  venue: Royal Oak
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/246928369/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -676,6 +648,14 @@
   ends: 2018-02-05T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: agileYork - Mike Burrows - talk TBC (see members poll)
+  description: "<p>If you haven't already please take the poll and help decide which of the 2 talks Mike has offered we hear on the 5th Feb - <a href=\"https://www.meetup.com/agileYork/polls/1260364/\" class=\"linkified\">https://www.meetup.com/agileYork/polls/1260364/</a></p> <p>Mike will be joining us the evening before delivering his Advanced Agendashift course (<a href=\"http://bit.ly/2AEH9B4\" class=\"linkified\">http://bit.ly/2AEH9B4</a>) which tradition dictates is always launched first in Leeds. If you are interested in attending then Mike has offered members of agileYork a 15% discount, just enter SHARE15 when booking.</p> <p>About Mike Burrows</p> <p>Mike Burrows describes himself as a champion and enabler of outcome-oriented change and continuous transformation. He is the founder of Agendashift, author of two books – Kanban from the Inside (Blue Hole Press, 2014) and Agendashift (Leanpub, 2017) – and the originator of tools such as Featureban and 15-minute FOTO. Prior to his consulting career, Mike was a CTO for a late-stage startup and global Executive Director for a top-tier investment bank.</p> "
+  url: https://www.meetup.com/agileYork/events/246616390/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2018-02-05T18:30:00.0000000
+  ends: 2018-02-05T21:00:00.0000000
+  venue: York St.John University
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/247025545/
