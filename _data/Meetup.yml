@@ -1,28 +1,5 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/246861284/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-01-22T07:30:00.0000000
-  ends: 2018-01-22T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: IoT Leeds - January 2018 meetup
-  description: '<p>The January meetup will be at the same time and venue as previous months.</p> <p>6:30 PM - Doors open</p> <p>7:00 PM - First talk</p> <p>7:30 PM - Break</p> <p>7:45 PM - Second talk</p> <p>8:30 PM - Finish</p> '
-  url: https://www.meetup.com/IoT-Leeds/events/244960101/
-  is-free: true
-  starts: 2018-01-22T18:30:00.0000000
-  ends: 2018-01-22T21:30:00.0000000
-  venue: FutureLabs @ Platform
-- name: Bitcoin & Crypto chat and live demos
-  description: "<p>• What we'll do<br/>At this meet up, we are going to have our first live demonstrations of the top strategies and trades that some of our members are using to get success in digital currency.<br/>There will be plenty of time for spontaneous chat too!!</p> <p>• What to bring<br/>You may like to bring a pen and paper. Feel free to bring your laptops too.</p> <p>• Important to know</p> "
-  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/246744920/
-  is-free: true
-  starts: 2018-01-22T18:30:00.0000000
-  ends: 2018-01-22T20:30:00.0000000
-  venue: Royal Oak
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/246928369/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -110,6 +87,14 @@
   ends: 2018-02-05T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: agileYork - Mike Burrows - talk TBC (see members poll)
+  description: "<p>If you haven't already please take the poll and help decide which of the 2 talks Mike has offered we hear on the 5th Feb - <a href=\"https://www.meetup.com/agileYork/polls/1260364/\" class=\"linkified\">https://www.meetup.com/agileYork/polls/1260364/</a></p> <p>Mike will be joining us the evening before delivering his Advanced Agendashift course (<a href=\"http://bit.ly/2AEH9B4\" class=\"linkified\">http://bit.ly/2AEH9B4</a>) which tradition dictates is always launched first in Leeds. If you are interested in attending then Mike has offered members of agileYork a 15% discount, just enter SHARE15 when booking.</p> <p>About Mike Burrows</p> <p>Mike Burrows describes himself as a champion and enabler of outcome-oriented change and continuous transformation. He is the founder of Agendashift, author of two books – Kanban from the Inside (Blue Hole Press, 2014) and Agendashift (Leanpub, 2017) – and the originator of tools such as Featureban and 15-minute FOTO. Prior to his consulting career, Mike was a CTO for a late-stage startup and global Executive Director for a top-tier investment bank.</p> "
+  url: https://www.meetup.com/agileYork/events/246616390/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2018-02-05T18:30:00.0000000
+  ends: 2018-02-05T21:00:00.0000000
+  venue: York St.John University
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/247025545/
