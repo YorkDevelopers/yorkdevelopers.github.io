@@ -53,6 +53,13 @@
   ends: 2018-01-29T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Bitcoin & Crypto chat and live demos over drinks!!
+  description: "<p>• What we'll do<br/>At this meet up, we are going to have live demonstrations of the top strategies and trades that some of our members are using to get success in digital currency.<br/>There will be plenty of time for spontaneous chat too over drinks!!<br/>Please feel free order the wonderful food that the pub does and eat it at our meetups!!</p> <p>• What to bring<br/>You may like to bring a pen and paper. Feel free to bring your laptops too.</p> <p>• Important to know</p> "
+  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/247085521/
+  is-free: true
+  starts: 2018-01-29T18:30:00.0000000
+  ends: 2018-01-29T20:30:00.0000000
+  venue: Royal Oak
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/247025534/
@@ -87,8 +94,8 @@
   ends: 2018-02-05T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: agileYork - Mike Burrows - talk TBC (see members poll)
-  description: "<p>If you haven't already please take the poll and help decide which of the 2 talks Mike has offered we hear on the 5th Feb - <a href=\"https://www.meetup.com/agileYork/polls/1260364/\" class=\"linkified\">https://www.meetup.com/agileYork/polls/1260364/</a></p> <p>Mike will be joining us the evening before delivering his Advanced Agendashift course (<a href=\"http://bit.ly/2AEH9B4\" class=\"linkified\">http://bit.ly/2AEH9B4</a>) which tradition dictates is always launched first in Leeds. If you are interested in attending then Mike has offered members of agileYork a 15% discount, just enter SHARE15 when booking.</p> <p>About Mike Burrows</p> <p>Mike Burrows describes himself as a champion and enabler of outcome-oriented change and continuous transformation. He is the founder of Agendashift, author of two books – Kanban from the Inside (Blue Hole Press, 2014) and Agendashift (Leanpub, 2017) – and the originator of tools such as Featureban and 15-minute FOTO. Prior to his consulting career, Mike was a CTO for a late-stage startup and global Executive Director for a top-tier investment bank.</p> "
+- name: agileYork - Managing change in the 21st century
+  description: "<p>Managing change in the 21st century</p> <p>Nearly two decades into the 21st century and with nearly as much time passed since the Agile manifesto was written, what have we learned about change? Which is better: \"top down\", with the challenge of overcoming resistance to change, or \"bottom up\", perhaps never gathering momentum? Is it indeed a dichotomy, or can we find a third way for organizational transformation that is simultaneously respectful, ambitious, and sustainable? We'll explore a synthesis of ideas and techniques old and new, identifying along the way some widely-held beliefs that are now well past their sell-by date.</p> <p>Mike will be joining us the evening before delivering his Advanced Agendashift course (<a href=\"http://bit.ly/2AEH9B4\" class=\"linkified\">http://bit.ly/2AEH9B4</a>) which tradition dictates is always launched first in Leeds. If you are interested in attending then Mike has offered members of agileYork a 15% discount, just enter SHARE15 when booking.</p> <p>About Mike Burrows</p> <p>Mike Burrows describes himself as a champion and enabler of outcome-oriented change and continuous transformation. He is the founder of Agendashift, author of two books – Kanban from the Inside (Blue Hole Press, 2014) and Agendashift (Leanpub, 2017) – and the originator of tools such as Featureban and 15-minute FOTO. Prior to his consulting career, Mike was a CTO for a late-stage startup and global Executive Director for a top-tier investment bank.</p> "
   url: https://www.meetup.com/agileYork/events/246616390/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
@@ -538,6 +545,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-07-11T06:30:00.0000000
   ends: 2018-07-11T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxkbvb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-07-16T06:30:00.0000000
+  ends: 2018-07-16T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
