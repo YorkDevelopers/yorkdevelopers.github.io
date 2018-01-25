@@ -20,23 +20,6 @@
   starts: 2018-03-24T15:00:00.0000000
   ends: 2018-03-24T16:30:00.0000000
   venue: St Peter's School
-- name: "Members' Private View: Yorkshire's Jurassic World"
-  description: >-
-    YMT Card Holders are invited to attend an exclusive free private view of our brand new major exhibition Yorkshire's Jurassic World at the Yorkshire Museum, featuring a short talk from the show's curator, Dr. Sarah King, Curator of Natural Science at York Museums Trust. 
-
-    Due to popular demand, we are offering two timed slots as follows:
-
-    Session One: 5:30pm to 7pmSession Two: 7pm to 8:30pm
-
-    Dr. Sarah King will be speaking at each session. Each adult member is invited to bring up to two children free of charge. Tickets must be reserved for each child. YMT Card Holders only.
-
-    For futher information, or to become a member, please contact us on 01904 650345 or email ymtcard@ymt.org.uk
-  url: https://www.eventbrite.co.uk/e/members-private-view-yorkshires-jurassic-world-tickets-42417916129?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/39897611/199168849513/1/original.jpg?h=200&w=450&rect=0,931,5120,2560&s=213852aec33b495e76f0b1d69b6c8a85
-  starts: 2018-03-26T17:30:00.0000000
-  ends: 2018-03-26T19:00:00.0000000
-  venue: Yorkshire Museum
 - name: Building a better computer
   description: >-
     Speaker: Professor Jim Austin, Department of Computer Science
@@ -147,35 +130,23 @@
   starts: 2018-02-01T18:30:00.0000000
   ends: 2018-02-01T19:30:00.0000000
   venue: Room P/X001
-- name: Visiting Professor David Rogers Inaugural Lecture
-  description: >
-    Visiting Professor David Rogers Inaugural Lecture
+- name: "Members' Private View: Yorkshire's Jurassic World"
+  description: >-
+    YMT Card Holders are invited to attend an exclusive free private view of our brand new major exhibition Yorkshire's Jurassic World at the Yorkshire Museum, featuring a short talk from the show's curator, Dr. Sarah King, Curator of Natural Science at York Museums Trust. 
 
-    Professor David Rogers discusses future trust in the internet of things and connected economies, and how to help prevent artificial intelligence systems from easily being gamed by adversaries.
+    Due to popular demand, we are offering two timed slots as follows:
 
-    5pm: Drinks Reception 5:30pm - 6:30pm: Lecture and Q&A'The real world is not real: manipulation of data and people in the future internet'
+    Session One: 5:30pm to 7pmSession Two: 7pm to 8:30pm
 
-    In the future, how will it be possible to trust anything at all? What we read, what we see and what we do – how will we know that any of it is real? How will we prove that something is false or that we didn’t do something?
+    Dr. Sarah King will be speaking at each session. Each adult member is invited to bring up to two children free of charge. Tickets must be reserved for each child. YMT Card Holders only.
 
-    Current “trusted” systems based on collective ratings are manipulated on a wholesale basis, with services to perform this available to anyone prepared to pay. From products, to restaurant reviews and endorsements, our perceptions are being twisted by falsehoods which are sometimes algorithmically generated; pictures can be manipulated and false data trails created relatively easily.
-
-     Combined with the use of so-called “dark patterns”, rudimentary artificial intelligence is already shaping what we do, nudging humans into behaviours that are desired by the shepherds of such automated systems.
-
-     As our future shifts to one which humans delegate management of data gathering, leaving machines to trust data from other machines, which in turn lead to machine-based decision trees based on that data, how quickly can manipulation of critical elements of what is relied upon be turned into economic disaster?
-
-    Biography
-
-    David is a mobile phone and Internet of Things (IoT) security expert who runs Copper Horse Solutions Ltd, a software and security company based in Windsor, UK. His company is currently focusing on security and privacy research for the Internet of Things, including providing training for companies. He has recently been working with the UK government to ensure that future consumer IoT products and services are designed and built to be secure by default.
-
-     David chairs the Device Security Group at the GSM Association and sits on the Executive Board of the Internet of Things Security Foundation. He is a Visiting Professor in Cyber Security and Digital Forensics at York St John University and teaches Mobile Systems Security at the University of Oxford.
-
-     Twitter: @drogersuk
-  url: https://www.eventbrite.co.uk/e/visiting-professor-david-rogers-inaugural-lecture-tickets-41205977187?aff=ebapi
+    For futher information, or to become a member, please contact us on 01904 650345 or email ymtcard@ymt.org.uk
+  url: https://www.eventbrite.co.uk/e/members-private-view-yorkshires-jurassic-world-tickets-42417917132?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/38675035/14297485693/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=e7e5c097bf0e8f355f8b1d38a993d18f
-  starts: 2018-01-24T17:00:00.0000000
-  ends: 2018-01-24T18:30:00.0000000
-  venue: De Grey Lecture Theatre (DG/017)
+  logo: https://cdn.evbuc.com/images/39897611/199168849513/1/original.jpg?h=200&w=450&rect=0,931,5120,2560&s=213852aec33b495e76f0b1d69b6c8a85
+  starts: 2018-03-26T19:00:00.0000000
+  ends: 2018-03-26T20:30:00.0000000
+  venue: Yorkshire Museum
 - name: 'From brown to green chemistry: Sustainability, waste and the circular economy'
   description: >-
     Speaker: Dr Avtar Matharu, Green Chemistry Centre of Excellence
@@ -294,7 +265,7 @@
   url: https://www.eventbrite.co.uk/e/texture-in-formulations-scs-rdg-north-tickets-35612155917?aff=ebapi
   logo: https://cdn.evbuc.com/images/36172222/133132925311/1/original.jpg?h=200&w=450&rect=0,400,3632,1816&s=a967159adb8d4e23784325b1cb745b62
   starts: 2018-03-22T12:00:00.0000000
-  ends: 2018-03-22T17:00:00.0000000
+  ends: 2018-03-22T16:00:00.0000000
   venue: York Marriott Hotel
 - name: 'WE1: Website CMS Basic training (Thu 8 Feb 10:00-12:00)'
   description: >-
@@ -638,23 +609,6 @@
   starts: 2018-03-21T15:00:00.0000000
   ends: 2018-03-21T16:00:00.0000000
   venue: ILS Training area (outside FT/120)
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/246928369/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-01-24T07:30:00.0000000
-  ends: 2018-01-24T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/246928465/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-01-24T08:00:00.0000000
-  ends: 2018-01-24T11:00:00.0000000
-  venue: La Bottega Milanese
 - name: Lightning talks
   description: "<p>We will be hosting an eclectic mix of lightning talks (10-15 minutes) plus questions. Line up is as follows:</p> <p>Kieron: Elasticsearch</p> <p>Matt: Azure Machine Learning for product recommendation</p> <p>Kiran Singh: 'No Estimates'</p> <p>John Staveley: Graph database features in SQL 2017</p> <p>John Doyle: How Excel Users make enterprise cloud data solutions</p> <p>Joseph Swan: What it's like to change programming stack</p> <p>If you want to give a talk on a .Net related subject then please get in touch with one of the organisers, we may have another slot available or you can be considered for future lightning talks.</p> <p>John, Mat, Kieron and Richard</p> "
   url: https://www.meetup.com/Leeds-Sharp/events/243577858/
@@ -751,6 +705,22 @@
   ends: 2018-02-07T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/246927765/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-02-07T08:00:00.0000000
+  ends: 2018-02-07T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: MagentoYork - February Meetup - Lightning Talks
+  description: '<p>In a series of short talks we discuss the latest happenings of Magento 2.</p> '
+  url: https://www.meetup.com/Magento-York/events/244729487/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/2/3/thumb_444120291.jpeg
+  starts: 2018-02-07T19:00:00.0000000
+  ends: 2018-02-07T21:00:00.0000000
+  venue: The Cross Keys
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/247025550/
@@ -1252,13 +1222,6 @@
   starts: 2019-01-17T19:00:00.0000000
   ends: 2019-01-17T22:00:00.0000000
   endorsed: true
-- name: YPS Get-Together Wednesday January 24th
-  description: YPS Get-Together
-  url: https://www.ypsyork.org/events/yps-get-together-january/
-  logo: https://www.ypsyork.org/wp-content/uploads/2013/10/Museum-Gardens_2-200x125.jpg
-  starts: 2018-01-24T14:30:00.0000000
-  ends: 2018-01-24T16:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/star-inn-the-city/" title="Star Inn the City">Star Inn the City</a>
 - name: Making Sense of Sewage &#8211; Industrial Biotechnology
   description: Making Sense of Sewage &#8211; Industrial Biotechnology
   url: https://www.ypsyork.org/events/making-sense-of-sewage-industrial-biotechnology/
