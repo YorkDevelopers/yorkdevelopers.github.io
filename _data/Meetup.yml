@@ -1,10 +1,3 @@
-- name: BSides Leeds
-  description: '<p><a href="http://bsidesleeds.co.uk" class="linkified">http://bsidesleeds.co.uk</a></p> <p>BSides is a community run computer security (hacking) conference that takes place in different locations across the globe. Unlike lots of other cons, BSides tends to be free or at least very cheap to attend.</p> <p>Leeds is getting their first bsides - to run on 26th January. If anyone is interested, tickets are £5 which can be bought from <a href="https://www.eventbrite.co.uk/e/bsides-leeds-2018-tickets-40890642011" class="linkified">https://www.eventbrite.co.uk/e/bsides-leeds-2018-tickets-40890642011</a>.</p> '
-  url: https://www.meetup.com/Manchester-Grey-Hats/events/245462334/
-  is-free: true
-  starts: 2018-01-26T08:00:00.0000000
-  ends: 2018-01-26T11:00:00.0000000
-  venue: Cloth Hall Court
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/247025532/
@@ -38,6 +31,14 @@
   starts: 2018-01-31T08:00:00.0000000
   ends: 2018-01-31T11:00:00.0000000
   venue: La Bottega Milanese
+- name: Umbraco Meetup
+  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>We draw a Jetbrains coupon to get one of their programs for free!<br/>Jan winnner: Thomas Nadin.</p> "
+  url: https://www.meetup.com/umbLeeds/events/247196196/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
+  starts: 2018-02-01T17:30:00.0000000
+  ends: 2018-02-01T20:30:00.0000000
+  venue: The Adelphi
 - name: An introduction to Blockchain technologies
   description: '<p>With interest in Bitcoin and other virtual currencies going through the roof, Blockchain, the technology behind it, has never been more relevant. But how does it work?</p> <p>This talk is a technical introduction to Blockchains. What are they?<br/>How are they different from traditional architecture?<br/>What makes them unique? It also dives into Smart Contracts, explaining how you can encapsulate logic on the Blockchain, and wraps up with examples of real-world applications currently being developed and in-use.</p> <p>SPEAKER<br/>Andy Gray – Software Developer at Equal Experts</p> <p>&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;<br/>**Food and drink will be provided - we look forward to seeing you there!**<br/>&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;</p> '
   url: https://www.meetup.com/Expert-Talks-Leeds/events/245914282/
@@ -88,6 +89,14 @@
   starts: 2018-02-07T19:00:00.0000000
   ends: 2018-02-07T21:00:00.0000000
   venue: The Cross Keys
+- name: Double Bill
+  description: '<p>Cake (C# Make) Build / #FAIL - Lessons from infosec incidents</p> <p>Gary Ewan Park will be teaching us how we can build anywhere by using cake build and Robin Minto will be walking us through challenges securing a web application.</p> <p>A Piece of Cake - C# powered cross platform build automation</p> <p>Have you ever wanted to create a build script for your application, but been faced with learning a new language, or DSL, or writing more XML than any person should ever need to? Have you ever wanted to create a build script that will work cross platform? Have you ever wanted to create a build script that has first class support for the most common build tools like XUnit, WiX, SignTool, and many others? Have you ever wanted to create a build script that uses a language that you already know, and love?</p> <p>If you have answered yes to any of these questions, then the Cake ( <a href="http://cakebuild.net/" class="linkified">http://cakebuild.net/</a> ) Build Automation System is for you!In this session we will start with a standard .Net Solution and incrementally add a build and orchestration script to compile the application, run unit tests, perform static analysis, package the application, and more, using the C# skills that you may already have.</p> <p>Gary Ewan Park (@gep13 (<a href="https://twitter.com/gep13" class="linkified">https://twitter.com/gep13</a>))</p> <p>Gary Ewan Park has been developing on the .Net Platform for almost 10 years. His day job sees him developing using ASP.NET, AngularJS, and WPF, for Oil Companies working in the North Sea.</p> <p>In his spare time, Gary contributes to a number of Open Source projects including Chocolatey, Boxstarter, Cake, psake and GitVersion.</p> <p>Gary is a founding member of the Aberdeen Developers .Net User Group, that holds monthly sessions on any topic related to the Microsoft .Net Technology Stack.</p> <p>#FAIL - Lessons from infosec incidents</p> <p>Securing a web application is a challenge. The internet is awash with malicious traffic and web applications are globally accessible. Don’t make it easy for them and the baddies will move on and find someone else to annoy.<br/>We’ll look at the risks facing web applications, the basic steps you can take so that you don’t make yourself a target and the things you should do to avoid becoming a data breach statistic. We’ll also look at lessons that can be learnt from mistakes that others have made.<br/>We’ll demo some of the techniques and tools in both attack and defence with examples for any web application developer.</p> '
+  url: https://www.meetup.com/dotnetYork/events/244481648/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
+  starts: 2018-02-09T18:00:00.0000000
+  ends: 2018-02-09T20:30:00.0000000
+  venue: The Hiscox Building
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/247025550/
