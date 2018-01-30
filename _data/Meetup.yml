@@ -1,21 +1,5 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/247025532/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-01-29T07:30:00.0000000
-  ends: 2018-01-29T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Bitcoin & Crypto chat and live demos over drinks!!
-  description: "<p>• What we'll do<br/>At this meet up, we are going to have live demonstrations of the top strategies and trades that some of our members are using to get success in digital currency.<br/>There will be plenty of time for spontaneous chat too over drinks!!<br/>Please feel free order the wonderful food that the pub does and eat it at our meetups!!</p> <p>• What to bring<br/>You may like to bring a pen and paper. Feel free to bring your laptops too.</p> <p>• Important to know</p> "
-  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/247085521/
-  is-free: true
-  starts: 2018-01-29T18:30:00.0000000
-  ends: 2018-01-29T20:30:00.0000000
-  venue: Royal Oak
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/247025534/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -56,8 +40,8 @@
   ends: 2018-02-05T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: agileYork - Managing change in the 21st century
-  description: "<p>Managing change in the 21st century</p> <p>Nearly two decades into the 21st century and with nearly as much time passed since the Agile manifesto was written, what have we learned about change? Which is better: \"top down\", with the challenge of overcoming resistance to change, or \"bottom up\", perhaps never gathering momentum? Is it indeed a dichotomy, or can we find a third way for organizational transformation that is simultaneously respectful, ambitious, and sustainable? We'll explore a synthesis of ideas and techniques old and new, identifying along the way some widely-held beliefs that are now well past their sell-by date.</p> <p>Mike will be joining us the evening before delivering his Advanced Agendashift course (<a href=\"http://bit.ly/2AEH9B4\" class=\"linkified\">http://bit.ly/2AEH9B4</a>) which tradition dictates is always launched first in Leeds. If you are interested in attending then Mike has offered members of agileYork a 15% discount, just enter SHARE15 when booking.</p> <p>About Mike Burrows</p> <p>Mike Burrows describes himself as a champion and enabler of outcome-oriented change and continuous transformation. He is the founder of Agendashift, author of two books – Kanban from the Inside (Blue Hole Press, 2014) and Agendashift (Leanpub, 2017) – and the originator of tools such as Featureban and 15-minute FOTO. Prior to his consulting career, Mike was a CTO for a late-stage startup and global Executive Director for a top-tier investment bank.</p> "
+- name: agileYork - Managing change in the 21st century + Greenfield vs Legacy Projects
+  description: "<p>Managing change in the 21st century</p> <p>Nearly two decades into the 21st century and with nearly as much time passed since the Agile manifesto was written, what have we learned about change? Which is better: \"top down\", with the challenge of overcoming resistance to change, or \"bottom up\", perhaps never gathering momentum? Is it indeed a dichotomy, or can we find a third way for organizational transformation that is simultaneously respectful, ambitious, and sustainable? We'll explore a synthesis of ideas and techniques old and new, identifying along the way some widely-held beliefs that are now well past their sell-by date.</p> <p>Mike will be joining us the evening before delivering his Advanced Agendashift course (<a href=\"http://bit.ly/2AEH9B4\" class=\"linkified\">http://bit.ly/2AEH9B4</a>) which tradition dictates is always launched first in Leeds. If you are interested in attending then Mike has offered members of agileYork a 15% discount, just enter SHARE15 when booking.</p> <p>About Mike Burrows</p> <p>Mike Burrows describes himself as a champion and enabler of outcome-oriented change and continuous transformation. He is the founder of Agendashift, author of two books – Kanban from the Inside (Blue Hole Press, 2014) and Agendashift (Leanpub, 2017) – and the originator of tools such as Featureban and 15-minute FOTO. Prior to his consulting career, Mike was a CTO for a late-stage startup and global Executive Director for a top-tier investment bank.</p> <p>Trials and Tribulations of Greenfield vs Legacy Projects</p> <p>I've spent a large chunk of my career working on greenfield projects, the promised land. All of the projects faced different issues, and we worked towards coming up with different solutions. The promised land wasn't all it's cracked up to be. Recently, I've spent a lot of time working on legacy projects, bringing them into the modern world. Again, these projects aren't perfect and presented a whole variety of different issues. Let's explore the types of projects, and decide which is better: Greenfield, or Legacy.</p> <p>Joe Stead</p> <p>The majority of my career has been dominated by the .NET world, although recently my focus has been on exploring the greater development community. I'm a firm believer in continually learning and trying new things, you never know what else is out there. Recently, I've focused on setting up a user group and developer community in Hull, HullDevs<br/>Twitter: @Joe_Stead<br/>Website: joestead.codes</p> "
   url: https://www.meetup.com/agileYork/events/246616390/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
@@ -89,6 +73,14 @@
   starts: 2018-02-07T19:00:00.0000000
   ends: 2018-02-07T21:00:00.0000000
   venue: The Cross Keys
+- name: 'February 2018: Amy Hearn - Microbits in Libraries - lending computers!'
+  description: "<p>Public libraries around the UK are now lending out BBC micro:bit computers to help people learn essential digital skills. Amy will share details of what's happening around the Leeds City Region with microbits in libraries - see how you can take part!</p> <p>#microbitsinlibraries</p> <p>Amy Hearn runs Hudderfield Girl Geeks meetup and is a keen promoter of #microbitsinlibraries</p> <p>@Amy__Hearn</p> "
+  url: https://www.meetup.com/CodeMill-Digital-Skills/events/246709849/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/3/1/5/thumb_466533557.jpeg
+  starts: 2018-02-08T18:30:00.0000000
+  ends: 2018-02-08T19:30:00.0000000
+  venue: FutureLabs @ Platform
 - name: Double Bill
   description: '<p>Cake (C# Make) Build / #FAIL - Lessons from infosec incidents</p> <p>Gary Ewan Park will be teaching us how we can build anywhere by using cake build and Robin Minto will be walking us through challenges securing a web application.</p> <p>A Piece of Cake - C# powered cross platform build automation</p> <p>Have you ever wanted to create a build script for your application, but been faced with learning a new language, or DSL, or writing more XML than any person should ever need to? Have you ever wanted to create a build script that will work cross platform? Have you ever wanted to create a build script that has first class support for the most common build tools like XUnit, WiX, SignTool, and many others? Have you ever wanted to create a build script that uses a language that you already know, and love?</p> <p>If you have answered yes to any of these questions, then the Cake ( <a href="http://cakebuild.net/" class="linkified">http://cakebuild.net/</a> ) Build Automation System is for you!In this session we will start with a standard .Net Solution and incrementally add a build and orchestration script to compile the application, run unit tests, perform static analysis, package the application, and more, using the C# skills that you may already have.</p> <p>Gary Ewan Park (@gep13 (<a href="https://twitter.com/gep13" class="linkified">https://twitter.com/gep13</a>))</p> <p>Gary Ewan Park has been developing on the .Net Platform for almost 10 years. His day job sees him developing using ASP.NET, AngularJS, and WPF, for Oil Companies working in the North Sea.</p> <p>In his spare time, Gary contributes to a number of Open Source projects including Chocolatey, Boxstarter, Cake, psake and GitVersion.</p> <p>Gary is a founding member of the Aberdeen Developers .Net User Group, that holds monthly sessions on any topic related to the Microsoft .Net Technology Stack.</p> <p>#FAIL - Lessons from infosec incidents</p> <p>Securing a web application is a challenge. The internet is awash with malicious traffic and web applications are globally accessible. Don’t make it easy for them and the baddies will move on and find someone else to annoy.<br/>We’ll look at the risks facing web applications, the basic steps you can take so that you don’t make yourself a target and the things you should do to avoid becoming a data breach statistic. We’ll also look at lessons that can be learnt from mistakes that others have made.<br/>We’ll demo some of the techniques and tools in both attack and defence with examples for any web application developer.</p> '
   url: https://www.meetup.com/dotnetYork/events/244481648/
@@ -105,6 +97,15 @@
   starts: 2018-02-12T07:30:00.0000000
   ends: 2018-02-12T10:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: York Code Dojo February Meetup - Code Review
+  description: "<p>For this York Code Dojo I'm planning on a doing a session based around some code reviewing. The idea is that I put up a piece of code on the screen and then you go away and discuss it (or re-write it) in pairs. After 5-10minutes we re-group and discuss it as a whole. We then move onto the next piece of code. I hoping to have a number of examples showing bad practice, bad algorithms, bad security, bad performance etc.. If anyone has any code they would like to contribute then that would be great. They can be a single method, class or program. Any mainstream language will be fine. This session will be suitable for both beginners and experienced programmers. If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the second floor.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg\" /></p> "
+  url: https://www.meetup.com/York-Code-Dojo/events/247275167/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2018-02-14T18:30:00.0000000
+  ends: 2018-02-14T21:00:00.0000000
+  venue: Room FT/210 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
