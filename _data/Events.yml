@@ -108,28 +108,6 @@
   starts: 2018-02-13T18:30:00.0000000
   ends: 2018-02-13T19:30:00.0000000
   venue: Ron Cooke Hub auditorium
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-41280763876?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
-  starts: 2018-02-01T18:30:00.0000000
-  ends: 2018-02-01T19:30:00.0000000
-- name: 'Unavoidable food waste in Yorkshire: opportunities to add value.'
-  description: "The BioVale Value from Unavoidable Food Waste Special Interest Group (VFW SIG) has been working with the University of York to map and identify opportunities for added value from food manufacturing waste in Yorkshire. \nThis meeting aims to present the results of this work and draw together food manufacturers who have unavoidable waste with technology providers who can use that waste to make useful products as well as funders who can help support innovation projects. \nThe optional afternoon session is an open innovation event, focusing on developing projects and technologies to add value to poultry waste and by-products of fresh produce.\n\nAgenda\nMorning session: Presentation of mapping results and innovation opportunities\n10.00    Registration, coffee networking\n11.00    Peter Ball, University of York Welcome\n11.05     Welcome from BioVale VFW SIG\n11.10    Anne O’Brien, Anthesis Ltd Review of results from food waste mapping exercise\n11.30    Joe Bennett BDC Review of opportunities to add value to waste from poultry raising, fresh produce and                 farinaceous products\n12.00     Panel discussion\n12.30    Networking lunch\n \nOptional afternoon session: Facilitated innovation project development workshop \n13.30     Presentation by poultry farmer on waste issues\n13.50     Short presentations by innovation and technology providers\n14.30     Offers of funding for innovation\n14.45     Tea break\n15.00     Facilitated discussions and 1:1 meetings\n16.00     Feedback\n16.15    Depart\nThis event is organised by BioVale's special interest group on Value from Unavoidable Food Waste. By registering for this event, you will become a member of BioVale and receive the BioVale newsletter by email.Further details here on membership and terms and conditions. \n\n"
-  url: https://www.eventbrite.co.uk/e/unavoidable-food-waste-in-yorkshire-opportunities-to-add-value-tickets-41834018676?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/39215364/132068918034/1/original.jpg?h=200&w=450&rect=0,480,5760,2880&s=af188788624e9bdd8b0fb4c7c5e49df6
-  starts: 2018-02-27T10:00:00.0000000
-  ends: 2018-02-27T13:00:00.0000000
-  venue: Holiday Inn York
 - name: ISCF Medicines Manufacturing Round 2 Challenge Fund Competition - Engagement Workshop
   description: >+
       
@@ -150,6 +128,49 @@
   starts: 2018-03-07T10:00:00.0000000
   ends: 2018-03-07T15:00:00.0000000
   venue: National Railway Museum (Main Entrance)
+- name: 'Unavoidable food waste in Yorkshire: opportunities to add value.'
+  description: "The BioVale Value from Unavoidable Food Waste Special Interest Group (VFW SIG) has been working with the University of York to map and identify opportunities for added value from food manufacturing waste in Yorkshire. \nThis meeting aims to present the results of this work and draw together food manufacturers who have unavoidable waste with technology providers who can use that waste to make useful products as well as funders who can help support innovation projects. \nThe optional afternoon session is an open innovation event, focusing on developing projects and technologies to add value to poultry waste and by-products of fresh produce.\n\nAgenda\nMorning session: Presentation of mapping results and innovation opportunities\n10.00    Registration, coffee networking\n11.00    Peter Ball, University of York Welcome\n11.05     Welcome from BioVale VFW SIG\n11.10    Anne O’Brien, Anthesis Ltd Review of results from food waste mapping exercise\n11.30    Joe Bennett BDC Review of opportunities to add value to waste from poultry raising, fresh produce and                 farinaceous products\n12.00     Panel discussion\n12.30    Networking lunch\n \nOptional afternoon session: Facilitated innovation project development workshop \n13.30     Presentation by poultry farmer on waste issues\n13.50     Short presentations by innovation and technology providers\n14.30     Offers of funding for innovation\n14.45     Tea break\n15.00     Facilitated discussions and 1:1 meetings\n16.00     Feedback\n16.15    Depart\nThis event is organised by BioVale's special interest group on Value from Unavoidable Food Waste. By registering for this event, you will become a member of BioVale and receive the BioVale newsletter by email.Further details here on membership and terms and conditions. \n\n"
+  url: https://www.eventbrite.co.uk/e/unavoidable-food-waste-in-yorkshire-opportunities-to-add-value-tickets-41834018676?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/39215364/132068918034/1/original.jpg?h=200&w=450&rect=0,480,5760,2880&s=af188788624e9bdd8b0fb4c7c5e49df6
+  starts: 2018-02-27T10:00:00.0000000
+  ends: 2018-02-27T13:00:00.0000000
+  venue: Holiday Inn York
+- name: Do robots dream of saving lives?
+  description: >-
+    Speaker: Professor Tim Kelly, Department of Computer Science
+
+    Merchant Adventurers' Science Discovery Lecture
+
+    Self-driving cars, crew-less tankers, parcel delivery by drones, service robots for the elderly:  The robots are coming! In the near future an increasing number of autonomous systems will be placed in roles, and given functions, that were previously the domain of skilled humans.  With their introduction there are promised improvements in efficiency, quality of life, and even safety. But what happens when these systems fail? Will human lives be put at risk?  Key questions need to be addressed in order for us to place our trust in these machines: Can ‘safe’ behaviour truly be defined and understood? Can we encode and emulate the ethics of a human operator? How can the underlying technology fail? Who is legally responsible when things go wrong?  This lecture will introduce some of the ongoing research at the University of York that is addressing these important questions. 
+
+    Speaker biography: Tim Kelly is Professor of High Integrity Systems within the Department of Computer Science at the University of York. He is best known for his work on system and software safety case development, particularly his work on refining and extending the Goal Structuring Notation (GSN). His research interests include safety case management, software safety analysis and justification, software architecture safety, and the dependability of “Systems of Systems”. He has supervised a number of research projects in these areas with funding and support from Airbus, BAE SYSTEMS, Data Systems and Solutions, DTI, EPSRC, ERA Technology, Ministry of Defence, QinetiQ, Rolls-Royce, and the European Commission. He has published over 150 papers on high integrity systems development and justification in international journals and conferences. 
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/do-robots-dream-of-saving-lives-tickets-42671950954?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/40243652/22468345120/1/original.jpg?h=200&w=450&rect=0,19,450,225&s=b4e89c3d24c9b0c897721ef454bee260
+  starts: 2018-03-08T18:30:00.0000000
+  ends: 2018-03-08T19:30:00.0000000
+  venue: Merchant Adventurers' Hall
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-41280763876?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
+  starts: 2018-02-01T18:30:00.0000000
+  ends: 2018-02-01T19:30:00.0000000
 - name: Creative Engineering
   description: >-
     Speaker: Professor Andy Hunt, Department of Electronic Engineering
@@ -193,27 +214,6 @@
   starts: 2018-03-08T09:30:00.0000000
   ends: 2018-03-08T17:00:00.0000000
   venue: Department of Computer Science (CSE-102/3)
-- name: Do robots dream of saving lives?
-  description: >-
-    Speaker: Professor Tim Kelly, Department of Computer Science
-
-    Merchant Adventurers' Science Discovery Lecture
-
-    Self-driving cars, crew-less tankers, parcel delivery by drones, service robots for the elderly:  The robots are coming! In the near future an increasing number of autonomous systems will be placed in roles, and given functions, that were previously the domain of skilled humans.  With their introduction there are promised improvements in efficiency, quality of life, and even safety. But what happens when these systems fail? Will human lives be put at risk?  Key questions need to be addressed in order for us to place our trust in these machines: Can ‘safe’ behaviour truly be defined and understood? Can we encode and emulate the ethics of a human operator? How can the underlying technology fail? Who is legally responsible when things go wrong?  This lecture will introduce some of the ongoing research at the University of York that is addressing these important questions. 
-
-    Speaker biography: Tim Kelly is Professor of High Integrity Systems within the Department of Computer Science at the University of York. He is best known for his work on system and software safety case development, particularly his work on refining and extending the Goal Structuring Notation (GSN). His research interests include safety case management, software safety analysis and justification, software architecture safety, and the dependability of “Systems of Systems”. He has supervised a number of research projects in these areas with funding and support from Airbus, BAE SYSTEMS, Data Systems and Solutions, DTI, EPSRC, ERA Technology, Ministry of Defence, QinetiQ, Rolls-Royce, and the European Commission. He has published over 150 papers on high integrity systems development and justification in international journals and conferences. 
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/do-robots-dream-of-saving-lives-tickets-42671950954?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/40243652/22468345120/1/original.jpg?h=200&w=450&rect=0,19,450,225&s=b4e89c3d24c9b0c897721ef454bee260
-  starts: 2018-03-08T18:30:00.0000000
-  ends: 2018-03-08T19:30:00.0000000
-  venue: Merchant Adventurers' Hall
 - name: Texture in formulations – SCS RDG North
   description: >-
     22 MARCH 2018 
@@ -228,6 +228,18 @@
   starts: 2018-03-22T12:00:00.0000000
   ends: 2018-03-22T16:00:00.0000000
   venue: York Marriott Hotel
+- name: 'IGS UK Symposium: Use of Geosynthetics in Rail: Towards 2025'
+  description: >-
+    With high-speed railways planned across the world, budget limitations pressing for ever more efficient structures and the Paris Agreement demanding more sustainable solutions, there are many challenges to overcome in the rail sector.
+
+    The UK chapter of the IGS want to educate the Industry about the use of geosynthetics in Rail. The symposium will showcase the established use of geosynthetics in rail applications from around the world for over 30 years. It will also discuss how they could be utilised in high speed networks to create steeper embankments, construct abutments, facilitate drainage and many other uses.
+
+    Further information can be found at: http://www.igs-uk.org/rail/
+  url: https://www.eventbrite.co.uk/e/igs-uk-symposium-use-of-geosynthetics-in-rail-towards-2025-tickets-35319374199?aff=ebapi
+  logo: https://cdn.evbuc.com/images/33001134/202817109813/1/original.jpg?h=200&w=450&rect=0,111,954,477&s=5c1caee93ad8c37ce4dd8c3e03320e98
+  starts: 2018-04-18T08:30:00.0000000
+  ends: 2018-04-18T17:00:00.0000000
+  venue: National Railway Museum York
 - name: 'WE1: Website CMS Basic training (Thu 8 Feb 10:00-12:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -281,18 +293,6 @@
   starts: 2018-05-29T14:00:00.0000000
   ends: 2018-05-29T16:00:00.0000000
   venue: DG/104 (De Grey)
-- name: 'IGS UK Symposium: Use of Geosynthetics in Rail: Towards 2025'
-  description: >-
-    With high-speed railways planned across the world, budget limitations pressing for ever more efficient structures and the Paris Agreement demanding more sustainable solutions, there are many challenges to overcome in the rail sector.
-
-    The UK chapter of the IGS want to educate the Industry about the use of geosynthetics in Rail. The symposium will showcase the established use of geosynthetics in rail applications from around the world for over 30 years. It will also discuss how they could be utilised in high speed networks to create steeper embankments, construct abutments, facilitate drainage and many other uses.
-
-    Further information can be found at: http://www.igs-uk.org/rail/
-  url: https://www.eventbrite.co.uk/e/igs-uk-symposium-use-of-geosynthetics-in-rail-towards-2025-tickets-35319374199?aff=ebapi
-  logo: https://cdn.evbuc.com/images/33001134/202817109813/1/original.jpg?h=200&w=450&rect=0,111,954,477&s=5c1caee93ad8c37ce4dd8c3e03320e98
-  starts: 2018-04-18T08:30:00.0000000
-  ends: 2018-04-18T17:00:00.0000000
-  venue: National Railway Museum York
 - name: 'YSJ Terra Two, Workshop Two: Writing for an Off-World Colony '
   description: "NASA is currently aiming to settle the first human beings on MARS by 2030. Terra Two’s project designers suggest that writers, artists, musicians, philosophers and spiritual thinkers have an ethical responsibility to lend their voices to this far-sighted scientific experiment.  Terra Two is an online magazine/archive which was officially launched at York St John in September 2017 in order to collate science-fictional contributions from YSJ staff, postgraduate students, undergraduate students and invited guests in the form of writing, music, visual images, games and podcasts. The aim of these collected contributions is to help create a sustainable future for human beings as well as the non-human plant and animal species we directly impact upon, both on Earth and off-world. For our magazine, see https://yorkstjohnterratwo.com. This year we are introducing a workshop series to develop and disseminate the ideas underpinning Terra Two, and we invite you to get involved with one or more! Workshops will be facilitated by one or more members of the Terra Two editorial team, and refreshments will be provided. This summer the Terra Two team will produce a printed catalogue which participants will have the opportunity to contribute to. \nSign up to join us!\n\n\nWorkshop Two: Writing for an Off-World Colony\nYou are leaving Earth to set up the first off-world colony.  What things would you take with you?  This creative writing workshop asks you to debate this question by looking at stories by some of the great science fiction writers.\nFollowing the popularity of the Festival of Ideas creative writing workshop with the same title, the editors of Terra Two will offer the workshop again, this time with a specific invitation to staff and students as well as members of the public. Staff and students who are interested in working together to facilitate Terra Two workshops in local schools and community venues may find this of particular interest. All are invited to begin creative work which can be submitted to Terra Two: An Ark for Off-World Survival for the next submission deadline, which is the 1st of April. \n\n"
   url: https://www.eventbrite.co.uk/e/ysj-terra-two-workshop-two-writing-for-an-off-world-colony-tickets-42230423333?aff=ebapi
@@ -607,23 +607,6 @@
   starts: 2018-03-21T15:00:00.0000000
   ends: 2018-03-21T16:00:00.0000000
   venue: ILS Training area (outside FT/120)
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/247025534/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-01-31T07:30:00.0000000
-  ends: 2018-01-31T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/247149242/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-01-31T08:00:00.0000000
-  ends: 2018-01-31T11:00:00.0000000
-  venue: La Bottega Milanese
 - name: Umbraco Meetup
   description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>We draw a Jetbrains coupon to get one of their programs for free!<br/>Jan winnner: Thomas Nadin.</p> "
   url: https://www.meetup.com/umbLeeds/events/247196196/
@@ -632,6 +615,14 @@
   starts: 2018-02-01T17:30:00.0000000
   ends: 2018-02-01T20:30:00.0000000
   venue: The Adelphi
+- name: agileYork - Managing change in the 21st century + Greenfield vs Legacy Projects
+  description: "<p>Managing change in the 21st century</p> <p>Nearly two decades into the 21st century and with nearly as much time passed since the Agile manifesto was written, what have we learned about change? Which is better: \"top down\", with the challenge of overcoming resistance to change, or \"bottom up\", perhaps never gathering momentum? Is it indeed a dichotomy, or can we find a third way for organizational transformation that is simultaneously respectful, ambitious, and sustainable? We'll explore a synthesis of ideas and techniques old and new, identifying along the way some widely-held beliefs that are now well past their sell-by date.</p> <p>Mike will be joining us the evening before delivering his Advanced Agendashift course (<a href=\"http://bit.ly/2AEH9B4\" class=\"linkified\">http://bit.ly/2AEH9B4</a>) which tradition dictates is always launched first in Leeds. If you are interested in attending then Mike has offered members of agileYork a 15% discount, just enter SHARE15 when booking.</p> <p>About Mike Burrows</p> <p>Mike Burrows describes himself as a champion and enabler of outcome-oriented change and continuous transformation. He is the founder of Agendashift, author of two books – Kanban from the Inside (Blue Hole Press, 2014) and Agendashift (Leanpub, 2017) – and the originator of tools such as Featureban and 15-minute FOTO. Prior to his consulting career, Mike was a CTO for a late-stage startup and global Executive Director for a top-tier investment bank.</p> <p>Trials and Tribulations of Greenfield vs Legacy Projects</p> <p>I've spent a large chunk of my career working on greenfield projects, the promised land. All of the projects faced different issues, and we worked towards coming up with different solutions. The promised land wasn't all it's cracked up to be. Recently, I've spent a lot of time working on legacy projects, bringing them into the modern world. Again, these projects aren't perfect and presented a whole variety of different issues. Let's explore the types of projects, and decide which is better: Greenfield, or Legacy.</p> <p>Joe Stead</p> <p>The majority of my career has been dominated by the .NET world, although recently my focus has been on exploring the greater development community. I'm a firm believer in continually learning and trying new things, you never know what else is out there. Recently, I've focused on setting up a user group and developer community in Hull, HullDevs<br/>Twitter: @Joe_Stead<br/>Website: joestead.codes</p> "
+  url: https://www.meetup.com/agileYork/events/246616390/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2018-02-05T18:30:00.0000000
+  ends: 2018-02-05T21:00:00.0000000
+  venue: York St.John University
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/247307248/
@@ -641,14 +632,6 @@
   ends: 2018-02-05T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: agileYork - Managing change in the 21st century + Greenfield vs Legacy Projects
-  description: "<p>Managing change in the 21st century</p> <p>Nearly two decades into the 21st century and with nearly as much time passed since the Agile manifesto was written, what have we learned about change? Which is better: \"top down\", with the challenge of overcoming resistance to change, or \"bottom up\", perhaps never gathering momentum? Is it indeed a dichotomy, or can we find a third way for organizational transformation that is simultaneously respectful, ambitious, and sustainable? We'll explore a synthesis of ideas and techniques old and new, identifying along the way some widely-held beliefs that are now well past their sell-by date.</p> <p>Mike will be joining us the evening before delivering his Advanced Agendashift course (<a href=\"http://bit.ly/2AEH9B4\" class=\"linkified\">http://bit.ly/2AEH9B4</a>) which tradition dictates is always launched first in Leeds. If you are interested in attending then Mike has offered members of agileYork a 15% discount, just enter SHARE15 when booking.</p> <p>About Mike Burrows</p> <p>Mike Burrows describes himself as a champion and enabler of outcome-oriented change and continuous transformation. He is the founder of Agendashift, author of two books – Kanban from the Inside (Blue Hole Press, 2014) and Agendashift (Leanpub, 2017) – and the originator of tools such as Featureban and 15-minute FOTO. Prior to his consulting career, Mike was a CTO for a late-stage startup and global Executive Director for a top-tier investment bank.</p> <p>Trials and Tribulations of Greenfield vs Legacy Projects</p> <p>I've spent a large chunk of my career working on greenfield projects, the promised land. All of the projects faced different issues, and we worked towards coming up with different solutions. The promised land wasn't all it's cracked up to be. Recently, I've spent a lot of time working on legacy projects, bringing them into the modern world. Again, these projects aren't perfect and presented a whole variety of different issues. Let's explore the types of projects, and decide which is better: Greenfield, or Legacy.</p> <p>Joe Stead</p> <p>The majority of my career has been dominated by the .NET world, although recently my focus has been on exploring the greater development community. I'm a firm believer in continually learning and trying new things, you never know what else is out there. Recently, I've focused on setting up a user group and developer community in Hull, HullDevs<br/>Twitter: @Joe_Stead<br/>Website: joestead.codes</p> "
-  url: https://www.meetup.com/agileYork/events/246616390/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
-  starts: 2018-02-05T18:30:00.0000000
-  ends: 2018-02-05T21:00:00.0000000
-  venue: York St.John University
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/247025545/
@@ -717,6 +700,14 @@
   ends: 2018-02-14T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/247306144/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-02-14T08:00:00.0000000
+  ends: 2018-02-14T11:00:00.0000000
+  venue: La Bottega Milanese
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxdbtb/
@@ -1277,23 +1268,3 @@
   starts: 2018-06-24T08:00:00.0000000
   ends: 2018-06-24T10:00:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/macdonald-cardrona-hotel/" title="Macdonald Cardrona Hotel">Macdonald Cardrona Hotel</a>
-- name: Kindertransport and the Quakers; A conversation with Peter Kurer and Kurt Strauss
-  description: >
-    This event is part of a series part of the BOOTHAM SCHOOL SOCIAL JUSTICE PROGRAMME 2018
-
-
-    Refreshments will be available from 6.30pm.
-
-
-    The main event will begin at 7.00pm with a Welcome. Peter Kurer will then discuss what the Quakers did for the Jews of Nazi Europe.Kurt Strauss will then share his own experiences of leaving Nazi Germany in 1939 and starting a new life in a hostel run by Quakers. This will then be followed by a Q&A session.
-
-
-     
-
-
-     
-  url: https://bootham-school.ticketleap.com/kindertransport/
-  logo: https://ticketleap-media-master.s3.amazonaws.com/a79bf8e2-95f0-4f09-9431-ea9c21e69ecf/full.jpg
-  starts: 2018-01-31T20:00:00.0000000
-  ends: 2018-01-31T20:00:00.0000000
-  venue: Bootham School - Assembly Hall
