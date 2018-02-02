@@ -1,14 +1,3 @@
-- name: 'Dr Marina Petri - Exotic Nuclei: On the Edge of Existence'
-  description: >-
-    In the laboratory, physicists can create atomic nuclei which we haven't otherwise observed in nature, challenging our understanding of the fundamental fabric of the universe. Dr Petri discusses her work in one of the most exciting fields of experimental Physics.
-
-    Please either print off your ticket or display it to us on your smartphone or tablet when you arrive at the event. Please note that parking on site will be limited, so other forms of transport are encouraged. The nearest public car park is Marygate, a few minutes' walk from the venue. Please contact us on 01904 526 315 if you have any access requirements.
-  url: https://www.eventbrite.co.uk/e/dr-marina-petri-exotic-nuclei-on-the-edge-of-existence-tickets-41454063219?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38869513/87497926893/1/original.jpg?h=200&w=450&rect=0,225,1200,600&s=36dc3df3fff7dbbe8f89a2b0db1568db
-  starts: 2018-02-28T19:00:00.0000000
-  ends: 2018-02-28T20:30:00.0000000
-  venue: St Peter's School
 - name: 'Professor Phil Manning: Last Days of the Dinosaurs'
   description: >-
     The end of the dinosaurs’ reign on Earth was 65 million years ago. What happened? New discoveries in Mexico provide the first ever timing of events on the last day of the Cretaceous.
@@ -19,6 +8,17 @@
   logo: https://cdn.evbuc.com/images/38869976/87497926893/1/original.jpg?h=200&w=450&rect=0,540,2722,1361&s=155eac19bba50a8c95d91c134735dd3f
   starts: 2018-03-24T15:00:00.0000000
   ends: 2018-03-24T16:30:00.0000000
+  venue: St Peter's School
+- name: 'Dr Marina Petri - Exotic Nuclei: On the Edge of Existence'
+  description: >-
+    In the laboratory, physicists can create atomic nuclei which we haven't otherwise observed in nature, challenging our understanding of the fundamental fabric of the universe. Dr Petri discusses her work in one of the most exciting fields of experimental Physics.
+
+    Please either print off your ticket or display it to us on your smartphone or tablet when you arrive at the event. Please note that parking on site will be limited, so other forms of transport are encouraged. The nearest public car park is Marygate, a few minutes' walk from the venue. Please contact us on 01904 526 315 if you have any access requirements.
+  url: https://www.eventbrite.co.uk/e/dr-marina-petri-exotic-nuclei-on-the-edge-of-existence-tickets-41454063219?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38869513/87497926893/1/original.jpg?h=200&w=450&rect=0,225,1200,600&s=36dc3df3fff7dbbe8f89a2b0db1568db
+  starts: 2018-02-28T19:00:00.0000000
+  ends: 2018-02-28T20:30:00.0000000
   venue: St Peter's School
 - name: Building a better computer
   description: >-
@@ -45,29 +45,6 @@
   starts: 2018-02-28T18:30:00.0000000
   ends: 2018-02-28T19:30:00.0000000
   venue: Ron Cooke Hub auditorium
-- name: Measuring ability in generic skills - should we and can we?
-  description: >-
-    Speaker: Professor Tony Ward, Department of Electronic Engineering
-
-    Department of Electronic Engineering Inaugural Lectures
-
-    In relation to generic skills, Higher Education faces two fundamental questions: Should we be measuring the ability of students?; and secondly if we should, can we? The talk starts with the "should we" by looking at a model of the student first employment transition and what industry declares it needs. Some current research into the analysis of job adverts tells an interesting story in terms of what skills are sought by industry and, more interestingly how level of ability is articulated. The talk then addresses the obvious question of what are the generic skills and discusses the complexities in terminology and definitions. It then turns to the second question of can we measure ability in generic skills and discusses issues of accuracy, reliability, rater bias and fatigue and certification in relation to public speaking as an examplar. The conclusion? Should we and can we? Come along and find out some of the things that affect our ability to answer these questions and do anything.
-
-    Speaker biography:  Tony joined the Department of Electronics on the 1st January 1993 as a lecturer in Business Management after 18 years in Industry as an electronic design engineer, technical manager and programme manager for a number of different companies in the UK and US. Within York he has held the position of Provost of Alcuin College and Director of the Centre for Excellence in Teaching and Learning in Enterprise. Externally he has been President of the European Association for Education in Electrical and Information Engineering and managed or participated in over 20 research projects. His research is in area of Engineering Education and Entrepreneurship with a specific focus on exploring the development and assessment of generic skills.
-
-    NB There will be a drinks reception in PT005A at 5.30pm. All lecture attendees welcome. 
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/measuring-ability-in-generic-skills-should-we-and-can-we-tickets-41333676138?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38735148/22468345120/1/original.jpg?h=200&w=450&rect=0,25,262,131&s=4a75412b926e841175e7f2d260908b37
-  starts: 2018-02-01T18:30:00.0000000
-  ends: 2018-02-01T19:30:00.0000000
-  venue: Room P/X001
 - name: "Members' Private View: Yorkshire's Jurassic World"
   description: >-
     YMT Card Holders are invited to attend an exclusive free private view of our brand new major exhibition Yorkshire's Jurassic World at the Yorkshire Museum, featuring a short talk from the show's curator, Dr. Sarah King, Curator of Natural Science at York Museums Trust. 
@@ -128,14 +105,6 @@
   starts: 2018-03-07T10:00:00.0000000
   ends: 2018-03-07T15:00:00.0000000
   venue: National Railway Museum (Main Entrance)
-- name: 'Unavoidable food waste in Yorkshire: opportunities to add value.'
-  description: "The BioVale Value from Unavoidable Food Waste Special Interest Group (VFW SIG) has been working with the University of York to map and identify opportunities for added value from food manufacturing waste in Yorkshire. \nThis meeting aims to present the results of this work and draw together food manufacturers who have unavoidable waste with technology providers who can use that waste to make useful products as well as funders who can help support innovation projects. \nThe optional afternoon session is an open innovation event, focusing on developing projects and technologies to add value to poultry waste and by-products of fresh produce.\n\nAgenda\nMorning session: Presentation of mapping results and innovation opportunities\n10.00    Registration, coffee networking\n11.00    Peter Ball, University of York Welcome\n11.05     Welcome from BioVale VFW SIG\n11.10    Anne O’Brien, Anthesis Ltd Review of results from food waste mapping exercise\n11.30    Joe Bennett BDC Review of opportunities to add value to waste from poultry raising, fresh produce and                 farinaceous products\n12.00     Panel discussion\n12.30    Networking lunch\n \nOptional afternoon session: Facilitated innovation project development workshop \n13.30     Presentation by poultry farmer on waste issues\n13.50     Short presentations by innovation and technology providers\n14.30     Offers of funding for innovation\n14.45     Tea break\n15.00     Facilitated discussions and 1:1 meetings\n16.00     Feedback\n16.15    Depart\nThis event is organised by BioVale's special interest group on Value from Unavoidable Food Waste. By registering for this event, you will become a member of BioVale and receive the BioVale newsletter by email.Further details here on membership and terms and conditions. \n\n"
-  url: https://www.eventbrite.co.uk/e/unavoidable-food-waste-in-yorkshire-opportunities-to-add-value-tickets-41834018676?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/39215364/132068918034/1/original.jpg?h=200&w=450&rect=0,480,5760,2880&s=af188788624e9bdd8b0fb4c7c5e49df6
-  starts: 2018-02-27T10:00:00.0000000
-  ends: 2018-02-27T13:00:00.0000000
-  venue: Holiday Inn York
 - name: Do robots dream of saving lives?
   description: >-
     Speaker: Professor Tim Kelly, Department of Computer Science
@@ -157,6 +126,14 @@
   starts: 2018-03-08T18:30:00.0000000
   ends: 2018-03-08T19:30:00.0000000
   venue: Merchant Adventurers' Hall
+- name: 'Unavoidable food waste in Yorkshire: opportunities to add value.'
+  description: "The BioVale Value from Unavoidable Food Waste Special Interest Group (VFW SIG) has been working with the University of York to map and identify opportunities for added value from food manufacturing waste in Yorkshire. \nThis meeting aims to present the results of this work and draw together food manufacturers who have unavoidable waste with technology providers who can use that waste to make useful products as well as funders who can help support innovation projects. \nThe optional afternoon session is an open innovation event, focusing on developing projects and technologies to add value to poultry waste and by-products of fresh produce.\n\nAgenda\nMorning session: Presentation of mapping results and innovation opportunities\n10.00    Registration, coffee networking\n11.00    Peter Ball, University of York Welcome\n11.05     Welcome from BioVale VFW SIG\n11.10    Anne O’Brien, Anthesis Ltd Review of results from food waste mapping exercise\n11.30    Joe Bennett BDC Review of opportunities to add value to waste from poultry raising, fresh produce and                 farinaceous products\n12.00     Panel discussion\n12.30    Networking lunch\n \nOptional afternoon session: Facilitated innovation project development workshop \n13.30     Presentation by poultry farmer on waste issues\n13.50     Short presentations by innovation and technology providers\n14.30     Offers of funding for innovation\n14.45     Tea break\n15.00     Facilitated discussions and 1:1 meetings\n16.00     Feedback\n16.15    Depart\nThis event is organised by BioVale's special interest group on Value from Unavoidable Food Waste. By registering for this event, you will become a member of BioVale and receive the BioVale newsletter by email.Further details here on membership and terms and conditions. \n\n"
+  url: https://www.eventbrite.co.uk/e/unavoidable-food-waste-in-yorkshire-opportunities-to-add-value-tickets-41834018676?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/39215364/132068918034/1/original.jpg?h=200&w=450&rect=0,480,5760,2880&s=af188788624e9bdd8b0fb4c7c5e49df6
+  starts: 2018-02-27T10:00:00.0000000
+  ends: 2018-02-27T13:00:00.0000000
+  venue: Holiday Inn York
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -166,11 +143,11 @@
     Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
 
     If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-41280763876?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-41280764879?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
-  starts: 2018-02-01T18:30:00.0000000
-  ends: 2018-02-01T19:30:00.0000000
+  starts: 2018-02-15T18:30:00.0000000
+  ends: 2018-02-15T19:30:00.0000000
 - name: Creative Engineering
   description: >-
     Speaker: Professor Andy Hunt, Department of Electronic Engineering
@@ -292,14 +269,35 @@
   logo: https://cdn.evbuc.com/images/39665542/240355785937/1/original.jpg?h=200&w=450&rect=0,84,728,364&s=b431e7c6839153ccab13de56301f5258
   starts: 2018-05-29T14:00:00.0000000
   ends: 2018-05-29T16:00:00.0000000
-  venue: DG/104 (De Grey)
+  venue: DG/125 (De Grey)
+- name: 'Tim Peake: Mission Achievements'
+  description: >-
+    Join us at the University of York Astrocampus to explore the night skies and discover more about British Astronaut Tim Peake's mission aboard the International Space Station. Now that Tim is safely back on Earth you can find out about the science he did and about how the human body reacts to being in space, as well as trying activities that push you to 'Train Like an Astronaut'. PLUS take the opportunity to look round the observatory and, weather permitting, explore the wonders of space through our top of the range telescopes.  
+
+    The event is family-friendly.   
+
+    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
+  url: https://www.eventbrite.co.uk/e/tim-peake-mission-achievements-tickets-42754134768?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/40362890/133368849299/1/original.jpg?h=200&w=450&rect=0,53,736,368&s=678ee4be61d66ceb7804944eb8f66282
+  starts: 2018-03-16T18:00:00.0000000
+  ends: 2018-03-16T19:30:00.0000000
+  venue: Astrocampus
 - name: 'YSJ Terra Two, Workshop Two: Writing for an Off-World Colony '
-  description: "NASA is currently aiming to settle the first human beings on MARS by 2030. Terra Two’s project designers suggest that writers, artists, musicians, philosophers and spiritual thinkers have an ethical responsibility to lend their voices to this far-sighted scientific experiment.  Terra Two is an online magazine/archive which was officially launched at York St John in September 2017 in order to collate science-fictional contributions from YSJ staff, postgraduate students, undergraduate students and invited guests in the form of writing, music, visual images, games and podcasts. The aim of these collected contributions is to help create a sustainable future for human beings as well as the non-human plant and animal species we directly impact upon, both on Earth and off-world. For our magazine, see https://yorkstjohnterratwo.com. This year we are introducing a workshop series to develop and disseminate the ideas underpinning Terra Two, and we invite you to get involved with one or more! Workshops will be facilitated by one or more members of the Terra Two editorial team, and refreshments will be provided. This summer the Terra Two team will produce a printed catalogue which participants will have the opportunity to contribute to. \nSign up to join us!\n\n\nWorkshop Two: Writing for an Off-World Colony\nYou are leaving Earth to set up the first off-world colony.  What things would you take with you?  This creative writing workshop asks you to debate this question by looking at stories by some of the great science fiction writers.\nFollowing the popularity of the Festival of Ideas creative writing workshop with the same title, the editors of Terra Two will offer the workshop again, this time with a specific invitation to staff and students as well as members of the public. Staff and students who are interested in working together to facilitate Terra Two workshops in local schools and community venues may find this of particular interest. All are invited to begin creative work which can be submitted to Terra Two: An Ark for Off-World Survival for the next submission deadline, which is the 1st of April. \n\n"
+  description: "NASA is currently aiming to settle the first human beings on MARS by 2030. Terra Two’s project designers suggest that writers, artists, musicians, philosophers and spiritual thinkers have an ethical responsibility to lend their voices to this far-sighted scientific experiment.  Terra Two is an online magazine/archive which was officially launched at York St John in September 2017 in order to collate science-fictional contributions from YSJ staff, postgraduate students, undergraduate students and invited guests in the form of writing, music, visual images, games and podcasts. The aim of these collected contributions is to help create a sustainable future for human beings as well as the non-human plant and animal species we directly impact upon, both on Earth and off-world. For our magazine, see https://yorkstjohnterratwo.com. This year we are introducing a workshop series to develop and disseminate the ideas underpinning Terra Two, and we invite you to get involved with one or more! Workshops will be facilitated by one or more members of the Terra Two editorial team, and refreshments will be provided. This summer the Terra Two team will produce a printed catalogue which participants will have the opportunity to contribute to. \nSign up to join us!\n\n\n\nWorkshop Two: Writing for an Off-World Colony\nYou are leaving Earth to set up the first off-world colony.  What things would you take with you?  This creative writing workshop asks you to debate this question by looking at stories by some of the great science fiction writers.\nFollowing the popularity of the Festival of Ideas creative writing workshop with the same title, the editors of Terra Two will offer the workshop again, this time with a specific invitation to staff and students as well as members of the public. Staff and students who are interested in working together to facilitate Terra Two workshops in local schools and community venues may find this of particular interest. All are invited to begin creative work which can be submitted to Terra Two: An Ark for Off-World Survival for the next submission deadline, which is the 1st of April. \n\n"
   url: https://www.eventbrite.co.uk/e/ysj-terra-two-workshop-two-writing-for-an-off-world-colony-tickets-42230423333?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/39663696/240355785937/1/original.jpg?h=200&w=450&rect=0,84,728,364&s=096defad8dcc65c6275b76895b7043c1
   starts: 2018-02-27T14:00:00.0000000
   ends: 2018-02-27T16:00:00.0000000
+  venue: QS/022 (Quad South)
+- name: 'YSJ Terra Two, Workshop Three: Science Fiction and the Literature Festival'
+  description: "NASA is currently aiming to settle the first human beings on MARS by 2030. Terra Two’s project designers suggest that writers, artists, musicians, philosophers and spiritual thinkers have an ethical responsibility to lend their voices to this far-sighted scientific experiment.  Terra Two is an online magazine/archive which was officially launched at York St John in September 2017 in order to collate science-fictional contributions from YSJ staff, postgraduate students, undergraduate students and invited guests in the form of writing, music, visual images, games and podcasts. The aim of these collected contributions is to help create a sustainable future for human beings as well as the non-human plant and animal species we directly impact upon, both on Earth and off-world. For our magazine, see https://yorkstjohnterratwo.com. This year we are introducing a workshop series to develop and disseminate the ideas underpinning Terra Two, and we invite you to get involved with one or more! Workshops will be facilitated by one or more members of the Terra Two editorial team, and refreshments will be provided. This summer the Terra Two team will produce a printed catalogue which participants will have the opportunity to contribute to. \nSign up to join us!\n\n\nWorkshop Three: Science Fiction and the Literature Festival \nOn the 22nd of March, Professor Abi Curtis will launch the Pollination Project Anthology as part of the York Literature Festival from 6:30 – 8:30 pm. For the Terra Twosday workshop the following week, participants are invited to engage with one or more pieces of writing on the Pollination Project website and to come prepared to workshop their own story idea, inspired in terms of content and/or form by one or more publications on the site. This writing workshop will draw on the theme of ‘pollination’ to pollinate ideas between the Pollination Project and the Terra Two project, with emphasis on social and environmental sustainability and the relationship between humans and non-humans. See https://yorkstjohnpollinationproject.com/ It is recommended that you attend the Pollination Project Launch prior to this event, but it is not a pre-requisite. \n"
+  url: https://www.eventbrite.co.uk/e/ysj-terra-two-workshop-three-science-fiction-and-the-literature-festival-tickets-42230640984?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/39664015/240355785937/1/original.jpg?h=200&w=450&rect=0,84,728,364&s=7362487b01885ff4c965be0b9204d573
+  starts: 2018-03-27T14:00:00.0000000
+  ends: 2018-03-27T16:00:00.0000000
   venue: QS/022 (Quad South)
 - name: 'WE1: Website CMS Basic training (Mon 5 Feb 10:00-12:00)'
   description: >-
@@ -375,14 +373,6 @@
   starts: 2018-04-12T14:00:00.0000000
   ends: 2018-04-12T16:00:00.0000000
   venue: ILS Training area (outside FT/120)
-- name: 'YSJ Terra Two, Workshop Three: Science Fiction and the Literature Festival'
-  description: "NASA is currently aiming to settle the first human beings on MARS by 2030. Terra Two’s project designers suggest that writers, artists, musicians, philosophers and spiritual thinkers have an ethical responsibility to lend their voices to this far-sighted scientific experiment.  Terra Two is an online magazine/archive which was officially launched at York St John in September 2017 in order to collate science-fictional contributions from YSJ staff, postgraduate students, undergraduate students and invited guests in the form of writing, music, visual images, games and podcasts. The aim of these collected contributions is to help create a sustainable future for human beings as well as the non-human plant and animal species we directly impact upon, both on Earth and off-world. For our magazine, see https://yorkstjohnterratwo.com. This year we are introducing a workshop series to develop and disseminate the ideas underpinning Terra Two, and we invite you to get involved with one or more! Workshops will be facilitated by one or more members of the Terra Two editorial team, and refreshments will be provided. This summer the Terra Two team will produce a printed catalogue which participants will have the opportunity to contribute to. \nSign up to join us!\n\n\nWorkshop Three: Science Fiction and the Literature Festival \nOn the 22nd of March, Professor Abi Curtis will launch the Pollination Project Anthology as part of the York Literature Festival from 6:30 – 8:30 pm. For the Terra Twosday workshop the following week, participants are invited to engage with one or more pieces of writing on the Pollination Project website and to come prepared to workshop their own story idea, inspired in terms of content and/or form by one or more publications on the site. This writing workshop will draw on the theme of ‘pollination’ to pollinate ideas between the Pollination Project and the Terra Two project, with emphasis on social and environmental sustainability and the relationship between humans and non-humans. See https://yorkstjohnpollinationproject.com/ It is recommended that you attend the Pollination Project Launch prior to this event, but it is not a pre-requisite. \n"
-  url: https://www.eventbrite.co.uk/e/ysj-terra-two-workshop-three-science-fiction-and-the-literature-festival-tickets-42230640984?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/39664015/240355785937/1/original.jpg?h=200&w=450&rect=0,84,728,364&s=7362487b01885ff4c965be0b9204d573
-  starts: 2018-03-27T14:00:00.0000000
-  ends: 2018-03-27T16:00:00.0000000
-  venue: QS/022 (Quad South)
 - name: 'WE1: Website CMS Basic training (Thu 8 Mar 14:00-16:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
