@@ -11,7 +11,7 @@
 
                 {% for post in site.posts %}
                     {% if post.categories contains 'Meetup' %}
-                <div class="col-md-3 col-sm-6 meetups-item">
+                <div class="col-md-4 col-sm-6 meetups-item">
                     <a href="#{{ post.modalID }}" class="meetups-link" data-toggle="modal"><h6>{{ post.title }}</h6></a>
                     <a href="#{{ post.modalID }}" class="meetups-link" data-toggle="modal">
                         <div class="caption">
