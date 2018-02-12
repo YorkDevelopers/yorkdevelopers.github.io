@@ -290,6 +290,43 @@
   starts: 2018-02-27T14:00:00.0000000
   ends: 2018-02-27T16:00:00.0000000
   venue: QS/022 (Quad South)
+- name: 'WE1: Website CMS Basic training (Thu 8 Mar 14:00-16:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to staff given prior approval by the website team
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-thu-8-mar-1400-1600-tickets-40786057195?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38136872/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=dd4f8173c11c2029110040fe0fa62c60
+  starts: 2018-03-08T14:00:00.0000000
+  ends: 2018-03-08T16:00:00.0000000
+  venue: ILS Training area (outside FT/120)
 - name: 'WE1: Website CMS Basic training (Thu 12 Apr 14:00-16:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -342,43 +379,6 @@
   starts: 2018-03-12T18:00:00.0000000
   ends: 2018-03-12T19:30:00.0000000
   venue: Astrocampus
-- name: 'WE1: Website CMS Basic training (Thu 8 Mar 14:00-16:00)'
-  description: >-
-    These courses are for staff who have been approved by the website team only
-
-
-    WE1: Website CMS basics
-
-    Prior knowledge: None
-
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to staff given prior approval by the website team
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-thu-8-mar-1400-1600-tickets-40786057195?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38136872/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=dd4f8173c11c2029110040fe0fa62c60
-  starts: 2018-03-08T14:00:00.0000000
-  ends: 2018-03-08T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
 - name: 'WE1: Website CMS Basic training (Tue 27 Mar 10:00-12:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -616,14 +616,6 @@
   ends: 2018-02-12T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Free Open to Everyone Evening!
-  description: "<p><b>What's happening?</b></p> <p>Are you an artist, maker, hobbyist, tinkerer, engineer or someone who just likes to make things or even just discuss creativity in Leeds?</p> <p>Come along and talk to like minded people and members at Leeds Hackspace, feel free to bring along a project that you're working on or just have a chat.</p> <p><b>So is this free? Do I have to book or something?</b></p> <p>Yes, it is free. Leeds Hackspace is a work-space, community group type and workshop area. We have snacks you can buy at our own Tuck Shop, internet access via WiFi or wired Ethernet.</p> <p><b>There doesn't seem to be many attending?</b></p> <p>A lot of our members, some 30+ do not use Meetup, and they regularly attend the open evenings/days without RSVPing on here. So don't worry, the open evenings happen regularly and every week.</p> <p><b>What do you have?</b></p> <p>Wood and metal workshop, laser cutter, 3D Printer, Vinyl cutter, computers, electronics, a heat press, and all sorts of <a href=\"https://wiki.leedshackspace.org.uk/wiki/Leeds_Hackspace\">other goodies</a>. However, using a lot of these things require an induction and for you to be a paying member, but we have these open evenings so that you can look around and check the place out. Some members are happy to help you if you need to be pointed in the right direction or have something that needs repairs.</p> <p><b>So is this a business.. ?</b></p> <p>Leeds Hackspace is registered as a business, but it is run voluntarily by Directors and members, if you want to see a change you can make it happen.</p> <p><b>How do I get there?</b></p> <p>You can find out more details about visiting here: <a href=\"http://leedshackspace.org.uk/getting-here/\"><a href=\"http://leedshackspace.org.uk/getting-here/\" class=\"linkified\">http://leedshackspace.org.uk/getting-here/</a></a> there is limited on-site free parking, and on-street parking is free after 6pm.</p> <p><b>What if I want to ask more questions?</b></p> <p>We also have a mailing list: <a href=\"https://groups.google.com/forum/#!forum/leeds-hack-space\" class=\"linkified\">https://groups.google.com/forum/#!forum/leeds-hack-space</a></p> "
-  url: https://www.meetup.com/Leeds-Hackspace/events/247587667/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/c/e/a/thumb_427947882.jpeg
-  starts: 2018-02-13T19:00:00.0000000
-  ends: 2018-02-13T23:30:00.0000000
-  venue: Leeds Hackspace
 - name: York Code Dojo February Meetup - Code Review
   description: "<p>For this York Code Dojo I'm planning on a doing a session based around some code reviewing. The idea is that I put up a piece of code on the screen and then you go away and discuss it (or re-write it) in pairs. After 5-10minutes we re-group and discuss it as a whole. We then move onto the next piece of code. I hoping to have a number of examples showing bad practice, bad algorithms, bad security, bad performance etc.. If anyone has any code they would like to contribute then that would be great. They can be a single method, class or program. Any mainstream language will be fine. This session will be suitable for both beginners and experienced programmers. If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift of walk up the stairs to the second floor.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg\" /></p> "
   url: https://www.meetup.com/York-Code-Dojo/events/247275167/
@@ -658,13 +650,6 @@
   starts: 2018-02-15T19:00:00.0000000
   ends: 2018-02-15T22:00:00.0000000
   endorsed: true
-- name: Crypto catchup (Friday)
-  description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
-  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/247541712/
-  is-free: true
-  starts: 2018-02-16T12:30:00.0000000
-  ends: 2018-02-16T14:30:00.0000000
-  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/247489585/
@@ -674,16 +659,8 @@
   ends: 2018-02-19T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Mission to Mars Day - Local Dev Teams Challenge!
-  description: '<p>Enter your team today!</p> <p>Mission to Mars Team Challenge – 20th Feb 2018<br/>one day mission for software teams and developers</p> <p>20th February 2018 – 9.30am-4.30pm<br/>Bluefruit, Gateway Business Centre, Barncoose, Redruth</p> <p>We are delighted to invite you to enter your team to compete in our one day Mission to Mars for software teams and developers.</p> <p>You will usually find our robots, fondly known as Alan and Ada, helping our young tech talent in Cornwall learn to code but on request we have organised this special mission!</p> <p>On the day you will be introduced to our mission to Mars robots, and complete challenges using breadboards and Raspberry Pi’s as a team. Your team and coding skills will be put to the test!</p> <p>Teams will compete and mob program to enable our robots to operate autonomously and complete challenges. Mentors will help guide teams and at the end of the day teams will demo their results and there will be certificates and prizes!</p> <p>Team Challenges include :</p> <p>Straightest Line – this challenge takes accuracy, quality and innovative thinking!<br/>Best Moves – show off your code skills and get your Roborts to pull off the best moves!<br/>Navigate the Maze – can you code your robot to autonomously navigate our maze?!</p> <p>We aim for it to be a relaxed and fun day of coding skills and team working for software teams. Lunch &amp; refreshments included.</p> <p>You can enter your team (upto 6 people) here<br/><a href="https://www.softwarecornwall.org/mission-mars-team-challenge-20th-feb-one-day-mission-software-teams-developers/" class="linkified">https://www.softwarecornwall.org/mission-mars-team-challenge-20th-feb-one-day-mission-software-teams-developers/</a> Members<br/>Team £200, Individual £40</p> <p>Non Members<br/>Team £250, Individual £50</p> <p>Fund Raising<br/>All teams will receive 10 minutes free test/calibration time, Sponsor your team by funding additional access to robots for testing. Robot test time £1 per minute</p> <p>Teams will be able to buy extra test time on the robots which will help us raise funds for our education outreach projects including our Schools Mission to Mars work experience week, School Outreach workshops and our popular monthly Cornwall Tech Jams.</p> <p>Sponsorship<br/>Would you like to sponsor this Mission?</p> <p>Mission Sponsor – show your support for code skills development as our event sponsor<br/>Fuel Sponsor – Sponsor lunch and refreshments thoughtout the day to power the teams!<br/>Challenge Sponsor – sponsor one of our team challenges and present the prize to the winning team!<br/>Venue Sponsor – Thanks to Bluefruit for hosting this event.</p> <p>Contact us for more information [masked]</p> <p>enter at<br/><a href="https://www.softwarecornwall.org/mission-mars-team-challenge-20th-feb-one-day-mission-software-teams-developers/" class="linkified">https://www.softwarecornwall.org/mission-mars-team-challenge-20th-feb-one-day-mission-software-teams-developers/</a></p> '
-  url: https://www.meetup.com/Cornwall-Digital/events/246642450/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/1/a/0/thumb_286644992.jpeg
-  starts: 2018-02-20T09:00:00.0000000
-  ends: 2018-02-20T17:00:00.0000000
-  venue: 'Bluefruit '
 - name: 'AWS Leeds User Group #11'
-  description: "<p>• What we'll do<br/>Looking forward to seeing you all!</p> <p>If you're interested in hosting or sponsoring please drop us a line.</p> <p>As usual we'll be providing plenty of food and drinks =)</p> <p>Agenda:</p> <p>Ric Harvey - AWS</p> <p>We have Ric Harvey confirmed from AWS who is going to be mostly talking containers on Fargate and Machine Learning, both of which I find really interesting - he has promised me a full run-down of his talk which will be posted here as soon as I have it.</p> <p>There will also be an overview of the new services and announcements from re:Invent and an opportunity to ask questions (like when will xxx be available in so and so region).</p> <p>Chris Gillespie - Elder Studios</p> <p>Chris comes from a development background, is AWS Certified and currently builds all projects he is involved with on AWS. One of the pain points for recent projects has been the need for interaction with core AWS services during development. In this talk Chris will show us how they have started to overcome this by \"Running AWS locally\".</p> <p>We'll likely also repeat the group Q&amp;A session from last time as this worked well - your peers are your friends when it comes to getting answers to tricky problems!</p> <p>Under 18’s are also welcome under adult supervision - we can't be held responsible for them but if they're interested in AWS and DevOps feel free to bring them along. This does come with the caveat that there will be alcohol (no, they can't have any but they can have pizza!) and it is at Sky Betting and Gaming's offices so there are likely to be some references to gambling.</p> <p>---</p> <p>We're looking for one additional speaker on top of the above agenda so if you have something interesting to speak about please let us know!</p> <p>See you there!</p> <p>• What to bring</p> <p>• Important to know</p> <p>• Access statement<br/>There is wheelchair access. There is basic seating, an accessible toilet, a gender neutral toilet, and general car parking. There is a designated quiet space by request at the event. This isn't a hearing loop, or a bsl interpreter.</p> "
+  description: "<p>• What we'll do<br/>Looking forward to seeing you all!</p> <p>If you're interested in hosting or sponsoring please drop us a line.</p> <p>As usual we'll be providing plenty of food and drinks =)</p> <p>Agenda:</p> <p>Ric Harvey - AWS</p> <p>We have Ric Harvey confirmed from AWS who is going to be mostly talking containers on Fargate and Machine Learning, both of which I find really interesting - he has promised me a full run-down of his talk which will be posted here as soon as I have it.</p> <p>There will also be an overview of the new services and announcements from re:Invent and an opportunity to ask questions (like when will xxx be available in so and so region).</p> <p>Chris Gillespie - Elder Studios</p> <p>Chris comes from a development background, is AWS Certified and currently builds all projects he is involved with on AWS. One of the pain points for recent projects has been the need for interaction with core AWS services during development. In this talk Chris will show us how they have started to overcome this by \"Running AWS locally\".</p> <p>We'll likely also repeat the group Q&amp;A session from last time as this worked well - your peers are your friends when it comes to getting answers to tricky problems!</p> <p>Under 18’s are also welcome under adult supervision - we can't be held responsible for them but if they're interested in AWS and DevOps feel free to bring them along. This does come with the caveat that there will be alcohol (no, they can't have any but they can have pizza!) and it is at Sky Betting and Gaming's offices so there are likely to be some references to gambling.</p> <p>---</p> <p>We're looking for one additional speaker on top of the above agenda so if you have something interesting to speak about please let us know!</p> <p>See you there!</p> <p>• What to bring</p> <p>• Important to know</p> <p>• Access statement<br/>There is wheelchair access. There is basic seating, an accessible toilet, a gender neutral toilet, and general car parking. There is a designated quiet space by request at the event. There isn't a hearing loop, or a bsl interpreter.</p> "
   url: https://www.meetup.com/AWS-Leeds-User-Group/events/247450111/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/8/d/0/thumb_374267312.jpeg
@@ -715,6 +692,14 @@
   starts: 2018-02-21T18:30:00.0000000
   ends: 2018-02-21T20:30:00.0000000
   venue: FutureLabs @ Platform
+- name: The Schizophrenic Organisation + Agile Clinic
+  description: "<p>It's voting time again folks. Prior to us hearing Serg talk about Schizophrenic Organisations, I have created a poll to get you view on what we should do at the start of the meetup - Agile Clinic or play Featureban you decide : <a href=\"https://www.meetup.com/agileYork/polls/1262115/\" class=\"linkified\">https://www.meetup.com/agileYork/polls/1262115/</a></p> <p>Organisations have policies and practices that conflict with one another to the confusion and exasperation of its workforce. What’s happening? What could be the cause? What can be done?</p> <p>Sergios Tsagarakis</p> <p>Serg is an Agile coach who works with teams and organisations looking to adopt Agile ways of working.</p> "
+  url: https://www.meetup.com/agileYork/events/247422903/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2018-02-21T18:30:00.0000000
+  ends: 2018-02-21T21:00:00.0000000
+  venue: York St.John University
 - name: The State of the Function
   description: '<p>There is a real buzz in the air about Functions and Serverless software development, and there is an overwhelming number of platforms offering similar but different things. In this talk, Martin Beeby (<a href="https://thebeebs.co.uk/about-me/" class="linkified">https://thebeebs.co.uk/about-me/</a>) will take a look at the various platforms available, give an overview of how they work, their different approaches and talk about projects that he has built using them.</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/245525986/
