@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "agileYork"
-date:   2017-05-02 15:08:10 -0500
+date:   2018-02-05 15:08:10 -0500
 img: img/meetups/agileYork.jpg
 modalID: modalAgileYork
 category: Meetup

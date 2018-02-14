@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "dotNetYork"
-date:   2017-09-18 15:08:10 -0500
+date:   2018-01-02 15:08:10 -0500
 img: img/meetups/dotnet_york_logo.gif
 modalID: modaldotNetYork
 category: Meetup
