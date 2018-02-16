@@ -29,6 +29,13 @@
   starts: 2018-03-07T19:30:00.0000000
   ends: 2018-03-07T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/city-screen-basement-bar/" title="City Screen Basement Bar">City Screen Basement Bar</a>
+- name: 'YPS and Geology at Hull:  &#8220;Geological Mapping and Sustainable Resources in Africa&#8221;'
+  description: <strong>John and Anne Phillips Lecture</strong>
+  url: https://www.ypsyork.org/events/yps-and-geology-at-hull-geological-mapping-and-sustainable-resources-in-africa/
+  logo: https://www.ypsyork.org/wp-content/uploads/2018/02/JAPP-Lecture-20181-200x125.jpg
+  starts: 2018-03-08T18:00:00.0000000
+  ends: 2018-03-08T20:00:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/university-of-hull/" title="University of Hull">University of Hull</a>
 - name: Iron and Fossils at Scunthorpe
   description: The YPS Geology Group invites all YPS members to join the following tour, which will be led by Paul Hildreth, of the Yorkshire Geology Group. A flyer giving further details will be issued in the next newsletter.
   url: https://www.ypsyork.org/events/iron-and-fossils-at-scunthorpe/
@@ -64,12 +71,20 @@
   starts: 2018-04-10T19:30:00.0000000
   ends: 2018-04-10T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
+- name: Engineering the Future
+  description: <strong>Engineering the Future</strong>
+  url: https://www.ypsyork.org/events/engineering-the-future/
+  logo: https://www.ypsyork.org/wp-content/uploads/2018/02/Climer-engineering-200x125.png
+  starts: 2018-04-24T19:30:00.0000000
+  ends: 2018-04-24T21:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: Day Trip to Thorp Perrow, Snape Chapel,  and Mount Grace Priory
   description: <strong>Thursday 3 May 2018, £38 pp</strong>
   url: https://www.ypsyork.org/events/day-trip-to-thorp-perrow-snape-chapel-and-mount-grace-priory/
-  logo: https://www.ypsyork.org/wp-content/uploads/2018/02/Thorp-Perrow-200x125.jpg
+  logo: https://www.ypsyork.org/wp-content/uploads/2018/02/YMTYorkPressImagesSept2014_2-200x125.jpg
   starts: 2018-05-03T09:00:00.0000000
   ends: 2018-05-03T11:00:00.0000000
+  venue: 19 May 2018
 - name: '&#8220;Uncovering the Yorkshire Jurassic&#8221; Symposium'
   description: <strong>&#8220;Uncovering the Yorkshire Jurassic&#8221; Symposium</strong>
   url: https://www.ypsyork.org/events/uncovering-the-yorkshire-jurassic-symposium/
