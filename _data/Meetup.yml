@@ -1,11 +1,3 @@
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/247659985/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-02-15T19:00:00.0000000
-  ends: 2018-02-15T22:00:00.0000000
-  endorsed: true
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/247541712/
@@ -49,7 +41,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxdbcc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/247832024/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-02-21T08:00:00.0000000
@@ -96,6 +88,14 @@
   starts: 2018-02-27T18:45:00.0000000
   ends: 2018-02-27T21:00:00.0000000
   venue: ODI Leeds Node
+- name: The Agile Pubcast with Geoff Watts and Paul Goddard
+  description: "<p>About the Session</p> <p>We're very excited to be playing host to Geoff Watts and Paul Goddard's Agile Pubcast! They will be recording it over an informal drink from the Agile in Leeds bar and anyone who is happy to be recorded for the Pubcast can join in and take part. We all know how much the Agile in Leeds people like to join in!</p> <p>Geoff is one of the most experienced and respected Scrum coaches in the world. Among several other books, he wrote \"Scrum Mastery: From Good to Great Servant Leadership\". Paul is the founder of Agilify, has been an active Certified Scrum Trainer since 2006, and also became only the fourth UK-based Certified Scrum Coach in 2011. He too has published a great book on Agile, \"Improv-ing Agile Teams\".</p> <p>You can tweet questions to them in advance, which they'll try to answer during the Pubcast, to @TheAgilePubcast (<a href=\"http://twitter.com/theagilepubcast\" class=\"linkified\">http://twitter.com/theagilepubcast</a>). You can also listen to earlier episodes at <a href=\"http://soundcloud.com/the-agile-pubcast\" class=\"linkified\">http://soundcloud.com/the-agile-pubcast</a> .</p> <p>About the Paul Goddard</p> <p>Paul Goddard is an agile coach with experience of working with several scrum teams and projects, and is a keen practitioner and trainer of scrum and agile delivery. Starting as one of the first practicing ScrumMasters within BT (formerly British Telecom), he now acts as an independent coach for teams new to scrum and agile techniques. His coaching skills have been used on some of the largest agile transformation projects in the world to date, including multiple geographically dispersed teams using an offshore model. Paul's experience with enterprise scrum was widened while acting as a ScrumMaster for Nokia where he was involved with both applying, teaching and coaching scrum. As an independent coach and trainer, Paul has aided several other companies on their agile journeys in a variety of industries ranging from small independent holiday travel companies through to multi-national technology and consultancy providers.</p> <p>His first book Improv-ing Agile Teams: Using Creativity To Unlock Creativity brings together two of his passions; coaching agile teams and improvisational theatre. The principles and practices are so closely linked, he uses them every day of his working and personal life. A regular speaker at agile conferences worldwide, Paul is also a long-standing member and contributor to the agile community in the UK and Europe.</p> <p>About Geoff Watts</p> <p>Geoff Watts is the UK's first Certified Scrum Trainer and Certified Scrum Coach, offering training and coaching in Scrum. Starting his agile journey at British Telecom and helping lead one of the largest agile transformations so far before moving into various industries such as publishing, financial services, pharmaceuticals, utilities, education and online service providers, he is one of the most experienced Scrum coaches in the UK and, therefore, best placed to give you the greatest chance of success when adopting Scrum in your organisation.</p> <p>As well as offering innovative and engaging public training classes, Geoff also offers personal 121 leadership coaching and regularly coaches ScrumMasters, Product Owners and leaders within organisations looking to become more agile or better servant-leaders.</p> <p>Geoff is a TEDx speaker and the author of the best-selling book Scrum Mastery: From Good to Great Servant-Leadership available on Amazon in the USA and Europe and the best-selling coaching book The Coach's Casebook: Mastering The Twelve Traits That Trap Us available on Amazon in the USA and Europe and he also has some great eLearning courses available at Front Row Agile.</p> <p>Practical bits</p> <p>• Doors open at 6 and the session starts at 6:30</p> <p>• Go to the 3rd Floor in Apsley House and turn left.</p> <p>------------</p> <p>Agile in Leeds supports diversitycharter.org (<a href=\"http://diversitycharter.org/\" class=\"linkified\">http://diversitycharter.org/</a>)</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/d/3/2/600_449916146.jpeg\" /></p> "
+  url: https://www.meetup.com/Agile-in-Leeds/events/245754327/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
+  starts: 2018-02-27T18:00:00.0000000
+  ends: 2018-02-27T20:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Fancy joining Geoff Watts and Paul Goddard on the Agile Pubcast Live! in Leeds?
   description: "<p>Geoff Watts and Paul Goddard will be recording the Agile Pubcast podcast live at the Agile in Leeds meetup. So I'm giving agileYorkers advanced notice of this meetup as I suspect it will fill up fast once announced. Just click the link to Agile in Leeds to grab your seat -<a href=\"https://www.meetup.com/Agile-in-Leeds/events/245754327/\" class=\"linkified\">https://www.meetup.com/Agile-in-Leeds/events/245754327/</a></p> <p>If you've not heard of the Agile Pubcast (<a href=\"https://twitter.com/theagilepubcast?lang=en\" class=\"linkified\">https://twitter.com/theagilepubcast?lang=en</a>) it is a podcast where Geoff and Paul discuss all things Agile over a pint in the pub. However on this occasion they will be recording it live in front of a meetup audience where you can prompt the questions and topics they discuss.</p> <p><br/>Paul Goddard’s Biography</p> <p>Paul Goddard is an agile coach with experience of working with several scrum teams and projects, and is a keen practitioner and trainer of scrum and agile delivery.</p> <p>Starting as one of the first practicing ScrumMasters within BT (formerly British Telecom), he now acts as an independent coach for teams new to scrum and agile techniques. His coaching skills have been used on some of the largest agile transformation projects in the world to date, including multiple geographically dispersed teams using an offshore model. Paul's experience with enterprise scrum was widened while acting as a ScrumMaster for Nokia where he was involved with both applying, teaching and coaching scrum. As an independent coach and trainer, Paul has aided several other companies on their agile journeys in a variety of industries ranging from small independent holiday travel companies through to multi-national technology and consultancy providers.</p> <p>His first book Improv-ing Agile Teams: Using Creativity To Unlock Creativity brings together two of his passions; coaching agile teams and improvisational theatre. The principles and practices are so closely linked, he uses them every day of his working and personal life. A regular speaker at agile conferences worldwide, Paul is also a long-standing member and contributor to the agile community in the UK and Europe.</p> <p><br/>Geoff Watt’s Biography</p> <p>Geoff Watts is the UK's first Certified Scrum Trainer and Certified Scrum Coach, offering training and coaching in Scrum. Starting his agile journey at British Telecom and helping lead one of the largest agile transformations so far before moving into various industries such as publishing, financial services, pharmaceuticals, utilities, education and online service providers, he is one of the most experienced Scrum coaches in the UK and, therefore, best placed to give you the greatest chance of success when adopting Scrum in your organisation.</p> <p>As well as offering innovative and engaging public training classes, Geoff also offers personal 121 leadership coaching and regularly coaches ScrumMasters, Product Owners and leaders within organisations looking to become more agile or better servant-leaders.</p> <p>Geoff is a TEDx speaker and the author of the best-selling book Scrum Mastery: From Good to Great Servant-Leadership available on Amazon in the USA and Europe and the best-selling coaching book The Coach's Casebook: Mastering The Twelve Traits That Trap Us available on Amazon in the USA and Europe and he also has some great eLearning courses available at Front Row Agile.</p> "
   url: https://www.meetup.com/agileYork/events/246692809/
@@ -130,6 +130,22 @@
   ends: 2018-02-28T20:00:00.0000000
   venue: FortyFive Vinyl Café
   endorsed: true
+- name: Umbraco Meetup
+  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>We draw a Jetbrains coupon to get one of their programs for free!</p> <p>Winners<br/>Jan: Thomas Nadin.<br/>Feb: James Fisher</p> "
+  url: https://www.meetup.com/umbLeeds/events/247416884/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
+  starts: 2018-03-01T17:30:00.0000000
+  ends: 2018-03-01T20:30:00.0000000
+  venue: The Adelphi
+- name: Building Scalable and Resilient Applications
+  description: "<p>This talk is split into two related topics; Building Scalable and Resilient Web Apps with Microsoft Azure &amp; Introducing Azure Service Fabric</p> <p><br/><b>Building Scalable and Resilient Web Apps with Microsoft Azure</b></p> <p>Building web apps that are both scalable and resilient is challenging especially when you have an existing application that you need to change. This talk discusses scalability and resilience, the issues you could have and highlights some of the services within Azure that you can use to help.</p> <p><br/><b>Introduction to Azure Service Fabric</b></p> <p>Azure Service Fabric is the Microsoft microservices framework and this talk explains how to build applications that can be deployed in Azure or on your own infrastructure.Service fabric lets you deploy your own existing services or build them using the service fabric framework to take advantage of the built-in microservices features that service fabric provides</p> <p>\n\n\n<b>Steve Spencer</b></p> <p>Steve is an experienced .NET Developer, Microsoft Azure MVP and a Senior Solution Architect at Liberis. Steve has spoken at previous DDD events covering Microsoft Azure, Gadgeteer, Service Bus and Azure Web jobs</p> <p>\n\nSteve has also recently appeared on channel9 also talking on Service Fabric - </p> <p><a href=\"https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby\"><a href=\"https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby\" class=\"linkified\">https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby</a></a></p> <p>\n\n\n<a href=\"http://blogs.recneps.net/\"><a href=\"http://blogs.recneps.net/\" class=\"linkified\">http://blogs.recneps.net/</a></a></p> <p><a href=\"http://www.twitter.com/@sdspencer\"><a href=\"http://www.twitter.com/@sdspencer\" class=\"linkified\">http://www.twitter.com/@sdspencer</a></a></p> "
+  url: https://www.meetup.com/dotnetYork/events/243704160/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
+  starts: 2018-03-01T18:30:00.0000000
+  ends: 2018-03-01T21:30:00.0000000
+  venue: The Cross Keys
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbhb/
@@ -582,6 +598,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-08-06T06:30:00.0000000
   ends: 2018-08-06T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxlblb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-08-08T06:30:00.0000000
+  ends: 2018-08-08T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
