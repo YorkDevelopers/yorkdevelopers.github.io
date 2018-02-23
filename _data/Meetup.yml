@@ -1,18 +1,3 @@
-- name: The State of the Function
-  description: '<p>There is a real buzz in the air about Functions and Serverless software development, and there is an overwhelming number of platforms offering similar but different things. In this talk, Martin Beeby (<a href="https://thebeebs.co.uk/about-me/" class="linkified">https://thebeebs.co.uk/about-me/</a>) will take a look at the various platforms available, give an overview of how they work, their different approaches and talk about projects that he has built using them.</p> '
-  url: https://www.meetup.com/Leeds-Sharp/events/245525986/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2018-02-22T18:30:00.0000000
-  ends: 2018-02-22T21:30:00.0000000
-  venue: Platform
-- name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
-  url: https://www.meetup.com/LeedsRubyThing/events/247880935/
-  is-free: true
-  starts: 2018-02-22T19:30:00.0000000
-  ends: 2018-02-22T23:30:00.0000000
-  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/247876226/
@@ -73,13 +58,13 @@
   ends: 2018-03-01T20:30:00.0000000
   venue: The Adelphi
 - name: Building Scalable and Resilient Applications
-  description: "<p>This talk is split into two related topics; Building Scalable and Resilient Web Apps with Microsoft Azure &amp; Introducing Azure Service Fabric</p> <p><br/><b>Building Scalable and Resilient Web Apps with Microsoft Azure</b></p> <p>Building web apps that are both scalable and resilient is challenging especially when you have an existing application that you need to change. This talk discusses scalability and resilience, the issues you could have and highlights some of the services within Azure that you can use to help.</p> <p><br/><b>Introduction to Azure Service Fabric</b></p> <p>Azure Service Fabric is the Microsoft microservices framework and this talk explains how to build applications that can be deployed in Azure or on your own infrastructure.Service fabric lets you deploy your own existing services or build them using the service fabric framework to take advantage of the built-in microservices features that service fabric provides</p> <p>\n\n\n<b>Steve Spencer</b></p> <p>Steve is an experienced .NET Developer, Microsoft Azure MVP and a Senior Solution Architect at Liberis. Steve has spoken at previous DDD events covering Microsoft Azure, Gadgeteer, Service Bus and Azure Web jobs</p> <p>\n\nSteve has also recently appeared on channel9 also talking on Service Fabric - </p> <p><a href=\"https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby\"><a href=\"https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby\" class=\"linkified\">https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby</a></a></p> <p>\n\n\n<a href=\"http://blogs.recneps.net/\"><a href=\"http://blogs.recneps.net/\" class=\"linkified\">http://blogs.recneps.net/</a></a></p> <p><a href=\"http://www.twitter.com/@sdspencer\"><a href=\"http://www.twitter.com/@sdspencer\" class=\"linkified\">http://www.twitter.com/@sdspencer</a></a></p> "
+  description: '<p>This talk is split into two related topics; Building Scalable and Resilient Web Apps with Microsoft Azure &amp; Introducing Azure Service Fabric</p> <p>Building Scalable and Resilient Web Apps with Microsoft Azure</p> <p>Building web apps that are both scalable and resilient is challenging especially when you have an existing application that you need to change. This talk discusses scalability and resilience, the issues you could have and highlights some of the services within Azure that you can use to help.</p> <p>Introduction to Azure Service Fabric</p> <p>Azure Service Fabric is the Microsoft microservices framework and this talk explains how to build applications that can be deployed in Azure or on your own infrastructure.Service fabric lets you deploy your own existing services or build them using the service fabric framework to take advantage of the built-in microservices features that service fabric provides</p> <p>Steve Spencer</p> <p>Steve is an experienced .NET Developer, Microsoft Azure MVP and a Senior Solution Architect at Liberis. Steve has spoken at previous DDD events covering Microsoft Azure, Gadgeteer, Service Bus and Azure Web jobs</p> <p>Steve has also recently appeared on channel9 also talking on Service Fabric -</p> <p><a href="https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby" class="linkified">https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby</a></p> <p><a href="http://blogs.recneps.net/" class="linkified">http://blogs.recneps.net/</a></p> <p><a href="http://www.twitter.com/@sdspencer" class="linkified">http://www.twitter.com/@sdspencer</a></p> '
   url: https://www.meetup.com/dotnetYork/events/243704160/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
   starts: 2018-03-01T18:30:00.0000000
   ends: 2018-03-01T21:30:00.0000000
-  venue: The Cross Keys
+  venue: Stonegate Yard Bar & Brasserie
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbhb/
@@ -115,6 +100,14 @@
   ends: 2018-03-07T21:00:00.0000000
   venue: The Cross Keys
   endorsed: true
+- name: 'March 2017: Heather Norton - software for offshore wind farms'
+  description: '<p>Details TBC</p> <p><a href="https://www.forecoastmarine.com/gamer-mode" class="linkified">https://www.forecoastmarine.com/gamer-mode</a></p> <p>Heather Norton is a software developer at JBA Consulting, a team of engineers, environmental consultants, designers and scientists, committed to improving the natural and built environment and creating sustainable places to live and work.</p> '
+  url: https://www.meetup.com/CodeMill-Digital-Skills/events/245100929/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/3/1/5/thumb_466533557.jpeg
+  starts: 2018-03-08T18:30:00.0000000
+  ends: 2018-03-08T21:30:00.0000000
+  venue: ODI Leeds Node
 - name: York Code Dojo March Meetup - Dynamic Programming
   description: '<p>This month Andy will be running a session on Dynamic Programming. This excellent session was very well received at the Leeds Code Dojo last year.</p> <p>Dynamic Programming is an alternative approach to recursion for solving problems. So it will be another useful technique to add to your toolkit!</p> <p>The evening will take the familiar format, where Andy will explain the technique and then we will divide up into pairs to work on some examples.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift or walk up the stairs to the second floor.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/247964692/
@@ -567,6 +560,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-08-13T06:30:00.0000000
   ends: 2018-08-13T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxlbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-08-15T06:30:00.0000000
+  ends: 2018-08-15T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
