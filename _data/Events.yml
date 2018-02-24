@@ -47,27 +47,6 @@
   starts: 2018-02-28T18:30:00.0000000
   ends: 2018-02-28T19:30:00.0000000
   venue: Ron Cooke Hub auditorium
-- name: Do robots dream of saving lives?
-  description: >-
-    Speaker: Professor Tim Kelly, Department of Computer Science
-
-    Merchant Adventurers' Science Discovery Lecture
-
-    Self-driving cars, crew-less tankers, parcel delivery by drones, service robots for the elderly:  The robots are coming! In the near future an increasing number of autonomous systems will be placed in roles, and given functions, that were previously the domain of skilled humans.  With their introduction there are promised improvements in efficiency, quality of life, and even safety. But what happens when these systems fail? Will human lives be put at risk?  Key questions need to be addressed in order for us to place our trust in these machines: Can ‘safe’ behaviour truly be defined and understood? Can we encode and emulate the ethics of a human operator? How can the underlying technology fail? Who is legally responsible when things go wrong?  This lecture will introduce some of the ongoing research at the University of York that is addressing these important questions. 
-
-    Speaker biography: Tim Kelly is Professor of High Integrity Systems within the Department of Computer Science at the University of York. He is best known for his work on system and software safety case development, particularly his work on refining and extending the Goal Structuring Notation (GSN). His research interests include safety case management, software safety analysis and justification, software architecture safety, and the dependability of “Systems of Systems”. He has supervised a number of research projects in these areas with funding and support from Airbus, BAE SYSTEMS, Data Systems and Solutions, DTI, EPSRC, ERA Technology, Ministry of Defence, QinetiQ, Rolls-Royce, and the European Commission. He has published over 150 papers on high integrity systems development and justification in international journals and conferences. 
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/do-robots-dream-of-saving-lives-tickets-42671950954?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/40243652/22468345120/1/original.jpg?h=200&w=450&rect=0,19,450,225&s=b4e89c3d24c9b0c897721ef454bee260
-  starts: 2018-03-08T18:30:00.0000000
-  ends: 2018-03-08T19:30:00.0000000
-  venue: Merchant Adventurers' Hall
 - name: ISCF Medicines Manufacturing Round 2 Challenge Fund Competition - Engagement Workshop
   description: >-
       
@@ -652,14 +631,6 @@
   ends: 2018-02-28T20:00:00.0000000
   venue: FortyFive Vinyl Café
   endorsed: true
-- name: Umbraco Meetup
-  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>We draw a Jetbrains coupon to get one of their programs for free!</p> <p>Winners<br/>Jan: Thomas Nadin.<br/>Feb: James Fisher</p> "
-  url: https://www.meetup.com/umbLeeds/events/247416884/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
-  starts: 2018-03-01T17:30:00.0000000
-  ends: 2018-03-01T20:30:00.0000000
-  venue: The Adelphi
 - name: Building Scalable and Resilient Applications
   description: '<p>This talk is split into two related topics; Building Scalable and Resilient Web Apps with Microsoft Azure &amp; Introducing Azure Service Fabric</p> <p>Building Scalable and Resilient Web Apps with Microsoft Azure</p> <p>Building web apps that are both scalable and resilient is challenging especially when you have an existing application that you need to change. This talk discusses scalability and resilience, the issues you could have and highlights some of the services within Azure that you can use to help.</p> <p>Introduction to Azure Service Fabric</p> <p>Azure Service Fabric is the Microsoft microservices framework and this talk explains how to build applications that can be deployed in Azure or on your own infrastructure.Service fabric lets you deploy your own existing services or build them using the service fabric framework to take advantage of the built-in microservices features that service fabric provides</p> <p>Steve Spencer</p> <p>Steve is an experienced .NET Developer, Microsoft Azure MVP and a Senior Solution Architect at Liberis. Steve has spoken at previous DDD events covering Microsoft Azure, Gadgeteer, Service Bus and Azure Web jobs</p> <p>Steve has also recently appeared on channel9 also talking on Service Fabric -</p> <p><a href="https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby" class="linkified">https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby</a></p> <p><a href="http://blogs.recneps.net/" class="linkified">http://blogs.recneps.net/</a></p> <p><a href="http://www.twitter.com/@sdspencer" class="linkified">http://www.twitter.com/@sdspencer</a></p> '
   url: https://www.meetup.com/dotnetYork/events/243704160/
@@ -668,6 +639,14 @@
   starts: 2018-03-01T18:30:00.0000000
   ends: 2018-03-01T21:30:00.0000000
   venue: Stonegate Yard Bar & Brasserie
+- name: Umbraco Meetup
+  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>We draw a Jetbrains coupon to get one of their programs for free!</p> <p>Winners<br/>Jan: Thomas Nadin.<br/>Feb: James Fisher</p> "
+  url: https://www.meetup.com/umbLeeds/events/247416884/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
+  starts: 2018-03-01T17:30:00.0000000
+  ends: 2018-03-01T20:30:00.0000000
+  venue: The Adelphi
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbhb/
@@ -701,7 +680,7 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-03-07T19:00:00.0000000
   ends: 2018-03-07T21:00:00.0000000
-  venue: The Cross Keys
+  venue: Stonegate Yard Bar & Brasserie
   endorsed: true
 - name: 'March 2017: Heather Norton - software for offshore wind farms'
   description: '<p>Details TBC</p> <p><a href="https://www.forecoastmarine.com/gamer-mode" class="linkified">https://www.forecoastmarine.com/gamer-mode</a></p> <p>Heather Norton is a software developer at JBA Consulting, a team of engineers, environmental consultants, designers and scientists, committed to improving the natural and built environment and creating sustainable places to live and work.</p> '
