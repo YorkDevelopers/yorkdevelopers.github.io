@@ -234,6 +234,21 @@
   starts: 2018-03-13T18:00:00.0000000
   ends: 2018-03-13T19:30:00.0000000
   venue: Astrocampus
+- name: The Hunt for Alien Life
+  description: >-
+    Join us at the University of York Astrocampus to explore the night skies and find out more about the hunt for alien life.  
+
+     With short talks and hands-on activities, find out more about the secrets of the red planet and the search for life on exoplanets around other stars.  PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes.  
+
+    The event is family-friendly.   
+
+    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
+  url: https://www.eventbrite.co.uk/e/the-hunt-for-alien-life-tickets-42752985330?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/40361131/133368849299/1/original.jpg?h=200&w=450&rect=0,30,960,480&s=56c1bce86b011a01191bb4478523c33a
+  starts: 2018-03-12T18:00:00.0000000
+  ends: 2018-03-12T19:30:00.0000000
+  venue: Astrocampus
 - name: 'YSJ Terra Two, Workshop Two: Writing for an Off-World Colony '
   description: "NASA is currently aiming to settle the first human beings on MARS by 2030. Terra Two’s project designers suggest that writers, artists, musicians, philosophers and spiritual thinkers have an ethical responsibility to lend their voices to this far-sighted scientific experiment.  Terra Two is an online magazine/archive which was officially launched at York St John in September 2017 in order to collate science-fictional contributions from YSJ staff, postgraduate students, undergraduate students and invited guests in the form of writing, music, visual images, games and podcasts. The aim of these collected contributions is to help create a sustainable future for human beings as well as the non-human plant and animal species we directly impact upon, both on Earth and off-world. For our magazine, see https://yorkstjohnterratwo.com. This year we are introducing a workshop series to develop and disseminate the ideas underpinning Terra Two, and we invite you to get involved with one or more! Workshops will be facilitated by one or more members of the Terra Two editorial team, and refreshments will be provided. This summer the Terra Two team will produce a printed catalogue which participants will have the opportunity to contribute to. \nSign up to join us!\n\n\n\nWorkshop Two: Writing for an Off-World Colony\nYou are leaving Earth to set up the first off-world colony.  What things would you take with you?  This creative writing workshop asks you to debate this question by looking at stories by some of the great science fiction writers.\nFollowing the popularity of the Festival of Ideas creative writing workshop with the same title, the editors of Terra Two will offer the workshop again, this time with a specific invitation to staff and students as well as members of the public. Staff and students who are interested in working together to facilitate Terra Two workshops in local schools and community venues may find this of particular interest. All are invited to begin creative work which can be submitted to Terra Two: An Ark for Off-World Survival for the next submission deadline, which is the 1st of April. \n\n"
   url: https://www.eventbrite.co.uk/e/ysj-terra-two-workshop-two-writing-for-an-off-world-colony-tickets-42230423333?aff=ebapi
@@ -250,21 +265,6 @@
   starts: 2018-03-27T14:00:00.0000000
   ends: 2018-03-27T16:00:00.0000000
   venue: CD/002 (Cordukes)
-- name: The Hunt for Alien Life
-  description: >-
-    Join us at the University of York Astrocampus to explore the night skies and find out more about the hunt for alien life.  
-
-     With short talks and hands-on activities, find out more about the secrets of the red planet and the search for life on exoplanets around other stars.  PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes.  
-
-    The event is family-friendly.   
-
-    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
-  url: https://www.eventbrite.co.uk/e/the-hunt-for-alien-life-tickets-42752985330?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/40361131/133368849299/1/original.jpg?h=200&w=450&rect=0,30,960,480&s=56c1bce86b011a01191bb4478523c33a
-  starts: 2018-03-12T18:00:00.0000000
-  ends: 2018-03-12T19:30:00.0000000
-  venue: Astrocampus
 - name: 'WE1: Website CMS Basic training (Thu 8 Mar 14:00-16:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -326,6 +326,19 @@
   starts: 2018-03-01T09:00:00.0000000
   ends: 2018-04-27T09:00:00.0000000
   venue: Department of Physics
+- name: Seeing the Invisible!
+  description: >-
+    Join us at the University of York Astrocampus to explore the night skies and find out more about how Astronomers are uncovering the mysteries of space using not just the light that we can see, but the light that we can't! With special cameras, glasses and beads, try out hands-on activities to find out about how space telescopes work. PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes.  
+
+    The event is family-friendly.    
+
+    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
+  url: https://www.eventbrite.co.uk/e/seeing-the-invisible-tickets-42753908090?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/40362516/133368849299/1/original.jpg?h=200&w=450&rect=0,137,906,453&s=e4d7a275103920ac3605e642ea26d1b8
+  starts: 2018-03-14T18:00:00.0000000
+  ends: 2018-03-14T19:30:00.0000000
+  venue: Astrocampus
 - name: 'WE1: Website CMS Basic training (Thu 12 Apr 14:00-16:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -467,19 +480,6 @@
   starts: 2018-03-27T10:00:00.0000000
   ends: 2018-03-27T12:00:00.0000000
   venue: ILS Training area (outside FT/120)
-- name: Seeing the Invisible!
-  description: >-
-    Join us at the University of York Astrocampus to explore the night skies and find out more about how Astronomers are uncovering the mysteries of space using not just the light that we can see, but the light that we can't! With special cameras, glasses and beads, try out hands-on activities to find out about how space telescopes work. PLUS take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes.  
-
-    The event is family-friendly.    
-
-    For further information and directions to the Astrocampus, please see www.astrocampus.org.uk
-  url: https://www.eventbrite.co.uk/e/seeing-the-invisible-tickets-42753908090?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/40362516/133368849299/1/original.jpg?h=200&w=450&rect=0,137,906,453&s=e4d7a275103920ac3605e642ea26d1b8
-  starts: 2018-03-14T18:00:00.0000000
-  ends: 2018-03-14T19:30:00.0000000
-  venue: Astrocampus
 - name: 'QU1: Qualtrics Essentials (Tue 6 Mar 15:00-16:00)'
   description: >-
     These courses are for staff, students and alumni of York St. John University only.
