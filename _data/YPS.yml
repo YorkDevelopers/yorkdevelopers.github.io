@@ -1,17 +1,3 @@
-- name: YPS Get-Together
-  description: YPS Get-Together
-  url: https://www.ypsyork.org/events/yps-get-together-10/
-  logo: https://www.ypsyork.org/wp-content/uploads/2013/10/museum-gardens_10-200x125.jpg
-  starts: 2018-02-28T14:30:00.0000000
-  ends: 2018-02-28T16:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/star-inn-the-city/" title="Star Inn the City">Star Inn the City</a>
-- name: Visit to York Mansion House
-  description: As you will know, the Mansion House has recently been refurbished. This is an opportunity to have an in-depth tour of the house and collections. The tour takes two hours, from 6pm to 8pm, and the charge will be £21, to include tea/coffee and £3 YPS admin. fee.
-  url: https://www.ypsyork.org/events/visit-to-mansion-house/
-  logo: https://www.ypsyork.org/wp-content/uploads/2018/01/Mansion-H-200x125.jpg
-  starts: 2018-02-28T18:00:00.0000000
-  ends: 2018-02-28T20:00:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/york-mansion-house-2/" title="York Mansion House">York Mansion House</a>
 - name: 'Engineering: &#8220;Invisible Superheroes&#8221;'
   description: 'Young engineers will explore how &#8220;Invisible Superheroes&#8221;: civil engineers transform lives and safeguard their future through civil engineering.'
   url: https://www.ypsyork.org/events/engineering-invisible-superheroes/
@@ -68,6 +54,13 @@
   starts: 2018-04-10T19:30:00.0000000
   ends: 2018-04-10T21:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
+- name: YPS Get-Together
+  description: YPS Get-Together
+  url: https://www.ypsyork.org/events/yps-get-together-14/
+  logo: https://www.ypsyork.org/wp-content/uploads/2013/10/museum-gardens_10-200x125.jpg
+  starts: 2018-04-18T14:30:00.0000000
+  ends: 2018-04-18T16:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/star-inn-the-city/" title="Star Inn the City">Star Inn the City</a>
 - name: Engineering the Future
   description: <strong>Engineering the Future</strong>
   url: https://www.ypsyork.org/events/engineering-the-future/
