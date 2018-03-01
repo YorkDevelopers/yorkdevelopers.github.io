@@ -1,29 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/247489606/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-02-28T07:30:00.0000000
-  ends: 2018-02-28T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/247607670/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-02-28T08:00:00.0000000
-  ends: 2018-02-28T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: Ruby York - First Meetup
-  description: '<p>Come along to the inaugural Ruby York meetup, a friendly social gathering for Ruby/Rails developers in York. All skill levels welcome.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/247460327/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-02-28T17:00:00.0000000
-  ends: 2018-02-28T20:00:00.0000000
-  venue: FortyFive Vinyl Café
-  endorsed: true
 - name: Building Scalable and Resilient Applications
   description: '<p>This talk is split into two related topics; Building Scalable and Resilient Web Apps with Microsoft Azure &amp; Introducing Azure Service Fabric</p> <p>Building Scalable and Resilient Web Apps with Microsoft Azure</p> <p>Building web apps that are both scalable and resilient is challenging especially when you have an existing application that you need to change. This talk discusses scalability and resilience, the issues you could have and highlights some of the services within Azure that you can use to help.</p> <p>Introduction to Azure Service Fabric</p> <p>Azure Service Fabric is the Microsoft microservices framework and this talk explains how to build applications that can be deployed in Azure or on your own infrastructure.Service fabric lets you deploy your own existing services or build them using the service fabric framework to take advantage of the built-in microservices features that service fabric provides</p> <p>Steve Spencer</p> <p>Steve is an experienced .NET Developer, Microsoft Azure MVP and a Senior Solution Architect at Liberis. Steve has spoken at previous DDD events covering Microsoft Azure, Gadgeteer, Service Bus and Azure Web jobs</p> <p>Steve has also recently appeared on channel9 also talking on Service Fabric -</p> <p><a href="https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby" class="linkified">https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby</a></p> <p><a href="http://blogs.recneps.net/" class="linkified">http://blogs.recneps.net/</a></p> <p><a href="http://www.twitter.com/@sdspencer" class="linkified">http://www.twitter.com/@sdspencer</a></p> '
   url: https://www.meetup.com/dotnetYork/events/243704160/
@@ -91,13 +65,6 @@
   starts: 2018-03-08T18:30:00.0000000
   ends: 2018-03-08T21:30:00.0000000
   venue: FutureLabs @ Platform
-- name: Crypto catchup (Friday)
-  description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
-  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/247899347/
-  is-free: true
-  starts: 2018-03-09T12:30:00.0000000
-  ends: 2018-03-09T13:30:00.0000000
-  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbqb/
@@ -107,14 +74,6 @@
   ends: 2018-03-12T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: Free Open to Everyone Evening!
-  description: "<p><b>What's happening?</b></p> <p>Are you an artist, maker, hobbyist, tinkerer, engineer or someone who just likes to make things or even just discuss creativity in Leeds?</p> <p>Come along and talk to like minded people and members at Leeds Hackspace, feel free to bring along a project that you're working on or just have a chat.</p> <p><b>So is this free? Do I have to book or something?</b></p> <p>Yes, it is free. Leeds Hackspace is a work-space, community group type and workshop area. We have snacks you can buy at our own Tuck Shop, internet access via WiFi or wired Ethernet.</p> <p><b>There doesn't seem to be many attending?</b></p> <p>A lot of our members, some 30+ do not use Meetup, and they regularly attend the open evenings/days without RSVPing on here. So don't worry, the open evenings happen regularly and every week.</p> <p><b>What do you have?</b></p> <p>Wood and metal workshop, laser cutter, 3D Printer, Vinyl cutter, computers, electronics, a heat press, and all sorts of <a href=\"https://wiki.leedshackspace.org.uk/wiki/Leeds_Hackspace\">other goodies</a>. However, using a lot of these things require an induction and for you to be a paying member, but we have these open evenings so that you can look around and check the place out. Some members are happy to help you if you need to be pointed in the right direction or have something that needs repairs.</p> <p><b>So is this a business.. ?</b></p> <p>Leeds Hackspace is registered as a business, but it is run voluntarily by Directors and members, if you want to see a change you can make it happen.</p> <p><b>How do I get there?</b></p> <p>You can find out more details about visiting here: <a href=\"http://leedshackspace.org.uk/getting-here/\"><a href=\"http://leedshackspace.org.uk/getting-here/\" class=\"linkified\">http://leedshackspace.org.uk/getting-here/</a></a> there is limited on-site free parking, and on-street parking is free after 6pm.</p> <p><b>What if I want to ask more questions?</b></p> <p>We also have a mailing list: <a href=\"https://groups.google.com/forum/#!forum/leeds-hack-space\" class=\"linkified\">https://groups.google.com/forum/#!forum/leeds-hack-space</a></p> "
-  url: https://www.meetup.com/Leeds-Hackspace/events/247104872/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/c/e/a/thumb_427947882.jpeg
-  starts: 2018-03-13T19:00:00.0000000
-  ends: 2018-03-13T23:30:00.0000000
-  venue: Leeds Hackspace
 - name: York Code Dojo March Meetup - Dynamic Programming
   description: '<p>This month Andy will be running a session on Dynamic Programming. This excellent session was very well received at the Leeds Code Dojo last year.</p> <p>Dynamic Programming is an alternative approach to recursion for solving problems. So it will be another useful technique to add to your toolkit!</p> <p>The evening will take the familiar format, where Andy will explain the technique and then we will divide up into pairs to work on some examples.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift or walk up the stairs to the second floor.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/247964692/
@@ -133,6 +92,29 @@
   ends: 2018-03-14T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxfbsb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-03-14T08:00:00.0000000
+  ends: 2018-03-14T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: SEO Optimisation for a New Jekyll Install
+  description: "<p>• What we'll do<br/>Matthew Fleming will take us through the first five things to do in a new Jekyll installation to improve your site's SEO.</p> <p>Set up at 6pm, talk starts at 6:15pm. Talk lasts 20-30 minutes, followed by questions. Option to continue afterwards to drinks and food.</p> <p>• What to bring<br/>Bring your wonderful selves, and all your SEO and static site questions.</p> <p>• Important to know</p> "
+  url: https://www.meetup.com/Write-the-Docs-Leeds-Bradford/events/247184981/
+  is-free: true
+  starts: 2018-03-14T18:00:00.0000000
+  ends: 2018-03-14T19:00:00.0000000
+  venue: Wharf Chambers (Middle Floor)
+- name: Join us for our first Kafka Meetup in Leeds
+  description: "<p>• What we'll do<br/>Join us for our First Leeds Apache Kafka meetup on March 14th from 6:00pm hosted by Sky Betting and Gaming in Leeds. The agenda, venue and speaker information can be found below. See you there!</p> <p>-----</p> <p>Agenda:<br/>6:00pm: Doors open<br/>6:00pm - 6:30pm: Networking, Pizza and Drinks<br/>6:30pm - 7:15pm: Look Ma, no Code! Building Streaming Data Pipelines with Apache Kafka and KSQL, Robin Moffatt - Confluent<br/>7:15pm - 8:00pm: Ashley Broadley<br/>8:00 pm - 8:15pm: Additional Q&amp;A and Networking</p> <p>-----<br/>Title:<br/>Look Ma, no Code! Building Streaming Data Pipelines with Apache Kafka and KSQL</p> <p>Abstract:<br/>Have you ever thought that you needed to be a programmer to do stream processing and build streaming data pipelines? Think again!</p> <p>Companies new and old are all recognising the importance of a low-latency, scalable, fault-tolerant data backbone, in the form of the Apache Kafka streaming platform. With Kafka, developers can integrate multiple sources and systems, which enables low latency analytics, event driven architectures and the population of multiple downstream systems. These data pipelines can be built using configuration alone.</p> <p>In this talk, we’ll see how easy it is to stream data from a database such as Oracle into Kafka using the Kafka Connect API. In addition, we’ll use KSQL to filter, aggregate and join it to other data, and then stream this from Kafka out into multiple targets such as Elasticsearch and MySQL. All of this can be accomplished without a single line of code!</p> <p>Why should Java geeks have all the fun?</p> <p><br/>Speaker:<br/>Robin Moffatt, Confluent</p> <p>Bio:<br/>Robin is a Partner Technology Evangelist at Confluent, the company founded by the creators of Apache Kafka, as well as an Oracle ACE Director. His career has always involved data, from the old worlds of COBOL and DB2, through the worlds of Oracle and Hadoop, and into the current world with Kafka. His particular interests are analytics, systems architecture, performance testing and optimization. He blogs at <a href=\"https://www.confluent.io/blog/author/robin/\" class=\"linkified\">https://www.confluent.io/blog/author/robin/</a> and <a href=\"http://rmoff.net/\" class=\"linkified\">http://rmoff.net/</a> (and previously <a href=\"http://ritt.md/rmoff\" class=\"linkified\">http://ritt.md/rmoff</a>) and can be found tweeting grumpy geek thoughts as @rmoff. Outside of work he enjoys drinking good beer and eating fried breakfasts, although generally not at the same time.</p> <p>-----<br/>Title:<br/>TBC</p> <p>Abstract:<br/>TBC</p> <p>Speaker:<br/>Ashley Broadley</p> <p>Bio:<br/>TBC</p> <p>-----</p> <p>The full address for the venue is:</p> <p>Sky Betting &amp; Gaming<br/>3rd Floor<br/>6 Wellington Place<br/>Leeds<br/>LS1 4AP</p> <p>For people who have visited the Sky Betting &amp; Gaming offices previously, this is our new building.</p> <p>There is wheelchair access. There is basic seating, an accessible toilet, a gender neutral toilet, and general car parking. There is a designated quiet space by request in advance. This isn’t a hearing loop, or a bsl interpreter. There is a level route from the NCP car park (which has limited accessible parking spaces), CitiPark, and the train station. The venue is on the 3rd floor with multiple lifts available.</p> <p>Car parking: <a href=\"http://www.wellingtonplace.co.uk\" class=\"linkified\">http://www.wellingtonplace.co.uk</a></p> <p>• What to bring</p> <p><br/>• Important to know</p> "
+  url: https://www.meetup.com/Leeds-Kafka/events/248239199/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/0/a/c/thumb_466557516.jpeg
+  starts: 2018-03-14T18:00:00.0000000
+  ends: 2018-03-14T21:00:00.0000000
+  venue: Sky Betting and Gaming
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxfbtb/
