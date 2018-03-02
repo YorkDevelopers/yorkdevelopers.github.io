@@ -1,19 +1,3 @@
-- name: Building Scalable and Resilient Applications
-  description: '<p>This talk is split into two related topics; Building Scalable and Resilient Web Apps with Microsoft Azure &amp; Introducing Azure Service Fabric</p> <p>Building Scalable and Resilient Web Apps with Microsoft Azure</p> <p>Building web apps that are both scalable and resilient is challenging especially when you have an existing application that you need to change. This talk discusses scalability and resilience, the issues you could have and highlights some of the services within Azure that you can use to help.</p> <p>Introduction to Azure Service Fabric</p> <p>Azure Service Fabric is the Microsoft microservices framework and this talk explains how to build applications that can be deployed in Azure or on your own infrastructure.Service fabric lets you deploy your own existing services or build them using the service fabric framework to take advantage of the built-in microservices features that service fabric provides</p> <p>Steve Spencer</p> <p>Steve is an experienced .NET Developer, Microsoft Azure MVP and a Senior Solution Architect at Liberis. Steve has spoken at previous DDD events covering Microsoft Azure, Gadgeteer, Service Bus and Azure Web jobs</p> <p>Steve has also recently appeared on channel9 also talking on Service Fabric -</p> <p><a href="https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby" class="linkified">https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby</a></p> <p><a href="http://blogs.recneps.net/" class="linkified">http://blogs.recneps.net/</a></p> <p><a href="http://www.twitter.com/@sdspencer" class="linkified">http://www.twitter.com/@sdspencer</a></p> '
-  url: https://www.meetup.com/dotnetYork/events/243704160/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2018-03-01T18:30:00.0000000
-  ends: 2018-03-01T21:30:00.0000000
-  venue: Stonegate Yard Bar & Brasserie
-- name: Umbraco Meetup
-  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>We draw a Jetbrains coupon to get one of their programs for free!</p> <p>Winners<br/>Jan: Thomas Nadin.<br/>Feb: James Fisher</p> "
-  url: https://www.meetup.com/umbLeeds/events/247416884/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
-  starts: 2018-03-01T17:30:00.0000000
-  ends: 2018-03-01T20:30:00.0000000
-  venue: The Adelphi
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/248219183/
@@ -33,7 +17,7 @@
   venue: Callcredit Information Group Limited
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbkb/
+  url: https://www.meetup.com/YorkDevelopers/events/248292699/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-03-07T07:30:00.0000000
@@ -42,7 +26,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxfbkb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/248294114/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-03-07T08:00:00.0000000
@@ -57,17 +41,17 @@
   ends: 2018-03-07T21:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
-- name: 'March 2017: Heather Norton - Tackling Climate Change with Code'
+- name: 'March 2018: Heather Norton - Tackling Climate Change with Code'
   description: '<p>Software for Society: Tackling Climate Change with Code</p> <p>Most people are aware that the earth is warming, and that our society needs to make significant changes in order to stop it. This can seem like an impossible task, outside the scale of anyone’s everyday life. But Heather will demonstrate how one powerful software application, ForeCoast® Marine, is tackling a piece of this problem. She will briefly introduce the field of marine energy and explain how offshore wind farm developers are using this software to try out new strategies in a virtual world, resulting in better decisions and cheaper clean energy. She will share her recent experiences in scaling up the software to look at the impacts of climate change all over Europe, and explain how massive computer programs are acting as ‘crystal balls’ to locate vulnerable people, ecosystems, and industries so that we can mitigate against the impacts of climate change long into the future.</p> <p><a href="https://www.forecoastmarine.com/gamer-mode" class="linkified">https://www.forecoastmarine.com/gamer-mode</a></p> <p>Heather Norton</p> <p>Over the past 8 years Heather has written code for controlling lasers in atomic science experiments, helping entrepreneurs in rural Ghana with their financial planning, reducing energy use in office buildings, and a variety of projects in between. Originally from Canada, she studied Engineering Physics (Queen’s University) and Engineering for Sustainable Development (University of Cambridge) before settling at JBA Consulting in Skipton where she works on ForeCoast® Marine, the subject of her talk today.</p> '
   url: https://www.meetup.com/CodeMill-Digital-Skills/events/245100929/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/8/3/1/5/thumb_466533557.jpeg
   starts: 2018-03-08T18:30:00.0000000
   ends: 2018-03-08T21:30:00.0000000
-  venue: FutureLabs @ Platform
+  venue: platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbqb/
+  url: https://www.meetup.com/YorkDevelopers/events/248292703/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-03-12T07:30:00.0000000
@@ -85,7 +69,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbsb/
+  url: https://www.meetup.com/YorkDevelopers/events/248292705/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-03-14T07:30:00.0000000
@@ -108,7 +92,7 @@
   ends: 2018-03-14T19:00:00.0000000
   venue: Wharf Chambers (Middle Floor)
 - name: Join us for our first Kafka Meetup in Leeds
-  description: "<p>• What we'll do<br/>Join us for our First Leeds Apache Kafka meetup on March 14th from 6:00pm hosted by Sky Betting and Gaming in Leeds. The agenda, venue and speaker information can be found below. See you there!</p> <p>-----</p> <p>Agenda:<br/>6:00pm: Doors open<br/>6:00pm - 6:30pm: Networking, Pizza and Drinks<br/>6:30pm - 7:15pm: Look Ma, no Code! Building Streaming Data Pipelines with Apache Kafka and KSQL, Robin Moffatt - Confluent<br/>7:15pm - 8:00pm: Ashley Broadley<br/>8:00 pm - 8:15pm: Additional Q&amp;A and Networking</p> <p>-----<br/>Title:<br/>Look Ma, no Code! Building Streaming Data Pipelines with Apache Kafka and KSQL</p> <p>Abstract:<br/>Have you ever thought that you needed to be a programmer to do stream processing and build streaming data pipelines? Think again!</p> <p>Companies new and old are all recognising the importance of a low-latency, scalable, fault-tolerant data backbone, in the form of the Apache Kafka streaming platform. With Kafka, developers can integrate multiple sources and systems, which enables low latency analytics, event driven architectures and the population of multiple downstream systems. These data pipelines can be built using configuration alone.</p> <p>In this talk, we’ll see how easy it is to stream data from a database such as Oracle into Kafka using the Kafka Connect API. In addition, we’ll use KSQL to filter, aggregate and join it to other data, and then stream this from Kafka out into multiple targets such as Elasticsearch and MySQL. All of this can be accomplished without a single line of code!</p> <p>Why should Java geeks have all the fun?</p> <p><br/>Speaker:<br/>Robin Moffatt, Confluent</p> <p>Bio:<br/>Robin is a Partner Technology Evangelist at Confluent, the company founded by the creators of Apache Kafka, as well as an Oracle ACE Director. His career has always involved data, from the old worlds of COBOL and DB2, through the worlds of Oracle and Hadoop, and into the current world with Kafka. His particular interests are analytics, systems architecture, performance testing and optimization. He blogs at <a href=\"https://www.confluent.io/blog/author/robin/\" class=\"linkified\">https://www.confluent.io/blog/author/robin/</a> and <a href=\"http://rmoff.net/\" class=\"linkified\">http://rmoff.net/</a> (and previously <a href=\"http://ritt.md/rmoff\" class=\"linkified\">http://ritt.md/rmoff</a>) and can be found tweeting grumpy geek thoughts as @rmoff. Outside of work he enjoys drinking good beer and eating fried breakfasts, although generally not at the same time.</p> <p>-----<br/>Title:<br/>TBC</p> <p>Abstract:<br/>TBC</p> <p>Speaker:<br/>Ashley Broadley</p> <p>Bio:<br/>TBC</p> <p>-----</p> <p>The full address for the venue is:</p> <p>Sky Betting &amp; Gaming<br/>3rd Floor<br/>6 Wellington Place<br/>Leeds<br/>LS1 4AP</p> <p>For people who have visited the Sky Betting &amp; Gaming offices previously, this is our new building.</p> <p>There is wheelchair access. There is basic seating, an accessible toilet, a gender neutral toilet, and general car parking. There is a designated quiet space by request in advance. This isn’t a hearing loop, or a bsl interpreter. There is a level route from the NCP car park (which has limited accessible parking spaces), CitiPark, and the train station. The venue is on the 3rd floor with multiple lifts available.</p> <p>Car parking: <a href=\"http://www.wellingtonplace.co.uk\" class=\"linkified\">http://www.wellingtonplace.co.uk</a></p> <p>• What to bring</p> <p><br/>• Important to know</p> "
+  description: "<p>• What we'll do<br/>Join us for our First Leeds Apache Kafka meetup on March 14th from 6:00pm hosted by Sky Betting and Gaming in Leeds. The agenda, venue and speaker information can be found below. See you there!</p> <p>-----</p> <p>Agenda:<br/>6:00pm: Doors open<br/>6:00pm - 6:30pm: Networking, Pizza and Drinks<br/>6:30pm - 7:15pm: Look Ma, no Code! Building Streaming Data Pipelines with Apache Kafka and KSQL, Robin Moffatt - Confluent<br/>7:15pm - 8:00pm: Full Stream Ahead!, Ashley Broadley - Sky Betting &amp; Gaming<br/>8:00 pm - 8:15pm: Additional Q&amp;A and Networking</p> <p>-----<br/>Title:<br/>Look Ma, no Code! Building Streaming Data Pipelines with Apache Kafka and KSQL</p> <p>Abstract:<br/>Have you ever thought that you needed to be a programmer to do stream processing and build streaming data pipelines? Think again!</p> <p>Companies new and old are all recognising the importance of a low-latency, scalable, fault-tolerant data backbone, in the form of the Apache Kafka streaming platform. With Kafka, developers can integrate multiple sources and systems, which enables low latency analytics, event driven architectures and the population of multiple downstream systems. These data pipelines can be built using configuration alone.</p> <p>In this talk, we’ll see how easy it is to stream data from a database such as Oracle into Kafka using the Kafka Connect API. In addition, we’ll use KSQL to filter, aggregate and join it to other data, and then stream this from Kafka out into multiple targets such as Elasticsearch and MySQL. All of this can be accomplished without a single line of code!</p> <p>Why should Java geeks have all the fun?</p> <p>Speaker:<br/>Robin Moffatt, Confluent</p> <p>Bio:<br/>Robin is a Partner Technology Evangelist at Confluent, the company founded by the creators of Apache Kafka, as well as an Oracle ACE Director. His career has always involved data, from the old worlds of COBOL and DB2, through the worlds of Oracle and Hadoop, and into the current world with Kafka. His particular interests are analytics, systems architecture, performance testing and optimization. He blogs at <a href=\"https://www.confluent.io/blog/author/robin/\" class=\"linkified\">https://www.confluent.io/blog/author/robin/</a> and <a href=\"http://rmoff.net/\" class=\"linkified\">http://rmoff.net/</a> (and previously <a href=\"http://ritt.md/rmoff\" class=\"linkified\">http://ritt.md/rmoff</a>) and can be found tweeting grumpy geek thoughts as @rmoff. Outside of work he enjoys drinking good beer and eating fried breakfasts, although generally not at the same time.</p> <p>-----<br/>Title:<br/>Full Stream Ahead!</p> <p>Abstract:<br/>How the Promotions Tribelet at Sky Betting &amp; Gaming plan to go faster, why it's important to keep reassessing your previous choices and why Kafka is integral to our future plans. A little story about what we've learnt and what it takes to affect change.</p> <p>Speaker:<br/>Ashley Broadley</p> <p>Bio:<br/>Ash is a Principal Engineer at Sky Betting &amp; Gaming. Starting off as a standard LAMP Engineer, introduced to Real-Time data processing in 2016, his world changed as he was blown away by the capabilities that Kafka offers. Leading the technical side of the Promotions API &amp; Messaging API services, aiming to build Real-Time data models based on Apache Kafka.</p> <p>-----</p> <p>The full address for the venue is:</p> <p>Sky Betting &amp; Gaming<br/>3rd Floor<br/>6 Wellington Place<br/>Leeds<br/>LS1 4AP</p> <p>For people who have visited the Sky Betting &amp; Gaming offices previously, this is our new building.</p> <p>There is wheelchair access. There is basic seating, an accessible toilet, a gender neutral toilet, and general car parking. There is a designated quiet space by request in advance. This isn’t a hearing loop, or a bsl interpreter. There is a level route from the NCP car park (which has limited accessible parking spaces), CitiPark, and the train station. The venue is on the 3rd floor with multiple lifts available.</p> <p>Car parking: <a href=\"http://www.wellingtonplace.co.uk\" class=\"linkified\">http://www.wellingtonplace.co.uk</a></p> <p>• What to bring</p> <p>• Important to know</p> "
   url: https://www.meetup.com/Leeds-Kafka/events/248239199/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/e/0/a/c/thumb_466557516.jpeg
@@ -566,6 +550,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-08-20T06:30:00.0000000
   ends: 2018-08-20T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxlbdc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-08-22T06:30:00.0000000
+  ends: 2018-08-22T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
