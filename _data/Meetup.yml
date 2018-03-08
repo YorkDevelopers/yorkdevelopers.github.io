@@ -1,37 +1,3 @@
-- name: Mining for BrassBitCoin
-  description: "<p>Everyone knows that Yorkshire has everything. However, it doesn't have it's own currency. So its time to put that right, as we build and mine our first Yorkshire cryptocurrency - the BrassBitCoin!</p> <p>See the LCD website for further details: <a href=\"http://leedscodedojo.github.io/\" class=\"linkified\">http://leedscodedojo.github.io/</a></p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/248099724/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2018-03-07T18:00:00.0000000
-  ends: 2018-03-07T21:00:00.0000000
-  venue: Callcredit Information Group Limited
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/248292699/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-03-07T07:30:00.0000000
-  ends: 2018-03-07T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/248294114/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-03-07T08:00:00.0000000
-  ends: 2018-03-07T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: Front-End-York - First meetup
-  description: "<p>Front-End-York is the perfect MeetUp for anyone interested in Front End Web Development, Design and UX. From HTML to React, UI to interaction design; we're going to be discussing absolutely everything front end.</p> <p>We're a friendly bunch and everyone is welcome - regardless if you're just starting out in the industry or have over a decade of experience, if you pop along we promise you won't be bored!</p> <p>Fancy speaking at one of our MeetUps? Great! Get in touch with an organiser so we can pencil something in. Speakers of any experience welcome.</p> <p>Endorsed by YorkDevelopers.</p> "
-  url: https://www.meetup.com/YorkDevelopers/events/247797740/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-03-07T19:00:00.0000000
-  ends: 2018-03-07T21:00:00.0000000
-  venue: Stonegate Yard Bar & Brasserie
-  endorsed: true
 - name: 'March 2018: Heather Norton - Tackling Climate Change with Code'
   description: '<p>Software for Society: Tackling Climate Change with Code</p> <p>Most people are aware that the earth is warming, and that our society needs to make significant changes in order to stop it. This can seem like an impossible task, outside the scale of anyone’s everyday life. But Heather will demonstrate how one powerful software application, ForeCoast® Marine, is tackling a piece of this problem. She will briefly introduce the field of marine energy and explain how offshore wind farm developers are using this software to try out new strategies in a virtual world, resulting in better decisions and cheaper clean energy. She will share her recent experiences in scaling up the software to look at the impacts of climate change all over Europe, and explain how massive computer programs are acting as ‘crystal balls’ to locate vulnerable people, ecosystems, and industries so that we can mitigate against the impacts of climate change long into the future.</p> <p><a href="https://www.forecoastmarine.com/gamer-mode" class="linkified">https://www.forecoastmarine.com/gamer-mode</a></p> <p>Heather Norton</p> <p>Over the past 8 years Heather has written code for controlling lasers in atomic science experiments, helping entrepreneurs in rural Ghana with their financial planning, reducing energy use in office buildings, and a variety of projects in between. Originally from Canada, she studied Engineering Physics (Queen’s University) and Engineering for Sustainable Development (University of Cambridge) before settling at JBA Consulting in Skipton where she works on ForeCoast® Marine, the subject of her talk today.</p> '
   url: https://www.meetup.com/CodeMill-Digital-Skills/events/245100929/
@@ -109,6 +75,37 @@
   ends: 2018-03-21T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxfbcc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-03-21T08:00:00.0000000
+  ends: 2018-03-21T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: WUG York, 21st March 2018
+  description: "<p>• What we'll do<br/>We invite you for another evening of tech talk and networking with fellow IT Professionals. The evening will be hosted by MVPs Chris Rhodes and Andrew Bettany. We expected around 30 attendees at each event.</p> <p>Please book via: <a href=\"https://yorkwugmarch2018.eventbrite.co.uk\" class=\"linkified\">https://yorkwugmarch2018.eventbrite.co.uk</a></p> <p>Topics for the evening :</p> <p>Microsoft One Drive for Business</p> <p>OneDrive for Business is an integral part of Office 365 or SharePoint Server, and provides place in the cloud where you can store, share, and sync your work files. You can update and share your files from any device with OneDrive for Business. You can even work on Office documents with others at the same time.</p> <p>How can you make it work for your business?</p> <p>Microsoft 365</p> <p>A complete, intelligent solution, including Office 365, Windows 10, and Enterprise Mobility + Security, that empowers everyone to be creative and work together, securely.</p> <p>Brand new and coming soon! What will it mean for you?</p> <p>______________________________</p> <p>Be sure to come along with questions, as well as a desire to meet and network with fellow IT Pros. These events fill up fast and we have limited seating, so please register early to guarantee a seat.</p> <p>Event attendance is free, but there will also be a number of VIP Sponsor seats which offer extra benefits. Register now!</p> <p>For more information about the Windows User Group, to find out how to join us on tour, or for up-to-date details of events and how to get involved then please visit our website, or follow us on Twitter and Facebook.</p> <p>facebook.com/WindowsUG</p> <p>The Windows User Group is a community run event. Please consider helping sponsor the event which will help contribute towards the refreshments and pizza.</p> <p>• What to bring</p> <p>• Important to know</p> "
+  url: https://www.meetup.com/Windows-User-Group/events/247613075/
+  is-free: true
+  starts: 2018-03-21T18:00:00.0000000
+  ends: 2018-03-21T21:00:00.0000000
+  venue: Lakehouse, Ron Cooke Hub
+- name: Horror Fan’s Guide to Coding Nightmares, API performance and security in Silex
+  description: '<p>We have two talks covering PHP code smells and a talk on API performance and security.</p> <p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided. We will have vegetarian food, if you have any other dietary requirements or questions please send us a message.<br/>_______________________________</p> <p>★ The Talks</p> <p>✩ Coding Horrors - A Horror Film Fan’s Guide to PHP Coding Nightmares<br/>Mark Baker <a href="https://twitter.com/Mark_Baker" class="linkified">https://twitter.com/Mark_Baker</a></p> <p>"Most of us are probably aware of code smells, code that doesn’t apply SOLID principles, code that should be refactored to make the system easier to maintain. But there are other coding horrors that should trigger alarm bells whenever we see them, whether in a legacy codebase or when doing code reviews. Like a good horror movie, coding horrors should scare us when we find them, because they’re often symptomatic of deeper problems. So let’s take a short tour of some of the greatest horror movies ever made (and a few turkeys); and some of the most worrying code horrors that I’ve seen."</p> <p>Mark is ZCE; Lead/Senior Developer at Paybreak; Coordinator of Open Source PHPOffice library suite (PHPExcel, PHPPowerPoint, PHPWord, &amp;c); Trainee cat herder.</p> <p>✩ A journey into API performance and security using PHP Silex<br/>Blair Garrett <a href="https://twitter.com/blairguk" class="linkified">https://twitter.com/blairguk</a></p> <p>"I’ll take you through the practices, tools and techniques I employed when making my best attempt to secure and speed up API’s. For this talk I’ll be using the PHP Silex framework. I’ll go through the reasons for my choice of tools which you can lean on. These will ensure your API goes like the clappers and the bad guys can’t get in. This is loosely based on a read world example. But I will be drawing on experience of creating API’s in Java, .NET, PHP and NodeJS over the years."</p> <p>Blair is a Developer at Sky. Previously Senior Developer and Data Architect at Saint-Gobain. Amateur fell runner, former amateur tennis player and golfer. And I used to climb up rocks.<br/>_______________________________</p> <p>★ Timings</p> <p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – A journey into API performance and security using PHP Silex<br/>19:25 – A little break<br/>19:30 – Coding Horrors - A Horror Film Fan’s Guide to PHP Coding Nightmares<br/>20:10ish – Pop over to the pub for a chat and a drink</p> <p>_______________________________</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform (<a href="https://bruntwood.co.uk/our-locations/leeds/platform/" class="linkified">https://bruntwood.co.uk/our-locations/leeds/platform/</a>) – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Sky Betting &amp; Gaming (<a href="http://skybetcareers.com/about-us" class="linkified">http://skybetcareers.com/about-us</a>) – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their careers page (<a href="http://skybetcareers.com/" class="linkified">http://skybetcareers.com/</a>) provides great detail as to the working environment and range of work available across the technology stack. @skybetcareers (<a href="https://twitter.com/skybetcareers" class="linkified">https://twitter.com/skybetcareers</a>)</p> <p>• Infinity Works (<a href="https://www.infinityworks.com/" class="linkified">https://www.infinityworks.com/</a>) – Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href="https://twitter.com/InfinityWorks" class="linkified">https://twitter.com/InfinityWorks</a>)</p> '
+  url: https://www.meetup.com/leedsphp/events/246435814/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
+  starts: 2018-03-21T18:30:00.0000000
+  ends: 2018-03-21T20:30:00.0000000
+  venue: Platform
+- name: Systems Thinking + Agile Clinic
+  description: '<p>Systems Thinking by Rachel Whitaker</p> <p>More details on this talk to follow.</p> '
+  url: https://www.meetup.com/agileYork/events/247423404/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2018-03-21T18:30:00.0000000
+  ends: 2018-03-21T21:00:00.0000000
+  venue: York St.John University
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbjc/
