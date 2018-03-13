@@ -1,12 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/248292703/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-03-12T07:30:00.0000000
-  ends: 2018-03-12T10:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
 - name: York Code Dojo March Meetup - Dynamic Programming
   description: '<p>This month Andy will be running a session on Dynamic Programming. This excellent session was very well received at the Leeds Code Dojo last year.</p> <p>Dynamic Programming is an alternative approach to recursion for solving problems. So it will be another useful technique to add to your toolkit!</p> <p>The evening will take the familiar format, where Andy will explain the technique and then we will divide up into pairs to work on some examples.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is in the Fountains learning Centre on the first floor. Simply go into the library and either take the lift or walk up the stairs to the second floor.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/247964692/
@@ -33,13 +24,6 @@
   starts: 2018-03-14T08:00:00.0000000
   ends: 2018-03-14T11:00:00.0000000
   venue: La Bottega Milanese
-- name: SEO Optimisation for a New Jekyll Install
-  description: "<p>• What we'll do<br/>Matthew Fleming will take us through the first five things to do in a new Jekyll installation to improve your site's SEO.</p> <p>Set up at 6pm, talk starts at 6:15pm. Talk lasts 20-30 minutes, followed by questions. Option to continue afterwards to drinks and food.</p> <p>• What to bring<br/>Bring your wonderful selves, and all your SEO and static site questions.</p> <p>• Important to know</p> "
-  url: https://www.meetup.com/Write-the-Docs-Leeds-Bradford/events/247184981/
-  is-free: true
-  starts: 2018-03-14T18:00:00.0000000
-  ends: 2018-03-14T19:00:00.0000000
-  venue: Wharf Chambers (Middle Floor)
 - name: Join us for our first Kafka Meetup in Leeds
   description: "<p>• What we'll do<br/>Join us for our First Leeds Apache Kafka meetup on March 14th from 6:00pm hosted by Sky Betting and Gaming in Leeds. The agenda, venue and speaker information can be found below. See you there!</p> <p>-----</p> <p>Agenda:<br/>6:00pm: Doors open<br/>6:00pm - 6:30pm: Networking, Pizza and Drinks<br/>6:30pm - 7:15pm: Look Ma, no Code! Building Streaming Data Pipelines with Apache Kafka and KSQL, Robin Moffatt - Confluent<br/>7:15pm - 8:00pm: Full Stream Ahead!, Ashley Broadley - Sky Betting &amp; Gaming<br/>8:00 pm - 8:15pm: Additional Q&amp;A and Networking</p> <p>-----<br/>Title:<br/>Look Ma, no Code! Building Streaming Data Pipelines with Apache Kafka and KSQL</p> <p>Abstract:<br/>Have you ever thought that you needed to be a programmer to do stream processing and build streaming data pipelines? Think again!</p> <p>Companies new and old are all recognising the importance of a low-latency, scalable, fault-tolerant data backbone, in the form of the Apache Kafka streaming platform. With Kafka, developers can integrate multiple sources and systems, which enables low latency analytics, event driven architectures and the population of multiple downstream systems. These data pipelines can be built using configuration alone.</p> <p>In this talk, we’ll see how easy it is to stream data from a database such as Oracle into Kafka using the Kafka Connect API. In addition, we’ll use KSQL to filter, aggregate and join it to other data, and then stream this from Kafka out into multiple targets such as Elasticsearch and MySQL. All of this can be accomplished without a single line of code!</p> <p>Why should Java geeks have all the fun?</p> <p>Speaker:<br/>Robin Moffatt, Confluent</p> <p>Bio:<br/>Robin is a Partner Technology Evangelist at Confluent, the company founded by the creators of Apache Kafka, as well as an Oracle ACE Director. His career has always involved data, from the old worlds of COBOL and DB2, through the worlds of Oracle and Hadoop, and into the current world with Kafka. His particular interests are analytics, systems architecture, performance testing and optimization. He blogs at <a href=\"https://www.confluent.io/blog/author/robin/\" class=\"linkified\">https://www.confluent.io/blog/author/robin/</a> and <a href=\"http://rmoff.net/\" class=\"linkified\">http://rmoff.net/</a> (and previously <a href=\"http://ritt.md/rmoff\" class=\"linkified\">http://ritt.md/rmoff</a>) and can be found tweeting grumpy geek thoughts as @rmoff. Outside of work he enjoys drinking good beer and eating fried breakfasts, although generally not at the same time.</p> <p>-----<br/>Title:<br/>Full Stream Ahead!</p> <p>Abstract:<br/>How the Promotions Tribelet at Sky Betting &amp; Gaming plan to go faster, why it's important to keep reassessing your previous choices and why Kafka is integral to our future plans. A little story about what we've learnt and what it takes to affect change.</p> <p>Speaker:<br/>Ashley Broadley</p> <p>Bio:<br/>Ash is a Principal Engineer at Sky Betting &amp; Gaming. Starting off as a standard LAMP Engineer, introduced to Real-Time data processing in 2016, his world changed as he was blown away by the capabilities that Kafka offers. Leading the technical side of the Promotions API &amp; Messaging API services, aiming to build Real-Time data models based on Apache Kafka.</p> <p>-----</p> <p>The full address for the venue is:</p> <p>Sky Betting &amp; Gaming<br/>3rd Floor<br/>6 Wellington Place<br/>Leeds<br/>LS1 4AP</p> <p>For people who have visited the Sky Betting &amp; Gaming offices previously, this is our new building.</p> <p>There is wheelchair access. There is basic seating, an accessible toilet, a gender neutral toilet, and general car parking. There is a designated quiet space by request in advance. This isn’t a hearing loop, or a bsl interpreter. There is a level route from the NCP car park (which has limited accessible parking spaces), CitiPark, and the train station. The venue is on the 3rd floor with multiple lifts available.</p> <p>Car parking: <a href=\"http://www.wellingtonplace.co.uk\" class=\"linkified\">http://www.wellingtonplace.co.uk</a></p> <p>• What to bring</p> <p>• Important to know</p> "
   url: https://www.meetup.com/Leeds-Kafka/events/248239199/
@@ -73,14 +57,14 @@
   starts: 2018-03-19T18:30:00.0000000
   ends: 2018-03-19T20:30:00.0000000
   venue: Platform
-- name: Keep the Date...
-  description: "<p>• What we'll do<br/>TBD</p> <p>• What to bring</p> <p>• Important to know</p> "
-  url: https://www.meetup.com/Agile-in-Leeds/events/245754334/
+- name: 'Dev Workshop - RESTful APIs Part 2: Advanced'
+  description: "<p>Back in November we held an introduction to RESTful APIs 'Tech//Connect Dev Workshop: RESTful APIs' alongside BJSS. We are pleased to announce we will be delivering Part 2 ( a more advanced dev workshop following from part 1) on Tuesday 20th March 2018. (Leeds City Centre, 18:00 - 20:00).</p> <p>Part 1 was a sell out, and we are expecting the level of interest for Part 2 to be the same, therefore we recommend you register your interest and secure your spot as soon as possible.</p> <p>Please do so by emailing techconnect@amsourcetechnology.com or call Kelly on 0113 456 6706 for more details.</p> "
+  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/248658988/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
+  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
   starts: 2018-03-20T18:00:00.0000000
   ends: 2018-03-20T20:00:00.0000000
-  venue: 3rd Floor, Apsley House
+  venue: Leeds City Centre
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbcc/
@@ -113,8 +97,8 @@
   starts: 2018-03-21T18:30:00.0000000
   ends: 2018-03-21T20:30:00.0000000
   venue: Platform
-- name: Systems Thinking + Agile Clinic
-  description: '<p>Systems Thinking by Rachel Whitaker</p> <p>More details on this talk to follow.</p> '
+- name: Who is to blame for our lack of Agile progress?
+  description: '<p>Who is to blame for our lack of Agile progress?</p> <p>The answers of course lie in the system and the underlying thinking of the organisation. There is no person to blame as we often look for with command &amp; control thinking.</p> <p>About Rachel Whitaker</p> <p>A decade of systems thinking experience and the joyful learns and successes which have come with that have only increased Rachel’s passion to share that experience with others. 95% of the performance of any system can be attributed to the system conditions, NOT the individuals in the system.</p> <p>Rachel has applied systems thinking principles at Aviva and outside of Aviva with colleagues in all areas of the business finding the same thinking producing the same results over and over again. Once you start systems thinking, you can never go back.<br/>Rachel is passionate about great customer experience, continuous learning, awesome colleague environments and systems thinking. They fit very well together!</p> '
   url: https://www.meetup.com/agileYork/events/247423404/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
