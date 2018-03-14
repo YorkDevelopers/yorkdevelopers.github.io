@@ -42,21 +42,13 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbzb/
+  url: https://www.meetup.com/YorkDevelopers/events/248692327/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-03-19T07:30:00.0000000
   ends: 2018-03-19T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: IoT Leeds - March 2018 meetup
-  description: '<p>The January meetup will be at the same time and venue as previous months.</p> <p>6:30 PM - Doors open</p> <p>7:00 PM - First talk</p> <p>7:30 PM - Break</p> <p>7:45 PM - Second talk</p> <p>8:30 PM - Finish</p> '
-  url: https://www.meetup.com/IoT-Leeds/events/246623070/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/4/7/3/8/thumb_469158232.jpeg
-  starts: 2018-03-19T18:30:00.0000000
-  ends: 2018-03-19T20:30:00.0000000
-  venue: Platform
 - name: 'Dev Workshop - RESTful APIs Part 2: Advanced'
   description: "<p>Back in November we held an introduction to RESTful APIs 'Tech//Connect Dev Workshop: RESTful APIs' alongside BJSS. We are pleased to announce we will be delivering Part 2 ( a more advanced dev workshop following from part 1) on Tuesday 20th March 2018. (Leeds City Centre, 18:00 - 20:00).</p> <p>Part 1 was a sell out, and we are expecting the level of interest for Part 2 to be the same, therefore we recommend you register your interest and secure your spot as soon as possible.</p> <p>Please do so by emailing techconnect@amsourcetechnology.com or call Kelly on 0113 456 6706 for more details.</p> "
   url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/248658988/
@@ -65,6 +57,14 @@
   starts: 2018-03-20T18:00:00.0000000
   ends: 2018-03-20T20:00:00.0000000
   venue: Leeds City Centre
+- name: Who is to blame for our lack of Agile progress?
+  description: '<p>Who is to blame for our lack of Agile progress?</p> <p>The answers of course lie in the system and the underlying thinking of the organisation. There is no person to blame as we often look for with command &amp; control thinking.</p> <p>About Rachel Whitaker</p> <p>A decade of systems thinking experience and the joyful learns and successes which have come with that have only increased Rachel’s passion to share that experience with others. 95% of the performance of any system can be attributed to the system conditions, NOT the individuals in the system.</p> <p>Rachel has applied systems thinking principles at Aviva and outside of Aviva with colleagues in all areas of the business finding the same thinking producing the same results over and over again. Once you start systems thinking, you can never go back.<br/>Rachel is passionate about great customer experience, continuous learning, awesome colleague environments and systems thinking. They fit very well together!</p> '
+  url: https://www.meetup.com/agileYork/events/247423404/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2018-03-21T18:30:00.0000000
+  ends: 2018-03-21T21:00:00.0000000
+  venue: York St.John University
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbcc/
@@ -97,14 +97,6 @@
   starts: 2018-03-21T18:30:00.0000000
   ends: 2018-03-21T20:30:00.0000000
   venue: Platform
-- name: Who is to blame for our lack of Agile progress?
-  description: '<p>Who is to blame for our lack of Agile progress?</p> <p>The answers of course lie in the system and the underlying thinking of the organisation. There is no person to blame as we often look for with command &amp; control thinking.</p> <p>About Rachel Whitaker</p> <p>A decade of systems thinking experience and the joyful learns and successes which have come with that have only increased Rachel’s passion to share that experience with others. 95% of the performance of any system can be attributed to the system conditions, NOT the individuals in the system.</p> <p>Rachel has applied systems thinking principles at Aviva and outside of Aviva with colleagues in all areas of the business finding the same thinking producing the same results over and over again. Once you start systems thinking, you can never go back.<br/>Rachel is passionate about great customer experience, continuous learning, awesome colleague environments and systems thinking. They fit very well together!</p> '
-  url: https://www.meetup.com/agileYork/events/247423404/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
-  starts: 2018-03-21T18:30:00.0000000
-  ends: 2018-03-21T21:00:00.0000000
-  venue: York St.John University
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbjc/
@@ -114,6 +106,14 @@
   ends: 2018-03-26T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: LeedsDevops - March 2018 Meetup
+  description: "<p>Spring is in the air and it’s time for a devops meetup at the ODI Node in Leeds on Tuesday 27th March. We bring you an couple of brilliant talks:</p> <p>6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>7:15 - 7:25 : Group updates/news/announcements<br/>7:25 - 8:05 : VeriSM - making sense of digital transformation - Claire Agutter<br/>8:05 - 8:20 : Intermission<br/>8:20 - 9:00 : Questions you should ask at your \"DevOps\" interview - Bob Walker<br/>9:00 - late : Decamp to the Wardrobe</p> <p>We are delighted to welcome back Claire Agutter for our first talk entitled \"VeriSM - making sense of digital transformation\". Claire is a service management trainer, consultant and author. In 2017 she was recognised as an HDI Top 25 Thought Leader and was part of the team that won itSMF UK’s thought leadership award. Claire is the host of the popular ITSM Crowd hangouts, and Chief Architect for VeriSM.</p> <p>In the last 5 years, the world of IT has exploded with buzzwords, new ways of working, and the ever present demands to do more with less. Digital transformation is the latest phrase, but what does it actually mean? Claire is going to talk about the changes that are needed at the personal and organisational level for digital transformation to actually deliver results, and how the VeriSM approach has been written to help.</p> <p>Or second speaker is Bob Walker, Bob is one of the organising team behind DevopsDays London and claims to have been doing devops since before it was called devops and has been doing on call longer than that. bob is currently working at dxw as System Operations Engineer but has been the Supreme Ruler of the YAML engineers at the UK Government Digital Service and has only recently stopped being on call for GOV.UK.</p> <p>Bob's talk is \"Questions you should ask at your \"DevOps\" interview\" - Ever wondered how best to respond when an interviewer asks if you have any questions? Drawing on his experience from both sides of the table, bob offers some suggestions for questions which will not only make you look well-prepared but also help you decide whether you want to work there.</p> <p>We are again grateful to have Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) sponsor the refreshments and lodgings for the evening, ensuring there are plenty of our favourite refreshments and soft drinks in supply.</p> <p>Code Of Conduct</p> <p>Please note that we have now added an anti harassment policy and code of conduct (<a href=\"https://tmblr.co/ZdJfSq2PpSK99)in\" class=\"linkified\">https://tmblr.co/ZdJfSq2PpSK99)in</a> order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street (not too far from the Adelphi). If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on twitter @leedsdevops (<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>Look forward to seeing you there!</p> <p>For more details see the event page on leedsdevops.org.uk (<a href=\"https://tmblr.co/ZdJfSq2W2Xekv\" class=\"linkified\">https://tmblr.co/ZdJfSq2W2Xekv</a>)</p> "
+  url: https://www.meetup.com/LeedsDevops/events/248709742/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/a/6/0/thumb_333467712.jpeg
+  starts: 2018-03-27T17:45:00.0000000
+  ends: 2018-03-27T20:00:00.0000000
+  venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfblc/
@@ -566,6 +566,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-08-29T06:30:00.0000000
   ends: 2018-08-29T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxmbfb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-09-03T06:30:00.0000000
+  ends: 2018-09-03T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
