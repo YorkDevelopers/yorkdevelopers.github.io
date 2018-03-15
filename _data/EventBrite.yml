@@ -465,13 +465,6 @@
   starts: 2018-03-22T19:00:00.0000000
   ends: 2018-03-22T22:00:00.0000000
   venue: Pioneer Works
-- name: Maker Faire NoVa 2018
-  description: "The Maker Faire NoVa is the biggest Maker Faire in the Washington DC Metro area. This is a must see event if you like science, technology, crafts/artisans, and a day of great entertainment and participating and learning how to make things!\r\nThe official event website is: http://nova.makerfaire.com/\r\nGeorge Mason University - Fairfax, VA\r\nWe are incredibly excited to be working with George Mason University to help sponsor the 5th Annual Maker Faire NoVa. Along with being a great partner for both Makers, Volunteers, and the event space itself, we will have ample free parking on-site!\r\nHow To Attend - Tickets, GMU Student Access\r\nThe event is open to the public but you must have a ticket to attend. Tickets are sold online at a substantial discount if you order ahead. \r\nGeorge Mason University Students, Faculty and Staff will get free access to the Faire; they just need to show their Student/Faculty ID to get a wristband and enter the event.\r\nWhen will Maker Faire NoVa be open to the public?\r\nThe Faire will be open Sunday, March 18, 2018 from 11 am to 5 pm.\r\nWhere can I park?\r\nFree Parking will be available on-site at the George Mason University Fairfax, VA campus. Maker Faire Parking will be in the Rappahannock and Shenandoah garages. See map  http://nova.makerfaire.com/tickets/.\r\nTransportation:\r\nTransportation from the Vienna/Fairfax-GMU metro station to the Faire is available via Gold1, Gold2 or Green buses (25 minute trip). More details on our website http://nova.makerfaire.com/attend/\r\nCan I bring my dog?\r\nService animals only, please.\r\nCan I volunteer at the Maker Faire NoVa?\r\nYes. Volunteers get free admission and a t-shirt. More details: http://nova.makerfaire.com/volunteers/\r\nWhat if it rains?\r\nThe show will go on regardless of the weather! Bring rain gear to keep you dry when walking outdoors. Fortunately, we will have many indoor exhibits to keep the family dry.\r\nWhat can I expect?\r\nTo have a fantastic time! You'll be surprised and intrigued with every corner that you turn.\r\nFine Print\r\nThe event is Rain or Shine. No Refunds/Exchanges. Tickets cannot be replaced.\r\nThis contract limits the liability of Maker Media, Inc. (\"MM\"), Nova Labs and their affiliates. You acknowledge that Maker Faire exhibits and activities are inherently hazardous, and that risks to you as a Maker Faire attendee include physical injury and property damage. You are solely responsible for supervising/controlling the behavior of the children in your party for their safety. By purchasing this ticket and/or participating in Maker Faire exhibits and/or activities, you assume all risks to you and/or your children of such, including damage, loss, harm, injury and death to your person(s) and all risks resulting from negligent instruction or supervision, and you release MM and Nova Labs from all corresponding liability to you and your successors. Your rights are waived to any images and/or recordings you may appear in while at Maker Faire and any/all related promotional or documentary.\r\nMaker Faire NoVa is independently organized and operated under license from Maker Media, Inc. \r\nI understand that by registering here, Maker Media may provide me with updates and information about Maker Faires, other events, and products of interest to the maker community. I understand that I may opt out of these communications at any time.\r\nPrivacy policy: http://makermedia.com/privacy"
-  url: https://www.eventbrite.com/e/maker-faire-nova-2018-tickets-39633227049?aff=ebapi
-  logo: https://cdn.evbuc.com/images/37442709/87851232843/1/original.jpg?h=200&w=450&rect=0,0,2000,1000&s=209159acc6c8968159efbfab90c78fca
-  starts: 2018-03-18T11:00:00.0000000
-  ends: 2018-03-18T17:00:00.0000000
-  venue: George Mason University
 - name: Long Island Reads 2018 with Astronaut Mike Massimino
   description: >
     Long Island astronaut Mike Massimino, author of the spellbinding memoir Spaceman, the 2018 Long Island Reads selection, will speak on Sunday, April 15, 2018 at 2pm at the Patchogue Theatre for the Performing Arts. Free tickets will be available beginning March 1, 2018.
@@ -487,16 +480,6 @@
   starts: 2018-04-15T14:00:00.0000000
   ends: 2018-04-15T15:30:00.0000000
   venue: Patchogue Theatre for the Performing Arts
-- name: South Carrick vs Clement Basketball (boys)
-  description: >
-    *****THIS IS EVENT IS FOR DEMONSTRATION PURPOSES ONLY AND NOT AN ACTUAL EVENT*****
-
-    2016 South Carrick Bears vs Clement Vikings
-  url: https://www.eventbrite.com/e/south-carrick-vs-clement-basketball-boys-tickets-31353693742?aff=ebapi
-  logo: https://cdn.evbuc.com/images/27615494/157219460018/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=271dd3814829b7928d6548b3a4ce231d
-  starts: 2018-09-08T18:30:00.0000000
-  ends: 2018-09-08T21:30:00.0000000
-  venue: South Carrick Gym
 - name: Techstravaganza 2018
   description: >-
     Techstravaganza (also referred to as Techstrav) is an annual STEM outreach event, hosted by Thomas Jefferson High School for Science and Technology for elementary and middle school students.Techstrav attracts thousands of attendees from the DMV area every year. Over 300 TJ student and teacher volunteers engage students in STEM activities and demonstrations, including lava lamps, banana DNA, CS workshops, student robotics teams, and other STEM exhibits.Registration is free!If you are part of a STEM organization, we would love if you or your representatives could come host a display or demonstration at Techstrav! Sponsors and exhibitors will receive exclusive benefits, including the chance to network with bright high school students and display their logo on our flyers and t-shirts.
@@ -544,13 +527,16 @@
   starts: 2018-05-19T10:00:00.0000000
   ends: 2018-05-19T16:00:00.0000000
   venue: Thomas Jefferson High School for Science and Technology
-- name: Data Science Day @ Columbia University 2018
-  description: "Wednesday, March 28, 2018\nCelebrating five years of Data Science at Columbia University. \nJoin us for demos​ and lightning talks by​ Columbia researchers ​presenting their latest work in data science. The event provides a forum for innovators in academia, industry and government to connect. \nFeaturing a Keynote Address by Diane Greene, Google Cloud CEO\nAGENDA \nFeaturing a Keynote Address by Diane Greene, Google Cloud CEO\nLightning Talk Sessions:\nHealth Discovery From and For Data Science\nNicholas P. Tatonetti, Herbert Irving Assistant Professor of Biomedical Informatics\nJeffrey Shaman, Associate Professor of Environmental Health Sciences; Director, Climate and Health Program\nJacqueline Gottlieb, Professor of Neuroscience\nClimate + Finance: Use of environmental data to measure & anticipate financial risk\nGeoffrey Heal, Donald C. Waite III Professor of Social Enterprise in the Faculty of Business; Professor of International & Public Affairs\nLisa Goddard, Director of International Research Institute for Climate and Society\nWolfram Schlenker, Professor of International & Public Affairs\nMachine Learning: The Good, The Bad and The Law\nDavid Blei, Professor of Statistics & Computer Science\nJunfeng Yang, Associate Professor of Computer Science  \nJoshua Mitts, Associate Professor of Law\nFireside Chat: Data and Democracy \nLee C. Bollinger, President, Columbia University in the City of New York\nMore Details to Come!\n\n\nFAQs\nWhat are my transportation/parking options for getting to and from the event?\nPlease visit the following link for directions and parking information: http://transportation.columbia.edu/ For accommodation information please visit: http://www.campustravel.com/university/columbia/\nHow can I contact the organizer with any questions?\nYou may email datascience@columbia.edu. \nWhat's the refund policy?\nThe last opportunity for a refund is March 21st.  \nDo I have to bring my printed ticket to the event?\nIn order to faciliate a smooth registration process, we are asking that you have your printed or mobile ticket ready when checking in.\nDisability Accommodations Columbia University makes every effort to accommodate individuals with disabilities. If you require disability-related accommodations to attend this event, please contact Disability Services at 212-854-2388 or disability@columbia.edu at least 5 business days in advance of the event.Columbia Accessibility Map: http://health.columbia.edu/system/files/content/healthpdfs/DS/AccessibilityMap.pdf"
-  url: https://www.eventbrite.com/e/data-science-day-columbia-university-2018-tickets-39836427828?aff=ebapi
-  logo: https://cdn.evbuc.com/images/38284364/73620850609/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=ed7ff580d9149bf153d9cbca7a84063b
-  starts: 2018-03-28T09:00:00.0000000
-  ends: 2018-03-28T17:00:00.0000000
-  venue: Columbia University
+- name: South Carrick vs Clement Basketball (boys)
+  description: >
+    *****THIS IS EVENT IS FOR DEMONSTRATION PURPOSES ONLY AND NOT AN ACTUAL EVENT*****
+
+    2016 South Carrick Bears vs Clement Vikings
+  url: https://www.eventbrite.com/e/south-carrick-vs-clement-basketball-boys-tickets-31353693742?aff=ebapi
+  logo: https://cdn.evbuc.com/images/27615494/157219460018/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=271dd3814829b7928d6548b3a4ce231d
+  starts: 2018-09-08T18:30:00.0000000
+  ends: 2018-09-08T21:30:00.0000000
+  venue: South Carrick Gym
 - name: The Future of Health Innovation
   description: "The Future of Health Innovation conference presented by the University of Toronto will highlight and showcase health and life sciences innovation from the University Toronto and the Toronto community including those from our affiliated hospital partners. \nThe day will consist of: \n\nTheme 1:\nHealth Technologies – Wearables and Robotics \nThis segment will showcase new and exciting wearable and robotic technologies from the Toronto ecosystem.  Engaging groups such as Toronto Rehab Institute, Institute for Biomaterials and Biomedical Engineering and the Faculty of Applied Sciences and Engineering to discuss the future of robotics in health and the areas in which we are translating research here in Toronto and in partnership with our local Toronto companies. \n\nTheme 2:\nAdvancement of cell-based therapies and tissue-based technologies.  \nAn introduction of the advancement of microfluidics at UofT and organ-on-a chip related technologies.  Highlighting UofT partnerships and top researchers in this field.  This will be followed by a panel discussion on the commercialization of cell therapy and tissue-based technologies and treatments with industry experts, venture capital and pharmaceutical companies in this field.\n\nTechnology/Start-up Showcase\n The technology and start-up showcase will highlight the most innovative health and life sciences companies coming out of the Toronto ecosystem.\n\nList of speakers and details for the event can be found at: \nhttp://www.research.utoronto.ca/2018-futureofhealthinnovation/"
   url: https://www.eventbrite.ca/e/the-future-of-health-innovation-tickets-42907311925?aff=ebapi
@@ -559,6 +545,27 @@
   starts: 2018-04-12T08:30:00.0000000
   ends: 2018-04-12T17:00:00.0000000
   venue: MaRS Building - Auditorium and Lower Concourse
+- name: Data Science Day @ Columbia University 2018
+  description: "Wednesday, March 28, 2018\nCelebrating five years of Data Science at Columbia University. \nJoin us for demos​ and lightning talks by​ Columbia researchers ​presenting their latest work in data science. The event provides a forum for innovators in academia, industry and government to connect. \nFeaturing a Keynote Address by Diane Greene, Google Cloud CEO\nAGENDA \nFeaturing a Keynote Address by Diane Greene, Google Cloud CEO\nLightning Talk Sessions:\nHealth Discovery From and For Data Science\nNicholas P. Tatonetti, Herbert Irving Assistant Professor of Biomedical Informatics\nJeffrey Shaman, Associate Professor of Environmental Health Sciences; Director, Climate and Health Program\nJacqueline Gottlieb, Professor of Neuroscience\nClimate + Finance: Use of environmental data to measure & anticipate financial risk\nGeoffrey Heal, Donald C. Waite III Professor of Social Enterprise in the Faculty of Business; Professor of International & Public Affairs\nLisa Goddard, Director of International Research Institute for Climate and Society\nWolfram Schlenker, Professor of International & Public Affairs\nMachine Learning: The Good, The Bad and The Law\nDavid Blei, Professor of Statistics & Computer Science\nJunfeng Yang, Associate Professor of Computer Science  \nJoshua Mitts, Associate Professor of Law\nFireside Chat: Data and Democracy \nLee C. Bollinger, President, Columbia University in the City of New York\nMore Details to Come!\n\n\nFAQs\nWhat are my transportation/parking options for getting to and from the event?\nPlease visit the following link for directions and parking information: http://transportation.columbia.edu/ For accommodation information please visit: http://www.campustravel.com/university/columbia/\nHow can I contact the organizer with any questions?\nYou may email datascience@columbia.edu. \nWhat's the refund policy?\nThe last opportunity for a refund is March 21st.  \nDo I have to bring my printed ticket to the event?\nIn order to faciliate a smooth registration process, we are asking that you have your printed or mobile ticket ready when checking in.\nDisability Accommodations Columbia University makes every effort to accommodate individuals with disabilities. If you require disability-related accommodations to attend this event, please contact Disability Services at 212-854-2388 or disability@columbia.edu at least 5 business days in advance of the event.Columbia Accessibility Map: http://health.columbia.edu/system/files/content/healthpdfs/DS/AccessibilityMap.pdf\nPlease note that this event is being photographed and videotaped."
+  url: https://www.eventbrite.com/e/data-science-day-columbia-university-2018-tickets-39836427828?aff=ebapi
+  logo: https://cdn.evbuc.com/images/38284364/73620850609/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=ed7ff580d9149bf153d9cbca7a84063b
+  starts: 2018-03-28T09:00:00.0000000
+  ends: 2018-03-28T17:00:00.0000000
+  venue: Columbia University
+- name: MIT Bitcoin Expo 2018
+  description: >-
+    The annual expo, organized by the MIT Bitcoin Club. This year we are doubling the size of the expo, we will have two sessions going on simultaneously. Speakers in one room and panelists in the other.
+
+    March 17th to March 18th. at two of MIT's largest lecture halls, 26-100 and 32-123.
+
+    Registration gives you access to both days. We also will provide lunch, and refreshments throughout the day. You can get more information on speakers and panelists via our website:
+
+    http://mitbitcoinexpo.org
+  url: https://www.eventbrite.com/e/mit-bitcoin-expo-2018-tickets-42412362518?aff=ebapi
+  logo: https://cdn.evbuc.com/images/39890908/239473079947/1/original.jpg?h=200&w=450&rect=187,0,2712,1356&s=c683af56a7ad7e646eb3f7c0ef85c427
+  starts: 2018-03-17T09:00:00.0000000
+  ends: 2018-03-18T17:30:00.0000000
+  venue: 26-100, 32-123
 - name: WSU Public Planetarium Shows - Winter Term 2018
   description: >-
     Join us for our free public planetarium show!
@@ -614,20 +621,35 @@
   starts: 2018-04-16T13:30:00.0000000
   ends: 2018-04-18T15:00:00.0000000
   venue: Grand Wayne Convention Center
-- name: MIT Bitcoin Expo 2018
+- name: RailsConf 2018
+  description: Visit www.railsconf.com for details!
+  url: https://www.eventbrite.com/e/railsconf-2018-tickets-42057695700?aff=ebapi
+  logo: https://cdn.evbuc.com/images/39465750/24918461715/1/original.jpg?h=200&w=450&rect=484,0,1880,940&s=12dc6df5c07bba42ab3f6cb9d2d6e3b7
+  starts: 2018-04-17T09:30:00.0000000
+  ends: 2018-04-19T17:30:00.0000000
+  venue: David L. Lawrence Convention Center
+- name: '"Rocket Men" Book Launch with Apollo 8 Crew'
   description: >-
-    The annual expo, organized by the MIT Bitcoin Club. This year we are doubling the size of the expo, we will have two sessions going on simultaneously. Speakers in one room and panelists in the other.
+    Rocket Men Book Launch with author Robert Kurson and Apollo 8 astronauts Frank Borman, Jim Lovell and Bill Anders
 
-    March 17th to March 18th. at two of MIT's largest lecture halls, 26-100 and 32-123.
+    Thursday, April 5, 2018 at 7 p.m.
 
-    Registration gives you access to both days. We also will provide lunch, and refreshments throughout the day. You can get more information on speakers and panelists via our website:
+    Celebrate the 50th anniversary of the Apollo 8 mission and the release of the new book Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon by Robert Kurson, with a special evening at the Museum of Science and Industry.
 
-    http://mitbitcoinexpo.org
-  url: https://www.eventbrite.com/e/mit-bitcoin-expo-2018-tickets-42412362518?aff=ebapi
-  logo: https://cdn.evbuc.com/images/39890908/239473079947/1/original.jpg?h=200&w=450&rect=187,0,2712,1356&s=c683af56a7ad7e646eb3f7c0ef85c427
-  starts: 2018-03-17T09:00:00.0000000
-  ends: 2018-03-18T17:30:00.0000000
-  venue: 26-100, 32-123
+    Join the crew of Apollo 8 — astronauts Frank Borman, Jim Lovell and Bill Anders — for an exclusive panel discussion with the author. You'll also be able to visit the Apollo 8 capsule they rode to the Moon, and explore select other Museum exhibits in an after-hours environment.
+
+    Admission costs $35 and includes a copy of Rocket Men signed by the author, a panel discussion with the Apollo 8 astronauts, admission to select Museum exhibits, and light snacks. A cash bar will also be available. 
+
+    Discounted parking ($14) will be available in the MSI underground garage.
+
+    Tickets to this event are nonrefundable.
+
+    For more information about this event, email maurice.moore@msichicago.org.
+  url: https://www.eventbrite.com/e/rocket-men-book-launch-with-apollo-8-crew-tickets-43713959630?aff=ebapi
+  logo: https://cdn.evbuc.com/images/41607582/188441344975/1/original.jpg?h=200&w=450&rect=0,5,1920,960&s=a7acdb1a8cd97863d46c3e6c60810027
+  starts: 2018-04-05T19:00:00.0000000
+  ends: 2018-04-05T21:00:00.0000000
+  venue: Museum of Science and Industry, Chicago
 - name: 2018 State Healthcare IT Connect Summit, April 5-6 (pre-conf. on April 4), Hilton Baltimore, Baltimore MD.
   description: >2+
 
@@ -674,13 +696,6 @@
   starts: 2018-04-05T19:30:00.0000000
   ends: 2018-04-06T16:30:00.0000000
   venue: 'Hilton Baltimore Hotel '
-- name: RailsConf 2018
-  description: Visit www.railsconf.com for details!
-  url: https://www.eventbrite.com/e/railsconf-2018-tickets-42057695700?aff=ebapi
-  logo: https://cdn.evbuc.com/images/39465750/24918461715/1/original.jpg?h=200&w=450&rect=484,0,1880,940&s=12dc6df5c07bba42ab3f6cb9d2d6e3b7
-  starts: 2018-04-17T09:30:00.0000000
-  ends: 2018-04-19T17:30:00.0000000
-  venue: David L. Lawrence Convention Center
 - name: 'Patient-Focused Drug Development: Developing and Submitting Proposed Draft Guidance Relating to Patient Experience Data'
   description: "FDA Public Workshop on Patient-Focused Drug Development: Developing and Submitting Proposed Draft Guidance Relating to Patient Experience Data\nOn March 19th, the FDA is hosting a public workshop to convene a discussion on how a person seeking to develop and submit proposed draft guidance relating to patient experience data for consideration by the FDA may submit such proposed draft guidance to the Agency.  This workshop will inform development of patient-focused drug development guidance as required by the 21st Century Cures Act (Cures Act). \nThe purpose of this public workshop is to obtain input from stakeholders on considerations for development and submission of proposed draft guidance relating to patient experience data submitted by an external stakeholder, including: \n(1) Defining the scope of the proposed draft guidance\n(2) Developing the proposed draft guidance\n(3) Submitting the proposed draft guidance to the FDA  \nFDA is seeking information and comments from a broad range of stakeholders, including patients, patient advocates, academic and medical researchers, expert practitioners, drug developers and other interested persons.\nThe workshop website will be updated as workshop materials are developed, including a background document that FDA will post approximately two weeks before the workshop date "
   url: https://www.eventbrite.com/e/patient-focused-drug-development-developing-and-submitting-proposed-draft-guidance-relating-to-tickets-39259933518?aff=ebapi
@@ -688,43 +703,6 @@
   starts: 2018-03-19T13:00:00.0000000
   ends: 2018-03-19T17:00:00.0000000
   venue: FDA White Oak Campus
-- name: STEM Edutainment (Elementary/Middle only)
-  description: >-
-    Join the Savannah State STEM Success Center for fun, exciting, and educational events involving STEM (Science, Technology, Engineering, Mathematics)-based activities!
-
-    DUE TO LIMITED SPACE, PLEASE CONFIRM AN ACCURATE NUMBER OF ATTENDEES DURING REGISTRATION!
-
-    FAQs & Questions???
-
-    What is the STEM Success Center?
-
-    Formerly known in the community as “STEM 360”, a service-based program geared towards the College of Science and Technology undergraduates. Events and programing under this center involve service to the community through undergraduate outreach, including elementary and middle school populations.
-
-    What age group is this event for?
-
-    4th grade - 8th grade, space is limited so register quickly and confirm an accurate number of attendees. 
-
-    How much does this event cost?
-
-    The event is FREE, however, students attending the program will need to provide their own lunch. Lunch will be available for purchase through Thompson Hospitality Dining Services, $10 will cover the cost of lunch. For questions about meals and dietary needs call 912-358-3135
-
-    Do I have to stay with my child, can I volunteer?
-
-    Unless your child is coming with a designated group (i.e. school classes, after-school programs, church groups, etc.) we ask that you accompany your child through the duration of the event. If you would like to volunteer, please contact program manager Mr. Cedric Beamon at beamonc@savannahstate.edu or 912-358-3185.
-
-    What should my child wear?
-
-    Dress COMFORTABLE, walking shoes and “play clothes” …some water is involved in one of the activities, so dress your child in clothes you do not mind them getting slightly wet in for the day.
-
-    What should my child bring?
-
-    We do suggest to bring a bottle of water and light snack, but it is not necessary. If your child needs to take any medication, or uses an inhaler, please bring all needed material and alert the attending staff upon check-in.
-  url: https://www.eventbrite.com/e/stem-edutainment-elementarymiddle-only-tickets-41217637062?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38756511/5570662573/1/original.jpg?h=200&w=450&rect=0,49,1874,937&s=471812c782ca3f66a59b406400cb8a2b
-  starts: 2018-03-31T09:00:00.0000000
-  ends: 2018-03-31T15:00:00.0000000
-  venue: Savannah State University Tiger Arena
 - name: 'Data Science in 30 Minutes: Infrastructure for Usable Machine Learning with Spark Creator and Stanford Professor, Matei Zaharia'
   description: >-
     Join The Data Incubator and Databricks co-founder, Matei Zaharia, Ph.D for the next installment of our free online webinar series, Data Science in 30 minutes: Infrastructure for Usable Machine Learning.
@@ -749,6 +727,14 @@
   starts: 2018-04-03T17:30:00.0000000
   ends: 2018-04-03T18:00:00.0000000
   venue: Online
+- name: BrrCON '18
+  description: BrrCon is a FREE cyber security training conference with the mission to facilitate knowledge sharing, network with peers and improve capabilities within the cyber security community. BrrCon is funded exclusively by regional businesses and there will be no sponsor booths or vendor pitches.
+  url: https://www.eventbrite.com/e/brrcon-18-tickets-43683837534?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/41554927/14990315791/1/original.jpg?h=200&w=450&rect=0,387,1984,992&s=5d5d1536ede5567f73afd1e62d7fa637
+  starts: 2018-06-08T07:30:00.0000000
+  ends: 2018-06-08T17:00:00.0000000
+  venue: Minneapolis Convention Center
 - name: Rhode Island Robot Block Party 2018
   description: >-
     Meet the next generation of robots used in research, education, work and play at the 5th Annual Robot Block Party. A free family festival, chosen as a "Best of Rhode Island" event by the editors of RI Monthly, the Rhode Island Robot Block Party includes hands-on robotics activities, demonstrations, and exhibits.
@@ -801,97 +787,6 @@
   starts: 2018-03-29T18:30:00.0000000
   ends: 2018-03-29T19:45:00.0000000
   venue: Carnegie Institution for Science
-- name: '"Rocket Men" Book Launch with Apollo 8 Crew'
-  description: >-
-    Rocket Men Book Launch with author Robert Kurson and Apollo 8 astronauts Frank Borman, Jim Lovell and Bill Anders
-
-    Thursday, April 5, 2018 at 7 p.m.
-
-    Celebrate the 50th anniversary of the Apollo 8 mission and the release of the new book Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon by Robert Kurson, with a special evening at the Museum of Science and Industry.
-
-    Join the crew of Apollo 8 — astronauts Frank Borman, Jim Lovell and Bill Anders — for an exclusive panel discussion with the author. You'll also be able to visit the Apollo 8 capsule they rode to the Moon, and explore select other Museum exhibits in an after-hours environment.
-
-    Admission costs $35 and includes a copy of Rocket Men signed by the author, a panel discussion with the Apollo 8 astronauts, admission to select Museum exhibits, and light snacks. A cash bar will also be available. 
-
-    Discounted parking ($14) will be available in the MSI underground garage.
-
-    Tickets to this event are nonrefundable.
-
-    For more information about this event, email maurice.moore@msichicago.org.
-  url: https://www.eventbrite.com/e/rocket-men-book-launch-with-apollo-8-crew-tickets-43713959630?aff=ebapi
-  logo: https://cdn.evbuc.com/images/41607582/188441344975/1/original.jpg?h=200&w=450&rect=0,5,1920,960&s=a7acdb1a8cd97863d46c3e6c60810027
-  starts: 2018-04-05T19:00:00.0000000
-  ends: 2018-04-05T21:00:00.0000000
-  venue: Museum of Science and Industry, Chicago
-- name: BrrCON '18
-  description: BrrCon is a FREE cyber security training conference with the mission to facilitate knowledge sharing, network with peers and improve capabilities within the cyber security community. BrrCon is funded exclusively by regional businesses and there will be no sponsor booths or vendor pitches.
-  url: https://www.eventbrite.com/e/brrcon-18-tickets-43683837534?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/41554927/14990315791/1/original.jpg?h=200&w=450&rect=0,387,1984,992&s=5d5d1536ede5567f73afd1e62d7fa637
-  starts: 2018-06-08T07:30:00.0000000
-  ends: 2018-06-08T17:00:00.0000000
-  venue: Minneapolis Convention Center
-- name: 'Trottier Symposium: Planning for Resiliency in the Face of Climate Change'
-  description: "\nThe 5th annual Trottier Symposium on Sustainable Engineering, Energy and Design\n\nPLANNING FOR RESILIENCY IN THE FACE OF CLIMATE CHANGE\nEngineering and design for sustainability are an essential part of a multi-faceted response to climate change particularly in urban centres, which may include increasing our resiliency in the face of extreme weather events, changing our water management practices, or adapting our cities and infrastructure to an unpredictable future. There is a need to identify robust strategies for responding to the challenges brought by climate change through adaptation, reorganization, and evolution. Our response to climate change must include solutions that allow our socio-ecological systems to not only survive, but thrive.\nThe 2018 5th Annual Trottier Symposium on Sustainable Engineering, Energy, and Design will focus on resilience and human responses to the threats brought on by climate change, while considering the following questions:\n\nWhat is resilience and why is it so important to ensure sustainability in the context of urbanization and climate change?\nHow can we be more resilient to disruptions such as extreme weather events, floods, drought, sea level rise, and heat waves? What solutions are being imagined, developed, and implemented?\nHow can infrastructure be protected and self-renewed following extreme weather events or other stresses exacerbated by climate change?\n\n\nSpeakers\nThe symposium is a free, public event, featuring prominent speakers on each day of the 2 day event. \nApril 4th - Day 1 - 6pm to 8pm\nGuy Nordenson, Professor of Structural Engineering and Architecture, Princeton University School of Architecture\nTITLE OF PRESENTATION TO BE ANNOUNCED\n\nPippa Brashear, Director of Planning and Resilience, SCAPE\n\nDESIGNING FOR RESILIENCE: ECOLOGY + ENGINEERING + ENGAGEMENT\n\nTranslating the ideas of resilience into realizable actions and implementable designs can be challenging. We are forced to design with uncertain and incomplete information for an environment that is changing around us. However, the need for action and innovation is urgent, and success requires collaborative and interdisciplinary action. This presentation explores the process that has taken one innovative coastal resilience project from conceptual idea to the later stages of design and the lessons learned about integrating and implementing physical, ecological, and social resilience on the way.\n\n\n\nAlan De Sousa, Borough Mayor of Saint-Laurent and City of Montreal Councillor\nTITLE OF PRESENTATION TO BE ANNOUNCED\n\nApril 5th - Day 2 - 6pm to 8pm\nKaren Seto, Professor of Geography and Urbanization Science, Yale University School of Forestry and Environmental Studies\nHOTTER, WETTER, DRIER: GLOBAL TRENDS IN URBANIZATION AND CHALLENGES FOR RESILIENCE\nThis talk will focus on global trends in urbanization and exposure to climate change impacts. It will highlight extreme climate events around the world - bomb cyclones, wildfires, floods, droughts - and how future urbanization may increase risk and vulnerability to these hazards.\n\nPhilippe Gourbesville, Professor Hydroinformatics and Water Engineering, University of Nice Sophia Antipolis\nRESILIENCE: OPPORTUNITIES AND CHALLENGES FOR CITIES\nDuring the last decade, urban development has reached new submits with generation of mega cities that concentrates several millions of inhabitants. Those new urban environments represent unknown challenges for modern societies that are still using – implicitly or explicitly – the same concepts for urban development since millennia. Sustainability of urban centres is today a major priority that has to be approached in a holistic way. The size of cities requests to rethink and review some of the engineering concepts that are currently used and to shift from the centralized approach to the distributed and connected paradigm. At the same time, gradual sophistication of urban environment has generated a significant increase of global vulnerability regarding extreme weather events that are frequently affecting urban communities. \n\nMore Information: http://www.trottiersymposium.org/\n\n\n\n\n\n\n5e Symposium Trottier annuel sur l’ingénierie, l’énergie et la conception durables\n\nVers une Stratégie de Résilience Face aux Changements Climatiques \n En matière de développement durable, l’ingénierie et la conception sont des éléments essentiels à une réponse multidimensionnelle au changement climatique, particulièrement dans les centres urbains. Il pourrait s’avérer nécessaire d’augmenter notre résilience dans le contexte des phénomènes climatiques extrêmes, de changer nos pratiques de gestion des ressources en eau ou d’adapter nos villes et nos infrastructures pour faire face à un avenir imprévisible. Nous devons donc définir de solides stratégies pour répondre aux défis entraînés par les changements climatiques, grâce à l’adaptation, à la réorganisation et à l’évolution. Notre réponse aux changements climatiques doit comprendre des solutions qui permettront non seulement à nos systèmes socio-écologiques de survivre, mais également de prospérer.\nLe 5e Symposium Trottier annuel sur l’ingénierie, l’énergie et la conception durables, édition 2018, porte principalement sur la résilience et les réponses humaines aux menaces qui découlent des changements climatiques, tout en se penchant sur les questions suivantes :\n\nQu’est-ce que la résilience et pourquoi est-il si important d’assurer la durabilité dans le contexte de l’urbanisation et des changements climatiques?\nComment pouvons-nous faire preuve d’une plus grande résilience aux perturbations comme les phénomènes climatiques extrêmes, les inondations, les périodes de sécheresse, l’élévation du niveau de la mer et les vagues de chaleur? Quelles solutions sommes-nous en train de concevoir, d’élaborer et de mettre en œuvre?\nComment pouvons-nous protéger les infrastructures et comment celles-ci peuvent-elles s’autorenouveler sous le coup des phénomènes climatiques extrêmes ou des autres stress aggravés par le changement climatique?\n\n\n\nConférenciers\n\nÉvénement public gratuit, le symposium présente des conférenciers de renom durant les deux jours du symposium. Les présentations seront données en anglais. \n  \n\n4 avril – 1re journée – de 18 h à 20 h\n\nGuy Nordenson, professeur, ingénierie structurale et architecture, école d’architecture de l’Université Princeton\nPippa Brashear, directrice de la planification et de la résilience, SCAPE\nAlan de Sousa, Maire d’arrondissement Saint-Laurent et conseiller de la ville ensemble Montréal\n \n\n5 avril – 2e journée - de 18 h à 20 h\n\nKaren Seto, professeure, géographie et études en urbanisme, école de foresterie et d’études environnementales de l’Université Yale \nPhilippe Gourbesville, professeur, hydro-informatique et ingénierie de l’eau, Université Nice-Sophia-Antipolis\n \nPour en savoir plus : http://www.trottiersymposium.org/\n\n"
-  url: https://www.eventbrite.ca/e/trottier-symposium-planning-for-resiliency-in-the-face-of-climate-change-tickets-42366576571?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/41968210/62693015505/1/original.jpg?h=200&w=450&rect=0,30,960,480&s=49d757469827b4a31c0d5f15d87cddcb
-  starts: 2018-04-04T18:00:00.0000000
-  ends: 2018-04-04T20:00:00.0000000
-  venue: Centre Mont-Royal
-- name: Home School Electrical Safety Day
-  description: >-
-    On Friday, April 20 home school families are invited to visit First Electric Cooperative in Jacksonville for a Home School Families - Electrical Safety Day. This event will allow students of all ages to learn more about electricity and how to live, work and play safely around it.
-
-    This year we have an exciting Science Show presented by the Museum of Discovery to kick things off.  This presentation will be loaded with cool science experiements that are sure to amaze both students and parents alike.
-
-    For 1st through 5th grade students, we will have a special guest here to present an age-appropriate presentation called "Making Accidents Disappear". This presentation uses magic tricks to help students learn the three magic words to keep you safe when you encounter a dangerous situation involving electricity.
-
-    Students in 6th through 12th grade will see First Electric's High Voltage Safety Demonstration. This presentation teaches students how electricity is generated and delivered to your home as well as information about the electric grid and the many safety measures our linemen take to protect themselves while working with high voltage lines. Come let us show you what 7,620 volts of electricity looks like!
-
-    This exciting opportunity for home school families has limited space available so sign up today and reserve a space for your students. There are three time slots your family may choose from; 8:30 a.m., 11 a.m. and 1:30 p.m. The presentations will take approximately 90 minutes and afterwards, students will be able to test their knowledge by visiting multiple learning stations to learn even more about electricity and electrical safety. Students will also have the chance to visit our dispatch center to get a behind the scenes look at the technology and coordination it takes to deliver safe and reliable electricity to thousands of homes, businesses and farms in our state. #FirstElectric#ImprovingQualityofLife
-  url: https://www.eventbrite.com/e/home-school-electrical-safety-day-tickets-42945957515?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/40665802/206098770756/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=c9b60d58e5bbbfbebb51daff05aa1d98
-  starts: 2018-04-20T08:30:00.0000000
-  ends: 2018-04-20T15:30:00.0000000
-  venue: First Electric Cooperative
-- name: Lower Hudson Valley Engineering Expo 2018
-  description: >-
-    Students and Families visiting the Lower Hudson Valley Engineering Expo Register Here on EventBrite!
-
-
-    LEARN about career opportunities in the engineering field and about career opportunities in fields from bridge and building design to the world of nanotechnology and biochemical. Learn about college curriculum offerings, admission requirements, and financial aid information.
-
-    MEET representatives of over 40 of the region’s leading learning institutions including Rutgers, Cornell, Columbia, Penn State, Villanova, RPI and SUNY.
-
-    DISCOVER aisles of interactive displays and exhibits focusing on engineering and higher learning opportunities to help you meet the challenges of today’s economic uncertainties.Don’t miss this opportunity to take control of your educational future, visit this year’s Engineering EXPO.Learn . . . Meet . . . Discover!  . . . You can be an engineer!
-
-
-    LEARN MORE AT OUR WEBSITE http://www.beanengineer.org/
-
-
-    PLEASE READ THIS MESSAGE FROM THE EXPO COMMITTEE:  Please register here on Eventbrite and bring your ticket to the door, we will also have a guest list if you forget your ticket! You may register at the door and enter for free as well, but registering here on Eventbrite will prevent you from waiting on line at the event. Please register ALL of those that will be coming with you, EACH REGISTRATION BOTH HERE ON EVENTBRITE AND AT THE DOOR IS A CHANCE TO WIN ONE OF OUR FREE GoPros!!! We hope you enjoy the Expo!
-  url: https://www.eventbrite.com/e/lower-hudson-valley-engineering-expo-2018-tickets-38499623410?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/36069192/197760172318/1/original.jpg?h=200&w=450&rect=0,1,478,239&s=d7536f8de2d85ad28020070fddd01f49
-  starts: 2018-04-15T11:00:00.0000000
-  ends: 2018-04-15T15:30:00.0000000
-  venue: White Plains Senior High School
-- name: South Carrick vs Clement Boys Football
-  description: '*****THIS IS EVENT IS FOR DEMONSTRATION PURPOSES ONLY AND NOT AN ACTUAL EVENT*****'
-  url: https://www.eventbrite.com/e/south-carrick-vs-clement-boys-football-registration-31353077900?aff=ebapi
-  logo: https://cdn.evbuc.com/images/27615812/157219460018/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=adc17d14e8eb3ccfa10e302cf29fb194
-  starts: 2018-09-29T19:00:00.0000000
-  ends: 2018-09-29T22:00:00.0000000
-  venue: South Carrick Stadium
-- name: Undoing the Future, a lecture by Karen Barad
-  description: 'The indeterminacy of time-being at the core of quantum theory troubles the scalar distinction between the world of subatomic particles and that of social phenomena such as colonialism, capitalism, militarism, racism, nationalism and environmental destruction – all of which are entangled with nuclear and particle physics research. Quantum physics is a material-discursive practice with direct ties to the military-industrial complex, and while it gave birth to the atomic age, quantum physics disrupts classical Newtonian physics (which has its own troubled legacy in the service of war, colonialism, capitalist expansion, and empire building), including its foundational notions of space, time, and matter. In the annual Roslyn Silver ’27 Science Lecture, Karen Barad takes up quantum physics’ immanent deconstructive dynamics, consider ways in which quantum physics troubles modernist conceptions of time, and ask whether quantum temporalities might offer radical political imaginaries for cohabiting this planet more justly by undoing the future.Karen Barad is Professor of Feminist Studies, Philosophy, and History of Consciousness at the University of California, Santa Cruz. There, she co-directs the Science & Justice Graduate Training Program, funded by the National Science Foundation, which “trains science and engineering students alongside social science and humanities students to identify and respond to moments where research requires attentiveness to questions of policy, ethics, and justice.” She has a doctorate in theoretical partical physics and is the author of author of Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning.Details and AccessibilityThis event is free and open to the public. The venue is accessible to people with mobility disabilities. Please contact BCRW for additional accessibility needs.'
-  url: https://www.eventbrite.com/e/undoing-the-future-a-lecture-by-karen-barad-tickets-41563678080?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38989446/26777111825/1/original.jpg?h=200&w=450&rect=0,129,400,200&s=de40d3f61c0e92bd7abef7d6fe1b7711
-  starts: 2018-03-19T18:00:00.0000000
-  ends: 2018-03-19T19:30:00.0000000
 - name: Security B-Sides Orlando 2018
   description: >+
      
@@ -919,6 +814,67 @@
   starts: 2018-04-07T08:00:00.0000000
   ends: 2018-04-07T17:00:00.0000000
   venue: Full Sail Live Venue
+- name: 'Trottier Symposium: Planning for Resiliency in the Face of Climate Change'
+  description: "\nThe 5th annual Trottier Symposium on Sustainable Engineering, Energy and Design\n\nPLANNING FOR RESILIENCY IN THE FACE OF CLIMATE CHANGE\nEngineering and design for sustainability are an essential part of a multi-faceted response to climate change particularly in urban centres, which may include increasing our resiliency in the face of extreme weather events, changing our water management practices, or adapting our cities and infrastructure to an unpredictable future. There is a need to identify robust strategies for responding to the challenges brought by climate change through adaptation, reorganization, and evolution. Our response to climate change must include solutions that allow our socio-ecological systems to not only survive, but thrive.\nThe 2018 5th Annual Trottier Symposium on Sustainable Engineering, Energy, and Design will focus on resilience and human responses to the threats brought on by climate change, while considering the following questions:\n\nWhat is resilience and why is it so important to ensure sustainability in the context of urbanization and climate change?\nHow can we be more resilient to disruptions such as extreme weather events, floods, drought, sea level rise, and heat waves? What solutions are being imagined, developed, and implemented?\nHow can infrastructure be protected and self-renewed following extreme weather events or other stresses exacerbated by climate change?\n\n\nSpeakers\nThe symposium is a free, public event, featuring prominent speakers on each day of the 2 day event. \nApril 4th - Day 1 - 6pm to 8pm\nGuy Nordenson, Professor of Structural Engineering and Architecture, Princeton University School of Architecture\nTITLE OF PRESENTATION TO BE ANNOUNCED\n\nPippa Brashear, Director of Planning and Resilience, SCAPE\n\nDESIGNING FOR RESILIENCE: ECOLOGY + ENGINEERING + ENGAGEMENT\n\nTranslating the ideas of resilience into realizable actions and implementable designs can be challenging. We are forced to design with uncertain and incomplete information for an environment that is changing around us. However, the need for action and innovation is urgent, and success requires collaborative and interdisciplinary action. This presentation explores the process that has taken one innovative coastal resilience project from conceptual idea to the later stages of design and the lessons learned about integrating and implementing physical, ecological, and social resilience on the way.\n\n\n\nAlan De Sousa, Borough Mayor of Saint-Laurent and City of Montreal Councillor\nTITLE OF PRESENTATION TO BE ANNOUNCED\n\nApril 5th - Day 2 - 6pm to 8pm\nKaren Seto, Professor of Geography and Urbanization Science, Yale University School of Forestry and Environmental Studies\nHOTTER, WETTER, DRIER: GLOBAL TRENDS IN URBANIZATION AND CHALLENGES FOR RESILIENCE\nThis talk will focus on global trends in urbanization and exposure to climate change impacts. It will highlight extreme climate events around the world - bomb cyclones, wildfires, floods, droughts - and how future urbanization may increase risk and vulnerability to these hazards.\n\nPhilippe Gourbesville, Professor Hydroinformatics and Water Engineering, University of Nice Sophia Antipolis\nRESILIENCE: OPPORTUNITIES AND CHALLENGES FOR CITIES\nDuring the last decade, urban development has reached new submits with generation of mega cities that concentrates several millions of inhabitants. Those new urban environments represent unknown challenges for modern societies that are still using – implicitly or explicitly – the same concepts for urban development since millennia. Sustainability of urban centres is today a major priority that has to be approached in a holistic way. The size of cities requests to rethink and review some of the engineering concepts that are currently used and to shift from the centralized approach to the distributed and connected paradigm. At the same time, gradual sophistication of urban environment has generated a significant increase of global vulnerability regarding extreme weather events that are frequently affecting urban communities. \n\nMore Information: http://www.trottiersymposium.org/\n\n\n\n\n\n\n5e Symposium Trottier annuel sur l’ingénierie, l’énergie et la conception durables\n\nVers une Stratégie de Résilience Face aux Changements Climatiques \n En matière de développement durable, l’ingénierie et la conception sont des éléments essentiels à une réponse multidimensionnelle au changement climatique, particulièrement dans les centres urbains. Il pourrait s’avérer nécessaire d’augmenter notre résilience dans le contexte des phénomènes climatiques extrêmes, de changer nos pratiques de gestion des ressources en eau ou d’adapter nos villes et nos infrastructures pour faire face à un avenir imprévisible. Nous devons donc définir de solides stratégies pour répondre aux défis entraînés par les changements climatiques, grâce à l’adaptation, à la réorganisation et à l’évolution. Notre réponse aux changements climatiques doit comprendre des solutions qui permettront non seulement à nos systèmes socio-écologiques de survivre, mais également de prospérer.\nLe 5e Symposium Trottier annuel sur l’ingénierie, l’énergie et la conception durables, édition 2018, porte principalement sur la résilience et les réponses humaines aux menaces qui découlent des changements climatiques, tout en se penchant sur les questions suivantes :\n\nQu’est-ce que la résilience et pourquoi est-il si important d’assurer la durabilité dans le contexte de l’urbanisation et des changements climatiques?\nComment pouvons-nous faire preuve d’une plus grande résilience aux perturbations comme les phénomènes climatiques extrêmes, les inondations, les périodes de sécheresse, l’élévation du niveau de la mer et les vagues de chaleur? Quelles solutions sommes-nous en train de concevoir, d’élaborer et de mettre en œuvre?\nComment pouvons-nous protéger les infrastructures et comment celles-ci peuvent-elles s’autorenouveler sous le coup des phénomènes climatiques extrêmes ou des autres stress aggravés par le changement climatique?\n\n\n\nConférenciers\n\nÉvénement public gratuit, le symposium présente des conférenciers de renom durant les deux jours du symposium. Les présentations seront données en anglais. \n  \n\n4 avril – 1re journée – de 18 h à 20 h\n\nGuy Nordenson, professeur, ingénierie structurale et architecture, école d’architecture de l’Université Princeton\nPippa Brashear, directrice de la planification et de la résilience, SCAPE\nAlan de Sousa, Maire d’arrondissement Saint-Laurent et conseiller de la ville ensemble Montréal\n \n\n5 avril – 2e journée - de 18 h à 20 h\n\nKaren Seto, professeure, géographie et études en urbanisme, école de foresterie et d’études environnementales de l’Université Yale \nPhilippe Gourbesville, professeur, hydro-informatique et ingénierie de l’eau, Université Nice-Sophia-Antipolis\n \nPour en savoir plus : http://www.trottiersymposium.org/\n\n"
+  url: https://www.eventbrite.ca/e/trottier-symposium-planning-for-resiliency-in-the-face-of-climate-change-tickets-42366576571?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/41968210/62693015505/1/original.jpg?h=200&w=450&rect=0,30,960,480&s=49d757469827b4a31c0d5f15d87cddcb
+  starts: 2018-04-04T18:00:00.0000000
+  ends: 2018-04-04T20:00:00.0000000
+  venue: Centre Mont-Royal
+- name: Lower Hudson Valley Engineering Expo 2018
+  description: >-
+    Students and Families visiting the Lower Hudson Valley Engineering Expo Register Here on EventBrite!
+
+
+    LEARN about career opportunities in the engineering field and about career opportunities in fields from bridge and building design to the world of nanotechnology and biochemical. Learn about college curriculum offerings, admission requirements, and financial aid information.
+
+    MEET representatives of over 40 of the region’s leading learning institutions including Rutgers, Cornell, Columbia, Penn State, Villanova, RPI and SUNY.
+
+    DISCOVER aisles of interactive displays and exhibits focusing on engineering and higher learning opportunities to help you meet the challenges of today’s economic uncertainties.Don’t miss this opportunity to take control of your educational future, visit this year’s Engineering EXPO.Learn . . . Meet . . . Discover!  . . . You can be an engineer!
+
+
+    LEARN MORE AT OUR WEBSITE http://www.beanengineer.org/
+
+
+    PLEASE READ THIS MESSAGE FROM THE EXPO COMMITTEE:  Please register here on Eventbrite and bring your ticket to the door, we will also have a guest list if you forget your ticket! You may register at the door and enter for free as well, but registering here on Eventbrite will prevent you from waiting on line at the event. Please register ALL of those that will be coming with you, EACH REGISTRATION BOTH HERE ON EVENTBRITE AND AT THE DOOR IS A CHANCE TO WIN ONE OF OUR FREE GoPros!!! We hope you enjoy the Expo!
+  url: https://www.eventbrite.com/e/lower-hudson-valley-engineering-expo-2018-tickets-38499623410?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/36069192/197760172318/1/original.jpg?h=200&w=450&rect=0,1,478,239&s=d7536f8de2d85ad28020070fddd01f49
+  starts: 2018-04-15T11:00:00.0000000
+  ends: 2018-04-15T15:30:00.0000000
+  venue: White Plains Senior High School
+- name: Home School Electrical Safety Day
+  description: >-
+    On Friday, April 20 home school families are invited to visit First Electric Cooperative in Jacksonville for a Home School Families - Electrical Safety Day. This event will allow students of all ages to learn more about electricity and how to live, work and play safely around it.
+
+    This year we have an exciting Science Show presented by the Museum of Discovery to kick things off.  This presentation will be loaded with cool science experiements that are sure to amaze both students and parents alike.
+
+    For 1st through 5th grade students, we will have a special guest here to present an age-appropriate presentation called "Making Accidents Disappear". This presentation uses magic tricks to help students learn the three magic words to keep you safe when you encounter a dangerous situation involving electricity.
+
+    Students in 6th through 12th grade will see First Electric's High Voltage Safety Demonstration. This presentation teaches students how electricity is generated and delivered to your home as well as information about the electric grid and the many safety measures our linemen take to protect themselves while working with high voltage lines. Come let us show you what 7,620 volts of electricity looks like!
+
+    This exciting opportunity for home school families has limited space available so sign up today and reserve a space for your students. There are three time slots your family may choose from; 8:30 a.m., 11 a.m. and 1:30 p.m. The presentations will take approximately 90 minutes and afterwards, students will be able to test their knowledge by visiting multiple learning stations to learn even more about electricity and electrical safety. Students will also have the chance to visit our dispatch center to get a behind the scenes look at the technology and coordination it takes to deliver safe and reliable electricity to thousands of homes, businesses and farms in our state. #FirstElectric#ImprovingQualityofLife
+  url: https://www.eventbrite.com/e/home-school-electrical-safety-day-tickets-42945957515?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/40665802/206098770756/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=c9b60d58e5bbbfbebb51daff05aa1d98
+  starts: 2018-04-20T08:30:00.0000000
+  ends: 2018-04-20T15:30:00.0000000
+  venue: First Electric Cooperative
+- name: Undoing the Future, a lecture by Karen Barad
+  description: 'The indeterminacy of time-being at the core of quantum theory troubles the scalar distinction between the world of subatomic particles and that of social phenomena such as colonialism, capitalism, militarism, racism, nationalism and environmental destruction – all of which are entangled with nuclear and particle physics research. Quantum physics is a material-discursive practice with direct ties to the military-industrial complex, and while it gave birth to the atomic age, quantum physics disrupts classical Newtonian physics (which has its own troubled legacy in the service of war, colonialism, capitalist expansion, and empire building), including its foundational notions of space, time, and matter. In the annual Roslyn Silver ’27 Science Lecture, Karen Barad takes up quantum physics’ immanent deconstructive dynamics, consider ways in which quantum physics troubles modernist conceptions of time, and ask whether quantum temporalities might offer radical political imaginaries for cohabiting this planet more justly by undoing the future.Karen Barad is Professor of Feminist Studies, Philosophy, and History of Consciousness at the University of California, Santa Cruz. There, she co-directs the Science & Justice Graduate Training Program, funded by the National Science Foundation, which “trains science and engineering students alongside social science and humanities students to identify and respond to moments where research requires attentiveness to questions of policy, ethics, and justice.” She has a doctorate in theoretical partical physics and is the author of author of Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning.Details and AccessibilityThis event is free and open to the public. The venue is accessible to people with mobility disabilities. Please contact BCRW for additional accessibility needs.'
+  url: https://www.eventbrite.com/e/undoing-the-future-a-lecture-by-karen-barad-tickets-41563678080?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38989446/26777111825/1/original.jpg?h=200&w=450&rect=0,129,400,200&s=de40d3f61c0e92bd7abef7d6fe1b7711
+  starts: 2018-03-19T18:00:00.0000000
+  ends: 2018-03-19T19:30:00.0000000
+- name: South Carrick vs Clement Boys Football
+  description: '*****THIS IS EVENT IS FOR DEMONSTRATION PURPOSES ONLY AND NOT AN ACTUAL EVENT*****'
+  url: https://www.eventbrite.com/e/south-carrick-vs-clement-boys-football-registration-31353077900?aff=ebapi
+  logo: https://cdn.evbuc.com/images/27615812/157219460018/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=adc17d14e8eb3ccfa10e302cf29fb194
+  starts: 2018-09-29T19:00:00.0000000
+  ends: 2018-09-29T22:00:00.0000000
+  venue: South Carrick Stadium
 - name: 'The Black is Tech Conference: East'
   description: "\nThe Black is Tech Conference will bring thousands of tech enthusiasts in the Black Community for a day of exhibitions, seminars and everything tech.\n\n\n\n\n\nThis event is a continuation of the movement to create a stronger presence of the black community in the tech ecosystem. \n\n\n\n\n\nThe event will include Seminars and Panel Discussions led by seasoned Tech Entrepreneurs in the tech community (Some of the names you already know. TBA). There will also be a large exhibit Hall of Startups with black founders as well as some of the popular tech companies in the industry. \n\n\n\n\n\nThere will be smaller talk sessions on the current state of tech and other trending topics including Artificial Intelligence, Blockchain, and more. There will be games, networking and more at this event. The Black is Tech Conference hopes to be an all -inclusive event that touches various areas of technology. \n\n\n\n\n\nNote: We are not making this event only for the Techie. This is for anyone who is excited about technology and the many ways it has and continues to make the world a much better place. It will also be a good platform to show the contributions of the black industry to technology. There is a little tech in all of us... So Techies and Non-Techies are welcome. \n\n\n\n\n\n*More Announcements to Follow.\n\n\n*This event is for the entire United States residents and not NYC and surrounding residents alone. We are working on getting discounted travel packages for attendees that plan to travel for this event. \n\n\n\n\n-Venue (TBA)\n\n\n\n-Ticket Sales begin in March. Click on Ticket Link to be notified when tickets go on sale and register for a free ticket. Note that the free RSVP is not a ticket for admission. We'll be sending an email once to our RSVP list once ticket sales go live. \n\n\n"
   url: https://www.eventbrite.com/e/the-black-is-tech-conference-east-tickets-42775801574?aff=ebapi
@@ -927,6 +883,23 @@
   starts: 2018-08-18T11:00:00.0000000
   ends: 2018-08-18T20:00:00.0000000
   venue: New York
+- name: AbelCine Warehouse Sale - NY
+  description: >-
+    Join AbelCine in NY on Saturday, March 17 for a special one day only sale event!
+
+    We've cleaned out our inventory and for one day only, we're offering up to 80% off a wide range of new, open-box, clearance, and demo products including cameras, lenses, monitors, accessories, and more. There are limited quantities available and you must be present to purchase. No items can be reserved ahead of time and prices will be announced at the sale. Doors open promptly at 9am and all sales are final.
+
+    On sale will be products from the following manufacturers:
+
+    ARRI, Atomos, Cartoni, Core SWX, Dedolight, Genus, Kessler, Miller, Omega, Panasonic, Pelican, Portabrace, RED, Schneider, Shape, Sony, Teradek, Zacuto, Zeiss, and more!
+
+    On March 17, interested customers are invited to stop by and shop the deals in our NY community lounge - light snacks and refreshments will be served. AbelCine staff will be available throughout the event, so guests should feel free to stop by any time from 9am to 1pm. Don't miss out on these deals!
+  url: https://www.eventbrite.com/e/abelcine-warehouse-sale-ny-tickets-43672318079?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/41736088/17361061653/1/original.jpg?h=200&w=450&rect=0,0,2030,1015&s=b3a30226332341ba5d3e7dc21406f798
+  starts: 2018-03-17T09:00:00.0000000
+  ends: 2018-03-17T13:00:00.0000000
+  venue: AbelCine, New York
 - name: Web à Québec 2018 (WAQ18)
   description: >-
     LE PLUS GRAND ÉVÉNEMENT NUMÉRIQUE FRANCOPHONE EN AMÉRIQUE DU NORD EST DE RETOUR POUR UNE 8e ÉDITION !  
@@ -988,23 +961,6 @@
   starts: 2018-04-10T08:30:00.0000000
   ends: 2018-04-12T17:00:00.0000000
   venue: Le Terminal - Port de Québec
-- name: AbelCine Warehouse Sale - NY
-  description: >-
-    Join AbelCine in NY on Saturday, March 17 for a special one day only sale event!
-
-    We've cleaned out our inventory and for one day only, we're offering up to 80% off a wide range of new, open-box, clearance, and demo products including cameras, lenses, monitors, accessories, and more. There are limited quantities available and you must be present to purchase. No items can be reserved ahead of time and prices will be announced at the sale. Doors open promptly at 9am and all sales are final.
-
-    On sale will be products from the following manufacturers:
-
-    ARRI, Atomos, Cartoni, Core SWX, Dedolight, Genus, Kessler, Miller, Omega, Panasonic, Pelican, Portabrace, RED, Schneider, Shape, Sony, Teradek, Zacuto, Zeiss, and more!
-
-    On March 17, interested customers are invited to stop by and shop the deals in our NY community lounge - light snacks and refreshments will be served. AbelCine staff will be available throughout the event, so guests should feel free to stop by any time from 9am to 1pm. Don't miss out on these deals!
-  url: https://www.eventbrite.com/e/abelcine-warehouse-sale-ny-tickets-43672318079?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/41736088/17361061653/1/original.jpg?h=200&w=450&rect=0,0,2030,1015&s=b3a30226332341ba5d3e7dc21406f798
-  starts: 2018-03-17T09:00:00.0000000
-  ends: 2018-03-17T13:00:00.0000000
-  venue: AbelCine, New York
 - name: URI Brain Fair
   description: >-
     Boost your brain knowledge at the URI Brain Fair! This free, family-friendly event will feature hands-on activities, puzzles, demonstrations, and presentations where you can learn more about how the brain works, and about how URI scientists are helping push the frontiers of brain science and the treatment of brain diseases.
@@ -1054,6 +1010,14 @@
   starts: 2018-03-26T08:00:00.0000000
   ends: 2018-03-28T17:00:00.0000000
   venue: NRECA Building
+- name: Northeast Big Data Innovation Hub - 2018 Summit
+  description: "The Northeast Big Data Innovation Hub holds an annual summit to convene the data science stakeholder community of the Northeast United States. Join us and learn how the Hub has grown over the past year, including updates on new cross-sector initiatives, lightning talks from our Big Data Spoke PIs, and opportunities to collaborate with our stakeholders in breakout sessions on data literacy, ethics, and health. Keynote speaker Corinna Cortes (Google Research, New York) will highlight her team's data-driven approach to fighting fake news. A panel of leaders drawn from academia and the private sector will discuss how they address the challenges of rapidly advancing digital media - both in maximizing its benefits and minimizing its potential drawbacks. We hope to see you there!\n\n\n\nAgenda:\nView our updated agenda at http://nebigdatahub.org/2018-summit.\n\nLocation:\nColumbia Graduate School of Journalism Pulitzer Hall Joseph D. Jamail Lecture Hall, 3rd Floor 2950 Broadway New York, NY 10027\nDirections\n\nTravel & Accessibility:\n\n\nClick here for a list of Columbia-preferred hotels and rate information.\n\n\nVisit transportation.columbia.edu for directions to Columbia University and parking information. \n\n\nDisability Accommodations Columbia University makes every effort to accommodate individuals with disabilities. If you require disability-related accommodations to attend this event, please contact Disability Services at 212-854-2388 or disability@columbia.edu at least 5 business days in advance of the event.\n\n\nColumbia Accessibility Map: http://health.columbia.edu/system/files/content/healthpdfs/DS/AccessibilityMap.pdf\n\n"
+  url: https://www.eventbrite.com/e/northeast-big-data-innovation-hub-2018-summit-tickets-41223896785?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38608447/66992391935/1/original.jpg?h=200&w=450&rect=0,55,1920,960&s=c0854ca9ebeefbf192833ddbe3c20a34
+  starts: 2018-03-27T09:00:00.0000000
+  ends: 2018-03-27T17:00:00.0000000
+  venue: Pulitzer Hall - Joseph D. Jamail Lecture Hall
 - name: DevOpsDays Toronto 2018
   description: >-
     DevOps Days is a technical and organizational innovation conference, aimed at developers, sysadmins and anyone else involved in technology, whether expert or beginner. Join us for the 5th and biggest year in our sold out event series to learn, share and connect with tech's cutting edge in beautiful Toronto!
@@ -1087,14 +1051,6 @@
   starts: 2018-04-10T17:30:00.0000000
   ends: 2018-04-10T19:00:00.0000000
   venue: IHMC Ocala
-- name: Northeast Big Data Innovation Hub - 2018 Summit
-  description: "The Northeast Big Data Innovation Hub holds an annual summit to convene the data science stakeholder community of the Northeast United States. Join us and learn how the Hub has grown over the past year, including updates on new cross-sector initiatives, lightning talks from our Big Data Spoke PIs, and opportunities to collaborate with our stakeholders in breakout sessions on data literacy, ethics, and health. Keynote speaker Corinna Cortes (Google Research, New York) will highlight her team's data-driven approach to fighting fake news. A panel of leaders drawn from academia and the private sector will discuss how they address the challenges of rapidly advancing digital media - both in maximizing its benefits and minimizing its potential drawbacks. We hope to see you there!\n\n\n\nAgenda:\nView our updated agenda at http://nebigdatahub.org/2018-summit.\n\nLocation:\nColumbia Graduate School of Journalism Pulitzer Hall Joseph D. Jamail Lecture Hall, 3rd Floor 2950 Broadway New York, NY 10027\nDirections\n\nTravel & Accessibility:\n\n\nClick here for a list of Columbia-preferred hotels and rate information.\n\n\nVisit transportation.columbia.edu for directions to Columbia University and parking information. \n\n\nDisability Accommodations Columbia University makes every effort to accommodate individuals with disabilities. If you require disability-related accommodations to attend this event, please contact Disability Services at 212-854-2388 or disability@columbia.edu at least 5 business days in advance of the event.\n\n\nColumbia Accessibility Map: http://health.columbia.edu/system/files/content/healthpdfs/DS/AccessibilityMap.pdf\n\n"
-  url: https://www.eventbrite.com/e/northeast-big-data-innovation-hub-2018-summit-tickets-41223896785?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38608447/66992391935/1/original.jpg?h=200&w=450&rect=0,55,1920,960&s=c0854ca9ebeefbf192833ddbe3c20a34
-  starts: 2018-03-27T09:00:00.0000000
-  ends: 2018-03-27T17:00:00.0000000
-  venue: Pulitzer Hall - Joseph D. Jamail Lecture Hall
 - name: AT&T IoT Civic Hackathon - Indianapolis
   description: >+
     Have an idea to energize and enhance First Responder technology? Help us make Indiana safer at the IoT Civic Hackathon!
@@ -1276,62 +1232,6 @@
   starts: 2018-04-20T17:00:00.0000000
   ends: 2018-04-21T20:00:00.0000000
   venue: Indiana IoT Lab
-- name: Sips & Science
-  description: >-
-    Southern Research invites you to Sips & Science—an engaging evening event fusing fellowship and fun with the most fascinating scientific topics of our time. Come grow with us!
-
-
-
-
-    5PM: Happy Hour
-
-
-
-    Enjoy complimentary beer and wine while you mingle with our featured scientist, former astronaut, Dr. Larry DeLucas.
-
-
-
-    In celebration of Pi Day, we will also be serving pie and will give 2 tickets to McWane After Dark to the person who can take Pi out to the furthest digit from memory. Study up!
-
-
-
-
-    6PM: Guest Speaker
-
-
-
-    Dr. Larry DeLucas is American biochemist and NASA's first civilian scientist-astronaut who spent two weeks in orbit on space shuttle Columbia in 1992.
-
-
-
-
-
-    "Space Flight and Future Direction of America’s Space Programs"
-
-    Dr. DeLucas will describe his experience flying in 1992 on the Columbia Space Shuttle as a NASA payload specialist astronaut. This will include a review of his selection by NASA, the required two-year training program, the launch, landing and research performed on his 14-day mission. Dr. DeLucas will also summarize some of the current research underway on the International Space Station and NASA’s plans for a future astronaut mission to Mars.
-
-
-
-    What are my parking options?
-
-    Parking is available at 9th Avenue South (see the map below). Once the parking lots are filled, the Five Points South Deck parking garage is available for overflow parking for a $3 fee. It is located at 2012 Magnolia Avenue Birmingham, AL 35203.
-
-
-    Have questions about Sips & Science? Contact Dr. Kathryn Lanier at klanier@southernresearch.org. 
-  url: https://www.eventbrite.com/e/sips-science-tickets-42424858895?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/39909306/205638401573/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=756b04d552adb1fd2856f496fb6ac581
-  starts: 2018-03-14T17:00:00.0000000
-  ends: 2018-03-14T19:00:00.0000000
-  venue: Southern Research
-- name: CAS Patents and Pizza Sessions
-  description: "\r\n \r\n\r\n\r\n\r\n \r\nDecember 12, 2017 – STN Potpourri\r\nIn this session, we discuss a variety of Frequently Asked Questions, and questions submitted by STN searchers throughout the year. Suggested solutions and examples will be provided.\r\n \r\nJanuary 9, 2018 – What’s New from CAS?\r\nCome hear the latest news about STN and SciFinder plus other CAS products and content relevant to your searches.\r\n \r\nFebruary 13, 2018 –Tips for Finding Engineering Prior Art on   STN\r\nFrom 3-D printing to electronics, STN includes a wealth of engineering-focused information. Learn   about:\r\n\r\n\r\nEngineering information in CAplusSM, INSPEC®, COMPENDEX, and other databases\r\n\r\n\r\nSearch tools to enhance retrieval and precision\r\n\r\n\r\nMulti-file searches\r\n\r\n\r\n \r\nMarch 13, 2018 - Substance Searching in SciFinder®\r\nAccess the world’s most trusted resource for substance information including CAS Registry Numbers®, chemical names, molecular formulas, chemical   structures, properties, and commercial availability. Learn how to find claimed specific substances and substance classes in SciFinder.\r\n \r\nApril 10, 2018 –Use the Cooperative Patent Classification on STN\r\nCPC classifications can be used to create broad   answer sets in a technology or to refine answer sets, Learn how the CPC is   implemented on STN and tips for   effectively incorporating CPC into your searches.\r\n \r\nMay 8, 2018 - Search Small Nucleic Acids on STN\r\nSTN has extensive nucleic acid   information including nomenclature, sequence data, and even structures of   small modified nucleic acids. Learn about nucleic acid information on STN and strategies   for searching small nucleic acids.\r\n \r\nJune 12, 2018 –Structure Search with STNextTM\r\nThis session will be   held at the Hilton Alexandria – Old Town\r\nSTNext is the premier gateway for searching STN. It incorporates a new, modern structure   editor. Learn how to draw structure   queries quickly and efficiently with the new editor, including structure modeling, importing structures in different formats, templates, and shortcuts. Apply all your favorite attributes to build comprehensive structure queries.\r\n \r\nJuly 10, 2018 -Tips for Finding Obvious Variations on STN\r\nA patentability search includes searching for information related to both novelty and obviousness. \r\nLearn how to:\r\n\r\n\r\nBroaden your searches to look for potential obvious variations of an invention\r\n\r\n\r\nText search tips including truncation\r\n\r\n\r\nSubstance search tips including expanding chemical names and Component Registry Numbers\r\n\r\n\r\n \r\nAugust 14, 2018 –Get References with SciFinder\r\nSearch the combined coverage of CAplusSM and MEDLINE® to find journals, patents, dissertations and more covering chemistry, chemical engineering,   biotech, pharma and more. SciFinder offers a graphical, easy to use interface   and tools for refining and analyzing search results. \r\n \r\nSeptember 11, 2018 - The Secret Life of CAplusSM on   STN\r\nCAplus contains millions of   patent and journal article references in 80 different areas of technology, including life sciences, organic, macromolecular and applied chemistry, plus   physical, inorganic, and analytical chemistry. Learn about lesser known features of CAplus on STN and how to get the best possible patent search results by   incorporating these features into your searching.\r\n \r\nOctober 9, 2018 –Improve Your Saccharide Searches on STN\r\nSaccharide searches present unique challenges, but STN offers many tools for finding saccharide prior art. Learn   about nomenclature and structure search strategies to get more relevant   results from your saccharide searches.\r\n \r\nNovember 13, 2018 – Search Reactions in SciFinder®\r\nSciFinder offers a wealth of reaction   information from the CASREACT database and powerful tools for reaction searching. Learn strategies to Get Reactions, narrow   results, and save and export reaction results. \r\n \r\nDecember 11,   2018 – Make the Most of Multifile Searches on STN\r\nThe   multi-file search capability of STN is one of its most powerful features,   offering a combination of time savings, along with access to a wide range of   content.  \r\nLearn how to:\r\n\r\n\r\nDevise a \"universal\" search strategy for multi-file searching \r\n\r\n\r\nDetermine the   most appropriate combination of databases for comprehensive searching\r\n \r\n \r\n \r\n \r\n\r\n"
-  url: https://www.eventbrite.com/e/cas-patents-and-pizza-sessions-registration-30469637506?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38425292/185355489140/1/original.jpg?h=200&w=450&rect=0,1,426,213&s=3097dcf76a16547feec072ebfa422e72
-  starts: 2017-12-06T11:30:00.0000000
-  ends: 2019-03-05T13:00:00.0000000
-  venue: Embassy Suites by Hilton Alexandria Old Town
 - name: 3rd Annual Billington INTERNATIONAL Cybersecurity Summit
   description: "The 3rd Annual Billington International Cybersecurity Summit on March 21 at the National Press Club in Washington, DC will feature over 400 world class cybersecurity decision-makers from allied nations and the US in an intensive day of knowledge exchange and relationship building.  NOTE: Attendees must be citizens of the U.S. or allied nations to attend this event. \r\nFor more information go to our website. \r\nGlobal cyber attacks and threats have increased at an unprecedented rate. Just in the past 12 months cyber attacks have escalated in terms of their global scale, impact and rate of spread as demonstrated by the WannaCry ransomware attack.The 3rd Annual Billington International Cybersecurity Summit will address the pressing cybersecurity issues facing the world.* Global Threat Assessments and Information Sharing* International Cybersecurity Norms and Laws* Cyber risk management strategies* Critical infrastructure protection* Artificial Intelligence and Machine Learning–the Global Impact* IOT–Life After the Mirai Attack for Allied Countries* Cybersecurity and the Nation State Threat* Avoiding the Next Ukrainian Energy Cybersecurity Attacks* Singapore and NATO Cybersecurity Strategies* Cybersecurity Strategies of the Five EyesInternational cybersecurity leaders  from a cross-section of civilian, military and intelligence agencies, industry and academia will tackle tough questions, examine solutions and offer perspective on next steps.\r\n\r\n "
   url: https://www.eventbrite.com/e/3rd-annual-billington-international-cybersecurity-summit-registration-38636077548?aff=ebapi
@@ -1364,3 +1264,113 @@
   starts: 2018-03-23T09:00:00.0000000
   ends: 2018-03-24T17:00:00.0000000
   venue: Valparaiso University
+- name: CAS Patents and Pizza Sessions
+  description: "\r\n \r\n\r\n\r\n\r\n \r\nDecember 12, 2017 – STN Potpourri\r\nIn this session, we discuss a variety of Frequently Asked Questions, and questions submitted by STN searchers throughout the year. Suggested solutions and examples will be provided.\r\n \r\nJanuary 9, 2018 – What’s New from CAS?\r\nCome hear the latest news about STN and SciFinder plus other CAS products and content relevant to your searches.\r\n \r\nFebruary 13, 2018 –Tips for Finding Engineering Prior Art on   STN\r\nFrom 3-D printing to electronics, STN includes a wealth of engineering-focused information. Learn   about:\r\n\r\n\r\nEngineering information in CAplusSM, INSPEC®, COMPENDEX, and other databases\r\n\r\n\r\nSearch tools to enhance retrieval and precision\r\n\r\n\r\nMulti-file searches\r\n\r\n\r\n \r\nMarch 13, 2018 - Substance Searching in SciFinder®\r\nAccess the world’s most trusted resource for substance information including CAS Registry Numbers®, chemical names, molecular formulas, chemical   structures, properties, and commercial availability. Learn how to find claimed specific substances and substance classes in SciFinder.\r\n \r\nApril 10, 2018 –Use the Cooperative Patent Classification on STN\r\nCPC classifications can be used to create broad   answer sets in a technology or to refine answer sets, Learn how the CPC is   implemented on STN and tips for   effectively incorporating CPC into your searches.\r\n \r\nMay 8, 2018 - Search Small Nucleic Acids on STN\r\nSTN has extensive nucleic acid   information including nomenclature, sequence data, and even structures of   small modified nucleic acids. Learn about nucleic acid information on STN and strategies   for searching small nucleic acids.\r\n \r\nJune 12, 2018 –Structure Search with STNextTM\r\nThis session will be   held at the Hilton Alexandria – Old Town\r\nSTNext is the premier gateway for searching STN. It incorporates a new, modern structure   editor. Learn how to draw structure   queries quickly and efficiently with the new editor, including structure modeling, importing structures in different formats, templates, and shortcuts. Apply all your favorite attributes to build comprehensive structure queries.\r\n \r\nJuly 10, 2018 -Tips for Finding Obvious Variations on STN\r\nA patentability search includes searching for information related to both novelty and obviousness. \r\nLearn how to:\r\n\r\n\r\nBroaden your searches to look for potential obvious variations of an invention\r\n\r\n\r\nText search tips including truncation\r\n\r\n\r\nSubstance search tips including expanding chemical names and Component Registry Numbers\r\n\r\n\r\n \r\nAugust 14, 2018 –Get References with SciFinder\r\nSearch the combined coverage of CAplusSM and MEDLINE® to find journals, patents, dissertations and more covering chemistry, chemical engineering,   biotech, pharma and more. SciFinder offers a graphical, easy to use interface   and tools for refining and analyzing search results. \r\n \r\nSeptember 11, 2018 - The Secret Life of CAplusSM on   STN\r\nCAplus contains millions of   patent and journal article references in 80 different areas of technology, including life sciences, organic, macromolecular and applied chemistry, plus   physical, inorganic, and analytical chemistry. Learn about lesser known features of CAplus on STN and how to get the best possible patent search results by   incorporating these features into your searching.\r\n \r\nOctober 9, 2018 –Improve Your Saccharide Searches on STN\r\nSaccharide searches present unique challenges, but STN offers many tools for finding saccharide prior art. Learn   about nomenclature and structure search strategies to get more relevant   results from your saccharide searches.\r\n \r\nNovember 13, 2018 – Search Reactions in SciFinder®\r\nSciFinder offers a wealth of reaction   information from the CASREACT database and powerful tools for reaction searching. Learn strategies to Get Reactions, narrow   results, and save and export reaction results. \r\n \r\nDecember 11,   2018 – Make the Most of Multifile Searches on STN\r\nThe   multi-file search capability of STN is one of its most powerful features,   offering a combination of time savings, along with access to a wide range of   content.  \r\nLearn how to:\r\n\r\n\r\nDevise a \"universal\" search strategy for multi-file searching \r\n\r\n\r\nDetermine the   most appropriate combination of databases for comprehensive searching\r\n \r\n \r\n \r\n \r\n\r\n"
+  url: https://www.eventbrite.com/e/cas-patents-and-pizza-sessions-registration-30469637506?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38425292/185355489140/1/original.jpg?h=200&w=450&rect=0,1,426,213&s=3097dcf76a16547feec072ebfa422e72
+  starts: 2017-12-06T11:30:00.0000000
+  ends: 2019-03-05T13:00:00.0000000
+  venue: Embassy Suites by Hilton Alexandria Old Town
+- name: 'ProductCon: The Product Management Conference'
+  description: >-
+    ProductCon: The Product Management Conference
+
+    ProductCon will bring together the best collection of product experts to speak and share industry insights, tactics and best practices on how to build the next generation of truly amazing software.
+
+    At ProductCon you’ll explore with other product management professionals, engineers, startup founders and renowned product leaders the new methods and frameworks being used to design, launch and scale groundbreaking software products.
+
+    Network with over 200 industry professionals and discover new solutions for the most challenging problems faced by software companies today.
+
+    This conference is an opportunity to be part of something big - collaborate and celebrate the creativity and curiosity of the product community - and support the people who work day in, day out to make the best software products on the planet.
+
+
+    Agenda
+
+
+    8:00 am – Registration
+
+    9:00 am – Speakers
+
+    12:00pm – Lunch
+
+    1:30pm – Speakers
+
+    5:00 pm – After Party
+
+    7:00 pm – End of the Event
+
+
+
+    FAQ
+
+
+    How can I contact the organizer with any questions?
+
+    If you have any questions related to the event, write us at events@productschool.com
+
+
+    What is the #ProductCon?
+
+    ProductCon is a new conference hyper focused on product, where attendees will learn from the best about what there is in store for the future of product and product management. It will have keynotes from industry leaders, networking sessions, and immersive experiences all focused on different areas of the full product lifecycle.
+
+
+    Why should I attend?
+
+    Whether you're looking to break into a career in product management, are already managing a team of talented engineers and designers, or are just looking to take your team to the next level, ProductCon will allow you to take a step back from the laptop and network with the top minds in the industry.
+
+    You will engage with 250 leaders in the tech community, including notable product leaders, engineering managers, C level executives, founders, angel investors, and VC's. It will be a place to get inspired and learn about the best new tools, strategies, and ideas that are circulating in the product community.
+
+    This conference will accelerate your team’s productivity, and give the proper insights into what challenges top product managers are facing and answers on how to handle those challenges.
+
+
+    Who is attending?
+
+    You can expect to meet people who have titles including Product School Alumni, Product Manager, Senior Product Manager, Head of Product Management, Director of Product, Chief Product Officer, and CEO.
+
+
+    When & Where is the conference?
+
+    The conference is held on July 20th, 2018 in Millennium Hilton New York Downtown at 55 Church St. 
+
+
+    How do I become a Sponsor?
+
+    Want to become a sponsor? Get in touch here.
+
+
+    What's the refund policy?
+
+    We don't refund tickets at any time. If you have a problem, please write us at events@productschool.com
+  url: https://www.eventbrite.com/e/productcon-the-product-management-conference-tickets-41426419536?aff=ebapi
+  logo: https://cdn.evbuc.com/images/39203002/235040984945/1/original.jpg?h=200&w=450&rect=0,0,800,400&s=1f1c4624ed8dc9f51a6d86b3dad858a0
+  starts: 2018-07-20T08:00:00.0000000
+  ends: 2018-07-20T19:00:00.0000000
+  venue: Millennium Hilton New York Downtown
+- name: NOVA STEM Day - Manassas Campus
+  description: >2+
+
+
+    NOVA STEM Day at the Manassas Campus will provide youth with a showcase of opportunities in science, technology, engineering, and math. Designed for students of all ages, the event features hands-on exhibits and workshops from NOVA faculty, local schools, and community groups, food, fun, and learning! FREE and open to the public, some activities will have limited seating.
+
+    Drop in any time during the day! Check www.novastemday.com for event schedule and details.
+
+  url: https://www.eventbrite.com/e/nova-stem-day-manassas-campus-tickets-42319586021?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/39777081/104120312759/1/original.jpg?h=200&w=450&rect=0,2,2154,1077&s=1af32499d70ec9f1c1de8a4b2af76283
+  starts: 2018-04-28T10:00:00.0000000
+  ends: 2018-04-28T15:00:00.0000000
+  venue: Northern Virginia Community College - Manassas Campus
+- name: Innovation Hackathon 2018
+  description: >-
+    inNOVAtion, a 36 hour long hackathon competition, offers hands-on experience to students interested in cybersecurity and secure coding methods.Participants will come prepared for the weekend with sleeping bags and overnight items, eager to work in teams to “hack” several challenges provided by corporate sponsors and the inNOVAtion team.The challenges will involved creating apps, successfully programming data, and capturing the flag to win rewards and to show-case their talent and skills to our sponsors.
+
+    You need to be 18 or older.
+
+    Our website: www.novahackathon.org
+  url: https://www.eventbrite.com/e/innovation-hackathon-2018-tickets-42790973955?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/40411324/243402197582/1/original.jpg?h=200&w=450&rect=0,0,474,237&s=5f394a64f8e672ada203fbc34df99cf8
+  starts: 2018-04-13T17:00:00.0000000
+  ends: 2018-04-15T16:00:00.0000000
+  venue: Workforce Development Building
