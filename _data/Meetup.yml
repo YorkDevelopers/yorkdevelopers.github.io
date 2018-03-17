@@ -7,6 +7,14 @@
   ends: 2018-03-19T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: IoT Leeds - March 2018 meetup
+  description: '<p>The January meetup will be at the same time and venue as previous months.</p> <p>6:30 PM - Doors open</p> <p>7:00 PM - First talk</p> <p>7:30 PM - Break</p> <p>7:45 PM - Second talk</p> <p>8:30 PM - Finish</p> '
+  url: https://www.meetup.com/IoT-Leeds/events/246623070/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/4/7/3/8/thumb_469158232.jpeg
+  starts: 2018-03-19T18:30:00.0000000
+  ends: 2018-03-19T20:30:00.0000000
+  venue: Platform
 - name: 'Dev Workshop - RESTful APIs Part 2: Advanced'
   description: "<p>Back in November we held an introduction to RESTful APIs 'Tech//Connect Dev Workshop: RESTful APIs' alongside BJSS. We are pleased to announce we will be delivering Part 2 ( a more advanced dev workshop following from part 1) on Tuesday 20th March 2018. (Leeds City Centre, 18:00 - 20:00).</p> <p>Part 1 was a sell out, and we are expecting the level of interest for Part 2 to be the same, therefore we recommend you register your interest and secure your spot as soon as possible.</p> <p>Please do so by emailing techconnect@amsourcetechnology.com or call Kelly on 0113 456 6706 for more details.</p> "
   url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/248658988/
@@ -115,7 +123,7 @@
   ends: 2018-03-29T20:00:00.0000000
   venue: Platform
 - name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p><br/>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
   url: https://www.meetup.com/LeedsRubyThing/events/247385963/
   is-free: true
   starts: 2018-03-29T18:30:00.0000000
