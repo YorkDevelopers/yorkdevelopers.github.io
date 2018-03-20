@@ -131,76 +131,6 @@
   starts: 2018-05-17T13:00:00.0000000
   ends: 2018-05-19T16:00:00.0000000
   venue: Mayo Civic Center Auditorium
-- name: 'Stir Trek: 2018 Edition'
-  description: >+
-    Tickets go on sale March 1st, 2018 at 1:59 PM EST
-
-     
-
-    What is Stir Trek: 2018 Edition?
-
-    Stir Trek: 2018 Edition is our tenth iteration for the Stir Trek conference. As before we're stirring web, mobile, client, and cloud development topics together along with quality, security, soft skills, design, and user experience content to present a fun day of learning. There will be eight tracks of sessions, breakfast, lunch, and a private screening of Avengers: Infinity War, which opens in theaters the day of the event - May 4th, 2018.
-
-
-
-    What Topics Are Being Covered?
-
-    The Stir Trek website lists the current Schedule, Sessions and Speakers that we have confirmed.
-
-
-
-    What Does It Cost?
-
-    In order to cover the significant costs of a large scale event like this one, there will be a $125 fee for attendance. This will be the best $125 you spend this year, however. Take a look at what you get.
-
-
-
-    What Do I Get?
-
-    It is our goal to bring you significantly greater value than your $125, and here’s how we intend to do it:
-
-
-    Registration materials mailed ahead of event
-
-    48 sessions of critical content
-
-    Well-known regional and national speakers
-
-    Lunch and Breakfast
-
-    Attendee T-shirt
-
-    Private screening of Avengers: Infinity War at the end of the day
-
-    Refreshments during the movie
-
-
-
-    How Many Tickets Can I Order at Once?
-
-    Like previous years, you can order up to 20 tickets in one order.  If you need more than 20 tickets for your team, you will need to place multiple orders.  Please make sure that you include the appropriate name, address, and t-shirt size for each person you're buying a ticket for.  There's nothing more disappointing than receiving an awesome box from a conference and getting a shirt two sizes too small.
-
-
-
-    How do I know what size t-shirt to order?
-
-    We have creating sizing charts for our shirts to help you get a feel for which size will fit you best.  We offer both m
-
-    en's and women's styles, so make sure you pick the cut that you prefer.
-
-
-
-
-     Can I Buy Another Movie Ticket?
-
-    Like our previous events we will be offering a limited sale of additional movie passes at a later date.  Registered conference attendees will be notified when additional movie passes are available for purchase.  Once these additional passes are sold out we can not offer any more.
-
-
-  url: https://www.eventbrite.com/e/stir-trek-2018-edition-tickets-42302374541?aff=ebapi
-  logo: https://cdn.evbuc.com/images/39816982/979938889/1/original.jpg?h=200&w=450&rect=286,125,822,411&s=6e756aedfa8bf46dfc4f2962e849ee69
-  starts: 2018-05-04T08:00:00.0000000
-  ends: 2018-05-04T19:00:00.0000000
-  venue: AMC Easton Town Center 30
 - name: DevOps at Cloud Expo
   description: >+
     The World's Largest DevOps Event,June 5 - 7, 2018at the Javits Center in New York, NY!
@@ -434,24 +364,6 @@
   starts: 2018-05-17T10:00:00.0000000
   ends: 2018-05-17T16:00:00.0000000
   venue: Gerrish Farms
-- name: Leland Melvin on Chasing Space
-  description: >
-    Author, NASA astronaut, and NFL wide receiver Dr. Leland Melvin discusses his new autobiography, Chasing Space. Chasing Space reflects on Melvin’s two missions to Space Shuttle Atlantis in 2008 and 2009, his struggle to recover from a deafening injury during training with NASA, and more.
-
-
-
-
-
-
-    Join us after the conversation for a book signing of Chasing Space (available for purchase) and for star gazing with the Amateur Astronomers Association of NY in our garden.
-
-
-    A former wide receiver for the Detroit Lions, Leland Melvin is an engineer and NASA astronaut. He served on the space shuttle Atlantis as a mission specialist and was named the NASA Associate Administrator for Education in October 2010. He also served as the cochair of the White House’s Federal Coordination in Science, Technology, Engineering, and Mathematics (STEM) Education Task Force committee, developing the nation’s five-year education plan. He is the host of the Lifetime show Child Genius and a judge for ABC’s BattleBots. He holds four honorary doctorates and has received the NFL Player Association Award of Excellence. He lives in Lynchburg, Virginia.
-  url: https://www.eventbrite.com/e/leland-melvin-on-chasing-space-tickets-33224178412?aff=ebapi
-  logo: https://cdn.evbuc.com/images/40254897/214416534364/1/original.jpg?h=200&w=450&rect=0,82,1600,800&s=20e97769582d5ee27e84242337421432
-  starts: 2018-03-22T19:00:00.0000000
-  ends: 2018-03-22T22:00:00.0000000
-  venue: Pioneer Works
 - name: Long Island Reads 2018 with Astronaut Mike Massimino
   description: >
     Long Island astronaut Mike Massimino, author of the spellbinding memoir Spaceman, the 2018 Long Island Reads selection, will speak on Sunday, April 15, 2018 at 2pm at the Patchogue Theatre for the Performing Arts. Free tickets will be available beginning March 1, 2018.
@@ -489,6 +401,30 @@
   starts: 2018-04-05T19:00:00.0000000
   ends: 2018-04-05T21:00:00.0000000
   venue: Museum of Science and Industry, Chicago
+- name: 'Data Science in 30 Minutes: Infrastructure for Usable Machine Learning with Spark Creator and Stanford Professor, Matei Zaharia'
+  description: >-
+    Join The Data Incubator and Databricks co-founder, Matei Zaharia, Ph.D for the next installment of our free online webinar series, Data Science in 30 minutes: Infrastructure for Usable Machine Learning.
+
+    Abstract:  Despite incredible recent advances in machine learning, building machine learning applications remains prohibitively time-consuming and expensive for all but the best-trained, best-funded engineering teams. This expense usually comes not from a need for new and improved statistical models but instead from a lack of systems and tools for supporting end-to-end machine learning application development, from data preparation and labeling to productionization and monitoring. In the Stanford DAWN project, we are developing a set of tools to make these processes easier, from weak supervision approaches to dramatically reduce the need for labeled data, to query-specific model specialization to reduce serving cost, and end-to-end ML systems that encapsulate a complete task and greatly simplify the interface to the user.
+
+    About the speakers: 
+
+
+
+    Matei Zaharia, PhD is an assistant professor of computer science at Stanford and Chief Technologist and co-founder of Databricks. His research interests broadly span data-intensive systems, including distributed computing and systems for machine learning. In his past research, Matei developed widely used open source software including the Apache Spark computing engine, Apache Mesos cluster manager, and Alluxio storage system. His research was recognized through the 2014 ACM Doctoral Dissertation Award and VMware Systems Research Award.See also https://cs.stanford.edu/~matei/ or  Matei's Wikipedia page
+
+
+    Michael Li founded The Data Incubator, a New York-based training program that turns talented PhDs from academia into workplace-ready data scientists and quants. The program is free to Fellows, employers engage with the Incubator as hiring partners.
+
+    Previously, he worked as a data scientist (Foursquare), Wall Street quant (D.E. Shaw, J.P. Morgan), and a rocket scientist (NASA). He completed his PhD at Princeton as a Hertz fellow and read Part III Maths at Cambridge as a Marshall Scholar. At Foursquare, Michael discovered that his favorite part of the job was teaching and mentoring smart people about data science. He decided to build a startup to focus on what he really loves.
+
+    Michael lives in New York, where he enjoys the Opera, rock climbing, and attending geeky data science events.
+  url: https://www.eventbrite.com/e/data-science-in-30-minutes-infrastructure-for-usable-machine-learning-with-spark-creator-and-tickets-41092120639?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38636614/148476536982/1/original.jpg?h=200&w=450&rect=0,0,800,400&s=9799848b6fd9e5347124ea36b3919a36
+  starts: 2018-04-03T17:30:00.0000000
+  ends: 2018-04-03T18:00:00.0000000
+  venue: Online
 - name: Techstravaganza 2018
   description: >-
     Techstravaganza (also referred to as Techstrav) is an annual STEM outreach event, hosted by Thomas Jefferson High School for Science and Technology for elementary and middle school students.Techstrav attracts thousands of attendees from the DMV area every year. Over 300 TJ student and teacher volunteers engage students in STEM activities and demonstrations, including lava lamps, banana DNA, CS workshops, student robotics teams, and other STEM exhibits.Registration is free!If you are part of a STEM organization, we would love if you or your representatives could come host a display or demonstration at Techstrav! Sponsors and exhibitors will receive exclusive benefits, including the chance to network with bright high school students and display their logo on our flyers and t-shirts.
@@ -546,6 +482,13 @@
   starts: 2018-09-08T18:30:00.0000000
   ends: 2018-09-08T21:30:00.0000000
   venue: South Carrick Gym
+- name: Data Science Day @ Columbia University 2018
+  description: "Wednesday, March 28, 2018\nCelebrating five years of Data Science at Columbia University. \nJoin us for demos​ and lightning talks by​ Columbia researchers ​presenting their latest work in data science. The event provides a forum for innovators in academia, industry and government to connect. \nAGENDA \nFeaturing a Keynote Address by Diane Greene, Google Cloud CEO\nLightning Talk Sessions:\nHealth Discovery From and For Data Science\n\"Disease heritability using 7.4 million familial relationships inferred from EHRs\"Nicholas P. Tatonetti, Herbert Irving Assistant Professor of Biomedical Informatics\"Nowcasting and Forecasting Seasonal Influenza\"Jeffrey Shaman, Associate Professor of Environmental Health Sciences;Director, Climate and Health Program\"Simplifying an impossibly complex world: lessons from biological information sampling strategies\"Jacqueline Gottlieb, Professor of Neuroscience\nClimate + Finance: Use of environmental data to measure & anticipate financial risk\n\"Rising Waters: The Economic Impact of Sea Level Rise\"Geoffrey Heal, Donald C. Waite III Professor of Social Enterprise in the Faculty of Business;Professor of International & Public Affairs\"Data & Finance in the Developing World\"Lisa Goddard, Director of International Research Institute for Climate and Society\"Agricultural Yields and Prices in a Warming World\"Wolfram Schlenker, Professor of International & Public Affairs\nMachine Learning: The Good, The Bad and The Law\n\"Shopper: Probabilistic Machine Learning for Consumer Choice\"David Blei, Professor of Statistics & Computer Science\"Effective Testing and Verification of Deep Learning Systems\"Junfeng Yang, Associate Professor of Computer Science\"Informed Trading and Cybersecurity Breaches\"Joshua Mitts, Associate Professor of Law\nFireside Chat: Data and Democracy \nLee C. Bollinger, President, Columbia University in the City of New York\nJeannette M. Wing, Avanessians Director of the Data Science Institute; Professor of Computer Science\nMore Details to Come!\nCheck out the highlight video from last year's event! Data Science Day Video\n\n\nFAQs\nWhat are my transportation/parking options for getting to and from the event?\nPlease visit the following link for directions and parking information: http://transportation.columbia.edu/ For accommodation information please visit: http://www.campustravel.com/university/columbia/\nHow can I contact the organizer with any questions?\nYou may email datascience@columbia.edu. \nWhat's the refund policy?\nThe last opportunity for a refund is March 21st.  \nDo I have to bring my printed ticket to the event?\nIn order to faciliate a smooth registration process, we are asking that you have your printed or mobile ticket ready when checking in.\nDisability Accommodations Columbia University makes every effort to accommodate individuals with disabilities. If you require disability-related accommodations to attend this event, please contact Disability Services at 212-854-2388 or disability@columbia.edu at least 5 business days in advance of the event.Columbia Accessibility Map: http://health.columbia.edu/system/files/content/healthpdfs/DS/AccessibilityMap.pdf\nPlease note that this event is being photographed and videotaped."
+  url: https://www.eventbrite.com/e/data-science-day-columbia-university-2018-tickets-39836427828?aff=ebapi
+  logo: https://cdn.evbuc.com/images/38284364/73620850609/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=ed7ff580d9149bf153d9cbca7a84063b
+  starts: 2018-03-28T09:00:00.0000000
+  ends: 2018-03-28T17:00:00.0000000
+  venue: Columbia University
 - name: The Future of Health Innovation
   description: "The Future of Health Innovation conference presented by the University of Toronto will highlight and showcase health and life sciences innovation from the University Toronto and the Toronto community including those from our affiliated hospital partners. \nThe day will consist of: \n\nTheme 1:\nHealth Technologies – Wearables and Robotics \nThis segment will showcase new and exciting wearable and robotic technologies from the Toronto ecosystem.  Engaging groups such as Toronto Rehab Institute, Institute for Biomaterials and Biomedical Engineering and the Faculty of Applied Sciences and Engineering to discuss the future of robotics in health and the areas in which we are translating research here in Toronto and in partnership with our local Toronto companies. \n\nTheme 2:\nAdvancement of cell-based therapies and tissue-based technologies.  \nAn introduction of the advancement of microfluidics at UofT and organ-on-a chip related technologies.  Highlighting UofT partnerships and top researchers in this field.  This will be followed by a panel discussion on the commercialization of cell therapy and tissue-based technologies and treatments with industry experts, venture capital and pharmaceutical companies in this field.\n\nTechnology/Start-up Showcase\n The technology and start-up showcase will highlight the most innovative health and life sciences companies coming out of the Toronto ecosystem.\n\nList of speakers and details for the event can be found at: \nhttp://www.research.utoronto.ca/2018-futureofhealthinnovation/"
   url: https://www.eventbrite.ca/e/the-future-of-health-innovation-tickets-42907311925?aff=ebapi
@@ -554,13 +497,6 @@
   starts: 2018-04-12T08:30:00.0000000
   ends: 2018-04-12T17:00:00.0000000
   venue: MaRS Building - Auditorium and Lower Concourse
-- name: Data Science Day @ Columbia University 2018
-  description: "Wednesday, March 28, 2018\nCelebrating five years of Data Science at Columbia University. \nJoin us for demos​ and lightning talks by​ Columbia researchers ​presenting their latest work in data science. The event provides a forum for innovators in academia, industry and government to connect. \nAGENDA \nFeaturing a Keynote Address by Diane Greene, Google Cloud CEO\nLightning Talk Sessions:\nHealth Discovery From and For Data Science\nNicholas P. Tatonetti, Herbert Irving Assistant Professor of Biomedical Informatics\nJeffrey Shaman, Associate Professor of Environmental Health Sciences; Director, Climate and Health Program\nJacqueline Gottlieb, Professor of Neuroscience\nClimate + Finance: Use of environmental data to measure & anticipate financial risk\nGeoffrey Heal, Donald C. Waite III Professor of Social Enterprise in the Faculty of Business; Professor of International & Public Affairs\nLisa Goddard, Director of International Research Institute for Climate and Society\nWolfram Schlenker, Professor of International & Public Affairs\nMachine Learning: The Good, The Bad and The Law\nDavid Blei, Professor of Statistics & Computer Science\nJunfeng Yang, Associate Professor of Computer Science  \nJoshua Mitts, Associate Professor of Law\nFireside Chat: Data and Democracy \nLee C. Bollinger, President, Columbia University in the City of New York\nMore Details to Come!\nCheck out the highlight video from last year's event! Data Science Day Video\n\n\nFAQs\nWhat are my transportation/parking options for getting to and from the event?\nPlease visit the following link for directions and parking information: http://transportation.columbia.edu/ For accommodation information please visit: http://www.campustravel.com/university/columbia/\nHow can I contact the organizer with any questions?\nYou may email datascience@columbia.edu. \nWhat's the refund policy?\nThe last opportunity for a refund is March 21st.  \nDo I have to bring my printed ticket to the event?\nIn order to faciliate a smooth registration process, we are asking that you have your printed or mobile ticket ready when checking in.\nDisability Accommodations Columbia University makes every effort to accommodate individuals with disabilities. If you require disability-related accommodations to attend this event, please contact Disability Services at 212-854-2388 or disability@columbia.edu at least 5 business days in advance of the event.Columbia Accessibility Map: http://health.columbia.edu/system/files/content/healthpdfs/DS/AccessibilityMap.pdf\nPlease note that this event is being photographed and videotaped."
-  url: https://www.eventbrite.com/e/data-science-day-columbia-university-2018-tickets-39836427828?aff=ebapi
-  logo: https://cdn.evbuc.com/images/38284364/73620850609/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=ed7ff580d9149bf153d9cbca7a84063b
-  starts: 2018-03-28T09:00:00.0000000
-  ends: 2018-03-28T17:00:00.0000000
-  venue: Columbia University
 - name: 2018 Tri-State Dairy Nutrition Conference
   description: The Tri-State Dairy Nutrition Conference is an annual program organized collaboratively by personnel at The Ohio State University, Michigan State University, and Purdue University and the allied dairy industry. The objectives of the Conference are to disseminate current information on the feeding of dairy cattle primarily to individuals who provide nutritional advice to dairy farmers. Therefore, the audience consists of feed industry personnel, nutrition consultants, Exension personnel, students, and veterinarians.
   url: https://www.eventbrite.com/e/2018-tri-state-dairy-nutrition-conference-registration-42647073545?aff=ebapi
@@ -568,30 +504,20 @@
   starts: 2018-04-16T13:30:00.0000000
   ends: 2018-04-18T15:00:00.0000000
   venue: Grand Wayne Convention Center
-- name: 'Data Science in 30 Minutes: Infrastructure for Usable Machine Learning with Spark Creator and Stanford Professor, Matei Zaharia'
+- name: Rhode Island Robot Block Party 2018
   description: >-
-    Join The Data Incubator and Databricks co-founder, Matei Zaharia, Ph.D for the next installment of our free online webinar series, Data Science in 30 minutes: Infrastructure for Usable Machine Learning.
+    Meet the next generation of robots used in research, education, work and play at the 5th Annual Robot Block Party. A free family festival, chosen as a "Best of Rhode Island" event by the editors of RI Monthly, the Rhode Island Robot Block Party includes hands-on robotics activities, demonstrations, and exhibits.
 
-    Abstract:  Despite incredible recent advances in machine learning, building machine learning applications remains prohibitively time-consuming and expensive for all but the best-trained, best-funded engineering teams. This expense usually comes not from a need for new and improved statistical models but instead from a lack of systems and tools for supporting end-to-end machine learning application development, from data preparation and labeling to productionization and monitoring. In the Stanford DAWN project, we are developing a set of tools to make these processes easier, from weak supervision approaches to dramatically reduce the need for labeled data, to query-specific model specialization to reduce serving cost, and end-to-end ML systems that encapsulate a complete task and greatly simplify the interface to the user.
+    Created by Rhode Island Students of the Future and the Humanity Centered Robotics Initiative and the Department of Computer Science at Brown University, the Robot Block Party highlights the innovation of our state's robotic community, bringing together industry, universities, community organizations, and K-12 schools.  
 
-    About the speakers: 
+    Exhibitors include Zebra Technologies, igus, Hasbro, Sproutel, RIVR with the Warwick Public Library, Fab Newport, RI Computer Museum, Ocean State Maker Mill, IEEE Providence Section, Providence Children's Museum, RI Drone Club, Rhode Island Students of the Future, Skills USA, DRF Engineering, Joe Markee Robotic Sculptures, Vintage Robot, Bishop Hendricken, East Providence High School, Gilbert Stuart Middle School, Kickemuit Middle School, Moses Brown School, Our Lady of Mercy, Pilgrim High School, Riverside Middle School, the Compass School, the Gordon School, Martin Middle School, AIR 4H, Henry Barnard School, the Wheeler School, WAGS Robotics, Mount Pleasant High School Robotics, HCRI at Brown University, the Humans to Robots Laboratory at Brown University, Johnson and Wales University, RISD Rover, Robotics for Complex Underwater Environments at URI, URI Mechatronics Laboratory, URI HydRobotics, Roger Williams University and the Brown IEEE Robotics Olympiad.
 
-
-
-    Matei Zaharia, PhD is an assistant professor of computer science at Stanford and Chief Technologist and co-founder of Databricks. His research interests broadly span data-intensive systems, including distributed computing and systems for machine learning. In his past research, Matei developed widely used open source software including the Apache Spark computing engine, Apache Mesos cluster manager, and Alluxio storage system. His research was recognized through the 2014 ACM Doctoral Dissertation Award and VMware Systems Research Award.See also https://cs.stanford.edu/~matei/ or  Matei's Wikipedia page
-
-
-    Michael Li founded The Data Incubator, a New York-based training program that turns talented PhDs from academia into workplace-ready data scientists and quants. The program is free to Fellows, employers engage with the Incubator as hiring partners.
-
-    Previously, he worked as a data scientist (Foursquare), Wall Street quant (D.E. Shaw, J.P. Morgan), and a rocket scientist (NASA). He completed his PhD at Princeton as a Hertz fellow and read Part III Maths at Cambridge as a Marshall Scholar. At Foursquare, Michael discovered that his favorite part of the job was teaching and mentoring smart people about data science. He decided to build a startup to focus on what he really loves.
-
-    Michael lives in New York, where he enjoys the Opera, rock climbing, and attending geeky data science events.
-  url: https://www.eventbrite.com/e/data-science-in-30-minutes-infrastructure-for-usable-machine-learning-with-spark-creator-and-tickets-41092120639?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38636614/148476536982/1/original.jpg?h=200&w=450&rect=0,0,800,400&s=9799848b6fd9e5347124ea36b3919a36
-  starts: 2018-04-03T17:30:00.0000000
-  ends: 2018-04-03T18:00:00.0000000
-  venue: Online
+    Saturday, April 7, 2018, 11 am - 4 pm Free. Accessible. Food available for sale. 
+  url: https://www.eventbrite.com/e/rhode-island-robot-block-party-2018-tickets-39758126627?aff=ebapi
+  logo: https://cdn.evbuc.com/images/37587833/13264621905/1/original.jpg?h=200&w=450&rect=0,0,684,342&s=019dc2b5e4b9d6aa0e0133beb0db6514
+  starts: 2018-04-07T11:00:00.0000000
+  ends: 2018-04-07T16:00:00.0000000
+  venue: Pizzitola Center
 - name: WSU Public Planetarium Shows - Winter Term 2018
   description: >-
     Join us for our free public planetarium show!
@@ -640,20 +566,44 @@
   starts: 2018-01-12T19:00:00.0000000
   ends: 2018-04-27T22:00:00.0000000
   venue: 0209 Old Main – Wayne State University
-- name: Rhode Island Robot Block Party 2018
-  description: >-
-    Meet the next generation of robots used in research, education, work and play at the 5th Annual Robot Block Party. A free family festival, chosen as a "Best of Rhode Island" event by the editors of RI Monthly, the Rhode Island Robot Block Party includes hands-on robotics activities, demonstrations, and exhibits.
+- name: The Secret Lives of Dinosaurs - Dr. Julia Clarke
+  description: >2+
 
-    Created by Rhode Island Students of the Future and the Humanity Centered Robotics Initiative and the Department of Computer Science at Brown University, the Robot Block Party highlights the innovation of our state's robotic community, bringing together industry, universities, community organizations, and K-12 schools.  
 
-    Exhibitors include Zebra Technologies, igus, Hasbro, Sproutel, RIVR with the Warwick Public Library, Fab Newport, RI Computer Museum, Ocean State Maker Mill, IEEE Providence Section, Providence Children's Museum, RI Drone Club, Rhode Island Students of the Future, Skills USA, DRF Engineering, Joe Markee Robotic Sculptures, Vintage Robot, Bishop Hendricken, East Providence High School, Gilbert Stuart Middle School, Kickemuit Middle School, Moses Brown School, Our Lady of Mercy, Pilgrim High School, Riverside Middle School, the Compass School, the Gordon School, Martin Middle School, AIR 4H, Henry Barnard School, the Wheeler School, WAGS Robotics, Mount Pleasant High School Robotics, HCRI at Brown University, the Humans to Robots Laboratory at Brown University, Johnson and Wales University, RISD Rover, Robotics for Complex Underwater Environments at URI, URI Mechatronics Laboratory, URI HydRobotics, Roger Williams University and the Brown IEEE Robotics Olympiad.
 
-    Saturday, April 7, 2018, 11 am - 4 pm Free. Accessible. Food available for sale. 
-  url: https://www.eventbrite.com/e/rhode-island-robot-block-party-2018-tickets-39758126627?aff=ebapi
-  logo: https://cdn.evbuc.com/images/37587833/13264621905/1/original.jpg?h=200&w=450&rect=0,0,684,342&s=019dc2b5e4b9d6aa0e0133beb0db6514
-  starts: 2018-04-07T11:00:00.0000000
-  ends: 2018-04-07T16:00:00.0000000
-  venue: Pizzitola Center
+
+
+
+    THE SECRET LIVES OF DINOSAURS
+
+    How do we go beyond the bones to bring dinosaurs to life? Dr. Clarke will explain the new toolkits she uses to  study what dinosaurs might have sounded or looked like when they roamed the Earth.
+
+
+    Dr. Julia Clarke: Wilson Professor of Vertebrate Paleontology & HHMI Professor, Jackson School of Geosciences, The University of Texas at Austin
+
+
+    #DinosaurBones
+
+
+
+
+
+
+
+    - This lecture will be streamed live on our website and our Facebook page, as well as recorded for on-demand viewing after the lecture.
+
+    - The Carnegie Institution for Science will open its doors at 6:00PM.
+
+    - An overflow room, with screens, will be available when our auditorium reaches maximum capacity. Seating in the auditorium is on a first-come, first-served basis.
+
+    The Carnegie Institution for Science has partnered with Colonial Parking to offer parking reservations for its public lectures and conferences: https://www.ecolonial.com/locations/carnegie-science/
+
+
+  url: https://www.eventbrite.com/e/the-secret-lives-of-dinosaurs-dr-julia-clarke-registration-43627579264?aff=ebapi
+  logo: https://cdn.evbuc.com/images/41482181/73621106387/1/original.jpg?h=200&w=450&rect=0,48,1920,960&s=93987cc8aa833a2cb8635f4d8a5c74fb
+  starts: 2018-03-29T18:30:00.0000000
+  ends: 2018-03-29T19:45:00.0000000
+  venue: Carnegie Institution for Science
 - name: 2018 State Healthcare IT Connect Summit, April 5-6 (pre-conf. on April 4), Hilton Baltimore, Baltimore MD.
   description: >2+
 
@@ -700,6 +650,14 @@
   starts: 2018-04-05T19:30:00.0000000
   ends: 2018-04-06T16:30:00.0000000
   venue: 'Hilton Baltimore Hotel '
+- name: BrrCON '18
+  description: BrrCon is a FREE cyber security training conference with the mission to facilitate knowledge sharing, network with peers and improve capabilities within the cyber security community. BrrCon is funded exclusively by regional businesses and there will be no sponsor booths or vendor pitches.
+  url: https://www.eventbrite.com/e/brrcon-18-tickets-43683837534?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/41554927/14990315791/1/original.jpg?h=200&w=450&rect=0,387,1984,992&s=5d5d1536ede5567f73afd1e62d7fa637
+  starts: 2018-06-08T07:30:00.0000000
+  ends: 2018-06-08T17:00:00.0000000
+  venue: Minneapolis Convention Center
 - name: Lower Hudson Valley Engineering Expo 2018
   description: >-
     Students and Families visiting the Lower Hudson Valley Engineering Expo Register Here on EventBrite!
@@ -722,52 +680,6 @@
   starts: 2018-04-15T11:00:00.0000000
   ends: 2018-04-15T15:30:00.0000000
   venue: White Plains Senior High School
-- name: BrrCON '18
-  description: BrrCon is a FREE cyber security training conference with the mission to facilitate knowledge sharing, network with peers and improve capabilities within the cyber security community. BrrCon is funded exclusively by regional businesses and there will be no sponsor booths or vendor pitches.
-  url: https://www.eventbrite.com/e/brrcon-18-tickets-43683837534?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/41554927/14990315791/1/original.jpg?h=200&w=450&rect=0,387,1984,992&s=5d5d1536ede5567f73afd1e62d7fa637
-  starts: 2018-06-08T07:30:00.0000000
-  ends: 2018-06-08T17:00:00.0000000
-  venue: Minneapolis Convention Center
-- name: The Secret Lives of Dinosaurs - Dr. Julia Clarke
-  description: >2+
-
-
-
-
-
-
-    THE SECRET LIVES OF DINOSAURS
-
-    How do we go beyond the bones to bring dinosaurs to life? Dr. Clarke will explain the new toolkits she uses to  study what dinosaurs might have sounded or looked like when they roamed the Earth.
-
-
-    Dr. Julia Clarke: Wilson Professor of Vertebrate Paleontology & HHMI Professor, Jackson School of Geosciences, The University of Texas at Austin
-
-
-    #DinosaurBones
-
-
-
-
-
-
-
-    - This lecture will be streamed live on our website and our Facebook page, as well as recorded for on-demand viewing after the lecture.
-
-    - The Carnegie Institution for Science will open its doors at 6:00PM.
-
-    - An overflow room, with screens, will be available when our auditorium reaches maximum capacity. Seating in the auditorium is on a first-come, first-served basis.
-
-    The Carnegie Institution for Science has partnered with Colonial Parking to offer parking reservations for its public lectures and conferences: https://www.ecolonial.com/locations/carnegie-science/
-
-
-  url: https://www.eventbrite.com/e/the-secret-lives-of-dinosaurs-dr-julia-clarke-registration-43627579264?aff=ebapi
-  logo: https://cdn.evbuc.com/images/41482181/73621106387/1/original.jpg?h=200&w=450&rect=0,48,1920,960&s=93987cc8aa833a2cb8635f4d8a5c74fb
-  starts: 2018-03-29T18:30:00.0000000
-  ends: 2018-03-29T19:45:00.0000000
-  venue: Carnegie Institution for Science
 - name: Security B-Sides Orlando 2018
   description: >+
      
@@ -795,6 +707,59 @@
   starts: 2018-04-07T08:00:00.0000000
   ends: 2018-04-07T17:00:00.0000000
   venue: Full Sail Live Venue
+- name: 'Trottier Symposium: Planning for Resiliency in the Face of Climate Change'
+  description: "\nThe 5th annual Trottier Symposium on Sustainable Engineering, Energy and Design\n\nPLANNING FOR RESILIENCY IN THE FACE OF CLIMATE CHANGE\nEngineering and design for sustainability are an essential part of a multi-faceted response to climate change particularly in urban centres, which may include increasing our resiliency in the face of extreme weather events, changing our water management practices, or adapting our cities and infrastructure to an unpredictable future. There is a need to identify robust strategies for responding to the challenges brought by climate change through adaptation, reorganization, and evolution. Our response to climate change must include solutions that allow our socio-ecological systems to not only survive, but thrive.\nThe 2018 5th Annual Trottier Symposium on Sustainable Engineering, Energy, and Design will focus on resilience and human responses to the threats brought on by climate change, while considering the following questions:\n\nWhat is resilience and why is it so important to ensure sustainability in the context of urbanization and climate change?\nHow can we be more resilient to disruptions such as extreme weather events, floods, drought, sea level rise, and heat waves? What solutions are being imagined, developed, and implemented?\nHow can infrastructure be protected and self-renewed following extreme weather events or other stresses exacerbated by climate change?\n\n\nSpeakers\nThe symposium is a free, public event, featuring prominent speakers on each day of the 2 day event. \nApril 4th - Day 1 - 6pm to 8pm\nGuy Nordenson, Professor of Structural Engineering and Architecture, Princeton University School of Architecture\nTITLE OF PRESENTATION TO BE ANNOUNCED\n\nPippa Brashear, Director of Planning and Resilience, SCAPE\n\nDESIGNING FOR RESILIENCE: ECOLOGY + ENGINEERING + ENGAGEMENT\n\nTranslating the ideas of resilience into realizable actions and implementable designs can be challenging. We are forced to design with uncertain and incomplete information for an environment that is changing around us. However, the need for action and innovation is urgent, and success requires collaborative and interdisciplinary action. This presentation explores the process that has taken one innovative coastal resilience project from conceptual idea to the later stages of design and the lessons learned about integrating and implementing physical, ecological, and social resilience on the way.\n\n\n\nAlan De Sousa, Borough Mayor of Saint-Laurent and City of Montreal Councillor\nTITLE OF PRESENTATION TO BE ANNOUNCED\n\nApril 5th - Day 2 - 6pm to 8pm\nKaren Seto, Professor of Geography and Urbanization Science, Yale University School of Forestry and Environmental Studies\nHOTTER, WETTER, DRIER: GLOBAL TRENDS IN URBANIZATION AND CHALLENGES FOR RESILIENCE\nThis talk will focus on global trends in urbanization and exposure to climate change impacts. It will highlight extreme climate events around the world - bomb cyclones, wildfires, floods, droughts - and how future urbanization may increase risk and vulnerability to these hazards.\n\nPhilippe Gourbesville, Professor Hydroinformatics and Water Engineering, University of Nice Sophia Antipolis\nRESILIENCE: OPPORTUNITIES AND CHALLENGES FOR CITIES\nDuring the last decade, urban development has reached new submits with generation of mega cities that concentrates several millions of inhabitants. Those new urban environments represent unknown challenges for modern societies that are still using – implicitly or explicitly – the same concepts for urban development since millennia. Sustainability of urban centres is today a major priority that has to be approached in a holistic way. The size of cities requests to rethink and review some of the engineering concepts that are currently used and to shift from the centralized approach to the distributed and connected paradigm. At the same time, gradual sophistication of urban environment has generated a significant increase of global vulnerability regarding extreme weather events that are frequently affecting urban communities. \n\nMore Information: http://www.trottiersymposium.org/\n\n\n\n\n\n\n5e Symposium Trottier annuel sur l’ingénierie, l’énergie et la conception durables\n\nVers une Stratégie de Résilience Face aux Changements Climatiques \n En matière de développement durable, l’ingénierie et la conception sont des éléments essentiels à une réponse multidimensionnelle au changement climatique, particulièrement dans les centres urbains. Il pourrait s’avérer nécessaire d’augmenter notre résilience dans le contexte des phénomènes climatiques extrêmes, de changer nos pratiques de gestion des ressources en eau ou d’adapter nos villes et nos infrastructures pour faire face à un avenir imprévisible. Nous devons donc définir de solides stratégies pour répondre aux défis entraînés par les changements climatiques, grâce à l’adaptation, à la réorganisation et à l’évolution. Notre réponse aux changements climatiques doit comprendre des solutions qui permettront non seulement à nos systèmes socio-écologiques de survivre, mais également de prospérer.\nLe 5e Symposium Trottier annuel sur l’ingénierie, l’énergie et la conception durables, édition 2018, porte principalement sur la résilience et les réponses humaines aux menaces qui découlent des changements climatiques, tout en se penchant sur les questions suivantes :\n\nQu’est-ce que la résilience et pourquoi est-il si important d’assurer la durabilité dans le contexte de l’urbanisation et des changements climatiques?\nComment pouvons-nous faire preuve d’une plus grande résilience aux perturbations comme les phénomènes climatiques extrêmes, les inondations, les périodes de sécheresse, l’élévation du niveau de la mer et les vagues de chaleur? Quelles solutions sommes-nous en train de concevoir, d’élaborer et de mettre en œuvre?\nComment pouvons-nous protéger les infrastructures et comment celles-ci peuvent-elles s’autorenouveler sous le coup des phénomènes climatiques extrêmes ou des autres stress aggravés par le changement climatique?\n\n\n\nConférenciers\n\nÉvénement public gratuit, le symposium présente des conférenciers de renom durant les deux jours du symposium. Les présentations seront données en anglais. \n  \n\n4 avril – 1re journée – de 18 h à 20 h\n\nGuy Nordenson, professeur, ingénierie structurale et architecture, école d’architecture de l’Université Princeton\nPippa Brashear, directrice de la planification et de la résilience, SCAPE\nAlan de Sousa, Maire d’arrondissement Saint-Laurent et conseiller de la ville ensemble Montréal\n \n\n5 avril – 2e journée - de 18 h à 20 h\n\nKaren Seto, professeure, géographie et études en urbanisme, école de foresterie et d’études environnementales de l’Université Yale \nPhilippe Gourbesville, professeur, hydro-informatique et ingénierie de l’eau, Université Nice-Sophia-Antipolis\n \nPour en savoir plus : http://www.trottiersymposium.org/\n\n"
+  url: https://www.eventbrite.ca/e/trottier-symposium-planning-for-resiliency-in-the-face-of-climate-change-tickets-42366576571?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/41968210/62693015505/1/original.jpg?h=200&w=450&rect=0,30,960,480&s=49d757469827b4a31c0d5f15d87cddcb
+  starts: 2018-04-04T18:00:00.0000000
+  ends: 2018-04-04T20:00:00.0000000
+  venue: Centre Mont-Royal
+- name: STEM Edutainment (Elementary/Middle only)
+  description: >-
+    Join the Savannah State STEM Success Center for fun, exciting, and educational events involving STEM (Science, Technology, Engineering, Mathematics)-based activities!
+
+    DUE TO LIMITED SPACE, PLEASE CONFIRM AN ACCURATE NUMBER OF ATTENDEES DURING REGISTRATION!
+
+    FAQs & Questions???
+
+    What is the STEM Success Center?
+
+    Formerly known in the community as “STEM 360”, a service-based program geared towards the College of Science and Technology undergraduates. Events and programing under this center involve service to the community through undergraduate outreach, including elementary and middle school populations.
+
+    What age group is this event for?
+
+    4th grade - 8th grade, space is limited so register quickly and confirm an accurate number of attendees. 
+
+    How much does this event cost?
+
+    The event is FREE, however, students attending the program will need to provide their own lunch. Lunch will be available for purchase through Thompson Hospitality Dining Services, $10 will cover the cost of lunch. For questions about meals and dietary needs call 912-358-3135
+
+    Do I have to stay with my child, can I volunteer?
+
+    Unless your child is coming with a designated group (i.e. school classes, after-school programs, church groups, etc.) we ask that you accompany your child through the duration of the event. If you would like to volunteer, please contact program manager Mr. Cedric Beamon at beamonc@savannahstate.edu or 912-358-3185.
+
+    What should my child wear?
+
+    Dress COMFORTABLE, walking shoes and “play clothes” …some water is involved in one of the activities, so dress your child in clothes you do not mind them getting slightly wet in for the day.
+
+    What should my child bring?
+
+    We do suggest to bring a bottle of water and light snack, but it is not necessary. If your child needs to take any medication, or uses an inhaler, please bring all needed material and alert the attending staff upon check-in.
+  url: https://www.eventbrite.com/e/stem-edutainment-elementarymiddle-only-tickets-41217637062?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38756511/5570662573/1/original.jpg?h=200&w=450&rect=0,49,1874,937&s=471812c782ca3f66a59b406400cb8a2b
+  starts: 2018-03-31T09:00:00.0000000
+  ends: 2018-03-31T15:00:00.0000000
+  venue: Savannah State University Tiger Arena
+- name: 'The Black is Tech Conference: East'
+  description: "\nThe Black is Tech Conference will bring thousands of tech enthusiasts in the Black Community for a day of exhibitions, seminars and everything tech.\n\n\n\n\n\nThis event is a continuation of the movement to create a stronger presence of the black community in the tech ecosystem. \n\n\n\n\n\nThe event will include Seminars and Panel Discussions led by seasoned Tech Entrepreneurs in the tech community (Some of the names you already know. TBA). There will also be a large exhibit Hall of Startups with black founders as well as some of the popular tech companies in the industry. \n\n\n\n\n\nThere will be smaller talk sessions on the current state of tech and other trending topics including Artificial Intelligence, Blockchain, and more. There will be games, networking and more at this event. The Black is Tech Conference hopes to be an all -inclusive event that touches various areas of technology. \n\n\n\n\n\nNote: We are not making this event only for the Techie. This is for anyone who is excited about technology and the many ways it has and continues to make the world a much better place. It will also be a good platform to show the contributions of the black industry to technology. There is a little tech in all of us... So Techies and Non-Techies are welcome. \n\n\n\n\n\n*More Announcements to Follow.\n\n\n*This event is for the entire United States residents and not NYC and surrounding residents alone. We are working on getting discounted travel packages for attendees that plan to travel for this event. \n\n\n\n\n-Venue (TBA)\n\n\n\n-Ticket Sales begin in March. Click on Ticket Link to be notified when tickets go on sale and register for a free ticket. Note that the free RSVP is not a ticket for admission. We'll be sending an email once to our RSVP list once ticket sales go live. \n\n\n"
+  url: https://www.eventbrite.com/e/the-black-is-tech-conference-east-tickets-42775801574?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/40390678/10015687455/1/original.jpg?h=200&w=450&rect=0,4,1364,682&s=53e9ad07bfe6351c43bcb2b0742c601c
+  starts: 2018-08-18T11:00:00.0000000
+  ends: 2018-08-18T20:00:00.0000000
+  venue: New York
 - name: Web à Québec 2018 (WAQ18)
   description: >-
     LE PLUS GRAND ÉVÉNEMENT NUMÉRIQUE FRANCOPHONE EN AMÉRIQUE DU NORD EST DE RETOUR POUR UNE 8e ÉDITION !  
@@ -856,29 +821,6 @@
   starts: 2018-04-10T08:30:00.0000000
   ends: 2018-04-12T17:00:00.0000000
   venue: Le Terminal - Port de Québec
-- name: 'Trottier Symposium: Planning for Resiliency in the Face of Climate Change'
-  description: "\nThe 5th annual Trottier Symposium on Sustainable Engineering, Energy and Design\n\nPLANNING FOR RESILIENCY IN THE FACE OF CLIMATE CHANGE\nEngineering and design for sustainability are an essential part of a multi-faceted response to climate change particularly in urban centres, which may include increasing our resiliency in the face of extreme weather events, changing our water management practices, or adapting our cities and infrastructure to an unpredictable future. There is a need to identify robust strategies for responding to the challenges brought by climate change through adaptation, reorganization, and evolution. Our response to climate change must include solutions that allow our socio-ecological systems to not only survive, but thrive.\nThe 2018 5th Annual Trottier Symposium on Sustainable Engineering, Energy, and Design will focus on resilience and human responses to the threats brought on by climate change, while considering the following questions:\n\nWhat is resilience and why is it so important to ensure sustainability in the context of urbanization and climate change?\nHow can we be more resilient to disruptions such as extreme weather events, floods, drought, sea level rise, and heat waves? What solutions are being imagined, developed, and implemented?\nHow can infrastructure be protected and self-renewed following extreme weather events or other stresses exacerbated by climate change?\n\n\nSpeakers\nThe symposium is a free, public event, featuring prominent speakers on each day of the 2 day event. \nApril 4th - Day 1 - 6pm to 8pm\nGuy Nordenson, Professor of Structural Engineering and Architecture, Princeton University School of Architecture\nTITLE OF PRESENTATION TO BE ANNOUNCED\n\nPippa Brashear, Director of Planning and Resilience, SCAPE\n\nDESIGNING FOR RESILIENCE: ECOLOGY + ENGINEERING + ENGAGEMENT\n\nTranslating the ideas of resilience into realizable actions and implementable designs can be challenging. We are forced to design with uncertain and incomplete information for an environment that is changing around us. However, the need for action and innovation is urgent, and success requires collaborative and interdisciplinary action. This presentation explores the process that has taken one innovative coastal resilience project from conceptual idea to the later stages of design and the lessons learned about integrating and implementing physical, ecological, and social resilience on the way.\n\n\n\nAlan De Sousa, Borough Mayor of Saint-Laurent and City of Montreal Councillor\nTITLE OF PRESENTATION TO BE ANNOUNCED\n\nApril 5th - Day 2 - 6pm to 8pm\nKaren Seto, Professor of Geography and Urbanization Science, Yale University School of Forestry and Environmental Studies\nHOTTER, WETTER, DRIER: GLOBAL TRENDS IN URBANIZATION AND CHALLENGES FOR RESILIENCE\nThis talk will focus on global trends in urbanization and exposure to climate change impacts. It will highlight extreme climate events around the world - bomb cyclones, wildfires, floods, droughts - and how future urbanization may increase risk and vulnerability to these hazards.\n\nPhilippe Gourbesville, Professor Hydroinformatics and Water Engineering, University of Nice Sophia Antipolis\nRESILIENCE: OPPORTUNITIES AND CHALLENGES FOR CITIES\nDuring the last decade, urban development has reached new submits with generation of mega cities that concentrates several millions of inhabitants. Those new urban environments represent unknown challenges for modern societies that are still using – implicitly or explicitly – the same concepts for urban development since millennia. Sustainability of urban centres is today a major priority that has to be approached in a holistic way. The size of cities requests to rethink and review some of the engineering concepts that are currently used and to shift from the centralized approach to the distributed and connected paradigm. At the same time, gradual sophistication of urban environment has generated a significant increase of global vulnerability regarding extreme weather events that are frequently affecting urban communities. \n\nMore Information: http://www.trottiersymposium.org/\n\n\n\n\n\n\n5e Symposium Trottier annuel sur l’ingénierie, l’énergie et la conception durables\n\nVers une Stratégie de Résilience Face aux Changements Climatiques \n En matière de développement durable, l’ingénierie et la conception sont des éléments essentiels à une réponse multidimensionnelle au changement climatique, particulièrement dans les centres urbains. Il pourrait s’avérer nécessaire d’augmenter notre résilience dans le contexte des phénomènes climatiques extrêmes, de changer nos pratiques de gestion des ressources en eau ou d’adapter nos villes et nos infrastructures pour faire face à un avenir imprévisible. Nous devons donc définir de solides stratégies pour répondre aux défis entraînés par les changements climatiques, grâce à l’adaptation, à la réorganisation et à l’évolution. Notre réponse aux changements climatiques doit comprendre des solutions qui permettront non seulement à nos systèmes socio-écologiques de survivre, mais également de prospérer.\nLe 5e Symposium Trottier annuel sur l’ingénierie, l’énergie et la conception durables, édition 2018, porte principalement sur la résilience et les réponses humaines aux menaces qui découlent des changements climatiques, tout en se penchant sur les questions suivantes :\n\nQu’est-ce que la résilience et pourquoi est-il si important d’assurer la durabilité dans le contexte de l’urbanisation et des changements climatiques?\nComment pouvons-nous faire preuve d’une plus grande résilience aux perturbations comme les phénomènes climatiques extrêmes, les inondations, les périodes de sécheresse, l’élévation du niveau de la mer et les vagues de chaleur? Quelles solutions sommes-nous en train de concevoir, d’élaborer et de mettre en œuvre?\nComment pouvons-nous protéger les infrastructures et comment celles-ci peuvent-elles s’autorenouveler sous le coup des phénomènes climatiques extrêmes ou des autres stress aggravés par le changement climatique?\n\n\n\nConférenciers\n\nÉvénement public gratuit, le symposium présente des conférenciers de renom durant les deux jours du symposium. Les présentations seront données en anglais. \n  \n\n4 avril – 1re journée – de 18 h à 20 h\n\nGuy Nordenson, professeur, ingénierie structurale et architecture, école d’architecture de l’Université Princeton\nPippa Brashear, directrice de la planification et de la résilience, SCAPE\nAlan de Sousa, Maire d’arrondissement Saint-Laurent et conseiller de la ville ensemble Montréal\n \n\n5 avril – 2e journée - de 18 h à 20 h\n\nKaren Seto, professeure, géographie et études en urbanisme, école de foresterie et d’études environnementales de l’Université Yale \nPhilippe Gourbesville, professeur, hydro-informatique et ingénierie de l’eau, Université Nice-Sophia-Antipolis\n \nPour en savoir plus : http://www.trottiersymposium.org/\n\n"
-  url: https://www.eventbrite.ca/e/trottier-symposium-planning-for-resiliency-in-the-face-of-climate-change-tickets-42366576571?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/41968210/62693015505/1/original.jpg?h=200&w=450&rect=0,30,960,480&s=49d757469827b4a31c0d5f15d87cddcb
-  starts: 2018-04-04T18:00:00.0000000
-  ends: 2018-04-04T20:00:00.0000000
-  venue: Centre Mont-Royal
-- name: Undoing the Future, a lecture by Karen Barad
-  description: 'The indeterminacy of time-being at the core of quantum theory troubles the scalar distinction between the world of subatomic particles and that of social phenomena such as colonialism, capitalism, militarism, racism, nationalism and environmental destruction – all of which are entangled with nuclear and particle physics research. Quantum physics is a material-discursive practice with direct ties to the military-industrial complex, and while it gave birth to the atomic age, quantum physics disrupts classical Newtonian physics (which has its own troubled legacy in the service of war, colonialism, capitalist expansion, and empire building), including its foundational notions of space, time, and matter. In the annual Roslyn Silver ’27 Science Lecture, Karen Barad takes up quantum physics’ immanent deconstructive dynamics, consider ways in which quantum physics troubles modernist conceptions of time, and ask whether quantum temporalities might offer radical political imaginaries for cohabiting this planet more justly by undoing the future.Karen Barad is Professor of Feminist Studies, Philosophy, and History of Consciousness at the University of California, Santa Cruz. There, she co-directs the Science & Justice Graduate Training Program, funded by the National Science Foundation, which “trains science and engineering students alongside social science and humanities students to identify and respond to moments where research requires attentiveness to questions of policy, ethics, and justice.” She has a doctorate in theoretical partical physics and is the author of author of Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning.Details and AccessibilityThis event is free and open to the public. The venue is accessible to people with mobility disabilities. Please contact BCRW for additional accessibility needs.'
-  url: https://www.eventbrite.com/e/undoing-the-future-a-lecture-by-karen-barad-tickets-41563678080?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38989446/26777111825/1/original.jpg?h=200&w=450&rect=0,129,400,200&s=de40d3f61c0e92bd7abef7d6fe1b7711
-  starts: 2018-03-19T18:00:00.0000000
-  ends: 2018-03-19T19:30:00.0000000
-- name: 'The Black is Tech Conference: East'
-  description: "\nThe Black is Tech Conference will bring thousands of tech enthusiasts in the Black Community for a day of exhibitions, seminars and everything tech.\n\n\n\n\n\nThis event is a continuation of the movement to create a stronger presence of the black community in the tech ecosystem. \n\n\n\n\n\nThe event will include Seminars and Panel Discussions led by seasoned Tech Entrepreneurs in the tech community (Some of the names you already know. TBA). There will also be a large exhibit Hall of Startups with black founders as well as some of the popular tech companies in the industry. \n\n\n\n\n\nThere will be smaller talk sessions on the current state of tech and other trending topics including Artificial Intelligence, Blockchain, and more. There will be games, networking and more at this event. The Black is Tech Conference hopes to be an all -inclusive event that touches various areas of technology. \n\n\n\n\n\nNote: We are not making this event only for the Techie. This is for anyone who is excited about technology and the many ways it has and continues to make the world a much better place. It will also be a good platform to show the contributions of the black industry to technology. There is a little tech in all of us... So Techies and Non-Techies are welcome. \n\n\n\n\n\n*More Announcements to Follow.\n\n\n*This event is for the entire United States residents and not NYC and surrounding residents alone. We are working on getting discounted travel packages for attendees that plan to travel for this event. \n\n\n\n\n-Venue (TBA)\n\n\n\n-Ticket Sales begin in March. Click on Ticket Link to be notified when tickets go on sale and register for a free ticket. Note that the free RSVP is not a ticket for admission. We'll be sending an email once to our RSVP list once ticket sales go live. \n\n\n"
-  url: https://www.eventbrite.com/e/the-black-is-tech-conference-east-tickets-42775801574?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/40390678/10015687455/1/original.jpg?h=200&w=450&rect=0,4,1364,682&s=53e9ad07bfe6351c43bcb2b0742c601c
-  starts: 2018-08-18T11:00:00.0000000
-  ends: 2018-08-18T20:00:00.0000000
-  venue: New York
 - name: Home School Electrical Safety Day
   description: >-
     On Friday, April 20 home school families are invited to visit First Electric Cooperative in Jacksonville for a Home School Families - Electrical Safety Day. This event will allow students of all ages to learn more about electricity and how to live, work and play safely around it.
@@ -923,6 +865,382 @@
   starts: 2018-03-26T08:00:00.0000000
   ends: 2018-03-28T17:00:00.0000000
   venue: NRECA Building
+- name: Sustainability Crash Course 2018
+  description: >+
+    Imagine being able to spend one amazing day immersed in learning about sustainable design—and meeting the people who have pioneered new thinking and practices. On Saturday, March 24, 2018, Pratt’s CSDS will present the eigth annual Sustainability Crash Course, a day-long series of workshops with a host of experts from Pratt’s sustainable design faculty and elsewhere. With over 20 speakers, it is sure to be a fantastic day of exploration and inspiration! Registration required.
+
+
+
+    PRESENTATION SCHEDULE
+
+    9:00 - 9:15 am
+
+    Registration. Please sign in on the 1st Floor of the Engineering Building on Pratt's Brooklyn Campus
+
+    9:15  - 10:00 am : Session 1
+
+    Session 1A: Sustainable Fashion is Personal: The Industry’s Impact on Workers, Communities and YOU
+
+    Alexandra P. McNair - Founder, Fashion FWD
+
+    Session 1B: Up Sh*t's Creek: Creative Approaches to Organizing in Flushing, Queens
+
+    Cody Ann Herrmann - Artist and Grassroots Organizer
+
+    Session 1C: Green Roofs & Machu Picchu
+
+    Brent Porter - Adjunct Professor of the School of Architecture
+
+    10:00 - 10:10 am : Break
+
+    10:10 - 10:55 am : Session 2
+
+    Session 2A: Digital Storytelling: How To Create Authentic Content and Grow Your Business Online
+
+    Sam Dagirmanjian - Co-Founder of Storey Inc.
+
+    Session 2B: MAKING CONTACT… Music of the Plant
+
+    Marguerite Uhlmann-Bower - RN, Clinical Herbalist
+
+    Session 2C: Reimagining Waste
+
+    Josh Draper - Lecturer, Rensselaer Polytechnic Institute, Principal, PrePost
+
+    10:55 - 11:05 am : Break
+
+    11:05 - 11:50 am : Session 3
+
+    Session 3A: What you wear tells who you are. Speak well.
+
+    Althea Simons - Founder/designer/CEO of Grammar NYC
+
+    Session 3B: Climate Futures, Building Futures, City Futures - Getting New York City Ready for Tomorrow
+
+    Richard W. Leigh - PhD, PE, LEED AP, Visiting Professor of Physics at Pratt Institute
+
+    Session 3C: Biomimicry: Interior Design Strategies and Examples
+
+    Tetsu Ohara - Pratt Institute, Interior Design Department
+
+    11:50 am - 1:00 pm : Lunch Break
+
+    1:00 - 2:20 pm: Session 4
+
+    Session 4A: Weaving Culture and Sustainable Fashion
+
+    Melissa Eidson - Director & Producer
+
+    Manfred Lopez Grem - Cinematographer (Tlahuitoltepec, Oaxaca)
+
+    Dana Schlieman - Editor
+
+    Session 4B: What's in my Water?
+
+    Kayla Fennelly - Project Coordinator NYPIRG
+
+    Session 4C: Citizen Enforcement Can Eliminate Vehicle Idiling
+
+    George Pakenham - Filmaker
+
+    2:20 - 2:30 pm : Break
+
+    2:30 - 3:15 pm : Session 5
+
+    Session 5A: Field notes: The Global Organic Textile Standard and Sustainability
+
+    Ely Battalen - Sustainability Consultant and Educator
+
+    Session 5B: Take Back the Tap
+
+    Jennifer E. Telesca - Assistant Professor of Environmental Justice in the Department of Social Science and Cultural Studies at Pratt Institute
+
+    Rebecca Welz - Adjunct Professor - CCE, Adjunct Professor - CCEFoundation Art, Industrial Design
+
+    3:15 - 3:25 pm : Break
+
+    3:25 - 4:45 pm: Keynote Panel: THE TRUMP EFFECT: Women, Weapons & Weather
+
+    Brenna Cohen - NYC District Environmental Coordinator for Patagonia
+
+    Debera Johnson - Executive Director, Brooklyn Fashion +Design Accelerator
+
+    Susan Lerner - Executive Director for Common Cause NY
+
+    Mireia lopez - Creative Director and Founder of Milo Tricot
+
+    Nantasha Williams - Women’s March
+
+
+    PRESENTATIONS DETAILS
+
+
+    Up Sh*t's Creek: Creative Approaches to Organizing in Flushing, Queens
+
+    Cody Ann Herrmann - Artist and Grassroots Organizer
+
+    Drawing from participatory design and socially engaged art practices, artist and organizer Cody Ann Herrmann asks-- how might ecological issues be communicated to the public? Using NYC's Flushing Creek as a case, the artist's ongoing series of workshops, tours, performances, and onsite interventions are explored to understand effective methods for documenting and sharing information about pollution and land-use issues impacting the dynamic waterway.
+
+    __
+
+    Cody Ann Herrmann is a New York City based artist and community organizer with an interest in participatory design methods, public space, and local sustainable development. Through multidisciplinary arts, community engagement exercises, and urban design practices she applies an iterative, human centered approach to ecological problem solving. Cody’s work explores the relationships between land-use, urban infrastructure, and environmental degradation with a focus on communicating the problems and solutions of environmental issues to the populations they directly impact. Working in her hometown of Flushing, Queens, Cody started an ongoing series of multidisciplinary work in 2015 addressing pollution and development in and around Flushing Bay and Creek. Cody is currently studying to receive an MFA from Social Practice Queens at CUNY Queens College.
+
+    http://www.codyannherrmann.com/
+
+
+    Digital Storytelling:  How To Create Authentic Content and Grow Your Business Online 
+
+    Sam Dagirmanjian, Co-Founder of Storey Inc.
+
+    So you have a nice website, but how do you get new customers to actually visit?  In this talk we introduce the concept of content marketing and show how valuable authentic content creation is for brands with a sustainable mission.  Finally, through a demo of storeyapp.com, we'll discuss the types of stories people engage with online and how to present your own brand stories in ways that generate sales.
+
+    __
+
+    Sam Dagirmanjian and Nicholas Pattison are Brooklyn based entrepreneurs who are Venture Fellows in the BF&DA. They are the creators of Storeyapp.com, a new DIY tool that help brands engage online audiences through authentic content that is visual, interactive, candid, and fluid across multiple devices.  Sam has over 7 years of experience in e-commerce and digital marketing. Together with Nick, he previously founded the online sustainable marketplace, Purible.  He holds a BS in International Relations from Dartmouth College and lives in Brooklyn with his wife and 8 month old daughter. 
+
+
+    Reimagining Waste
+
+    Josh Draper - Lecturer, Rensselaer Polytechnic Institute | Principal, PrePost
+
+    Josh Draper is an architect, teacher and researcher. For this talk, he will present three projects that reimagine the function and value of waste for the built environment.
+
+
+
+    Film Screening: Weaving Culture and Sustainable Fashion
+
+    Melissa Eidson, Director & Producer
+
+    Manfred Lopez Grem, Cinematographer (Tlahuitoltepec, Oaxaca)
+
+    Dana Schlieman, Editor
+
+    Documentary screening of No Son Invisibles: Maya Women and Microfinance with Muhammad Yunus about women weavers receiving loans for their entrepreneurial pursuits in the highlands of Chiapas, Mexico and Weaving Culture about human rights issues of marginalized weavers from the developing world - Oaxaca, Mexico and Vientiane, Laos - and their petitions for justice regarding cultural heritage as expressed in their traditional textile designs. Discussion/Q&A about ethical/sustainable business practices in the fashion industry within the context of UN Sustainable Development Goals.
+
+    __
+
+    Dana Schlieman is a New York based artist, writer, and filmmaker.  She grew up in Costa Rica and discovered a love of film and television when she was 9 years old. Dana’s work is primarily character driven.  She has a marked interest in exploring interpersonal human relationships, as well as issues of feminism and body image. Dana received her BFA in Film/Video from Pratt Institute in 2017. Her thesis film Nunca Jamás was featured in NewFest: New York's LGBT Film Festival the same year. 
+
+
+    Melissa lived in Mexico for more than a decade. Her first documentary, El Barrio, was screened at the Cannes Film Festival and won Best International Documentary Award in October of 2006 at the New York International Independent Film and Video Festival in Los Angeles and the Founders Choice Award for Best Feature Documentary in New York City in November, 2006. It was in the official selection at the Berlin Film Festival in a group of Latin American films. Her second film, No Son Invisibles: Maya Women and Microfinance featuring Muhammad Yunus, was originally screened at Cannes film festival in France and the Buñuel Festival in Calanda, Spain. It was translated into various languages, including Arabic for the Fajr International Film Festival in Tehran, Iran.  It went on to the Guadalajara Film Festival, Torino and Roma Film Festivals in Italy and The Seattle Int'l Latino Film Festival as well as the Del Ray Beach Film Festival in the US.  It was additionally shown at The University of Washington and University of Texas as well as in San Francisco for the Women Advancing Microfinance organization. It has been acquired by university libraries at Harvard, Stanford, UT, TCU, Baylor, University of Washington, Vanderbilt, USC, and SMU libraries among others. Her current documentary about cultural appropriation and sustainability in the fashion industry, Weaving Culture, is in post production and will begin the festival circuit this summer. It takes place in weaving communities in the highlands of Oaxaca, Mexico and Laos, and the fashion industry of New York city and Paris. Information about WeavingCulture documentary and tax free donations for finishing funds can be found here: 
+
+    http://www.thefilmcollaborative.org/fiscalsponsorship/projects/weavingculture
+
+    Manfred López currently is the president of a non-profit organization in Mexico called the National Society of the Cinematic Arts and Sciences. As a film director he has directed over 200 works including short films, music videos, documentaries, commercials and other types of works. He also mantains an active schedule teaching workshops, offering consulting services, keynoting conferences, and heading casting tours in several cities as part of his work related to maintain Mexico's National Actor's Registry. His professional activities have been covered extensively in Mexico's media. Over 150 articles have been published on the topic to date, including magazine and newspaper coverage from Variety, Proceso and El Universal.
+
+
+
+    Film Screening: Citizen Enforcement Can Eliminate Vehicle Idiling
+
+    George Pakenham - Filmaker
+
+    Idling engines consume more than 6 billion gallons of gasoline annually in the U.S., a significant but little-known contributor to local air pollution, respiratory disease and global climatechange. Idle Threat is a lively look at one man’s spirited struggle to improve public health by raising awareness about idling’s impact, starting in New York City. Against all odds, he succeeds, helping improve local air quality, and in the process gains world-wide recognition for the anti-idling cause, with articles featured in the Wall Street Journal, New Yorker magazine, and the Financial Times.
+
+    In white shirt and tie, Wall Street banker George Pakenham has walked the streets of New York for over five years, courteously confronting over 3,000 motorists to explain idling’s impact and the law prohibiting running a parked vehicle for more than a short time. Responses vary from thanks to anger, but Pakenham never wavers. He’s determined that the problems idling poses be recognized, and lobbies successfully for the city to enforce its idling laws.
+
+    Featuring Click and Clack from NPR’s Car Talk, and Mayor Michael Bloomberg, Idle Threat profiles one man’s challenging quest to make his city and the world a healthier place, and shows that sometimes one person – and a simple act like turning a key – can make a big difference.
+
+    __
+
+    George was born and raised in new jersey.  And after graduating from the University of Arizona in 1972, he sold all his worldly possessions and spent a year traveling America, living meagerly and seeking new adventures, -- which focused on George’s love of nature.   His first post- college job was a 3 month stint as a tour guide at Glacier Park in Montana.  Pakenham then hiked the Appalachian Trail from Maine to Connecticut.  George set a goal to travel around the world before he was 25,  a goal he accomplished, ….  twice.
+
+    His adventures included a 7-month stint working as a sailor on a Norwegian passenger ship, visiting more than 75 ports of call.   There he witnessed with alarm, that the ship never shut off its engines while in port,  it sat there with its smoke stacks churning out a sooty toxic mess.  
+
+    Eventually, George jumped ship and traveled solo for 12 months:   behind the Iron Curtain, in the Middle East, Africa and Asia. George then moved to New York City for careers in advertising, real estate management and banking. Currently, he is Director of Business Development for a regional bank that provides many services including securing finances for wind and solar farms.
+
+    In the 1980s George studied the craft of television production, working as a volunteer at, the video project at Riverside Church in NYC where he learned to produce, direct and edit video - skills instrumental in the production of his ground breaking film, Idle Threat.
+
+    The film and its creator have received much publicity, including stories in the New Yorker Magazine, on BBC, and On NPR.  Last year Mr. Pakenham was chosen by Parade Magazine as environmentalist of the year in NY state. Pakenham has also produced a second documentary movie, three short films, two novels and a children’s book, titled: Big Nose Big City.
+
+    George is a humble member of the Marble Church in NYC and a five year member of the Benevolence Committee, which provides financial grants to needy non-profits in NY and around the world.   
+
+
+    Field notes: The Global Organic Textile Standard and Sustainability
+
+    Ely Battalen -  Sustainability Consultant and Educator
+
+    The fashion industry is the second largest polluter in the world. The Global Organic Textile Standard is a direct climate action tool. In our discussion, we will unpack both the environmental and social components of the Standard, drawing from direct field experience with the cotton gins, dye houses, cut and sew facilities, spinners, weavers, marketers, brands and labels. 
+
+    __
+
+    Ely has a decade of experience creating standards, consulting and performing audits of sustainable programs around the world. Working with textiles, biofuels, seafood and recycled commodities in a wide spectrum, he has been engaged in over a dozen programs and is a member of the International Organic Inspectors Association. Ely grew up on an organic farm in the Berkshire Hills of New England. He has always been passionate about sustainability from the moment he could join his family in the harvest and the preparation and preservation of food. Battalen received his undergraduate degree from Middle Tennessee State University, studied music production and is fluent in German. When he is not on the road, he calls Brooklyn home.
+
+
+    Sustainable Fashion is Personal: The Industry’s Impact on Workers, Communities and YOU  
+
+    Alexandra P. McNair - Founder, Fashion FWD
+
+    @fashionfwdusa
+
+    Alexandra will address the human health needs of the American consumer. While food and drugs are regulated, fabrics and dyes come into equal contact with our bodies, but are almost completely unregulated. How is this impacting workers, communities and ourselves when we wear these products and what can we do about it?
+
+    __
+
+    Alexandra McNair is the Founder of non-profit Fashion FWD, which focuses on detoxing the supply chain and improving future health outcomes of garment workers, worker communities and individuals. With over twelve years of business development experience, Alexandra has managed sustainability projects with apparel brands, governments, and private equity teams both in the USA and internationally on issues such as ESG integration, responsible sourcing, product health, factory conditions and resource management around water, chemicals and waste. She was an early adopter of sustainable fashion when she founded a jeans company in 2007 using all recycled fabric. She currently works with various fashion schools, developing their sustainability curriculums and writing university courses. Her current work in sustainability is Chaired by the head of the Climate Committee and former Secretary of State for the Environment and Agriculture and Fisheries in the UK, Lord Deben. 
+
+
+    What you wear tells who you are. Speak well. 
+
+    Althea Simons, founder/designer/CEO of Grammar NYC
+
+    How can we address issues of sustainability in the fashion industry with entrepreneurship? We will explore the challenges and opportunities inherent in integrating positive impact and profitability in our business plans.
+
+    __
+
+    Grammar designer Althea Simons holds an MBA in Entrepreneurial Management from The Wharton School of the University of Pennsylvania; a BS in Neuroscience from Brown University, and an AAS in Fashion Design from Parsons, The New School for Design. Her fashion and retail experience includes time at Yeohlee, Inc. and Issey Miyake, USA. She is a Venture Fellow at the Brooklyn Fashion + Design Accelerator.
+
+
+    Biomimicry: Interior Design Strategies and Examples
+
+    Tetsu Ohara - Pratt Institute, Interior Design Department
+
+    3.8 million years of design & development by nature + human adaptation + benefits for the human/environment.The presentation is to showcase one of the Option Lab courses taught in the Interior Design program. It will include summary of the lectures as well as students’ design proposals from the last semester.
+
+    By understanding the principle of Biomimicry 3.8, (geometric analysis, growth pattern, structural function, etc) the class does not teach how to only mimic form/function. It explores the life cycle analysis as well as the indoor environmental quality in some ways that benefit human health/environment.
+
+    __
+
+    Tetsu Ohara is an adjunct associate professor and departmental sustainability coordinator in the Department of Interior Design and has been leading the Pratt Sustainability Coalition for the last 10 years. He is also a partner at SpatialDesignStudio, Inc in the NYC.
+
+
+    Take Back the Tap
+
+    Jennifer E. Telesca - Assistant Professor of Environmental Justice in the Department of Social Science and Cultural Studies at Pratt Institute
+
+    Rebecca Welz - Adjunct Professor - CCE, Adjunct Professor - CCEFoundation Art, Industrial Design
+
+    __
+
+    Jennifer E. Telesca is Assistant Professor of Environmental Justice in the Department of Social Science and Cultural Studies at Pratt Institute. Her research takes a critical approach to ocean studies, spanning the interests of the human–animal relationship, science and technology, political ecology and environmental diplomacy. Her book, tentatively titled, Marine Conservation in Times of Extinction, is one of the first to offer a worm’s eye view of ocean governance. It is based on ethnographic research conducted since 2010 while she served as an accredited observer of the International Commission for the Conservation of Atlantic Tunas (ICCAT). Her findings show this supranational regime conserves not high seas fish but the export markets of member states for the economic growth of commodity empires, told through the measured slaughter of Atlantic bluefin tuna, once giant. Telesca holds a PhD in Media, Culture and Communication from New York University (2014), where she earned a Distinguished Dissertation Award. Prior to her doctoral studies, she received a BA with Departmental Honors in History (University of Richmond), a Graduate Certificate in Women’s Studies (University of Connecticut—Storrs) and double MAs in Anthropology (University of Connecticut—Storrs) and in Law and Society (New York University). Grants from the American Association of University Women (AAUW) and the Horowitz Foundation for Social Policy, among others, have generously supported her research. Her work has appeared online and in such journals as Environment and Society, The Cambridge Journal of Anthropology and Humanity: An International Journal of Human Rights, Humanitarianism and Development.
+
+
+    MAKING CONTACT… Music of the Plant
+
+    Marguerite Uhlmann-Bower, RN, Clinical Herbalist
+
+    We look into space to find intelligence. Yet possibly the greatest forms of intelligent life are right out our back door... plants. As Plant Pioneers we explore plant intelligence through listening to the “musical sounds” created by plants in response to their surrounding environment. Join Marguerite Uhlmann-Bower as she demonstrates this music via a sensitive synthesizer that translates into rhythmic sounds the electrical impulses plants broadcast from one plant to other plants, and ultimately to the world. Engage in conversations that ask just what is going on with the plants, and then, “Where do we go from here?”  “How does knowing about this Music of the Plants help us connect to, and perhaps answer questions about, our current environmental crisis?”
+
+    __
+
+    Marguerite Uhlmann-Bower, RN, Clinical Herbalist, wild foods forager and teacher of herbal traditions is co-founder of Plant Pioneers, a Human-Plant Relations Movement based in the Catskills of upstate New York. Her work invites people to become interested in plants through hands-on, outdoor experiences that bridge traditional herbal medicines, wild edibles and our own experiences with the natural world. She addresses both the needs of humans and nature as one ecological system. In recent years her additional tools of choice are Music of the Plants and Cymatics which interconnect the observer on a palpable human-plant level. She believes that as we integrate plants into our activities of daily living, at love, work and play, we’ll eventually make beneficial changes for the future of our environment. Contact Marguerite to get involved, to learn more, for workshops and lectures on herbalism and plant intelligence scheduling. 3moonsisters@gmail.com   607-437-1218  www.PlantPioneers.org
+
+
+    What's in my Water?
+
+    Kayla Fennelly - Project Coordinator NYPIRG
+
+    Clean water is essential for life and among our most precious resources. While federal and state laws are supposed to protect us, we know that public and private drinking water sources are under constant threat; that crumbling water infrastructure may further contaminate water supplies; and that government monitoring and enforcement resources face significant uncertainties at the federal level. NYPIRG offers these drinking water profiles to educate New Yorkers about the state of their drinking water, the presence of contaminants found through laboratory testing, and location and nature of some potential threats to local drinking water. We will also discuss contaminants found in bottled water, and how plastic pollution is finding it's way into our drinking water.
+
+    __
+
+    Kayla Fennelly is a Project Coordinator with the New York Public Interest Research Group, and oversees the advocacy efforts here at Pratt while recruiting and training students on how to advocate and organize for a variety of issues.
+
+
+    Climate Futures, Building Futures, City Futures - Getting New York City Ready for Tomorrow
+
+    Richard W. Leigh - PhD, PE, LEED AP, Visiting Professor of Physics at Pratt Institute
+
+    First, the latest on climate change - it's only looking bleaker, but let's see how. Then, what can we do? In "90 by 50," Urban Green Council and Pratt Institute showed that a nearly carbon-free future is possible for NYC, the technology is here today, and the cost manageable. But possible doesn't mean easy, so the economic and political barriers to a plausible future must be listed, understood, and circumvented. Finally, what is New York City doing? In a dramatic series of legislative and regulatory steps over the last several years, the city is making a genuine attempt to move to its own version of a low carbon future compatible with global treaties and aspirations, known as "80 by 50." We'll look at several key steps in this process, ending with a current plan to place binding limits on fossil fuel consumption in the city's large buildings. 
+
+    __
+
+    Richard Leigh is a Visiting Professor of Physics at Pratt Institute, where he develops and teaches courses in sustainable building science to students in architecture, construction management, and interior design. Until March 2016 he was Director of Research at the Urban Green Council, where he managed research projects including the 2016 “New York City Auditing and Benchmarking Report” for 2013 data and “90 by 50”, showing that New York City can reduce its greenhouse gas emissions 90% below current levels by 2050. Earlier, he provided support to theproposals of the Green Codes Task Force, an effort to “green” the NYC Building Code and provided curriculum content for GPRO, the green building skills training program. Prior to UGC, he was for several years Senior Engineer at The Community Environmental Center, managing NYSERDA programs in energy efficiency in both new and existing buildings. He has also developed energy-efficient technologies and carried out studies on the integration of renewable technologies into the US utility system at Brookhaven National Laboratory, and has consulted on electric utility expansion planning and rates in the private sector. Dr. Leigh holds a PhD in Physics from Columbia and is a Professional Engineer and a LEED AP.
+
+
+    Green Roofs & Machu Picchu
+
+    Brent Porter - Adjunct Professor of the School of Architecture
+
+    Recently during the 26 year commitment by Pratt Institute School of Architecture in design and planning research at Machu Picchu and the town below the historic site, there has been a critical climatic impact of less rain in the past seven years.  At Aguas Calientes, now called Machu Picchu Pueblo, one million tourists in 2017 arrived in the town along the Urabamba River with its former huge rapids.  Now those rapids are only a stream.  The Pratt PreColumbian Architecture team believes if the Incas were still present, they would have readily adopted GREEN ROOFS to absorb available rain water in keeping with today's worldwide commitment to biodiversity in which indigenous buildings, the roofs, local plants, soils, animals and birds dually enrich the environment. Detailed architectural design for the town, green roof modeling and construction drawings will be examined
+
+    __
+
+    Brent Porter, Adjunct Professor of the School of Architecture, is in his 45th year at Pratt where among his on-going teaching is his role as head of the Christina Porter Memorial Lighting Lab. It is exploring sustainable skylights, building facades including the “window wall,” thermal wall components for daylighting in Canada, integration of photovoltaics and green roofs, and commitment to solar access — while at the same time, experimenting with a variety of LED and other lighting fixtures. His practice as an architect is engaged in a number of sustainable renovations, restorations and new facilities.The on-going work of sustainability within the historic Machu Picchu has led to his team’s addressing the town below where 800,000 people arrive and depart each year, yet one-third of the roofs and top floors are incomplete with vertical rebars evident of the lack of sustainability which must be resolved.
+
+
+    Keynote Panel: THE TRUMP EFFECT: Women, Weapons & Weather
+
+    Brenna Cohen - NYC District Environmental Coordinator for Patagonia
+
+    Debera Johnson - Executive Director, Brooklyn Fashion +Design Accelerator
+
+    Susan Lerner - Executive Director for Common Cause NY
+
+    Nantasha Williams - Women’s March
+
+    Join Women’s March team member Nantasha Williams, Executive Director for Common Cause NY, Susan Lerner, Patagonia’s NYC District Environmental Coordinator Brenna Cohen, Mireia Lopez, Creative Director and Founder of Milo Tricot and Brooklyn Fashion + Design Accelerator Executive Director Deb Johnson for a discussion on the current political climate and how the U.S. government has responded to the rights of women, pressing environmental and human rights issues as well as ethical violations since the 2017 presidential inauguration.
+
+    In addition to the panel, we’ll have a Women’s March/Common Cause NY voter registration table set up for attendees to learn about how to register and other ways to get involved with civic engagement as well as how to create their own voter registration. The goal is for universities nationwide to train students on how to run a voter registration drive on campus, in an effort to boost voter turnout for 2018 and beyond.
+
+    The Women’s March will also be on hand selling their new book Together We Rise.
+
+    __
+
+    Nantasha M. Williams is a well- respected, highly recommended political strategist, social architect and community engager who has recently taken on several large endeavors to further causes impacting marginalized communities.Most notably her fight for human rights and change in politics led her to help organize one of the largest global demonstrations in American history, the Women's March on Washington as the Head of Political Engagement. Nantasha played a key role in leading a mobilization of over 1 million people at the nation's capital, and a total of 5 million people globally. The Women’s March attracted international support and coverage highlighting her expertise at organizing and execution of small and large-scale movements. She now serves as Head of Political Engagement for the organization In her previous roles, she has worked tirelessly on behalf of New Yorkers across the state. In 2014, she was appointed the Executive Director of the New York State Black, Puerto Rican, Hispanic and Asian Legislative Caucus (“the Caucus”) -- one of the largest and most influential political entities in the State of New York.Her work garnered her statewide recognition as she was honored as one of Albany’s rising stars top 40 under 40 by City & State leading up to her run for a New York State Assembly seat in Southeast Queens in the 2016 primary election. She has been featured in publications and television media outlets such as Vogue, Essence, Hello Beautiful and MTV among others for her intel, swanky persona, and unique experience working in both political-government and activist- social justice spaces.
+
+    Nantasha Williams holds a Bachelors of Arts degree in Political Science from Virginia Commonwealth University and a Master’s in Public Administration from Rockefeller College of Public Affairs and Policy. She currently serves as anadvisor in the government and regulatory practice at Cozen O’ Connor.
+
+    __
+
+    Mireia lopez is the Creative Director and Founder of Milo Tricot - A creative studio that provide creative services to support start ups and stablished brands and collaborates with like-minded business, activist and artist creating collections sold exclusive at milo tricot online shop.
+
+
+
+
+
+     
+
+
+  url: https://www.eventbrite.com/e/sustainability-crash-course-2018-tickets-43102229930?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/40818996/27679383825/1/original.jpg?h=200&w=450&rect=0,8,2094,1047&s=6c874d9eaeac7b08a8e87ba70455ddb1
+  starts: 2018-03-24T09:00:00.0000000
+  ends: 2018-03-24T16:30:00.0000000
+  venue: Pratt Institute
+- name: Centennial College STEAM Week 2018
+  description: >-
+    Centennial's annual celebration of Science, Technology, Engineering, Aerospace and Mathematics (STEAM) for National Engineering Month (NEM) 2018. Festivities will include an Engineering Convention for students and industry partners, and an open Hackathon that aims to solve a real-world engineering challenge.
+
+    Visit our website for more information: https://www.steamweek.ca/
+  url: https://www.eventbrite.com/e/centennial-college-steam-week-2018-tickets-43814264645?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/41707983/247227306215/1/original.jpg?h=200&w=450&rect=119,86,378,189&s=028bc727b2a36a42173d7d57f47b99ee
+  starts: 2018-03-23T08:00:00.0000000
+  ends: 2018-03-23T17:00:00.0000000
+  venue: Centennial College Event Centre
+- name: 3rd Annual Billington INTERNATIONAL Cybersecurity Summit
+  description: "The 3rd Annual Billington International Cybersecurity Summit on March 21 at the National Press Club in Washington, DC will feature over 400 world class cybersecurity decision-makers from allied nations and the US in an intensive day of knowledge exchange and relationship building.  NOTE: Attendees must be citizens of the U.S. or allied nations to attend this event. \r\nFor more information go to our website. \r\nGlobal cyber attacks and threats have increased at an unprecedented rate. Just in the past 12 months cyber attacks have escalated in terms of their global scale, impact and rate of spread as demonstrated by the WannaCry ransomware attack.The 3rd Annual Billington International Cybersecurity Summit will address the pressing cybersecurity issues facing the world.* Global Threat Assessments and Information Sharing* International Cybersecurity Norms and Laws* Cyber risk management strategies* Critical infrastructure protection* Artificial Intelligence and Machine Learning–the Global Impact* IOT–Life After the Mirai Attack for Allied Countries* Cybersecurity and the Nation State Threat* Avoiding the Next Ukrainian Energy Cybersecurity Attacks* Singapore and NATO Cybersecurity Strategies* Cybersecurity Strategies of the Five EyesInternational cybersecurity leaders  from a cross-section of civilian, military and intelligence agencies, industry and academia will tackle tough questions, examine solutions and offer perspective on next steps.\r\n\r\n "
+  url: https://www.eventbrite.com/e/3rd-annual-billington-international-cybersecurity-summit-registration-38636077548?aff=ebapi
+  starts: 2018-03-21T07:00:00.0000000
+  ends: 2018-03-21T17:00:00.0000000
+  venue: The National Press Club
+- name: James Briscione Evening Lecture
+  description: >-
+    THE TALK: The Flavor Matrix
+
+    A groundbreaking ingredient-pairing guide, The Flavor Matrix shows how science can unlock unheard-of possibilities for combining foods into astonishingly inventive dishes. Briscione distills chemical analyses of different ingredients into easy-to-use infographics, and presents mind-blowing recipes that he’s created with them. The result of intensive research and incredible creativity in the kitchen, The Flavor Matrix is a powerful tool for home cooks and professional chefs alike. Join James as reveals the trials, failures and successes that led him to creating The Flavor Matrix. 
+
+    James Briscione is the first two-time champion of Food Network’s Chopped, a regular host and judge on Food Network, the Director of Culinary Research at the institute of Culinary Education (ICE), celebrity chef and one of People Magazine’s ‘Sexiest Chefs Alive 2016.’ He is the author of four books: Just Married & Cooking (Scribner ’11), Cognitive Cooking with Chef Watson (Sourcebooks ’15), The Great Cook (Oxmoor House ’15) and The Flavor Matrix (HMH ’18). As an instructor at one of the world’s top culinary schools, James Briscione thought he knew how to mix and match ingredients. Then he met IBM Watson while developing ICE’s Modernist Cuisine. From 2012-2014, he worked with IBM and the “Chef Watson” team to help understand how flavor compounds and ingredients translate from a database to the real-world kitchen. Working with the supercomputer to turn big data into delicious recipes, Briscione realized that he (like most chefs) knew next to nothing about why different foods taste good together. That epiphany launched him on a quest to understand the molecular basis of flavor—and it led, in time, to The Flavor Matrix. The food and ideas that James created with IBM have been featured in the New York Times, The New Yorker, NBC, BBC, NPR, Time and hundreds of outlets around the globe. 
+  url: https://www.eventbrite.com/e/james-briscione-evening-lecture-tickets-43896943941?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/41812050/70205442947/1/original.jpg?h=200&w=450&rect=0,771,4992,2496&s=98dc4d9644a975071831e11ae283cf5f
+  starts: 2018-04-10T17:30:00.0000000
+  ends: 2018-04-10T19:00:00.0000000
+  venue: IHMC Ocala
+- name: The Prometheus Awards Presented by LWBJ
+  description: >-
+    The most prestigious recognition for Iowa’s technology industry, The Prometheus Awards presented by LWBJ brings together leaders from technology, business, education and government to celebrate the year’s most momentous innovations. The awards acknowledge individuals and companies impacting Iowa’s $11 billion technology industry, which accounts for 8.8 percent of the state’s GDP and employs over 76,000 workers. Finalists and award winners epitomize the great talent, companies and communities solidifying Iowa’s reputation as a technology state.
+
+    Nominations are now open for the 2018 Prometheus Awards! View award categories and submit nominations here. 
+
+    Ticket sales end on Monday, April 9th. Follow event updates on Twitter: @technologyiowa and #PrometheusAwards and on Facebook: facebook.com/technologyiowa/.
+
+    Valuable Sponsorship Opportunities Are Still AvailableContact Tyler Wyngarden for more information at tyler@technologyiowa.org.
+  url: https://www.eventbrite.com/e/the-prometheus-awards-presented-by-lwbj-tickets-40144651734?aff=ebapi
+  logo: https://cdn.evbuc.com/images/39221694/183852245582/1/original.jpg?h=200&w=450&rect=78,0,500,250&s=18a0a45250f405c7bdfae1ae173b641b
+  starts: 2018-04-12T17:00:00.0000000
+  ends: 2018-04-12T21:00:00.0000000
+  venue: Community Choice Credit Union Convention Center
 - name: 2018 TRISECTION MEETING of the Indiana, Illinois, and Michigan Sections of the MAA
   description: >-
     The Spring 2018 TRISECTION MEETING of the Indiana, Illinois, and Michigan Sections of the Mathematical Association of America will be held March 23-24, 2017 at Valparaiso University in Valparaiso, IN.The due date for abstracts of contributed papers is Friday, March 2, 2018.  Title and abstract submission is on-line at http://www.maa.org/indiana. There will be six invited plenary addresses: Steven Butler- Iowa State University, Allison Henrich- Seattle University, Judy Holdener- Kenyon College, Michael Jones- Math Magazine,Jennifer Quinn- MAA EC, and Mike Starbird- UT Austin.
@@ -957,159 +1275,8 @@
   starts: 2018-03-27T09:00:00.0000000
   ends: 2018-03-27T17:00:00.0000000
   venue: Pulitzer Hall - Joseph D. Jamail Lecture Hall
-- name: James Briscione Evening Lecture
-  description: >-
-    THE TALK: The Flavor Matrix
-
-    A groundbreaking ingredient-pairing guide, The Flavor Matrix shows how science can unlock unheard-of possibilities for combining foods into astonishingly inventive dishes. Briscione distills chemical analyses of different ingredients into easy-to-use infographics, and presents mind-blowing recipes that he’s created with them. The result of intensive research and incredible creativity in the kitchen, The Flavor Matrix is a powerful tool for home cooks and professional chefs alike. Join James as reveals the trials, failures and successes that led him to creating The Flavor Matrix. 
-
-    James Briscione is the first two-time champion of Food Network’s Chopped, a regular host and judge on Food Network, the Director of Culinary Research at the institute of Culinary Education (ICE), celebrity chef and one of People Magazine’s ‘Sexiest Chefs Alive 2016.’ He is the author of four books: Just Married & Cooking (Scribner ’11), Cognitive Cooking with Chef Watson (Sourcebooks ’15), The Great Cook (Oxmoor House ’15) and The Flavor Matrix (HMH ’18). As an instructor at one of the world’s top culinary schools, James Briscione thought he knew how to mix and match ingredients. Then he met IBM Watson while developing ICE’s Modernist Cuisine. From 2012-2014, he worked with IBM and the “Chef Watson” team to help understand how flavor compounds and ingredients translate from a database to the real-world kitchen. Working with the supercomputer to turn big data into delicious recipes, Briscione realized that he (like most chefs) knew next to nothing about why different foods taste good together. That epiphany launched him on a quest to understand the molecular basis of flavor—and it led, in time, to The Flavor Matrix. The food and ideas that James created with IBM have been featured in the New York Times, The New Yorker, NBC, BBC, NPR, Time and hundreds of outlets around the globe. 
-  url: https://www.eventbrite.com/e/james-briscione-evening-lecture-tickets-43896943941?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/41812050/70205442947/1/original.jpg?h=200&w=450&rect=0,771,4992,2496&s=98dc4d9644a975071831e11ae283cf5f
-  starts: 2018-04-10T17:30:00.0000000
-  ends: 2018-04-10T19:00:00.0000000
-  venue: IHMC Ocala
-- name: DevOpsDays Toronto 2018
-  description: >-
-    DevOps Days is a technical and organizational innovation conference, aimed at developers, sysadmins and anyone else involved in technology, whether expert or beginner. Join us for the 5th and biggest year in our sold out event series to learn, share and connect with tech's cutting edge in beautiful Toronto!
-
-    Find out more about this and past events here: devopsdays.org
-
-     
-
-
-
-     
-
-       Join the conversation using #devopsdays  View #devopsdays posts 
-
-     
-  url: https://www.eventbrite.com/e/devopsdays-toronto-2018-tickets-41368541421?aff=ebapi
-  logo: https://cdn.evbuc.com/images/38778657/26374986515/1/original.jpg?h=200&w=450&rect=43,0,1284,642&s=c94a95569898dc8d9f13ff6dda98a838
-  starts: 2018-05-30T09:00:00.0000000
-  ends: 2018-05-31T17:45:00.0000000
-  venue: Chestnut Conference Centre
-- name: Smart Cities Expo World Forum 7th-8th May 2018, Toronto, Canada
-  description: >2-
-
-    Smart Cities Expo World Forum (SCEWF) 2018 is organized by  Smart City Experts with a mission to combine the power of collocated Smart City conference along with state-of-the-art IoT expo on a single floor in order to educate people towards smart cities and urban planning technologies. We aim to provide a platform where Govt. officials, City Council Representatives, Business managers, Directors, urban administrators, and researchers brainstorm ideas about cities of the future. 
-
-
-    Event Details:
-
-    We have been working for the development of Smart Cities across the globe. It would be worth to mention about SCEWF 2016 and 2017, Sydney which were a huge success. The Australian Government also appreciated our efforts and supported SCEWF 2016 and 2017 throughout. The Hon. Michelle Holland and many other speakers from Government Sector and City Councils will share their thoughts about Smart Cities Challenges at Smart Cities Expo World Forum 2018 Canada 
-
-    The Conference program will cover Smart City Vertical Applications such as
-
-
-    Smart Water
-
-    Smart Grid
-
-    Smart Transportation
-
-    Smart Health
-
-    Smart Building Management Systems
-
-    Smart Home
-
-    Industrial IoT
-
-    Enterprise IoT
-
-    Fog computing
-
-    Big Data Analytics
-
-    Smart Governance
-
-
-
-    Start-up companies and entreprenuers are appreciated to join this event and showcase their innovations to pitch to thousands of highly connected representatives from City Council representatives, Govt. Officials, C-level executives, Business leaders, Buyers, Consultants, Researchers and Economic Development officials from around the globe. 
-
-
-    SCWEF,2018 Canada:
-
-    At SCWEF, 2018, Government Officials from  Ministry of Community safety and Correctional Services, Ministry of Energy, City of Toronto, City of Mississauga, City of Markham, CITY OF LETHBRIDGE and many more will joined us to share their innovative ideas in order to realize Smart City Applications. You can see the highlights of Smart Cities Expo World Forum 2018 in the following video:
-
-    https://youtu.be/6GIU8XN5hFc
-
-    Thus will make this event a global event. Speaker details can be found from the link given below:
-
-    http://smartcitiesexpoworldforum.ca/speakers/
-
-    The Keynote speakers for Smart Cities Expo World Forum, Canada 2018 are:
-
-
-
-    Sponsoring and Participating Companies 2018 Canada:
-
-
-
-
-    SCWEF,2017:
-
-    At SCWEF, 2017, Government Officials from Smart City Regulation, Australian Bureau of Statistics, Government of Australia and Secretary for Telecommunications, Cyber security and Digital Society, Government of Catalonia, Kingdom of Spain joined us to share their innovative ideas in order to realize Smart City Applications. Thus maked this event a global event. Speaker details can be found from the link given below:
-
-    http://smartcitiesexpoworldforum.com/smart-cities-expo-world-forum-2017-sydney-australia-speakers/
-
-    SCEWF, 2016:
-
-    At SCEWF 2016, there were 50+ world renowned keynote speakers from leading technology companies likeCisco, IBM, Telstra, Thinxtra (SIGFOX Network Operator), IBB Consulting Group, ThingWorx (A PTC Business), REDtone IOT, HoustonKemp Economists, Vault Systems. Furthermore Researchers from University of Toronto, The University of Sydney, University of New South Wales was also be attended this event. 
-
-    You can see the highlights of successful Smart Cities Expo World Forum 2016 in the following video:
-
-
-    https://www.youtube.com/watch?v=m_GXoH3YEzM
-
-    https://www.youtube.com/watch?v=HGnhXWleGCo
-
-    https://www.youtube.com/watch?v=K03fXbI9WBs
-
-
-     
-
-    FAQs
-
-     
-
-    How can I contact the organiser with any questions?
-
-    You Can contact us at info@SmartCitiesExpoWorldForum.ca
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    Yes, You need to bring printed ticket to the event.
-
-     
-
-    Can I update my registration information?
-
-    Yes, You can by contacting us via email.
-
-     
-
-    Is my registration fee or ticket transferrable?
-
-    No.
-
-     
-
-    Is it ok if the name on my ticket or registration doesn't match the person who attends?
-
-    No. Your name should match with the ticket you bring to attend the event.
-
-     
-  url: https://www.eventbrite.ca/e/smart-cities-expo-world-forum-7th-8th-may-2018-toronto-canada-tickets-34351488226?aff=ebapi
-  logo: https://cdn.evbuc.com/images/38007741/178959168134/1/original.jpg?h=200&w=450&rect=0,4,1024,512&s=060bd7f466e45354e535d644ed5c682d
-  starts: 2018-05-07T09:00:00.0000000
-  ends: 2018-05-08T17:00:00.0000000
 - name: AT&T IoT Civic Hackathon - Indianapolis
-  description: >+
+  description: >-
     Have an idea to energize and enhance First Responder technology? Help us make Indiana safer at the IoT Civic Hackathon!
 
     The third annual IoT Civic Hackathon, an event produced by the AT&T Developer Program, invites developers, designers, students and technologists from all over Indiana to build mobile apps and hardware solutions to help better their state or community.
@@ -1287,32 +1454,51 @@
 
 
 
+
+
+
+    IBM and the IBM logo are trademarks of International Business Machines Corp., registered in many jurisdictions worldwide.
   url: https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-41343804432?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/40510514/175866857429/1/original.jpg?h=200&w=450&rect=0,0,12000,6000&s=2caeadaa371307a6d2924ee1c88dd944
   starts: 2018-04-20T17:00:00.0000000
   ends: 2018-04-21T20:00:00.0000000
   venue: Indiana IoT Lab
-- name: The Prometheus Awards Presented by LWBJ
+- name: DevOpsDays Toronto 2018
   description: >-
-    The most prestigious recognition for Iowa’s technology industry, The Prometheus Awards presented by LWBJ brings together leaders from technology, business, education and government to celebrate the year’s most momentous innovations. The awards acknowledge individuals and companies impacting Iowa’s $11 billion technology industry, which accounts for 8.8 percent of the state’s GDP and employs over 76,000 workers. Finalists and award winners epitomize the great talent, companies and communities solidifying Iowa’s reputation as a technology state.
+    DevOps Days is a technical and organizational innovation conference, aimed at developers, sysadmins and anyone else involved in technology, whether expert or beginner. Join us for the 5th and biggest year in our sold out event series to learn, share and connect with tech's cutting edge in beautiful Toronto!
 
-    Nominations are now open for the 2018 Prometheus Awards! View award categories and submit nominations here. 
+    Find out more about this and past events here: devopsdays.org
 
-    Ticket sales end on Monday, April 9th. Follow event updates on Twitter: @technologyiowa and #PrometheusAwards and on Facebook: facebook.com/technologyiowa/.
+     
 
-    Valuable Sponsorship Opportunities Are Still AvailableContact Tyler Wyngarden for more information at tyler@technologyiowa.org.
-  url: https://www.eventbrite.com/e/the-prometheus-awards-presented-by-lwbj-tickets-40144651734?aff=ebapi
-  logo: https://cdn.evbuc.com/images/39221694/183852245582/1/original.jpg?h=200&w=450&rect=78,0,500,250&s=18a0a45250f405c7bdfae1ae173b641b
-  starts: 2018-04-12T17:00:00.0000000
-  ends: 2018-04-12T21:00:00.0000000
-  venue: Community Choice Credit Union Convention Center
-- name: 3rd Annual Billington INTERNATIONAL Cybersecurity Summit
-  description: "The 3rd Annual Billington International Cybersecurity Summit on March 21 at the National Press Club in Washington, DC will feature over 400 world class cybersecurity decision-makers from allied nations and the US in an intensive day of knowledge exchange and relationship building.  NOTE: Attendees must be citizens of the U.S. or allied nations to attend this event. \r\nFor more information go to our website. \r\nGlobal cyber attacks and threats have increased at an unprecedented rate. Just in the past 12 months cyber attacks have escalated in terms of their global scale, impact and rate of spread as demonstrated by the WannaCry ransomware attack.The 3rd Annual Billington International Cybersecurity Summit will address the pressing cybersecurity issues facing the world.* Global Threat Assessments and Information Sharing* International Cybersecurity Norms and Laws* Cyber risk management strategies* Critical infrastructure protection* Artificial Intelligence and Machine Learning–the Global Impact* IOT–Life After the Mirai Attack for Allied Countries* Cybersecurity and the Nation State Threat* Avoiding the Next Ukrainian Energy Cybersecurity Attacks* Singapore and NATO Cybersecurity Strategies* Cybersecurity Strategies of the Five EyesInternational cybersecurity leaders  from a cross-section of civilian, military and intelligence agencies, industry and academia will tackle tough questions, examine solutions and offer perspective on next steps.\r\n\r\n "
-  url: https://www.eventbrite.com/e/3rd-annual-billington-international-cybersecurity-summit-registration-38636077548?aff=ebapi
-  starts: 2018-03-21T07:00:00.0000000
-  ends: 2018-03-21T17:00:00.0000000
-  venue: The National Press Club
+
+
+     
+
+       Join the conversation using #devopsdays  View #devopsdays posts 
+
+     
+  url: https://www.eventbrite.com/e/devopsdays-toronto-2018-tickets-41368541421?aff=ebapi
+  logo: https://cdn.evbuc.com/images/38778657/26374986515/1/original.jpg?h=200&w=450&rect=43,0,1284,642&s=c94a95569898dc8d9f13ff6dda98a838
+  starts: 2018-05-30T09:00:00.0000000
+  ends: 2018-05-31T17:45:00.0000000
+  venue: Chestnut Conference Centre
+- name: hackathonCLT MMXVIII
+  description: >-
+    It's officially that time of year again - where we unite the brightest minds in tech talent from all over the country in BIG Data, BIG Ideas, & BIG Community Impact.  As Charlotte's FIRST, biggest, and boldest hackathon, (not to mention the country's first big data hackathon) we will be back to celebrate YEAR 6 @ Discovery Place (we think you guys sorta seemed to like it there, no?!) once more AND are beyond excited for you to see all that we have in store for you for hackathonCLT MMXVIII!!  As is tradition with hackathonCLT, we always up the ante so expect the unexpected. 
+
+    We're putting it to you to spread the word about about the Queen City's premiere tech event and rally the community around the wider spirit of innovation and problem-solving.  Participation is FREE (18+ to participate). Spectating is FREE.  Come show us whatcha got! #HACKATHONCLT
+
+    **Please note that HACKATHONclt is a team event that allows groups of up to 3 people (yes, you can compete as an individual).  If you don't have a team, but are looking for team members with complementary skill sets, we encourage you to attend our pre-event mixers (to be announced on our facebook, twitter, and instagram pages).  We will do our best to help connect individual team mates.
+
+    www.hackathonclt.org
+  url: https://www.eventbrite.com/e/hackathonclt-mmxviii-tickets-42512705647?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/42414280/94877037605/1/original.jpg?h=200&w=450&rect=0,374,5100,2550&s=0c5835b6356c445277c7924f75855a12
+  starts: 2018-03-23T17:00:00.0000000
+  ends: 2018-03-24T15:00:00.0000000
+  venue: Discovery Place Science
 - name: Global Azure BootCamp 2018  - Reston, VA, April 21, 2018
   description: "\r\nThe Global Azure Bootcamp will be held on Saturday, April 21, 2018, 8:00AM to 5:30PM at the Microsoft Training Center at 12012 Sunset Hills Road, Suite 300 Reston, Virginia 20190.  This event is co-hosted by the NOVA SQL User Group, Microsoft Cloud User Group - DC, and IT Pro Camp.\r\nStay tuned for speaker/schedule/event updates. You may also register for a half-day lab on Azure Intelligent Analytics (please see the ticket section below....if you want to attend the lab, please register for Global Azure Bootcamp and the Global Azure Bootcamp Lab). There are only 30 to 45 seats available in the lab, and it should run from 1PM to 5PM.\r\nThe overall event timing will be:\r\n8:00AM to 9:00AM Check-in/Breakfast9:00AM to 1:00PM  General Session1:15 to 4:45 Lab and Breakout Sessions (5 tracks, 3 sessions per track)\r\nHere are the event schedule:\r\n \r\n8:00AM-9:00AM Check-in/registration, 1st floor, Light Breakfast, 3rd floor \r\n9:00AM – 9:50AM Key Note, MPR – Introductions and Key Note, 3rd floor, 3054/3058/3062, Enterprise Integration made easy by Azure - Jay Kumar \r\n10:00AM-10:50AM Session 1 –  MPR – General Session – 3rd floor, 3054/3058/3062, Microsoft Azure Stack – Fazal Raza \r\n11:00AM-11:50AM Session 2 -  MPR – General Session – 3rd floor, 3054/3058/3062, Managing Windows 10 with Microsoft Intune – Paul Jones \r\n12:00PM – 12:50PM Lunch and Learn – MPR – 3rd floor, 3054/3058/3062\r\nRoom 3054\r\n1:15PM – 2:15PM - Azure Data Stack and SQL Server Security – Devin Jaiswal \r\n2:30PM - 3:30PM - Azure Databases, Data & Analytics – Pavle Coric\r\n 3:45PM – 4:45PM - Architecting a Data Solution on Azure – Sidney Andrews  \r\nRoom 3058\r\n1:15PM – 2:15PM - Can identity really become the security boundary in a BYOD world? – Justin Harris \r\n2:30PM - 3:30PM - Setting up Directory Synchronization with Azure – Dan Usher\r\n3:45PM – 4:45PM - Defining data-centric security controls in Azure – Zeal Somani  \r\nRoom 3062\r\n1:15PM – 2:15PM - Dynamics 365 and Cognitive Services AI Better Together – Melissa Ramos \r\n2:30PM - 3:30PM - Introduction to AI and Cognitive Services for O365 Developers – Prashant Bhoyar \r\n3:45PM – 4:45PM - Getting Started with the Azure Bot Service – Michael Szul  \r\nMTC 2nd Floor\r\n1:15PM – 4:45PM - Hands-on lab\r\n \r\n \r\nHere is the info for Global Azure Bootcamps:  http://global.azurebootcamp.net/\r\nHere is the info for Microsoft Cloud User Group: http://www.meetup.com/mcug-dc \r\nHere is the info for the Northern Viginia SQL Server User Group: http://www.meetup.com/novasql\r\nIf you have questions, you can reach us at washdc@itprocamp.com\r\n@MFCF_DC  #GlobalAzure @novalsql"
   url: https://www.eventbrite.com/e/global-azure-bootcamp-2018-reston-va-april-21-2018-tickets-38538178730?aff=ebapi
@@ -1321,17 +1507,6 @@
   starts: 2018-04-21T08:00:00.0000000
   ends: 2018-04-21T17:30:00.0000000
   venue: Microsoft Training Center
-- name: Centennial College STEAM Week 2018
-  description: >-
-    Centennial's annual celebration of Science, Technology, Engineering, Aerospace and Mathematics (STEAM) for National Engineering Month (NEM) 2018. Festivities will include an Engineering Convention for students and industry partners, and an open Hackathon that aims to solve a real-world engineering challenge.
-
-    Visit our website for more information: https://www.steamweek.ca/
-  url: https://www.eventbrite.com/e/centennial-college-steam-week-2018-tickets-43814264645?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/41707983/247227306215/1/original.jpg?h=200&w=450&rect=119,86,378,189&s=028bc727b2a36a42173d7d57f47b99ee
-  starts: 2018-03-23T08:00:00.0000000
-  ends: 2018-03-23T17:00:00.0000000
-  venue: Centennial College Event Centre
 - name: Innovation Hackathon 2018
   description: >-
     inNOVAtion, a 36 hour long hackathon competition, offers hands-on experience to students interested in cybersecurity and secure coding methods.Participants will come prepared for the weekend with sleeping bags and overnight items, eager to work in teams to “hack” several challenges provided by corporate sponsors and the inNOVAtion team.The challenges will involved creating apps, successfully programming data, and capturing the flag to win rewards and to show-case their talent and skills to our sponsors.
@@ -1345,6 +1520,20 @@
   starts: 2018-04-13T17:00:00.0000000
   ends: 2018-04-15T16:00:00.0000000
   venue: Workforce Development Building
+- name: NOVA STEM Day - Manassas Campus
+  description: >2+
+
+
+    NOVA STEM Day at the Manassas Campus will provide youth with a showcase of opportunities in science, technology, engineering, and math. Designed for students of all ages, the event features hands-on exhibits and workshops from NOVA faculty, local schools, and community groups, food, fun, and learning! FREE and open to the public, some activities will have limited seating.
+
+    Drop in any time during the day! Check www.novastemday.com for event schedule and details.
+
+  url: https://www.eventbrite.com/e/nova-stem-day-manassas-campus-tickets-42319586021?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/39777081/104120312759/1/original.jpg?h=200&w=450&rect=0,2,2154,1077&s=1af32499d70ec9f1c1de8a4b2af76283
+  starts: 2018-04-28T10:00:00.0000000
+  ends: 2018-04-28T15:00:00.0000000
+  venue: Northern Virginia Community College - Manassas Campus
 - name: 'ProductCon: The Product Management Conference'
   description: >-
     ProductCon: The Product Management Conference
@@ -1420,25 +1609,91 @@
   starts: 2018-07-20T08:00:00.0000000
   ends: 2018-07-20T19:00:00.0000000
   venue: Millennium Hilton New York Downtown
-- name: BloomCON 0x03 Computer Security and Forensics Conference
-  description: >-
-    The third edition of BloomCON will feature talks and workshops at all levels in information security and forensics from industry experts around the world.  We are also planning multiple villages which will allow attendees to learn more about lockpicking, hardware hacking, Internet of Things hacking, drone hacking, and forensics.  Multiple competitions will be held, including the first ever Drone Wars competition which is being run in conjunction with the US Army.  Nerdcore rapper Dual Core will also be back to entertain at our networking party.  
+- name: 'The Blockchain Revolution: Transforming Healthcare'
+  description: >+
+    The Blockchain Revolution: Transforming Healthcare 
 
-    Ticket prices have remained the same, however.  All non-free tickets include lunch Saturday.
-  url: https://www.eventbrite.com/e/bloomcon-0x03-computer-security-and-forensics-conference-tickets-39454542599?aff=ebapi
-  logo: https://cdn.evbuc.com/images/37215493/77060492733/1/original.jpg?h=200&w=450&rect=0,485,586,293&s=6fba489ba6930cbd6255f4b359cba76b
-  starts: 2018-03-23T15:00:00.0000000
-  ends: 2018-03-24T21:00:00.0000000
-  venue: Bloomsburg University of Pennsylvania
-- name: Quality Jam 2018 | QASymphony Software Testing Conference
-  description: >-
-    Quality Jam 2018 is QASymphony’s Software Testing Conference focused on helping testing and development teams work smarter, faster and deliver higher quality software. This two-day event brings together technology thought leaders, executives and practitioners from all over the world. The goal:  Provide you with ideas, insights and practical knowledge to help you improve the quality of software that your company creates.  We’ve brought in an all-star lineup of speakers for this event.  Additionally, leaders from QASymphony will be sharing the product roadmap for 2018. Join the conversation: #QualityJam18 
+    The blockchain is the technology powering bitcoin, as well as a myriad of services that are changing our lives. Today, there are a number of emerging use cases and applications across various sectors, including healthcare. 
 
-    Visit the Quality Jam Site
-  url: https://www.eventbrite.com/e/quality-jam-2018-qasymphony-software-testing-conference-tickets-36489763866?aff=ebapi
-  starts: 2018-04-10T08:00:00.0000000
-  ends: 2018-04-11T16:00:00.0000000
-  venue: Westin Peachtree Plaza Hotel
+    Quadrant Biosciences is translating science into innovative diagnostic solutions and are the team behind ClearEdge, a data-driven clinical brain health assessment toolkit that brings concussion diagnosis and treatment into the modern age. Join us for an insightful conversation, where we will dive deep into the technology supporting ClearEdge, various applications in healthcare such as data exchange and interoperability and the basics of blockchains.
+
+    ~This event will fill up quickly, so make sure to secure your seat!~
+
+
+    AGENDA:
+
+    6:00-6:30 pm: Networking, Light Bites, and Wine
+
+    6:30-7:00 pm: Introduction to panel and demo
+
+    7:00-7:45 pm: Panel Discussion
+
+    7:45-8:00 pm: Audience Q & A
+
+    8:00-8:30 pm: Networking and close
+
+
+    We are excited to announce, Dr. Aditi Joshi, Medical Director at Thomas Jefferson University Hospital, as our Guest Moderator. 
+
+
+
+    Dr. Aditi Joshi is an experienced Emergency Physician working on improving healthcare through technology. Through over 3 years of working in Telemedicine on both the startup and hospital side, she has a keen interest in making technology palatable and effective for both patients, providers, and healthcare systems.As an assistant professor, she teaches medical students and residents about telemedicine and health innovation with both practical and research components, helping to hone how the future physicians think about how technology will change medical practice. She regularly contributes articles on issues of merging provider and patient needs to digital health and innovation. She speaks and teaches both students and companies on strategizing how to bridge the gap between the two worlds.Dr. Joshi is on the board of Squlptr, a healthcare app helping patients find the right local physicians for surgical procedures.
+
+
+    Panelist Bios
+
+
+
+
+
+    Rich Uhlig, Founder & CEO 
+
+    is the Founder and CEO of Quadrant Biosciences Inc. He has more than 29 years of business experience with a focus on leading start-up and high-growth businesses. Previously, Mr. Uhlig served as the Chairman and Chief Executive Officer of Morgan Stanley Bank, the principal banking subsidiary of Morgan Stanley, where he engineered the growth of the bank from $8 billion to $35 billion in less than two years. Prior to Morgan Stanley, Mr. Uhlig was the Chief Investment Officer for Merrill Lynch Bank USA, building and managing a $65 billion proprietary trading portfolio. Prior to Merrill Lynch, Mr. Uhlig served as a Managing Director at Deutsche Bank AG where he was a bond trader and the Co-Head of the Mortgage-Backed Securities Department for the Americas and Asia.  Earlier in his career, Mr. Uhlig was an investment banker at Lehman Brothers and Goldman, Sachs & Co.  Mr. Uhlig is a graduate of Cornell University.
+
+
+
+
+    Ben Perry, Vice President of Technology at Quadrant Biosciences
+
+    Ben’s career in technology encompasses a wide breadth of expertise in software development, including enterprise web applications, cloud computing, and human-computer interaction. During his experience as both a senior developer and project manager, Ben has led projects involving crowdsourced metadata curation, inventory control tools, and identity management solutions. Prior to joining Quadrant Biosciences, Ben has developed software for the federal statistical system and public opinion domain. He received his Master’s degree in Information Science from Cornell University.
+
+
+
+
+
+    Randall Carpenter, MD
+
+    Dr. Carpenter is Quadrant’s Executive Vice President of Clinical Development. Dr. Carpenter has over 30 years’ experience in primary care, academic medicine, basic science and clinical research, and pharmaceutical drug development. Dr. Carpenter’s experience in the pharmaceutical and biotechnology industries includes Co-Founder, President, and CEO of Seaside Therapeutics, President, and CEO of Sention, VP of Clinical Research and Development and Regulatory Affairs at Adolor Corporation and member of Astra Pain Control’s Global Therapeutic Area Team. While working in the pharmaceutical and biotechnology industries, Dr. Carpenter led translational medicine teams responsible for eight IND submissions and dozens of GCP-compliant clinical trials. Prior to joining the industry, Dr. Carpenter held academic faculty appointments at Virginia Mason Medical Center, the University of Washington and Wake Forest University where he specialized in anesthesiology, pain management, and translational medicine.
+
+
+
+
+
+    Stephen Hicks, MD
+
+    Steve is an Assistant Professor of Academic General Pediatrics at Pennsylvania State College of Medicine in Hershey, PA. He is a physician-scientist who studies the influence of genetics and the environment on pediatric diseases involving growth and neurodevelopment. 
+
+
+
+
+    Special thanks to eBay for being our venue sponsor!
+
+
+
+
+
+
+
+
+
+
+
+  url: https://www.eventbrite.com/e/the-blockchain-revolution-transforming-healthcare-tickets-43100491731?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/40816724/219669813698/1/original.jpg?h=200&w=450&rect=0,1,744,372&s=7ed907529b1e6d1a1edaff0b1ea46f04
+  starts: 2018-03-22T18:30:00.0000000
+  ends: 2018-03-22T20:30:00.0000000
+  venue: eBay
 - name: Tech Jobs Tour Washington DC | Career Fair & Speed Mentoring with Megan Smith, 3rd CTO, United States and CEO, shift7 + Tech Talks
   description: "\nTECH JOBS TOUR\n \n  \n  \n1 Year. 50 Cities. 100,000 Jobs.\nTech Jobs Tour will convene thousands of influencers and innovators across all areas of technology. Come for the speed mentoring and product demos, stay for the high-fives and ultra-diverse networking. Learn more about your career development, recruiting and retaining non-traditional tech talent, and more.\nLearn More: techjobstour.com\n  \n \nEVENT AGENDA\n5:00 PM Doors Open5:00 - 9:00 PM Tech Career Fair5:30 PM Speed Mentoring I6:00 PM Welcome by Tech Jobs Tour Team6:20 PM Guest Speakers6:30 - 7:00 PM Speed Mentoring II (Lesbians Who Tech)6:45 PM Keynote Speaker7:00 PM Ask & Offer with Special Guests7:15 PM Coding Bootcamp Showcase8:15 - 8:45 PM Speed Mentoring III9:00 PM Doors Close\nAgenda subject to change.\nACCESSIBILITY- This event space is wheelchair accessible, with ADA compliant entrance and restrooms.- All ages welcome. - Images and/or sound may be recorded at this event; by registering you consent to allow event organizers to use your likeness for promotional purposes.\n\nSPEED MENTORING\n  \nSpeed mentoring == networking that doesn't suck! It's a great way to build relationships quickly and connect with other people in tech. We especially seek mentors and mentees in software development and design, QA, data science, and product management. To sign up, just tell us what skills you have and which skills you'd like to learn.\n \nSHOWCASE + DEMOS\n  \n  \nPast Participants: ​Make School, ​Hackbright Academy, ​Hack Reactor, Grace Hopper Academy, Coding Dojo, Telegraph Track, ​BLOC, ​MotherCoders, ​Floodgate Academy, The Iron Yard, Turing School, Galvanize, Metis, Designation.io, Fullstack Academy, MakerSquare, Rithm School, Epicodus, General Assembly, Apprentice.io by Thoughtbot, Grace Hopper Program, DevMountain, Sabio.la, UT Austin Coding Boot Camp, and more.\n  \nTECH CAREER FAIR\n  \n  \nPrevious partners: Accenture, Adobe, Airbnb, Amazon, Apple, AT&T, Atlassian, Automattic, BlackRock, Bloomberg, Box, CA Technologies, Conde Nast, Credit Karma, Deloitte, Disney, DocuSign, Dropbox, eBay, Facebook + Oculus, GE, Genentech, Github, GoDaddy, Goldman Sachs, Google, Google, IBM, LinkedIn, Lyft, MailChimp, Microsoft, Morgan Stanley, Optimizely, Oracle, Pantheon, PayPal, Qualcomm, SAP, Slack, SpaceX, Spotify, Stripe, Symantec, T-Mobile, Target, Twitch TV, Twitter, Two Sigma, WorkDay, Zynga, and more.\nWe recruit: front end developers, back end developers, mobile developers, graphic designers, UX + UI designers, data scientists, database administrators, tech journalists, product + project managers, IT professionals, full stack engineers, JavaScript, Ruby, Python, and Java programmers, social media professionals, marketing professionals, and more.\n \nPRESENTED BY\n  \n  \ninclude.io is a recruiting platform that uses mini-mentoring to validate diverse and nontraditional technical talent allowing you to be intentional about inclusion and direct referrals. We make it easy for you to search by opt-in diversity data and by candidates that have been validated by your technical leaders.Video: bit.ly/includevideoDeck: bit.ly/includepitchdeck\n \nTOUR PARTNERS\n \nTOUR ADVISORS\n\n\nMegan Smith, 3rd Chief Technology Officer, United States of America, Entrepreneur, Engineer, @smithmegan\nKhalilah Harris, Chief of Staff & VP, External Affairs, Opportunity@Work, @ed2befree\nLateesha Thomas, Director, Partnerships & Corporate Training, Dev Bootcamp, @lateeshathomas\nTom Ogletree, Director of Social Impact at General Assembly, @tom_ogletree\n"
   url: https://www.eventbrite.com/e/tech-jobs-tour-washington-dc-career-fair-speed-mentoring-with-megan-smith-3rd-cto-united-states-and-tickets-37027498244?aff=ebapi
@@ -1446,223 +1701,49 @@
   logo: https://cdn.evbuc.com/images/36913211/211876025421/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=4dfb2b6b531c2dcff9a8bea58c4e40ad
   starts: 2018-05-17T17:00:00.0000000
   ends: 2018-05-17T21:00:00.0000000
-- name: NOVA STEM Day - Manassas Campus
-  description: >2+
+- name: 2018 Security Through Innovation Summit
+  description: >-
+    Join the top leaders and innovators from the federal IT community on May 22 at the Security Through Innovation Summit at the Willard InterContinental Hotel in Washington, D.C.
 
 
-    NOVA STEM Day at the Manassas Campus will provide youth with a showcase of opportunities in science, technology, engineering, and math. Designed for students of all ages, the event features hands-on exhibits and workshops from NOVA faculty, local schools, and community groups, food, fun, and learning! FREE and open to the public, some activities will have limited seating.
 
-    Drop in any time during the day! Check www.novastemday.com for event schedule and details.
+    Register now to hear from a dynamic lineup of private and public sector experts exploring the key issues central to the future of federal cybersecurity and IT.
 
-  url: https://www.eventbrite.com/e/nova-stem-day-manassas-campus-tickets-42319586021?aff=ebapi
+
+
+    From how-tos and best practices to expert panel discussions, the summit will feature sessions and breakouts focused on the implications of the White House's 2017 cybersecurity executive order, the emerging security needs of the Defense Department and military services at home and abroad, the future of programs like FedRAMP and CDM, and much, much more.
+  url: https://www.eventbrite.com/e/2018-security-through-innovation-summit-registration-42644460730?aff=ebapi
+  logo: https://cdn.evbuc.com/images/42281451/212786625311/1/original.jpg?h=200&w=450&rect=0,13,1200,600&s=0f03cc6faf900f4e4f62972887cd79e5
+  starts: 2018-05-22T07:30:00.0000000
+  ends: 2018-05-22T13:45:00.0000000
+  venue: The Willard InterContinental Hotel
+- name: 'Establishing Clinician Well-Being as a National Priority: Meeting #3'
+  description: >-
+    Join the National Academy of Medicine on May 2, 2018 in Washington, DC as it hosts the 3rd meeting of the Action Collaborative on Clinician Well-Being and Resilience. This public meeting will provide an opportunity for the public to actively engage with the Action Collaborative and will feature expert panels on issues related to clinician burnout, resilience, and solutions to promote well-being. This meeting will focus on diversity, inclusion, and loneliness, and will include a session on workflow redesign to improve clinician well-being and enhance joy in practice. Further details will be posted soon. 
+
+    Selected artwork from Expressions of Clinician Well-Being will be on display throughout the meeting and selected artists will speak about the inspiration behind their artwork and how each piece captures critical moments in the journey to clinician well-being. 
+
+    Register now to attend the full meeting in person, attend the full meeting via webcast, or attend only the art show and reception. The art show and reception will be held from 5:15pm - 6:30pm. 
+
+
+    Background of the Action Collaborative
+
+    To ensure high-quality patient care and build a more effective health system, we depend on a healthy, productive, and engaged clinician workforce. But, increasingly, U.S. health care providers are burned out.
+
+    Our nation stands at a critical crossroads. Health care spending is at an all-time high, yet Americans are less healthy than peers in other high-income nations. The population is aging rapidly, and rates of chronic disease, obesity, and drug addiction are skyrocketing. We cannot reverse these trends without engaged and effective clinicians working in systems and cultures that support their career satisfaction and well-being.
+
+    To learn more about the Action Collaborative, please click here.
+  url: https://www.eventbrite.com/e/establishing-clinician-well-being-as-a-national-priority-meeting-3-registration-43848966439?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/39777081/104120312759/1/original.jpg?h=200&w=450&rect=0,2,2154,1077&s=1af32499d70ec9f1c1de8a4b2af76283
-  starts: 2018-04-28T10:00:00.0000000
-  ends: 2018-04-28T15:00:00.0000000
-  venue: Northern Virginia Community College - Manassas Campus
-- name: Sustainability Crash Course 2018
-  description: >+
-    Imagine being able to spend one amazing day immersed in learning about sustainable design—and meeting the people who have pioneered new thinking and practices. On Saturday, March 24, 2018, Pratt’s CSDS will present the eigth annual Sustainability Crash Course, a day-long series of workshops with a host of experts from Pratt’s sustainable design faculty and elsewhere. With over 20 speakers, it is sure to be a fantastic day of exploration and inspiration! Registration required.
-
-    FEATURED PRESENTATIONS
-
-
-    Up Sh*t's Creek: Creative Approaches to Organizing in Flushing, Queens
-
-    Cody Ann Herrmann - Artist and Grassroots Organizer
-
-    Drawing from participatory design and socially engaged art practices, artist and organizer Cody Ann Herrmann asks-- how might ecological issues be communicated to the public? Using NYC's Flushing Creek as a case, the artist's ongoing series of workshops, tours, performances, and onsite interventions are explored to understand effective methods for documenting and sharing information about pollution and land-use issues impacting the dynamic waterway.
-
-    __
-
-    Cody Ann Herrmann is a New York City based artist and community organizer with an interest in participatory design methods, public space, and local sustainable development. Through multidisciplinary arts, community engagement exercises, and urban design practices she applies an iterative, human centered approach to ecological problem solving. Cody’s work explores the relationships between land-use, urban infrastructure, and environmental degradation with a focus on communicating the problems and solutions of environmental issues to the populations they directly impact. Working in her hometown of Flushing, Queens, Cody started an ongoing series of multidisciplinary work in 2015 addressing pollution and development in and around Flushing Bay and Creek. Cody is currently studying to receive an MFA from Social Practice Queens at CUNY Queens College.
-
-    http://www.codyannherrmann.com/
-
-
-    Digital Storytelling:  How To Create Authentic Content and Grow Your Business Online 
-
-    Sam Dagirmanjian, Co-Founder of Storey Inc.
-
-    So you have a nice website, but how do you get new customers to actually visit?  In this talk we introduce the concept of content marketing and show how valuable authentic content creation is for brands with a sustainable mission.  Finally, through a demo of storeyapp.com, we'll discuss the types of stories people engage with online and how to present your own brand stories in ways that generate sales.
-
-    __
-
-    Sam Dagirmanjian and Nicholas Pattison are Brooklyn based entrepreneurs who are Venture Fellows in the BF&DA. They are the creators of Storeyapp.com, a new DIY tool that help brands engage online audiences through authentic content that is visual, interactive, candid, and fluid across multiple devices.  Sam has over 7 years of experience in e-commerce and digital marketing. Together with Nick, he previously founded the online sustainable marketplace, Purible.  He holds a BS in International Relations from Dartmouth College and lives in Brooklyn with his wife and 8 month old daughter. 
-
-
-    Reimagining Waste
-
-    Josh Draper - Lecturer, Rensselaer Polytechnic Institute | Principal, PrePost
-
-    Josh Draper is an architect, teacher and researcher. For this talk, he will present three projects that reimagine the function and value of waste for the built environment.
-
-
-
-    Film Screening: Weaving Culture and Sustainable Fashion
-
-    Melissa Eidson, Director & Producer
-
-    Manfred Lopez Grem, Cinematographer (Tlahuitoltepec, Oaxaca)
-
-    Dana Schlieman, Editor
-
-    Documentary screening of No Son Invisibles: Maya Women and Microfinance with Muhammad Yunus about women weavers receiving loans for their entrepreneurial pursuits in the highlands of Chiapas, Mexico and Weaving Culture about human rights issues of marginalized weavers from the developing world - Oaxaca, Mexico and Vientiane, Laos - and their petitions for justice regarding cultural heritage as expressed in their traditional textile designs. Discussion/Q&A about ethical/sustainable business practices in the fashion industry within the context of UN Sustainable Development Goals.
-
-    __
-
-    Dana Schlieman is a New York based artist, writer, and filmmaker.  She grew up in Costa Rica and discovered a love of film and television when she was 9 years old. Dana’s work is primarily character driven.  She has a marked interest in exploring interpersonal human relationships, as well as issues of feminism and body image. Dana received her BFA in Film/Video from Pratt Institute in 2017. Her thesis film Nunca Jamás was featured in NewFest: New York's LGBT Film Festival the same year. 
-
-
-    Melissa lived in Mexico for more than a decade. Her first documentary, El Barrio, was screened at the Cannes Film Festival and won Best International Documentary Award in October of 2006 at the New York International Independent Film and Video Festival in Los Angeles and the Founders Choice Award for Best Feature Documentary in New York City in November, 2006. It was in the official selection at the Berlin Film Festival in a group of Latin American films. Her second film, No Son Invisibles: Maya Women and Microfinance featuring Muhammad Yunus, was originally screened at Cannes film festival in France and the Buñuel Festival in Calanda, Spain. It was translated into various languages, including Arabic for the Fajr International Film Festival in Tehran, Iran.  It went on to the Guadalajara Film Festival, Torino and Roma Film Festivals in Italy and The Seattle Int'l Latino Film Festival as well as the Del Ray Beach Film Festival in the US.  It was additionally shown at The University of Washington and University of Texas as well as in San Francisco for the Women Advancing Microfinance organization. It has been acquired by university libraries at Harvard, Stanford, UT, TCU, Baylor, University of Washington, Vanderbilt, USC, and SMU libraries among others. Her current documentary about cultural appropriation and sustainability in the fashion industry, Weaving Culture, is in post production and will begin the festival circuit this summer. It takes place in weaving communities in the highlands of Oaxaca, Mexico and Laos, and the fashion industry of New York city and Paris. Information about WeavingCulture documentary and tax free donations for finishing funds can be found here: 
-
-    http://www.thefilmcollaborative.org/fiscalsponsorship/projects/weavingculture
-
-    Manfred López currently is the president of a non-profit organization in Mexico called the National Society of the Cinematic Arts and Sciences. As a film director he has directed over 200 works including short films, music videos, documentaries, commercials and other types of works. He also mantains an active schedule teaching workshops, offering consulting services, keynoting conferences, and heading casting tours in several cities as part of his work related to maintain Mexico's National Actor's Registry. His professional activities have been covered extensively in Mexico's media. Over 150 articles have been published on the topic to date, including magazine and newspaper coverage from Variety, Proceso and El Universal.
-
-
-
-    Film Screening: Citizen Enforcement Can Eliminate Vehicle Idiling
-
-    George Pakenham - Filmaker
-
-    Idling engines consume more than 6 billion gallons of gasoline annually in the U.S., a significant but little-known contributor to local air pollution, respiratory disease and global climatechange. Idle Threat is a lively look at one man’s spirited struggle to improve public health by raising awareness about idling’s impact, starting in New York City. Against all odds, he succeeds, helping improve local air quality, and in the process gains world-wide recognition for the anti-idling cause, with articles featured in the Wall Street Journal, New Yorker magazine, and the Financial Times.
-
-    In white shirt and tie, Wall Street banker George Pakenham has walked the streets of New York for over five years, courteously confronting over 3,000 motorists to explain idling’s impact and the law prohibiting running a parked vehicle for more than a short time. Responses vary from thanks to anger, but Pakenham never wavers. He’s determined that the problems idling poses be recognized, and lobbies successfully for the city to enforce its idling laws.
-
-    Featuring Click and Clack from NPR’s Car Talk, and Mayor Michael Bloomberg, Idle Threat profiles one man’s challenging quest to make his city and the world a healthier place, and shows that sometimes one person – and a simple act like turning a key – can make a big difference.
-
-    __
-
-    George was born and raised in new jersey.  And after graduating from the University of Arizona in 1972, he sold all his worldly possessions and spent a year traveling America, living meagerly and seeking new adventures, -- which focused on George’s love of nature.   His first post- college job was a 3 month stint as a tour guide at Glacier Park in Montana.  Pakenham then hiked the Appalachian Trail from Maine to Connecticut.  George set a goal to travel around the world before he was 25,  a goal he accomplished, ….  twice.
-
-    His adventures included a 7-month stint working as a sailor on a Norwegian passenger ship, visiting more than 75 ports of call.   There he witnessed with alarm, that the ship never shut off its engines while in port,  it sat there with its smoke stacks churning out a sooty toxic mess.  
-
-    Eventually, George jumped ship and traveled solo for 12 months:   behind the Iron Curtain, in the Middle East, Africa and Asia. George then moved to New York City for careers in advertising, real estate management and banking. Currently, he is Director of Business Development for a regional bank that provides many services including securing finances for wind and solar farms.
-
-    In the 1980s George studied the craft of television production, working as a volunteer at, the video project at Riverside Church in NYC where he learned to produce, direct and edit video - skills instrumental in the production of his ground breaking film, Idle Threat.
-
-    The film and its creator have received much publicity, including stories in the New Yorker Magazine, on BBC, and On NPR.  Last year Mr. Pakenham was chosen by Parade Magazine as environmentalist of the year in NY state. Pakenham has also produced a second documentary movie, three short films, two novels and a children’s book, titled: Big Nose Big City.
-
-    George is a humble member of the Marble Church in NYC and a five year member of the Benevolence Committee, which provides financial grants to needy non-profits in NY and around the world.   
-
-
-    Sustainable Fashion is Personal: The Industry’s Impact on Workers, Communities and YOU  
-
-    Alexandra P. McNair - Founder, Fashion FWD
-
-    @fashionfwdusa
-
-    Alexandra will address the human health needs of the American consumer. While food and drugs are regulated, fabrics and dyes come into equal contact with our bodies, but are almost completely unregulated. How is this impacting workers, communities and ourselves when we wear these products and what can we do about it?
-
-    __
-
-    Alexandra McNair is the Founder of non-profit Fashion FWD, which focuses on detoxing the supply chain and improving future health outcomes of garment workers, worker communities and individuals. With over twelve years of business development experience, Alexandra has managed sustainability projects with apparel brands, governments, and private equity teams both in the USA and internationally on issues such as ESG integration, responsible sourcing, product health, factory conditions and resource management around water, chemicals and waste. She was an early adopter of sustainable fashion when she founded a jeans company in 2007 using all recycled fabric. She currently works with various fashion schools, developing their sustainability curriculums and writing university courses. Her current work in sustainability is Chaired by the head of the Climate Committee and former Secretary of State for the Environment and Agriculture and Fisheries in the UK, Lord Deben. 
-
-
-    What you wear tells who you are. Speak well. 
-
-    Althea Simons, founder/designer/CEO of Grammar NYC
-
-    How can we address issues of sustainability in the fashion industry with entrepreneurship? We will explore the challenges and opportunities inherent in integrating positive impact and profitability in our business plans.
-
-    __
-
-    Grammar designer Althea Simons holds an MBA in Entrepreneurial Management from The Wharton School of the University of Pennsylvania; a BS in Neuroscience from Brown University, and an AAS in Fashion Design from Parsons, The New School for Design. Her fashion and retail experience includes time at Yeohlee, Inc. and Issey Miyake, USA. She is a Venture Fellow at the Brooklyn Fashion + Design Accelerator.
-
-
-    Biomimicry: Interior Design Strategies and Examples
-
-    Tetsu Ohara - Pratt Institute, Interior Design Department
-
-    3.8 million years of design & development by nature + human adaptation + benefits for the human/environment.The presentation is to showcase one of the Option Lab courses taught in the Interior Design program. It will include summary of the lectures as well as students’ design proposals from the last semester.
-
-    By understanding the principle of Biomimicry 3.8, (geometric analysis, growth pattern, structural function, etc) the class does not teach how to only mimic form/function. It explores the life cycle analysis as well as the indoor environmental quality in some ways that benefit human health/environment.
-
-    __
-
-    Tetsu Ohara is an adjunct associate professor and departmental sustainability coordinator in the Department of Interior Design and has been leading the Pratt Sustainability Coalition for the last 10 years. He is also a partner at SpatialDesignStudio, Inc in the NYC.
-
-
-    MAKING CONTACT… Music of the Plant
-
-    Marguerite Uhlmann-Bower, RN, Clinical Herbalist
-
-    We look into space to find intelligence. Yet possibly the greatest forms of intelligent life are right out our back door... plants. As Plant Pioneers we explore plant intelligence through listening to the “musical sounds” created by plants in response to their surrounding environment. Join Marguerite Uhlmann-Bower as she demonstrates this music via a sensitive synthesizer that translates into rhythmic sounds the electrical impulses plants broadcast from one plant to other plants, and ultimately to the world. Engage in conversations that ask just what is going on with the plants, and then, “Where do we go from here?”  “How does knowing about this Music of the Plants help us connect to, and perhaps answer questions about, our current environmental crisis?”
-
-    __
-
-    Marguerite Uhlmann-Bower, RN, Clinical Herbalist, wild foods forager and teacher of herbal traditions is co-founder of Plant Pioneers, a Human-Plant Relations Movement based in the Catskills of upstate New York. Her work invites people to become interested in plants through hands-on, outdoor experiences that bridge traditional herbal medicines, wild edibles and our own experiences with the natural world. She addresses both the needs of humans and nature as one ecological system. In recent years her additional tools of choice are Music of the Plants and Cymatics which interconnect the observer on a palpable human-plant level. She believes that as we integrate plants into our activities of daily living, at love, work and play, we’ll eventually make beneficial changes for the future of our environment. Contact Marguerite to get involved, to learn more, for workshops and lectures on herbalism and plant intelligence scheduling. 3moonsisters@gmail.com   607-437-1218  www.PlantPioneers.org
-
-
-    What's in my Water?
-
-    Kayla Fennelly - Project Coordinator NYPIRG
-
-    Clean water is essential for life and among our most precious resources. While federal and state laws are supposed to protect us, we know that public and private drinking water sources are under constant threat; that crumbling water infrastructure may further contaminate water supplies; and that government monitoring and enforcement resources face significant uncertainties at the federal level. NYPIRG offers these drinking water profiles to educate New Yorkers about the state of their drinking water, the presence of contaminants found through laboratory testing, and location and nature of some potential threats to local drinking water. We will also discuss contaminants found in bottled water, and how plastic pollution is finding it's way into our drinking water.
-
-    __
-
-    Kayla Fennelly is a Project Coordinator with the New York Public Interest Research Group, and oversees the advocacy efforts here at Pratt while recruiting and training students on how to advocate and organize for a variety of issues.
-
-
-    Climate Futures, Building Futures, City Futures - Getting New York City Ready for Tomorrow
-
-    Richard W. Leigh - PhD, PE, LEED AP, Visiting Professor of Physics at Pratt Institute
-
-    First, the latest on climate change - it's only looking bleaker, but let's see how. Then, what can we do? In "90 by 50," Urban Green Council and Pratt Institute showed that a nearly carbon-free future is possible for NYC, the technology is here today, and the cost manageable. But possible doesn't mean easy, so the economic and political barriers to a plausible future must be listed, understood, and circumvented. Finally, what is New York City doing? In a dramatic series of legislative and regulatory steps over the last several years, the city is making a genuine attempt to move to its own version of a low carbon future compatible with global treaties and aspirations, known as "80 by 50." We'll look at several key steps in this process, ending with a current plan to place binding limits on fossil fuel consumption in the city's large buildings. 
-
-    __
-
-    Richard Leigh is a Visiting Professor of Physics at Pratt Institute, where he develops and teaches courses in sustainable building science to students in architecture, construction management, and interior design. Until March 2016 he was Director of Research at the Urban Green Council, where he managed research projects including the 2016 “New York City Auditing and Benchmarking Report” for 2013 data and “90 by 50”, showing that New York City can reduce its greenhouse gas emissions 90% below current levels by 2050. Earlier, he provided support to theproposals of the Green Codes Task Force, an effort to “green” the NYC Building Code and provided curriculum content for GPRO, the green building skills training program. Prior to UGC, he was for several years Senior Engineer at The Community Environmental Center, managing NYSERDA programs in energy efficiency in both new and existing buildings. He has also developed energy-efficient technologies and carried out studies on the integration of renewable technologies into the US utility system at Brookhaven National Laboratory, and has consulted on electric utility expansion planning and rates in the private sector. Dr. Leigh holds a PhD in Physics from Columbia and is a Professional Engineer and a LEED AP.
-
-
-    Green Roofs & Machu Picchu
-
-    Brent Porter - Adjunct Professor of the School of Architecture
-
-    Recently during the 26 year commitment by Pratt Institute School of Architecture in design and planning research at Machu Picchu and the town below the historic site, there has been a critical climatic impact of less rain in the past seven years.  At Aguas Calientes, now called Machu Picchu Pueblo, one million tourists in 2017 arrived in the town along the Urabamba River with its former huge rapids.  Now those rapids are only a stream.  The Pratt PreColumbian Architecture team believes if the Incas were still present, they would have readily adopted GREEN ROOFS to absorb available rain water in keeping with today's worldwide commitment to biodiversity in which indigenous buildings, the roofs, local plants, soils, animals and birds dually enrich the environment. Detailed architectural design for the town, green roof modeling and construction drawings will be examined
-
-    __
-
-    Brent Porter, Adjunct Professor of the School of Architecture, is in his 45th year at Pratt where among his on-going teaching is his role as head of the Christina Porter Memorial Lighting Lab. It is exploring sustainable skylights, building facades including the “window wall,” thermal wall components for daylighting in Canada, integration of photovoltaics and green roofs, and commitment to solar access — while at the same time, experimenting with a variety of LED and other lighting fixtures. His practice as an architect is engaged in a number of sustainable renovations, restorations and new facilities.The on-going work of sustainability within the historic Machu Picchu has led to his team’s addressing the town below where 800,000 people arrive and depart each year, yet one-third of the roofs and top floors are incomplete with vertical rebars evident of the lack of sustainability which must be resolved.
-
-
-    Keynote Panel: THE TRUMP EFFECT: Women, Weapons & Weather
-
-    Brenna Cohen - NYC District Environmental Coordinator for Patagonia
-
-    Debera Johnson - Executive Director, Brooklyn Fashion +Design Accelerator
-
-    Susan Lerner - Executive Director for Common Cause NY
-
-    Nantasha Williams - Women’s March
-
-    Join Women’s March team member Nantasha Williams, Executive Director for Common Cause NY, Susan Lerner, Patagonia’s NYC District Environmental Coordinator Brenna Cohen, Mireia Lopez, Creative Director and Founder of Milo Tricot and Brooklyn Fashion + Design Accelerator Executive Director Deb Johnson for a discussion on the current political climate and how the U.S. government has responded to the rights of women, pressing environmental and human rights issues as well as ethical violations since the 2017 presidential inauguration.
-
-    In addition to the panel, we’ll have a Women’s March/Common Cause NY voter registration table set up for attendees to learn about how to register and other ways to get involved with civic engagement as well as how to create their own voter registration. The goal is for universities nationwide to train students on how to run a voter registration drive on campus, in an effort to boost voter turnout for 2018 and beyond.
-
-    The Women’s March will also be on hand selling their new book Together We Rise.
-
-    __
-
-    Nantasha M. Williams is a well- respected, highly recommended political strategist, social architect and community engager who has recently taken on several large endeavors to further causes impacting marginalized communities.Most notably her fight for human rights and change in politics led her to help organize one of the largest global demonstrations in American history, the Women's March on Washington as the Head of Political Engagement. Nantasha played a key role in leading a mobilization of over 1 million people at the nation's capital, and a total of 5 million people globally. The Women’s March attracted international support and coverage highlighting her expertise at organizing and execution of small and large-scale movements. She now serves as Head of Political Engagement for the organization In her previous roles, she has worked tirelessly on behalf of New Yorkers across the state. In 2014, she was appointed the Executive Director of the New York State Black, Puerto Rican, Hispanic and Asian Legislative Caucus (“the Caucus”) -- one of the largest and most influential political entities in the State of New York.Her work garnered her statewide recognition as she was honored as one of Albany’s rising stars top 40 under 40 by City & State leading up to her run for a New York State Assembly seat in Southeast Queens in the 2016 primary election. She has been featured in publications and television media outlets such as Vogue, Essence, Hello Beautiful and MTV among others for her intel, swanky persona, and unique experience working in both political-government and activist- social justice spaces.
-
-    Nantasha Williams holds a Bachelors of Arts degree in Political Science from Virginia Commonwealth University and a Master’s in Public Administration from Rockefeller College of Public Affairs and Policy. She currently serves as anadvisor in the government and regulatory practice at Cozen O’ Connor.
-
-    __
-
-    Mireia lopez is the Creative Director and Founder of Milo Tricot - A creative studio that provide creative services to support start ups and stablished brands and collaborates with like-minded business, activist and artist creating collections sold exclusive at milo tricot online shop.
-
-
-
-
-
-     
-
-  url: https://www.eventbrite.com/e/sustainability-crash-course-2018-tickets-43102229930?aff=ebapi
+  logo: https://cdn.evbuc.com/images/41744624/147623357239/1/original.jpg?h=200&w=450&rect=0,0,800,400&s=e28dbf62d80e0538373fad621a01486d
+  starts: 2018-05-02T08:00:00.0000000
+  ends: 2018-05-02T18:30:00.0000000
+  venue: Historic National Academy of Sciences Building
+- name: CAS Patents and Pizza Sessions
+  description: "\r\n \r\n\r\n\r\n\r\n \r\nDecember 12, 2017 – STN Potpourri\r\nIn this session, we discuss a variety of Frequently Asked Questions, and questions submitted by STN searchers throughout the year. Suggested solutions and examples will be provided.\r\n \r\nJanuary 9, 2018 – What’s New from CAS?\r\nCome hear the latest news about STN and SciFinder plus other CAS products and content relevant to your searches.\r\n \r\nFebruary 13, 2018 –Tips for Finding Engineering Prior Art on   STN\r\nFrom 3-D printing to electronics, STN includes a wealth of engineering-focused information. Learn   about:\r\n\r\n\r\nEngineering information in CAplusSM, INSPEC®, COMPENDEX, and other databases\r\n\r\n\r\nSearch tools to enhance retrieval and precision\r\n\r\n\r\nMulti-file searches\r\n\r\n\r\n \r\nMarch 13, 2018 - Substance Searching in SciFinder®\r\nAccess the world’s most trusted resource for substance information including CAS Registry Numbers®, chemical names, molecular formulas, chemical   structures, properties, and commercial availability. Learn how to find claimed specific substances and substance classes in SciFinder.\r\n \r\nApril 10, 2018 –Use the Cooperative Patent Classification on STN\r\nCPC classifications can be used to create broad   answer sets in a technology or to refine answer sets, Learn how the CPC is   implemented on STN and tips for   effectively incorporating CPC into your searches.\r\n \r\nMay 8, 2018 - Search Small Nucleic Acids on STN\r\nSTN has extensive nucleic acid   information including nomenclature, sequence data, and even structures of   small modified nucleic acids. Learn about nucleic acid information on STN and strategies   for searching small nucleic acids.\r\n \r\nJune 12, 2018 –Structure Search with STNextTM\r\nThis session will be   held at the Hilton Alexandria – Old Town\r\nSTNext is the premier gateway for searching STN. It incorporates a new, modern structure   editor. Learn how to draw structure   queries quickly and efficiently with the new editor, including structure modeling, importing structures in different formats, templates, and shortcuts. Apply all your favorite attributes to build comprehensive structure queries.\r\n \r\nJuly 10, 2018 -Tips for Finding Obvious Variations on STN\r\nA patentability search includes searching for information related to both novelty and obviousness. \r\nLearn how to:\r\n\r\n\r\nBroaden your searches to look for potential obvious variations of an invention\r\n\r\n\r\nText search tips including truncation\r\n\r\n\r\nSubstance search tips including expanding chemical names and Component Registry Numbers\r\n\r\n\r\n \r\nAugust 14, 2018 –Get References with SciFinder\r\nSearch the combined coverage of CAplusSM and MEDLINE® to find journals, patents, dissertations and more covering chemistry, chemical engineering,   biotech, pharma and more. SciFinder offers a graphical, easy to use interface   and tools for refining and analyzing search results. \r\n \r\nSeptember 11, 2018 - The Secret Life of CAplusSM on   STN\r\nCAplus contains millions of   patent and journal article references in 80 different areas of technology, including life sciences, organic, macromolecular and applied chemistry, plus   physical, inorganic, and analytical chemistry. Learn about lesser known features of CAplus on STN and how to get the best possible patent search results by   incorporating these features into your searching.\r\n \r\nOctober 9, 2018 –Improve Your Saccharide Searches on STN\r\nSaccharide searches present unique challenges, but STN offers many tools for finding saccharide prior art. Learn   about nomenclature and structure search strategies to get more relevant   results from your saccharide searches.\r\n \r\nNovember 13, 2018 – Search Reactions in SciFinder®\r\nSciFinder offers a wealth of reaction   information from the CASREACT database and powerful tools for reaction searching. Learn strategies to Get Reactions, narrow   results, and save and export reaction results. \r\n \r\nDecember 11,   2018 – Make the Most of Multifile Searches on STN\r\nThe   multi-file search capability of STN is one of its most powerful features,   offering a combination of time savings, along with access to a wide range of   content.  \r\nLearn how to:\r\n\r\n\r\nDevise a \"universal\" search strategy for multi-file searching \r\n\r\n\r\nDetermine the   most appropriate combination of databases for comprehensive searching\r\n \r\n \r\n \r\n \r\n\r\n"
+  url: https://www.eventbrite.com/e/cas-patents-and-pizza-sessions-registration-30469637506?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/40818996/27679383825/1/original.jpg?h=200&w=450&rect=0,8,2094,1047&s=6c874d9eaeac7b08a8e87ba70455ddb1
-  starts: 2018-03-24T09:30:00.0000000
-  ends: 2018-03-24T16:00:00.0000000
-  venue: Pratt Institute
+  logo: https://cdn.evbuc.com/images/38425292/185355489140/1/original.jpg?h=200&w=450&rect=0,1,426,213&s=3097dcf76a16547feec072ebfa422e72
+  starts: 2017-12-06T11:30:00.0000000
+  ends: 2019-03-05T13:00:00.0000000
+  venue: Embassy Suites by Hilton Alexandria Old Town
