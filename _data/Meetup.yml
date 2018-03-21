@@ -1,11 +1,3 @@
-- name: 'Dev Workshop - RESTful APIs Part 2: Advanced'
-  description: "<p>Back in November we held an introduction to RESTful APIs 'Tech//Connect Dev Workshop: RESTful APIs' alongside BJSS. We are pleased to announce we will be delivering Part 2 ( a more advanced dev workshop following from part 1) on Tuesday 20th March 2018. (Leeds City Centre, 18:00 - 20:00).</p> <p>Part 1 was a sell out, and we are expecting the level of interest for Part 2 to be the same, therefore we recommend you register your interest and secure your spot as soon as possible.</p> <p>Please do so by emailing techconnect@amsourcetechnology.com or call Kelly on 0113 456 6706 for more details.</p> "
-  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/248658988/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
-  starts: 2018-03-20T18:00:00.0000000
-  ends: 2018-03-20T20:00:00.0000000
-  venue: Leeds City Centre
 - name: Who is to blame for our lack of Agile progress?
   description: '<p>Who is to blame for our lack of Agile progress?</p> <p>The answers of course lie in the system and the underlying thinking of the organisation. There is no person to blame as we often look for with command &amp; control thinking.</p> <p>About Rachel Whitaker</p> <p>A decade of systems thinking experience and the joyful learns and successes which have come with that have only increased Rachel’s passion to share that experience with others. 95% of the performance of any system can be attributed to the system conditions, NOT the individuals in the system.</p> <p>Rachel has applied systems thinking principles at Aviva and outside of Aviva with colleagues in all areas of the business finding the same thinking producing the same results over and over again. Once you start systems thinking, you can never go back.<br/>Rachel is passionate about great customer experience, continuous learning, awesome colleague environments and systems thinking. They fit very well together!</p> '
   url: https://www.meetup.com/agileYork/events/247423404/
@@ -48,7 +40,7 @@
   venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfbjc/
+  url: https://www.meetup.com/YorkDevelopers/events/248916356/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-03-26T06:30:00.0000000
@@ -573,6 +565,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-09-05T06:30:00.0000000
   ends: 2018-09-05T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxmbnb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-09-10T06:30:00.0000000
+  ends: 2018-09-10T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
