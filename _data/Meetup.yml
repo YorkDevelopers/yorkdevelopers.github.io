@@ -17,7 +17,7 @@
   venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxfblc/
+  url: https://www.meetup.com/YorkDevelopers/events/248987276/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-03-28T06:30:00.0000000
@@ -26,7 +26,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxfblc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/248988106/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-03-28T07:00:00.0000000
@@ -75,7 +75,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxgbgb/
+  url: https://www.meetup.com/YorkDevelopers/events/249002823/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-04-04T06:30:00.0000000
@@ -107,6 +107,14 @@
   ends: 2018-04-04T20:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
+- name: Building Scalable and Resilient Applications
+  description: '<p>This talk is split into two related topics; Building Scalable and Resilient Web Apps with Microsoft Azure &amp; Introducing Azure Service Fabric</p> <p>Building Scalable and Resilient Web Apps with Microsoft Azure</p> <p>Building web apps that are both scalable and resilient is challenging especially when you have an existing application that you need to change. This talk discusses scalability and resilience, the issues you could have and highlights some of the services within Azure that you can use to help.</p> <p>Introduction to Azure Service Fabric</p> <p>Azure Service Fabric is the Microsoft microservices framework and this talk explains how to build applications that can be deployed in Azure or on your own infrastructure.Service fabric lets you deploy your own existing services or build them using the service fabric framework to take advantage of the built-in microservices features that service fabric provides</p> <p>Steve Spencer</p> <p>Steve is an experienced .NET Developer, Microsoft Azure MVP and a Senior Solution Architect at Liberis. Steve has spoken at previous DDD events covering Microsoft Azure, Gadgeteer, Service Bus and Azure Web jobs</p> <p>Steve has also recently appeared on channel9 also talking on Service Fabric -</p> <p><a href="https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby" class="linkified">https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby</a></p> <p><a href="http://blogs.recneps.net/" class="linkified">http://blogs.recneps.net/</a></p> <p><a href="http://www.twitter.com/@sdspencer" class="linkified">http://www.twitter.com/@sdspencer</a></p> '
+  url: https://www.meetup.com/dotnetYork/events/248300644/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
+  starts: 2018-04-05T17:30:00.0000000
+  ends: 2018-04-05T19:30:00.0000000
+  venue: Stonegate Yard Bar & Brasserie
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxgbmb/
@@ -550,6 +558,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-09-10T06:30:00.0000000
   ends: 2018-09-10T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxmbqb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-09-12T06:30:00.0000000
+  ends: 2018-09-12T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
