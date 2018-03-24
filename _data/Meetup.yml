@@ -49,6 +49,14 @@
   starts: 2018-03-28T17:00:00.0000000
   ends: 2018-03-28T19:30:00.0000000
   venue: Leeds City Centre
+- name: March - Anthony Brown and John Bower
+  description: "<p>Join us for a couple of great talks from Anthony Brown and John Bower, as well as a chance to win a 1 year subscription to frontend masters!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Anthony Brown - Why did nobody tell me that<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: John Bower - Supercharging Node with C++<br/>8:20 - 9:00: Chat and packing up</p> <p>Talks:<br/>Anthony Brown - Why did nobody tell me that<br/>\"This is an introductory course on how to get started with Node.js in 2018. Node.js has evolved massively over the last few years. Whilst there are lots of great tutorials on the internet on how to code in Node.js, some of them are quite old so they do not mention new ways of doing things, or techniques to help write Node.js code in a team. This talk aims to cover some of these missing gaps to help you write a great, maintainable application in Node.js\"</p> <p>John Bower - Supercharging Node with C++<br/>\"Node is incredibly powerful for creating web applications, however it's easy to block the event loop with processor-intensive functions. Offloading those functions to C++ can speed your application up massively. In this talk I will go through some of the techniques available to us, and how to make your application as highly performant as possible.\"</p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy. Code of conduct - <a href=\"http://leedsjs.com/code-of-conduct/\" class=\"linkified\">http://leedsjs.com/code-of-conduct/</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/248467832/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2018-03-28T17:30:00.0000000
+  ends: 2018-03-28T20:00:00.0000000
+  venue: Platform
 - name: Teaching an Old Dog New Tricks - Clean Code, Design Patterns, TDD, Refactoring
   description: '<p>Ismail Mayat is a senior web developer at <a href="https://thecogworks.com/" class="linkified">https://thecogworks.com/</a>. Umbraco CMS Master and trainer with an unhealthy interest in search engines (wrote a course on search in umbraco) and indian mangoes!</p> <p>In this session we will get down and dirty with clean code. Expanding on Uncle Bob’s teachings this session will give you practical hints and tips to help you practice clean code. We will cover what clean code is, why you should be writing it and how to write it. If you’ve been a victim of “wtf code”, or even guilty of writing it yourself, then this is a must attend talk for you. Disclaimer: there may be swearing!</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/248018605/
