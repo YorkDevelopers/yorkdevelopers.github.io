@@ -1,50 +1,16 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/248987276/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-03-28T06:30:00.0000000
-  ends: 2018-03-28T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/248988106/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-03-28T07:00:00.0000000
-  ends: 2018-03-28T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Ruby York - Monthly social
-  description: '<p>Come along to the Ruby York meetup, a friendly social gathering for Ruby/Rails developers in York. All skill levels welcome.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/248372469/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-03-28T17:00:00.0000000
-  ends: 2018-03-28T19:00:00.0000000
-  venue: FortyFive Vinyl Café
-  endorsed: true
-- name: "Tech//Connect Presents 'Test Lab: An Introduction into Performance Testing'"
-  description: "<p>Testers! Join us on Wednesday 28th March for 'Test Lab: An Introduction Into Performance Testing'.</p> <p>Gain an understanding of how performance testing is carried out and see interactive demos of performance testing tools and more, all presented by Becky Kellett of Sky Betting and Gaming.</p> <p>For more details get in touch with Penny Cheung. Penny@amsourcetechnology.com / 0113 467 6700</p> "
-  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/248658683/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
-  starts: 2018-03-28T17:00:00.0000000
-  ends: 2018-03-28T19:30:00.0000000
-  venue: Leeds City Centre
-- name: March - Anthony Brown and John Bower
-  description: "<p>Join us for a couple of great talks from Anthony Brown and John Bower, as well as a chance to win a 1 year subscription to frontend masters!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Anthony Brown - Why did nobody tell me that<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: John Bower - Supercharging Node with C++<br/>8:20 - 9:00: Chat and packing up</p> <p>Talks:<br/>Anthony Brown - Why did nobody tell me that<br/>\"This is an introductory course on how to get started with Node.js in 2018. Node.js has evolved massively over the last few years. Whilst there are lots of great tutorials on the internet on how to code in Node.js, some of them are quite old so they do not mention new ways of doing things, or techniques to help write Node.js code in a team. This talk aims to cover some of these missing gaps to help you write a great, maintainable application in Node.js\"</p> <p>John Bower - Supercharging Node with C++<br/>\"Node is incredibly powerful for creating web applications, however it's easy to block the event loop with processor-intensive functions. Offloading those functions to C++ can speed your application up massively. In this talk I will go through some of the techniques available to us, and how to make your application as highly performant as possible.\"</p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy. Code of conduct - <a href=\"http://leedsjs.com/code-of-conduct/\" class=\"linkified\">http://leedsjs.com/code-of-conduct/</a></p> "
-  url: https://www.meetup.com/LeedsJS/events/248467832/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2018-03-28T17:30:00.0000000
-  ends: 2018-03-28T20:00:00.0000000
-  venue: Platform
 - name: Teaching an Old Dog New Tricks - Clean Code, Design Patterns, TDD, Refactoring
   description: '<p>Ismail Mayat is a senior web developer at <a href="https://thecogworks.com/" class="linkified">https://thecogworks.com/</a>. Umbraco CMS Master and trainer with an unhealthy interest in search engines (wrote a course on search in umbraco) and indian mangoes!</p> <p>In this session we will get down and dirty with clean code. Expanding on Uncle Bob’s teachings this session will give you practical hints and tips to help you practice clean code. We will cover what clean code is, why you should be writing it and how to write it. If you’ve been a victim of “wtf code”, or even guilty of writing it yourself, then this is a must attend talk for you. Disclaimer: there may be swearing!</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/248018605/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2018-03-29T17:30:00.0000000
+  ends: 2018-03-29T20:00:00.0000000
+  venue: Platform
+- name: April - Jusef Belkasemi & Katie Fenn
+  description: "<p>Join us for a couple of great talks from Jusef Belkasemi and Katie Fenn, as well as a chance to win a code for a year subscription to Frontend Masters!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Jusef Belkasemi - Efficient End to End testing of any web app using protractor and typescript<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Katie Fenn - Securing your site like it's 1999<br/>8:20 - 9:25: Social &amp; point that people can leave<br/>9:25 - 9:30: Pack up and leave</p> <p>Talks:<br/>Jusef Belkasemi - Efficient End to End testing of any web app using protractor and typescript<br/>\"Automated end to end testing is usually a complex problem handled by dedicated quality assurance departments using various tools and Frameworks. Typically e2e testing is deemed to be too expensive for smaller organisations and the team ends up having to rely on manual testing for the most part. Luckily modern open source tools are bridging this gap and make automated e2e testing possible for organisations of all sizes. I will talk about one popular e2e testing framework called Protractor. It has been developed by the Angular team but can be used for e2e testing any application. It is fully featured, stable and when combined with typescript can transform the e2e testing process into a productive and enjoyable activity.\"</p> <p>Katie Fenn - Securing your site like it's 1999<br/>\"Life in the early days of the web was hard. One day your HTML is disintegrating, the next you are fighting someone named \"*~*Ninjad00d*~*\" who has found a way to take over your forum system. Lessons in security in these days were hard learned.</p> <p>These are the true stories from the early days of the web and how forums, chat rooms and online games were turned upside down for fun and profit. If you stick around after laughing at the misfortune of online pioneers, there will also be lessons about finding your way in a world that wants to exploit your every mistake.\"</p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href=\"http://leedsjs.com/code-of-conduct/\" class=\"linkified\">http://leedsjs.com/code-of-conduct/</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/249203568/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
   starts: 2018-03-29T17:30:00.0000000
   ends: 2018-03-29T20:00:00.0000000
   venue: Platform
@@ -125,6 +91,14 @@
   ends: 2018-04-11T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/248986529/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-04-11T07:00:00.0000000
+  ends: 2018-04-11T10:00:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am.  We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/gvbctmyxgbvb/
