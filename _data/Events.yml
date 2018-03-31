@@ -63,19 +63,6 @@
   starts: 2018-04-26T09:30:00.0000000
   ends: 2018-04-26T16:00:00.0000000
   venue: Industrial Engagement Facility
-- name: RM Integris Insights Meetup - Spring 2018 - York 14th June
-  description: >-
-    The Insights meetups are back again for Spring 18! If you haven't been before it's a great chance to get together with the RM Integris team, be the first to find out about our new developments and do a bit of networking. 
-
-    Book your FREE place now!
-
-    To view the full agenda please click here.
-  url: https://www.eventbrite.co.uk/e/rm-integris-insights-meetup-spring-2018-york-14th-june-tickets-43828723893?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/42471554/244061504650/1/original.jpg?h=200&w=450&rect=0,0,800,400&s=e62337e1e889fc4ffd36da7b418fd0ee
-  starts: 2018-06-14T08:00:00.0000000
-  ends: 2018-06-14T12:30:00.0000000
-  venue: The Principal York
 - name: The microscopic world in 3D
   description: >-
     Speakers: Laurence Wilson, Department of Physics and Pegine Walrad, Centre for Immunology and Infection
@@ -97,6 +84,19 @@
   starts: 2018-05-15T18:30:00.0000000
   ends: 2018-05-15T19:30:00.0000000
   venue: Ron Cooke Hub auditorium
+- name: RM Integris Insights Meetup - Spring 2018 - York 14th June
+  description: >-
+    The Insights meetups are back again for Spring 18! If you haven't been before it's a great chance to get together with the RM Integris team, be the first to find out about our new developments and do a bit of networking. 
+
+    Book your FREE place now!
+
+    To view the full agenda please click here.
+  url: https://www.eventbrite.co.uk/e/rm-integris-insights-meetup-spring-2018-york-14th-june-tickets-43828723893?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/42471554/244061504650/1/original.jpg?h=200&w=450&rect=0,0,800,400&s=e62337e1e889fc4ffd36da7b418fd0ee
+  starts: 2018-06-14T08:00:00.0000000
+  ends: 2018-06-14T12:30:00.0000000
+  venue: The Principal York
 - name: The Expert Committee on Pesticide Residues in Food Open Business Meeting
   description: >-
     The Expert Committee on Pesticide Residues in Food open one of their business meetings every year.
@@ -815,6 +815,14 @@
   ends: 2018-04-04T20:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
+- name: Umbraco Meetup
+  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>We draw a Jetbrains coupon to get one of their programs for free!</p> <p>Winners<br/>Jan: Thomas Nadin.<br/>Feb: James Fisher</p> "
+  url: https://www.meetup.com/umbLeeds/events/249272191/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
+  starts: 2018-04-05T16:30:00.0000000
+  ends: 2018-04-05T19:30:00.0000000
+  venue: The Adelphi
 - name: Building Scalable and Resilient Applications
   description: '<p>This talk is split into two related topics; Building Scalable and Resilient Web Apps with Microsoft Azure &amp; Introducing Azure Service Fabric</p> <p>Building Scalable and Resilient Web Apps with Microsoft Azure</p> <p>Building web apps that are both scalable and resilient is challenging especially when you have an existing application that you need to change. This talk discusses scalability and resilience, the issues you could have and highlights some of the services within Azure that you can use to help.</p> <p>Introduction to Azure Service Fabric</p> <p>Azure Service Fabric is the Microsoft microservices framework and this talk explains how to build applications that can be deployed in Azure or on your own infrastructure.Service fabric lets you deploy your own existing services or build them using the service fabric framework to take advantage of the built-in microservices features that service fabric provides</p> <p>Steve Spencer</p> <p>Steve is an experienced .NET Developer, Microsoft Azure MVP and a Senior Solution Architect at Liberis. Steve has spoken at previous DDD events covering Microsoft Azure, Gadgeteer, Service Bus and Azure Web jobs</p> <p>Steve has also recently appeared on channel9 also talking on Service Fabric -</p> <p><a href="https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby" class="linkified">https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby</a></p> <p><a href="http://blogs.recneps.net/" class="linkified">http://blogs.recneps.net/</a></p> <p><a href="http://www.twitter.com/@sdspencer" class="linkified">http://www.twitter.com/@sdspencer</a></p> '
   url: https://www.meetup.com/dotnetYork/events/248300644/
