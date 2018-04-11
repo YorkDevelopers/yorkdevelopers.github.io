@@ -24,14 +24,6 @@
   starts: 2018-04-11T07:00:00.0000000
   ends: 2018-04-11T10:00:00.0000000
   venue: La Bottega Milanese
-- name: GDG Leeds - April 2018
-  description: "<p>GDG Leeds is back!</p> <p>This month we have Douglass Sillars, author of High Performance Android Apps (<a href=\"http://bit.ly/HighPerfAndroidApps\" class=\"linkified\">http://bit.ly/HighPerfAndroidApps</a>) coming to do his talk \"It's Time To Stop Stalling: Mobile App and Video Performance\". Doug's focus over the last few years has been the network performance - fast delivery of content.</p> <p>Here's a little about the talk:</p> <p>Over 90% of mobile apps utilize network connections to download content. However, many apps have not fully optimized the transfer, causing delays and frustrating customers. In this talk, we'll look at how to profile the network transfers made in your mobile app or website, and walk through a number of best practices to identify and resolve. After this talk, you will know how to test for network inefficiencies, identify some common issues, and be able to resolve them in your code.</p> <p>Schedule</p> <p>6.00 - Meet, get drinks<br/>6.10 - \"It's Time To Stop Stalling: Mobile App and Video Performance\" by Douglas Dollars<br/>7.00 - Fin</p> "
-  url: https://www.meetup.com/GDG-Leeds/events/249388067/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
-  starts: 2018-04-11T17:00:00.0000000
-  ends: 2018-04-11T18:00:00.0000000
-  venue: Sky 2
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/249397607/
@@ -565,6 +557,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-09-26T06:30:00.0000000
   ends: 2018-09-26T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxnbcb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-10-01T06:30:00.0000000
+  ends: 2018-10-01T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
