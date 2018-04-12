@@ -786,32 +786,6 @@
   starts: 2018-09-04T11:00:00.0000000
   ends: 2018-09-04T12:00:00.0000000
   venue: We are moving the training area Please come to main library desk
-- name: York Code Dojo April Meetup - Write a bot for the Hangman word game
-  description: "<p>This month, Eleanor will be running a session in which we write bots to play the word game Hangman against a computer opponent.</p> <p>We'll work in pairs or small groups and, if time permits, see whose bots come out on top. All programming languages and levels of experience are welcome.</p> <p>Some food for thought: <a href=\"https://lifehacker.com/5898720/a-better-strategy-for-hangman\" class=\"linkified\">https://lifehacker.com/5898720/a-better-strategy-for-hangman</a></p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is in the Fountains learning Centre on the second floor. Simply go into the library and either take the lift or walk up the stairs to the second floor.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg\" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg\" /></p> "
-  url: https://www.meetup.com/York-Code-Dojo/events/249112536/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2018-04-11T17:30:00.0000000
-  ends: 2018-04-11T20:00:00.0000000
-  venue: Room FT/210 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/249397579/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-04-11T06:30:00.0000000
-  ends: 2018-04-11T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/248986529/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-04-11T07:00:00.0000000
-  ends: 2018-04-11T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/249397607/
@@ -879,7 +853,7 @@
   ends: 2018-04-19T20:00:00.0000000
   venue: BJSS Limited
 - name: THE JVM THING – LIGHTNING TALKS FESTIVAL SPECIAL
-  description: '<p>The JVM Thing – Thursday 19th April 2018 @The_JVM_Thing</p> <p>Presented by Tech companies from around Yorkshire: Sky Betting &amp; Gaming, EE Mobile, Anaplan, Virtual Programmers and more...</p> <p>As part of Leeds Digital Festival we are holding a series of lightning talks from market leading tech companies in Yorkshire.</p> <p>Here is an example of talks we have lined up:</p> <p>"JVM and serverless – Kotlin at Skybet scale" - By Alex Stanhope @ Sky Betting &amp; Gaming</p> <p>"Getting functional with Kotlin" - By James Morris: @ Sky Betting &amp; Gaming</p> <p>"Building Full Stack Location Based Applications for the Mobile Industry" - By Serb Ocal @ EE Mobile</p> <p>“200GB, living within your means.” By Mark Jessop @ Anaplan</p> <p>“Using Apache Spark with small data”– By Matt Thornfield @ Virtual Programmers</p> <p>Plus more...</p> <p>Location – Sky Betting &amp; Gaming, 6 Wellington Place , Leeds, LS1 4AP</p> '
+  description: '<p>The JVM Thing – Thursday 19th April 2018 @The_JVM_Thing - Free food and drinks!</p> <p>Presented by Tech companies from around Yorkshire: Sky Betting &amp; Gaming, EE Mobile, Anaplan, Virtual Programmers and more...</p> <p>As part of Leeds Digital Festival we are holding a series of lightning talks from market leading tech companies in Yorkshire.</p> <p>Here is an example of talks we have lined up:</p> <p>1. "JVM and serverless – Kotlin at Skybet scale" - By Alex Stanhope @ Sky Betting &amp; Gaming<br/>2. "Getting functional with Kotlin" - By James Morris: @ Sky Betting &amp; Gaming<br/>3. "Building Full Stack Location Based Applications for the Mobile Industry" - By Serb Ocal @ EE Mobile<br/>4. “200GB, living within your means.” By Mark Jessop @ Anaplan<br/>5. “Using Apache Spark with small data”– By Matt Thornfield @ Virtual Pair Programmers<br/>6. “Formalising Elasticsearch” – By David Turner @ Elastic<br/>7. “Android from Java to Kotlin – An unexpected journey” – By Jaime Bowden @ Sky Betting &amp; Gaming<br/>8. “The Craft Of Pull Request Review” - By Robertas Šetkus @ EE Mobile</p> <p>Location – Sky Betting &amp; Gaming, 6 Wellington Place , Leeds, LS1 4AP</p> '
   url: https://www.meetup.com/Leeds-JVMThing/events/248916472/
   is-free: true
   starts: 2018-04-19T17:00:00.0000000
@@ -911,6 +885,30 @@
   ends: 2018-04-25T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxgbhc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-04-25T07:00:00.0000000
+  ends: 2018-04-25T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: April - Jusef Belkasemi & Katie Fenn
+  description: "<p>Join us for a couple of great talks from Jusef Belkasemi and Katie Fenn, as well as a chance to win a code for a year subscription to Frontend Masters!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Jusef Belkasemi - Efficient End to End testing of any web app using protractor and typescript<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Katie Fenn - Securing your site like it's 1999<br/>8:20 - 9:25: Social &amp; point that people can leave<br/>9:25 - 9:30: Pack up and leave</p> <p>Talks:<br/>Jusef Belkasemi - Efficient End to End testing of any web app using protractor and typescript<br/>\"Automated end to end testing is usually a complex problem handled by dedicated quality assurance departments using various tools and Frameworks. Typically e2e testing is deemed to be too expensive for smaller organisations and the team ends up having to rely on manual testing for the most part. Luckily modern open source tools are bridging this gap and make automated e2e testing possible for organisations of all sizes. I will talk about one popular e2e testing framework called Protractor. It has been developed by the Angular team but can be used for e2e testing any application. It is fully featured, stable and when combined with typescript can transform the e2e testing process into a productive and enjoyable activity.\"</p> <p>Katie Fenn - Securing your site like it's 1999<br/>\"Life in the early days of the web was hard. One day your HTML is disintegrating, the next you are fighting someone named \"*~*Ninjad00d*~*\" who has found a way to take over your forum system. Lessons in security in these days were hard learned.</p> <p>These are the true stories from the early days of the web and how forums, chat rooms and online games were turned upside down for fun and profit. If you stick around after laughing at the misfortune of online pioneers, there will also be lessons about finding your way in a world that wants to exploit your every mistake.\"</p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href=\"http://leedsjs.com/code-of-conduct/\" class=\"linkified\">http://leedsjs.com/code-of-conduct/</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/249203568/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2018-04-25T17:30:00.0000000
+  ends: 2018-04-25T20:00:00.0000000
+  venue: Platform
+- name: MagentoYork - April Meetup - Lightning Talks
+  description: '<p>In a series of short talks we discuss the latest happenings of Magento 2.</p> '
+  url: https://www.meetup.com/Magento-York/events/247589528/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/2/3/thumb_444120291.jpeg
+  starts: 2018-04-25T18:00:00.0000000
+  ends: 2018-04-25T20:00:00.0000000
+  venue: The Cross Keys
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxgbnc/
