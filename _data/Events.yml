@@ -140,43 +140,6 @@
   starts: 2018-05-09T10:00:00.0000000
   ends: 2018-05-09T15:30:00.0000000
   venue: Foss House
-- name: 'WE1: Website CMS Basic training (Thu 12 Apr 14:00-16:00)'
-  description: >-
-    These courses are for staff who have been approved by the website team only
-
-
-    WE1: Website CMS basics
-
-    Prior knowledge: None
-
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to staff given prior approval by the website team
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-thu-12-apr-1400-1600-tickets-40786142450?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38137002/47610739467/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=513d9748ceecc61e3dfb464db1b45f02
-  starts: 2018-04-12T14:00:00.0000000
-  ends: 2018-04-12T16:00:00.0000000
-  venue: ILS Training area (outside FT/120)
 - name: 'YSJ Terra Two, Workshop Five: Science Fictional Favourites'
   description: "NASA is currently aiming to settle the first human beings on MARS by 2030. Terra Two’s project designers suggest that writers, artists, musicians, philosophers and spiritual thinkers have an ethical responsibility to lend their voices to this far-sighted scientific experiment.  Terra Two is an online magazine/archive which was officially launched at York St John in September 2017 in order to collate science-fictional contributions from YSJ staff, postgraduate students, undergraduate students and invited guests in the form of writing, music, visual images, games and podcasts. The aim of these collected contributions is to help create a sustainable future for human beings as well as the non-human plant and animal species we directly impact upon, both on Earth and off-world. For our magazine, see https://yorkstjohnterratwo.com. This year we are introducing a workshop series to develop and disseminate the ideas underpinning Terra Two, and we invite you to get involved with one or more! Workshops will be facilitated by one or more members of the Terra Two editorial team, and refreshments will be provided. This summer the Terra Two team will produce a printed catalogue which participants will have the opportunity to contribute to. \n Sign up to join us!\n\n\nWorkshop Five: Science Fictional Favourites \nFor this event, participants are invited to come and give a five minute presentation in any format on any favourite SF text in order to persuade others to read/view/play or listen to it. Participants need to send the title, author/director and publication date to l.king@yorksj.ac.uk a week in advance, as well as a PowerPoint slide or handout (if these will be used). Ideally the presentations will not only inspire enjoyable watching, reading and playing, but will feed into creative and critical ideas that can be developed for the August submission deadline for Terra Two. Following the presentations we will complete some writing tasks to that end. Participants will receive a list of ‘science fictional favourites’ to take away. \n"
   url: https://www.eventbrite.co.uk/e/ysj-terra-two-workshop-five-science-fictional-favourites-tickets-42231565750?aff=ebapi
@@ -814,7 +777,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxgbxb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/249699703/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-04-18T07:00:00.0000000
@@ -844,6 +807,15 @@
   starts: 2018-04-18T17:30:00.0000000
   ends: 2018-04-18T20:00:00.0000000
   venue: York St.John University
+- name: AgileYork - Software Craftsmanship and Agile & Let's invent a team game!
+  description: '<p>For more information and RSVP see <a href="https://www.meetup.com/agileYork/events/247423423/" class="linkified">https://www.meetup.com/agileYork/events/247423423/</a></p> '
+  url: https://www.meetup.com/YorkDevelopers/events/249719678/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-04-18T17:30:00.0000000
+  ends: 2018-04-18T20:00:00.0000000
+  venue: York St. John University
+  endorsed: true
 - name: Beyond REST - The future of Web APIs
   description: "<p>Join us on Thursday 19th April 2018 for the next part of our REST API event series alongside BJSS.</p> <p>'Beyond REST' will delve deeper into the future of Web APIs with BJSS Technical Architects Nick Copley and Jeff Watkins. The event will run as part of 0%Leeds Digital Festival (The North's Largest Digital Festival).</p> <p>The event will be highly engaging and interactive and will provide a valuable insight into Web APIs and aims to answer questions including: What key differences exist between the two generations of Web APIs? Why REST is causing problems for new and legacy services alike? And what are the next steps to shaping the future of Web APIs?</p> <p>Part 1 and Part 2 of our RESTful API events were extremely popular, so please register your space as soon as possible to avoid disapointment.</p> <p>For more details on this event please call Kelly Bake 0113 468 6700<br/>or email techconnect@amsourcetechnology.com</p> "
   url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/249425122/
@@ -909,6 +881,21 @@
   starts: 2018-04-25T18:00:00.0000000
   ends: 2018-04-25T20:00:00.0000000
   venue: The Cross Keys
+- name: .Net on Kubernetes and Azure
+  description: "<p>Everyone seems to be talking about Kubernetes with companies seemingly tripping over themselves to support Kubernetes.<br/>In this talk we'll introduce Kubernetes, discuss the key concepts of the platform, it's high level architecture and how to get a Kubernetes cluster up and running in minutes. We'll talk about and demo (hopefully!) deploying .NET applications to Kubernetes and we'll finish with a discussion of the future where you can deploy both legacy and modern .NET applications to the same platform.</p> <p>By Shahid Iqbal</p> <p>About Shahid:<br/>Shahid is an independent consultant working with companies to help migrate their existing applications to the Cloud and to build natively for the cloud using technologies such as Kubernetes.<br/>A .NET developer/architect with nearly a decade of experience he is usually happiest working with the latest technologies and playing around with gadgets or talking about cars.</p> "
+  url: https://www.meetup.com/Leeds-Sharp/events/248567631/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2018-04-26T17:30:00.0000000
+  ends: 2018-04-26T20:00:00.0000000
+  venue: Platform
+- name: Leeds Ruby Thing meetup
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  url: https://www.meetup.com/LeedsRubyThing/events/249637196/
+  is-free: true
+  starts: 2018-04-26T18:30:00.0000000
+  ends: 2018-04-26T22:30:00.0000000
+  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxgbnc/
@@ -1352,6 +1339,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-10-01T06:30:00.0000000
   ends: 2018-10-01T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxnbfb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-10-03T06:30:00.0000000
+  ends: 2018-10-03T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
