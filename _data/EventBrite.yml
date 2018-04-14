@@ -148,6 +148,20 @@
   starts: 2018-05-29T14:00:00.0000000
   ends: 2018-05-29T16:00:00.0000000
   venue: DG/125 (De Grey)
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-45131005051?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&s=da6fb3e252e86ea41f480ef06f3255e5
+  starts: 2018-05-31T18:30:00.0000000
+  ends: 2018-05-31T19:30:00.0000000
 - name: Modern Modelling and Computation in Nuclear Structure
   description: Dr Alessandro PastoreUniversity of YorkDelivered by face-to-face (residential) lectures in York.Delivery may be in two phases with assigned work inbetween.
   url: https://www.eventbrite.co.uk/e/modern-modelling-and-computation-in-nuclear-structure-tickets-41391288458?aff=ebapi
@@ -156,6 +170,13 @@
   starts: 2018-09-01T09:00:00.0000000
   ends: 2018-10-28T07:00:00.0000000
   venue: Department of Physics
+- name: 'The h-bar: An Evening of Physics Cabaret'
+  description: "Grab a drink and settle in for a night of physics-themed entertainment for the sci-curious. \nCheer each 8-minute act as research scientists, comedians (or \"comedians\"), teachers, students and circus performers take to the stage armed with facts, jokes, songs, experiments, juggling balls ... or just their raw intellect and wit. \nIt's going to be an enlightening and entertaining evening, expertly woven together by your host, Dr Chris Stewart, antipodean, lapsed physicist and science-communicator-at-large."
+  url: https://www.eventbrite.com.au/e/the-h-bar-an-evening-of-physics-cabaret-tickets-44994024338?aff=ebapi
+  logo: https://cdn.evbuc.com/images/43318666/123427475423/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=218e26756cc03da37545dcc140afd528
+  starts: 2018-05-17T19:00:00.0000000
+  ends: 2018-05-17T21:30:00.0000000
+  venue: The Walmgate Ale House
 - name: 'WE1: Website CMS Basic training (Wed 2 May 14:00-16:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
