@@ -6,18 +6,6 @@
   starts: 2018-05-19T10:00:00.0000000
   ends: 2018-05-19T16:30:00.0000000
   venue: Tempest Anderson Hall
-- name: 'IGS UK Symposium: Use of Geosynthetics in Rail: Towards 2025'
-  description: >-
-    With high-speed railways planned across the world, budget limitations pressing for ever more efficient structures and the Paris Agreement demanding more sustainable solutions, there are many challenges to overcome in the rail sector.
-
-    The UK chapter of the IGS want to educate the Industry about the use of geosynthetics in Rail. The symposium will showcase the established use of geosynthetics in rail applications from around the world for over 30 years. It will also discuss how they could be utilised in high speed networks to create steeper embankments, construct abutments, facilitate drainage and many other uses.
-
-    Further information can be found at: http://www.igs-uk.org/rail/
-  url: https://www.eventbrite.co.uk/e/igs-uk-symposium-use-of-geosynthetics-in-rail-towards-2025-tickets-35319374199?aff=ebapi
-  logo: https://cdn.evbuc.com/images/33001134/202817109813/1/original.jpg?h=200&w=450&rect=0,111,954,477&s=5c1caee93ad8c37ce4dd8c3e03320e98
-  starts: 2018-04-18T08:30:00.0000000
-  ends: 2018-04-18T17:00:00.0000000
-  venue: National Railway Museum York
 - name: Microwave Commercialisation Club Workshop
   description: >
     Taking microwave technology from the lab to industrial scale
@@ -148,6 +136,13 @@
   starts: 2018-05-29T14:00:00.0000000
   ends: 2018-05-29T16:00:00.0000000
   venue: DG/125 (De Grey)
+- name: 'The h-bar: An Evening of Science Cabaret'
+  description: "Grab a drink and settle in for a night of physics-themed entertainment for the sci-curious. \nCheer each 8-minute act as research scientists, comedians (or \"comedians\"), teachers, students and circus performers take to the stage armed with facts, jokes, songs, experiments, juggling balls ... or just their raw intellect and wit. \nIt's going to be an enlightening and entertaining evening, expertly woven together by your host, Dr Chris Stewart, antipodean, lapsed physicist and science-communicator-at-large."
+  url: https://www.eventbrite.com.au/e/the-h-bar-an-evening-of-science-cabaret-tickets-44994024338?aff=ebapi
+  logo: https://cdn.evbuc.com/images/43318666/123427475423/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=218e26756cc03da37545dcc140afd528
+  starts: 2018-05-17T19:00:00.0000000
+  ends: 2018-05-17T21:30:00.0000000
+  venue: The Walmgate Ale House
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -170,13 +165,6 @@
   starts: 2018-09-01T09:00:00.0000000
   ends: 2018-10-28T07:00:00.0000000
   venue: Department of Physics
-- name: 'The h-bar: An Evening of Physics Cabaret'
-  description: "Grab a drink and settle in for a night of physics-themed entertainment for the sci-curious. \nCheer each 8-minute act as research scientists, comedians (or \"comedians\"), teachers, students and circus performers take to the stage armed with facts, jokes, songs, experiments, juggling balls ... or just their raw intellect and wit. \nIt's going to be an enlightening and entertaining evening, expertly woven together by your host, Dr Chris Stewart, antipodean, lapsed physicist and science-communicator-at-large."
-  url: https://www.eventbrite.com.au/e/the-h-bar-an-evening-of-physics-cabaret-tickets-44994024338?aff=ebapi
-  logo: https://cdn.evbuc.com/images/43318666/123427475423/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=218e26756cc03da37545dcc140afd528
-  starts: 2018-05-17T19:00:00.0000000
-  ends: 2018-05-17T21:30:00.0000000
-  venue: The Walmgate Ale House
 - name: 'WE1: Website CMS Basic training (Wed 2 May 14:00-16:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
