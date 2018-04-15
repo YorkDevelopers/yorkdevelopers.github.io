@@ -6,18 +6,6 @@
   starts: 2018-05-19T10:00:00.0000000
   ends: 2018-05-19T16:30:00.0000000
   venue: Tempest Anderson Hall
-- name: 'IGS UK Symposium: Use of Geosynthetics in Rail: Towards 2025'
-  description: >-
-    With high-speed railways planned across the world, budget limitations pressing for ever more efficient structures and the Paris Agreement demanding more sustainable solutions, there are many challenges to overcome in the rail sector.
-
-    The UK chapter of the IGS want to educate the Industry about the use of geosynthetics in Rail. The symposium will showcase the established use of geosynthetics in rail applications from around the world for over 30 years. It will also discuss how they could be utilised in high speed networks to create steeper embankments, construct abutments, facilitate drainage and many other uses.
-
-    Further information can be found at: http://www.igs-uk.org/rail/
-  url: https://www.eventbrite.co.uk/e/igs-uk-symposium-use-of-geosynthetics-in-rail-towards-2025-tickets-35319374199?aff=ebapi
-  logo: https://cdn.evbuc.com/images/33001134/202817109813/1/original.jpg?h=200&w=450&rect=0,111,954,477&s=5c1caee93ad8c37ce4dd8c3e03320e98
-  starts: 2018-04-18T08:30:00.0000000
-  ends: 2018-04-18T17:00:00.0000000
-  venue: National Railway Museum York
 - name: Microwave Commercialisation Club Workshop
   description: >
     Taking microwave technology from the lab to industrial scale
@@ -148,6 +136,13 @@
   starts: 2018-05-29T14:00:00.0000000
   ends: 2018-05-29T16:00:00.0000000
   venue: DG/125 (De Grey)
+- name: 'The h-bar: An Evening of Science Cabaret'
+  description: "Grab a drink and settle in for a night of physics-themed entertainment for the sci-curious. \nCheer each 8-minute act as research scientists, comedians (or \"comedians\"), teachers, students and circus performers take to the stage armed with facts, jokes, songs, experiments, juggling balls ... or just their raw intellect and wit. \nIt's going to be an enlightening and entertaining evening, expertly woven together by your host, Dr Chris Stewart, antipodean, lapsed physicist and science-communicator-at-large."
+  url: https://www.eventbrite.com.au/e/the-h-bar-an-evening-of-science-cabaret-tickets-44994024338?aff=ebapi
+  logo: https://cdn.evbuc.com/images/43318666/123427475423/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=218e26756cc03da37545dcc140afd528
+  starts: 2018-05-17T19:00:00.0000000
+  ends: 2018-05-17T21:30:00.0000000
+  venue: The Walmgate Ale House
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -170,13 +165,6 @@
   starts: 2018-09-01T09:00:00.0000000
   ends: 2018-10-28T07:00:00.0000000
   venue: Department of Physics
-- name: 'The h-bar: An Evening of Physics Cabaret'
-  description: "Grab a drink and settle in for a night of physics-themed entertainment for the sci-curious. \nCheer each 8-minute act as research scientists, comedians (or \"comedians\"), teachers, students and circus performers take to the stage armed with facts, jokes, songs, experiments, juggling balls ... or just their raw intellect and wit. \nIt's going to be an enlightening and entertaining evening, expertly woven together by your host, Dr Chris Stewart, antipodean, lapsed physicist and science-communicator-at-large."
-  url: https://www.eventbrite.com.au/e/the-h-bar-an-evening-of-physics-cabaret-tickets-44994024338?aff=ebapi
-  logo: https://cdn.evbuc.com/images/43318666/123427475423/1/original.jpg?h=200&w=450&rect=0,0,2160,1080&s=218e26756cc03da37545dcc140afd528
-  starts: 2018-05-17T19:00:00.0000000
-  ends: 2018-05-17T21:30:00.0000000
-  venue: The Walmgate Ale House
 - name: 'WE1: Website CMS Basic training (Wed 2 May 14:00-16:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -779,6 +767,13 @@
   ends: 2018-04-16T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: 'Tech Contractor Networking: Leeds'
+  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
+  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/249743061/
+  is-free: true
+  starts: 2018-04-17T11:15:00.0000000
+  ends: 2018-04-17T11:45:00.0000000
+  venue: Banyan Bar Leeds
 - name: LeedsDevops - April 2018 Meetup
   description: "<p>It's time for another devops meetup at the ODI Node in Leeds on Tuesday 17th April. The evening will be:</p> <p>6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>7:15 - 7:25 : Group updates/news/announcements<br/>7:25 - 8:05 : Look Ma, no Code! Apache Kafka and KSQL<br/>8:05 - 8:20 : Intermission<br/>8:20 - 9:00 : Ansible Enterprise Grade<br/>9:00 - late : Decamp to the Wardrobe</p> <p>For those of you who squeezed into the ODI for our February meetup you will have heard from William Hill about their use of Kafka, we've invited Robin Moffat from Confluent to come and give us a deep dive in all things Kafka and streaming data.</p> <p>Robin is a Partner Technology Evangelist at Confluent, the company founded by the creators of Apache Kafka, as well as an Oracle ACE Director and Developer Champion. His career has always involved data, from the old worlds of COBOL and DB2, through the worlds of Oracle and Hadoop, and into the current world with Kafka. He blogs at <a href=\"https://www.confluent.io/blog/author/robin/\" class=\"linkified\">https://www.confluent.io/blog/author/robin/</a> and <a href=\"http://rmoff.net/\" class=\"linkified\">http://rmoff.net/</a> (and previously <a href=\"http://ritt.md/rmoff\" class=\"linkified\">http://ritt.md/rmoff</a>) and can be found tweeting grumpy geek thoughts as @rmoff.</p> <p>Robin's talk us \"Look Ma, no Code! Building Streaming Data Pipelines with Apache Kafka and KSQL\" - Have you ever thought that you needed to be a programmer to do stream processing and build streaming data pipelines? Think again! Companies new and old are all recognising the importance of a low-latency, scalable, fault-tolerant data backbone, in the form of the Apache Kafka streaming platform. With Kafka, developers can integrate multiple sources and systems, which enables low latency analytics, event driven architectures and the population of multiple downstream systems. These data pipelines can be built using configuration alone. In this talk, we'll see how easy it is to stream data from a database such as MySQL into Kafka using the Kafka Connect API. In addition, we'll use KSQL to filter, aggregate and join it to other data, and then stream this from Kafka out into multiple targets such as Elasticsearch and MySQL. All of this can be accomplished without a single line of code!</p> <p>Our second talk of the evening is from Phil Cornelius who is an Ansible Specialist for EMEA. He joined Red Hat in 2016 from Credit Suisse where he was responsible for the developer tools and services for 3000 applications, developed by 8000 developers globally. Phil's background is primarily application development, specifically Enterprise Java. Phil brings over 18 years of experience in what is now commonly called DevOps.</p> <p>As you introduce Ansible into your organisation there are additional requirements to make running Ansible ‘Enterprise Grade’. This session is a live demo of some of key use cases for Ansible in the Enterprise. You will get to see Ansible Tower with a specific focus on Application Lifecycle Management.</p> <p>We are again delighted to have Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) sponsor the refreshments and lodgings for the evening, ensuring there are plenty of our favourite refreshments and soft drinks in supply.</p> <p>Code Of Conduct</p> <p>Please note that we have now added an anti harassment policy and code of conduct (<a href=\"https://tmblr.co/ZdJfSq2PpSK99)in\" class=\"linkified\">https://tmblr.co/ZdJfSq2PpSK99)in</a> order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street (not too far from the Adelphi). If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on twitter @leedsdevops (<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>Look forward to seeing you there!</p> <p>For more details see the event page on leedsdevops.org.uk (<a href=\"https://tmblr.co/ZdJfSq2WnH6oq\" class=\"linkified\">https://tmblr.co/ZdJfSq2WnH6oq</a>)</p> "
   url: https://www.meetup.com/LeedsDevops/events/249461898/
@@ -917,6 +912,13 @@
   starts: 2018-04-26T18:30:00.0000000
   ends: 2018-04-26T22:30:00.0000000
   venue: Veritas Ale & Wine Bar
+- name: Data & Gravy | A SQL & Azure Mini Conference
+  description: "<p>A mini conference on all things relating to the Microsoft Data Platform plus we'll be serving up food with gravy (Yorkshire Puddings &amp; Chips etc.).</p> <p>09:30 | Registration<br/>10:00 | Introduction to Containers | Chris Taylor @sqlgeordie<br/>11:00 | Tune the query, not the plan | Kev Riley @kevriley<br/>12:00 | Lightning Talks<br/>13:00 | Lunch<br/>14:00 | Common issues from the field | Phil Grayson @databoffin<br/>14:30 | SQL Server Operations Studio | Martin Croft @martincroft<br/>15:15 | TBC | Dan Thompson @leedsdba<br/>16:00 | Pub</p> <p>10:00 | Introduction to Containers | Chris Taylor @sqlgeordie<br/>Session Details: Containers have been around for a while now but are becoming increasingly popular and with Microsoft’s release of Windows Server 2016, Docker is now their effective container standard. In this demo heavy session, we will run through what containers are, how to get started with Docker and “spinning up” SQL Server environments with minimal fuss and how you can adapt these or indeed your own VM images to create your own bespoke SQL Server development and testing environments.</p> <p>11:00 | Tune the query, not the plan | Kev Riley @kevriley<br/>Session Details: Execution plans are a great resource when trying to tune a query, but often we get hung up on trying to fix what we consider to be 'bad' operators, for example table scans vs clustered index scans; scans vs seeks; sort operations. In this session we will take a look at some misconceptions, step through what SQL Server is doing and see if we are actually improving the performance when change the plan to have 'better' operators.</p> <p>About Kevin: Kevan Riley (MCSE: Data Management and Analytics) has been working with SQL Server since 1999 in a variety of DBA and DB developer roles. He now works as a freelance SQL Server Consultant in the UK and is no more happier than when knee-deep in performance tuning. He can be often found contributing at ask.sqlservercentral.com and getting involved with the SQL community at UK user groups, SQL Saturdays, SQLBits and SQL Relay.</p> <p>12:00 | Lightning Talks</p> <p>13:00 | Lunch</p> <p>14:00 | Common issues from the field | Phil Grayson @databoffin</p> <p>14:30 | SQL Server Operations Studio | Martin Croft @martincroft</p> <p>Session Details: Anything that can make my job easier and make me more productive I am interested in. There are a lot of different tools out there for the data professional to make their life easier. Microsoft recently released in preview SQL Operations Studio, a cross-platform (Azure, Mac OS, Linux) open source platform for Developers and DBAs. Even in its infancy, it's on its had multiple releases, with new features added monthly this is starting to add things that are missing from likes of SSMS. I will cover what it offers, what you can do with it currently. The session will be demo-rich with information that might make your life easier ( at work)</p> <p>About Martin: Martin Croft is a time served SQL developer / DBA contractor / consultant who has worked with SQL Server since SQL 6.5 all the way through to SQL 2017, having attending the user groups for many years he wanted to (try) and give something back for all the things he's have picked up from the sessions he’s seen and share things people find useful (hopefully). Martin is a co-organiser of the Manchester SQL PASS Usergroup and SQLSaturday Manchester.</p> <p>15:15 | TBC | Dan Thompson @leedsdba</p> <p>16:00 | Pub choice will depend on the weather</p> "
+  url: https://www.meetup.com/Data-Platform/events/247416665/
+  is-free: true
+  starts: 2018-04-28T09:00:00.0000000
+  ends: 2018-04-28T15:00:00.0000000
+  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxgbnc/
@@ -934,6 +936,15 @@
   starts: 2018-05-02T06:30:00.0000000
   ends: 2018-05-02T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: Front-End-York - Taking your website offline (PWA) & Web Accessibility
+  description: "<p>We're going for the hat-trick. Join us for what is set to be a very interesting evening of talks!</p> <p>Our first talk will be by Graham Cook - on the what, why, when and how of accessibility. Graham will be giving us a basic introduction to accessibility, why it matters, and how can you start to make it part of your everyday projects.</p> <p>You can get in touch with Graham to discuss his talk using the following; graham@allcoloursgreen.co.uk | @GrahamKCook | www.linkedin.com/in/grahamkcook</p> <p>After a quick changeover we'll be joined by Jamie Woolgar &amp; Joseph Abell who will be introducing us to progressive web apps. Their talk will be all about taking your website offline (and everything you need for a great offline experience)</p> <p>Drop Jamie &amp; Joseph a tweet using @jamie_woolgar and @GerbilsInSpace</p> <p>We hope to see you there!</p> <p>Note: Due to popular demand - RSVP will open 5 days before the event.</p> "
+  url: https://www.meetup.com/YorkDevelopers/events/249780779/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-05-02T18:00:00.0000000
+  ends: 2018-05-02T20:00:00.0000000
+  venue: Stonegate Yard Bar & Brasserie
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
