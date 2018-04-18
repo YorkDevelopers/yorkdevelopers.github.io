@@ -244,6 +244,10 @@ section.blog_index {
 section.blog_index h2 {
     color: #fff
 }
+section.counters_up {
+    background: #4800FF;
+    color: #fff
+}
 section.twitter_feed {
     background: #FFF;
     color: #4800FF
@@ -350,6 +354,19 @@ section.events-odd {
     float:right;
 }
 
+
+#counters-up .counters-up-item {
+    margin: 0 0 15px;
+    right: 0;
+    max-width: 400px;
+    margin: 0 auto;
+    color: #FFFFFF;
+    font-size: 20px;  
+}
+#counters-up .counters-up-item .counter {
+    color: #FFD800;
+    font-size: 96px;  
+}
 
 section.our_posts a {
     color: #000000;
