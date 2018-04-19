@@ -1,53 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/249397617/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-04-18T06:30:00.0000000
-  ends: 2018-04-18T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/249699703/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-04-18T07:00:00.0000000
-  ends: 2018-04-18T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: 'BA and UX: Working together to create better software'
-  description: '<p>As business analysts and user experience designers view software development from two often opposing perspectives, how can we balance user needs and business needs to create successful products?</p> <p>In this talk, we will explore how to utilise the healthy tension between the two roles to its best - to create software that works both for the business and its users.</p> <p>SPEAKERS<br/>Tony Heap - Business Analyst at Equal Experts<br/>Sophie Ottaway - User Experience Designer at Equal Experts</p> '
-  url: https://www.meetup.com/ExpertTalks-Leeds/events/246514065/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
-  starts: 2018-04-18T17:00:00.0000000
-  ends: 2018-04-18T20:00:00.0000000
-  venue: Lamberts yard,
-- name: A really DRY talk on APIs, and The Surprising truth about your Brain
-  description: "<p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – The Surprising truth about your Brain: How to be at your best more often - Dr. Jon Finn<br/>19:30 – break<br/>19:40 – A really DRY talk on API’s - Gareth Midwood<br/>20:10ish – Pop over to the pub for a chat and a drink</p> <p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided, inc. vegetarian, if you have any other dietary requirements send us a message.</p> <p>★ A really DRY talk on API's<br/>Gareth Midwood - <a href=\"https://twitter.com/gmidwood\" class=\"linkified\">https://twitter.com/gmidwood</a></p> <p>Building an API package that uses interfaces with the ability to 'drop in' new services.</p> <p>Gareth is a Leeds based website person - lover of football, food and internet based japery. Works at <a href=\"https://www.twitter.com/creode\" class=\"linkified\">https://www.twitter.com/creode</a> and has spoken at LeedsPHP multiple times. He's always great.</p> <p>★ The Surprising truth about your Brain: How to be at your best more often<br/>Dr. Jon Finn - <a href=\"https://twitter.com/TougherMinds\" class=\"linkified\">https://twitter.com/TougherMinds</a></p> <p>Technology is changing at lightning speed and it can often feel like you’re just not keeping up. This can lead to feelings of personal doubt (e.g. imposter syndrome) and mental fatigue. The suspiring truth is that these feelings of doubt are a natural response to 21st century life. This is because your brain is designed to survive and not flourish. This session will show how your brain is designed to work, why we sometimes doubt ourselves and beat ourselves up, and how we all can begin to build resilience.</p> <p>1. The dominant survival brain – the limbic regions<br/>2. Why dwelling on unhelpful thoughts can become an unhelpful habit<br/>3. The important role of the pre-frontal cortex in being resilient</p> <p>Dr. Jon Finn is the founder and Managing Director of Tougher Minds; passionate about making complex science simple, so that people can use these insights to be their best and help others to be at their best.</p> <p>Much of his current work is helping individuals, teams and managers in London, and the USA, to harness individual and team success in the challenging modern work and societal context. This work includes supporting developers working for banks, investment managers and high-growth start ups to be at their best.</p> <p>Jon has been working in the field of performance psychology and behaviour change for over 17 years. He completed his PhD at Leeds Beckett University investigating the role of emotional regulation in the challenging transitions of some of Britain’s most high-performing athletes. He has worked extensively in elite sport, particularly in professional football, rugby, cricket and golf.</p> <p>www.tougherminds.co.uk</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform <a href=\"https://bruntwood.co.uk/our-locations/leeds/platform\" class=\"linkified\">https://bruntwood.co.uk/our-locations/leeds/platform</a> – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Sky Betting &amp; Gaming <a href=\"http://skybetcareers.com\" class=\"linkified\">http://skybetcareers.com</a> – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their careers page provides great detail as to the working environment and range of work available across the technology stack. <a href=\"https://twitter.com/skybetcareers\" class=\"linkified\">https://twitter.com/skybetcareers</a></p> <p>• Infinity Works <a href=\"https://www.infinityworks.com\" class=\"linkified\">https://www.infinityworks.com</a> – Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. <a href=\"https://twitter.com/InfinityWorks\" class=\"linkified\">https://twitter.com/InfinityWorks</a></p> "
-  url: https://www.meetup.com/leedsphp/events/246435845/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
-  starts: 2018-04-18T17:30:00.0000000
-  ends: 2018-04-18T19:30:00.0000000
-  venue: Platform
-- name: Software Craftsmanship and Agile & Let's invent a team game!
-  description: "<p>Session 1: Software Craftsmanship and Agile</p> <p>In the first half of our evening we will be hosting a debate on the place of Software Craftsmanship within agile practices. This is one for Software Developers who have worked with agile or for those who wonder how they can co-exist.</p> <p>Session 2: Let's invent a team game!</p> <p>Laurence Wood will be leading us this evening on using an iterative approach where you will create, test and refine a new team game. Its aim will be to help teams to continuously improve. It also needs to have useful instructions and informative packaging. The end product will be a shiny new deck of cards designed by you, which we will send to everyone involved for free - fresh off the production line. Delegates can also opt in to be credited as co-creator in the online instructions.</p> <p>We have built the basic framework for a new card game. We have templates to speed things up and our printer is ready to create a professionally presented card deck. The rest is up to you...</p> <p>About Laurence Wood</p> <p>Creator of the Real Roles Agile team game, Laurence inspires teams to deliver more value, more often, using agile and lean in the UK and India. He discovered lean as a Jaguar Cars apprentice in 1988 supervising V12 XJS assembly and studying manufacturing engineering at The University of Birmingham. Ford’s takeover prompted his decision to move fully into IT with RAD (Rapid Application Development) agile pioneers Marks and Spencer in London. Freelance development lead roles followed in South Africa, Austria and the UK, including at Coca Cola and South African Airways. He later became a development manager then divisional head of IT in the demanding City of London investment banking arena. Now Yorkshire-based, he likes to inspire agile leaders to deliver more value more often.</p> "
-  url: https://www.meetup.com/agileYork/events/247423423/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
-  starts: 2018-04-18T17:30:00.0000000
-  ends: 2018-04-18T20:00:00.0000000
-  venue: York St.John University
-- name: AgileYork - Software Craftsmanship and Agile & Let's invent a team game!
-  description: '<p>For more information and RSVP see <a href="https://www.meetup.com/agileYork/events/247423423/" class="linkified">https://www.meetup.com/agileYork/events/247423423/</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/249719678/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-04-18T17:30:00.0000000
-  ends: 2018-04-18T20:00:00.0000000
-  venue: York St. John University
-  endorsed: true
 - name: Beyond REST - The future of Web APIs
   description: "<p>Join us on Thursday 19th April 2018 for the next part of our REST API event series alongside BJSS.</p> <p>'Beyond REST' will delve deeper into the future of Web APIs with BJSS Technical Architects Nick Copley and Jeff Watkins. The event will run as part of 0%Leeds Digital Festival (The North's Largest Digital Festival).</p> <p>The event will be highly engaging and interactive and will provide a valuable insight into Web APIs and aims to answer questions including: What key differences exist between the two generations of Web APIs? Why REST is causing problems for new and legacy services alike? And what are the next steps to shaping the future of Web APIs?</p> <p>Part 1 and Part 2 of our RESTful API events were extremely popular, so please register your space as soon as possible to avoid disapointment.</p> <p>For more details on this event please call Kelly Bake 0113 468 6700<br/>or email techconnect@amsourcetechnology.com</p> "
   url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/249425122/
@@ -71,6 +21,13 @@
   starts: 2018-04-19T18:00:00.0000000
   ends: 2018-04-19T21:00:00.0000000
   endorsed: true
+- name: Leeds Hack 2018
+  description: '<p>I am not attending this hackathon and I am not the organiser of this hackathon. </p> <p>You can register for a free ticket on Eventbrite here - <a href="https://www.eventbrite.com/e/leeds-hack-2018-tickets-42743058639"><a href="https://www.eventbrite.com/e/leeds-hack-2018-tickets-42743058639" class="linkified">https://www.eventbrite.com/e/leeds-hack-2018-tickets-42743058639</a></a></p> <p>There is a fee to attend this hackathon. </p> <p>Leeds Hack 2018 will be held at the <a href="https://goo.gl/RHLGWV">Platform</a> on New Station Street in Leeds and as part of the<a href="https://leedsdigitalfestival.org/events/2018/">Leeds Digital Festival</a> #LeedsDigi18</p> <p>Teams of up to four turn up with an idea and have just 24 hours to create a working product. There will be an optional set of challenges to overcome with some great prizes and judges checking out developments at all stages of the competition.</p> '
+  url: https://www.meetup.com/UK-Hackathons-and-Jams/events/248832470/
+  is-free: true
+  starts: 2018-04-21T10:00:00.0000000
+  ends: 2018-04-21T13:00:00.0000000
+  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/249397633/
@@ -153,6 +110,22 @@
   ends: 2018-05-02T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxhbdb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-05-02T07:00:00.0000000
+  ends: 2018-05-02T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: TBD
+  description: '<p>Details to be announced nearer the time.</p> <p>See the LCD website for details: <a href="http://leedscodedojo.github.io/" class="linkified">http://leedscodedojo.github.io/</a></p> '
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/249824949/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2018-05-02T17:00:00.0000000
+  ends: 2018-05-02T20:00:00.0000000
+  venue: Callcredit Information Group Limited
 - name: Front-End-York - Taking your website offline (PWA) & Web Accessibility
   description: "<p>We're going for the hat-trick. Join us for what is set to be a very interesting evening of talks!</p> <p>Our first talk will be by Graham Cook - on the what, why, when and how of accessibility. Graham will be giving us a basic introduction to accessibility, why it matters, and how can you start to make it part of your everyday projects.</p> <p>You can get in touch with Graham to discuss his talk using the following; graham@allcoloursgreen.co.uk | @GrahamKCook | www.linkedin.com/in/grahamkcook</p> <p>After a quick changeover we'll be joined by Jamie Woolgar &amp; Joseph Abell who will be introducing us to progressive web apps. Their talk will be all about taking your website offline (and everything you need for a great offline experience)</p> <p>Drop Jamie &amp; Joseph a tweet using @jamie_woolgar and @GerbilsInSpace</p> <p>We hope to see you there!</p> <p>Note: Due to popular demand - RSVP will open 5 days before the event.</p> "
   url: https://www.meetup.com/YorkDevelopers/events/249780779/
@@ -654,4 +627,12 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-03-21T19:00:00.0000000
   ends: 2019-03-21T22:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzgbxb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-04-18T18:00:00.0000000
+  ends: 2019-04-18T21:00:00.0000000
   endorsed: true
