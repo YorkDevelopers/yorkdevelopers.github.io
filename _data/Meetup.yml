@@ -1,26 +1,3 @@
-- name: Beyond REST - The future of Web APIs
-  description: "<p>Join us on Thursday 19th April 2018 for the next part of our REST API event series alongside BJSS.</p> <p>'Beyond REST' will delve deeper into the future of Web APIs with BJSS Technical Architects Nick Copley and Jeff Watkins. The event will run as part of 0%Leeds Digital Festival (The North's Largest Digital Festival).</p> <p>The event will be highly engaging and interactive and will provide a valuable insight into Web APIs and aims to answer questions including: What key differences exist between the two generations of Web APIs? Why REST is causing problems for new and legacy services alike? And what are the next steps to shaping the future of Web APIs?</p> <p>Part 1 and Part 2 of our RESTful API events were extremely popular, so please register your space as soon as possible to avoid disapointment.</p> <p>For more details on this event please call Kelly Bake 0113 468 6700<br/>or email techconnect@amsourcetechnology.com</p> "
-  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/249425122/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
-  starts: 2018-04-19T16:45:00.0000000
-  ends: 2018-04-19T20:00:00.0000000
-  venue: BJSS Limited
-- name: THE JVM THING – LIGHTNING TALKS FESTIVAL SPECIAL
-  description: '<p>The JVM Thing – Thursday 19th April 2018 @The_JVM_Thing - Free food and drinks!</p> <p>Presented by Tech companies from around Yorkshire: Sky Betting &amp; Gaming, EE Mobile, Anaplan, Virtual Programmers and more...</p> <p>As part of Leeds Digital Festival we are holding a series of lightning talks from market leading tech companies in Yorkshire.</p> <p>Here is an example of talks we have lined up:</p> <p>1. "JVM and serverless – Kotlin at Skybet scale" - By Alex Stanhope @ Sky Betting &amp; Gaming<br/>2. "Getting functional with Kotlin" - By James Morris: @ Sky Betting &amp; Gaming<br/>3. "Building Full Stack Location Based Applications for the Mobile Industry" - By Serb Ocal @ EE Mobile<br/>4. “200GB, living within your means.” By Mark Jessop @ Anaplan<br/>5. “Using Apache Spark with small data”– By Matt Thornfield @ Virtual Pair Programmers<br/>6. “Formalising Elasticsearch” – By David Turner @ Elastic<br/>7. “Android from Java to Kotlin – An unexpected journey” – By Jaime Bowden @ Sky Betting &amp; Gaming<br/>8. “The Craft Of Pull Request Review” - By Robertas Šetkus @ EE Mobile</p> <p>Location – Sky Betting &amp; Gaming, 6 Wellington Place , Leeds, LS1 4AP</p> '
-  url: https://www.meetup.com/Leeds-JVMThing/events/248916472/
-  is-free: true
-  starts: 2018-04-19T17:00:00.0000000
-  ends: 2018-04-19T20:00:00.0000000
-  venue: Sky Betting and Gaming
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/249749170/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-04-19T18:00:00.0000000
-  ends: 2018-04-19T21:00:00.0000000
-  endorsed: true
 - name: Leeds Hack 2018
   description: '<p>I am not attending this hackathon and I am not the organiser of this hackathon. </p> <p>You can register for a free ticket on Eventbrite here - <a href="https://www.eventbrite.com/e/leeds-hack-2018-tickets-42743058639"><a href="https://www.eventbrite.com/e/leeds-hack-2018-tickets-42743058639" class="linkified">https://www.eventbrite.com/e/leeds-hack-2018-tickets-42743058639</a></a></p> <p>There is a fee to attend this hackathon. </p> <p>Leeds Hack 2018 will be held at the <a href="https://goo.gl/RHLGWV">Platform</a> on New Station Street in Leeds and as part of the<a href="https://leedsdigitalfestival.org/events/2018/">Leeds Digital Festival</a> #LeedsDigi18</p> <p>Teams of up to four turn up with an idea and have just 24 hours to create a working product. There will be an optional set of challenges to overcome with some great prizes and judges checking out developments at all stages of the competition.</p> '
   url: https://www.meetup.com/UK-Hackathons-and-Jams/events/248832470/
@@ -48,7 +25,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxgbhc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/249933926/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-04-25T07:00:00.0000000
@@ -135,6 +112,22 @@
   ends: 2018-05-02T20:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
+- name: Elasticsearch? do I need it? and how do I get it working with my .NET code?
+  description: '<p>Our speaker of the night will be David Betteridge, full details are TBC</p> '
+  url: https://www.meetup.com/dotnetYork/events/249493005/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
+  starts: 2018-05-03T17:30:00.0000000
+  ends: 2018-05-03T20:00:00.0000000
+  venue: Stonegate Yard Bar & Brasserie
+- name: Pre-Codegarden Meetup
+  description: "<p>Codegarden (the annual Umbraco conference in Denmark) is an amazing experience and we'll be discussing the upcoming event as it's really early this year.<br/>Come along to find out what to expect from previous attendees or just chat and be sociable.</p> "
+  url: https://www.meetup.com/umbLeeds/events/249356082/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
+  starts: 2018-05-03T16:30:00.0000000
+  ends: 2018-05-03T19:30:00.0000000
+  venue: The Adelphi
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxhbkb/
@@ -578,6 +571,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-10-08T06:30:00.0000000
   ends: 2018-10-08T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxnbnb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-10-10T06:30:00.0000000
+  ends: 2018-10-10T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
