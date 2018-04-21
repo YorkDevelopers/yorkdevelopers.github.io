@@ -60,19 +60,6 @@
   starts: 2018-05-15T18:30:00.0000000
   ends: 2018-05-15T19:30:00.0000000
   venue: Ron Cooke Hub auditorium
-- name: RM Integris Insights Meetup - Spring 2018 - York 14th June
-  description: >-
-    The Insights meetups are back again for Spring 18! If you haven't been before it's a great chance to get together with the RM Integris team, be the first to find out about our new developments and do a bit of networking. 
-
-    Book your FREE place now!
-
-    To view the full agenda please click here.
-  url: https://www.eventbrite.co.uk/e/rm-integris-insights-meetup-spring-2018-york-14th-june-tickets-43828723893?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/42471554/244061504650/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,800,400&s=229c53f51fd89bb92a2fe476731e5360
-  starts: 2018-06-14T08:00:00.0000000
-  ends: 2018-06-14T12:30:00.0000000
-  venue: The Principal York
 - name: Microwave Commercialisation Club Workshop
   description: >
     Taking microwave technology from the lab to industrial scale
@@ -124,6 +111,19 @@
   starts: 2018-04-26T09:30:00.0000000
   ends: 2018-04-26T16:00:00.0000000
   venue: Industrial Engagement Facility
+- name: RM Integris Insights Meetup - Spring 2018 - York 14th June
+  description: >-
+    The Insights meetups are back again for Spring 18! If you haven't been before it's a great chance to get together with the RM Integris team, be the first to find out about our new developments and do a bit of networking. 
+
+    Book your FREE place now!
+
+    To view the full agenda please click here.
+  url: https://www.eventbrite.co.uk/e/rm-integris-insights-meetup-spring-2018-york-14th-june-tickets-43828723893?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/42471554/244061504650/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,800,400&s=229c53f51fd89bb92a2fe476731e5360
+  starts: 2018-06-14T08:00:00.0000000
+  ends: 2018-06-14T12:30:00.0000000
+  venue: The Principal York
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -291,6 +291,87 @@
   starts: 2018-06-15T18:00:00.0000000
   ends: 2018-06-15T19:30:00.0000000
   venue: University of York - Department of Theatre, Film and Television
+- name: Nuclear Masterclass 2018
+  description: >
+    Join the Department of Physics at the Unviversity of York for a Nuclear Masterclass: open to all students studying A level Physics (or equivalent).  
+
+    Please note the two days are a repeat of one another and we therefore ask, that you only book to attend one of these dates.
+
+    There will be two different streams running during the day: 
+
+    A: Nuclear Astrophysics
+
+    Workshop 1: The Hot CNO Cycle in Supernovae 
+
+    Discover the nuclear reactions happening in stars during stellar explosions in an activity demonstrating half-lives and the random nature of radioactive decay.  
+
+    Workshop 2: Neutron Stars and Fundamental Forces
+
+    Investigate a computer simulation of the liquid drop model of neutron stars and learn about the influence of the fundamental forces at the nuclear scale.
+
+    Workshop 3/4: Binding Blocks: Building the Universe one Nucleaus at a Time
+
+    Explore the concept and applications of binding energy through building a LEGO nuclear chart.  Follow nuclear decay chains and research the uses of different isotopes.  
+
+    B: Applications of Nuclear Physics
+
+    Workshop 1: Medical Physics
+
+    Find out how nuclear physics is used in medicine, with a medical physicist.  
+
+    Workshop 2: Fusion technology 
+
+    Visit the University's Tokomak Control Room and find out about methods of creating nuclear fusion as a power source.  
+
+    Workshop 3/4: Binding Blocks: Building the Universe one Nucleaus at a Time
+
+    Explore the concept and applications of binding energy through building a LEGO nuclear chart.  Follow nuclear decay chains and research the uses of different isotopes.  
+
+    Programme:
+
+    09.45 - 10.00  Arrival
+
+    10.00 - 10.10  Welcome 
+
+    10.10 - 10.40  Lecture: An introduction to Nuclear Physics
+
+    10.40 - 10.55  Tea/Coffee
+
+    11.05 - 11.50  Workshop 1
+
+    11.55 - 12.40  Workshop 2
+
+    12.50 - 13.20  Lunch
+
+    13.30 - 14.15  Workshop 3
+
+    14.20 - 15.05  Workshop 4
+
+    15.15 - 15.45  Lecture: Cutting-Edge Nuclear Physics
+
+    15.45 - 16.00  Evaluation
+
+    Further information
+
+    Groups of less than 5 students from any one school may attend without a teacher.  However, they must have consent from both their school and parents.  
+
+    A maximum of 30 students may attend from any one school: 15 in each strand.  
+
+    Students are not required to be in school uniform.  
+
+    Tea/coffee/water will be available at breaks, but all attendees will need to bring a packed lunch.  
+
+    For further information about the day, please see: www.york.ac.uk/physics/public-and-schools/secondary/nuclear-masterclass/ 
+
+    For more information about the Binding Blocks project, please see: www.york.ac.uk/physics/bindingblocks
+
+    For more information about Nuclear Physics at the Unviversity of York, please see www.york.ac.uk/physics/research/nuclear/ 
+  url: https://www.eventbrite.co.uk/e/nuclear-masterclass-2018-tickets-45229745386?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/43652869/70544580407/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,5112,2556&s=ab2e79164c2a05be7711af9956a52b76
+  starts: 2018-06-19T09:45:00.0000000
+  ends: 2018-06-19T16:00:00.0000000
+  venue: Department of Physics
 - name: 'Attracting and Retaining Women in STEM: The Conference'
   description: >+
     Workforce diversity in the Science, Technology, Engineering and Mathematics (STEM) sector is a major challenge. Careers are male dominated; just 9% of Engineering, 19% of Computer studies and 38% of Maths graduates are female. In fact, just 13% of the entire UK STEM workforce is female. Forward Ladies want to challenege and change these statistics. 
