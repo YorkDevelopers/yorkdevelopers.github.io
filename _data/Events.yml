@@ -60,6 +60,20 @@
   starts: 2018-05-15T18:30:00.0000000
   ends: 2018-05-15T19:30:00.0000000
   venue: Ron Cooke Hub auditorium
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-45131005051?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
+  starts: 2018-05-31T18:30:00.0000000
+  ends: 2018-05-31T19:30:00.0000000
 - name: Microwave Commercialisation Club Workshop
   description: >
     Taking microwave technology from the lab to industrial scale
@@ -124,20 +138,6 @@
   starts: 2018-06-14T08:00:00.0000000
   ends: 2018-06-14T12:30:00.0000000
   venue: The Principal York
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-45131005051?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
-  starts: 2018-05-31T18:30:00.0000000
-  ends: 2018-05-31T19:30:00.0000000
 - name: The Expert Committee on Pesticide Residues in Food Open Business Meeting
   description: >-
     The Expert Committee on Pesticide Residues in Food open one of their business meetings every year.
@@ -280,6 +280,69 @@
   starts: 2018-05-15T10:00:00.0000000
   ends: 2018-05-15T12:00:00.0000000
   venue: ILS Training area (outside FT/120)
+- name: 'QU1: Qualtrics Essentials (Thu 26 Apr 10:00-11:00)'
+  description: >-
+    These courses are for students and staff of York St. John University only.
+
+
+    QU1: Qualtrics essentials
+
+    Prior knowledge: None
+
+    Qualtrics is a powerful, yet easy to use survey tool.
+
+    This course includes:
+
+
+    Logging in to Qualtrics
+
+    Different question types
+
+    Question Options
+
+    Previewing a survey
+
+    Launching and distributing a survey
+
+    Creating Reports
+
+    Downloading responses
+
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff of York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/qu1-qualtrics-essentials-thu-26-apr-1000-1100-tickets-44146321837?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/42146977/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=121c26821cdd898be23b16cf6a40a6da
+  starts: 2018-04-26T10:00:00.0000000
+  ends: 2018-04-26T11:00:00.0000000
+  venue: ILS Training area (outside FT/120)
+- name: York Raspberry Jam
+  description: >-
+    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
+
+    York Raspberry Jam happens every other month.  That is: January then March ... . It's for beginners particularly, and also people who know a bit about Raspberry Pi computers!  You don't need to bring a Raspberry Pi as we have some you can use - but if you'd like to bring your own kit please feel free to do so.
+
+    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
+  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-tickets-44586926698?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/42759396/76824838621/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=92e8fbea25af995285f525b99f2ba0f9
+  starts: 2018-05-21T17:15:00.0000000
+  ends: 2018-05-21T19:15:00.0000000
+  venue: Acomb Explore Library
 - name: The Interactive Media Showcase
   description: >-
     The Interactive Media Showcase, as part of the annual LUMA festival at the University of York, is organised by students on the BSc in Interactive Media degree programme. It is a showcase designed to show off the sheer variety of skills and talent that the course has to offer. The event has been entirely student-led, with a group of dedicated students working over the past months to organise, promote and develop the event. The showcase will be a great opportunity not only to see what the students on the course are capable of but to meet the talent and engage in an exciting community of students.
@@ -372,6 +435,13 @@
   starts: 2018-06-19T09:45:00.0000000
   ends: 2018-06-19T16:00:00.0000000
   venue: Department of Physics
+- name: Physsoc Public Lectures - Dr. Steven Quinn
+  description: The title of Dr. Quinn's lecture is "Investigating Nature's Nano-Machines using Single-Molecule Technologies"Dr.Quinn is a Lecturer in Biophysics, specializing in multidisciplinary science across the Departments of Physics and Biology. His work combines recent advances in biochemistry with state-of-the-art microscopy tools to probe the molecular building blocks of human life and disease. His focus is the application of single-molecule microscopy techniques to investigate complex biological processes in order to drive the rational design of next-generation therapeutics.
+  url: https://www.eventbrite.co.uk/e/physsoc-public-lectures-dr-steven-quinn-tickets-45229856719?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/43654208/148307828230/1/original.jpg?h=200&w=450&auto=compress&rect=355,0,2832,1416&s=29b031589b4ce429dfff31c0740867f2
+  starts: 2018-04-24T18:30:00.0000000
+  ends: 2018-04-24T19:30:00.0000000
 - name: 'Attracting and Retaining Women in STEM: The Conference'
   description: >+
     Workforce diversity in the Science, Technology, Engineering and Mathematics (STEM) sector is a major challenge. Careers are male dominated; just 9% of Engineering, 19% of Computer studies and 38% of Maths graduates are female. In fact, just 13% of the entire UK STEM workforce is female. Forward Ladies want to challenege and change these statistics. 
@@ -691,56 +761,6 @@
   starts: 2018-09-12T14:00:00.0000000
   ends: 2018-09-12T16:00:00.0000000
   venue: We are moving the training area Please come to main library desk
-- name: 'QU1: Qualtrics Essentials (Thu 26 Apr 10:00-11:00)'
-  description: >-
-    These courses are for students and staff of York St. John University only.
-
-
-    QU1: Qualtrics essentials
-
-    Prior knowledge: None
-
-    Qualtrics is a powerful, yet easy to use survey tool.
-
-    This course includes:
-
-
-    Logging in to Qualtrics
-
-    Different question types
-
-    Question Options
-
-    Previewing a survey
-
-    Launching and distributing a survey
-
-    Creating Reports
-
-    Downloading responses
-
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff of York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/qu1-qualtrics-essentials-thu-26-apr-1000-1100-tickets-44146321837?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/42146977/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=121c26821cdd898be23b16cf6a40a6da
-  starts: 2018-04-26T10:00:00.0000000
-  ends: 2018-04-26T11:00:00.0000000
-  venue: ILS Training area (outside FT/120)
 - name: 'QU1: Qualtrics Essentials (Tue 22 May 15:00-16:00)'
   description: >-
     These courses are for students and staff of York St. John University only.
@@ -791,106 +811,6 @@
   starts: 2018-05-22T15:00:00.0000000
   ends: 2018-05-22T16:00:00.0000000
   venue: ILS Training area (outside FT/120)
-- name: 'QU1: Qualtrics Essentials (Fri 22 Jun 10:00-11:00)'
-  description: >-
-    These courses are for staff, students and alumni of York St. John University only.
-
-
-    QU1: Qualtrics essentials
-
-    Prior knowledge: None
-
-    Qualtrics is a powerful, yet easy to use survey tool.
-
-    This course includes:
-
-
-    Logging in to Qualtrics
-
-    Different question types
-
-    Question Options
-
-    Previewing a survey
-
-    Launching and distributing a survey
-
-    Creating Reports
-
-    Downloading responses
-
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff of York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/qu1-qualtrics-essentials-fri-22-jun-1000-1100-tickets-44146417122?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/42147116/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=e9fd3b0953311c6c5804454a52ccbf5e
-  starts: 2018-06-22T10:00:00.0000000
-  ends: 2018-06-22T11:00:00.0000000
-  venue: We are moving the training area Please come to main library desk
-- name: 'QU1: Qualtrics Essentials (Tue 4 Sep 11:00-12:00)'
-  description: >-
-    These courses are for staff, students and alumni of York St. John University only.
-
-
-    QU1: Qualtrics essentials
-
-    Prior knowledge: None
-
-    Qualtrics is a powerful, yet easy to use survey tool.
-
-    This course includes:
-
-
-    Logging in to Qualtrics
-
-    Different question types
-
-    Question Options
-
-    Previewing a survey
-
-    Launching and distributing a survey
-
-    Creating Reports
-
-    Downloading responses
-
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff of York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/qu1-qualtrics-essentials-tue-4-sep-1100-1200-tickets-44146462257?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/42147217/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=d3540ff852610e1f74b3183f7fe7fd16
-  starts: 2018-09-04T11:00:00.0000000
-  ends: 2018-09-04T12:00:00.0000000
-  venue: We are moving the training area Please come to main library desk
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/249397633/
@@ -948,8 +868,8 @@
   starts: 2018-04-26T18:30:00.0000000
   ends: 2018-04-26T22:30:00.0000000
   venue: Veritas Ale & Wine Bar
-- name: Data & Gravy | A SQL & Azure Mini Conference
-  description: "<p>A mini conference on all things relating to the Microsoft Data Platform plus we'll be serving up food with gravy (Yorkshire Puddings &amp; Chips etc.).</p> <p>09:30 | Registration<br/>10:00 | Introduction to Containers | Chris Taylor @sqlgeordie<br/>11:00 | Tune the query, not the plan | Kev Riley @kevriley<br/>12:00 | Lightning Talks<br/>13:00 | Lunch<br/>14:00 | Common issues from the field | Phil Grayson @databoffin<br/>14:30 | SQL Server Operations Studio | Martin Croft @martincroft<br/>15:15 | TBC | Dan Thompson @leedsdba<br/>16:00 | Pub</p> <p>10:00 | Introduction to Containers | Chris Taylor @sqlgeordie<br/>Session Details: Containers have been around for a while now but are becoming increasingly popular and with Microsoft’s release of Windows Server 2016, Docker is now their effective container standard. In this demo heavy session, we will run through what containers are, how to get started with Docker and “spinning up” SQL Server environments with minimal fuss and how you can adapt these or indeed your own VM images to create your own bespoke SQL Server development and testing environments.</p> <p>11:00 | Tune the query, not the plan | Kev Riley @kevriley<br/>Session Details: Execution plans are a great resource when trying to tune a query, but often we get hung up on trying to fix what we consider to be 'bad' operators, for example table scans vs clustered index scans; scans vs seeks; sort operations. In this session we will take a look at some misconceptions, step through what SQL Server is doing and see if we are actually improving the performance when change the plan to have 'better' operators.</p> <p>About Kevin: Kevan Riley (MCSE: Data Management and Analytics) has been working with SQL Server since 1999 in a variety of DBA and DB developer roles. He now works as a freelance SQL Server Consultant in the UK and is no more happier than when knee-deep in performance tuning. He can be often found contributing at ask.sqlservercentral.com and getting involved with the SQL community at UK user groups, SQL Saturdays, SQLBits and SQL Relay.</p> <p>12:00 | Lightning Talks</p> <p>13:00 | Lunch</p> <p>14:00 | Common issues from the field | Phil Grayson @databoffin</p> <p>14:30 | SQL Server Operations Studio | Martin Croft @martincroft</p> <p>Session Details: Anything that can make my job easier and make me more productive I am interested in. There are a lot of different tools out there for the data professional to make their life easier. Microsoft recently released in preview SQL Operations Studio, a cross-platform (Azure, Mac OS, Linux) open source platform for Developers and DBAs. Even in its infancy, it's on its had multiple releases, with new features added monthly this is starting to add things that are missing from likes of SSMS. I will cover what it offers, what you can do with it currently. The session will be demo-rich with information that might make your life easier ( at work)</p> <p>About Martin: Martin Croft is a time served SQL developer / DBA contractor / consultant who has worked with SQL Server since SQL 6.5 all the way through to SQL 2017, having attending the user groups for many years he wanted to (try) and give something back for all the things he's have picked up from the sessions he’s seen and share things people find useful (hopefully). Martin is a co-organiser of the Manchester SQL PASS Usergroup and SQLSaturday Manchester.</p> <p>15:15 | TBC | Dan Thompson @leedsdba</p> <p>16:00 | Pub choice will depend on the weather</p> "
+- name: Data & Gravy | SQL & Azure Mini Conference
+  description: "<p>A mini conference on all things relating to the Microsoft Data Platform plus we'll be serving up food with gravy (Yorkshire Puddings &amp; Chips etc.).</p> <p>09:30 | Registration<br/>10:00 | Introduction to Containers | Chris Taylor @sqlgeordie<br/>11:00 | Tune the query, not the plan | Kev Riley @kevriley<br/>12:00 | Lightning Talks<br/>13:00 | Lunch<br/>14:00 | Common issues from the field | Phil Grayson @databoffin<br/>14:30 | SQL Server Operations Studio | Martin Croft @martincroft<br/>15:15 | A voyage through test environments | Dan Thompson @leedsdba<br/>16:00 | Off T'Pub</p> <p>Book Swap<br/>We'll also have a book swap so feel free to bring in or take books. Anything leftover will be given to charity.</p> <p>Full details can be found on our site:<br/><a href=\"https://dataatplatform.wordpress.com\" class=\"linkified\">https://dataatplatform.wordpress.com</a></p> <p>Come and chat with us on the Yorkshire Digital Community Slack channel<br/><a href=\"https://tinyurl.com/yb8jp4yb\" class=\"linkified\">https://tinyurl.com/yb8jp4yb</a></p> "
   url: https://www.meetup.com/Data-Platform/events/247416665/
   is-free: true
   starts: 2018-04-28T09:00:00.0000000
