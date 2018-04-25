@@ -24,7 +24,28 @@
                 </div>
                     {% endif %}
                 {% endfor %}
-
             </div>
+
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <hr class="star-primary">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-3 col-sm-5 counters-up-item" style="text-align:center">  
+                    <h1><span class="counter">{{site.data.Counter.meetups_2017}}</span></h1><br>delivered last year
+                </div>
+                <div class="col-md-3 col-sm-5 counters-up-item" style="text-align:center">  
+                    <h1><span class="counter">{{site.data.Counter.meetups_2018}}</span></h1><br>delivered this year
+                </div>
+                <div class="col-md-3 col-sm-5 counters-up-item" style="text-align:center">
+                        <h1><span class="counter">{{site.data.Counter.meetups_this_month}}</span></h1><br>events this month
+                </div>
+                <div class="col-md-3 col-sm-5 counters-up-item" style="text-align:center">
+                    <h1><span class="counter">{{site.data.Counter.meetups_this_week}}</span></h1><br>events this week
+                </div>
+            </div>
+
         </div>
     </section>

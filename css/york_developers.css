@@ -108,6 +108,21 @@ hr.star-events-even:after {
     color: #FFF
 }
 
+#meetups .counters-up-item {
+    margin: 0 0 15px;
+    right: 0;
+    max-width: 400px;
+    margin: 0 auto;
+    color: #FFFFFF;
+    font-size: 20px;  
+}
+#meetups .counters-up-item .counter {
+    color: #FFD800;
+    font-size: 96px;  
+}
+
+
+
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-brand.active,
 .navbar-custom .navbar-brand:active,
@@ -242,6 +257,10 @@ section.blog_index {
     color: #fff
 }
 section.blog_index h2 {
+    color: #fff
+}
+section.counters_up {
+    background: #4800FF;
     color: #fff
 }
 section.twitter_feed {
