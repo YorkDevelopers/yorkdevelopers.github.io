@@ -64,7 +64,7 @@
   venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxgbnc/
+  url: https://www.meetup.com/YorkDevelopers/events/250093780/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-04-30T06:30:00.0000000
@@ -96,6 +96,13 @@
   starts: 2018-05-02T17:00:00.0000000
   ends: 2018-05-02T20:00:00.0000000
   venue: Callcredit Information Group Limited
+- name: Bitcoin & Crypto discussion with drinks
+  description: '<p>We are meeting up for another informal discussion about bitcoin and other crypto currencies.<br/>Meet like minded people and learn from others who are interested in crypto currency.<br/>Arrive and leave when is convenient to you.<br/>Feel free to bring drinks and food from the bar into the room.</p> '
+  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/250102806/
+  is-free: true
+  starts: 2018-05-02T17:30:00.0000000
+  ends: 2018-05-02T19:30:00.0000000
+  venue: Royal Oak
 - name: Front-End-York - Taking your website offline (PWA) & Web Accessibility
   description: "<p>We're going for the hat-trick. Join us for what is set to be a very interesting evening of talks!</p> <p>Our first talk will be by Graham Cook - on the what, why, when and how of accessibility. Graham will be giving us a basic introduction to accessibility, why it matters, and how can you start to make it part of your everyday projects.</p> <p>You can get in touch with Graham to discuss his talk using the following; graham@allcoloursgreen.co.uk | @GrahamKCook | www.linkedin.com/in/grahamkcook</p> <p>After a quick changeover we'll be joined by Jamie Woolgar &amp; Joseph Abell who will be introducing us to progressive web apps. Their talk will be all about taking your website offline (and everything you need for a great offline experience)</p> <p>Drop Jamie &amp; Joseph a tweet using @jamie_woolgar and @GerbilsInSpace</p> <p>We hope to see you there!</p> <p>Note: Due to popular demand - RSVP will open 5 days before the event.</p> "
   url: https://www.meetup.com/YorkDevelopers/events/249780779/
@@ -565,6 +572,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-10-10T06:30:00.0000000
   ends: 2018-10-10T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxnbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-10-15T06:30:00.0000000
+  ends: 2018-10-15T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
