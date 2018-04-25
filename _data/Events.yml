@@ -168,13 +168,6 @@
   starts: 2018-05-29T14:00:00.0000000
   ends: 2018-05-29T16:00:00.0000000
   venue: DG/125 (De Grey)
-- name: Physsoc Public Lectures - Dr. Steven Quinn
-  description: The title of Dr. Quinn's lecture is "Investigating Nature's Nano-Machines using Single-Molecule Technologies"Dr.Quinn is a Lecturer in Biophysics, specializing in multidisciplinary science across the Departments of Physics and Biology. His work combines recent advances in biochemistry with state-of-the-art microscopy tools to probe the molecular building blocks of human life and disease. His focus is the application of single-molecule microscopy techniques to investigate complex biological processes in order to drive the rational design of next-generation therapeutics.
-  url: https://www.eventbrite.co.uk/e/physsoc-public-lectures-dr-steven-quinn-tickets-45229856719?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/43654208/148307828230/1/original.jpg?h=200&w=450&auto=compress&rect=355,0,2832,1416&s=29b031589b4ce429dfff31c0740867f2
-  starts: 2018-04-24T18:30:00.0000000
-  ends: 2018-04-24T19:30:00.0000000
 - name: Modern Modelling and Computation in Nuclear Structure
   description: Dr Alessandro PastoreUniversity of YorkDelivered by face-to-face (residential) lectures in York.Delivery may be in two phases with assigned work inbetween.
   url: https://www.eventbrite.co.uk/e/modern-modelling-and-computation-in-nuclear-structure-tickets-41391288458?aff=ebapi
@@ -838,7 +831,7 @@
   venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxgbnc/
+  url: https://www.meetup.com/YorkDevelopers/events/250093780/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-04-30T06:30:00.0000000
@@ -870,6 +863,13 @@
   starts: 2018-05-02T17:00:00.0000000
   ends: 2018-05-02T20:00:00.0000000
   venue: Callcredit Information Group Limited
+- name: Bitcoin & Crypto discussion with drinks
+  description: '<p>We are meeting up for another informal discussion about bitcoin and other crypto currencies.<br/>Meet like minded people and learn from others who are interested in crypto currency.<br/>Arrive and leave when is convenient to you.<br/>Feel free to bring drinks and food from the bar into the room.</p> '
+  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/250102806/
+  is-free: true
+  starts: 2018-05-02T17:30:00.0000000
+  ends: 2018-05-02T19:30:00.0000000
+  venue: Royal Oak
 - name: Front-End-York - Taking your website offline (PWA) & Web Accessibility
   description: "<p>We're going for the hat-trick. Join us for what is set to be a very interesting evening of talks!</p> <p>Our first talk will be by Graham Cook - on the what, why, when and how of accessibility. Graham will be giving us a basic introduction to accessibility, why it matters, and how can you start to make it part of your everyday projects.</p> <p>You can get in touch with Graham to discuss his talk using the following; graham@allcoloursgreen.co.uk | @GrahamKCook | www.linkedin.com/in/grahamkcook</p> <p>After a quick changeover we'll be joined by Jamie Woolgar &amp; Joseph Abell who will be introducing us to progressive web apps. Their talk will be all about taking your website offline (and everything you need for a great offline experience)</p> <p>Drop Jamie &amp; Joseph a tweet using @jamie_woolgar and @GerbilsInSpace</p> <p>We hope to see you there!</p> <p>Note: Due to popular demand - RSVP will open 5 days before the event.</p> "
   url: https://www.meetup.com/YorkDevelopers/events/249780779/
@@ -1341,6 +1341,15 @@
   ends: 2018-10-10T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxnbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-10-15T06:30:00.0000000
+  ends: 2018-10-15T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxnbxb/
@@ -1397,13 +1406,6 @@
   starts: 2019-04-18T18:00:00.0000000
   ends: 2019-04-18T21:00:00.0000000
   endorsed: true
-- name: Engineering the Future
-  description: <strong>Engineering the Future</strong>
-  url: https://www.ypsyork.org/events/engineering-the-future/
-  logo: https://www.ypsyork.org/wp-content/uploads/2018/02/Climer-engineering-200x125.png
-  starts: 2018-04-24T19:30:00.0000000
-  ends: 2018-04-24T21:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: The Late Pleistocene Glacial History of the Vale of York
   description: >-
     <strong>The Late Pleistocene Glacial History of the Vale of York<br />
