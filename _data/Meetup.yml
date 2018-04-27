@@ -1,18 +1,3 @@
-- name: .Net on Kubernetes and Azure
-  description: "<p>Everyone seems to be talking about Kubernetes with companies seemingly tripping over themselves to support Kubernetes.<br/>In this talk we'll introduce Kubernetes, discuss the key concepts of the platform, it's high level architecture and how to get a Kubernetes cluster up and running in minutes. We'll talk about and demo (hopefully!) deploying .NET applications to Kubernetes and we'll finish with a discussion of the future where you can deploy both legacy and modern .NET applications to the same platform.</p> <p>By Shahid Iqbal</p> <p>About Shahid:<br/>Shahid is an independent consultant working with companies to help migrate their existing applications to the Cloud and to build natively for the cloud using technologies such as Kubernetes.<br/>A .NET developer/architect with nearly a decade of experience he is usually happiest working with the latest technologies and playing around with gadgets or talking about cars.</p> "
-  url: https://www.meetup.com/Leeds-Sharp/events/248567631/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2018-04-26T17:30:00.0000000
-  ends: 2018-04-26T20:00:00.0000000
-  venue: Platform
-- name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
-  url: https://www.meetup.com/LeedsRubyThing/events/249637196/
-  is-free: true
-  starts: 2018-04-26T18:30:00.0000000
-  ends: 2018-04-26T22:30:00.0000000
-  venue: Veritas Ale & Wine Bar
 - name: Data & Gravy | SQL & Azure Mini Conference
   description: "<p>A mini conference on all things relating to the Microsoft Data Platform plus we'll be serving up food with gravy (Yorkshire Puddings &amp; Chips etc.).</p> <p>09:30 | Registration<br/>10:00 | Introduction to Containers | Chris Taylor @sqlgeordie<br/>11:00 | Tune the query, not the plan | Kev Riley @kevriley<br/>12:00 | Lightning Talks<br/>13:00 | Lunch<br/>14:00 | Common issues from the field | Phil Grayson @databoffin<br/>14:30 | SQL Server Operations Studio | Martin Croft @martincroft<br/>15:15 | A voyage through test environments | Dan Thompson @leedsdba<br/>16:00 | Off T'Pub</p> <p>Book Swap<br/>We'll also have a book swap so feel free to bring in or take books. Anything leftover will be given to charity.</p> <p>Full details can be found on our site:<br/><a href=\"https://dataatplatform.wordpress.com\" class=\"linkified\">https://dataatplatform.wordpress.com</a></p> <p>Come and chat with us on the Yorkshire Digital Community Slack channel<br/><a href=\"https://tinyurl.com/yb8jp4yb\" class=\"linkified\">https://tinyurl.com/yb8jp4yb</a></p> "
   url: https://www.meetup.com/Data-Platform/events/247416665/
@@ -29,9 +14,17 @@
   ends: 2018-04-30T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: TBD
+  description: '<p>Details to be announced nearer the time.</p> <p>See the LCD website for details: <a href="http://leedscodedojo.github.io/" class="linkified">http://leedscodedojo.github.io/</a></p> '
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/249824949/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2018-05-02T17:00:00.0000000
+  ends: 2018-05-02T20:00:00.0000000
+  venue: Callcredit Information Group Limited
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxhbdb/
+  url: https://www.meetup.com/YorkDevelopers/events/250167952/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-05-02T06:30:00.0000000
@@ -46,14 +39,6 @@
   starts: 2018-05-02T07:00:00.0000000
   ends: 2018-05-02T10:00:00.0000000
   venue: La Bottega Milanese
-- name: TBD
-  description: '<p>Details to be announced nearer the time.</p> <p>See the LCD website for details: <a href="http://leedscodedojo.github.io/" class="linkified">http://leedscodedojo.github.io/</a></p> '
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/249824949/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2018-05-02T17:00:00.0000000
-  ends: 2018-05-02T20:00:00.0000000
-  venue: Callcredit Information Group Limited
 - name: Bitcoin & Crypto discussion with drinks
   description: '<p>We are meeting up for another informal discussion about bitcoin and other crypto currencies.<br/>Meet like minded people and learn from others who are interested in crypto currency.<br/>Arrive and leave when is convenient to you.<br/>Feel free to bring drinks and food from the bar into the room.</p> '
   url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/250102806/
@@ -547,6 +532,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-10-15T06:30:00.0000000
   ends: 2018-10-15T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxnbwb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-10-17T06:30:00.0000000
+  ends: 2018-10-17T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
