@@ -7,8 +7,8 @@
   ends: 2018-04-30T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: TBD
-  description: '<p>Details to be announced nearer the time.</p> <p>See the LCD website for details: <a href="http://leedscodedojo.github.io/" class="linkified">http://leedscodedojo.github.io/</a></p> '
+- name: Farkle
+  description: "<p>This month we'll be returning to the traditional TDD Kata format, using Test Driven Development and Pair Programming to implement a solution to the dice game Farkle.</p> <p>See the LCD website for details: <a href=\"http://leedscodedojo.github.io/\" class=\"linkified\">http://leedscodedojo.github.io/</a></p> "
   url: https://www.meetup.com/Leeds-Code-Dojo/events/249824949/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
@@ -73,6 +73,15 @@
   starts: 2018-05-09T17:30:00.0000000
   ends: 2018-05-09T20:00:00.0000000
   venue: Room FT/210 York St John University
+  endorsed: true
+- name: York Code Dojo May Meetup - Play the code obfuscation game
+  description: '<p>This month we have a new game to try out based around the idea of code obfuscation.</p> <p>To quote Wikipedia....<br/>"In software development, obfuscation is the deliberate act of creating source or machine code that is difficult for humans to understand. Like obfuscation in natural language, it may use needlessly roundabout expressions to compose statements."</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>RSVP here: <a href="https://www.meetup.com/York-Code-Dojo/events/250240750" class="linkified">https://www.meetup.com/York-Code-Dojo/events/250240750</a></p> '
+  url: https://www.meetup.com/YorkDevelopers/events/250277262/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-05-09T17:30:00.0000000
+  ends: 2018-05-09T19:30:00.0000000
+  venue: York St. John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
