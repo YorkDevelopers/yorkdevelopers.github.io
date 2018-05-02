@@ -49,7 +49,7 @@
   venue: The Adelphi
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxhbkb/
+  url: https://www.meetup.com/YorkDevelopers/events/250331766/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-05-07T06:30:00.0000000
@@ -107,6 +107,21 @@
   ends: 2018-05-14T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: 'Tech Contractor Networking: Leeds'
+  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
+  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/249865844/
+  is-free: true
+  starts: 2018-05-15T11:15:00.0000000
+  ends: 2018-05-15T11:45:00.0000000
+  venue: Banyan Bar Leeds
+- name: LeedsDevops - May 2018 Meetup
+  description: "<p>In the words of Thomas Dekker, it's the Merry Month of May, which means it's time for another devops meetup at the ODI Node in Leeds on Tuesday 15th May. We bring you a terrific lineup :</p> <p>6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>7:15 - 7:25 : Group updates/news/announcements<br/>7:25 - 8:05 : Introduction to Google Cloud Platform<br/>8:05 - 8:20 : Intermission<br/>8:20 - 9:00 : You had one job - Failures in a complex distributed system<br/>9:00 - late : Decamp to the Wardrobe</p> <p>Our first speaker is Richard Rose who is a lead platform engineer with over 20 years of experience working on complex infrastructure and software architecture. As a founder of the Leeds Google Developer Group, he is very interested in all form of technology, especially Cloud and Android. In his spare time, he loves to read and experiment with different technologies.</p> <p>Richard’s talk is an introduction to Google Cloud Platform and discusses the highs and lows of working in a Google-centric universe versus the more well-publicised market competitors. Depending on your perspective (developer or operations) you may be surprised by the approach taken by Google and also at the range of packages on offer within this environment. The talk will cover the primary components of using the platform and offer some advice on getting started, general architecture patterns and where to go when it all goes wrong.</p> <p>Speaking of stuff which breaks. It’s one of the basic fundamentals of IT, but there are some things you expect to just work. But what happens when these things decide to let you down, especially when part of a large distributed system?</p> <p>Our second talk is from Ed Hiley and Dan Rathbone who offer an overview of the technical renaissance going on in parts of the NHS, where things are being done in a modern way. Ed and Dan explore a recently launched data processing system that utilizes Apache Spark, Riak, and Python and discuss the events they encountered along the way where things they took for granted just stopped doing the things they expected. Ed and Dan dive into some of these events to debunk the assumptions they made and explain how they troubleshot and fixed the issues.</p> <p>Edward Hiley is a principal systems engineer with NHS Digital, where he has worked on national services such as SUS+, a ground-up full replacement of the current Secondary Uses Service (SUS), which involves myriad challenges, including immutable infrastructure, disputed compute clusters, and multi-data-center deployments.</p> <p>Dan Rathbone is cofounder and technical director of Infinity Works, a 200-strong consultancy and software house based out of Leeds and London, where he builds and operates high-scale and high-performance systems for Infinity Works’ clients. Most recently, Dan has been working with NHS Digital to drive the modernization of critical national services, reengineering them using FOSS, end-to-end DevOps teams, and Agile and Lean delivery techniques.</p> <p>Once again we say a massive \"Thank You\" to Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) for sponsoring the refreshments and lodgings for the evening, ensuring there are plenty of our favourite refreshments and soft drinks in supply.</p> <p>Code Of Conduct</p> <p>Please note that we have now added an anti harassment policy and code of conduct (<a href=\"https://tmblr.co/ZdJfSq2PpSK99)in\" class=\"linkified\">https://tmblr.co/ZdJfSq2PpSK99)in</a> order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street (not too far from the Adelphi). If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on twitter @leedsdevops (<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>For more details see the event page on leedsdevops.org.uk (<a href=\"https://tmblr.co/ZdJfSq2Xas76h\" class=\"linkified\">https://tmblr.co/ZdJfSq2Xas76h</a>)</p> "
+  url: https://www.meetup.com/LeedsDevops/events/250348433/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/a/6/0/thumb_333467712.jpeg
+  starts: 2018-05-15T17:45:00.0000000
+  ends: 2018-05-15T20:00:00.0000000
+  venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxhbvb/
@@ -560,6 +575,15 @@
   starts: 2018-10-18T18:00:00.0000000
   ends: 2018-10-18T21:00:00.0000000
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxnbdc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-10-22T06:30:00.0000000
+  ends: 2018-10-22T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxpbtb/
@@ -647,10 +671,17 @@
 
     </strong>
   url: https://www.ypsyork.org/events/uncovering-the-yorkshire-jurassic-field-days/
-  logo: https://www.ypsyork.org/wp-content/uploads/2012/06/lodge-01-200x125.jpg
+  logo: https://www.ypsyork.org/wp-content/uploads/2015/12/peasholme-dig-200x125.jpg
   starts: 2018-05-20T00:00:00.0000000
   ends: 2018-05-20T23:00:00.0000000
-  venue: 23 May 2018
+  venue: 22 May 2018
+- name: 'The Bare Bones of Burials in Archaeology: a commercial Archaeoliogist&#8217;s View'
+  description: '<strong>The Bare Bones of Burials in Archaeology: a commercial Archaeoliogist&#8217;s Views on the challenges, rewards and what we learn</strong>'
+  url: https://www.ypsyork.org/events/the-bare-bones-of-burials-in-archaeology-a-commercial-archaeoliogists-view/
+  logo: https://www.ypsyork.org/wp-content/uploads/2015/12/peasholme-dig-200x125.jpg
+  starts: 2018-05-22T19:30:00.0000000
+  ends: 2018-05-22T21:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: YPS Get-Together
   description: YPS Get-Together
   url: https://www.ypsyork.org/events/yps-get-together-15/
@@ -665,6 +696,13 @@
   starts: 2018-05-30T00:00:00.0000000
   ends: 2018-05-30T23:00:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/creswell-crags-museum-2/" title="Creswell Crags Museum">Creswell Crags Museum</a>
+- name: Language Change as Competition
+  description: <strong>Language Change as Competition&#8221;
+  url: https://www.ypsyork.org/events/language-change-as-competition/
+  logo: https://www.ypsyork.org/wp-content/uploads/2012/07/cafe-sci-11-200x125.jpg
+  starts: 2018-06-06T19:30:00.0000000
+  ends: 2018-06-06T21:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/city-screen-basement-bar/" title="City Screen Basement Bar">City Screen Basement Bar</a>
 - name: Bones &#8211; imaging prehistoric and modern women
   description: <strong>Bones &#8211; imaging prehistoric and modern women</strong>
   url: https://www.ypsyork.org/events/bones-imaging-prehistoric-and-modern-women/
