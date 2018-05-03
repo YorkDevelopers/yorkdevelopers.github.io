@@ -1,44 +1,3 @@
-- name: Farkle
-  description: "<p>This month we'll be returning to the traditional TDD Kata format, using Test Driven Development and Pair Programming to implement a solution to the dice game Farkle.</p> <p>See the LCD website for details: <a href=\"http://leedscodedojo.github.io/\" class=\"linkified\">http://leedscodedojo.github.io/</a></p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/249824949/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2018-05-02T17:00:00.0000000
-  ends: 2018-05-02T20:00:00.0000000
-  venue: Callcredit Information Group Limited
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250167952/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-05-02T06:30:00.0000000
-  ends: 2018-05-02T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/250134983/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-05-02T07:00:00.0000000
-  ends: 2018-05-02T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Bitcoin & Crypto discussion with drinks
-  description: '<p>We are meeting up for another informal discussion about bitcoin and other crypto currencies.<br/>Meet like minded people and learn from others who are interested in crypto currency.<br/>Arrive and leave when is convenient to you.<br/>Feel free to bring drinks and food from the bar into the room.</p> '
-  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/250102806/
-  is-free: true
-  starts: 2018-05-02T17:30:00.0000000
-  ends: 2018-05-02T19:30:00.0000000
-  venue: Royal Oak
-- name: Front-End-York - Taking your website offline (PWA) & Web Accessibility
-  description: "<p>We're going for the hat-trick. Join us for what is set to be a very interesting evening of talks!</p> <p>Our first talk will be by Graham Cook - on the what, why, when and how of accessibility. Graham will be giving us a basic introduction to accessibility, why it matters, and how can you start to make it part of your everyday projects.</p> <p>You can get in touch with Graham to discuss his talk using the following; graham@allcoloursgreen.co.uk | @GrahamKCook | www.linkedin.com/in/grahamkcook</p> <p>After a quick changeover we'll be joined by Jamie Woolgar &amp; Joseph Abell who will be introducing us to progressive web apps. Their talk will be all about taking your website offline (and everything you need for a great offline experience)</p> <p>Drop Jamie &amp; Joseph a tweet using @jamie_woolgar and @GerbilsInSpace</p> <p>We hope to see you there!</p> <p>Note: Due to popular demand - RSVP will open 5 days before the event.</p> "
-  url: https://www.meetup.com/YorkDevelopers/events/249780779/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-05-02T18:00:00.0000000
-  ends: 2018-05-02T20:00:00.0000000
-  venue: Stonegate Yard Bar & Brasserie
-  endorsed: true
 - name: Pre-Codegarden Meetup
   description: "<p>Codegarden (the annual Umbraco conference in Denmark) is an amazing experience and we'll be discussing the upcoming event as it's really early this year.<br/>Come along to find out what to expect from previous attendees or just chat and be sociable.</p> "
   url: https://www.meetup.com/umbLeeds/events/249356082/
@@ -131,6 +90,22 @@
   ends: 2018-05-16T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxhbvb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-05-16T07:00:00.0000000
+  ends: 2018-05-16T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Symfony 4 (Flex included) -  Jakub Zalas, and Super Marek’s Testing Strategy
+  description: "<p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided. We will have vegetarian food, if you have any other dietary requirements or questions please send us a message.<br/>_______________________________</p> <p>★ The Talks</p> <p>✩ Symfony 4 (Flex included)<br/>Jakub Zalas <a href=\"https://twitter.com/jakub_zalas\" class=\"linkified\">https://twitter.com/jakub_zalas</a></p> <p>\"Symfony 4 is a result of evolution of the popular framework. While it's not a revolution, there's lots of things included that make our life much easier and more fun! Symfony was moved closer to industry practices with application bundles gone, simplified directory structure, or environment variables preferred over configuration parameters.</p> <p>Both versions 2 and 3 has already introduced some nice features, like autowiring, that contributed to what Symfony 4 has become. As a result there is less Symfony specific concepts and more standard practices. It's easier to learn, easier to configure, easier to install and deploy, and finally easier to master.</p> <p>If that wasn't enough, our workflow was much improved with the introduction of Symfony Flex, a new way to install and manage Symfony applications. It's time to say goodbye to both Symfony installer and the Standard Edition!\"</p> <p>Jakub Zalas is an independent software consultant, architect and trainer, who helps teams to deliver software that survives change. Being focused on quality, Jakub promotes agile development practices like test driven development. In his spare time, he speaks at conferences and contributes to open source.</p> <p>✩ Super Marek’s Testing Strategy<br/>Marek Matulka <a href=\"https://twitter.com/super_marek\" class=\"linkified\">https://twitter.com/super_marek</a></p> <p>\"I will talk about choosing the right testing strategy for the project based on my personal experience working with customers like Dixons, Carphone Warehouse, Financial Times, and Talk Talk.\"</p> <p>Agile Software Engineer. World Traveller. Frequent Flyer. Plane Spotter. Amateur Photographer. I say what I think, not what you want to hear.<br/>_______________________________</p> <p>★ Timings</p> <p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – Super Marek’s Testing Strategy - Marek Matulka<br/>19:30 – A little break<br/>19:30 – Symfony 4 (Flex included) - Jakub Zalas<br/>20:10ish – Pop over to the pub for a chat and a drink</p> <p>_______________________________</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform (<a href=\"https://bruntwood.co.uk/our-locations/leeds/platform/\" class=\"linkified\">https://bruntwood.co.uk/our-locations/leeds/platform/</a>) – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Sky Betting &amp; Gaming (<a href=\"http://skybetcareers.com/about-us\" class=\"linkified\">http://skybetcareers.com/about-us</a>) – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their careers page (<a href=\"http://skybetcareers.com/\" class=\"linkified\">http://skybetcareers.com/</a>) provides great detail as to the working environment and range of work available across the technology stack. @skybetcareers (<a href=\"https://twitter.com/skybetcareers\" class=\"linkified\">https://twitter.com/skybetcareers</a>)</p> <p>• Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) – Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href=\"https://twitter.com/InfinityWorks\" class=\"linkified\">https://twitter.com/InfinityWorks</a>)</p> "
+  url: https://www.meetup.com/leedsphp/events/246435867/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
+  starts: 2018-05-16T17:30:00.0000000
+  ends: 2018-05-16T19:30:00.0000000
+  venue: Platform
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxhbwb/
@@ -632,18 +607,6 @@
   starts: 2019-04-18T18:00:00.0000000
   ends: 2019-04-18T21:00:00.0000000
   endorsed: true
-- name: The Late Pleistocene Glacial History of the Vale of York
-  description: >-
-    <strong>The Late Pleistocene Glacial History of the Vale of York<br />
-
-    </strong><br />
-
-    <strong>William Fairburn</strong>
-  url: https://www.ypsyork.org/events/the-late-pleistocene-glacial-history-of-the-vale-of-york/
-  logo: https://www.ypsyork.org/wp-content/uploads/2016/11/River_Hull_at_Wawne-200x125.jpg
-  starts: 2018-05-02T19:30:00.0000000
-  ends: 2018-05-02T21:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/city-screen-basement-bar/" title="City Screen Basement Bar">City Screen Basement Bar</a>
 - name: Day Trip to Thorp Perrow, Snape Chapel,  and Mount Grace Priory
   description: <strong>Thursday 3 May 2018, £38 pp</strong>
   url: https://www.ypsyork.org/events/day-trip-to-thorp-perrow-snape-chapel-and-mount-grace-priory/
