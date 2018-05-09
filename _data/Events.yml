@@ -42,7 +42,7 @@
   venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxhbsb/
+  url: https://www.meetup.com/YorkDevelopers/events/250573078/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-05-14T06:30:00.0000000
@@ -558,6 +558,15 @@
   ends: 2018-10-24T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxnbmc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-10-29T07:30:00.0000000
+  ends: 2018-10-29T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxpbtb/
@@ -606,13 +615,6 @@
   starts: 2019-04-18T18:00:00.0000000
   ends: 2019-04-18T21:00:00.0000000
   endorsed: true
-- name: Humphry Repton, landscape gardener (1752-1818) and his Yorkshire Commissions
-  description: <strong>Humphry Repton, landscape gardener (1752-1818) and his Yorkshire Commissions</strong>
-  url: https://www.ypsyork.org/events/humphry-repton-landscape-gardener-1752-1818-and-his-yorkshire-commissions/
-  logo: https://www.ypsyork.org/wp-content/uploads/2018/04/Cover-Image-flyer-etc-200x125.jpg
-  starts: 2018-05-08T19:30:00.0000000
-  ends: 2018-05-08T21:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/" title="Tempest Anderson Hall">Tempest Anderson Hall</a>
 - name: '&#8220;Uncovering the Yorkshire Jurassic&#8221; Symposium'
   description: <strong>&#8220;Uncovering the Yorkshire Jurassic&#8221; Symposium</strong>
   url: https://www.ypsyork.org/events/uncovering-the-yorkshire-jurassic-symposium/
