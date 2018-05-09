@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "York Code Dojo"
-date:   2017-03-29 15:08:10 -0500
+date:   2017-08-29 15:08:10 -0500
 img: img/meetups/York_Code_Dojo.jpg
 modalID: modalYorkCodeDojo
 category: Meetup
