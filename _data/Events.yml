@@ -1,38 +1,3 @@
-- name: York Code Dojo May Meetup - Play the code obfuscation game
-  description: '<p>This month we have a new game to try out based around the idea of code obfuscation.</p> <p>To quote Wikipedia....<br/>"In software development, obfuscation is the deliberate act of creating source or machine code that is difficult for humans to understand. Like obfuscation in natural language, it may use needlessly roundabout expressions to compose statements."</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/250240750/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2018-05-09T17:30:00.0000000
-  ends: 2018-05-09T20:00:00.0000000
-  venue: Room FT/210 York St John University
-  endorsed: true
-- name: York Code Dojo May Meetup - Play the code obfuscation game
-  description: '<p>This month we have a new game to try out based around the idea of code obfuscation.</p> <p>To quote Wikipedia....<br/>"In software development, obfuscation is the deliberate act of creating source or machine code that is difficult for humans to understand. Like obfuscation in natural language, it may use needlessly roundabout expressions to compose statements."</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>RSVP here: <a href="https://www.meetup.com/York-Code-Dojo/events/250240750" class="linkified">https://www.meetup.com/York-Code-Dojo/events/250240750</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250277262/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-05-09T17:30:00.0000000
-  ends: 2018-05-09T19:30:00.0000000
-  venue: York St. John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250404946/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-05-09T06:30:00.0000000
-  ends: 2018-05-09T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/250405060/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-05-09T07:00:00.0000000
-  ends: 2018-05-09T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/249700109/
@@ -113,6 +78,22 @@
   ends: 2018-05-21T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Leeds May 2018 User Group
+  description: '<p>This month, Sitecore’s Technical User group comes to Leeds, hosted by Sagittarius!</p> <p>With only 2 weeks until the event, join us in Leeds to explore Sitecore 9 features, forms and Sagittarius’ exclusive GDPR 8 Tool.</p> <p>Date: Tuesday May 22nd 2018</p> <p>Time:<br/>6:30pm Welcome drinks<br/>7pm First presentation<br/>9pm Socialising</p> <p>Location: Sky Lounge (DoubleTree by Hilton Hotel Leeds City Centre)</p> <p>The line-up is currently:</p> <p>New Sitecore Install Framework, Sitecore 9 Forms - Johannes Zijistra</p> <p>EXM handling and Data - Steve McGill</p> <p>The missing pieces in the GDPR jigsaw - Paul Stephen<br/>With GDPR all but upon us, brands still face plenty of uncertainty and issues to overcome for them to be fully compliant. Not least of which, having the tools in place to be able to act on Right to be Forgotten and Data Portability requests in your Sitecore platform.</p> <p>Paul will highlight the tools that are provided in Sitecore 8 &amp; 9 to help you be compliant and how Sagittarius has used these tools to empower its clients to take control of their customer data in xDB and List Manager.</p> <p>There will be chance to Q&amp;A each of the talks, time permitting.</p> <p>Please RSVP so we have a good idea of numbers!</p> <p>- The Sitecore UG Team</p> <p>Sagittarius are also holding a FREE Sitecore 8/9 GDPR specific event on the same day as the STUG from 2-5pm. If you would like to attend, register your interest here: <a href="https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604" class="linkified">https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604</a></p> '
+  url: https://www.meetup.com/sug-uk/events/250612115/
+  is-free: true
+  starts: 2018-05-22T17:00:00.0000000
+  ends: 2018-05-22T20:00:00.0000000
+  venue: DoubleTree by Hilton
+- name: York Swift - First Meetup
+  description: "<p>York Swift is For developers &amp; learners who love to share their experiences, knowledge and insights the Swift programming language. All skill levels welcome, come join us at our monthly meetup.</p> <p>Agenda</p> <p>\U0001F596 Introductions<br/>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>\U0001F4E2 News<br/>WWDC 2018 keynote is 4th June 2018, lets quickly go over rumors and what to expect.</p> <p>\U0001F393 Resources for learning<br/>Newsletters, blogs and feeds to keep an eye on.</p> <p>\U0001F680 Code walk through<br/>A quick dive into a small demo I wrote for the York Dojo meetup. Let's see some code.</p> <p>\U0001F64B Questions<br/>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>\U0001F37B York Swift Social<br/>Let's migrate a few doors down for refreshments and banter.</p> "
+  url: https://www.meetup.com/YorkDevelopers/events/250606863/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-05-22T18:00:00.0000000
+  ends: 2018-05-22T20:00:00.0000000
+  venue: The Coffee Bureau
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxhbfc/
@@ -121,6 +102,23 @@
   starts: 2018-05-23T06:30:00.0000000
   ends: 2018-05-23T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxhbfc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-05-23T07:00:00.0000000
+  ends: 2018-05-23T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: York Code Dojo June Meetup - Bit Coin Mining
+  description: '<p>This month we will be trying to get rich* by mining bit coins!! Adam has kindly setup a simplified bin coin server for us to use. No prior knowledge of bit coins or complicated Maths is needed.</p> <p>* By rich, I mean rich in knowledge rather than hard cash :-)</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/250629803/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2018-06-13T17:30:00.0000000
+  ends: 2018-06-13T20:00:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
