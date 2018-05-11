@@ -31,7 +31,7 @@
   venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxhbvb/
+  url: https://www.meetup.com/YorkDevelopers/events/250645641/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-05-16T06:30:00.0000000
@@ -40,7 +40,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxhbvb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/250645746/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-05-16T07:00:00.0000000
@@ -79,7 +79,7 @@
   venue: The Perky Peacock
   endorsed: true
 - name: Leeds May 2018 User Group
-  description: '<p>This month, Sitecore’s Technical User group comes to Leeds, hosted by Sagittarius!</p> <p>With only 2 weeks until the event, join us in Leeds to explore Sitecore 9 features, forms and Sagittarius’ exclusive GDPR 8 Tool.</p> <p>Date: Tuesday May 22nd 2018</p> <p>Time:<br/>6:30pm Welcome drinks<br/>7pm First presentation<br/>9pm Socialising</p> <p>Location: Sky Lounge (DoubleTree by Hilton Hotel Leeds City Centre)</p> <p>The line-up is currently:</p> <p>New Sitecore Install Framework, Sitecore 9 Forms - Johannes Zijistra</p> <p>EXM handling and Data - Steve McGill</p> <p>The missing pieces in the GDPR jigsaw - Paul Stephen<br/>With GDPR all but upon us, brands still face plenty of uncertainty and issues to overcome for them to be fully compliant. Not least of which, having the tools in place to be able to act on Right to be Forgotten and Data Portability requests in your Sitecore platform.</p> <p>Paul will highlight the tools that are provided in Sitecore 8 &amp; 9 to help you be compliant and how Sagittarius has used these tools to empower its clients to take control of their customer data in xDB and List Manager.</p> <p>There will be chance to Q&amp;A each of the talks, time permitting.</p> <p>Please RSVP so we have a good idea of numbers!</p> <p>- The Sitecore UG Team</p> <p>Sagittarius are also holding a FREE Sitecore 8/9 GDPR specific event on the same day as the STUG from 2-5pm. If you would like to attend, register your interest here: <a href="https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604" class="linkified">https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604</a></p> '
+  description: '<p>This month, Sitecore’s Technical User group comes to Leeds, hosted by Sagittarius!</p> <p>With only 2 weeks until the event, join us in Leeds to explore Sitecore 9 features, forms and Sagittarius’ exclusive GDPR 8 Tool.</p> <p>Date: Tuesday May 22nd 2018</p> <p>Time:<br/>6:30pm Welcome drinks<br/>7pm First presentation<br/>9pm Socialising</p> <p>Location: Sky Lounge (DoubleTree by Hilton Hotel Leeds City Centre)</p> <p>The line-up is currently:</p> <p>New Sitecore Install Framework, Sitecore 9 Forms - Johannes Zijistra</p> <p>Adding SMS and Push Notifications to EXM &amp; Marketing Automation - Steve McGill</p> <p>The missing pieces in the GDPR jigsaw - Paul Stephen<br/>With GDPR all but upon us, brands still face plenty of uncertainty and issues to overcome for them to be fully compliant. Not least of which, having the tools in place to be able to act on Right to be Forgotten and Data Portability requests in your Sitecore platform.</p> <p>Paul will highlight the tools that are provided in Sitecore 8 &amp; 9 to help you be compliant and how Sagittarius has used these tools to empower its clients to take control of their customer data in xDB and List Manager.</p> <p>There will be chance to Q&amp;A each of the talks, time permitting.</p> <p>Please RSVP so we have a good idea of numbers!</p> <p>- The Sitecore UG Team</p> <p>Sagittarius are also holding a FREE Sitecore 8/9 GDPR specific event on the same day as the STUG from 2-5pm. If you would like to attend, register your interest here: <a href="https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604" class="linkified">https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604</a></p> '
   url: https://www.meetup.com/sug-uk/events/250612115/
   is-free: true
   starts: 2018-05-22T17:00:00.0000000
@@ -111,6 +111,14 @@
   starts: 2018-05-23T07:00:00.0000000
   ends: 2018-05-23T10:00:00.0000000
   venue: La Bottega Milanese
+- name: Tales From The Cloud
+  description: '<p>Join us on Thursday 24th May where we will be joined by our friends at Financialforce for an evening of engaging discussion and insight into two highly interesting topics.</p> <p>There will be two talks. Talk 1 covers the rise of server side of Javascript and how Financialforce are using Node.JS across their enterprise products.</p> <p>Talk 2 will be a discussion around application security and vulnerability and White Hat Application Hacking. This is a must for all those interested in how to make their products secure.</p> <p>Both talks will include examples from Financialforce who build applications on the largest and most mature cloud platform and is applicable to all application stacks.</p> <p>Time: 17:45 (Registration) 18:15 (Start time)</p> <p>Location: Wizu Workspace, The Leeming Building, Ludgate Hill, Leeds, LS2 7HZ</p> <p>If you would like more details on this event please give us a call where one of our team will be able to give you more information: 0113 468 6700</p> '
+  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/249897701/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
+  starts: 2018-05-24T18:00:00.0000000
+  ends: 2018-05-24T20:00:00.0000000
+  venue: Leeds City Centre
 - name: York Code Dojo June Meetup - Bit Coin Mining
   description: '<p>This month we will be trying to get rich* by mining bit coins!! Adam has kindly setup a simplified bin coin server for us to use. No prior knowledge of bit coins or complicated Maths is needed.</p> <p>* By rich, I mean rich in knowledge rather than hard cash :-)</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/250629803/
@@ -563,6 +571,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-10-29T07:30:00.0000000
   ends: 2018-10-29T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxnbpc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-10-31T07:30:00.0000000
+  ends: 2018-10-31T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
