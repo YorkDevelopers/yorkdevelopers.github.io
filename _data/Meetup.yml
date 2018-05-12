@@ -1,10 +1,3 @@
-- name: Crypto catchup (Friday)
-  description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
-  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/249700109/
-  is-free: true
-  starts: 2018-05-11T11:30:00.0000000
-  ends: 2018-05-11T12:30:00.0000000
-  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250573078/
@@ -56,7 +49,7 @@
   venue: Platform
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxhbwb/
+  url: https://www.meetup.com/YorkDevelopers/events/250695591/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-05-17T18:00:00.0000000
@@ -79,7 +72,7 @@
   venue: The Perky Peacock
   endorsed: true
 - name: Leeds May 2018 User Group
-  description: '<p>This month, Sitecore’s Technical User group comes to Leeds, hosted by Sagittarius!</p> <p>With only 2 weeks until the event, join us in Leeds to explore Sitecore 9 features, forms and Sagittarius’ exclusive GDPR 8 Tool.</p> <p>Date: Tuesday May 22nd 2018</p> <p>Time:<br/>6:30pm Welcome drinks<br/>7pm First presentation<br/>9pm Socialising</p> <p>Location: Sky Lounge (DoubleTree by Hilton Hotel Leeds City Centre)</p> <p>The line-up is currently:</p> <p>New Sitecore Install Framework, Sitecore 9 Forms - Johannes Zijistra</p> <p>Adding SMS and Push Notifications to EXM &amp; Marketing Automation - Steve McGill</p> <p>The missing pieces in the GDPR jigsaw - Paul Stephen<br/>With GDPR all but upon us, brands still face plenty of uncertainty and issues to overcome for them to be fully compliant. Not least of which, having the tools in place to be able to act on Right to be Forgotten and Data Portability requests in your Sitecore platform.</p> <p>Paul will highlight the tools that are provided in Sitecore 8 &amp; 9 to help you be compliant and how Sagittarius has used these tools to empower its clients to take control of their customer data in xDB and List Manager.</p> <p>There will be chance to Q&amp;A each of the talks, time permitting.</p> <p>Please RSVP so we have a good idea of numbers!</p> <p>- The Sitecore UG Team</p> <p>Sagittarius are also holding a FREE Sitecore 8/9 GDPR specific event on the same day as the STUG from 2-5pm. If you would like to attend, register your interest here: <a href="https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604" class="linkified">https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604</a></p> '
+  description: '<p>This month, Sitecore’s Technical User group comes to Leeds, hosted by Sagittarius!</p> <p>With only 2 weeks until the event, join us in Leeds to explore Sitecore 9 features, forms and Sagittarius’ exclusive GDPR 8 Tool.</p> <p>Date: Tuesday May 22nd 2018</p> <p>Time:<br/>6:30pm Welcome drinks<br/>7pm First presentation<br/>9pm Socialising</p> <p>Location: Sky Lounge (DoubleTree by Hilton Hotel Leeds City Centre)</p> <p>The line-up is:</p> <p>Sitecore Install Framework and Sitecore Forms - Johannes Zijistra<br/>Johannes will show how easy it is to install Sitecore 9.0 Update 1 using the Sitecore Install Framework (SIF), and create a live form to use in the next demo.</p> <p>Adding SMS and Push Notifications to Sitecore - Steve McGill<br/>Steve will demo a solution which adds several communication features to Sitecore Forms, EXM and Marketing Automation. This interactive live demo will send automated and bulk SMS using a Twilio integration, and Push Notifications using mobile apps powered by Xamarin Forms. All tracked using the power of XConnect and SignalR and wrapped up by executing the Right To Be Forgotten.</p> <p>The missing pieces in the GDPR jigsaw - Paul Stephen<br/>With GDPR all but upon us, brands still face plenty of uncertainty and issues to overcome for them to be fully compliant. Not least of which, having the tools in place to be able to act on Right to be Forgotten and Data Portability requests in your Sitecore platform.</p> <p>Paul will highlight the tools that are provided in Sitecore 8 &amp; 9 to help you be compliant and how Sagittarius has used these tools to empower its clients to take control of their customer data in xDB and List Manager.</p> <p>There will be chance to Q&amp;A each of the talks, time permitting.</p> <p>Please RSVP so we have a good idea of numbers!</p> <p>- The Sitecore UK User Group Team</p> <p>Sagittarius are also holding a FREE Sitecore 8/9 GDPR specific event on the same day as the STUG from 2-5pm. If you would like to attend, register your interest here: <a href="https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604" class="linkified">https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604</a></p> '
   url: https://www.meetup.com/sug-uk/events/250612115/
   is-free: true
   starts: 2018-05-22T17:00:00.0000000
