@@ -1,26 +1,3 @@
-- name: 'Tech Contractor Networking: Leeds'
-  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
-  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/249865844/
-  is-free: true
-  starts: 2018-05-15T11:15:00.0000000
-  ends: 2018-05-15T11:45:00.0000000
-  venue: Banyan Bar Leeds
-- name: The Productivity Puzzle
-  description: '<p>About the Session</p> <p>How can we achieve productivity, innovation and creativity in our organisations? Why does buying the latest exciting tool not always lead to the increases in productivity which should be achievable? How do we measure productivity and does it always make sense? This talk delves into the world of motivation and culture to look at what we need to do to develop a highly productive work environment and the common mistakes which we make along the way.</p> <p>About Louise Elliott (@IvanaTerrorBull)</p> <p>Louise has worked in the software world for longer than she cares to remember as developer, technical architect and manager. She is passionate about pragmatic agile, delivering value, cosmology, photography, visiting Antarctica (if only), roller derby, machine learning, bridge (the card game not things that help you cross rivers), people stuff, war poetry and politics and she will talk endlessly about all of these given half the chance. She believes that people are infinitely fascinating and that managing people is like the most complex multivariable multithreaded system you ever encountered.</p> <p>Practical bits</p> <p>• Doors open at 6 and the session starts at 6:30</p> <p>• The talk will be around 45 minutes plus some time for questions.</p> <p>• Go up to the third floor in the venue (lift available) and turn left at the top.</p> <p>------------</p> <p>Agile in Leeds supports <a href="http://diversitycharter.org" class="linkified">http://diversitycharter.org</a></p> '
-  url: https://www.meetup.com/Agile-in-Leeds/events/245754351/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
-  starts: 2018-05-15T17:00:00.0000000
-  ends: 2018-05-15T19:00:00.0000000
-  venue: 3rd Floor, Apsley House
-- name: LeedsDevops - May 2018 Meetup
-  description: "<p>In the words of Thomas Dekker, it's the Merry Month of May, which means it's time for another devops meetup at the ODI Node in Leeds on Tuesday 15th May. We bring you a terrific lineup :</p> <p>6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>7:15 - 7:25 : Group updates/news/announcements<br/>7:25 - 8:05 : Introduction to Google Cloud Platform<br/>8:05 - 8:20 : Intermission<br/>8:20 - 9:00 : You had one job - Failures in a complex distributed system<br/>9:00 - late : Decamp to the Wardrobe</p> <p>Our first speaker is Richard Rose who is a lead platform engineer with over 20 years of experience working on complex infrastructure and software architecture. As a founder of the Leeds Google Developer Group, he is very interested in all form of technology, especially Cloud and Android. In his spare time, he loves to read and experiment with different technologies.</p> <p>Richard’s talk is an introduction to Google Cloud Platform and discusses the highs and lows of working in a Google-centric universe versus the more well-publicised market competitors. Depending on your perspective (developer or operations) you may be surprised by the approach taken by Google and also at the range of packages on offer within this environment. The talk will cover the primary components of using the platform and offer some advice on getting started, general architecture patterns and where to go when it all goes wrong.</p> <p>Speaking of stuff which breaks. It’s one of the basic fundamentals of IT, but there are some things you expect to just work. But what happens when these things decide to let you down, especially when part of a large distributed system?</p> <p>Our second talk is from Ed Hiley and Dan Rathbone who offer an overview of the technical renaissance going on in parts of the NHS, where things are being done in a modern way. Ed and Dan explore a recently launched data processing system that utilizes Apache Spark, Riak, and Python and discuss the events they encountered along the way where things they took for granted just stopped doing the things they expected. Ed and Dan dive into some of these events to debunk the assumptions they made and explain how they troubleshot and fixed the issues.</p> <p>Edward Hiley is a principal systems engineer with NHS Digital, where he has worked on national services such as SUS+, a ground-up full replacement of the current Secondary Uses Service (SUS), which involves myriad challenges, including immutable infrastructure, disputed compute clusters, and multi-data-center deployments.</p> <p>Dan Rathbone is cofounder and technical director of Infinity Works, a 200-strong consultancy and software house based out of Leeds and London, where he builds and operates high-scale and high-performance systems for Infinity Works’ clients. Most recently, Dan has been working with NHS Digital to drive the modernization of critical national services, reengineering them using FOSS, end-to-end DevOps teams, and Agile and Lean delivery techniques.</p> <p>Once again we say a massive \"Thank You\" to Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) for sponsoring the refreshments and lodgings for the evening, ensuring there are plenty of our favourite refreshments and soft drinks in supply.</p> <p>Code Of Conduct</p> <p>Please note that we have now added an anti harassment policy and code of conduct (<a href=\"https://tmblr.co/ZdJfSq2PpSK99)in\" class=\"linkified\">https://tmblr.co/ZdJfSq2PpSK99)in</a> order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street (not too far from the Adelphi). If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on twitter @leedsdevops (<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>For more details see the event page on leedsdevops.org.uk (<a href=\"https://tmblr.co/ZdJfSq2Xas76h\" class=\"linkified\">https://tmblr.co/ZdJfSq2Xas76h</a>)</p> "
-  url: https://www.meetup.com/LeedsDevops/events/250348433/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/a/6/0/thumb_333467712.jpeg
-  starts: 2018-05-15T17:45:00.0000000
-  ends: 2018-05-15T20:00:00.0000000
-  venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250645641/
@@ -63,7 +40,7 @@
   venue: 'Ron Cooke Hub  '
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxhbcc/
+  url: https://www.meetup.com/YorkDevelopers/events/250802193/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-05-21T06:30:00.0000000
@@ -71,7 +48,7 @@
   venue: The Perky Peacock
   endorsed: true
 - name: Leeds May 2018 User Group
-  description: '<p>This month, Sitecore’s Technical User group comes to Leeds, hosted by Sagittarius!</p> <p>With only 2 weeks until the event, join us in Leeds to explore Sitecore 9 features, forms and Sagittarius’ exclusive GDPR 8 Tool.</p> <p>Date: Tuesday May 22nd 2018</p> <p>Time:<br/>6:30pm Welcome drinks<br/>7pm First presentation<br/>9pm Socialising</p> <p>Location: Sky Lounge (DoubleTree by Hilton Hotel Leeds City Centre)</p> <p>The line-up is:</p> <p>Sitecore Install Framework and Sitecore Forms - Johannes Zijistra<br/>Johannes will show how easy it is to install Sitecore 9.0 Update 1 using the Sitecore Install Framework (SIF), and create a live form to use in the next demo.</p> <p>Adding SMS and Push Notifications to Sitecore - Steve McGill<br/>Steve will demo a solution which adds several communication features to Sitecore Forms, EXM and Marketing Automation. This interactive live demo will send automated and bulk SMS using a Twilio integration, and Push Notifications using mobile apps powered by Xamarin Forms. All tracked using the power of XConnect and SignalR and wrapped up by executing the Right To Be Forgotten.</p> <p>The missing pieces in the GDPR jigsaw - Paul Stephen<br/>With GDPR all but upon us, brands still face plenty of uncertainty and issues to overcome for them to be fully compliant. Not least of which, having the tools in place to be able to act on Right to be Forgotten and Data Portability requests in your Sitecore platform.</p> <p>Paul will highlight the tools that are provided in Sitecore 8 &amp; 9 to help you be compliant and how Sagittarius has used these tools to empower its clients to take control of their customer data in xDB and List Manager.</p> <p>There will be chance to Q&amp;A each of the talks, time permitting.</p> <p>Please RSVP so we have a good idea of numbers!</p> <p>- The Sitecore UK User Group Team</p> <p>Sagittarius are also holding a FREE Sitecore 8/9 GDPR specific event on the same day as the STUG from 2-5pm. If you would like to attend, register your interest here: <a href="https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604" class="linkified">https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604</a></p> '
+  description: '<p>This month, Sitecore’s Technical User group comes to Leeds, hosted by Sagittarius!</p> <p>With only 1 week until the event, join us in Leeds to explore Sitecore 9 features, forms and Sagittarius’ exclusive GDPR 8 Tool.</p> <p>Date: Tuesday May 22nd 2018</p> <p>Time:<br/>6:30pm Welcome drinks<br/>7pm First presentation<br/>9pm Socialising</p> <p>Location: Sky Lounge (DoubleTree by Hilton Hotel Leeds City Centre)</p> <p>The line-up is:</p> <p>Sitecore Install Framework and Sitecore Forms - Johannes Zijistra<br/>Johannes will show how easy it is to install Sitecore 9.0 Update 1 using the Sitecore Install Framework (SIF), and create a live form to use in the next demo.</p> <p>Adding SMS and Push Notifications to Sitecore - Steve McGill<br/>Steve will demo a solution which adds several communication features to Sitecore Forms, EXM and Marketing Automation. This interactive live demo will send automated and bulk SMS using a Twilio integration, and Push Notifications using mobile apps powered by Xamarin Forms. All tracked using the power of XConnect and SignalR and wrapped up by executing the Right To Be Forgotten.</p> <p>The missing pieces in the GDPR jigsaw - Paul Stephen<br/>With GDPR all but upon us, brands still face plenty of uncertainty and issues to overcome for them to be fully compliant. Not least of which, having the tools in place to be able to act on Right to be Forgotten and Data Portability requests in your Sitecore platform.</p> <p>Paul will highlight the tools that are provided in Sitecore 8 &amp; 9 to help you be compliant and how Sagittarius has used these tools to empower its clients to take control of their customer data in xDB and List Manager.</p> <p>There will be chance to Q&amp;A each of the talks, time permitting.</p> <p>Please RSVP so we have a good idea of numbers!</p> <p>- The Sitecore UK User Group Team</p> <p>Sagittarius are also holding a FREE Sitecore 8/9 GDPR specific event on the same day as the STUG from 2-5pm. If you would like to attend, register your interest here: <a href="https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604" class="linkified">https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604</a></p> '
   url: https://www.meetup.com/sug-uk/events/250612115/
   is-free: true
   starts: 2018-05-22T17:00:00.0000000
@@ -120,6 +97,21 @@
   ends: 2018-05-28T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: 'HaintonDotNet Leeds: Real-world .NET Core (now with more 2.0!)'
+  description: "<p>Keith Williams leads the development team at Cascade HR (part of the IRIS Software Group), and is currently modernising an app that has been making sure that employees get their appraisals and, more importantly, get paid, since 1992.</p> <p>Keith has been proudly and successfully running .NET Core apps in production since the heady days of beta4 in 2015, and here he is to share his experience and hard-won knowledge of the field with us.</p> <p>If you've been paddling in the changeable cross-platform waters yourself, are confused and surprised by the current expanding landscape, or are just wondering what the point of it all is, then this talk is for you.</p> <p>Keith will shed light on the history of .Net Core, convince you of the benefits of its adoption, and, through a live demo, give you tips on how to successfully develop and deploy it with minimal friction.</p> "
+  url: https://www.meetup.com/HaintonDotNetYorkshire/events/250184338/
+  is-free: true
+  starts: 2018-05-29T17:00:00.0000000
+  ends: 2018-05-29T19:00:00.0000000
+  venue: Duke Studios
+- name: Kafka at the BBC & Kafka ops at Sky B&G
+  description: "<p>Join us for the 2nd Leeds Apache Kafka meetup on May 29th from 6:00pm hosted by Sky Betting and Gaming in Leeds. The agenda, venue and speaker information can be found below. See you there!</p> <p>-----</p> <p>Agenda:<br/>6:30pm: Doors open<br/>6:30pm - 7:00pm: Pizza &amp; Drinks &amp; Chat<br/>7:00pm - 7:45pm: Please can I have a Kafka Cluster? Meeting the operational scale of Kafka - David Sunter, Sky Betting and Gaming<br/>7:45pm - 8:30pm: As Above, So Below – Building Microservice Pipelines with Kafka and Clojure - Dan Meyers, BBC<br/>8:30 pm - 9:00pm: Additional Q&amp;A and Networking</p> <p>-----</p> <p>- Title: Please can I have a Kafka Cluster? Meeting the operational scale of Kafka<br/>- Speaker: David Sunter, Sky Betting and Gaming.<br/>- Abstract: How Platform Services have gone from supporting 4 Kafka Clusters in 2017, to creating 9 Clusters so far in 2018. Scaling the amount of Clusters to met the demand of SBG and how it's become an integral part of the company's future.<br/>- Bio: David joined SBG in 2016, after background in aerospace engineering. After exploring a range of roles in devops, across SBG, David joined Platform Services where for the last year he has supported Kafka as a service. Kafka is now a key component in the running of real time services for both the Betting and Gaming tribes. David has interests in statistics, analytics and asking the question why? Outside of work he is a passionate sports fan and dog lover.</p> <p>-----</p> <p>- Title: As Above, So Below – Building Microservice Pipelines with Kafka and Clojure<br/>- Speaker: Dan Meyers, BBC<br/>- Abstract: In the beginning was PIPs, an API backed by a relational database used to store all the BBC's programme metadata. But as more clients came, with more requirements and ever more complex queries, the system became unwieldy to develop and use. The Programme Metadata team turned to a combination of a Kafka platform and Clojure microservices running in AWS to produce multiple pipelines, one per client requirement. This setup turns the normal ETL pipeline on its head, with one consistent backend and multiple differing outputs. This talk will show some common patterns used by the team, how they use the microservice approach to quickly spin up new client pipelines, and how the structure of Clojure mirrors and supports the way they use Kafka.<br/>- Bio: Dan graduated in 2004 and spent 10 years working as a Network Engineer. In 2014, realising that the bits of the job he enjoyed the most all involved coding, he changed tack to become a Software Engineer for the BBC in Manchester, UK. He is now a Senior Software Engineer in the Programme Metadata team, delivering scalable and reliable APIs used as part of the backend to the BBC's programme distribution through iPlayer, /programmes, schedule EPGs, and third parties like Sky and Virgin's on-demand services or the American \"BritBox\" streaming platform. He has the world's best Labrador.</p> <p>-----</p> <p>The full address for the venue is:</p> <p>Sky Betting &amp; Gaming<br/>3rd Floor<br/>6 Wellington Place<br/>Leeds<br/>LS1 4AP</p> <p>For people who have visited the Sky Betting &amp; Gaming offices previously, this is our new building.</p> <p>There is wheelchair access. There is basic seating, an accessible toilet, a gender neutral toilet, and general car parking. There is a designated quiet space by request in advance. This isn’t a hearing loop, or a bsl interpreter. There is a level route from the NCP car park (which has limited accessible parking spaces), CitiPark, and the train station. The venue is on the 3rd floor with multiple lifts available.</p> <p>Car parking: <a href=\"http://www.wellingtonplace.co.uk\" class=\"linkified\">http://www.wellingtonplace.co.uk</a></p> "
+  url: https://www.meetup.com/Leeds-Kafka/events/250652097/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/0/a/c/thumb_466557516.jpeg
+  starts: 2018-05-29T17:30:00.0000000
+  ends: 2018-05-29T20:00:00.0000000
+  venue: Sky Betting and Gaming
 - name: York Code Dojo June Meetup - Bit Coin Mining
   description: '<p>This month we will be trying to get rich* by mining bit coins!! Adam has kindly setup a simplified bin coin server for us to use. No prior knowledge of bit coins or complicated Maths is needed.</p> <p>* By rich, I mean rich in knowledge rather than hard cash :-)</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/250629803/
@@ -574,6 +566,15 @@
   ends: 2018-10-31T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxpbhb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-11-05T07:30:00.0000000
+  ends: 2018-11-05T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxpbtb/
@@ -708,3 +709,41 @@
   logo: https://www.ypsyork.org/wp-content/uploads/2018/03/Shropshire-pic-1-200x125.jpg
   starts: 2018-09-26T00:00:00.0000000
   ends: 2018-09-26T23:00:00.0000000
+- name: 'All Our Futures: An education fit for the world of the mid-21st century'
+  description: >
+    What is education really about if not building the future?
+
+
+    In modern times, the pace of change has quickened with every passing generation and shows no sign of slowing down. What sort of education does this generation of young people need to help it meet the demands, opportunities and challenges of that future? 
+
+
+    Guided by the provocative thoughts of real experts in the fields of AI, biotechnology, the environment, the economy, lifespan & the future of work, and societal values/morality, delegates will work together to draw up A Manifesto for an Education for All Our Futures which will be shared with policy makers and opinion formers around the country. 
+
+
+    The speakers are:
+
+
+    Rohit Talwar CEO Fast Future Research: international speaker and consultant; joint author of Future Reinvented – Reimagining Life, Society, and Business and Beyond Genuine Stupidity – Ensuring AI Serves Humanity
+
+
+    Kresse Wesling Environmental entrepreneur and campaigner: founder of Elvis & Kresse, which turns industrial waste into innovative lifestyle products and returns 50% of profits to charities and organisations related to the waste
+
+
+    Nick Gowing Journalist and presenter with BBC News 24, ITN and Channel 4 News; extensive reporting experience in diplomacy, defence and international security; currently Visiting Professor in the School of Social Science and Public Policy at Kings College, London
+
+
+    Jules Evans Policy Director of Centre for the History of the Emotions, Queen Mary University, London; author of Philosophy for Life and Other Dangerous Situations and The Art of Losing Control
+
+
+    Mike Shaw is a full-time geek, teaching non-stop at Bootham School since the 80s.  He is passionately interested in the future because that’s where he intends to spend the rest of his life.  His only regret is that he was born too late to meet Isaac Newton and too soon to visit Mars
+
+
+    Hosted by:
+
+
+    Chris Jeffery Headmaster of Bootham School and Bristol Rovers fan
+  url: https://bootham-school.ticketleap.com/all-our-futures-an-education-fit-for-the-world-of-the-mid-21st-/
+  logo: https://ticketleap-media-master.s3.amazonaws.com/05489740-6061-4003-bf90-d586bcb4cc24/full.jpg
+  starts: 2018-06-11T21:45:00.0000000
+  ends: 2018-06-11T21:45:00.0000000
+  venue: Bootham School - Assembly Hall
