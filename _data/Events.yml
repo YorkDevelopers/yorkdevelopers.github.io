@@ -1,28 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250645641/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-05-16T06:30:00.0000000
-  ends: 2018-05-16T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/250645746/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-05-16T07:00:00.0000000
-  ends: 2018-05-16T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Symfony 4 (Flex included) -  Jakub Zalas, and Super Marek’s Testing Strategy
-  description: "<p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided. We will have vegetarian food, if you have any other dietary requirements or questions please send us a message.<br/>_______________________________</p> <p>★ The Talks</p> <p>✩ Symfony 4 (Flex included)<br/>Jakub Zalas <a href=\"https://twitter.com/jakub_zalas\" class=\"linkified\">https://twitter.com/jakub_zalas</a></p> <p>\"Symfony 4 is a result of evolution of the popular framework. While it's not a revolution, there's lots of things included that make our life much easier and more fun! Symfony was moved closer to industry practices with application bundles gone, simplified directory structure, or environment variables preferred over configuration parameters.</p> <p>Both versions 2 and 3 has already introduced some nice features, like autowiring, that contributed to what Symfony 4 has become. As a result there is less Symfony specific concepts and more standard practices. It's easier to learn, easier to configure, easier to install and deploy, and finally easier to master.</p> <p>If that wasn't enough, our workflow was much improved with the introduction of Symfony Flex, a new way to install and manage Symfony applications. It's time to say goodbye to both Symfony installer and the Standard Edition!\"</p> <p>Jakub Zalas is an independent software consultant, architect and trainer, who helps teams to deliver software that survives change. Being focused on quality, Jakub promotes agile development practices like test driven development. In his spare time, he speaks at conferences and contributes to open source.</p> <p>✩ Super Marek’s Testing Strategy<br/>Marek Matulka <a href=\"https://twitter.com/super_marek\" class=\"linkified\">https://twitter.com/super_marek</a></p> <p>\"I will talk about choosing the right testing strategy for the project based on my personal experience working with customers like Dixons, Carphone Warehouse, Financial Times, and Talk Talk.\"</p> <p>Agile Software Engineer. World Traveller. Frequent Flyer. Plane Spotter. Amateur Photographer. I say what I think, not what you want to hear.<br/>_______________________________</p> <p>★ Timings</p> <p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – Super Marek’s Testing Strategy - Marek Matulka<br/>19:30 – A little break<br/>19:30 – Symfony 4 (Flex included) - Jakub Zalas<br/>20:10ish – Pop over to the pub for a chat and a drink</p> <p>_______________________________</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform (<a href=\"https://bruntwood.co.uk/our-locations/leeds/platform/\" class=\"linkified\">https://bruntwood.co.uk/our-locations/leeds/platform/</a>) – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Sky Betting &amp; Gaming (<a href=\"http://skybetcareers.com/about-us\" class=\"linkified\">http://skybetcareers.com/about-us</a>) – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their careers page (<a href=\"http://skybetcareers.com/\" class=\"linkified\">http://skybetcareers.com/</a>) provides great detail as to the working environment and range of work available across the technology stack. @skybetcareers (<a href=\"https://twitter.com/skybetcareers\" class=\"linkified\">https://twitter.com/skybetcareers</a>)</p> <p>• Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) – Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href=\"https://twitter.com/InfinityWorks\" class=\"linkified\">https://twitter.com/InfinityWorks</a>)</p> "
-  url: https://www.meetup.com/leedsphp/events/246435867/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
-  starts: 2018-05-16T17:30:00.0000000
-  ends: 2018-05-16T19:30:00.0000000
-  venue: Platform
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250695591/
@@ -112,15 +87,6 @@
   starts: 2018-05-29T17:30:00.0000000
   ends: 2018-05-29T20:00:00.0000000
   venue: Sky Betting and Gaming
-- name: York Code Dojo June Meetup - Bit Coin Mining
-  description: '<p>This month we will be trying to get rich* by mining bit coins!! Adam has kindly setup a simplified bin coin server for us to use. No prior knowledge of bit coins or complicated Maths is needed.</p> <p>* By rich, I mean rich in knowledge rather than hard cash :-)</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/250629803/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2018-06-13T17:30:00.0000000
-  ends: 2018-06-13T20:00:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxhbnc/
@@ -129,6 +95,31 @@
   starts: 2018-05-30T06:30:00.0000000
   ends: 2018-05-30T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxhbnc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-05-30T07:00:00.0000000
+  ends: 2018-05-30T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: May - TBC & Luke Bonaccorsi
+  description: '<p>Join us to hear from Luke Bonaccorsi, as well as a chance to win a code for a year subscription to Frontend Masters!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: TBC<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Luke Bonaccorsi - Painting Pixels With Web Bluetooth<br/>8:20 - 9:25: Social &amp; point that people can leave<br/>9:25 - 9:30: Pack up and leave</p> <p>Talks:<br/>Luke Bonaccorsi - Painting Pixels With Web Bluetooth<br/>"Bluetooth is everywhere nowadays, you can find it in door locks, heart rate monitors and even in forks. However, this usually means that we also have an app for each device taking up space on our phones, no matter how infrequently we use it. Wouldn’t it be great if we could just use the web?</p> <p>With Web Bluetooth, we can control these devices through the browser! In this talk we’ll take a look at the basics of Web Bluetooth, the Bluetooth Low Energy GATT layer and how to use these through JavaScript using the practical example of how I built an interactive LED pixel display. By the end, I hope you’ll be inspired to try controlling your Bluetooth devices through the browser!"</p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href="https://leedsjs.github.io/code-of-conduct/" class="linkified">https://leedsjs.github.io/code-of-conduct/</a></p> '
+  url: https://www.meetup.com/LeedsJS/events/250574247/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2018-05-30T17:30:00.0000000
+  ends: 2018-05-30T20:00:00.0000000
+  venue: Platform
+- name: York Code Dojo June Meetup - Bit Coin Mining
+  description: '<p>This month we will be trying to get rich* by mining bit coins!! Adam has kindly setup a simplified bin coin server for us to use. No prior knowledge of bit coins or complicated Maths is needed.</p> <p>* By rich, I mean rich in knowledge rather than hard cash :-)</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/250629803/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2018-06-13T17:30:00.0000000
+  ends: 2018-06-13T20:00:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
@@ -622,6 +613,14 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-04-18T18:00:00.0000000
   ends: 2019-04-18T21:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzhbvb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-05-16T18:00:00.0000000
+  ends: 2019-05-16T21:00:00.0000000
   endorsed: true
 - name: '&#8220;Uncovering the Yorkshire Jurassic&#8221; Symposium'
   description: <strong>&#8220;Uncovering the Yorkshire Jurassic&#8221; Symposium</strong>
