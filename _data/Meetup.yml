@@ -1,11 +1,3 @@
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250695591/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-05-17T18:00:00.0000000
-  ends: 2018-05-17T21:00:00.0000000
-  endorsed: true
 - name: Filmmaking hackathon for data-driven storytelling
   description: '<p><b>I am not the organiser of this hackathon and I will not be attending this hackathon.</p> <p>Sign up on Eventbrite here - <a href="https://www.eventbrite.co.uk/e/filmmaking-hackathon-for-data-driven-storytelling-tickets-43559314081?aff=es2" class="linkified">https://www.eventbrite.co.uk/e/filmmaking-hackathon-for-data-driven-storytelling-tickets-43559314081?aff=es2</a></b></p> <p>Increasing amounts of data exists about us, but data literacy is not widespread. How can personalised video stories be crafted to present data to the public in an inclusive and engaging manner? What stories can be told with data and how will you craft a data-driven narrative?</p> <p>Personalized and interactive documentaries such as <a href="https://donottrack-doc.com/en/intro/">Do Not Track</a>, and <a href="http://www.netwars-project.com/webdoc">Netwars</a> demonstrate the potential for video based storytelling to tackle substantive topics such as privacy, the web economy and cyberwarfare.</p> <p>This will be a hands-on session building working prototypes of personalised video stories and developing innovative scenarios and use-cases for this emergent medium. Over the course of the weekend we will explore different data-driven approaches to creating personalised narratives and devise new ways to support public engagement with data.</p> <p>Presented by the EPSRC funded Perspective Media project (Personalised Video Storytelling for Data Engagement), the event will provide a space for exploring how personalized, interactive video stories can provide more accessible, informative and pleasurable ways for the public to engage with the increasing amounts of data that exist about us in modern society.</p> <p>Project partnersBBC R&amp;DThe Open Data InstituteThe Digital CatapultCity of York CouncilBAFTA-winning immersive media producer Catherine Allen</p> <p>Who should attend?</p> <p>Anyone interested in data-driven, non-linear and innovative modes of storytelling. Do you produce video content to tell engaging stories? Do you understand challenges associated with data literacy and accessibility? Are you a coding ninja? Open data maestro? A Data wrangler? Do you know how to extract patterns and insights from large datasets? If so, we want you along!</p> <p>In particular we encourage:</p> <p>Students of Interactive Media / Data Journalism /Film &amp; Television ProductionUser Experience &amp; Interaction DesignersFilmmakersData Scientists &amp; Data Engagement specialists</p> <p>Why you should attend</p> <p>This will be an exciting opportunity to experiment with an emergent form of interactive data-driven storytelling and get hands on experience of using object based media tools and libraries created by the University of York and BBC R&amp;D.</p> <p>There will be coaching and feedback sessions with experts in interactive media to help you create something exciting. There is also the possibility for ongoing support and development of a successful protoype created during the hackathon.</p> <p>Further details</p> <p>All meals will be provided throughout the course of the weekend. As well as lots of coffee and snacks to keep you going!</p> <p>A more detailed schedule will be added shortly.</p> <p>If you have any questions about the event or would like to discuss any specific requirements please email <a href="mailto:[masked]">[masked]</a>.</p> '
   url: https://www.meetup.com/UK-Hackathons-and-Jams/events/248832576/
@@ -40,7 +32,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxhbfc/
+  url: https://www.meetup.com/YorkDevelopers/events/250870074/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-05-23T06:30:00.0000000
@@ -49,7 +41,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxhbfc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/250871074/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-05-23T07:00:00.0000000
@@ -112,6 +104,21 @@
   starts: 2018-05-30T17:30:00.0000000
   ends: 2018-05-30T20:00:00.0000000
   venue: Platform
+- name: Outside-In Test-Driven Development (TDD)
+  description: '<p>Outside-In TDD (AKA London School) is a TDD style developed and adopted by some of the first XP practitioners in London which begins with writing an Acceptance Test for a feature and test driving the code out to implement that feature by concentrating on collaborating objects and behaviour. This session will demonstrate some of the techniques required by this approach, help you appreciate some of the potential pitfalls such as over-engineering and an over use of Mocking and how it enables you to more easily write better Object-Oriented code.</p> <p>Ian Russell is an experienced agile software developer with a keen interest in software craftsmanship and functional programming in F#. He is the organiser of <a href="http://Warwickshire.Net" class="linkified">http://Warwickshire.Net</a> , a principles-focussed user group for the Warwickshire/West Midlands .Net community.</p> '
+  url: https://www.meetup.com/Leeds-Sharp/events/250090865/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2018-05-31T17:30:00.0000000
+  ends: 2018-05-31T20:00:00.0000000
+  venue: Platform
+- name: Leeds Ruby Thing meetup
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are a few short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  url: https://www.meetup.com/LeedsRubyThing/events/250713970/
+  is-free: true
+  starts: 2018-05-31T18:30:00.0000000
+  ends: 2018-05-31T22:30:00.0000000
+  venue: Veritas Ale & Wine Bar
 - name: York Code Dojo June Meetup - Bit Coin Mining
   description: '<p>This month we will be trying to get rich* by mining bit coins!! Adam has kindly setup a simplified bin coin server for us to use. No prior knowledge of bit coins or complicated Maths is needed.</p> <p>* By rich, I mean rich in knowledge rather than hard cash :-)</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/250629803/
@@ -564,6 +571,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-11-05T07:30:00.0000000
   ends: 2018-11-05T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxpbkb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-11-07T07:30:00.0000000
+  ends: 2018-11-07T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
