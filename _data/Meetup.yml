@@ -1,14 +1,5 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250802193/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-05-21T06:30:00.0000000
-  ends: 2018-05-21T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
 - name: Leeds May 2018 User Group
-  description: '<p>This month, Sitecore’s Technical User group comes to Leeds, hosted by Sagittarius!</p> <p>With only 1 week until the event, join us in Leeds to explore Sitecore 9 features, forms and Sagittarius’ exclusive GDPR 8 Tool.</p> <p>Date: Tuesday May 22nd 2018</p> <p>Time:<br/>6:30pm Welcome drinks<br/>7pm First presentation<br/>9pm Socialising</p> <p>Location: Sky Lounge (DoubleTree by Hilton Hotel Leeds City Centre)</p> <p>The line-up is:</p> <p>Sitecore Install Framework and Sitecore Forms - Johannes Zijistra<br/>Johannes will show how easy it is to install Sitecore 9.0 Update 1 using the Sitecore Install Framework (SIF), and create a live form to use in the next demo.</p> <p>Adding SMS and Push Notifications to Sitecore - Steve McGill<br/>Steve will demo a solution which adds several communication features to Sitecore Forms, EXM and Marketing Automation. This interactive live demo will send automated and bulk SMS using a Twilio integration, and Push Notifications using mobile apps powered by Xamarin Forms. All tracked using the power of XConnect and SignalR and wrapped up by executing the Right To Be Forgotten.</p> <p>The missing pieces in the GDPR jigsaw - Paul Stephen<br/>With GDPR all but upon us, brands still face plenty of uncertainty and issues to overcome for them to be fully compliant. Not least of which, having the tools in place to be able to act on Right to be Forgotten and Data Portability requests in your Sitecore platform.</p> <p>Paul will highlight the tools that are provided in Sitecore 8 &amp; 9 to help you be compliant and how Sagittarius has used these tools to empower its clients to take control of their customer data in xDB and List Manager.</p> <p>There will be chance to Q&amp;A each of the talks, time permitting.</p> <p>Please RSVP so we have a good idea of numbers!</p> <p>- The Sitecore UK User Group Team</p> <p>Sagittarius are also holding a FREE Sitecore 8/9 GDPR specific event on the same day as the STUG from 2-5pm. If you would like to attend, register your interest here: <a href="https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604" class="linkified">https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604</a></p> '
+  description: '<p>This month, Sitecore’s Technical User group comes to Leeds, hosted by Sagittarius!</p> <p>With only 1 day until the event, join us in Leeds to explore Sitecore 9 features, forms and Sagittarius’ exclusive GDPR 8 Tool.</p> <p>Date: Tuesday May 22nd 2018</p> <p>Time:<br/>6:30pm Welcome drinks<br/>7pm First presentation<br/>9pm Socialising</p> <p>Location: Sky Lounge (DoubleTree by Hilton Hotel Leeds City Centre)</p> <p>The line-up is:</p> <p>Sitecore Install Framework and Sitecore Forms - Johannes Zijlstra<br/>Johannes will show how easy it is to install Sitecore 9.0 Update 1 using the Sitecore Install Framework (SIF), and create a live form to use in the next demo.</p> <p>Adding SMS and Push Notifications to Sitecore - Steve McGill<br/>Steve will demo a solution which adds several communication features to Sitecore Forms, EXM and Marketing Automation. This interactive live demo will send automated and bulk SMS using a Twilio integration, and Push Notifications using mobile apps powered by Xamarin Forms. All tracked using the power of XConnect and SignalR and wrapped up by executing the Right To Be Forgotten.</p> <p>The missing pieces in the GDPR jigsaw - Paul Stephen<br/>With GDPR all but upon us, brands still face plenty of uncertainty and issues to overcome for them to be fully compliant. Not least of which, having the tools in place to be able to act on Right to be Forgotten and Data Portability requests in your Sitecore platform.</p> <p>Paul will highlight the tools that are provided in Sitecore 8 &amp; 9 to help you be compliant and how Sagittarius has used these tools to empower its clients to take control of their customer data in xDB and List Manager.</p> <p>There will be chance to Q&amp;A each of the talks, time permitting.</p> <p>Please RSVP so we have a good idea of numbers!</p> <p>- The Sitecore UK User Group Team</p> <p>Sagittarius are also holding a FREE Sitecore 8/9 GDPR specific event on the same day as the STUG from 2-5pm. If you would like to attend, register your interest here: <a href="https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604" class="linkified">https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604</a></p> '
   url: https://www.meetup.com/sug-uk/events/250612115/
   is-free: true
   starts: 2018-05-22T17:00:00.0000000
@@ -112,13 +103,6 @@
   starts: 2018-05-31T18:30:00.0000000
   ends: 2018-05-31T22:30:00.0000000
   venue: Veritas Ale & Wine Bar
-- name: GroupBy - Live at Leeds (Free Database Training)
-  description: "<p>GroupBy is a free online conference technical by the community, for the community. Anyone can submit abstracts on any topic and the community chooses what they want to see.</p> <p>It's online but we thought, why not make it a little bit more social and stream it with our fellow data geeks; maybe even with some food and beer. After all, it's a Friday afternoon.</p> <p>Schedule<br/>13:00 : Columnstore Clustered vs Nonclustered, When to Choose What by Niko Neugebauer<br/>14:15 – How to Monitor Everything by Maria Zakourdaev<br/>15:30 – Advanced Query Tuning Techniques by Guy Glantser<br/>16:45 – Getting Better Query Plans by Improving SQL’s Estimates by Brent Ozar<br/>18:00 – The Agile DBA: A Guide to Database DevOps with SSDT by Ryan Booz</p> <p>GroupBy was started by Brent Ozar and is a project of Brent Ozar Unlimited.</p> "
-  url: https://www.meetup.com/Data-Platform/events/249419824/
-  is-free: true
-  starts: 2018-06-01T12:00:00.0000000
-  ends: 2018-06-01T17:00:00.0000000
-  venue: Platform
 - name: Double Bill - Elasticsearch and JavaScript Performance
   description: '<p>This session will be split into 2 talks, "Elasticsearch? do I need it? and how do I get it working with my .NET code?" by David Betteridge and "Performance Javascript Era" by Benjamin Howarth.</p> <p>Elasticsearch? do I need it? and how do I get it working with my .NET code?<br/>David Betteridge, full details are TBC</p> <p>Performance in the Javascript Era<br/>More than just tips, tricks, metrics and clicks, from code to cloud and back again - performance on the web has gone way beyond "oh just put your CSS in the header and your Javascript in the footer".</p> <p>More often approached as an afterthought, this primer will cover some essential ground on how to approach measuring website and web app performance, along with some quick wins, through to some more lower-level technical nuances with HTTP2, compression, and header management, and finally putting all our tools together to comprehensively and continuously keep a watchful eye on your performance metrics.</p> <p>Topic will include ASP.NET and NodeJS samples, and slides &amp; code will be made available on Github well in advance.</p> <p>Benjamin Howarth is a freelance ASP.NET architect &amp; senior developer, specialising in open-source content management systems. His experience in high-scale high-performance websites has been a strength over the past 5 years, working for Tesco, FIA Formula E, Universal Music Group, and Manchester Airport Group. He can be found @benjaminhowarth on Twitter.</p> '
   url: https://www.meetup.com/dotnetYork/events/249826273/
@@ -127,6 +111,24 @@
   starts: 2018-06-01T17:30:00.0000000
   ends: 2018-06-01T20:00:00.0000000
   venue: The Coffee Bureau
+- name: dotnetYork June Meetup - Elasticsearch and JavaScript Performance
+  description: '<p>RSVP at: <a href="https://www.meetup.com/dotnetYork/events/249826273/" class="linkified">https://www.meetup.com/dotnetYork/events/249826273/</a></p> '
+  url: https://www.meetup.com/YorkDevelopers/events/250995885/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-06-01T17:30:00.0000000
+  ends: 2018-06-01T19:30:00.0000000
+  venue: The Coffee Bureau
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/250963882/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-06-04T06:30:00.0000000
+  ends: 2018-06-04T09:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
 - name: York Code Dojo June Meetup - Bit Coin Mining
   description: '<p>This month we will be trying to get rich* by mining bit coins!! Adam has kindly setup a simplified bin coin server for us to use. No prior knowledge of bit coins or complicated Maths is needed.</p> <p>* By rich, I mean rich in knowledge rather than hard cash :-)</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/250629803/
@@ -138,21 +140,20 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250963882/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-06-04T06:30:00.0000000
-  ends: 2018-06-04T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250963883/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-06-06T06:30:00.0000000
   ends: 2018-06-06T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: 'Front-End-York - GDPR at the Coalface & Decoupling from Google Maps '
+  description: "<p>Join us for another great evening of front-end discussions and socialising</p> <p>GDPR - Love it a loath it we've all got to deal with it! We'll be joined by Jim Semlyen for our first talk on GDPR from the perspective of a small web development company in York city centre</p> <p>Following a short break Andy Callaghan will be giving us a technical talk about how we might using Google Maps JS badly on our websites, the technical debt that comes with it and a few modern development techniques to use it well.</p> <p>Venue TBC</p> <p>RSVP will open 1 week before the MeetUp</p> <p>Looking forward to seeing you there!</p> "
+  url: https://www.meetup.com/YorkDevelopers/events/250995360/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-06-06T18:00:00.0000000
+  ends: 2018-06-06T20:00:00.0000000
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
@@ -162,6 +163,15 @@
   starts: 2018-06-11T06:30:00.0000000
   ends: 2018-06-11T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: York Code Dojo June Meetup - Bit Coin Mining
+  description: '<p>RSVP at <a href="https://www.meetup.com/York-Code-Dojo/events/250629803/" class="linkified">https://www.meetup.com/York-Code-Dojo/events/250629803/</a></p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/250995208/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-06-12T17:30:00.0000000
+  ends: 2018-06-12T20:00:00.0000000
+  venue: York St. John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
