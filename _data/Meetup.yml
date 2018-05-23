@@ -1,19 +1,3 @@
-- name: Leeds May 2018 User Group
-  description: '<p>This month, Sitecore’s Technical User group comes to Leeds, hosted by Sagittarius!</p> <p>With only 1 day until the event, join us in Leeds to explore Sitecore 9 features, forms and Sagittarius’ exclusive GDPR 8 Tool.</p> <p>Date: Tuesday May 22nd 2018</p> <p>Time:<br/>6:30pm Welcome drinks<br/>7pm First presentation<br/>9pm Socialising</p> <p>Location: Sky Lounge (DoubleTree by Hilton Hotel Leeds City Centre)</p> <p>The line-up is:</p> <p>Sitecore Install Framework and Sitecore Forms - Johannes Zijlstra<br/>Johannes will show how easy it is to install Sitecore 9.0 Update 1 using the Sitecore Install Framework (SIF), and create a live form to use in the next demo.</p> <p>Adding SMS and Push Notifications to Sitecore - Steve McGill<br/>Steve will demo a solution which adds several communication features to Sitecore Forms, EXM and Marketing Automation. This interactive live demo will send automated and bulk SMS using a Twilio integration, and Push Notifications using mobile apps powered by Xamarin Forms. All tracked using the power of XConnect and SignalR and wrapped up by executing the Right To Be Forgotten.</p> <p>The missing pieces in the GDPR jigsaw - Paul Stephen<br/>With GDPR all but upon us, brands still face plenty of uncertainty and issues to overcome for them to be fully compliant. Not least of which, having the tools in place to be able to act on Right to be Forgotten and Data Portability requests in your Sitecore platform.</p> <p>Paul will highlight the tools that are provided in Sitecore 8 &amp; 9 to help you be compliant and how Sagittarius has used these tools to empower its clients to take control of their customer data in xDB and List Manager.</p> <p>There will be chance to Q&amp;A each of the talks, time permitting.</p> <p>Please RSVP so we have a good idea of numbers!</p> <p>- The Sitecore UK User Group Team</p> <p>Sagittarius are also holding a FREE Sitecore 8/9 GDPR specific event on the same day as the STUG from 2-5pm. If you would like to attend, register your interest here: <a href="https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604" class="linkified">https://www.eventbrite.co.uk/e/sitecore-9-experience-cloud-the-gdpr-challenge-tickets-45428746604</a></p> '
-  url: https://www.meetup.com/sug-uk/events/250612115/
-  is-free: true
-  starts: 2018-05-22T17:00:00.0000000
-  ends: 2018-05-22T20:00:00.0000000
-  venue: DoubleTree by Hilton
-- name: York Swift - First Meetup
-  description: "<p>York Swift is For developers &amp; learners who love to share their experiences, knowledge and insights the Swift programming language. All skill levels welcome, come join us at our monthly meetup.</p> <p>Agenda</p> <p>\U0001F596 Introductions<br/>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>\U0001F4E2 News<br/>WWDC 2018 keynote is 4th June 2018, lets quickly go over rumors and what to expect.</p> <p>\U0001F393 Resources for learning<br/>Newsletters, blogs and feeds to keep an eye on.</p> <p>\U0001F680 Code walk through<br/>A quick dive into a small demo I wrote for the York Dojo meetup. Let's see some code.</p> <p>\U0001F64B Questions<br/>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>\U0001F37B York Swift Social<br/>Let's migrate a few doors down for refreshments and banter.</p> "
-  url: https://www.meetup.com/YorkDevelopers/events/250606863/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-05-22T18:00:00.0000000
-  ends: 2018-05-22T20:00:00.0000000
-  venue: The Coffee Bureau
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250870074/
@@ -129,6 +113,22 @@
   ends: 2018-06-04T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: ExpertTalks Leeds - Innovation Special inc Guest Speaker from Hermes Inn
+  description: '<p>Session One</p> <p>THREE TYPES OF DISRUPTION INNOVATION - WHAT ARE THE OPTIONS? We’re going to look at 3 types of disruption, 3 models for forecasting disruption and then do 3 worked examples of 3 sectors likely to face disruption in the next 3 years.</p> <p>This will give you a sense of how to know when and how disruption is likely plus what kind of things can you do to get ready and respond.</p> <p>SPEAKER</p> <p>Simon Bostock, Delivery Manager</p> <p>Equal Experts</p> <p>****</p> <p>Session Two</p> <p>Welcome to our first ever Guest speaker at ExpertTalks Leeds</p> <p>HERMES INNOVATION LAB - DELIVERING THE FUTURE</p> <p>The lab opened in a new office at Aire Street, Leeds on October 2016 with the remit to “Work with the latest technology to push the boundaries of innovation in the logistics industry.” Our lofty goal at the time went something like: “Nothing is out of bounds in our aim to disrupt, as well as predict trends that will deliver compelling new experiences and interactions. What Google is to ‘search’ and Amazon is to ‘buy’, Hermes will be to ‘delivery’”.</p> <p>Now, almost 18 months in, I will be talking about all that we have managed to achieve in that time and the fun (lots) and pain (not too much) that we had in doing it using a heady mix of videos, powerpoint and plain old talking, with subjects including robots, digital assistants, a chicken and Google Glass.</p> <p>SPEAKERS</p> <p>Robert Walters, Full Stack Developer</p> <p>Hermes Innovation Lab</p> <p>&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;</p> <p>**Food and drink will be provided - we look forward to seeing you there!**</p> <p>&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;</p> '
+  url: https://www.meetup.com/ExpertTalks-Leeds/events/246514076/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2018-06-05T17:00:00.0000000
+  ends: 2018-06-05T20:00:00.0000000
+  venue: Lamberts yard,
+- name: LeedsDevops - June 2018 Meetup
+  description: "<p>With just over 200 shopping days until Christmas it must be time for the June devops meetup at the ODI Node in Leeds on Tuesday 5th June 2018. Yet again we have a bumper line up for you:</p> <p>6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>7:15 - 7:25 : Group updates/news/announcements - Findmypast<br/>7:25 - 8:05 : True North Operations<br/>8:05 - 8:20 : Intermission<br/>8:20 - 9:00 : Hyper Cloud, Hyper Scale, Hyper V - CapGemini<br/>9:00 - late : Decamp to the Wardrobe</p> <p>Our first speaker is Neil Crawford who is head of technology at Findmypast after serving as software architect and technical lead. He made his start in games programming but found his passion for web development working on Lives of the First World War. He blogs on the Findmypast tech blog and is an active member of the local JavaScript meetup in Dundee, Scotland.</p> <p>His talk discusses why a True North is an impossible vision of perfect operations. It is a set of guiding principles that deliver direction and clarity in decision making. Direction and clarity are essential to solving your biggest problems. A True North aligns everyone towards your perfect vision of operations.\"</p> <p>Our second talk is from Indy Bains and Doug Thomson of Capgemini and is entitled \"Hyper Cloud, Hyper Scale, Hyper V\". It covers a demonstration on how Terraform can be utilised to build a globally dispersed multi-OS container platform, spanning numerous cloud providers.</p> <p>Indy is a highly experienced platform architect, software engineer, RedHat 7 Certified System Administrator and AWS Certified Solution Architect with over a decade of delivery experience on UNIX/Linux platforms on large-scale enterprise projects. He specialises in creating continuous delivery and deployment environments, and implementing infrastructure-as-code.</p> <p>Doug is a Platform Automation Engineer with over 17 years experience working on large scale Enterprise services in the Public Sector. Main interests include AWS, open source tooling, Platform Automation and culture/organisation­al change. Doug is also co-organiser of the Birmingham Digital and DevOps Meetup.</p> <p>Once again we say a massive \"Thank You\" to Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) for sponsoring the refreshments and lodgings for the evening, ensuring there are plenty of our favourite refreshments and soft drinks in supply.</p> <p>Code Of Conduct</p> <p>Please note that we have now added an anti harassment policy and code of conduct (<a href=\"https://tmblr.co/ZdJfSq2PpSK99)in\" class=\"linkified\">https://tmblr.co/ZdJfSq2PpSK99)in</a> order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street (not too far from the Adelphi). If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on twitter @leedsdevops (<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>For more details see the event page on leedsdevops.org.uk (<a href=\"http://www.leedsdevops.org.uk/post/174121418925/meetup-tuesday-5th-june-2018-at-the-odi-node-in\" class=\"linkified\">http://www.leedsdevops.org.uk/post/174121418925/meetup-tuesday-5th-june-2018-at-the-odi-node-in</a>)</p> "
+  url: https://www.meetup.com/LeedsDevops/events/250994651/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/a/6/0/thumb_333467712.jpeg
+  starts: 2018-06-05T17:45:00.0000000
+  ends: 2018-06-05T20:00:00.0000000
+  venue: ODI Leeds Node
 - name: York Code Dojo June Meetup - Bit Coin Mining
   description: '<p>This month we will be trying to get rich* by mining bit coins!! Adam has kindly setup a simplified bin coin server for us to use. No prior knowledge of bit coins or complicated Maths is needed.</p> <p>* By rich, I mean rich in knowledge rather than hard cash :-)</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/250629803/
@@ -163,15 +163,6 @@
   starts: 2018-06-11T06:30:00.0000000
   ends: 2018-06-11T09:30:00.0000000
   venue: The Perky Peacock
-  endorsed: true
-- name: York Code Dojo June Meetup - Bit Coin Mining
-  description: '<p>RSVP at <a href="https://www.meetup.com/York-Code-Dojo/events/250629803/" class="linkified">https://www.meetup.com/York-Code-Dojo/events/250629803/</a></p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250995208/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-06-12T17:30:00.0000000
-  ends: 2018-06-12T20:00:00.0000000
-  venue: York St. John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
@@ -598,6 +589,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-11-07T07:30:00.0000000
   ends: 2018-11-07T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxpbqb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-11-12T07:30:00.0000000
+  ends: 2018-11-12T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
