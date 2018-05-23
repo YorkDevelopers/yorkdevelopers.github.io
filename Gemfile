@@ -16,3 +16,11 @@ group :jekyll_plugins do
   gem 'tzinfo'
   gem 'tzinfo-data'
 end
+
+group :test do
+  gem 'capybara'
+  gem 'minitest-color'
+  gem 'rack'
+  gem 'rack-jekyll'
+  gem 'rake'
+end
