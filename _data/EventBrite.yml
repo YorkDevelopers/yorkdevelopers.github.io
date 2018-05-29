@@ -353,6 +353,21 @@
   starts: 2018-06-14T08:30:00.0000000
   ends: 2018-06-14T12:30:00.0000000
   venue: The Principal York
+- name: Hidden Stories of LGBT+ Scientists
+  description: >-
+    Diverse scientists are ideally placed to use their unique experiences to ‘imagine the impossible’ and solve challenging problems. But perhaps surprisingly LGBT+ scientists are often invisible. David Smith of the University of York explores difficulties faced by LGBT+ scientists, highlighting their ongoing work and uncovering hidden stories. Join us for a discussion of cutting-edge science and the politics of identity.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/hidden-stories-of-lgbt-scientists-tickets-45586153412?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44117086/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=1537ffbf353b9d424efe2fe0ab12c28e
+  starts: 2018-06-14T20:00:00.0000000
+  ends: 2018-06-14T21:00:00.0000000
+  venue: Ron Cooke Hub
 - name: 'Digital Handmade: The new Industrial Revolution'
   description: >-
     Digital technologies and tools are producing entirely new working methods, skill sets and consumer products. But unlike the Industrial Revolution, which reduced the role of the craftsperson in the manufacturing process, the digital age is enriching hand techniques. Writer Lucy Johnston introduces the international designers, artists, and craftspeople who are spearheading this latest revolution.
@@ -382,21 +397,6 @@
   logo: https://cdn.evbuc.com/images/44110460/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=8c0befd52fc70fa92d529157a2cfda2f
   starts: 2018-06-11T14:00:00.0000000
   ends: 2018-06-11T17:00:00.0000000
-  venue: Ron Cooke Hub
-- name: Hidden Stories of LGBT+ Scientists
-  description: >-
-    Diverse scientists are ideally placed to use their unique experiences to ‘imagine the impossible’ and solve challenging problems. But perhaps surprisingly LGBT+ scientists are often invisible. David Smith of the University of York explores difficulties faced by LGBT+ scientists, highlighting their ongoing work and uncovering hidden stories. Join us for a discussion of cutting-edge science and the politics of identity.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/hidden-stories-of-lgbt-scientists-tickets-45586153412?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44117086/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=1537ffbf353b9d424efe2fe0ab12c28e
-  starts: 2018-06-14T20:00:00.0000000
-  ends: 2018-06-14T21:00:00.0000000
   venue: Ron Cooke Hub
 - name: 'Bones: Imaging prehistoric and modern women'
   description: >-
@@ -511,22 +511,6 @@
   starts: 2018-06-06T10:30:00.0000000
   ends: 2018-06-13T15:30:00.0000000
   venue: York Plasma Institute
-- name: Zombies in York - 11 Jun
-  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
-  url: https://www.eventbrite.co.uk/e/zombies-in-york-11-jun-tickets-45582033088?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44110580/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=db912c3986efb76ae15b5d93ee008c06
-  starts: 2018-06-11T17:30:00.0000000
-  ends: 2018-06-11T19:00:00.0000000
-  venue: York Explore Library Learning Centre
-- name: Zombies in York - 12 Jun
-  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
-  url: https://www.eventbrite.co.uk/e/zombies-in-york-12-jun-tickets-45582122355?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44110753/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=7578d977f0932b77f69b009b4830cd86
-  starts: 2018-06-12T17:30:00.0000000
-  ends: 2018-06-12T19:00:00.0000000
-  venue: York Explore Library Learning Centre
 - name: Behind the Scenes of... Wolfson Atmospheric Chemistry Laboratories
   description: >-
     Visit the largest and best-equipped laboratories of their kind in the UK and find out about research into air quality and ozone.
@@ -544,6 +528,22 @@
   starts: 2018-06-06T11:00:00.0000000
   ends: 2018-06-13T12:00:00.0000000
   venue: Wolfson Atmospheric Chemistry Laboratories
+- name: Zombies in York - 11 Jun
+  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
+  url: https://www.eventbrite.co.uk/e/zombies-in-york-11-jun-tickets-45582033088?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44110580/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=db912c3986efb76ae15b5d93ee008c06
+  starts: 2018-06-11T17:30:00.0000000
+  ends: 2018-06-11T19:00:00.0000000
+  venue: York Explore Library Learning Centre
+- name: Zombies in York - 12 Jun
+  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
+  url: https://www.eventbrite.co.uk/e/zombies-in-york-12-jun-tickets-45582122355?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44110753/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=7578d977f0932b77f69b009b4830cd86
+  starts: 2018-06-12T17:30:00.0000000
+  ends: 2018-06-12T19:00:00.0000000
+  venue: York Explore Library Learning Centre
 - name: Behind the Scenes of... Biology Teaching Laboratories
   description: >-
     Come and get hands-on with tiny microbes and learn how they influence our lives and that of the planet.
