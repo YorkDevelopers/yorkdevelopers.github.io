@@ -1,12 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250963878/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-05-28T06:30:00.0000000
-  ends: 2018-05-28T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
 - name: 'HaintonDotNet Leeds: Real-world .NET Core (now with more 2.0!)'
   description: "<p>Keith Williams leads the development team at Cascade HR (part of the IRIS Software Group), and is currently modernising an app that has been making sure that employees get their appraisals and, more importantly, get paid, since 1992.</p> <p>Keith has been proudly and successfully running .NET Core apps in production since the heady days of beta4 in 2015, and here he is to share his experience and hard-won knowledge of the field with us.</p> <p>If you've been paddling in the changeable cross-platform waters yourself, are confused and surprised by the current expanding landscape, or are just wondering what the point of it all is, then this talk is for you.</p> <p>Keith will shed light on the history of .Net Core, convince you of the benefits of its adoption, and, through a live demo, give you tips on how to successfully develop and deploy it with minimal friction.</p> "
   url: https://www.meetup.com/HaintonDotNetYorkshire/events/250184338/
@@ -152,15 +143,6 @@
   starts: 2018-06-08T11:30:00.0000000
   ends: 2018-06-08T12:30:00.0000000
   venue: La Bottega Milanese
-- name: York Code Dojo June Meetup - Bit Coin Mining
-  description: '<p>This month we will be trying to get rich* by mining bit coins!! Adam has kindly setup a simplified bin coin server for us to use. No prior knowledge of bit coins or complicated Maths is needed.</p> <p>* By rich, I mean rich in knowledge rather than hard cash :-)</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/250629803/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2018-06-13T17:30:00.0000000
-  ends: 2018-06-13T20:00:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250963884/
@@ -169,6 +151,15 @@
   starts: 2018-06-11T06:30:00.0000000
   ends: 2018-06-11T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: York Code Dojo June Meetup - Bit Coin Mining
+  description: '<p>This month we will be trying to get rich* by mining bit coins!! Adam has kindly setup a simplified bin coin server for us to use. No prior knowledge of bit coins or complicated Maths is needed.</p> <p>* By rich, I mean rich in knowledge rather than hard cash :-)</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/250629803/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2018-06-13T17:30:00.0000000
+  ends: 2018-06-13T20:00:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
