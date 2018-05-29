@@ -353,6 +353,21 @@
   starts: 2018-06-14T08:30:00.0000000
   ends: 2018-06-14T12:30:00.0000000
   venue: The Principal York
+- name: Hidden Stories of LGBT+ Scientists
+  description: >-
+    Diverse scientists are ideally placed to use their unique experiences to ‘imagine the impossible’ and solve challenging problems. But perhaps surprisingly LGBT+ scientists are often invisible. David Smith of the University of York explores difficulties faced by LGBT+ scientists, highlighting their ongoing work and uncovering hidden stories. Join us for a discussion of cutting-edge science and the politics of identity.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/hidden-stories-of-lgbt-scientists-tickets-45586153412?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44117086/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=1537ffbf353b9d424efe2fe0ab12c28e
+  starts: 2018-06-14T20:00:00.0000000
+  ends: 2018-06-14T21:00:00.0000000
+  venue: Ron Cooke Hub
 - name: 'Digital Handmade: The new Industrial Revolution'
   description: >-
     Digital technologies and tools are producing entirely new working methods, skill sets and consumer products. But unlike the Industrial Revolution, which reduced the role of the craftsperson in the manufacturing process, the digital age is enriching hand techniques. Writer Lucy Johnston introduces the international designers, artists, and craftspeople who are spearheading this latest revolution.
@@ -382,21 +397,6 @@
   logo: https://cdn.evbuc.com/images/44110460/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=8c0befd52fc70fa92d529157a2cfda2f
   starts: 2018-06-11T14:00:00.0000000
   ends: 2018-06-11T17:00:00.0000000
-  venue: Ron Cooke Hub
-- name: Hidden Stories of LGBT+ Scientists
-  description: >-
-    Diverse scientists are ideally placed to use their unique experiences to ‘imagine the impossible’ and solve challenging problems. But perhaps surprisingly LGBT+ scientists are often invisible. David Smith of the University of York explores difficulties faced by LGBT+ scientists, highlighting their ongoing work and uncovering hidden stories. Join us for a discussion of cutting-edge science and the politics of identity.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/hidden-stories-of-lgbt-scientists-tickets-45586153412?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44117086/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=1537ffbf353b9d424efe2fe0ab12c28e
-  starts: 2018-06-14T20:00:00.0000000
-  ends: 2018-06-14T21:00:00.0000000
   venue: Ron Cooke Hub
 - name: 'Bones: Imaging prehistoric and modern women'
   description: >-
@@ -511,22 +511,6 @@
   starts: 2018-06-06T10:30:00.0000000
   ends: 2018-06-13T15:30:00.0000000
   venue: York Plasma Institute
-- name: Zombies in York - 11 Jun
-  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
-  url: https://www.eventbrite.co.uk/e/zombies-in-york-11-jun-tickets-45582033088?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44110580/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=db912c3986efb76ae15b5d93ee008c06
-  starts: 2018-06-11T17:30:00.0000000
-  ends: 2018-06-11T19:00:00.0000000
-  venue: York Explore Library Learning Centre
-- name: Zombies in York - 12 Jun
-  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
-  url: https://www.eventbrite.co.uk/e/zombies-in-york-12-jun-tickets-45582122355?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44110753/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=7578d977f0932b77f69b009b4830cd86
-  starts: 2018-06-12T17:30:00.0000000
-  ends: 2018-06-12T19:00:00.0000000
-  venue: York Explore Library Learning Centre
 - name: Behind the Scenes of... Wolfson Atmospheric Chemistry Laboratories
   description: >-
     Visit the largest and best-equipped laboratories of their kind in the UK and find out about research into air quality and ozone.
@@ -544,6 +528,22 @@
   starts: 2018-06-06T11:00:00.0000000
   ends: 2018-06-13T12:00:00.0000000
   venue: Wolfson Atmospheric Chemistry Laboratories
+- name: Zombies in York - 11 Jun
+  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
+  url: https://www.eventbrite.co.uk/e/zombies-in-york-11-jun-tickets-45582033088?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44110580/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=db912c3986efb76ae15b5d93ee008c06
+  starts: 2018-06-11T17:30:00.0000000
+  ends: 2018-06-11T19:00:00.0000000
+  venue: York Explore Library Learning Centre
+- name: Zombies in York - 12 Jun
+  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
+  url: https://www.eventbrite.co.uk/e/zombies-in-york-12-jun-tickets-45582122355?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44110753/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=7578d977f0932b77f69b009b4830cd86
+  starts: 2018-06-12T17:30:00.0000000
+  ends: 2018-06-12T19:00:00.0000000
+  venue: York Explore Library Learning Centre
 - name: Behind the Scenes of... Biology Teaching Laboratories
   description: >-
     Come and get hands-on with tiny microbes and learn how they influence our lives and that of the planet.
@@ -939,15 +939,6 @@
   starts: 2018-06-11T10:30:00.0000000
   ends: 2018-06-11T12:30:00.0000000
   venue: We are moving the training area Please come to main library desk
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250963878/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-05-28T06:30:00.0000000
-  ends: 2018-05-28T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
 - name: 'HaintonDotNet Leeds: Real-world .NET Core (now with more 2.0!)'
   description: "<p>Keith Williams leads the development team at Cascade HR (part of the IRIS Software Group), and is currently modernising an app that has been making sure that employees get their appraisals and, more importantly, get paid, since 1992.</p> <p>Keith has been proudly and successfully running .NET Core apps in production since the heady days of beta4 in 2015, and here he is to share his experience and hard-won knowledge of the field with us.</p> <p>If you've been paddling in the changeable cross-platform waters yourself, are confused and surprised by the current expanding landscape, or are just wondering what the point of it all is, then this talk is for you.</p> <p>Keith will shed light on the history of .Net Core, convince you of the benefits of its adoption, and, through a live demo, give you tips on how to successfully develop and deploy it with minimal friction.</p> "
   url: https://www.meetup.com/HaintonDotNetYorkshire/events/250184338/
@@ -1093,15 +1084,6 @@
   starts: 2018-06-08T11:30:00.0000000
   ends: 2018-06-08T12:30:00.0000000
   venue: La Bottega Milanese
-- name: York Code Dojo June Meetup - Bit Coin Mining
-  description: '<p>This month we will be trying to get rich* by mining bit coins!! Adam has kindly setup a simplified bin coin server for us to use. No prior knowledge of bit coins or complicated Maths is needed.</p> <p>* By rich, I mean rich in knowledge rather than hard cash :-)</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/250629803/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2018-06-13T17:30:00.0000000
-  ends: 2018-06-13T20:00:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250963884/
@@ -1110,6 +1092,15 @@
   starts: 2018-06-11T06:30:00.0000000
   ends: 2018-06-11T09:30:00.0000000
   venue: The Perky Peacock
+  endorsed: true
+- name: York Code Dojo June Meetup - Bit Coin Mining
+  description: '<p>This month we will be trying to get rich* by mining bit coins!! Adam has kindly setup a simplified bin coin server for us to use. No prior knowledge of bit coins or complicated Maths is needed.</p> <p>* By rich, I mean rich in knowledge rather than hard cash :-)</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/250629803/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2018-06-13T17:30:00.0000000
+  ends: 2018-06-13T20:00:00.0000000
+  venue: Room FT/112 York St John University
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
