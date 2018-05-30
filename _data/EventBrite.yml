@@ -340,34 +340,6 @@
   starts: 2018-06-09T15:00:00.0000000
   ends: 2018-06-09T16:00:00.0000000
   venue: Ron Cooke Hub
-- name: RM Integris Insights Meetup - Spring 2018 - York 14th June
-  description: >-
-    The Insights meetups are back again for Spring 18! If you haven't been before it's a great chance to get together with the RM Integris team, be the first to find out about our new developments and do a bit of networking. 
-
-    Book your FREE place now!
-
-    To view the full agenda please click here.
-  url: https://www.eventbrite.co.uk/e/rm-integris-insights-meetup-spring-2018-york-14th-june-tickets-43828723893?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/42471554/244061504650/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,800,400&s=229c53f51fd89bb92a2fe476731e5360
-  starts: 2018-06-14T08:30:00.0000000
-  ends: 2018-06-14T12:30:00.0000000
-  venue: The Principal York
-- name: Hidden Stories of LGBT+ Scientists
-  description: >-
-    Diverse scientists are ideally placed to use their unique experiences to ‘imagine the impossible’ and solve challenging problems. But perhaps surprisingly LGBT+ scientists are often invisible. David Smith of the University of York explores difficulties faced by LGBT+ scientists, highlighting their ongoing work and uncovering hidden stories. Join us for a discussion of cutting-edge science and the politics of identity.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/hidden-stories-of-lgbt-scientists-tickets-45586153412?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44117086/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=1537ffbf353b9d424efe2fe0ab12c28e
-  starts: 2018-06-14T20:00:00.0000000
-  ends: 2018-06-14T21:00:00.0000000
-  venue: Ron Cooke Hub
 - name: 'Digital Handmade: The new Industrial Revolution'
   description: >-
     Digital technologies and tools are producing entirely new working methods, skill sets and consumer products. But unlike the Industrial Revolution, which reduced the role of the craftsperson in the manufacturing process, the digital age is enriching hand techniques. Writer Lucy Johnston introduces the international designers, artists, and craftspeople who are spearheading this latest revolution.
@@ -383,21 +355,19 @@
   starts: 2018-06-16T12:30:00.0000000
   ends: 2018-06-16T13:30:00.0000000
   venue: Ron Cooke Hub
-- name: Imagining Sustainable Electronics
+- name: RM Integris Insights Meetup - Spring 2018 - York 14th June
   description: >-
-    University of York scientists present an interactive workshop investigating a technology we are all reliant on – mobile phones. Dismantle phones, inspect their components and discuss where the materials are sourced and discarded. Learn why technologies are much more than just hardware and how an awareness of their ramifications enables us to design for a better future.
+    The Insights meetups are back again for Spring 18! If you haven't been before it's a great chance to get together with the RM Integris team, be the first to find out about our new developments and do a bit of networking. 
 
-    * * * * * * * * * * * * * * * * * * * * * * * *
+    Book your FREE place now!
 
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/imagining-sustainable-electronics-tickets-45581967893?aff=ebapi
+    To view the full agenda please click here.
+  url: https://www.eventbrite.co.uk/e/rm-integris-insights-meetup-spring-2018-york-14th-june-tickets-43828723893?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/44110460/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=8c0befd52fc70fa92d529157a2cfda2f
-  starts: 2018-06-11T14:00:00.0000000
-  ends: 2018-06-11T17:00:00.0000000
-  venue: Ron Cooke Hub
+  logo: https://cdn.evbuc.com/images/42471554/244061504650/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,800,400&s=229c53f51fd89bb92a2fe476731e5360
+  starts: 2018-06-14T08:30:00.0000000
+  ends: 2018-06-14T12:30:00.0000000
+  venue: The Principal York
 - name: 'Bones: Imaging prehistoric and modern women'
   description: >-
     Bones – imaging prehistoric and modern women
@@ -417,6 +387,36 @@
   starts: 2018-06-12T19:30:00.0000000
   ends: 2018-06-12T20:30:00.0000000
   venue: Tempest Anderson Hall
+- name: Hidden Stories of LGBT+ Scientists
+  description: >-
+    Diverse scientists are ideally placed to use their unique experiences to ‘imagine the impossible’ and solve challenging problems. But perhaps surprisingly LGBT+ scientists are often invisible. David Smith of the University of York explores difficulties faced by LGBT+ scientists, highlighting their ongoing work and uncovering hidden stories. Join us for a discussion of cutting-edge science and the politics of identity.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/hidden-stories-of-lgbt-scientists-tickets-45586153412?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44117086/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=1537ffbf353b9d424efe2fe0ab12c28e
+  starts: 2018-06-14T20:00:00.0000000
+  ends: 2018-06-14T21:00:00.0000000
+  venue: Ron Cooke Hub
+- name: Imagining Sustainable Electronics
+  description: >-
+    University of York scientists present an interactive workshop investigating a technology we are all reliant on – mobile phones. Dismantle phones, inspect their components and discuss where the materials are sourced and discarded. Learn why technologies are much more than just hardware and how an awareness of their ramifications enables us to design for a better future.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/imagining-sustainable-electronics-tickets-45581967893?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44110460/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=8c0befd52fc70fa92d529157a2cfda2f
+  starts: 2018-06-11T14:00:00.0000000
+  ends: 2018-06-11T17:00:00.0000000
+  venue: Ron Cooke Hub
 - name: Chemistry Sixth Form Conference 2018
   description: >-
     This conference in the Department of Chemistry at the University of York is for post-16 students (Year 12 or equivalent), and will provide a taste of what it is like to study chemistry at university through a packed programme of talks and workshops.
@@ -494,6 +494,14 @@
   starts: 2018-06-07T18:30:00.0000000
   ends: 2018-06-07T19:30:00.0000000
   venue: York Explore Library and Archive
+- name: Zombies in York - 12 Jun
+  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
+  url: https://www.eventbrite.co.uk/e/zombies-in-york-12-jun-tickets-45582122355?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44110753/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=7578d977f0932b77f69b009b4830cd86
+  starts: 2018-06-12T17:30:00.0000000
+  ends: 2018-06-12T19:00:00.0000000
+  venue: York Explore Library Learning Centre
 - name: Behind the Scenes of... York Plasma Institute and Laboratories
   description: >-
     Learn about fusion energy, laser-plasma interaction and advanced manufacturing.
@@ -528,22 +536,6 @@
   starts: 2018-06-06T11:00:00.0000000
   ends: 2018-06-13T12:00:00.0000000
   venue: Wolfson Atmospheric Chemistry Laboratories
-- name: Zombies in York - 11 Jun
-  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
-  url: https://www.eventbrite.co.uk/e/zombies-in-york-11-jun-tickets-45582033088?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44110580/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=db912c3986efb76ae15b5d93ee008c06
-  starts: 2018-06-11T17:30:00.0000000
-  ends: 2018-06-11T19:00:00.0000000
-  venue: York Explore Library Learning Centre
-- name: Zombies in York - 12 Jun
-  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
-  url: https://www.eventbrite.co.uk/e/zombies-in-york-12-jun-tickets-45582122355?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44110753/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=7578d977f0932b77f69b009b4830cd86
-  starts: 2018-06-12T17:30:00.0000000
-  ends: 2018-06-12T19:00:00.0000000
-  venue: York Explore Library Learning Centre
 - name: Behind the Scenes of... Biology Teaching Laboratories
   description: >-
     Come and get hands-on with tiny microbes and learn how they influence our lives and that of the planet.
@@ -573,6 +565,14 @@
   starts: 2018-06-19T13:30:00.0000000
   ends: 2018-06-19T16:30:00.0000000
   venue: Innovation Centre
+- name: Zombies in York - 11 Jun
+  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
+  url: https://www.eventbrite.co.uk/e/zombies-in-york-11-jun-tickets-45582033088?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44110580/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=db912c3986efb76ae15b5d93ee008c06
+  starts: 2018-06-11T17:30:00.0000000
+  ends: 2018-06-11T19:00:00.0000000
+  venue: York Explore Library Learning Centre
 - name: Behind the Scenes of... York JEOL Nanocentre
   description: >-
     See a unique electron microscope which allows researchers to unlock the mysteries of the changing atomic world in chemical reactions.
