@@ -1,37 +1,3 @@
-- name: To Infinity & Befunge
-  description: "<p>This month we will look at an 'Esoteric' programming language called Befunge where the code is written as instructions scattered across a 2D grid rather than in a traditional program. Befunge programs are similar to Turing machines and we will roll up our sleeves and delve into this language.</p> <p>See the LCD website for details: <a href=\"http://leedscodedojo.github.io/\" class=\"linkified\">http://leedscodedojo.github.io/</a></p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/250685681/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2018-06-06T17:00:00.0000000
-  ends: 2018-06-06T20:00:00.0000000
-  venue: Callcredit Information Group Limited
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250963883/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-06-06T06:30:00.0000000
-  ends: 2018-06-06T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/251261809/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-06-06T07:00:00.0000000
-  ends: 2018-06-06T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: 'Front-End-York - GDPR at the Coalface & Decoupling from Google Maps '
-  description: "<p>Join us for another great evening of front-end discussions and socialising</p> <p>GDPR - Love it a loath it we've all got to deal with it! We'll be joined by Jim Semlyen for our first talk on GDPR from the perspective of a small web development company in York city centre</p> <p>Following a short break Andy Callaghan will be giving us a technical talk about how we might using Google Maps JS badly on our websites, the technical debt that comes with it and a few modern development techniques to use it well.</p> <p>Looking forward to seeing you there!</p> "
-  url: https://www.meetup.com/YorkDevelopers/events/250995360/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-06-06T18:00:00.0000000
-  ends: 2018-06-06T20:00:00.0000000
-  venue: Stonegate Yard Bar & Brasserie
-  endorsed: true
 - name: Umbraco Meetup - Post Codegarden
   description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>This months we'll have a few speaker galvanised by their recent Codegarden experience:</p> <p>Tim Payne - v8<br/>Matt Wise - First CG experience<br/>Intermission - GDPR Interpretive Dance (youtube)<br/>James Fisher - OUR Umbraco<br/>Andy Neil - Tours</p> <p>We draw a Jetbrains coupon to get one of their programs for free!</p> <p>\"Winners\": [<br/>\"Jan\": \"Thomas Nadin\",<br/>\"Feb\": \"James Fisher\",<br/>\"May\": \"Tim Payne\"<br/>]</p> "
   url: https://www.meetup.com/umbLeeds/events/250775225/
@@ -89,14 +55,6 @@
   starts: 2018-06-13T07:00:00.0000000
   ends: 2018-06-13T10:00:00.0000000
   venue: La Bottega Milanese
-- name: 'June 2018: Robin Moffat - using Apache Kafka for event stream applications'
-  description: '<p>TBC</p> '
-  url: https://www.meetup.com/CodeMill-Digital-Skills/events/245499017/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/3/1/5/thumb_466533557.jpeg
-  starts: 2018-06-14T17:00:00.0000000
-  ends: 2018-06-14T19:00:00.0000000
-  venue: platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250963888/
@@ -122,6 +80,22 @@
   ends: 2018-06-20T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxjbbc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-06-20T07:00:00.0000000
+  ends: 2018-06-20T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: It's agileYork's 1st birthday! + Change the Language, Change the Rules
+  description: "<p>Join us for a celebration of agileYork's 1st birthday! (There will be cake ;)</p> <p>12 months have passed and we've discovered so much along the way. Join us to learn just how a meetup called agileYork was formed using Agile! A number of past attendees have asked how they could start a meetup group and this evening will describe just that.</p> <p>From a very simple idea you'll discover how we as a group tested assumptions, experimented with formats and collectively built a meetup through feedback.</p> <p>Agenda:</p> <p>6pm: welcome &amp; arrivals<br/>6:30pm: welcome &amp; arrival<br/>6:45 pm: eat, drink, chat &amp; celebrate<br/>7.00pm: Creating an Agile meetup using Agile<br/>8.00pm: Change the Language, Change the Rules<br/>9:00pm: to the bar/pub?</p> <p>Change the Language, Change the Rules</p> <p>The language we use influences the way we see the world, how we work<br/>together and what we believe is possible. Want to find out how the<br/>structure of language, neuroscience and a bit of pseudoscience can<br/>help build a high-performing agile team? Then drop by for a case study<br/>on how to use Neuro Linguistic Programming (NLP) in agile teams, with<br/>real world examples, hints, tips and tricks.</p> <p>About Tom Hoyland</p> <p>With a career spanning software engineering, business analysis and<br/>digital transformation, Tom coaches a wide range of teams, weaving<br/>together agile values, language and psychological safety to build high<br/>performing, sustainable teams.</p> <p>A host at Agile Sheffield and a regular speaker at<br/>agile and product meetups, Tom enjoys presenting case studies,<br/>research and insights into successful agile transformations, team<br/>working and their metrics.</p> <p>Oh did I mention there will be cake ;)</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
+  url: https://www.meetup.com/agileYork/events/247423442/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2018-06-20T17:30:00.0000000
+  ends: 2018-06-20T20:00:00.0000000
+  venue: York St.John University
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxjbcc/
@@ -623,13 +597,6 @@
   starts: 2019-05-16T18:00:00.0000000
   ends: 2019-05-16T21:00:00.0000000
   endorsed: true
-- name: Language Change as Competition
-  description: <strong>Language Change as Competition&#8221;
-  url: https://www.ypsyork.org/events/language-change-as-competition/
-  logo: https://www.ypsyork.org/wp-content/uploads/2012/07/cafe-sci-11-200x125.jpg
-  starts: 2018-06-06T19:30:00.0000000
-  ends: 2018-06-06T21:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/city-screen-basement-bar/" title="City Screen Basement Bar">City Screen Basement Bar</a>
 - name: Bones &#8211; imaging prehistoric and modern women
   description: <strong>Bones &#8211; imaging prehistoric and modern women</strong>
   url: https://www.ypsyork.org/events/bones-imaging-prehistoric-and-modern-women/
