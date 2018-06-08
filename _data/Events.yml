@@ -1,18 +1,3 @@
-- name: Umbraco Meetup - Post Codegarden
-  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>This months we'll have a few speaker galvanised by their recent Codegarden experience:</p> <p>Tim Payne - v8<br/>Matt Wise - First CG experience<br/>Intermission - GDPR Interpretive Dance (youtube)<br/>James Fisher - OUR Umbraco<br/>Andy Neil - Tours</p> <p>We draw a Jetbrains coupon to get one of their programs for free!</p> <p>\"Winners\": [<br/>\"Jan\": \"Thomas Nadin\",<br/>\"Feb\": \"James Fisher\",<br/>\"May\": \"Tim Payne\"<br/>]</p> "
-  url: https://www.meetup.com/umbLeeds/events/250775225/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/2/4/8/6/thumb_461949350.jpeg
-  starts: 2018-06-07T16:30:00.0000000
-  ends: 2018-06-07T19:30:00.0000000
-  venue: twentysix
-- name: Microsoft Data Platform User Group (SQL, Azure)
-  description: "<p>Network, learn, ask a question, meet other folk, get fed - these are all things that happen at PASS user group events. These events are a really great opportunity to socialise in an informal learning experience.</p> <p>Remember to tell your friends and the people you work with; make sure you register as soon as you can.</p> <p>17.30 – 18:00 Registration and networking</p> <p>18:30 – 19:30 - First Session.</p> <p>19:30 - 19:50 - Break. Time for pizza.</p> <p>19:50 - 20:50 - Second Session.</p> <p>20:30 – Feedback and Close and head for drinks down the pub</p> <p>Featured Presentation</p> <p>Paul S. Randal CEO / Owner at SQLskills.com - Performance Troubleshooting Using Wait Statistics</p> <p>One of the first things you should check when investigating performance issues are wait statistics - as these can often point you in the direction for further analysis. Unfortunately many people misinterpret what SQL Server is telling them and jump to conclusions about how to solve the problem - what is often called 'knee-jerk performance tuning'. In this session, you will learn what waits are, how to analyze them, and potential solutions to common problem patterns.</p> <p>About Paul</p> <p>Paul’s an author, consultant, and top-rated speaker having spoken at PASS, TechEd, SQLintersection, and numerous other events around the world. He spent 9 years working on the SQL Server team, writing DBCC CHECKDB, and ultimately responsible for the entire Storage Engine. In 2007 Paul left Microsoft to co-own and run SQLskills.com, and has been a SQL Server MVP ever since. When he's not tweeting, blogging, or helping someone recover from a disaster, he's likely to be underwater somewhere in the world with his wife, Kimberly L. Tripp.</p> <p>Email: Paul@SQLskills.com<br/>Website: <a href=\"http://www.SQLskills.com\" class=\"linkified\">http://www.SQLskills.com</a></p> <p>Full Bio: <a href=\"http://www.sqlskills.com/about/paul-s-randal/\" class=\"linkified\">http://www.sqlskills.com/about/paul-s-randal/</a><br/>Blog: <a href=\"http://www.SQLskills.com/blogs/Paul\" class=\"linkified\">http://www.SQLskills.com/blogs/Paul</a><br/>Twitter: <a href=\"http://twitter.com/PaulRandal\" class=\"linkified\">http://twitter.com/PaulRandal</a><br/>SQL Server MVP since 2008</p> "
-  url: https://www.meetup.com/leeds_data_platform/events/251397718/
-  is-free: true
-  starts: 2018-06-07T16:30:00.0000000
-  ends: 2018-06-07T20:00:00.0000000
-  venue: Callcredit Information Group Limited
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/250713897/
@@ -96,6 +81,22 @@
   starts: 2018-06-20T17:30:00.0000000
   ends: 2018-06-20T20:00:00.0000000
   venue: York St.John University
+- name: Keeping it Real(time) & Bare metal boxes to Amazon ECS
+  description: "<p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided. We will have vegetarian food, if you have any other dietary requirements or questions please send us a message.</p> <p>_______________________________</p> <p>★ The talks</p> <p>✩ Keeping it Real(time)<br/>Mike Lehan <a href=\"https://twitter.com/m1ke\" class=\"linkified\">https://twitter.com/m1ke</a></p> <p>Modern web app interfaces can be dynamic with lots of data changing and flowing, but behind this there's often still a mass of AJAX requests &amp; timers, making our work pseudo-live at best.</p> <p>Web sockets allow us to create two way live data flow between server &amp; client; WebRTC lets us allow our clients to connect to one another directly. We'll see how PHP fits into this front end ecosystem and how to augment our applications with real time components.</p> <p>✩ From bare metal boxes to Amazon ECS, our journey to the cloud<br/>Mark Taylor</p> <p>My talk will tell the story of how DealTrak moved from over a decade of bare metal hosting to AWS with practically zero downtime, and the technologies we opted for. We now use Docker consistently across all our environments, and manage our infrastructure - including deployments and spinning up UAT instances via Ansible playbooks.</p> <p>_______________________________</p> <p>★ Timings</p> <p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – Keeping it Real(time) - Mike Lehan<br/>19:30 – A little break<br/>19:30 – From bare metal boxes to Amazon ECS, our journey to the cloud - Mark Taylor<br/>20:10ish – Pop over to the pub for a chat and a drink</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform (<a href=\"https://bruntwood.co.uk/our-locations/leeds/platform/\" class=\"linkified\">https://bruntwood.co.uk/our-locations/leeds/platform/</a>) – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Sky Betting &amp; Gaming (<a href=\"http://skybetcareers.com/about-us\" class=\"linkified\">http://skybetcareers.com/about-us</a>) – A tech company born out of Sky, and are aiming to be the UK’s best digital business. 1000+ colleagues, developing some of the country’s biggest brands in online betting and gaming. Their careers page (<a href=\"http://skybetcareers.com/\" class=\"linkified\">http://skybetcareers.com/</a>) provides great detail as to the working environment and range of work available across the technology stack. @skybetcareers (<a href=\"https://twitter.com/skybetcareers\" class=\"linkified\">https://twitter.com/skybetcareers</a>)</p> <p>• Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) – Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href=\"https://twitter.com/InfinityWorks\" class=\"linkified\">https://twitter.com/InfinityWorks</a>)</p> "
+  url: https://www.meetup.com/leedsphp/events/246435886/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
+  starts: 2018-06-21T17:30:00.0000000
+  ends: 2018-06-21T19:30:00.0000000
+  venue: Platform
+- name: Leeds Social Event and Relaunch
+  description: "<p>We are going to relaunch the group with a new co-leader Vincenzo (Enzo) helping to keep us all on track. Let's meet up to discuss the schedule and just catch up in general to chat Salesforce.</p> "
+  url: https://www.meetup.com/North-UK-Salesforce-Developer-User-Group/events/251471366/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/6/a/e/c/thumb_345927372.jpeg
+  starts: 2018-06-21T18:00:00.0000000
+  ends: 2018-06-21T20:00:00.0000000
+  venue: Midnight Bell pub
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxjbcc/
@@ -547,6 +548,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-11-26T07:30:00.0000000
   ends: 2018-11-26T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxpblc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-11-28T07:30:00.0000000
+  ends: 2018-11-28T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
