@@ -1,18 +1,3 @@
-- name: 'Space: The final frontier?'
-  description: >-
-    Join the University of York’s Astronomy Society for a journey to the furthest reaches of space as we celebrate astronomy and space science. Our packed day of talks, exhibitions and hands-on activities offers something for all ages and interests.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/space-the-final-frontier-tickets-45588302841?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44120343/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=34503d42f28b739b1f6efd23c153a676
-  starts: 2018-06-17T10:00:00.0000000
-  ends: 2018-06-17T16:00:00.0000000
-  venue: Physics Exhibition Centre
 - name: 'Artificial Intelligence: Promises and Perils - Focus Day'
   description: >-
     The £12m Assuring Autonomy International Programme is spearheading research, training and standards in the safety of robotics and autonomous systems (RAS). Our vision is to further enable the widespread and beneficial uptake of RAS by overcoming the obstacles to achieving regulatory and public acceptance.
@@ -40,6 +25,21 @@
   starts: 2018-06-16T11:00:00.0000000
   ends: 2018-06-16T18:00:00.0000000
   venue: Ron Cooke Hub
+- name: 'Space: The final frontier?'
+  description: >-
+    Join the University of York’s Astronomy Society for a journey to the furthest reaches of space as we celebrate astronomy and space science. Our packed day of talks, exhibitions and hands-on activities offers something for all ages and interests.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/space-the-final-frontier-tickets-45588302841?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44120343/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=34503d42f28b739b1f6efd23c153a676
+  starts: 2018-06-17T10:00:00.0000000
+  ends: 2018-06-17T16:00:00.0000000
+  venue: Physics Exhibition Centre
 - name: 'Professor Martin Hendry: Ripples of Gravity, Flashes of Light'
   description: >-
     The first ever direct detection of gravitational waves by the LIGO and Virgo Scientific Collaborations, from the collision of two massive black holes more than a billion light years away, has been widely hailed as the biggest scientific breakthrough of the decade, and led to the award of the 2017 Nobel Prize for Physics to three senior LIGO scientists and pioneers: Rai Weiss, Kip Thorne and Barry Barish.  August 2017 then saw another spectacular discovery – as for the first time gravitational waves and light were detected from the same cosmic source: a pair of colliding neutron stars 130 million light years distant. Join LIGO scientist Professor Martin Hendry as he explores the amazing technology behind the detection of gravitational waves, and what their discovery might soon tell us about some of the biggest unsolved mysteries in physics and astronomy.
@@ -81,21 +81,6 @@
   starts: 2018-06-12T16:00:00.0000000
   ends: 2018-06-12T17:30:00.0000000
   venue: Ron Cooke Hub
-- name: 'Cryptocurrency: Hype or technological revolution?'
-  description: >-
-    Do cryptocurrencies and blockchain technology signal the beginning of an entirely new global financial model? Featuring the internationally recognised World Wide Web pioneer Bebo White, our event explores the past, present and (possible) future of these phenomena. Chaired by BBC Technology correspondent Rory Cellan Jones, our expert panel also includes the author David Gerard, and writer and commentator Frances Coppola.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/cryptocurrency-hype-or-technological-revolution-tickets-45557739425?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44075792/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=5e89836999a71d71414073bd09b8ce37
-  starts: 2018-06-09T18:00:00.0000000
-  ends: 2018-06-09T19:30:00.0000000
-  venue: Piazza Building
 - name: Life in the Quantum Age
   description: >-
     Quantum properties are often perceived as futuristic. In reality, we already enjoy many technologies reliant on quantum mechanics, including lasers, superconductors and MRI scanners. Our panel of experts discuss quantum applications that will transform everyday life in the future, from driverless vehicles to supercomputers that can develop and test drugs outside the lab.
@@ -299,21 +284,6 @@
   starts: 2018-06-14T18:30:00.0000000
   ends: 2018-06-14T19:30:00.0000000
   venue: Cycle Heaven
-- name: Space, Traps and Animated Apps
-  description: >-
-    Ecopreneur Simon Holland takes you on a journey to explore how satellites, environmental science and large-scale insect traps can be combined with animations to help farmers in developing countries. Get a taste of not only how science and the arts collide in these types of projects, but also how we can help to transform the livelihoods of some of the most in-need in society while simultaneously improving the environment.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/space-traps-and-animated-apps-tickets-45557218868?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44075063/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=9f9f59d52503b45c96691ad7276dd87b
-  starts: 2018-06-09T15:00:00.0000000
-  ends: 2018-06-09T16:00:00.0000000
-  venue: Ron Cooke Hub
 - name: 'Digital Handmade: The new Industrial Revolution'
   description: >-
     Digital technologies and tools are producing entirely new working methods, skill sets and consumer products. But unlike the Industrial Revolution, which reduced the role of the craftsperson in the manufacturing process, the digital age is enriching hand techniques. Writer Lucy Johnston introduces the international designers, artists, and craftspeople who are spearheading this latest revolution.
@@ -342,23 +312,14 @@
   starts: 2018-06-14T08:30:00.0000000
   ends: 2018-06-14T12:30:00.0000000
   venue: The Principal York
-- name: Behind the Scenes of... York Plasma Institute and Laboratories
-  description: >-
-    Learn about fusion energy, laser-plasma interaction and advanced manufacturing.
-
-    Suitable for age 14+. 
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/behind-the-scenes-of-york-plasma-institute-and-laboratories-tickets-45640372583?aff=ebapi
+- name: Zombies in York - 12 Jun
+  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
+  url: https://www.eventbrite.co.uk/e/zombies-in-york-12-jun-tickets-45582122355?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/44192391/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=bed3d96ca51119c5c86be8dbac1a9d25
-  starts: 2018-06-06T10:30:00.0000000
-  ends: 2018-06-13T15:30:00.0000000
-  venue: York Plasma Institute
+  logo: https://cdn.evbuc.com/images/44110753/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=7578d977f0932b77f69b009b4830cd86
+  starts: 2018-06-12T17:30:00.0000000
+  ends: 2018-06-12T19:00:00.0000000
+  venue: York Explore Library Learning Centre
 - name: Chemistry Sixth Form Conference 2018
   description: >-
     This conference in the Department of Chemistry at the University of York is for post-16 students (Year 12 or equivalent), and will provide a taste of what it is like to study chemistry at university through a packed programme of talks and workshops.
@@ -388,6 +349,23 @@
   starts: 2018-07-13T09:30:00.0000000
   ends: 2018-07-13T16:00:00.0000000
   venue: Department of Chemistry
+- name: Behind the Scenes of... York Plasma Institute and Laboratories
+  description: >-
+    Learn about fusion energy, laser-plasma interaction and advanced manufacturing.
+
+    Suitable for age 14+. 
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/behind-the-scenes-of-york-plasma-institute-and-laboratories-tickets-45640372583?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44192391/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=bed3d96ca51119c5c86be8dbac1a9d25
+  starts: 2018-06-06T10:30:00.0000000
+  ends: 2018-06-13T15:30:00.0000000
+  venue: York Plasma Institute
 - name: Zombies in York - 11 Jun
   description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
   url: https://www.eventbrite.co.uk/e/zombies-in-york-11-jun-tickets-45582033088?aff=ebapi
@@ -395,14 +373,6 @@
   logo: https://cdn.evbuc.com/images/44110580/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=db912c3986efb76ae15b5d93ee008c06
   starts: 2018-06-11T17:30:00.0000000
   ends: 2018-06-11T19:00:00.0000000
-  venue: York Explore Library Learning Centre
-- name: Zombies in York - 12 Jun
-  description: "Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie and then help us save the city through hands-on activities – examining zombie blood, playing with brains and more. \nSuitable for accompanied children aged eight to 12.\nPlease note: Children must be accompanied by an adult, but tickets are only required for the children\n* * * * * * * * * * * * * * * * * * * * * * * *\nIf you require more than 3 tickets, please contact the Festival Team who will be happy to help.\nPlease ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket."
-  url: https://www.eventbrite.co.uk/e/zombies-in-york-12-jun-tickets-45582122355?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44110753/22468345120/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,18000,9000&s=7578d977f0932b77f69b009b4830cd86
-  starts: 2018-06-12T17:30:00.0000000
-  ends: 2018-06-12T19:00:00.0000000
   venue: York Explore Library Learning Centre
 - name: Behind the Scenes of... York JEOL Nanocentre
   description: >-
@@ -477,17 +447,6 @@
   starts: 2018-09-18T09:00:00.0000000
   ends: 2018-09-19T17:00:00.0000000
   venue: Ron Cooke Hub
-- name: I-ACE Virtual Signer Showcase
-  description: >2-
-
-    You welcome overseas visitors with a flag and a member of your reception team who can speak their language.  How do you welcome a deaf guest or family?
-
-    We cordially invite you to a showcase event about the Virtual Signer, an EU funded project to create a multilingual text to sign language translator.  You will see examples of welcome messages for some of York's attractions and some generic messages for hotel receptions, railway stations and more.  The event is free and for registrants we are also offering free access to the pilot translator
-  url: https://www.eventbrite.co.uk/e/i-ace-virtual-signer-showcase-tickets-45157899493?aff=ebapi
-  is-free: true
-  starts: 2018-07-12T10:00:00.0000000
-  ends: 2018-07-12T12:00:00.0000000
-  venue: The National Centre for Early Music
 - name: 'Thinking: Destination unknown…'
   description: >-
     Your mission, should you choose to accept it, is not just to think outside the box, but outside this world. ComplexCity is a colony in space designed for the full flourishing of humanity. Now facing many of the problems that threatened Earth, it’s recruiting a new generation of counsellors to train to become Complex Thinkers. Are you up to the challenge? Why not come along and find out?
@@ -503,6 +462,17 @@
   starts: 2018-06-16T13:30:00.0000000
   ends: 2018-06-16T16:30:00.0000000
   venue: York Explore Library Learning Centre
+- name: I-ACE Virtual Signer Showcase
+  description: >2-
+
+    You welcome overseas visitors with a flag and a member of your reception team who can speak their language.  How do you welcome a deaf guest or family?
+
+    We cordially invite you to a showcase event about the Virtual Signer, an EU funded project to create a multilingual text to sign language translator.  You will see examples of welcome messages for some of York's attractions and some generic messages for hotel receptions, railway stations and more.  The event is free and for registrants we are also offering free access to the pilot translator
+  url: https://www.eventbrite.co.uk/e/i-ace-virtual-signer-showcase-tickets-45157899493?aff=ebapi
+  is-free: true
+  starts: 2018-07-12T10:00:00.0000000
+  ends: 2018-07-12T12:00:00.0000000
+  venue: The National Centre for Early Music
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
