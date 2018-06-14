@@ -1,29 +1,3 @@
-- name: York Code Dojo June Meetup - Bit Coin Mining
-  description: '<p>This month we will be trying to get rich* by mining bit coins!! Adam has kindly setup a simplified bin coin server for us to use. No prior knowledge of bit coins or complicated Maths is needed.</p> <p>* By rich, I mean rich in knowledge rather than hard cash :-)</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming language of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/250629803/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2018-06-13T17:30:00.0000000
-  ends: 2018-06-13T20:00:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250963885/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-06-13T06:30:00.0000000
-  ends: 2018-06-13T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/251415616/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-06-13T07:00:00.0000000
-  ends: 2018-06-13T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250963888/
@@ -107,6 +81,38 @@
   ends: 2018-06-27T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxjbkc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-06-27T07:00:00.0000000
+  ends: 2018-06-27T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: SEO York - Welcome Networking
+  description: "<p>We are planning to host the event on the last Wednesday of each month. The first SEO York meetup will be for general networking and to welcome people to the new group. Food and Drink will be provided in the form of soft drinks, beer and pizza. Doors open at 6:00pm but since there's no schedule at this event, you're welcome to arrive at any time between 6:00pm and 9:00pm. We are open to suggestions regarding the schedule for future events and would like to hear from the group as to what they would like to see? Also if there's any allergies or special food requests, please let me know via meetup message. Thanks and it will be great to see you all there :)</p> "
+  url: https://www.meetup.com/SEO-York/events/251122319/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/c/0/f/5/thumb_471349397.jpeg
+  starts: 2018-06-27T17:00:00.0000000
+  ends: 2018-06-27T20:00:00.0000000
+  venue: York Priory Street Centre
+- name: June - Jordan Finneran & Jusef Belkasemi
+  description: '<p>Join us to hear from Jordan Finneran and Jusef Belkasemi, as well as a chance to win a code for a year subscription for a Jetbrains toolbox product of your choice!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Jordan Finneran - Web Performance Perceptions<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Jusef Belkasemi - Building Web Components with your favourite JavaScript framework<br/>8:20 - 9:25: Social &amp; point that people can leave<br/>9:25 - 9:30: Pack up and leave</p> <p>Talks:<br/>Jordan Finneran - Web Performance Perceptions<br/>As developers we tend to think about performance from a metrics point of view, how fast does the page load, when is the first paint, however there are more aspects to it than this alone.<br/>How long does the user perceive the site take to load?<br/>How does the site performance from their experience?<br/>I would like to discuss all these aspects and how we can improve both performance metrics and performance perceptions.</p> <p>Jusef Belkasemi - Building Web Components with your favourite JavaScript framework<br/>"JavaScript frameworks have become an integral part of our development toolkit. The world of JavaScript frameworks has grown bigger and more complex. However, as of today, we see a few major players like React, Angular and Vue.js cementing their place. All of these are powerful complex beasts with a steep learning curve. Committing to any of the frameworks creates a major dependency for your organisation and a requirement for a specialised workforce capable of efficiently using the framework of choice. In addition, going with one of these frameworks locks you in the Frameworks ecosystem making it difficult to take advantage of developments in other JavaScript ecosystems. As we know the world of web development is an ever-changing environment and committing to a certain technology without a backup plan can have serious implications in the future.</p> <p>Today I would like to explore with you one possible solution for how we can introduce a backup plan for "safeguarding" the future of our JavaScript code and potentially take advantage of developments across different JavaScript ecosystems. This potential Solution is to build Web Components using our chosen JavaScript framework. I will talk about some of the options we have today with the top 3 JS frameworks and show a quick demo of how this can be done with Angular 6."</p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href="https://leedsjs.github.io/code-of-conduct/" class="linkified">https://leedsjs.github.io/code-of-conduct/</a></p> '
+  url: https://www.meetup.com/LeedsJS/events/251674551/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2018-06-27T17:30:00.0000000
+  ends: 2018-06-27T19:30:00.0000000
+  venue: Platform
+- name: MagentoYork - June Meetup - Lightning Talks
+  description: '<p>In a series of short talks we discuss the latest happenings of Magento 2.</p> '
+  url: https://www.meetup.com/Magento-York/events/250148047/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/2/3/thumb_444120291.jpeg
+  starts: 2018-06-27T18:00:00.0000000
+  ends: 2018-06-27T20:00:00.0000000
+  venue: The Cross Keys
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250963898/
