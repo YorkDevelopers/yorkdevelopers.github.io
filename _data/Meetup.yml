@@ -1,14 +1,5 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250963894/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-06-25T06:30:00.0000000
-  ends: 2018-06-25T09:30:00.0000000
-  venue: The Perky Peacock
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250963897/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -96,6 +87,15 @@
   starts: 2018-07-04T17:30:00.0000000
   ends: 2018-07-04T20:00:00.0000000
   venue: Royal Oak
+- name: Front End York - July Meetup
+  description: '<p>To be confirmed.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/252133593/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-07-04T18:00:00.0000000
+  ends: 2018-07-04T20:00:00.0000000
+  venue: Stonegate Yard Bar & Brasserie
+  endorsed: true
 - name: Log Analytics & Flow and Logic Apps with Steve Spencer
   description: '<p>This event will be broken down into 2 talks, Log Analytics and Flow and Logic Apps both being presented by Steve Spencer.</p> <p>*Introduction to Log Analytics*<br/>In a world where distributed systems are the norm and where we are building more and more things as micro-services we need a way to keep track of what is going on. We need a central place where we can collate all the information we need to diagnose any issues we have without needing to remote onto a service and look through the log files. Wouldn’t it be good if we could also write queries and create alerts so that we know when things are going wrong before our customers do? This is where Azure Log analytics comes in. This talk will introduce some of the capabilities of log analytics, show how you can query your logs and create alerts.</p> <p>*Easy integration with Flow and Logic Apps*<br/>Historically integrating different systems has been challenging and you have needed experts to help you build even the simplest integration. Microsoft has introduced its azure based offerings to help take some of the complexity out of integrating to allow you to build your own personal workflows. This talk will introduce both Flow and Logic apps, show you where to use each and how you can migrate from Flow to Logic Apps.</p> <p>*Steve Spencer*<br/>Steve is an experienced .NET Developer, Microsoft Azure MVP and a Senior Solution Architect at Liberis. Steve has spoken at previous DDD events covering Microsoft Azure, Gadgeteer, Service Bus and Azure Web jobs</p> <p>Steve has also appeared on channel9 also talking on Service Fabric - <a href="https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby" class="linkified">https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby</a></p> <p><a href="http://blogs.recneps.net/" class="linkified">http://blogs.recneps.net/</a></p> <p><a href="http://www.twitter.com/@sdspencer" class="linkified">http://www.twitter.com/@sdspencer</a></p> '
   url: https://www.meetup.com/dotnetYork/events/250835681/
@@ -563,6 +563,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-12-12T07:30:00.0000000
   ends: 2018-12-12T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxqbwb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-12-17T07:30:00.0000000
+  ends: 2018-12-17T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
