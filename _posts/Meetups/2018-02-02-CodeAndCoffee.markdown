@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "York Code And Coffee"
-date:   2017-02-02 15:08:10 -0500
+date:   2018-02-02 15:08:10 -0500
 img: img/meetups/code_and_coffee_logo_small.png
 modalID: modalCodeAndCoffee
 category: Meetup

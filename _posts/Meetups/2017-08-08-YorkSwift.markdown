@@ -10,6 +10,6 @@ York Swift is For developers & learners who love to share their experiences, kno
 
 Hands on practical coding sessions, Roundtable discussions on best practices, Open clinic for your latest bugs, Side project spotlight, Talks by developers for developers and much more...
 
-See [our next event][york-swift-next-event] on Twitter for more information on when we meet.
+Follow [@YorkSwift][york-swift-twitter-feed] on Twitter.
 
-[york-swift-next-event]: https://www.meetup.com/YorkDevelopers/events/250606863/
+[york-swift-twitter-feed]: https://twitter.com/yorkswift

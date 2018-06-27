@@ -16,4 +16,4 @@ Our vision is to help individuals and teams make their working lives better.  By
 
 Visit our [agileYork Meetup][agile-york-meetup-link] for more information.
 
-[agile-york-meetup-link]: https://www.facebook.com/groups/agileYork/
+[agile-york-meetup-link]: https://www.meetup.com/agileYork/

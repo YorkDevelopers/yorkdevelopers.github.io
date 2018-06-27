@@ -14,6 +14,6 @@ Fancy speaking at one of our MeetUps? Great! Get in touch with an organiser so w
 
 Endorsed by YorkDevelopers.
 
-See [our next event][front-end-york-next-event] on Twitter for more information on when we meet.
+Follow [@FrontEndYork][front-end-york-twitter-feed] on Twitter.
 
-[front-end-york-next-event]: https://www.meetup.com/YorkDevelopers/events/247797740/
+[front-end-york-twitter-feed]: https://twitter.com/frontendyork

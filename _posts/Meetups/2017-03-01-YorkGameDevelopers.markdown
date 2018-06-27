@@ -12,4 +12,7 @@ This is a group for anyone developing computer games in York.  Bring a laptop an
 
 Visit our [York Game Developers Meetup][york-game-developers-meetup-link] for more information.
 
+Follow [@YorkGameDevs][york-game-developers-twitter-feed] on Twitter.
+
 [york-game-developers-meetup-link]: https://www.facebook.com/groups/YorkGameDevelopers/
+[york-game-developers-twitter-feed]: https://twitter.com/yorkgamedevs
