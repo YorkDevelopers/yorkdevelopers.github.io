@@ -1,5 +1,5 @@
 - name: 'Code & Coffee: YorkDayOfCode Planning'
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.30, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250963898/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -40,7 +40,7 @@
   ends: 2018-07-04T20:00:00.0000000
   venue: Royal Oak
 - name: Front End York - July Meetup
-  description: '<p>To be confirmed.</p> '
+  description: "<p>A little late but better than never! We're back with an another action packed evening</p> <p>We'll be joined by Bethan Vincent to discuss CRO with her talk titled \"Why bother testing? The case for CRO\"</p> <p>Followed by our second speaker Michael Rippon with his talk titled \"How to run successful a/b tests\"</p> <p>Huge thanks to our speakers for volunteering and to Michael for stepping in at the last minute! Can't wait to see your faces</p> "
   url: https://www.meetup.com/YorkDevelopers/events/252133593/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -80,6 +80,15 @@
   starts: 2018-07-10T17:00:00.0000000
   ends: 2018-07-10T19:00:00.0000000
   venue: Duke Studios
+- name: York Code Dojo July Meetup - From Hello World to AI
+  description: '<p>This month we will have a competition where you can earn points by working in a team to solve a set of challenges. These will range from the very basic to the nearly impossible(!) so there will be plenty for everyone.</p> <p>As usual we will work in pairs, and this session will be suitable for developers of all abilities, students are welcome.</p> <p>If possible please bring a laptop with your programming languages of choice already installed.</p> <p>NOTE: Food in pizza form will be provided. On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted.</p> <p>Sponsored by York St John University School of Art, Design and Computer Science.</p> <p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /></p> <p>Steered and supported by YorkDevelopers (www.YorkDevelopers.org)</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/252342800/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2018-07-11T17:30:00.0000000
+  ends: 2018-07-11T20:00:00.0000000
+  venue: Room FT/112 York St John University
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250963902/
