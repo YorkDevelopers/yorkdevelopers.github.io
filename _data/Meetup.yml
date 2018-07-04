@@ -15,14 +15,6 @@
   starts: 2018-07-04T07:00:00.0000000
   ends: 2018-07-04T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Befunged Again!
-  description: "<p>Last month we wrote interpreters for the esoteric programming language Befunge, where the code is written as instructions scattered across a 2D grid. This month we're going to make use of those interpreters and write some actual, full-on Befunge programs! (Or more likely, use the fully working and tested online Befunge interpreter to write them..)</p> <p>See the LCD website for details: <a href=\"http://leedscodedojo.github.io/\" class=\"linkified\">http://leedscodedojo.github.io/</a></p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/252232469/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2018-07-04T17:00:00.0000000
-  ends: 2018-07-04T20:00:00.0000000
-  venue: Callcredit Information Group Limited
 - name: Bitcoin & Crypto discussion with drinks
   description: '<p>We are meeting up for another informal discussion about bitcoin and other crypto currencies.<br/>Meet like minded people and learn from others who are interested in crypto currency.<br/>Arrive and leave when is convenient to you.<br/>Feel free to bring drinks and food from the bar into the room.</p> '
   url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/252055968/
@@ -30,7 +22,7 @@
   starts: 2018-07-04T17:30:00.0000000
   ends: 2018-07-04T20:00:00.0000000
   venue: Royal Oak
-- name: Front End York - July Meetup
+- name: 'Front End York - The Case for CRO & How to run successful A/B tests '
   description: "<p>A little late but better than never! We're back with an another action packed evening</p> <p>We'll be joined by Bethan Vincent to discuss CRO with her talk titled \"Why bother testing? The case for CRO\"</p> <p>Followed by our second speaker Michael Rippon with his talk titled \"How to run successful a/b tests\"</p> <p>Huge thanks to our speakers for volunteering and to Michael for stepping in at the last minute! Can't wait to see your faces</p> "
   url: https://www.meetup.com/YorkDevelopers/events/252133593/
   is-free: true
@@ -97,8 +89,8 @@
   starts: 2018-07-11T07:00:00.0000000
   ends: 2018-07-11T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Data Platform User Group (SQL, Azure)
-  description: '<p>Our first event at Platform (above the train station).</p> <p>The details of the talks will be uploaded shortly.</p> '
+- name: Data Platform User Group (SQL, Azure, Powershell)
+  description: "<p>Network, learn, ask a question, meet other folk, get fed - these are all things that happen at PASS user group events. These events are a really great opportunity to socialise in an informal learning experience.</p> <p>Remember to tell your friends and the people you work with; make sure you register as soon as you can.</p> <p>17.30 – 18:00 – Registration / networking.<br/>18:00 – 19:00 – Rob Sewell | Validate your SQL Server estate with ease using dbachecks<br/>19:00 – 19:20 – Break (food / drinks).<br/>19:20 – 20:20 – Mark Pryce-Maher | Tiger eam Toolbox<br/>20:20 – 20:30 – Feedback (via Microsoft forms) then off t’pub.</p> <p>Validate your SQL Server estate with ease using dbachecks | Rob Sewell</p> <p>As a SQL DBA you want to know that your SQL Server Estate is compliant with the rules that you have set up.</p> <p>Now there is a simple method using PowerShell and you can get the results in PowerBi or a report emailed to you on a schedule or embedded into your CI\\CD solutions.</p> <p>Details such as:<br/>• How long since your last backup?<br/>• How long since your last DBCC Check?<br/>• Are your Agent Operators Correct?<br/>• Are AutoClose, AutoShrink, Auto Update Stats set up correctly?<br/>• Is DAC Allowed?<br/>• Are your file growth settings correct, what about the number of VLFs?<br/>• Is your latency, TCP Port, PS remoting as you expect?<br/>• Is Page Verify, Data Purity, Compression correctly set up?</p> <p>And many more checks (even your own) can be achieved using the dbachecks PowerShell module brought to you by the SQL Collaborative team.<br/>Join one of the founders of the module, Rob Sewell MVP. and he will show you how easy it is to use this module and release time for more important things whilst keeping the confidence that your estate is as you would expect it.</p> <p>BIO<br/>Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, &amp; SQL (PaaS geddit?). He is an MVP &amp; an officer for the PASS PowerShell VG &amp; has spoken at &amp; volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter &amp; also the European PowerShell Conference. He is a proud supporter of the SQL &amp; PowerShell communities.</p> <p>He relishes sharing&amp; learning &amp; can be found doing both via Twitter &amp; his blog. He spends most of his time looking at a screen &amp; loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer or flying a drone in the winter.<br/>He has a fabulous beard!</p> <p>Mark Pryce-Maher - Tiger Team Toolbox</p> <p>Mark Pryce-Maher is a Senior Premier Field Engineer at Microsoft with lots of database /azure experience.<br/>When not trainspotting, line dancing and hand modelling, Mark spends the majority of his time talking to customers about SQL Server / Power BI and all things data related.</p> <p>Have you heard about the SQL Tiger Team? Do you know they provide a free set of SQL scripts to help you administer your SQL Server?<br/>In this session, we explore the scripts in Tiger Team Toolbox.<br/>Can't wait for the session?</p> <p>Download the scripts from here. <a href=\"https://github.com/Microsoft/tigertoolbox\" class=\"linkified\">https://github.com/Microsoft/tigertoolbox</a></p> "
   url: https://www.meetup.com/leeds_data_platform/events/251546131/
   is-free: true
   starts: 2018-07-11T17:00:00.0000000
@@ -127,6 +119,13 @@
   ends: 2018-07-16T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: 'Tech Contractor Networking: Leeds'
+  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
+  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/250003794/
+  is-free: true
+  starts: 2018-07-17T11:15:00.0000000
+  ends: 2018-07-17T11:45:00.0000000
+  venue: Banyan Bar Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250963904/
@@ -146,7 +145,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxkbfc/
+  url: https://www.meetup.com/YorkDevelopers/events/252391698/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-07-23T06:30:00.0000000
