@@ -1,36 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.30, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250963899/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-07-04T06:30:00.0000000
-  ends: 2018-07-04T09:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/252225100/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-07-04T07:00:00.0000000
-  ends: 2018-07-04T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Bitcoin & Crypto discussion with drinks
-  description: '<p>We are meeting up for another informal discussion about bitcoin and other crypto currencies.<br/>Meet like minded people and learn from others who are interested in crypto currency.<br/>Arrive and leave when is convenient to you.<br/>Feel free to bring drinks and food from the bar into the room.</p> '
-  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/252055968/
-  is-free: true
-  starts: 2018-07-04T17:30:00.0000000
-  ends: 2018-07-04T20:00:00.0000000
-  venue: Royal Oak
-- name: 'Front End York - The Case for CRO & How to run successful A/B tests '
-  description: "<p>A little late but better than never! We're back with an another action packed evening</p> <p>We'll be joined by Bethan Vincent to discuss CRO with her talk titled \"Why bother testing? The case for CRO\"</p> <p>Followed by our second speaker Michael Rippon with his talk titled \"How to run successful a/b tests\"</p> <p>Huge thanks to our speakers for volunteering and to Michael for stepping in at the last minute! Can't wait to see your faces</p> "
-  url: https://www.meetup.com/YorkDevelopers/events/252133593/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-07-04T18:00:00.0000000
-  ends: 2018-07-04T20:00:00.0000000
-  venue: Stonegate Yard Bar & Brasserie
-  endorsed: true
 - name: Log Analytics & Flow and Logic Apps with Steve Spencer
   description: '<p>This event will be broken down into 2 talks, Log Analytics and Flow and Logic Apps both being presented by Steve Spencer.</p> <p>*Introduction to Log Analytics*<br/>In a world where distributed systems are the norm and where we are building more and more things as micro-services we need a way to keep track of what is going on. We need a central place where we can collate all the information we need to diagnose any issues we have without needing to remote onto a service and look through the log files. Wouldn’t it be good if we could also write queries and create alerts so that we know when things are going wrong before our customers do? This is where Azure Log analytics comes in. This talk will introduce some of the capabilities of log analytics, show how you can query your logs and create alerts.</p> <p>*Easy integration with Flow and Logic Apps*<br/>Historically integrating different systems has been challenging and you have needed experts to help you build even the simplest integration. Microsoft has introduced its azure based offerings to help take some of the complexity out of integrating to allow you to build your own personal workflows. This talk will introduce both Flow and Logic apps, show you where to use each and how you can migrate from Flow to Logic Apps.</p> <p>*Steve Spencer*<br/>Steve is an experienced .NET Developer, Microsoft Azure MVP and a Senior Solution Architect at Liberis. Steve has spoken at previous DDD events covering Microsoft Azure, Gadgeteer, Service Bus and Azure Web jobs</p> <p>Steve has also appeared on channel9 also talking on Service Fabric - <a href="https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby" class="linkified">https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online-September-2016/Service-Fabric-for-the-Microservices-Win-baby</a></p> <p><a href="http://blogs.recneps.net/" class="linkified">http://blogs.recneps.net/</a></p> <p><a href="http://www.twitter.com/@sdspencer" class="linkified">http://www.twitter.com/@sdspencer</a></p> '
   url: https://www.meetup.com/dotnetYork/events/250835681/
@@ -103,6 +70,13 @@
   starts: 2018-07-12T17:00:00.0000000
   ends: 2018-07-12T19:30:00.0000000
   venue: Sky 2
+- name: 'Fintech North Event: Blockchain in Practice'
+  description: '<p>Not our event - but thought would be of interest to the group.<br/>Free, but registration required.<br/>More info here: <a href="https://www.fintechnorth.uk/blog/fintech-north-july-seminar-blockchain-practice-agenda/" class="linkified">https://www.fintechnorth.uk/blog/fintech-north-july-seminar-blockchain-practice-agenda/</a></p> '
+  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/252429610/
+  is-free: true
+  starts: 2018-07-13T07:00:00.0000000
+  ends: 2018-07-13T10:00:00.0000000
+  venue: Squire Patton Boggs
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/251331485/
@@ -135,6 +109,22 @@
   ends: 2018-07-18T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxkbxb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-07-18T07:00:00.0000000
+  ends: 2018-07-18T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Agile lightening talks
+  description: "<p>Speaker line-up to follow shortly - please email the organiser if you'd be interested in giving a 10 minute talk?</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
+  url: https://www.meetup.com/agileYork/events/251930166/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2018-07-18T17:30:00.0000000
+  ends: 2018-07-18T19:30:00.0000000
+  venue: York St.John University
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxkbzb/
@@ -586,6 +576,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-12-24T07:30:00.0000000
   ends: 2018-12-24T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyxqbjc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-12-26T07:30:00.0000000
+  ends: 2018-12-26T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
