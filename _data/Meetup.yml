@@ -1,20 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/250963902/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-07-11T06:30:00.0000000
-  ends: 2018-07-11T09:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/252461918/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-07-11T07:00:00.0000000
-  ends: 2018-07-11T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: The JVM Thing 7.0 @ Sky, Leeds Dock
   description: "<p>The JVM Thing 7.0 – Thursday 12th July</p> <p>Presented by Sky @ Leeds Dock:</p> <p>Richard McIntyre, Principal Developer talking about “Designing and deploying a super-fast suite of micro-services on the JVM at Sky”</p> <p>Anthony Sargeant, Senior Developer talking about Sky's Identity Platform.</p> <p>Location – Sky 2, Leeds Dock, Leeds, LS10 1QG</p> <p>Register for tickets here: <a href=\"https://the-jvm-thing7.eventbrite.co.uk\" class=\"linkified\">https://the-jvm-thing7.eventbrite.co.uk</a><br/>Free food &amp; drinks!</p> <p>Arrive – 6pm</p> <p>Start – 6.30pm</p> <p>Finish – 8pm</p> <p>Follow us on Twitter @The_JVM_Thing</p> <p>The JVM Thing is a tech networking group for the JVM language community, bringing together Software enthusiasts to show, tell, share knowledge and discuss key topics related to the JVM ecosystem.</p> "
   url: https://www.meetup.com/Leeds-JVMThing/events/252192406/
@@ -69,8 +52,8 @@
   starts: 2018-07-18T07:00:00.0000000
   ends: 2018-07-18T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Agile lightening talks
-  description: "<p>Speaker line-up to follow shortly - please email the organiser if you'd be interested in giving a 10 minute talk?</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
+- name: Agile lightning talks
+  description: "<p>We have a diverse set of topics this evening from Data to DevOps, Full service ownership to Remote working, all served with a dollop of Pasta sauce???</p> <p>Five great talks from five great speakers. If you have a talk you'd like to practice in a safe and friendly environment. Then get in touch to join them or just bring it along on the evening!</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
   url: https://www.meetup.com/agileYork/events/251930166/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
@@ -126,6 +109,38 @@
   ends: 2018-07-25T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxkbhc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-07-25T07:00:00.0000000
+  ends: 2018-07-25T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Breaking down the Blockchain with BJSS
+  description: "<p>Join us on Wednesday 25th July where we will be joined by our friends at BJSS for an evening of engaging discussion and insight into the world of Blockchain!</p> <p>Blockchain has become a popular buzzword recently. It seems every other conversation ends up being about crypto-currencies. People are intrigued and want to know more.</p> <p>We're inviting you to join us, to talk about Blockchain without 'the hype', the technology behind it, the legitimate use cases and cool things people are doing with it.</p> <p>Time: 18:00 (Registration) 18:30 (Start time)</p> <p>Location: Coronet House, Queen Street, Leeds, LS1 2TW</p> <p>For more details and to secure your spot email: techconnect@amsourcetechnology.com / 0113 4678 6700</p> "
+  url: https://www.meetup.com/Amsource-Technology-Presents-Tech-Connect/events/252120433/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/b/d/c/thumb_454848092.jpeg
+  starts: 2018-07-25T17:00:00.0000000
+  ends: 2018-07-25T19:00:00.0000000
+  venue: BJSS Limited
+- name: July - Ash Winter & Rael Sasiak-Rushby
+  description: "<p>Join us to hear from Ash Winter and Rael Sasiak-Rushby, as well as a chance to win a code for a year subscription for a Jetbrains toolbox product of your choice!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Ash Winter - A Testers Guide to the Illusions of Unit Testing<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Rael Sasiak-Rushby - I can write my Webscript with no alphachars<br/>8:20 - 9:00: Social &amp; point that people can leave</p> <p>Talks:<br/>Ash Winter - A Testers Guide to the Illusions of Unit Testing<br/>\"One area that testers might be able to enhance their contributions to software development teams is how we perceive and contribute to unit testing. Being able to influence this type of testing in a positive manner is a skill that testers will need to get to grips with, as more companies start to embrace a model of lone testers in cross functional teams. The shift of focus from primarily the testing that testers do, to the testing that the team does, is a key shift in thinking and behaviour.</p> <p>To facilitate this shift, I believe testers busting their own illusions about this aspect of building something good would bring us much closer to developers, and help us realise what other layers of testing can cover most effectively. The last point is pertinent here, as knowing and guiding unit testing brings the role of integration, acceptance and exploratory testing into sharp focus.</p> <p>This is a topic that has always intruiged me, having predominantly worked as a single tester on a team for the last five or so years. I reached out to the community with the question \"What do testers believe about unit testing?\" and received a lot of engagement. The good users of Twitter added another 50 or so illusions that testers might have about this layer of testing. I figured that based on that level of engagement, maybe this would make an interesting talk! It wasn't only testers who responded too, suggesting that there might be some shared illusions about unit testing that are cross discplinary.</p> <p>The growing list intruiged me, so I wrote a blog with the raw list, it can be found here <a href=\"http://testingisbelieving.blogspot.co.uk/2017/12/testers-guide-to-myths-of-unit-testing.html\" class=\"linkified\">http://testingisbelieving.blogspot.co.uk/2017/12/testers-guide-to-myths-of-unit-testing.html</a></p> <p>The list alone is interesting but now I would like to share my analysis of it with you, focusing on:</p> <p>- Recurring themes within the list and how to address them as a tester or developer.<br/>- Particular illusions to look out for with examples from my recent past.<br/>- A guide for developers to engage with testers on unit testing, and testers with developers.\"</p> <p>Rael Sasiak-Rushby - I can write my Webscript with no alphachars<br/>\"It's about some of the crazy things about JavaScript \"under the hood\" learnt through filter evasion, explaining how I can write filly compliant and legit JavaScript that doesn't use any of the letters a-z.\"</p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href=\"https://leedsjs.github.io/code-of-conduct/\" class=\"linkified\">https://leedsjs.github.io/code-of-conduct/</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/252591892/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2018-07-25T17:30:00.0000000
+  ends: 2018-07-25T20:00:00.0000000
+  venue: Platform
+- name: SEO York - Networking
+  description: "<p>We are planning to host the event on the last Wednesday of each month. SEO York meetup is for general networking with like-minded people and to welcome people who are new to (or interested in) SEO and online marketing. Food and Drink will be provided in the form of hot and cold drinks (including beer) and buffet style food (sandwiches, etc...). You're welcome to arrive at any time after 6:00pm. We are open to suggestions regarding the schedule for future events and would like to hear from the group as to what they would like to see? A projector is available if you would like to do a presentation, please let me know before hand via meetup message. Also any allergies or special food requests, please let me know via meetup message. Thanks and it will be great to see you all there :)</p> "
+  url: https://www.meetup.com/SEO-York/events/251987579/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/c/0/f/5/thumb_471349397.jpeg
+  starts: 2018-07-25T18:00:00.0000000
+  ends: 2018-07-25T20:00:00.0000000
+  venue: York Priory Street Centre
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/252624313/
@@ -569,6 +584,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-12-31T07:30:00.0000000
   ends: 2018-12-31T10:30:00.0000000
+  venue: The Perky Peacock
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/fhhmnpyzcbdb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-01-02T07:30:00.0000000
+  ends: 2019-01-02T10:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
 - name: Game Developers, Monthly Meeting
