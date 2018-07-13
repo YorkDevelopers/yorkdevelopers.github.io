@@ -1,10 +1,3 @@
-- name: The JVM Thing 7.0 @ Sky, Leeds Dock
-  description: "<p>The JVM Thing 7.0 – Thursday 12th July</p> <p>Presented by Sky @ Leeds Dock:</p> <p>Richard McIntyre, Principal Developer talking about “Designing and deploying a super-fast suite of micro-services on the JVM at Sky”</p> <p>Anthony Sargeant, Senior Developer talking about Sky's Identity Platform.</p> <p>Location – Sky 2, Leeds Dock, Leeds, LS10 1QG</p> <p>Register for tickets here: <a href=\"https://the-jvm-thing7.eventbrite.co.uk\" class=\"linkified\">https://the-jvm-thing7.eventbrite.co.uk</a><br/>Free food &amp; drinks!</p> <p>Arrive – 6pm</p> <p>Start – 6.30pm</p> <p>Finish – 8pm</p> <p>Follow us on Twitter @The_JVM_Thing</p> <p>The JVM Thing is a tech networking group for the JVM language community, bringing together Software enthusiasts to show, tell, share knowledge and discuss key topics related to the JVM ecosystem.</p> "
-  url: https://www.meetup.com/Leeds-JVMThing/events/252192406/
-  is-free: true
-  starts: 2018-07-12T17:00:00.0000000
-  ends: 2018-07-12T19:30:00.0000000
-  venue: Sky 2
 - name: 'Fintech North Event: Blockchain in Practice'
   description: '<p>Not our event - but thought would be of interest to the group.<br/>Free, but registration required.<br/>More info here: <a href="https://www.fintechnorth.uk/blog/fintech-north-july-seminar-blockchain-practice-agenda/" class="linkified">https://www.fintechnorth.uk/blog/fintech-north-july-seminar-blockchain-practice-agenda/</a></p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/252429610/
@@ -46,7 +39,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxkbxb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/252699096/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-07-18T07:00:00.0000000
@@ -141,6 +134,21 @@
   starts: 2018-07-25T18:00:00.0000000
   ends: 2018-07-25T20:00:00.0000000
   venue: York Priory Street Centre
+- name: An introduction to Microsoft Bot Framework + Cognitive Services
+  description: "<p>Abstract: The way in which customers expect to be able to interact with companies is changing. We'll look at this change and how you can take advantage of it by creating chatbots using the Microsoft Bot Framework.</p> <p>We'll cover the basics, including what tools you can use and where to go in order to get started. Then we'll see how we can use Microsoft Cognitive Services to sprinkle AI magic on your chatbots and turn them from simple command-line pretenders to useful tools that customers will love.</p> <p>Come along and become a chatbot builder for your organisation today!</p> <p>Bio: James Mann (Twitter @jamesemann) is a Microsoft MVP working as a software consultant at Black Marble with interests in chatbots and cognitive services.</p> "
+  url: https://www.meetup.com/Leeds-Sharp/events/249148124/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2018-07-26T17:30:00.0000000
+  ends: 2018-07-26T20:00:00.0000000
+  venue: Platform
+- name: Leeds Ruby Thing meetup
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are sometimes one or two short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  url: https://www.meetup.com/LeedsRubyThing/events/250714092/
+  is-free: true
+  starts: 2018-07-26T18:30:00.0000000
+  ends: 2018-07-26T22:30:00.0000000
+  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/252624313/
