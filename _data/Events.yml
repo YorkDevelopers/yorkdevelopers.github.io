@@ -817,14 +817,6 @@
   starts: 2018-07-16T07:00:00.0000000
   ends: 2018-07-16T17:00:00.0000000
   venue: Monona Terrace Community and Convention Center
-- name: Hi-Tech Race Series Pre-Festival Panel & Reception w/ 'Celebrity Techies'
-  description: "Get excited about Atlanta's tech future! JOIN US for a PRE-FESTIVAL Kick-off event for the Hi-Tech Race Series 5K & Consumer Tech Innovation Festival!\nOn Friday, July 13th from 5pm - 7pm we are hosting a Festival Kickoff themed, \"My Tech Guest Needs No Introduction\" from 5 - 7 pm at the Fernbank Science Center Planetarium. The short program will feature a light reception and a \"Tech Talk\" around Atlanta's tech future with several of our favorite techies working in a variety of industries. The key panel question is, \"How are we preparing for Atlanta's future as a technology hub for innovation and growth?\"\nOur curated roster of \"Celebrity Techies\" are local technologists working in a variety of consumer technology fields that are helping to imagine and design Atlanta's technological future. This year we are pleased to welcome:\n\n\nDr. Ayanna Howard, Roboticist, Chair of the School of Interactive Computing, Georgia Institute of Technology, tech founder (Zyrobotics)\n\n\nKen Meyer, Consumer Banking Chief Technology Officer, SunTrust Banks \n\n\nNoel Linden, Systems Engineer, T Mobile US, Inc.\n\n\nPhil Ventimiglia, Chief Innovation Officer, Georgia State University\n\n\nM. von Nkosi, Atlanta architect and urban designer, local tech founder/app developer (MiRialiti), Institute for Local Innovations\n\n\nDr. Arya Basu, Visual Information Specialist, Emory University's Center for Digital Scholarship\n\n\nRight after the panel there will be a brief 10-minute Q & A followed by an introduction to the planetarium's new 4K projection technology. Finally, attendees are invited to remain for a planetarium show at 7:00* (reception/panel are FREE, but patrons must purchase ticket on site day-of event for planetarium show: adults $7, children $5). *Please support the Planetarium - it is truly one of Atlanta's greatest educational treasures bringing such joy, inspiration and wonder to the city.\n\n>> BIB PICKUP FOR 5K RACE PARTICIPANTS 7/13 \nRegistered race participants will be able to pick up their race bib at this location (Fernbank Science Center) from 4:00 pm - 7:00 pm. Stop by to pick up your bib and then enjoy the reception, techie meet-n-greet, panel discussion and planetarium show! \nCheers,\nTeam Hi-Tech\n"
-  url: https://www.eventbrite.com/e/hi-tech-race-series-pre-festival-panel-reception-w-celebrity-techies-tickets-46979135860?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/46006240/254715645210/1/original.jpg?h=200&w=450&auto=compress&rect=0,40,624,312&s=9b55eaa9988065cfb9fc7c641ed5fdca
-  starts: 2018-07-13T17:00:00.0000000
-  ends: 2018-07-13T20:00:00.0000000
-  venue: Fernbank Science Center Planetarium
 - name: MCDB's 50th Anniversary
   description: >-
     The University of Colorado Boulder is pleased to announce that the Department of Molecular, Cellular and Developmental Biology will celebrate its Golden Anniversary September 8-9, 2018.
@@ -1098,20 +1090,6 @@
   starts: 2018-07-27T18:00:00.0000000
   ends: 2018-07-27T19:00:00.0000000
   venue: Jim and Linda Lee Planetarium
-- name: 'Fintech North Event: Blockchain in Practice'
-  description: '<p>Not our event - but thought would be of interest to the group.<br/>Free, but registration required.<br/>More info here: <a href="https://www.fintechnorth.uk/blog/fintech-north-july-seminar-blockchain-practice-agenda/" class="linkified">https://www.fintechnorth.uk/blog/fintech-north-july-seminar-blockchain-practice-agenda/</a></p> '
-  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/252429610/
-  is-free: true
-  starts: 2018-07-13T07:00:00.0000000
-  ends: 2018-07-13T10:00:00.0000000
-  venue: Squire Patton Boggs
-- name: Crypto catchup (Friday)
-  description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
-  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/251331485/
-  is-free: true
-  starts: 2018-07-13T11:30:00.0000000
-  ends: 2018-07-13T12:30:00.0000000
-  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250963903/
@@ -1170,7 +1148,7 @@
   venue: 3rd Floor, Apsley House
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxkbzb/
+  url: https://www.meetup.com/YorkDevelopers/events/252754774/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-07-19T18:00:00.0000000
