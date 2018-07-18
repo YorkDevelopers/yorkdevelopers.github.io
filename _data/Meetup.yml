@@ -1,10 +1,3 @@
-- name: 'Tech Contractor Networking: Leeds'
-  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
-  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/250003794/
-  is-free: true
-  starts: 2018-07-17T11:15:00.0000000
-  ends: 2018-07-17T11:45:00.0000000
-  venue: Banyan Bar Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/250963904/
@@ -31,7 +24,7 @@
   ends: 2018-07-18T19:30:00.0000000
   venue: York St.John University
 - name: Leeds Blockchain Meetup - Evening Event 19th July 2018
-  description: '<p>• Reception 18:00<br/>• Start: 18:30<br/>• Networking: 20:00 onwards</p> <p>Hopefully the beginning of a regular evening meetup for the group at a new venue – Northern Monk Brew Co, Marshalls Mill, Leeds, LS11 9YJ.</p> <p>This event will feature interesting and thought provoking presentations from individuals at the vanguard of distributed ledger technology:</p> <p>An Introduction to IOTA</p> <p>By Adrian Marks</p> <p>IOTA is a ground breaking new open-source distributed ledger that does not use a blockchain. Its innovative new quantum-proof protocol, known as the Tangle, gives rise to unique new features like zero fees, infinite scalability, fast transactions, secure data transfer and many others.</p> <p>This presentation will focus on an overview of the technology, the Foundation and people behind the protocol, IOTA’s strengths and weaknesses and if there is time a deeper dive into the protocol, and coding using the IOTA APIs.</p> <p>The Leeds Blockchain Hackathon</p> <p>Andy Thomas</p> <p>A hackathon is being planned for the weekend of 28th September 2018. This will be one of the first, if not the first blockchain specific hackathon to be held in Leeds.</p> <p>Andy will give a brief presentation of how this will work, how many teams, content and the all important bit .... how to get involved!</p> '
+  description: "<p>• Reception 18:00<br/>• Start: 18:30<br/>• Networking: 20:00 onwards</p> <p>Hopefully the beginning of a regular evening meetup for the group at a new venue – Northern Monk Brew Co, Marshalls Mill, Leeds, LS11 9YJ.</p> <p>This event will feature interesting and thought provoking presentations from individuals at the vanguard of distributed ledger technology:</p> <p>An Introduction to IOTA<br/>By Adrian Marks</p> <p>IOTA is a ground breaking new open-source distributed ledger that does not use a blockchain. Its innovative new quantum-proof protocol, known as the Tangle, gives rise to unique new features like zero fees, infinite scalability, fast transactions, secure data transfer and many others.</p> <p>This presentation will focus on an overview of the technology, the Foundation and people behind the protocol, IOTA’s strengths and weaknesses and if there is time a deeper dive into the protocol, and coding using the IOTA APIs.</p> <p>Leeds Blockchain Hackathon Discussion</p> <p>A hackathon is being organised for Q3 2018. This will be one of the first, if not the first blockchain hackathon to be held in Leeds.</p> <p>Andrew will deputise for Andy and give a brief summary of where we're at with this. Suggestions are welcome.</p> "
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/252265640/
   is-free: true
   starts: 2018-07-19T17:00:00.0000000
@@ -636,4 +629,12 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-06-20T18:00:00.0000000
   ends: 2019-06-20T21:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzkbxb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-07-18T18:00:00.0000000
+  ends: 2019-07-18T21:00:00.0000000
   endorsed: true
