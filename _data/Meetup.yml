@@ -7,14 +7,6 @@
   ends: 2018-07-23T09:30:00.0000000
   venue: The Perky Peacock
   endorsed: true
-- name: '#003 - Server Side Swift'
-  description: "<p>This month we are taking a look at server side swift.</p> <p>Agenda</p> <p>\U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>\U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>\U0001F680 Topic - Server Side Swift</p> <p><a href=\"https://swift.org/server-apis/\" class=\"linkified\">https://swift.org/server-apis/</a></p> <p><a href=\"https://forums.swift.org/c/development/server\" class=\"linkified\">https://forums.swift.org/c/development/server</a></p> <p><a href=\"https://vapor.codes\" class=\"linkified\">https://vapor.codes</a></p> <p><a href=\"https://www.kitura.io\" class=\"linkified\">https://www.kitura.io</a></p> <p>\U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>\U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
-  url: https://www.meetup.com/YorkSwift/events/251801737/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/7/9/c/thumb_472007004.jpeg
-  starts: 2018-07-24T18:00:00.0000000
-  ends: 2018-07-24T20:00:00.0000000
-  venue: The Coffee Bureau
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/252460462/
@@ -40,6 +32,13 @@
   starts: 2018-07-25T17:00:00.0000000
   ends: 2018-07-25T19:00:00.0000000
   venue: BJSS Limited
+- name: Tech//Connect presents 'Breaking the Blockchain' with BJSS
+  description: '<p>Not our event - but thought would be of interest to the group.<br/>Free, but registration required.<br/>More info here: <a href="https://www.amsourcetechnology.com/events/tech-connect-presents-breaking-the-blockchain-with-bjss-81762514517" class="linkified">https://www.amsourcetechnology.com/events/tech-connect-presents-breaking-the-blockchain-with-bjss-81762514517</a></p> '
+  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/252969568/
+  is-free: true
+  starts: 2018-07-25T17:00:00.0000000
+  ends: 2018-07-25T19:00:00.0000000
+  venue: BJSS Limited
 - name: July - Ash Winter & Rael Sasiak-Rushby
   description: "<p>Join us to hear from Ash Winter and Rael Sasiak-Rushby, as well as a chance to win a code for a year subscription for a Jetbrains toolbox product of your choice!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Ash Winter - A Testers Guide to the Illusions of Unit Testing<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Rael Sasiak-Rushby - I can write my Webscript with no alphachars<br/>8:20 - 9:00: Social &amp; point that people can leave</p> <p>Talks:<br/>Ash Winter - A Testers Guide to the Illusions of Unit Testing<br/>\"One area that testers might be able to enhance their contributions to software development teams is how we perceive and contribute to unit testing. Being able to influence this type of testing in a positive manner is a skill that testers will need to get to grips with, as more companies start to embrace a model of lone testers in cross functional teams. The shift of focus from primarily the testing that testers do, to the testing that the team does, is a key shift in thinking and behaviour.</p> <p>To facilitate this shift, I believe testers busting their own illusions about this aspect of building something good would bring us much closer to developers, and help us realise what other layers of testing can cover most effectively. The last point is pertinent here, as knowing and guiding unit testing brings the role of integration, acceptance and exploratory testing into sharp focus.</p> <p>This is a topic that has always intruiged me, having predominantly worked as a single tester on a team for the last five or so years. I reached out to the community with the question \"What do testers believe about unit testing?\" and received a lot of engagement. The good users of Twitter added another 50 or so illusions that testers might have about this layer of testing. I figured that based on that level of engagement, maybe this would make an interesting talk! It wasn't only testers who responded too, suggesting that there might be some shared illusions about unit testing that are cross discplinary.</p> <p>The growing list intruiged me, so I wrote a blog with the raw list, it can be found here <a href=\"http://testingisbelieving.blogspot.co.uk/2017/12/testers-guide-to-myths-of-unit-testing.html\" class=\"linkified\">http://testingisbelieving.blogspot.co.uk/2017/12/testers-guide-to-myths-of-unit-testing.html</a></p> <p>The list alone is interesting but now I would like to share my analysis of it with you, focusing on:</p> <p>- Recurring themes within the list and how to address them as a tester or developer.<br/>- Particular illusions to look out for with examples from my recent past.<br/>- A guide for developers to engage with testers on unit testing, and testers with developers.\"</p> <p>Rael Sasiak-Rushby - I can write my Webscript with no alphachars<br/>\"It's about some of the crazy things about JavaScript \"under the hood\" learnt through filter evasion, explaining how I can write filly compliant and legit JavaScript that doesn't use any of the letters a-z.\"</p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href=\"https://leedsjs.github.io/code-of-conduct/\" class=\"linkified\">https://leedsjs.github.io/code-of-conduct/</a></p> "
   url: https://www.meetup.com/LeedsJS/events/252591892/
@@ -48,14 +47,6 @@
   starts: 2018-07-25T17:30:00.0000000
   ends: 2018-07-25T20:00:00.0000000
   venue: Platform
-- name: SEO York - Networking
-  description: "<p>We are planning to host the event on the last Wednesday of each month. SEO York meetup is for general networking with like-minded people and to welcome people who are new to (or interested in) SEO and online marketing. Food and Drink will be provided in the form of hot and cold drinks (including beer) and buffet style food (sandwiches, etc...). You're welcome to arrive at any time after 6:00pm. We are open to suggestions regarding the schedule for future events and would like to hear from the group as to what they would like to see? A projector is available if you would like to do a presentation, please let me know before hand via meetup message. Also any allergies or special food requests, please let me know via meetup message. Thanks and it will be great to see you all there :)</p> "
-  url: https://www.meetup.com/SEO-York/events/251987579/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/c/0/f/5/thumb_471349397.jpeg
-  starts: 2018-07-25T18:00:00.0000000
-  ends: 2018-07-25T20:00:00.0000000
-  venue: York Priory Street Centre
 - name: An introduction to Microsoft Bot Framework + Cognitive Services
   description: "<p>Abstract: The way in which customers expect to be able to interact with companies is changing. We'll look at this change and how you can take advantage of it by creating chatbots using the Microsoft Bot Framework.</p> <p>We'll cover the basics, including what tools you can use and where to go in order to get started. Then we'll see how we can use Microsoft Cognitive Services to sprinkle AI magic on your chatbots and turn them from simple command-line pretenders to useful tools that customers will love.</p> <p>Come along and become a chatbot builder for your organisation today!</p> <p>Bio: James Mann (Twitter @jamesemann) is a Microsoft MVP working as a software consultant at Black Marble with interests in chatbots and cognitive services.</p> "
   url: https://www.meetup.com/Leeds-Sharp/events/249148124/
