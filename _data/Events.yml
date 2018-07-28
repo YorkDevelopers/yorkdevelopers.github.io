@@ -630,17 +630,6 @@
   starts: 2018-08-16T08:00:00.0000000
   ends: 2018-08-16T17:00:00.0000000
   venue: DoubleTree by Hilton Pittsburgh Cranberry
-- name: Prescott Summer Night Sky
-  description: >-
-    It is summertime! This can be one of the best times of year to see the stars when skies are clear, but rain or shine the planetarium is ready to show you the universe. Let's explore the sky of summer in Prescott, including constellations, the stars that make them up, the planets that orbit them, and more! The show will be performed live by Planetarium Director Eric Edelman.
-
-    Shows will last for approximately 45 minutes. Tickets are free! Please remember to arrive at the planetarium at least 10 minutes prior to the showtime indicated on your ticket.
-  url: https://www.eventbrite.com/e/prescott-summer-night-sky-tickets-47127247867?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/46176391/225580502912/1/original.jpg?h=200&w=450&auto=compress&rect=0,288,1920,960&s=b250a28e87be1a70878672c0d5c68ea5
-  starts: 2018-07-27T18:00:00.0000000
-  ends: 2018-07-27T19:00:00.0000000
-  venue: Jim and Linda Lee Planetarium
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/252624313/
@@ -725,6 +714,13 @@
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-08-08T07:00:00.0000000
   ends: 2018-08-08T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Crypto catchup (Friday)
+  description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
+  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/252784036/
+  is-free: true
+  starts: 2018-08-10T11:30:00.0000000
+  ends: 2018-08-10T12:30:00.0000000
   venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
