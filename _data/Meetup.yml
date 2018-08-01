@@ -1,3 +1,11 @@
+- name: Strong Pair Programming
+  description: '<p>Are you still doing that old weak pair programming style? Are you often sat there watching someone code, telling people that they have a typo, or that they have missed a semi colon?</p> <p>At the next Leeds Code Dojo you get the chance to pair up and try your hand at STRONG pair programming.</p> <p>See the LCD website for details: <a href="http://leedscodedojo.github.io/" class="linkified">http://leedscodedojo.github.io/</a></p> '
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/252903199/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2018-08-01T17:00:00.0000000
+  ends: 2018-08-01T20:00:00.0000000
+  venue: Callcredit Information Group Limited
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253161700/
@@ -15,14 +23,6 @@
   starts: 2018-08-01T07:00:00.0000000
   ends: 2018-08-01T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Strong Pair Programming
-  description: '<p>Are you still doing that old weak pair programming style? Are you often sat there watching someone code, telling people that they have a typo, or that they have missed a semi colon?</p> <p>At the next Leeds Code Dojo you get the chance to pair up and try your hand at STRONG pair programming.</p> <p>See the LCD website for details: <a href="http://leedscodedojo.github.io/" class="linkified">http://leedscodedojo.github.io/</a></p> '
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/252903199/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2018-08-01T17:00:00.0000000
-  ends: 2018-08-01T20:00:00.0000000
-  venue: Callcredit Information Group Limited
 - name: Front End York - August Meetup
   description: '<p>Speakers TBC</p> '
   url: https://www.meetup.com/YorkDevelopers/events/252949356/
@@ -109,7 +109,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxlbbc/
+  url: https://www.meetup.com/YorkDevelopers/events/253329954/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-08-20T06:30:00.0000000
