@@ -1,19 +1,3 @@
-- name: Umbraco Meetup
-  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>Talks:<br/>Matthew Mirzai - An introduction to Hangfire and how to use it</p> <p>Matthew Wise - Service Workers what why? and how.</p> <p>Giveaways:<br/>A draw a Jetbrains coupon to get one of their programs for free!<br/>BINGO (poor attempt) for some Umbraco Swag!</p> <p>You may of noticed a change of venue for this month! Its just behind Shears Yard</p> "
-  url: https://www.meetup.com/umbLeeds/events/252353925/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2018-08-02T16:30:00.0000000
-  ends: 2018-08-02T19:30:00.0000000
-  venue: Enjoy Digital
-- name: APIs on the Scale of Decades with Gary Fleming
-  description: "<p>\"APIs are hard. They are pretty much ship now, regret later.\" -- Chet Haase.</p> <p>What do Greek philosophy, early video games, and Japanese bullet trains tell us about how we should design our APIs?</p> <p>Writing any old API is easy. Writing an API that can evolve to meet your needs over the coming months, years, and even decades; now that's hard. We'll look at some common practices and try to see where they go wrong, some misunderstood techniques and how to use them better, and some less common practices that might be useful.</p> <p>Let me give you some good advice that'll help you evolve your APIs, and some big ideas that might provoke some interesting thoughts.</p> <p>Bio:<br/>Gary is an agile provocateur, software nomad, and lean mercenary. His main hobby is to try and help companies to build better software in better ways. Sometimes this is by helping them with the messy human communication side of agile, and sometimes it's through teaching better software crafting practices - but it's usually at least some of each. Coaching, mentoring, writing, and showing; whatever helps in the context. You'll find him at various local meetups trying to both share what he knows and learn from his peers.</p> "
-  url: https://www.meetup.com/dotnetYork/events/248885638/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2018-08-02T17:30:00.0000000
-  ends: 2018-08-02T19:30:00.0000000
-  venue: Trailight Boardroom
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253283486/
@@ -34,7 +18,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxlblb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/253407723/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-08-08T07:00:00.0000000
@@ -73,6 +57,21 @@
   starts: 2018-08-15T07:00:00.0000000
   ends: 2018-08-15T10:00:00.0000000
   venue: La Bottega Milanese
+- name: 'Meetup #1: Welcome to the community'
+  description: "<p>We are pleased to announce our first York meetup and are looking forward to meeting you all there.</p> <p>Agenda:</p> <p>6:30 - Arrive, coffee/tea, nibbles and networking<br/>6:45 - Welcome to the Group<br/>7:00 - Practical AWS Fargate (a look at AWS's container focused platform)<br/>7:30 - Coffee/tea and networking<br/>7:45 - Talk from Isotoma<br/>8:15 - To the pub for more networking!</p> <p>Attendees are also welcome to arrive early and use the facilities at David Lloyd. (for 1 hour before the meetup)</p> "
+  url: https://www.meetup.com/York-Amazon-Web-Services-User-Group/events/252272373/
+  is-free: true
+  starts: 2018-08-16T17:30:00.0000000
+  ends: 2018-08-16T19:30:00.0000000
+  venue: David Lloyd
+- name: CodeUp Leeds Meetup
+  description: "<p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on slack: <a href=\"https://codeupleeds.slack.com\" class=\"linkified\">https://codeupleeds.slack.com</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
+  url: https://www.meetup.com/CodeUp-Leeds/events/252286826/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
+  starts: 2018-08-16T17:45:00.0000000
+  ends: 2018-08-16T20:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/247755206/
