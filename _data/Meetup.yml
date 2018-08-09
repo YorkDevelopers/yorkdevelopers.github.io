@@ -1,20 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/253283488/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-08-08T06:30:00.0000000
-  ends: 2018-08-08T09:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/253407723/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-08-08T07:00:00.0000000
-  ends: 2018-08-08T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/252784036/
@@ -56,7 +39,7 @@
   ends: 2018-08-16T19:30:00.0000000
   venue: David Lloyd
 - name: CodeUp Leeds Meetup
-  description: "<p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on slack: <a href=\"https://codeupleeds.slack.com\" class=\"linkified\">https://codeupleeds.slack.com</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
+  description: "<p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
   url: https://www.meetup.com/CodeUp-Leeds/events/252286826/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
@@ -80,6 +63,14 @@
   ends: 2018-08-20T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: Kaizen – Beyond Retrospectives
+  description: '<p>Kaizen is a Japanese philosophy that focusses on Continuos Improvement in workplace. For an organisation in their Agile Journey, they need to have a Kaizen focus and work on Kaizen Transformation</p> <p>Retrospectives, one of the key tools, helps in identifying areas of improvement and help in Kaizen transformation. Bigger challenges lie post the retrospective, i.e. executing the improvement actions. Overcoming the challenge in implementing change is what makes Kaizen Transformation a success.</p> <p>As part of this talk, Rohit will share his experiences with Implementing Change and going beyond Retrospectives to achieve Kaizen.</p> <p>This session will be held by Rohit Ratan Mani.</p> '
+  url: https://www.meetup.com/Agile-in-Leeds/events/245754399/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
+  starts: 2018-08-21T17:00:00.0000000
+  ends: 2018-08-21T19:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxlbdc/
@@ -89,6 +80,14 @@
   ends: 2018-08-22T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxlbdc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-08-22T07:00:00.0000000
+  ends: 2018-08-22T10:00:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxlbkc/
@@ -541,6 +540,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-01-28T07:30:00.0000000
   ends: 2019-01-28T10:30:00.0000000
+  venue: Drift In At fat Face
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzcbnc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-01-30T07:30:00.0000000
+  ends: 2019-01-30T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
 - name: Game Developers, Monthly Meeting
