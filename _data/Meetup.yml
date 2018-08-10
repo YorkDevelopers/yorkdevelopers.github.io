@@ -25,7 +25,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxlbtb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/253640222/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-08-15T07:00:00.0000000
@@ -63,14 +63,6 @@
   ends: 2018-08-20T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
-- name: Kaizen – Beyond Retrospectives
-  description: '<p>Kaizen is a Japanese philosophy that focusses on Continuos Improvement in workplace. For an organisation in their Agile Journey, they need to have a Kaizen focus and work on Kaizen Transformation</p> <p>Retrospectives, one of the key tools, helps in identifying areas of improvement and help in Kaizen transformation. Bigger challenges lie post the retrospective, i.e. executing the improvement actions. Overcoming the challenge in implementing change is what makes Kaizen Transformation a success.</p> <p>As part of this talk, Rohit will share his experiences with Implementing Change and going beyond Retrospectives to achieve Kaizen.</p> <p>This session will be held by Rohit Ratan Mani.</p> '
-  url: https://www.meetup.com/Agile-in-Leeds/events/245754399/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
-  starts: 2018-08-21T17:00:00.0000000
-  ends: 2018-08-21T19:00:00.0000000
-  venue: 3rd Floor, Apsley House
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxlbdc/
@@ -88,6 +80,14 @@
   starts: 2018-08-22T07:00:00.0000000
   ends: 2018-08-22T10:00:00.0000000
   venue: La Bottega Milanese
+- name: Ministry of Testing Leeds - August 2018
+  description: "<p>Following on from the successful first meetup, Ministry of Testing Leeds is back with another brilliant evening!</p> <p>Ministry of Testing is all about testing in its many forms, so you can expect discussions and talks on a wide range of topics. Testing affects all aspects of Software Development so if you have an interest in or work in Software Engineering, then this meetup is for you!</p> <p>For this meetup, we'll be running a format we call \"Ask the Community!\". We want you to contribute any issues you have around testing - it might be at work, for a pet project or anywhere else. We'll then put these ideas out in to the community and discuss potential solutions.</p> <p>It's a great way of looking to get innovative ideas and suggestions for your burning issues so come along to get your idea discussed or get involved in discussing others!</p> <p>Agenda:</p> <p>18:30 - Doors open<br/>19:00 - Introduction, who are MoT and meet the organisers<br/>19:10 - Introduction to case studies<br/>19:40 - Group Activity: Brainstorming<br/>20:10 - Break<br/>20:20 - Group Activity: Present thoughts and discuss<br/>20:50 - Wrap up<br/>21:00 - Off to pub!</p> <p>Sponsors:</p> <p>We are pleased to be sponsored by Fruition IT for this meetup. Without sponsorship putting on these events would simply not be possible. You can reach Fruition IT at <a href=\"http://www.fruitionit.co.uk/\" class=\"linkified\">http://www.fruitionit.co.uk/</a> and you'll be able to meet them on the night.</p> "
+  url: https://www.meetup.com/Ministry-of-Testing-Leeds/events/253407820/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/b/0/f/thumb_470671503.jpeg
+  starts: 2018-08-23T18:00:00.0000000
+  ends: 2018-08-23T20:00:00.0000000
+  venue: Infinity Works Consulting
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxlbkc/
