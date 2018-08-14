@@ -442,15 +442,6 @@
   venue: DoubleTree by Hilton Pittsburgh Cranberry
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/253283489/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-08-13T06:30:00.0000000
-  ends: 2018-08-13T09:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253283490/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -490,14 +481,6 @@
   ends: 2018-08-20T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
-- name: Kaizen – Beyond Retrospectives
-  description: '<p>Kaizen is a Japanese philosophy that focusses on Continuos Improvement in workplace. For an organisation in their Agile Journey, they need to have a Kaizen focus and work on Kaizen Transformation</p> <p>Retrospectives, one of the key tools, helps in identifying areas of improvement and help in Kaizen transformation. Bigger challenges lie post the retrospective, i.e. executing the improvement actions. Overcoming the challenge in implementing change is what makes Kaizen Transformation a success.</p> <p>As part of this talk, Rohit will share his experiences with Implementing Change and going beyond Retrospectives to achieve Kaizen.</p> <p>This session will be held by Rohit Ratan Mani.</p> '
-  url: https://www.meetup.com/Agile-in-Leeds/events/245754399/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
-  starts: 2018-08-21T17:00:00.0000000
-  ends: 2018-08-21T19:00:00.0000000
-  venue: 3rd Floor, Apsley House
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxlbdc/
@@ -984,6 +967,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-01-30T07:30:00.0000000
   ends: 2019-01-30T10:30:00.0000000
+  venue: Drift In At fat Face
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbgb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-02-04T07:30:00.0000000
+  ends: 2019-02-04T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
 - name: Game Developers, Monthly Meeting
