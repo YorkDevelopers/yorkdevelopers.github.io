@@ -498,14 +498,6 @@
   starts: 2018-08-22T07:00:00.0000000
   ends: 2018-08-22T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Ministry of Testing Leeds - August 2018
-  description: "<p>Following on from the successful first meetup, Ministry of Testing Leeds is back with another brilliant evening!</p> <p>Ministry of Testing is all about testing in its many forms, so you can expect discussions and talks on a wide range of topics. Testing affects all aspects of Software Development so if you have an interest in or work in Software Engineering, then this meetup is for you!</p> <p>For this meetup, we'll be running a format we call \"Ask the Community!\". We want you to contribute any issues you have around testing - it might be at work, for a pet project or anywhere else. We'll then put these ideas out in to the community and discuss potential solutions.</p> <p>It's a great way of looking to get innovative ideas and suggestions for your burning issues so come along to get your idea discussed or get involved in discussing others!</p> <p>Agenda:</p> <p>18:30 - Doors open<br/>19:00 - Introduction, who are MoT and meet the organisers<br/>19:10 - Introduction to case studies<br/>19:40 - Group Activity: Brainstorming<br/>20:10 - Break<br/>20:20 - Group Activity: Present thoughts and discuss<br/>20:50 - Wrap up<br/>21:00 - Off to pub!</p> <p>Sponsors:</p> <p>We are pleased to be sponsored by Fruition IT for this meetup. Without sponsorship putting on these events would simply not be possible. You can reach Fruition IT at <a href=\"http://www.fruitionit.co.uk/\" class=\"linkified\">http://www.fruitionit.co.uk/</a> and you'll be able to meet them on the night.</p> "
-  url: https://www.meetup.com/Ministry-of-Testing-Leeds/events/253407820/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/b/0/f/thumb_470671503.jpeg
-  starts: 2018-08-23T18:00:00.0000000
-  ends: 2018-08-23T20:00:00.0000000
-  venue: Infinity Works Consulting
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxlbkc/
@@ -1025,6 +1017,14 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-07-18T18:00:00.0000000
   ends: 2019-07-18T21:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzlbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-08-15T18:00:00.0000000
+  ends: 2019-08-15T21:00:00.0000000
   endorsed: true
 - name: YPS Study Tour to Shropshire
   description: The lovely county of Shropshire must surely be one of England&#8217;s secret gems. We are adding a visit to Liverpool&#8217;s spectacular Terracotta Warriors exhibition on our return journey.
