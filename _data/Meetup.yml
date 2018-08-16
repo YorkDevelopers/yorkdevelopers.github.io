@@ -1,20 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/253283490/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-08-15T06:30:00.0000000
-  ends: 2018-08-15T09:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/253640222/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-08-15T07:00:00.0000000
-  ends: 2018-08-15T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: 'Meetup #1: Welcome to the community'
   description: "<p>We are pleased to announce our first York meetup and are looking forward to meeting you all there.</p> <p>Agenda:</p> <p>6:30 - Arrive, coffee/tea, nibbles and networking<br/>6:45 - Welcome to the Group<br/>7:00 - Practical AWS Fargate (a look at AWS's container focused platform)<br/>7:30 - Coffee/tea and networking<br/>7:45 - Talk from Isotoma<br/>8:15 - To the pub for more networking!</p> <p>Attendees are also welcome to arrive early and use the facilities at David Lloyd. (for 1 hour before the meetup)</p> "
   url: https://www.meetup.com/York-Amazon-Web-Services-User-Group/events/252272373/
@@ -22,6 +5,14 @@
   starts: 2018-08-16T17:30:00.0000000
   ends: 2018-08-16T19:30:00.0000000
   venue: David Lloyd
+- name: CodeUp Leeds Meetup
+  description: "<p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
+  url: https://www.meetup.com/CodeUp-Leeds/events/252286826/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
+  starts: 2018-08-16T17:45:00.0000000
+  ends: 2018-08-16T20:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/247755206/
@@ -39,9 +30,17 @@
   ends: 2018-08-20T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: Kaizen – Beyond Retrospectives
+  description: '<p>Kaizen is a Japanese philosophy that focusses on Continuos Improvement in workplace. For an organisation in their Agile Journey, they need to have a Kaizen focus and work on Kaizen Transformation</p> <p>Retrospectives, one of the key tools, helps in identifying areas of improvement and help in Kaizen transformation. Bigger challenges lie post the retrospective, i.e. executing the improvement actions. Overcoming the challenge in implementing change is what makes Kaizen Transformation a success.</p> <p>As part of this talk, Rohit will share his experiences with Implementing Change and going beyond Retrospectives to achieve Kaizen.</p> <p>This session will be held by Rohit Ratan Mani.</p> '
+  url: https://www.meetup.com/Agile-in-Leeds/events/245754399/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
+  starts: 2018-08-21T17:00:00.0000000
+  ends: 2018-08-21T19:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxlbdc/
+  url: https://www.meetup.com/YorkDevelopers/events/253804957/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-08-22T06:30:00.0000000
@@ -58,7 +57,7 @@
   venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxlbkc/
+  url: https://www.meetup.com/YorkDevelopers/events/253804958/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-08-27T06:30:00.0000000
@@ -67,16 +66,40 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxlbmc/
+  url: https://www.meetup.com/YorkDevelopers/events/253804963/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-08-29T06:30:00.0000000
   ends: 2018-08-29T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxlbmc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-08-29T07:00:00.0000000
+  ends: 2018-08-29T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: August - Jamie Barton & Jonathan Steele
+  description: '<p>Join us to hear from Jamie Barton and Jonathan Steele, as well as a chance to win a code for a year subscription for a Jetbrains toolbox product of your choice!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Jamie Barton - The current state of GraphQL<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Jonathan Steele - The Great Gatsby<br/>8:20 - 9:00: Social &amp; point that people can leave</p> <p>Talks:<br/>Jamie Barton - The current state of GraphQL<br/>"Jamie is a Developer Success Engineer working at Moltin. In this short talk Jamie will take a deep dive into an example GraphQL server and how it works. Jamie will also cover the basics of GraphQL and provide an up to date status of what GraphQL has to offer and what the community are saying about it."</p> <p>Jonathan Steele - The Great Gatsby<br/>"Why you should build your next static site with Gatsby - a React powered static site generator. We explore the JAMstack architecture, the technologies behind Gatsby and how easy it is to get up and running with an ecosystem of powerful data plugins."</p> <p>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href="https://leedsjs.github.io/code-of-conduct/" class="linkified">https://leedsjs.github.io/code-of-conduct/</a></p> '
+  url: https://www.meetup.com/LeedsJS/events/253607036/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2018-08-29T17:45:00.0000000
+  ends: 2018-08-29T20:00:00.0000000
+  venue: Platform
+- name: SEO York - Networking
+  description: "<p>We are planning to host the event on the last Wednesday of each month. SEO York meetup is for general networking with like-minded people and to welcome people who are new to (or interested in) SEO and online marketing. Food and Drink will be provided in the form of hot and cold drinks (including beer) and buffet style food (sandwiches, etc...). You're welcome to arrive at any time after 6:00pm. We are open to suggestions regarding the schedule for future events and would like to hear from the group as to what they would like to see? A projector is available if you would like to do a presentation, please let me know before hand via meetup message. Also any allergies or special food requests, please let me know via meetup message. Thanks and it will be great to see you all there :)</p> "
+  url: https://www.meetup.com/SEO-York/events/252236603/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/c/0/f/5/thumb_471349397.jpeg
+  starts: 2018-08-29T18:00:00.0000000
+  ends: 2018-08-29T20:00:00.0000000
+  venue: York Priory Street Centre
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxmbfb/
+  url: https://www.meetup.com/YorkDevelopers/events/253804965/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-09-03T06:30:00.0000000
@@ -85,7 +108,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxmbhb/
+  url: https://www.meetup.com/YorkDevelopers/events/253804967/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-09-05T06:30:00.0000000
@@ -103,7 +126,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxmbnb/
+  url: https://www.meetup.com/YorkDevelopers/events/253804970/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-09-10T06:30:00.0000000
@@ -112,7 +135,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxmbqb/
+  url: https://www.meetup.com/YorkDevelopers/events/253804971/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-09-12T06:30:00.0000000
@@ -121,7 +144,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxmbwb/
+  url: https://www.meetup.com/YorkDevelopers/events/253804973/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-09-17T06:30:00.0000000
@@ -130,7 +153,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxmbzb/
+  url: https://www.meetup.com/YorkDevelopers/events/253804975/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-09-19T06:30:00.0000000
@@ -147,7 +170,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxmbgc/
+  url: https://www.meetup.com/YorkDevelopers/events/253804976/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-09-24T06:30:00.0000000
@@ -156,7 +179,7 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxmbjc/
+  url: https://www.meetup.com/YorkDevelopers/events/253804977/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-09-26T06:30:00.0000000
@@ -526,6 +549,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-02-04T07:30:00.0000000
   ends: 2019-02-04T10:30:00.0000000
+  venue: Drift In At fat Face
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbjb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-02-06T07:30:00.0000000
+  ends: 2019-02-06T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
 - name: Game Developers, Monthly Meeting
