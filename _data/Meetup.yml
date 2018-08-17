@@ -1,26 +1,3 @@
-- name: 'Meetup #1: Welcome to the community'
-  description: "<p>We are pleased to announce our first York meetup and are looking forward to meeting you all there.</p> <p>Agenda:</p> <p>6:30 - Arrive, coffee/tea, nibbles and networking<br/>6:45 - Welcome to the Group<br/>7:00 - Practical AWS Fargate (a look at AWS's container focused platform)<br/>7:30 - Coffee/tea and networking<br/>7:45 - Talk from Isotoma<br/>8:15 - To the pub for more networking!</p> <p>Attendees are also welcome to arrive early and use the facilities at David Lloyd. (for 1 hour before the meetup)</p> "
-  url: https://www.meetup.com/York-Amazon-Web-Services-User-Group/events/252272373/
-  is-free: true
-  starts: 2018-08-16T17:30:00.0000000
-  ends: 2018-08-16T19:30:00.0000000
-  venue: David Lloyd
-- name: CodeUp Leeds Meetup
-  description: "<p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
-  url: https://www.meetup.com/CodeUp-Leeds/events/252286826/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
-  starts: 2018-08-16T17:45:00.0000000
-  ends: 2018-08-16T20:00:00.0000000
-  venue: 3rd Floor, Apsley House
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/247755206/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-08-16T18:00:00.0000000
-  ends: 2018-08-16T21:00:00.0000000
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253329954/
@@ -30,14 +7,6 @@
   ends: 2018-08-20T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
-- name: Kaizen – Beyond Retrospectives
-  description: '<p>Kaizen is a Japanese philosophy that focusses on Continuos Improvement in workplace. For an organisation in their Agile Journey, they need to have a Kaizen focus and work on Kaizen Transformation</p> <p>Retrospectives, one of the key tools, helps in identifying areas of improvement and help in Kaizen transformation. Bigger challenges lie post the retrospective, i.e. executing the improvement actions. Overcoming the challenge in implementing change is what makes Kaizen Transformation a success.</p> <p>As part of this talk, Rohit will share his experiences with Implementing Change and going beyond Retrospectives to achieve Kaizen.</p> <p>This session will be held by Rohit Ratan Mani.</p> '
-  url: https://www.meetup.com/Agile-in-Leeds/events/245754399/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
-  starts: 2018-08-21T17:00:00.0000000
-  ends: 2018-08-21T19:00:00.0000000
-  venue: 3rd Floor, Apsley House
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804957/
@@ -49,7 +18,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxlbdc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/253838379/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-08-22T07:00:00.0000000
@@ -97,6 +66,20 @@
   starts: 2018-08-29T18:00:00.0000000
   ends: 2018-08-29T20:00:00.0000000
   venue: York Priory Street Centre
+- name: "#SheffDataforGood: South Yorkshire's Community Foundation"
+  url: https://www.meetup.com/Sheffield-Data-for-Good/events/253202895/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/4/f/2/e/thumb_466220270.jpeg
+  starts: 2018-08-30T17:00:00.0000000
+  ends: 2018-08-30T19:00:00.0000000
+- name: The Twelve Factor App Methodology - Ian Cooper
+  description: "<p>You've heard of Cloud Native, the continuous deployment and easy scaling of your server side code. And you've heard about Docker and microservices, but what are 12-factor apps?</p> <p>The Twelve-Factor App methodology (<a href=\"https://12factor.net/\" class=\"linkified\">https://12factor.net/</a>), was created by engineers with experience of delivering apps on Heroku, and is a \"recipe for success\" when authoring code for cloud native senarios. In this presentation we will look at what a Twelve-Factor App is, and demonstrate how to meet the requirements when creating .NET applications. We will show examples using .NET Core, Brighter and Darker, authoring code to meet these requirements and show its deployment using containers.</p> <p>By the end of this talk you will know enough to be able to approach another pillar of Cloud Native.</p> <p>Ian Cooper</p> <p>Polyglot Coding Architect in London, founder of #ldnug, speaker, tabletop gamer, geek. Tattooed, pierced and bearded. The 'guv' on @BrighterCommand</p> "
+  url: https://www.meetup.com/Leeds-Sharp/events/250848493/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2018-08-30T17:30:00.0000000
+  ends: 2018-08-30T19:30:00.0000000
+  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804965/
