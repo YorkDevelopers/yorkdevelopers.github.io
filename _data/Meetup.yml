@@ -1,22 +1,5 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/253804957/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-08-22T06:30:00.0000000
-  ends: 2018-08-22T09:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/253838379/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-08-22T07:00:00.0000000
-  ends: 2018-08-22T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804958/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -83,8 +66,23 @@
   ends: 2018-09-05T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxmbhb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-09-05T07:00:00.0000000
+  ends: 2018-09-05T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Leeds Sitecore User Group September 2018
+  description: '<p>Join us at the next Leeds Sitecore User Group for an opportunity to network, share ideas and hear from some great speakers - and to drink some beer, of course!</p> <p>This event will be sponsored by Real IT and Sagittarius Agency on Wednesday 5th September from 6:30pm.</p> <p>Date: Wednesday 5th September<br/>Location: DoubleTree by Hilton<br/>Time: Arrival from 6pm &amp; presentations from 6:30 - 9pm</p> <p>Lineup:</p> <p>Lee Swainsbury - Sitecore 9 and Ucommerce<br/>Sagittarius (<a href="https://twitter.com/swaino86" class="linkified">https://twitter.com/swaino86</a>)</p> <p>Peter Clisby - Sitecore Headless JSS in Version 9<br/>A dedicate Sitecore developer with 5 years experience working for both Platinum and Gold Sitecore Partners,</p> <p>Sanjay Zalke - Sitecore Cognitive Services<br/>(<a href="https://twitter.com/sanjayzalke" class="linkified">https://twitter.com/sanjayzalke</a>)<br/>A Sitecore developer with 6 years experience working for partners in Leeds and Manchester.</p> <p>Tom Hawkin - Migrating Legacy Sitecore Solutions to Helix<br/>With more than 8 years Sitecore experience Tom has also made the top 50 across the North in the Sitecore league table.</p> <p>There will be a chance to Q&amp;A each of the talks, time permitting.</p> <p>Please RSVP so we have a good idea of numbers!</p> '
+  url: https://www.meetup.com/sug-uk/events/251511728/
+  is-free: true
+  starts: 2018-09-05T17:30:00.0000000
+  ends: 2018-09-05T20:00:00.0000000
+  venue: DoubleTree by Hilton
 - name: Front End York - Big data AI, Writing skills for devs & Fast-paced design
-  description: "<p>We've got Big data AI SaaS, Improving writing skills for developers and design in fast-paced environments lined up!</p> <p>Check back for talk details &amp; speakers</p> "
+  description: "<p>We're back after the summer holidays! We have an awesome set of speakers and talks planned that you won't want to miss</p> <p># PureClarity - A look at how we're building an AI SaaS product using big data. In this talk the Head of Development at PureClarity, John Barton will talk about the architecture they use, as well as some of the problems and challenges they encountered from starting the product through to their first round of external investment.</p> <p># Writing skills for developers - In modern companies, developers are increasingly required to contribute to documentation. In this talk we'll be joined by Dee Vincent-Day, Technical Author at Piksel as she outlines product documentation regulations within the EU and USA, then moves into how to meet regulation requirements.</p> <p># Fast-Paced, Well-Spaced - As tragedy struck at Grenfell, a team of volunteers sprung into action to design from scratch for a crowd of 200,000 people in two weeks. Connor Gurney, MD of Difference York will be sharing details of how their work led to thanks from bereaved families, brought them into international headlines, and taught them the greatest lessons of their lives.</p> <p>We look forward to seeing you all!</p> "
   url: https://www.meetup.com/YorkDevelopers/events/252949370/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -535,6 +533,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-02-11T07:30:00.0000000
   ends: 2019-02-11T10:30:00.0000000
+  venue: Drift In At fat Face
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbrb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-02-13T07:30:00.0000000
+  ends: 2019-02-13T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
 - name: Game Developers, Monthly Meeting
