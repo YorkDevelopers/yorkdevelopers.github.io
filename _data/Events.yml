@@ -368,36 +368,6 @@
   starts: 2018-09-07T07:00:00.0000000
   ends: 2018-09-07T17:00:00.0000000
   venue: Pennington Biomedical Research Center
-- name: MongoDB.local Chicago
-  description: >-
-    MongoDB is coming to Chicago! Join us for a full-day educational conference covering the fundamentals to advanced techniques of app design and performance management. You’ll hear from the team that builds the database and power users running MongoDB deployments. 
-
-    WHAT YOU'LL LEARN
-
-
-    Insight into building applications with MongoDB Stitch, the serverless platform from MongoDB
-
-    How to deploy, operate, and scale your database on all major cloud platforms with MongoDB Atlas
-
-    What’s new in MongoDB 4.0, including multi-document ACID transactions, and how the latest version of MongoDB can help your business succeed
-
-    Best practices from the experts on topics including schema design, analytics, microservices, performance, and more
-
-    Register for hands-on, deep-dive technical sessions, equipping you with the tools you need to build and deploy your giant ideas
-
-
-    Register for a day of hands-on, deep-dive technical sessions, equipping you with the tools you need to build and deploy your giant ideas.
-
-    Admission includes breakfast, lunch, and access to all sessions and sponsor area. Space is limited. Confirm your attendance today. 
-
-    After August 17, you will only be able to RSVP by donating to a good cause. If you'd like to contribute sooner, you can! Select the RSVP + Contribute to a Good Cause! conference pass type. You'll be able to select which nonprofit you donate to on the next page.
-
-    For more information including agenda and speakers, visit https://www.mongodb.com/local.
-  url: https://www.eventbrite.com/e/mongodblocal-chicago-tickets-46899660146?aff=ebapi
-  logo: https://cdn.evbuc.com/images/47399702/3009931056/1/original.jpg?h=200&w=450&auto=compress&rect=0,60,1920,960&s=2db9430287ac93c8b3496c218bc01a56
-  starts: 2018-09-12T09:00:00.0000000
-  ends: 2018-09-12T17:00:00.0000000
-  venue: Hyatt Regency Chicago
 - name: South Carrick vs Clement Basketball (boys)/Básquetbol (ninos)
   description: >-
     *****THIS IS EVENT IS FOR DEMONSTRATION PURPOSES ONLY AND NOT AN ACTUAL EVENT*****
@@ -412,6 +382,23 @@
   starts: 2018-09-08T18:30:00.0000000
   ends: 2018-09-08T21:30:00.0000000
   venue: South Carrick Gym
+- name: Rochester STEM Fair
+  description: >-
+    The 4th annual Rochester STEM Fair is on Wednesday September 5, 2018 from 6:30 to 8 pm at the Rochester High School Cafeteria and Junior High Gymnasium. This free event is open to students grades K-12 and their families throughout central Illinois (not just Rochester).
+
+    Students - learn about all the great STEM activities available and find one that is perfect for you!
+
+    Parents - learn what these different STEM activities do and find one that fits your family's schedule
+
+    Teachers - meet peer teachers and the leaders of the organizations and see what activities and resources are available for you and your students
+
+    More information is available on the Rochester STEM Fair website.
+  url: https://www.eventbrite.ie/e/rochester-stem-fair-registration-46427659379?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/45318746/90671656569/1/original.jpg?h=200&w=450&auto=compress&rect=726,0,2580,1290&s=4dd3c74c49b41ccdf745d8faa864bde5
+  starts: 2018-09-05T18:30:00.0000000
+  ends: 2018-09-05T20:00:00.0000000
+  venue: Rochester High School
 - name: UAB Comprehensive Cancer Center 20th Annual Research Retreat
   description: "Developmental Therapeutics\n \nThe Comprehensive Cancer Center Annual Research Retreat is an opportunity to stimulate interdisciplinary research collaboration and development among cancer researchers. This event is free and we invite faculty, trainees/postdoctoral fellows and staff engaged in cancer research. \n\nBreakfast and lunch will be served to those who register ahead of time. \nFree parking is available as well as valet services.\n\nCo-chairs for this year's event:\nMansoor Saleh, M.D.Eddy Yang, M.D., Ph.D.\n\nKeynote Speakers:\n\nAlex Adjei, M.D., Ph.D., Consultant, Medical Oncology, Professor of Oncology \nMayo College of Medicine\nLaura Esserman, M.D., MBA, Director, Carol Franc Buck Breast Care Center, Professor, School of Medicine\nUniversity of California San Francisco\n\nAfter you register for the Research Retreat, you will receive an email with a link where you may submit your abstract for the retreat. Check back on this page for more information and updates on this year’s event.\nFor questions regarding the research retreat, contact Courtney Bishop at cbishop3@uab.edu"
   url: https://www.eventbrite.com/e/uab-comprehensive-cancer-center-20th-annual-research-retreat-registration-45484393044?aff=ebapi
@@ -486,14 +473,6 @@
   starts: 2018-10-19T19:00:00.0000000
   ends: 2018-10-20T22:00:00.0000000
   venue: Jefferson Tourism and Visitor Center
-- name: Industrial Hub Technologies Show
-  description: An industrial tool expo showcasing the latest in assembly, material handling, robotics, AI, and industry 4.0 technologies.
-  url: https://www.eventbrite.com/e/industrial-hub-technologies-show-registration-47514849193?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48058138/263712350372/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=33e85402f52f06fe4499fae681cb0129
-  starts: 2018-08-23T08:30:00.0000000
-  ends: 2018-08-23T16:00:00.0000000
-  venue: Potawatomi Hotel & Casino
 - name: 'Agile Midwest Open Space/Tracked Conference - 2018 '
   description: >+
     Come join us for Agile Week in St. Louis! 
@@ -564,30 +543,6 @@
   starts: 2018-08-30T08:00:00.0000000
   ends: 2018-08-30T17:00:00.0000000
   venue: The CURTIS- A DoubleTree by Hilton
-- name: 2018 UT Turf & Ornamental Field Day
-  description: The University of Tennessee Turf & Ornamental Field Day has become one of the largest and fastest growing field day events in the United States. Last year our event drew over 500 people interested in the latest strategies for managing infestations of turfgrass weeds and diseases, cultivar evaluations, athletic field turf, and ornamental plant materials. The 2018 University of Tennessee Turf and Ornamental Field Day will be held August 30th in Knoxville, TN. More details are available on the event website, including the agenda for the event.
-  url: https://www.eventbrite.com/e/2018-ut-turf-ornamental-field-day-tickets-45722650679?aff=ebapi
-  logo: https://cdn.evbuc.com/images/44322154/140494926086/1/original.jpg?h=200&w=450&auto=compress&rect=0,571,4256,2128&s=27982b089361358197fcfb8b877b2721
-  starts: 2018-08-30T06:30:00.0000000
-  ends: 2018-08-30T15:30:00.0000000
-  venue: University of Tennessee East TN Research & Education Center
-- name: Rochester STEM Fair
-  description: >-
-    The 4th annual Rochester STEM Fair is on Wednesday September 5, 2018 from 6:30 to 8 pm at the Rochester High School Cafeteria and Junior High Gymnasium. This free event is open to students grades K-12 and their families throughout central Illinois (not just Rochester).
-
-    Students - learn about all the great STEM activities available and find one that is perfect for you!
-
-    Parents - learn what these different STEM activities do and find one that fits your family's schedule
-
-    Teachers - meet peer teachers and the leaders of the organizations and see what activities and resources are available for you and your students
-
-    More information is available on the Rochester STEM Fair website.
-  url: https://www.eventbrite.ie/e/rochester-stem-fair-registration-46427659379?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/45318746/90671656569/1/original.jpg?h=200&w=450&auto=compress&rect=726,0,2580,1290&s=4dd3c74c49b41ccdf745d8faa864bde5
-  starts: 2018-09-05T18:30:00.0000000
-  ends: 2018-09-05T20:00:00.0000000
-  venue: Rochester High School
 - name: Xplode Conference Chicago 2018
   description: >2+
 
@@ -663,43 +618,25 @@
   starts: 2018-09-20T08:30:00.0000000
   ends: 2018-09-20T15:30:00.0000000
   venue: Chicago Marriott O'Hare
-- name: DevOpsDays Chicago 2018
-  description: >+
-    DevOpsDays is coming back to Chicago!
+- name: Women in Tech Summit
+  description: >
+    Capital Factory, in partnership with Women@Austin and DivInc, welcomes you to our second annual Women in Tech Summit, kicking off Austin Startup Week on October 1, 2018. This Summit brings together the most influential entrepreneurs, investors and executives in tech.
 
-    DevOpsDays is involved in the cutting edge of driving collaboration and inclusion of developers, operations, system administrators, and anyone else that interfaces with technology as part of their responsibilities. Presentations, ignite talks, and open spaces will allow topics to span cultural insights as well as tech solutions including automation, monitoring, and virtualization. Whether you want to learn about DevOps, share your experiences, or just talk shop with DevOps practitioners, DevOpsDays is for you. 
-
-    Your ticket includes: 
-
-    * Admission to both days of the event* A light breakfast both days* Catered lunch both days* Snacks! Snacks! Snacks!* Admission to the Tuesday evening social event* The most awesome DevOps experience in Chicago!
-
-    All attendees, speakers, sponsors, and volunteers at our conference are required to follow the Conference Code of Conduct.
-
-    What did people say about previous DevOpsDays Chicago events?
-
-    "I walked into the Chicago DevOps conference without a job in tech, at the beginning of my code school learning experience, alone, where I was assured to be the odd person out by being female and having to google devops the day beforehand. I walked into that conference and learned so much from the experience." - Cora Hays-Magan
-
-    "The talks were informative, enjoyable, and in a few cases, downright enlightening. Open Spaces, the concept of which kind of worried me beforehand, proved to be fantastic forums for sharing. I learned a lot, made some great connections, and can't wait for my next one." - Michael Goodness
-
-    "Organizing events is hard. Very impressed with the team that put on @devopsdaysChi. Loved the public retrospective in the open space today" - @czaroxiejka
-
-    "I'm a geek + I love tools but I think I finally grokked the Culture + Empathy part of devops. Thanks to @devopsdaysChi for making that clear" - @darron
+    Capital Factory is committed to increasing diversity in the tech community and making our coworking space an inclusive and welcoming environment. The Women in Tech Summit is a day full of programming to help inspire, engage and elevate female entrepreneurs and tech professionals through insightful panels, interactive workshops and networking. It will also include our $100K Pitch Challenge Competition where female founders will have the opportunity to pitch their startups for a chance to win $100,000, followed by a final keynote from a very special guest.
 
 
+    WHO IS THE EVENT FOR?
 
-    To learn more, please visit the event homepage: https://www.devopsdays.org/events/2018-chicago/
+    Women leaders in tech, women entrepreneurs in tech, and the men and women who support and invest in them. 
 
-     
 
-    For organizations interested in visibility and recruiting, please see our sponsorship options: https://www.devopsdays.org/events/2018-chicago/sponsor/
-
-     Image includes skyline photo by King of Hearts - Own work, CC BY-SA 3.0, Link
-
-  url: https://www.eventbrite.com/e/devopsdays-chicago-2018-registration-44116984087?aff=ebapi
-  logo: https://cdn.evbuc.com/images/42103248/894185790/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=984320cf9675fb548518df629b338de3
-  starts: 2018-08-28T08:00:00.0000000
-  ends: 2018-08-29T17:00:00.0000000
-  venue: Holiday Inn Mart Plaza
+    SPECIAL THANKS TO OUR PARTNERS...
+  url: https://www.eventbrite.com/e/women-in-tech-summit-tickets-48659279214?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48646135/1845645712/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=84969454fca59b1aef7d36a484ad2fd6
+  starts: 2018-10-01T09:00:00.0000000
+  ends: 2018-10-01T17:00:00.0000000
+  venue: Capital Factory
 - name: 2018 Flight Software Workshop
   description: >-
     Southwest Research Institute (SwRI) in conjunction with the NASA Jet Propulsion Laboratory, The Aerospace Corporation, and The Johns Hopkins University Applied Physics Laboratory, is hosting the 11th Annual Workshop on Spacecraft Flight Software (FSW-2018) in San Antonio, Texas  from December 3rd to 6th 2018.
@@ -736,25 +673,13 @@
   logo: https://cdn.evbuc.com/images/46510132/231616926146/1/original.jpg?h=200&w=450&auto=compress&rect=0,787,2624,1312&s=1a602c571c1938fea140ef02b0358cb6
   starts: 2018-12-03T08:00:00.0000000
   ends: 2018-12-06T12:00:00.0000000
-- name: Women in Tech Summit
-  description: >
-    Capital Factory, in partnership with Women@Austin and DivInc, welcomes you to our second annual Women in Tech Summit, kicking off Austin Startup Week on October 1, 2018. This Summit brings together the most influential entrepreneurs, investors and executives in tech.
-
-    Capital Factory is committed to increasing diversity in the tech community and making our coworking space an inclusive and welcoming environment. The Women in Tech Summit is a day full of programming to help inspire, engage and elevate female entrepreneurs and tech professionals through insightful panels, interactive workshops and networking. It will also include our $100K Pitch Challenge Competition where female founders will have the opportunity to pitch their startups for a chance to win $100,000, followed by a final keynote from a very special guest.
-
-
-    WHO IS THE EVENT FOR?
-
-    Women leaders in tech, women entrepreneurs in tech, and the men and women who support and invest in them. 
-
-
-    SPECIAL THANKS TO OUR PARTNERS...
-  url: https://www.eventbrite.com/e/women-in-tech-summit-tickets-48659279214?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48646135/1845645712/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=84969454fca59b1aef7d36a484ad2fd6
-  starts: 2018-10-01T09:00:00.0000000
-  ends: 2018-10-01T17:00:00.0000000
-  venue: Capital Factory
+- name: "Columbus Women in Tech Conf 2018 - #MakeHERstory Where We've Been, and Where We're Going"
+  description: "Welcome to Columbus Women In Technology 3rd Annual Conference - #MakeHERstory\nColumbus Women in Tech and getWITit.org would like to invite and welcome you to the 3rd annual conference for Columbus Women in Technology:\nThe conference features career & leadership, technical, and innovation topics to an audience of 750 women ranging from software delivery roles, leadership & management, technical & engineering, and recruiting/sales roles supporting the industry. \nThis event celebrates the contributions that women have made to computing, while focusing on how we can improve the opportunities to for women to contribute to the next era of innovation.\nWe encourage you to be part of the conversation by sending a group of women in technical roles from your company to this uplifting, motivational, and educational conference. Www.cmhwit.org\nTickets: \n\n\nGeneral Admission: $149 \n\n\nStudent General Admission: $75 with code STUDENT  (highschool, college, coding/skills schools)  MUST SHOW PROOF OF ENROLLMENT (Student ID, current enrollment, \n\n\nYouth Track: $50  For ages 5th thru 9th grade \"middle school\", limit 30 participants \"hands on activities\"\n\n\nGeneral Admission Ticket Includes : \n\n\nEvent Content\n\n\n\n2 Keynote Sessions\n\n\n\nLori Beer, CIO JPMorgan Chase \n\n\nMarie Hicks, Author of Programmed Inequality \n\n\n\nOver 40 Sessions: See Agenda Here \n\n\n4 Tracks: Career and Leadership, Technical, Innovation, and Entrepreneurship\n\n\nOver 21 area companies and employers present to support your career growth\n\n\nNetwork with over 800 attendees from over 100 companies\n\n\nInnovation Lab – hands on experience with new technologies \n\n\n\nEvent Accommodations:        \n\n\n\nContinental Breakfast and Lunch, All Day Coffee \n\n\nCollaboration Cocktail Hour for additional networking and discussions post-conference\n\n\nFree Parking \n\n\nWhova event application to plan your day and manage conference collaboration with speakers and attendees. (must be registered to access event on app) \n\n\n\nHighlevel Agenda: \n     7am      -  Registration \n     8:15am  - Event Kickoff and Keynote Lori Beer, CIO JPMorgan Chase \n     9:30am  - Break Sessions\n     12-1pm -  Lunch \n           1pm - Keynote Marie Hicks, Author/Professor \"Programmed Inequality\"\n      2:15pm - Breakout Sessions \n      4:45pm - Make HERStory Cocktail Reception \n\n\n\n\n\nYouth Track  - $50  \n\n\n\nSpecial day designed especially for girls to immerse them into the amazing field of computing. \n\n\nHands on labs exploring Cybersecurity, Engineering, Computing/Software, and Leadership\n\n\nLunch  (please note any alllergies in your registration) \n\n\n\n\nWe look forward to seeing you there!\nColumbus Women in Tech & getWITit.org\n "
+  url: https://www.eventbrite.com/e/columbus-women-in-tech-conf-2018-makeherstory-where-weve-been-and-where-were-going-tickets-42636246160?aff=ebapi
+  logo: https://cdn.evbuc.com/images/47867968/186798067997/1/original.jpg?h=200&w=450&auto=compress&rect=0,111,2186,1093&s=db4c25879818d5936d258b7b4cb657a1
+  starts: 2018-09-12T07:00:00.0000000
+  ends: 2018-09-12T18:30:00.0000000
+  venue: OSU Student Union
 - name: '(ISC)² DFW Presents: Cyber Aware Dallas'
   description: "\nThe (ISC)² Dallas/Fort Worth (DFW) Chapter invites you to join us for Cyber Aware 2018. This one day summit is designed with you the information security professional in mind and will deliver actionable insights supporting your growth as an information security professional. This event will take place at the state of the art Davidson-Gundy Alumni Center on the campus of The University of Texas at Dallas and is one your won't want to miss. \nRegister today!\n"
   url: https://www.eventbrite.com/e/isc2-dfw-presents-cyber-aware-dallas-tickets-45182193156?aff=ebapi
@@ -770,106 +695,6 @@
   starts: 2018-11-15T09:00:00.0000000
   ends: 2018-11-16T21:00:00.0000000
   venue: Crowne Plaza Denver Airport Convention Center
-- name: "Columbus Women in Tech Conf 2018 - #MakeHERstory Where We've Been, and Where We're Going"
-  description: "Welcome to Columbus Women In Technology 3rd Annual Conference - #MakeHERstory\nColumbus Women in Tech and getWITit.org would like to invite and welcome you to the 3rd annual conference for Columbus Women in Technology:\nThe conference features career & leadership, technical, and innovation topics to an audience of 750 women ranging from software delivery roles, leadership & management, technical & engineering, and recruiting/sales roles supporting the industry. \nThis event celebrates the contributions that women have made to computing, while focusing on how we can improve the opportunities to for women to contribute to the next era of innovation.\nWe encourage you to be part of the conversation by sending a group of women in technical roles from your company to this uplifting, motivational, and educational conference. Www.cmhwit.org\nTickets: \n\n\nGeneral Admission: $149 \n\n\nStudent General Admission: $75 with code STUDENT  (highschool, college, coding/skills schools)  MUST SHOW PROOF OF ENROLLMENT (Student ID, current enrollment, \n\n\nYouth Track: $50  For ages 5th thru 9th grade \"middle school\", limit 30 participants \"hands on activities\"\n\n\nGeneral Admission Ticket Includes : \n\n\nEvent Content\n\n\n\n2 Keynote Sessions\n\n\n\nLori Beer, CIO JPMorgan Chase \n\n\nMarie Hicks, Author of Programmed Inequality \n\n\n\nOver 40 Sessions: See Agenda Here \n\n\n4 Tracks: Career and Leadership, Technical, Innovation, and Entrepreneurship\n\n\nOver 21 area companies and employers present to support your career growth\n\n\nNetwork with over 800 attendees from over 100 companies\n\n\nInnovation Lab – hands on experience with new technologies \n\n\n\nEvent Accommodations:        \n\n\n\nContinental Breakfast and Lunch, All Day Coffee \n\n\nCollaboration Cocktail Hour for additional networking and discussions post-conference\n\n\nFree Parking \n\n\nWhova event application to plan your day and manage conference collaboration with speakers and attendees. (must be registered to access event on app) \n\n\n\nHighlevel Agenda: \n     7am      -  Registration \n     8:15am  - Event Kickoff and Keynote Lori Beer, CIO JPMorgan Chase \n     9:30am  - Break Sessions\n     12-1pm -  Lunch \n           1pm - Keynote Marie Hicks, Author/Professor \"Programmed Inequality\"\n      2:15pm - Breakout Sessions \n      4:45pm - Make HERStory Cocktail Reception \n\n\n\n\n\nYouth Track  - $50  \n\n\n\nSpecial day designed especially for girls to immerse them into the amazing field of computing. \n\n\nHands on labs exploring Cybersecurity, Engineering, Computing/Software, and Leadership\n\n\nLunch  (please note any alllergies in your registration) \n\n\n\n\nWe look forward to seeing you there!\nColumbus Women in Tech & getWITit.org\n "
-  url: https://www.eventbrite.com/e/columbus-women-in-tech-conf-2018-makeherstory-where-weve-been-and-where-were-going-tickets-42636246160?aff=ebapi
-  logo: https://cdn.evbuc.com/images/47867968/186798067997/1/original.jpg?h=200&w=450&auto=compress&rect=0,111,2186,1093&s=db4c25879818d5936d258b7b4cb657a1
-  starts: 2018-09-12T07:00:00.0000000
-  ends: 2018-09-12T18:30:00.0000000
-  venue: OSU Student Union
-- name: 'gShowdown: Blockchain, is it worth the hype and B2B vs B2C'
-  description: >-
-    It's goin down, Galvanize style. HOT TOPICS, COLD BEER.
-
-    Thanks to our sponsor: 
-
-    Join us for the SECOND in a series of events that will put our communities' experts on two sides of an issue facing the tech community in head to head debate-style showdown. This is the only live debate in town where the audience decides who wins.
-
-    That's right... YOU decide who wins the gShowdown Belt at the end of the debate. 
-
-    Our second ever gShowdown will feature TWO hot topics related to TECH. 
-
-    IS BLOCKCHAIN WORTH THE HYPE?
-
-    Blockchain. The technology that has a solution for every problem, from providing IDs to refugees to enabling people to sell their home without a real estate agent. Companies across industries are trying to capatilize on the technology, with initial coin offerings even being spoofed on HBO's tech startup comedy, Silicon Valley. But is the technology worth the hype, especially if it's less efficient than existing databases? YOU DECIDE!
-
-    Debaters:
-
-
-
-    JAY M. WILLIAMS | LINKEDINFOUNDER, CTO & MANAGING PARTNER
-
-    Jay has been a chief technology officer and consultant to many of the Global 2000. As a consultant he has developed a highly refined process for managing a company’’s technology infrastructure, including applications, security and network assets. Jay is a highly sought-after high performance computing architect and problem solver and has advised a number of high profile technology companies on their products. Jay is known for a rare combination of deep technology expertise, expert problem solving ability and business acumen. He is widely respected by peers and has influenced many pivotal technology consortia and industry steering groups. He regularly consults with senior technology and business executives and is frequently consulted by venture and capital investors for analyses of new technology strategies.
-
-
-    Advisory Board Member, Austin Forum on Technology & Society
-
-    Member, Austin Blockchain Collective
-
-    Member, IEEE
-
-    Contributor, The Open Group (ArchiMate and TOGAF) &The Linux Foundation (Hyperledger, Xen, Linux)
-
-
-
-    JEFF KIRK | DELL
-
-
-    WHAT IS THE BEST KIND OF BUSINESS TO START, B2B or B2C?
-
-    Sailpoint, Spiceworks, BigCommerce, WP Engine. All big B2B companies that have been very successful in Austin. Titos, Deep Eddy, Localeur, Kendra Scott. All B2C companies that have also hit it big in Austin. So which is the best business to start here in Austin and which will bring you the most success. YOU DECIDE!
-
-    Jason Ford, Hyping B2B 
-
-    Chief Innovation Office at SaturnFive
-
-
-    Jason was a geek in high school, but he was also creative and no one told him those two things could go together. So he studied jazz in college instead of computer science, and ended up with a career in digital marketing. After being encouraged by a friend to pursue entrepreneurship—something he had never really considered—he quit his job in 2009 to start a B2B tech company. His company, FeedMagnet, was ultimately acquired by Bazaarvoice in 2014. Jason has spent the past four years working with a number of startups as a mentor, operating partner, investor, and consultant. 
-
-    Ikechi Nwabuisi, Defender of B2C 
-
-    CEO of Tribl
-
-
-    Nigerian American entrepreneur and former professional football player, Ikechi Nwabuisi, is the Founder of Tribl, a social messaging app for the culture! Ikechi was born and raised in Houston, TX and attended Northwestern University for his undergraduate and Masters.  After taking his best shot at the NFL and being cut twice he started his professional career with Merrill Lynch as a Wealth Manager. He eventually left that job to pursue tech and entrepreneurship while attending McCombs School of Business. He has worked with many of the accelerators here in town and is focused on making an impact in communities of color through technical innovation.
-
-
-
-    Schedule: 
-
-    5:45 PM doors open, happy hour begins
-
-    6:30 PM Kickoff
-
-    7:30 PM Debates end, winners announced. Networking and celebration
-
-    Parking in the garage on Nueces Street, directly below the Galvanize building, is $5 if you park there after 6 PM.
-
-    About our Sponsor
-
-    Galvanize is the premiere dynamic learning community for technology. With campuses located in booming technology sectors throughout the country, Galvanize provides a community for each the following:
-
-
-
-    Education - part-time and full-time training in web development, data science, and data engineering
-
-
-
-    Workspace - whether you’re a freelancer, startup, or established business, we provide beautiful spaces with a community dedicated to support your company’s growth
-
-
-
-    Networking - events in the tech industry happen constantly in our campuses, ranging from popular Meetups to multi-day international conferences
-
-
-
-    To learn more about Galvanize, visit galvanize.com.
-  url: https://www.eventbrite.com/e/gshowdown-blockchain-is-it-worth-the-hype-and-b2b-vs-b2c-tickets-47439566019?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/46810338/218172361397/1/original.jpg?h=200&w=450&auto=compress&rect=0,355,960,480&s=5176cba634f06e839b0da498891f7eca
-  starts: 2018-08-23T17:45:00.0000000
-  ends: 2018-08-23T20:30:00.0000000
-  venue: Galvanize
 - name: 'Ken Segall: Insanely Simple '
   description: >
     Cahoots, with sponsors Trove, Ann Arbor SPARK, the Zell Lurie Institiute at U of M, and the Entrepreneurship Center at WCC will be hosting a speaking engagement by author and blogger Ken Segall.
@@ -931,6 +756,69 @@
   starts: 2018-08-28T09:00:00.0000000
   ends: 2018-08-28T16:00:00.0000000
   venue: Washington University, St. Louis
+- name: 'Fourth Annual Data Center Austin Conference '
+  description: >2+
+
+
+
+
+    The Data Center Austin Conference (DCAC) is more akin to South by Southwest (SXSW) for the data center industry, than your average run-of-the-mill data center conference. Just as SXSW helps “creative people achieve their goals,” likewise, DCAC helps bring the most relevant thought leaders in the data center industry under one roof, in order to collaborate, innovate, and motivate.
+
+    These individuals will discuss what they are doing to support technological developments that are changing the world. 
+
+    By understanding the current needs, investments, and visions of the most highly advanced tech companies such as Uber, Microsoft, and Facebook, others in the industry can better equip themselves for tomorrow’s demands in technology.
+
+
+
+
+  url: https://www.eventbrite.com/e/fourth-annual-data-center-austin-conference-tickets-43946425943?aff=ebapi
+  logo: https://cdn.evbuc.com/images/46811216/209857077023/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=4f5d4ed1cad59e9277acc92c3174c09d
+  starts: 2018-09-11T19:00:00.0000000
+  ends: 2018-09-12T22:00:00.0000000
+  venue: Brazos Hall
+- name: Iowa Technology Summit Powered by Wellmark
+  description: >-
+    The Iowa Technology Summit Powered by Wellmark will unite Iowa’s technology community in an event to educate and connect current and future IT leaders.  The Iowa Technology Summit Powered by Wellmark will convene creators and consumers of technology from Startups to Fortune 500 companies including technology executives and their teams from such industries as technology, manufacturing, agriculture, insurance, financial services, and healthcare. This day-long event is designed for the sharing of ideas and real-world experiences, with a goal of elevating Iowa's technology industry.
+
+    The Iowa Technology Summit Powered by Wellmark kicks off with the Opening Party Powered by Nutanix on Monday evening, October 1st, followed by a full day of high-impact, engaging content and conversation on October 2nd.
+
+    Visit IowaTechSummit.com for more details, event updates, and agenda.
+
+    Valuable Sponsorship Opportunities are Still Available: Contact Tyler Wyngarden for more information at tyler@technologyiowa.org.
+  url: https://www.eventbrite.com/e/iowa-technology-summit-powered-by-wellmark-registration-45898842674?aff=ebapi
+  logo: https://cdn.evbuc.com/images/44602283/183852245582/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0eaf869b0f921ec55d1526e7fb4cef4f
+  starts: 2018-10-02T07:30:00.0000000
+  ends: 2018-10-02T16:30:00.0000000
+  venue: Community Choice Credit Union Convention Center
+- name: Neuropsychiatry Symposium and Workshop
+  description: >-
+    Neuropsychiatric disorders are a leading cause of disability and result in a tremendous toll on society. We are assembling expert investigators to identify key issues that must be addressed in order for us to move forward from risk factors, genes, circuits, and mechanisms to effective therapies. Physicians, scientists, NIH leaders, pharmaceutical industry experts, patients, and patient advocacy groups will come together to identify new research paths and priorities for advancing promising translational research. Proceedings will be published in Science Translational Medicine. A complimentary continental breakfast will be provided both days and a complimentary boxed lunch will be provided the first day. Registration (FREE) is required due to limited seating.
+
+     
+
+    FAQs
+
+    Are there ID or minimum age requirements to enter the event?
+
+    There is no minimum age requirement for the symposium, but you must show a photo ID when entering Baylor College of Medicine to access Cullen Auditorium.
+
+    What are my transportation/parking options for getting to and from the event?
+
+    Houston's light rail runs along Fannin Street, with stops at Memorial Hermann/UT/Houston Zoo and The Methodist Hospital/Dryden/TMC. Baylor is one block east of Fannin, at John Freeman Blvd. and Bertner Avenue (One Baylor Plaza). Parking, for a fee, is available in any of the Texas Medical Center garages. The closest garages are 15 (Commons garage, accessed from Bertner Ave), 7 (accessed from John Freeman Blvd), and 6 (accessed from Moursund Street). 
+
+    How can I contact the organizer with any questions?
+
+    Please send an email to Stacey Staples at sastaple@texaschildrens.org
+
+
+
+     
+  url: https://www.eventbrite.com/e/neuropsychiatry-symposium-and-workshop-tickets-48561705368?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48075771/22794188166/1/original.jpg?h=200&w=450&auto=compress&rect=0,684,4198,2099&s=7b17e63565b97f235fc280c3c5548b4b
+  starts: 2018-10-01T08:00:00.0000000
+  ends: 2018-10-02T12:00:00.0000000
+  venue: Houston, Texas
 - name: Coopérathon 2018 - CANADA
   description: >-
     *** ENGLISH BELOW ***
@@ -1006,66 +894,6 @@
   starts: 2018-09-26T18:00:00.0000000
   ends: 2018-11-01T21:00:00.0000000
   venue: Plusieurs villes canadiennes / Many Canadian cities
-- name: 'Conversations: Nexus of Creative Science and The Marketplace: Partnerships That Work'
-  description: >+
-    Nexus of Creative Science and The Marketplace: Partnerships That Work
-
-    Alignment of basic scientific research with marketable products that meet a need occurs all too infrequently. Converting fundamental science in the laboratory into products and services that improve lives is challenging, usually requiring multidisciplinary partnerships between the public and private sectors. Please join Christopher Topp, Ph.D., Assistant Member and Principal Investigator, Danforth Center, and Warren Shafer, Ph.D., Vice President Global R&D and Regulatory Affairs, Valent Biosciences LLC, in a discussion of new ways in which Danforth Center science on biology of plant roots is informing commercial development of sustainable products for agriculture. Moderated by Vijay Chauhan, Global STL Lead at BioSTL, the discussion will focus on elements of successful partnerships between for-profit companies and not-for-profit research institutions, and how advanced imaging technologies are bridging the gaps between fundamental science and commercial applications.
-
-  url: https://www.eventbrite.com/e/conversations-nexus-of-creative-science-and-the-marketplace-partnerships-that-work-registration-47513202267?aff=ebapi
-  is-free: true
-  starts: 2018-08-23T17:15:00.0000000
-  ends: 2018-08-23T19:00:00.0000000
-  venue: Danforth Plant Science Center
-- name: Neuropsychiatry Symposium and Workshop
-  description: >-
-    Neuropsychiatric disorders are a leading cause of disability and result in a tremendous toll on society. We are assembling expert investigators to identify key issues that must be addressed in order for us to move forward from risk factors, genes, circuits, and mechanisms to effective therapies. Physicians, scientists, NIH leaders, pharmaceutical industry experts, patients, and patient advocacy groups will come together to identify new research paths and priorities for advancing promising translational research. Proceedings will be published in Science Translational Medicine. A complimentary continental breakfast will be provided both days and a complimentary boxed lunch will be provided the first day. Registration (FREE) is required due to limited seating.
-
-     
-
-    FAQs
-
-    Are there ID or minimum age requirements to enter the event?
-
-    There is no minimum age requirement for the symposium, but you must show a photo ID when entering Baylor College of Medicine to access Cullen Auditorium.
-
-    What are my transportation/parking options for getting to and from the event?
-
-    Houston's light rail runs along Fannin Street, with stops at Memorial Hermann/UT/Houston Zoo and The Methodist Hospital/Dryden/TMC. Baylor is one block east of Fannin, at John Freeman Blvd. and Bertner Avenue (One Baylor Plaza). Parking, for a fee, is available in any of the Texas Medical Center garages. The closest garages are 15 (Commons garage, accessed from Bertner Ave), 7 (accessed from John Freeman Blvd), and 6 (accessed from Moursund Street). 
-
-    How can I contact the organizer with any questions?
-
-    Please send an email to Stacey Staples at sastaple@texaschildrens.org
-
-
-
-     
-  url: https://www.eventbrite.com/e/neuropsychiatry-symposium-and-workshop-tickets-48561705368?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48075771/22794188166/1/original.jpg?h=200&w=450&auto=compress&rect=0,684,4198,2099&s=7b17e63565b97f235fc280c3c5548b4b
-  starts: 2018-10-01T08:00:00.0000000
-  ends: 2018-10-02T12:00:00.0000000
-  venue: Houston, Texas
-- name: 'Fourth Annual Data Center Austin Conference '
-  description: >2+
-
-
-
-
-    The Data Center Austin Conference (DCAC) is more akin to South by Southwest (SXSW) for the data center industry, than your average run-of-the-mill data center conference. Just as SXSW helps “creative people achieve their goals,” likewise, DCAC helps bring the most relevant thought leaders in the data center industry under one roof, in order to collaborate, innovate, and motivate.
-
-    These individuals will discuss what they are doing to support technological developments that are changing the world. 
-
-    By understanding the current needs, investments, and visions of the most highly advanced tech companies such as Uber, Microsoft, and Facebook, others in the industry can better equip themselves for tomorrow’s demands in technology.
-
-
-
-
-  url: https://www.eventbrite.com/e/fourth-annual-data-center-austin-conference-tickets-43946425943?aff=ebapi
-  logo: https://cdn.evbuc.com/images/46811216/209857077023/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=4f5d4ed1cad59e9277acc92c3174c09d
-  starts: 2018-09-11T19:00:00.0000000
-  ends: 2018-09-12T22:00:00.0000000
-  venue: Brazos Hall
 - name: The Islet Biology Workshop at Vanderbilt
   description: >-
     The Islet Biology Workshop will be held at Vanderbilt University in Nashville, Tennessee (Music City) on September 6th and 7th. This meeting will pursue a highly discussion-oriented workshop-style atmosphere with coverage of provocative and emerging novel concepts in islet research. Trainee and junior investigator activities will be emphasized, with multiple plenary talks selected from submitted abstracts. All attendees will be able to present their work as a talk or poster.                   
@@ -1078,20 +906,6 @@
   starts: 2018-09-06T09:00:00.0000000
   ends: 2018-09-07T19:00:00.0000000
   venue: Student Life Center
-- name: Iowa Technology Summit Powered by Wellmark
-  description: >-
-    The Iowa Technology Summit Powered by Wellmark will unite Iowa’s technology community in an event to educate and connect current and future IT leaders.  The Iowa Technology Summit Powered by Wellmark will convene creators and consumers of technology from Startups to Fortune 500 companies including technology executives and their teams from such industries as technology, manufacturing, agriculture, insurance, financial services, and healthcare. This day-long event is designed for the sharing of ideas and real-world experiences, with a goal of elevating Iowa's technology industry.
-
-    The Iowa Technology Summit Powered by Wellmark kicks off with the Opening Party Powered by Nutanix on Monday evening, October 1st, followed by a full day of high-impact, engaging content and conversation on October 2nd.
-
-    Visit IowaTechSummit.com for more details, event updates, and agenda.
-
-    Valuable Sponsorship Opportunities are Still Available: Contact Tyler Wyngarden for more information at tyler@technologyiowa.org.
-  url: https://www.eventbrite.com/e/iowa-technology-summit-powered-by-wellmark-registration-45898842674?aff=ebapi
-  logo: https://cdn.evbuc.com/images/44602283/183852245582/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0eaf869b0f921ec55d1526e7fb4cef4f
-  starts: 2018-10-02T07:30:00.0000000
-  ends: 2018-10-02T16:30:00.0000000
-  venue: Community Choice Credit Union Convention Center
 - name: Secure Iowa Conference 2018
   description: >
     Secure Iowa Conference [October 9]
@@ -1131,208 +945,6 @@
   starts: 2018-10-09T08:00:00.0000000
   ends: 2018-10-09T16:00:00.0000000
   venue: FFA Enrichment Center
-- name: Convergence Atlanta
-  description: "\nBig data comes with big myths. Convergence, a full-day seminar, focuses on busting through those myths and getting to the truth so you can make informed decisions. Learn from executives, practitioners, myth busters, and technical experts how to solve real-world problems by harnessing disruptions in data, artificial intelligence, cloud, containers, and edge technologies. \n\nThese events fill up quickly so secure your seat today!\n\nAreas of Focus:\n\nUse cases, artificial intelligence, data analytics, edge analytics, analytics in cloud, hybrid and multi-cloud, containers, microservices, data and cybersecurity, intelligent applications, global event systems, Hadoop and friends, IoT transformation\n\n\n\nAGENDA\n8:00a-9:00a | Breakfast/ Registration \n9:00a-9:10a || Intro to the Day\n9:10a-9:35a || Three Problems, Three Myths, Three Realities | Anil Gadre, EVP and Chief Product Officer, MapR \n9:35a-10:00a || Customizing Complex Big Data Use Cases in the Cloud with Liaison ALLOY® Platform and MapR | Larry Mieldezis, CIO, Liason Technologies\n10:00a-10:20a | Break\n10:20a-10:45a || Spark a Data Revival With a Back-to-Back Approach? | Juan F. Gorricho, Senior Vice President, Data & Analytics, TSYS\n10:45a-11:15a || Busting Big Data Myths with Analytics-First Strategy | Dr. Kirk Borne Principal Data Scientist and an Executive Advisor at Booz Allen Hamilton\n11:15a-11:40a || Accelerated Data Ingest for the MapR Data Platform | Mary Ledbetter, Senior Solutions consultant, Attunity\n11:40a-12:00p || Discussion Round | Ted Dunning PhD, Chief Application Architect, MapR\n12:00p-12:40p | Lunch\n12:40p-1:20p || Scaling Computer Vision workloads with Event Streaming and Docker | Kevin Sturgeon, Solutions Engineer, MapR\n1:20p - 1:40p || NLB Services Capabilities for The MapR Customer Base | Pete Chamberlin, Sales Director, and Carroll McIntire, Sr Director - Client Partner at NLB Services\n1:40p: 2:00p|| How Do You Adopt Kubernetes and Why Would You Want to? | Ted Dunning PhD, Chief Application Architect, MapR\n2:00p-2:20p || Balancing Governance and Access: Have your Cake and Eat it too | Ron Pappas, COO, WaterlineData\n2:20p-2:45p || Surveillance Analytics Fighting Financial Crime with Containers, Elasticity, Microservices, Advanced Analytics, and The Cloud | Aaron Glover, Senior Manager, Fraud & Risk Analytics, Accenture \n2:45p-3:00p | Break\n3:00p-3:30p || What Matters for Data-Intensive Applications in Production | Ellen Friedman PhD, Principal Technologist, MapR\n3:30p-4:00p || No Holds Barred Discussion | Anil Gadre, EVP and Chief Product Officer, MapR | Ted Dunning Ph.D., Chief Application Architect, MapR, and Panelists\n4:00p 5:15p || Meet the Experts Happy Hour | Complimentary Book Signing: Machine Learning Logistics by Ted Dunning and Ellen Friedman\n\nAdditional details coming soon...\n\n\n\nFeatured Speakers\n\n\n\nAnil Gadre, Executive Vice President, Chief Product Officer at MapR Technologies \nAnil Gadre is the EVP of Product Management at MapR. Prior to MapR, Anil was the EVP of Product Management at Silver Spring Networks, responsible for product strategy, planning, and marketing of networking and software products focused on the Smart Grid for the energy industry. Before that, Anil was with Sun Microsystems, a Fortune 200 technology leader, serving as EVP of The Application Platform Software organization and had previously been the Chief Marketing Officer leading global branding, demand creation, and an extensive developer ecosystem program. At Sun Microsystems his experience covered diverse product lines ranging from networked desktop and enterprise servers systems to market-leading software products such as the Solaris Operating system, Java, MySQL database and various middleware products. He has a BSEE from Stanford University and an MM degree from the Kellogg School at Northwestern University.\nView Anil's LinkedIn profile\n\n\n\n\n\nTed Dunning PhD, Chief Application Architect at MapR Technologies \nTed Dunning is Chief Application Architect at MapR and has years of experience with machine learning and other big data solutions across a range of sectors. Ted was the chief architect behind the MusicMatch (now Yahoo Music) and Veoh recommendation systems. He built fraud detection systems for ID Analytics (later purchased by LifeLock) and he has 24 patents issued to date plus a dozen pending. Ted has a PhD in computing science from the University of Sheffield and is active with open source projects as a committer, PMC member, mentor and currently serving as a board member for the Apache Software Foundation. When he’s not doing data science, he plays guitar and mandolin. He also bought the beer at the first Hadoop user group meeting.\nView Ted's LinkedIn profile\n\n\n\n\nEllen Friedman PhD, Principal Technologist at MapR Technologies and O'Reilly author\nEllen Friedman (@Ellen Friedman) is a solutions consultant, scientist, author and a committer on Apache Drill and Apache Mahout projects. With a PhD in biochemistry and having written and spoken on a variety of scientific and computing topics, she is an experienced communicator. Her books include Introduction to Apache Flink; Streaming Architecture; the Practical Machine Learning series and Time Series Databases, plus data report “Data Where You Want It: Geo-Distribution of Big Data and Analytics”, all from O'Reilly. Ellen has been an invited speaker at Strata London, the Nike Tech Talks in Portland, Data Day Seattle, Berlin Buzzwords, Philly ETE conference and a keynote speaker at Big Data London and at NoSQL Matters (Barcelona). Beyond work with big data, she enjoys painting and is co-author of a book of magic-themed cartoons, A Rabbit Under the Hat.\nView Ellen's LinkedIn profile\n\n\n\n\nDr. Kirk Borne, Principal Data Scientist and an Executive Advisor at Booz Allen Hamilton\nDr. Kirk Borne focuses on applications of data science, data analytics, machine learning, and artificial intelligence across a wide variety of disciplines. He also provides leadership and mentoring to multi-disciplinary teams of data scientists. He previously was Professor of Astrophysics and Computational Science at George Mason University for 12 years, where he taught, advised students, and performed research in the Data Science Bachelors program and the Computational Informatics Doctoral program. Prior to that, he worked 18 years on large data systems for NASA space science programs, including roles as Data Archive Project Scientist for NASA's Hubble Space Telescope and as the contract Program Manager in NASA's Space Science Data Operations Office. Kirk has a B.S. in Physics from LSU, and a Ph.D. in Astronomy from Caltech. He is a sought-after public speaker globally on data strategy topics. Since 2013, he has been identified as one of the top worldwide social influencers in Big Data and Data Science.\n View Dr. Kirk's LinkedIn profile\n\n\n\n\nJuan F. Gorricho, Group Executive, Data & Analytics, Global Product Innovation at TSYS   \nJuan F. Gorricho is responsible for leading the development and implementation of TSYS data and analytics strategy aimed at enhancing existing and developing new data products for TSYS clients.\nBefore joining TSYS, Gorricho served as Chief Data & Analytics Officer at Partners Federal Credit Union, one of the top credit unions in the country, exclusively serving The Walt Disney Company employees, where he led the development and execution of Partners’ data strategy. Prior to Partners, Gorricho led multiple multi-million dollar projects to implement business intelligence and analytical solutions for key lines of business, such as labor operations and merchandise within The Walt Disney Company Parks & Resorts segment. \nGorricho has more than 15 years of experience in the data and analytics space and frequently speaks at data and analytics related conferences.Gorricho holds an Industrial Engineering degree from Universidad de los Andes in Bogotá, Colombia and a Master’s of Business Administration from the Darden Graduate School of Business Administration at the University of Virginia. \n\n\n\n\nLarry Mieldezis, CIO at Liason Technologies\nAs Chief Information Officer for Liaison Technologies, Larry Mieldezis oversees the company's information technology functions, with a focus on technical operations, application engineering client operations, and managed services. Prior to his current role, Larry was Chief Operating Officer at Liaison Technologies, overseeing global sales, marketing, and professional services where he was instrumental in establishing Liaison’s healthcare informatics business.  Before joining Liaison, Larry held strategic operations positions at organizations such as Georgia-Pacific Corporation, Fiserv, United Parcel Service and Microsoft. Larry holds a Bachelor of Science degree from Southern Illinois University and a Master of Business Administration degree from Emory University.\nView Larry's LinkedIn profile \n\n\n\n\nMarry Ledbetter, Senior Solutions consultant at Attunity\nMary Ledbetter is a Senior Solutions Consultant at Attunity she has 20 years of experience working with technology solutions including cloud-based computing architecture, data warehousing, advanced analytics, data integration, Hadoop, data governance, and other leading-edge concepts and solutions. In addition to working at Attunity, she has worked at Teradata, Wherescape, and Oracle.\nView Mary's LinkedIn profile\n\n\n\n\nPeter Chamberlin, Sales Director at NLB Services\nWith more than 30 years of sales experience, including 20 of those years in the IT industry, Pete brings a broad range of sales experience from Application (ERP), Systems Management, Application Integration, Data Warehouse and Data Management expertise. Most recently the emphasis has been in the Open Source, Big Data space working with the main vendors that comprise this dynamic market segment.\nPete has also worked extensively in a cross-section of industries including Pharma, Utilities, Telcom, FSI, Retail, Manufacturing, Entertainment, Healthcare and Higher Ed. Delivering long-term relationships and client value is goal one and continues to be the main driver for the NLB Services team. Pete is especially excited to be affiliated with such an unprecedented team of professionals unlike any in the technical areas of emphasis for which NLB Services is targeting.\nView Peter's LinkedIn profile\n\n\n\n\nCarroll McIntire, Sr Director - Client Partner at NLB Services\nCarroll has more than 25 years of sales experience working with Fortune 1000 companies, including more than 10 years in the IT industry.  He brings a broad range of experience in ERP Systems, Indirect Tax & Technology, Front end and back end solutions, Cyber Security, Analytics and most recently in the Big Data space.  \nCarroll has worked extensively helping companies utilize technology and services to reduce costs and improve delivery to their customers.  He was extensive expertise in a variety of industries, including Healthcare, Higher Education, Travel, Logistics, Hospitality, Retail, Manufacturing, BFSI, Oil, and Gas. Carroll is excited to bring our team of professionals to our clients exceed all expectations.\n\nView Carroll's LinkedIn profile \n\n\n\n\n\n\nAaron Glover, Senior Manager, Fraud & Risk Analytics at Accenture \nAaron Glover is a Senior Manager in Accenture’s Applied Intelligence Practice focusing on the cultivation, design, and execution of advanced analytical insights by leveraging artificial intelligence, blockchain distributed ledger technologies, machine learning, big data, real-time streaming data, and strategic FinTech & RegTech global alliance partners. Aaron co-leads the North America Fraud & Risk Advanced Analytics data science practice focusing on financial crimes within Banking, Financial Services, Payments Facilitation / Networks, and Public Sector.\n Aaron is a subject-matter advisor in Financial Crimes with a focus on fraud, waste, abuse, anti-money laundering (AML), and compliance related issues. He is a professional services leader and consultative seller with extensive strategic and tactical industry experience in risk, compliance, capital markets, information security, human capital analytics, and consumer behavior.\n Aaron holds an MBA and MSc in Finance, Operations Management, and Financial Engineering from Georgia Institute of Technology, and a BSc in Statistics from The University of Tennessee. He is a Certified Anti-Money Laundering Specialist (CAMS), Certified Fraud Examiner (CFE), and 2018 Chartered Financial Analyst (CFA) Level III Candidate.\nView Aaron's LinkedIn profile\n\n\n\n\nRon Pappas, COO at WaterlineData\nRon brings over 25 years of data management experience at companies like Informatica, Sybase and X15 Software, where he held a number of leadership roles in sales, business development and general management. Prior to joining Waterline Data, Ron was the Co-founder and EVP of Field Operations at X15 Software, which was acquired by FireEye. He joined Informatica in 1996 as the first sales person and saw the company grow from $0 to $1 billion during his tenure. As the General Manager for Informatica Cloud, he built and managed Informatica’s cloud business from inception to establishment as the leading Cloud Integration Service in the industry, with more than 1,000 customers. \nView Ron's LinkedIn profile\n\n\nFeatured Sessions\n\nThree Problems, Three Myths, Three Realities \nSpeaker: Anil Gadre, Executive Vice President and Chief Product Officer at MapR Technologies\nThis session explores the hottest problems customers are struggling to sort out given the advent of many new breakthrough technological tools. It also addresses conventional wisdom and myths and highlights the reality around three hot issues with best practice guidance and recommendations for each.\n\n\n\nWhat Matters for Data-Intensive Applications in Production\nSpeaker: Ellen Friedman Ph.D., Principal Technologist at MapR Technologies\nReal value comes from big data when you have successful production deployments of data-intensive AI and analytics applications that are tied to practical business goals. But doing this well can be challenging.  We’ll explore what has made others successful in production, from architecture to technology to organizational culture, and how that can be applied to your own business.\n\n\n\nHow Do You Adopt Kubernetes and Why Would You Want to?\nSpeaker: Ted Dunning Ph.D., Chief Application Architect at MapR Technologies \nKubernetes is hot and for good reason. Containers and the effective management of them make it much easier to manage systems and services in on-premises data centers and in the cloud. But as good as Kubernetes is, it only solves the computational half of the problem. To make this all work, you have to solve the data half of the problem as well. Ted will describe Kubernetes, how it works, and how you can get it to work for you.\n\n\nBusting Big Data Myths with an Analytics-First Strategy\nSpeaker: Dr. Kirk Borne, Principal Data Scientist and an Executive Advisor at Booz Allen Hamilton\nWe will address (and debunk) some of the most common myths in the application of big data analytics in business. These myths include: Machine Learning and AI are big scary things; Big Data applications must be big in order to be successful; Failure is not an option and so we must avoid using that \"F\" word in business; Data Science is just for those elusive data scientists, and Data-First is the right strategic posture. Come to this session to learn how to debunk these myths with practical, achievable solutions for your business.\n\n\n\nSpark a Data Revival With a Back-to-Back Approach?\nSpeaker: Juan F. Gorricho, Group Executive, Data & Analytics, Global Product Innovation at TSYS   \nFocusing on education, alignment, and leading by example, this session will explore the importance of supportive leadership in shifting the data culture, primarily with an emphasis on the fundamentals. Juan Gorricho will share both the technical and business sides of the data strategy discussion. Attend to participate in a discussion on the renewed importance on fundamentals and the significance of strong relationships and foundations.\n\n\n Customizing Complex Big Data Use Cases in the Cloud with Liaison ALLOY® Platform and MapR\nSpeaker: Larry Mieldezis, CIO at Liaison Technologies\nIn this session, Larry Mieldezis, CIO for Liaison Technologies, will show how MapR is at the core of the Liaison ALLOY Platform’s key data services and how MapR services contribute towards ALLOY achieving Active-Active across data centers with 99.999% uptime.\nIn 2015, Liaison introduced the cloud-based Liaison ALLOY® Platform to solve complex data integration and data management challenges for some of the world’s leading organizations. ALLOY incorporates leading-edge technologies such as microservices for supreme agility, polyglot persistence for handling diverse data types, and automated mapping for accelerated implementation. To manage big data Liaison selected MapR for its unique real-time and secure platform for distributed storage, and flexibility for customizing to complex big data use cases. \n\n\nSurveillance Analytics Fighting Financial Crime with Containers, Elasticity, Microservices, Advanced Analytics, and The Cloud\nSpeaker:  Aaron Glover, Senior Manager, Fraud & Risk Analytics, Accenture \nIncreased regulatory scrutiny and rapidly evolving financial crime topologies require financial institutions to leverage advanced technologies to detect, investigate, and discover schemes across a multitude of monetary and non-monetary channels. Join Accenture as we discuss holistic financial crime surveillance approaches and the advanced technologies which help overcome typical architectural design challenges.\n\n\nBalancing Governance and Access: Have your Cake and Eat it too.\nSpeaker: Ron Pappas, COO, WaterlineData\n Insightful analysis often depends upon finding relevant data to work within the first place. Analysts can spend up to 60% of their time looking for data. This data needs to be not only relevant but also of sufficient quality. It has been trustworthy and safe to use. Good governance allows analysts to find data in keeping with regulatory compliance while breaking down interdepartmental silos towards a more egalitarian data estate. Waterline data catalog solves these foundational needs of analysts by making it easy for them to find the right data sets across the enterprise to use for their analysis in a safe and secure manner.\n \n\n\nExpert Panel\nPanelists: Ted Dunning, Anil Gadre, Keynote Speaker, Customer presenter \nTurn ideas from the day into your own practical course of action. This panel of experts applies the insights from the day’s sessions to real-world challenges by engaging the audience in a spirited discussion.\n\n\n\n\nPresented by:\n\n\nGold Sponsor:\n\n\nSilver Sponsor:\n\n\n\n\n\n\nAUTHORIZATION: By registering for this event, you are authorizing MapR to (i) provide contact information including your name, your company’s name, address, email address and phone number to MapR, MapR sponsors, the event center and any service vendor contracted to conduct work for the MapR Event, and (ii) contact you about MapR products and services.\n\n\n"
-  url: https://www.eventbrite.com/e/convergence-atlanta-tickets-45087084684?aff=ebapi
-  logo: https://cdn.evbuc.com/images/44268512/94280676093/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,4500,2250&s=ed88f8d6b3d46ad741fb2c75dc7ad921
-  starts: 2018-08-23T08:00:00.0000000
-  ends: 2018-08-23T17:30:00.0000000
-  venue: The W Hotel Downtown
-- name: Atlanta Black Tech Week Pitch, Sip & Networking
-  description: >-
-    The Pitch & SIP Competition is a evening event during Atlanta Black Tech Week, our guest get to network and sip on coctails from our cash bar while select companies pitch their businesses.
-
-    This competition places selected companies in a face-off for good; company pitch and demo their software, hardware product, or service in front of a live audience, and fight to convince a panel of expert judges that their business will help building a better world while making money.
-
-    www.AtlantaBlackTechWeek.com
-
-    A proud event of Black Tech Planet
-  url: https://www.eventbrite.com/e/atlanta-black-tech-week-pitch-sip-networking-tickets-45182036688?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/43587768/245249940875/1/original.jpg?h=200&w=450&auto=compress&rect=0,11,770,385&s=f6ebfa5eaba00c001fb8add7a40608d5
-  starts: 2018-08-30T18:30:00.0000000
-  ends: 2018-08-30T22:30:00.0000000
-  venue: Center for Civil and Human Rights
-- name: 4th Austin Diversity Hackathon Sponsored by RetailMeNot, athenahealth, Google Fiber & AnitaB.org at Capital Factory
-  description: "4th Annual Austin Diversity Hackathon #ATXDivHack\r\n\r\n   \r\nJoin WWCode Austin for our fourth annual diversity hackathon! #ATXDivHack (Note: by signing up you are agreeing to abide by this code of conduct). For updates follow us on Twitter or Facebook.\r\n\r\nThis hackathon is a celebration of diversity. Anyone who supports diversity is welcome — no matter your level of technical knowledge. \r\n \r\nWe are providing a space for people of all backgrounds who want to start building their tech portfolio or finish up a tech project while learning new skills. Previous experience in tech is **NOT** required. If you are an advanced coder, we are looking for mentors. We are also looking for volunteers. If you are nervous about attending a hackathon, just volunteer and see what it is all about!\r\n \r\nPlus, we have a parallel FREE workshop track for anyone who wants to come and just start learning, learn more, or meet people. \r\n \r\nNot sure what to work on? We encourage participants to look into open data or civic hacking projects, for more information check out our partners, Open Austin. \r\n\r\nCode of Conduct \r\nWomen Who Code (WWCode) is dedicated to providing an empowering experience for everyone who participates in or supports our community, regardless of gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, age, religion, or socioeconomic status. Because we value the safety and security of our members and strive to have an inclusive community, we do not tolerate harassment of members or event participants in any form. Our Code of Conduct applies to all events run by Women Who Code, Inc. If you would like to report an incident or contact our leadership team, please submit an incident report form.\r\nPrize Categories:\r\n\r\nBest UI/UX (how clean is your design/branding? is the app intuitive?)\r\nMost social impact (what is the reach of your app? who will use it? how it will it affect them?)\r\nMost technical (what APIs, data storage, backend, frontend technologies did you use?) \r\nMost learned (what obstacles did the team overcome? did you start with zero knowledge and get an app deployed?)\r\n\r\n \r\n*Weekend overview:\r\nFriday - 6PM Happy Hour\r\nCome enjoy refreshments, music provided by Chulita Vinyl Club, network with hackathon attendees, form teams, and meet other diverse folks in tech. \r\n \r\nFriday & Saturday - FREE Workshops all day long - schedule TBD\r\n \r\nSunday - Wrap up hacking and awards.\r\n \r\n* Schedule subject to change. Please check this event for up-to-date info and follow us on Twitter for latest news: @wwcodeatx\r\n \r\nParking Info:The Austin Centre parking is $24/day. There are a number of other downtown parking garages and lots. See more information here.\r\n \r\nAlternatives to Parking a Vehicle:\r\n\r\ncar2go is also a good option for downtown transportation.\r\nMany Capital Metro buses drop off within a few blocks of Capital Factory.\r\n\r\n \r\n\r\n\r\nTitle Sponsors: \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPrimary Sponsors:\r\n\r\n\r\n \r\nAdditional Sponsors:\r\n\r\n\r\n \r\nWant to be a sponsor? Contact us at samantha@womenwhocode.com\r\n\r\n \r\nWorkshop Schedule:\r\n \r\nFriday from 9AM to 5PM (CF 1st Floor classrooms)\r\n9AM - \"Intro Python\" with Irma Kramer, @bluflowr\r\n10AM - \"Intro to Machine Learning\" with Anna Ayzenshtat, Meghann Agarwal 7 Muriel Grobler, @miiriel\r\nNOON/12PM - \"Building Products People Trust\" with Taylor McCaslin, @digital_saas\r\n1PM - \"Intro to APIs with Python\" with Sara Safavi, @sarasomewhere - *Requirement: Python 3\r\n2PM - \"Intro to UI / UX: Design Fundamentals\" with Michelle Ferrell, @MadameMiso\r\n 3PM - \"Intro to Git\" with Stephen Hanson, @stephenhanson\r\n4PM - \"Intro to Wordpress\" with Sara Pearce \r\n5PM - \"Intro to NodeJS\" with Pierce Primm, @PiercePrimm\r\n \r\nSaturday from 9AM to 5PM (CF 1st Floor classrooms)\r\n9AM - \"Intro to SQL\" with Giselle Valenzuela Aldridge, @gisellevalenz\r\n10AM - \"Intro to AWS\" with Mirella Batista, @mirella4real\r\n11AM - \"Design Thinking Workshop\" with Alisha Moore, @MooreAustin\r\nNOON/12PM - Lunch\r\n1PM - \"Intro to JavaScript\" with Dinh Huynh, @AustinCoding \r\n2PM - \"Intro to Graphql\" with Eddy Reyes, @0x000edd1e\r\n3PM - \"Intro to Serverless APIs\" with Julia Jacobs, @jewelsjacobs\r\n4PM - \"Intro to iOS Development\" with George Pazdral, @AustinPC512 - *Requirement: XCode"
-  url: https://www.eventbrite.com/e/4th-austin-diversity-hackathon-sponsored-by-retailmenot-athenahealth-google-fiber-anitaborg-at-tickets-45958303523?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44682916/139594606659/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1000,500&s=5087f208548272a32e0095bec3d96fe5
-  starts: 2018-09-14T08:00:00.0000000
-  ends: 2018-09-16T17:00:00.0000000
-  venue: Capital Factory
-- name: MarketWaves18
-  description: >+
-    MarketWaves18 presented by FreightWaves
-
-    Visit https://www.freightwaves.com/conferences-and-events/marketwaves18 for full event details
-
-    The premier event providing you with industry leaders views of the economics of freight markets and discussions on how the market is shaping up for 2019 and beyond.
-
-    Nov 12 & 13, 2018, at the Gaylord Texan Resort & Convention Center
-
-    Day one features cutting edge short-form demos from 40 freight-tech startups demonstrating the very latest in technological innovation shaping the freight industry.  This dynamic format  provides a proven platform for freight tech companies to achieve the next level of success with new customers, strategic partnerships, expert feedback, press coverage, and VC funding.  Several networking opportunites are scheduled between the demos. 
-
-    Day two provides the latest thinking on the economics of freight markets from visionaries, industry and market leaders. Keynotes and panels provide both high level strategic and specifically actionable insights giving you the best competitive intelligence on the economics of freight markets for 2019. 
-
-    Overall at MarketWaves18 you will experience: 
-
-
-
-    Fast-paced demos of cutting-edge freight-tech startups
-
-
-
-    Networking with some of the top minds and thinkers on the future of freight
-
-
-
-    Gain key market insights from industry leaders to help you postion for the future
-
-
-
-    Expect to meet: 
-
-
-
-    Senior-level transportation industry executives, venture capitalists, industry analysts, developers, press, bloggers and entrepreneurs from across the industry spectrum.
-
-
-
-    Decision makers behind the biggest brands and startups who create buzz around high-impact technology across all industry segments: shippers, carriers, 3PLs, supply chain management, manufacturing, and media.
-
-  url: https://www.eventbrite.com/e/marketwaves18-tickets-45912208652?aff=ebapi
-  logo: https://cdn.evbuc.com/images/46687843/261619103500/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=3dc33f2517e4869a5fc8479f8fe9c9ab
-  starts: 2018-11-12T07:00:00.0000000
-  ends: 2018-11-13T16:00:00.0000000
-  venue: Gaylord Texan Resort & Convention Center
-- name: UFSMA 2018
-  description: "\nUFSMA 2018\n(Utah Floodplain & Stormwater Management Conference) \nThe Conference registration fee is $185.00 and will go up to $230.00 after August  1, 2018. Our conference fee is your annual membership fee for UFSMA, which includes your conference registration, sneak peek to yearly trainings and CFM examination dates. Registration includes all your materials, breakfasts, lunches, snacks, and business meeting meal. The UFSMA Annual Conference is always a informative conference with great speakers. We look forward to seeing you and hearing some fantastic presentations! \n \n \nCONFERENCE HOTEL\nThe conference hotel is the Marriott Springhill Suites in Moab, Utah\n1865 N Hwy 191\nMoab, UT 84532\n435-355.0042\nConference Hotel Registration  http://www.ufsma.org/ufsma-annual-conference.html\nThe beautiful Fairfield Inn & Suites & Springhill Suites is the closest hotel to Arches & Canyonlands National Park and the only in town property on the banks of the Colorado River.  We are conveniently located next door to Canyonlands by Night’s activity center where you can participate in their world famous sound & light show with an option of their Dutch oven BBQ dinner nightly (April – October). Moab is just minutes away where you will find a variety of dining options, shopping and outfitters ready to service your individual needs. Hiking and biking trails start outside our doors to Arches National Park, Scenic by way 128 as well as trails leading to Moab and Dead Horse State Park.  Whatever outdoor adventure you are looking for we have it here in Moab! \nAt the Fairfield Inn & Suites & Springhill Suites you can count on a friendly welcome, a room that’s clean and comfortable, great features and amenities and service that will make you want to return again and again.  Weare proud to offer daily conveniences that help you focus on the more important tasks at hand, from prepping for a major presentation to spending the day relaxing or simply unwind.\n  \n \n\n\n "
-  url: https://www.eventbrite.com/e/ufsma-2018-tickets-42789984997?aff=ebapi
-  logo: https://cdn.evbuc.com/images/40409109/160817362262/1/original.jpg?h=200&w=450&auto=compress&rect=50,0,384,192&s=91e2c422b38136317e86846be85b0a09
-  starts: 2018-10-23T08:00:00.0000000
-  ends: 2018-10-26T13:00:00.0000000
-  venue: SpringHill Suites by Marriott Moab
-- name: 'A Day In the Life of a Data Scientist: Panel Discussion'
-  description: >-
-    Considering a career change into Data Science and want to better understand the road ahead of you? Come join us as we bring in a panel of Data Scientists and explore their backgrounds, trainings, their typical day, and problems they're solving.
-
-    Making a career change to a field as new and evolving like Data Science comes with a significant amount of uncertainty, questions, and confusion. We’re bringing together an incredible panel of data scientists with diverse backgrounds to give you a better idea of what it takes to succeed in this demanding career field.
-
-    Meet our Panelists: 
-
-    Lee Harper
-
-
-    I did my PhD at Oxford in statistical theories of chemical reactions. After a brief stint as a high school teacher, I became a scientific analyst (what would now be called a data scientist), doing research to build machine learning models for the medical diagnostics industry. After moving to the US, I held various data and statistics roles at a couple of digital marketing startups. After coming to Galvanize to advance my python and SQL skills, I now work as a data scientist come manager for Cerebri AI Inc, where I get to work with a great team taking an innovative approach to measuring customer success.
-
-    Kelsey Nowell
-
-
-    Some of the topics we will cover include:
-
-    * The importance of a support network
-
-    * Best practices in learning the foundational skills to thrive as a Data Scientist
-
-    * Industry trends
-
-    *The future of Data Science
-
-    * Mentorship
-
-    Pre-requisites:
-
-    *None
-
-    Come with some questions ready for our panelists :)
-
-    Schedule:
-
-    6:30pm - 6:45pm - Doors open & food/drinks
-
-    6:45pm - 8:00pm - Panel Discussion
-
-    About our Sponsor
-
-    Galvanize is the premiere dynamic learning community for technology. With campuses located in booming technology sectors throughout the country, Galvanize provides a community for each the following:
-
-
-
-    Education - part-time and full-time training in web development, data science, and data engineering
-
-
-
-    Workspace - whether you’re a freelancer, startup, or established business, we provide beautiful spaces with a community dedicated to support your company’s growth
-
-
-
-    Networking - events in the tech industry happen constantly in our campuses, ranging from popular Meetups to multi-day international conferences
-
-
-
-    To learn more about Galvanize, visit galvanize.com.
-  url: https://www.eventbrite.com/e/a-day-in-the-life-of-a-data-scientist-panel-discussion-tickets-47318836915?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/46393781/193775765348/1/original.jpg?h=200&w=450&auto=compress&rect=0,41,848,424&s=d8784bf11371a4d5fe3f9e2d5c9b9f80
-  starts: 2018-08-28T18:30:00.0000000
-  ends: 2018-08-28T20:30:00.0000000
-  venue: Galvanize
-- name: Minnesota User Groups -  Tuesday September 11, 2018
-  description: >+
-    REGISTER NOW for our next Minnesota User Groups Event Tuesday, September 11th from 9:00 am to 1:00 pm
-
-    Here's our current agenda  
-
-    9:00 - Check-in/Registration
-
-    9:30 - Welcome and announcements
-
-
-
-    9:45 - Silverline
-
-    10:15 - Break
-
-
-
-
-
-    10:30 - Fellow Admin speaker Sandra Peterson and Fellow Developer speaker Tom Robbins
-
-    11:00 - Salesforce MVP and Admin Eric Dreshfield and Developer leaders Andy Boettcher and James Loghry
-
-    11:30 - Break
-
-    11:45 - Lunch sponsored by Silverline
-
-    12:00 - Circle of Success Topics: Lightning Development, Process Builder/Flow, Salesforce Careers, 
-
-    We're excited to see all of you!
-
-  url: https://www.eventbrite.com/e/minnesota-user-groups-tuesday-september-11-2018-tickets-48398674739?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/47589005/60655949163/1/original.jpg?h=200&w=450&auto=compress&rect=0,46,226,113&s=10a1327b0b64c7c2644568fb4b506f57
-  starts: 2018-09-11T09:00:00.0000000
-  ends: 2018-09-11T13:00:00.0000000
-  venue: Eagan Community Center
-- name: Blue Mountain Observatory Open House - 2018
-  description: >-
-    Please make sure to check out our Blue Mountain Observatory site for more information and driving directions. Specifically, PLEASE READ our Summer 2018 Public Observing Information page.  It contains essential information to make your visit a pleasurable one.
-
-    Viewing nights will be canceled if the sky is cloudy or thunderstorms threaten.  A cancellation notice will be sent to your email via Eventbrite.  If you are unable to read your email on Friday evenings, please call 406-243-4299 for weather and cancellation updates.  
-
-    Don't forget to check your email or call 406-243-4299 before driving up the mountain!
-
-     
-
-
-    Start times for each observing date are listed on the BMO home page.
-  url: https://www.eventbrite.com/e/blue-mountain-observatory-open-house-2018-tickets-45911957902?aff=ebapi
-  logo: https://cdn.evbuc.com/images/44614420/111085548485/1/original.jpg?h=200&w=450&auto=compress&rect=0,104,584,292&s=1653ea5d37d5422b7e039550014dcdbd
-  starts: 2018-09-07T21:00:00.0000000
-  ends: 2018-09-08T00:30:00.0000000
-  venue: Blue Mountain Observatory
 - name: WyoHackathon 2018
   description: >+
     Visit the WyoHackathon 2018 Website for all the details about this hackathon including rules, prizes, schedule, sponsors, and updates.
@@ -1746,6 +1358,167 @@
   starts: 2018-09-07T17:00:00.0000000
   ends: 2018-09-09T18:30:00.0000000
   venue: Memorial Fieldhouse
+- name: 4th Austin Diversity Hackathon Sponsored by Home Depot, RetailMeNot, athenahealth, Google Fiber & AnitaB.org at Capital Factory
+  description: "4th Annual Austin Diversity Hackathon #ATXDivHack\r\n\r\n   \r\nJoin WWCode Austin for our fourth annual diversity hackathon! #ATXDivHack (Note: by signing up you are agreeing to abide by this code of conduct). For updates follow us on Twitter or Facebook.\r\n\r\nThis hackathon is a celebration of diversity. Anyone who supports diversity is welcome — no matter your level of technical knowledge. \r\n \r\nWe are providing a space for people of all backgrounds who want to start building their tech portfolio or finish up a tech project while learning new skills. Previous experience in tech is **NOT** required. If you are an advanced coder, we are looking for mentors. We are also looking for volunteers. If you are nervous about attending a hackathon, just volunteer and see what it is all about!\r\n \r\nPlus, we have a parallel FREE workshop track for anyone who wants to come and just start learning, learn more, or meet people. \r\n \r\nNot sure what to work on? We encourage participants to look into open data or civic hacking projects, for more information check out our partners, Open Austin. \r\n\r\nCode of Conduct \r\nWomen Who Code (WWCode) is dedicated to providing an empowering experience for everyone who participates in or supports our community, regardless of gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, age, religion, or socioeconomic status. Because we value the safety and security of our members and strive to have an inclusive community, we do not tolerate harassment of members or event participants in any form. Our Code of Conduct applies to all events run by Women Who Code, Inc. If you would like to report an incident or contact our leadership team, please submit an incident report form.\r\nPrize Categories:\r\n\r\nBest UI/UX (how clean is your design/branding? is the app intuitive?)\r\nMost social impact (what is the reach of your app? who will use it? how it will it affect them?)\r\nMost technical (what APIs, data storage, backend, frontend technologies did you use?) \r\nMost learned (what obstacles did the team overcome? did you start with zero knowledge and get an app deployed?)\r\n\r\n \r\n*Weekend overview:\r\nFriday - 6PM Happy Hour\r\nCome enjoy refreshments, music provided by Chulita Vinyl Club, network with hackathon attendees, form teams, and meet other diverse folks in tech. \r\n \r\nFriday & Saturday - FREE Workshops all day long - schedule TBD\r\n \r\nSunday - Wrap up hacking and awards.\r\n \r\n* Schedule subject to change. Please check this event for up-to-date info and follow us on Twitter for latest news: @wwcodeatx\r\n \r\nParking Info:The Austin Centre parking is $24/day. There are a number of other downtown parking garages and lots. See more information here.\r\n \r\nAlternatives to Parking a Vehicle:\r\n\r\ncar2go is also a good option for downtown transportation.\r\nMany Capital Metro buses drop off within a few blocks of Capital Factory.\r\n\r\n \r\n\r\n\r\nTitle Sponsors: \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPrimary Sponsors:\r\n\r\n\r\n \r\nAdditional Sponsors:\r\n\r\n\r\n \r\nWant to be a sponsor? Contact us at samantha@womenwhocode.com\r\n\r\n \r\nWorkshop Schedule:\r\n \r\nFriday from 9AM to 5PM (CF 1st Floor classrooms)\r\n9AM - \"Intro Python\" with Irma Kramer, @bluflowr\r\n10AM - \"Intro to Machine Learning\" with Anna Ayzenshtat, Meghann Agarwal 7 Muriel Grobler, @miiriel\r\nNOON/12PM - \"Building Products People Trust\" with Taylor McCaslin, @digital_saas\r\n1PM - \"Intro to APIs with Python\" with Sara Safavi, @sarasomewhere - *Requirement: Python 3\r\n2PM - \"Intro to UI / UX: Design Fundamentals\" with Michelle Ferrell, @MadameMiso\r\n 3PM - \"Intro to Git\" with Stephen Hanson, @stephenhanson\r\n4PM - \"Intro to Wordpress\" with Sara Pearce \r\n5PM - \"Intro to NodeJS\" with Pierce Primm, @PiercePrimm\r\n \r\nSaturday from 9AM to 5PM (CF 1st Floor classrooms)\r\n9AM - \"Intro to SQL\" with Giselle Valenzuela Aldridge, @gisellevalenz\r\n10AM - \"Intro to AWS\" with Mirella Batista, @mirella4real\r\n11AM - \"Design Thinking Workshop\" with Alisha Moore, @MooreAustin\r\nNOON/12PM - Lunch\r\n1PM - \"Intro to JavaScript\" with Dinh Huynh, @AustinCoding \r\n2PM - \"Intro to Graphql\" with Eddy Reyes, @0x000edd1e\r\n3PM - \"Intro to Serverless APIs\" with Julia Jacobs, @jewelsjacobs\r\n4PM - \"Intro to iOS Development\" with George Pazdral, @AustinPC512 - *Requirement: XCode"
+  url: https://www.eventbrite.com/e/4th-austin-diversity-hackathon-sponsored-by-home-depot-retailmenot-athenahealth-google-fiber-tickets-45958303523?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44682916/139594606659/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1000,500&s=5087f208548272a32e0095bec3d96fe5
+  starts: 2018-09-14T08:00:00.0000000
+  ends: 2018-09-16T17:00:00.0000000
+  venue: Capital Factory
+- name: 'A Day In the Life of a Data Scientist: Panel Discussion'
+  description: >-
+    Considering a career change into Data Science and want to better understand the road ahead of you? Come join us as we bring in a panel of Data Scientists and explore their backgrounds, trainings, their typical day, and problems they're solving.
+
+    Making a career change to a field as new and evolving like Data Science comes with a significant amount of uncertainty, questions, and confusion. We’re bringing together an incredible panel of data scientists with diverse backgrounds to give you a better idea of what it takes to succeed in this demanding career field.
+
+    Meet our Panelists: 
+
+    Lee Harper
+
+
+    I did my PhD at Oxford in statistical theories of chemical reactions. After a brief stint as a high school teacher, I became a scientific analyst (what would now be called a data scientist), doing research to build machine learning models for the medical diagnostics industry. After moving to the US, I held various data and statistics roles at a couple of digital marketing startups. After coming to Galvanize to advance my python and SQL skills, I now work as a data scientist come manager for Cerebri AI Inc, where I get to work with a great team taking an innovative approach to measuring customer success.
+
+    Kelsey Nowell
+
+
+    Some of the topics we will cover include:
+
+    * The importance of a support network
+
+    * Best practices in learning the foundational skills to thrive as a Data Scientist
+
+    * Industry trends
+
+    *The future of Data Science
+
+    * Mentorship
+
+    Pre-requisites:
+
+    *None
+
+    Come with some questions ready for our panelists :)
+
+    Schedule:
+
+    6:30pm - 6:45pm - Doors open & food/drinks
+
+    6:45pm - 8:00pm - Panel Discussion
+
+    About our Sponsor
+
+    Galvanize is the premiere dynamic learning community for technology. With campuses located in booming technology sectors throughout the country, Galvanize provides a community for each the following:
+
+
+
+    Education - part-time and full-time training in web development, data science, and data engineering
+
+
+
+    Workspace - whether you’re a freelancer, startup, or established business, we provide beautiful spaces with a community dedicated to support your company’s growth
+
+
+
+    Networking - events in the tech industry happen constantly in our campuses, ranging from popular Meetups to multi-day international conferences
+
+
+
+    To learn more about Galvanize, visit galvanize.com.
+  url: https://www.eventbrite.com/e/a-day-in-the-life-of-a-data-scientist-panel-discussion-tickets-47318836915?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/46393781/193775765348/1/original.jpg?h=200&w=450&auto=compress&rect=0,41,848,424&s=d8784bf11371a4d5fe3f9e2d5c9b9f80
+  starts: 2018-08-28T18:30:00.0000000
+  ends: 2018-08-28T20:30:00.0000000
+  venue: Galvanize
+- name: Atlanta Cybersecurity Conference 2018
+  description: >2-
+
+
+    2018 Atlanta Cybersecurity Conference
+
+    This conference qualifies for CPE credits!
+
+     Passes include a full lunch, entrance into the main conference room and all conference material.
+
+    Program Description: 
+
+    Data Connectors will be hosting the Atlanta Cybersecurity Conference on Thursday, September 20th. The event will start at 8:15 AM with a check-in and opening introductions before presentation sessions begin at 8:45. Between the educational sessions that go throughout the day, there will be time to visit vendor booths to obtain information regarding product and service offerings. 
+
+    Event Sponsors/Vendors include:
+
+
+
+    Click here for a full agenda
+
+
+
+    When you register to attend a Data Connectors vendor-sponsored conference, your event registration information is used to confirm registrations and may be used to send product information and promotional material. (Information may also be used to compile broad demographic information). As Data Connectors may disclose your event registration information to those vendors sponsoring the event, Data Connector's customer agreement with the Sponsor provides that the Sponsor (a) may use this information only to send you product information, to contact you via common methods of communication to assess your interest in its products and services, and (b) may share this information with a business partner, reseller or distributor of its products and services for the permitted marketing purposes set forth above. You should contact the Sponsor directly if you have any questions about their use of this information.
+  url: https://www.eventbrite.com/e/atlanta-cybersecurity-conference-2018-tickets-35737642250?aff=ebapi
+  logo: https://cdn.evbuc.com/images/32749095/103294445877/1/original.jpg?h=200&w=450&auto=compress&rect=176,0,816,408&s=b553ae3e9edecc1f05f4140eceec0074
+  starts: 2018-09-20T08:00:00.0000000
+  ends: 2018-09-20T17:00:00.0000000
+  venue: InterContinental® Buckhead Atlanta
+- name: Atlanta Black Tech Week Pitch, Sip & Networking
+  description: >-
+    The Pitch & SIP Competition is a evening event during Atlanta Black Tech Week, our guest get to network and sip on coctails from our cash bar while select companies pitch their businesses.
+
+    This competition places selected companies in a face-off for good; company pitch and demo their software, hardware product, or service in front of a live audience, and fight to convince a panel of expert judges that their business will help building a better world while making money.
+
+    www.AtlantaBlackTechWeek.com
+
+    A proud event of Black Tech Planet
+  url: https://www.eventbrite.com/e/atlanta-black-tech-week-pitch-sip-networking-tickets-45182036688?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/43587768/245249940875/1/original.jpg?h=200&w=450&auto=compress&rect=0,11,770,385&s=f6ebfa5eaba00c001fb8add7a40608d5
+  starts: 2018-08-30T18:30:00.0000000
+  ends: 2018-08-30T22:30:00.0000000
+  venue: Center for Civil and Human Rights
+- name: MarketWaves18
+  description: >+
+    MarketWaves18 presented by FreightWaves
+
+    Visit https://www.freightwaves.com/conferences-and-events/marketwaves18 for full event details
+
+    The premier event providing you with industry leaders views of the economics of freight markets and discussions on how the market is shaping up for 2019 and beyond.
+
+    Nov 12 & 13, 2018, at the Gaylord Texan Resort & Convention Center
+
+    Day one features cutting edge short-form demos from 40 freight-tech startups demonstrating the very latest in technological innovation shaping the freight industry.  This dynamic format  provides a proven platform for freight tech companies to achieve the next level of success with new customers, strategic partnerships, expert feedback, press coverage, and VC funding.  Several networking opportunites are scheduled between the demos. 
+
+    Day two provides the latest thinking on the economics of freight markets from visionaries, industry and market leaders. Keynotes and panels provide both high level strategic and specifically actionable insights giving you the best competitive intelligence on the economics of freight markets for 2019. 
+
+    Overall at MarketWaves18 you will experience: 
+
+
+
+    Fast-paced demos of cutting-edge freight-tech startups
+
+
+
+    Networking with some of the top minds and thinkers on the future of freight
+
+
+
+    Gain key market insights from industry leaders to help you postion for the future
+
+
+
+    Expect to meet: 
+
+
+
+    Senior-level transportation industry executives, venture capitalists, industry analysts, developers, press, bloggers and entrepreneurs from across the industry spectrum.
+
+
+
+    Decision makers behind the biggest brands and startups who create buzz around high-impact technology across all industry segments: shippers, carriers, 3PLs, supply chain management, manufacturing, and media.
+
+  url: https://www.eventbrite.com/e/marketwaves18-tickets-45912208652?aff=ebapi
+  logo: https://cdn.evbuc.com/images/46687843/261619103500/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=3dc33f2517e4869a5fc8479f8fe9c9ab
+  starts: 2018-11-12T07:00:00.0000000
+  ends: 2018-11-13T16:00:00.0000000
+  venue: Gaylord Texan Resort & Convention Center
 - name: 2018 Salt Lake County Watershed Symposium
   description: >+
     12th Annual Salt Lake County Watershed SymposiumNovember 14-15, 2018
@@ -1787,6 +1560,415 @@
   starts: 2018-11-14T08:00:00.0000000
   ends: 2018-11-15T16:00:00.0000000
   venue: Utah Cultural Celebration Center
+- name: UFSMA 2018
+  description: "\nUFSMA 2018\n(Utah Floodplain & Stormwater Management Conference) \nThe Conference registration fee is $185.00 and will go up to $230.00 after August  1, 2018. Our conference fee is your annual membership fee for UFSMA, which includes your conference registration, sneak peek to yearly trainings and CFM examination dates. Registration includes all your materials, breakfasts, lunches, snacks, and business meeting meal. The UFSMA Annual Conference is always a informative conference with great speakers. We look forward to seeing you and hearing some fantastic presentations! \n \n \nCONFERENCE HOTEL\nThe conference hotel is the Marriott Springhill Suites in Moab, Utah\n1865 N Hwy 191\nMoab, UT 84532\n435-355.0042\nConference Hotel Registration  http://www.ufsma.org/ufsma-annual-conference.html\nThe beautiful Fairfield Inn & Suites & Springhill Suites is the closest hotel to Arches & Canyonlands National Park and the only in town property on the banks of the Colorado River.  We are conveniently located next door to Canyonlands by Night’s activity center where you can participate in their world famous sound & light show with an option of their Dutch oven BBQ dinner nightly (April – October). Moab is just minutes away where you will find a variety of dining options, shopping and outfitters ready to service your individual needs. Hiking and biking trails start outside our doors to Arches National Park, Scenic by way 128 as well as trails leading to Moab and Dead Horse State Park.  Whatever outdoor adventure you are looking for we have it here in Moab! \nAt the Fairfield Inn & Suites & Springhill Suites you can count on a friendly welcome, a room that’s clean and comfortable, great features and amenities and service that will make you want to return again and again.  Weare proud to offer daily conveniences that help you focus on the more important tasks at hand, from prepping for a major presentation to spending the day relaxing or simply unwind.\n  \n \n\n\n "
+  url: https://www.eventbrite.com/e/ufsma-2018-tickets-42789984997?aff=ebapi
+  logo: https://cdn.evbuc.com/images/40409109/160817362262/1/original.jpg?h=200&w=450&auto=compress&rect=50,0,384,192&s=91e2c422b38136317e86846be85b0a09
+  starts: 2018-10-23T08:00:00.0000000
+  ends: 2018-10-26T13:00:00.0000000
+  venue: SpringHill Suites by Marriott Moab
+- name: 'From Drones to Flying Cars: New Frontiers in Human-Technology Interaction'
+  description: >-
+    The lecture
+
+    This talk will discuss how artificial intelligence (AI) is changing transportation systems, including drones, driverless cars, and flying cars. Where and why humans will be needed as operators and supervisors in these systems will be illustrated, as well as how you can know if your job will one day be threatened by AI and robots.
+
+    The speaker
+
+    Mary “Missy” Cummings is a professor in the Duke University Pratt School of Engineering, the Duke Institute of Brain Sciences, and Director of the Humans and Autonomy Laboratory and Duke Robotics.
+
+    A naval officer and military pilot from 1988-1999, she was one of the U.S. Navy’s first female fighter pilots. Dr. Cummings received her BS in mathematics from the U.S. Naval Academy, an MS in space systems engineering from the Naval Postgraduate School, and a PhD in systems engineering from the University of Virginia.
+
+    Her research interests include human supervisory control, human-unmanned vehicle interaction, human-autonomous system collaboration, human-robot interaction, human-systems engineering, and the ethical and social impact of technology.
+
+    Parking
+
+    Parking is free in Library parking lots and along the west side of Holmes Street between 51st and 52nd streets. The main entrance to the Library grounds is on Cherry Street. The Linda Hall Library is not affiliated with UMKC. Parking in all UMKC lots is by permit or meter. Doors open at 6:00 p.m.
+  url: https://www.eventbrite.com/e/from-drones-to-flying-cars-new-frontiers-in-human-technology-interaction-tickets-48671916011?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/47894887/141602296797/1/original.jpg?h=200&w=450&auto=compress&rect=11,0,402,201&s=c87c356ff0a7aff639ced81a52eb0847
+  starts: 2018-09-13T19:00:00.0000000
+  ends: 2018-09-13T20:00:00.0000000
+  venue: Linda Hall Library
+- name: Minnesota User Groups -  Tuesday September 11, 2018
+  description: >+
+    REGISTER NOW for our next Minnesota User Groups Event Tuesday, September 11th from 9:00 am to 1:00 pm
+
+    Here's our current agenda  
+
+    9:00 - Check-in/Registration
+
+    9:30 - Welcome and announcements
+
+
+
+    9:45 - Silverline
+
+    10:15 - Break
+
+
+
+
+
+    10:30 - Fellow Admin speaker Sandra Peterson and Fellow Developer speaker Tom Robbins
+
+    11:00 - Salesforce MVP and Admin Eric Dreshfield and Developer leaders Andy Boettcher and James Loghry
+
+    11:30 - Break
+
+    11:45 - Lunch sponsored by Silverline
+
+    12:00 - Circle of Success Topics: Lightning Development, Process Builder/Flow, Salesforce Careers, 
+
+    We're excited to see all of you!
+
+  url: https://www.eventbrite.com/e/minnesota-user-groups-tuesday-september-11-2018-tickets-48398674739?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/47589005/60655949163/1/original.jpg?h=200&w=450&auto=compress&rect=0,46,226,113&s=10a1327b0b64c7c2644568fb4b506f57
+  starts: 2018-09-11T09:00:00.0000000
+  ends: 2018-09-11T13:00:00.0000000
+  venue: Eagan Community Center
+- name: Blue Mountain Observatory Open House - 2018
+  description: >-
+    Please make sure to check out our Blue Mountain Observatory site for more information and driving directions. Specifically, PLEASE READ our Summer 2018 Public Observing Information page.  It contains essential information to make your visit a pleasurable one.
+
+    Viewing nights will be canceled if the sky is cloudy or thunderstorms threaten.  A cancellation notice will be sent to your email via Eventbrite.  If you are unable to read your email on Friday evenings, please call 406-243-4299 for weather and cancellation updates.  
+
+    Don't forget to check your email or call 406-243-4299 before driving up the mountain!
+
+     
+
+
+    Start times for each observing date are listed on the BMO home page.
+  url: https://www.eventbrite.com/e/blue-mountain-observatory-open-house-2018-tickets-45911957902?aff=ebapi
+  logo: https://cdn.evbuc.com/images/44614420/111085548485/1/original.jpg?h=200&w=450&auto=compress&rect=0,104,584,292&s=1653ea5d37d5422b7e039550014dcdbd
+  starts: 2018-09-07T21:00:00.0000000
+  ends: 2018-09-08T00:30:00.0000000
+  venue: Blue Mountain Observatory
+- name: ' Ameren Accelerator Demo Day 2018'
+  description: >-
+    Register today for the opportunity to witness the 2018 Ameren Accelerator DEMO DAY live in St. Louis, MO.  Over the past few months, we have been hard at work cultivating some of the most cutting-edge energy tech startups in the world with our unique accelerator model.  Come check out these innovative companies and see the product of this incredible collaboration between Ameren (NYSE: AEE), University of Missouri-Systems, UMSL Accelerate and Capital Innovators.
+
+     
+
+    Whether you're an investor, a potential customer, or you just want to learn more about the technology startup scene in St. Louis, we invite you to take a look at why the Midwest is being called 'The New Startup Frontier.' Attendees will get a first look at the startups and meet the founders, all while networking with other top-tier investors, corporate strategists and press in the energy vertical.
+
+     
+
+    Following the event, there will be a complimentary happy hour at Blueberry Hill within walking distance from the show.
+
+     
+
+    Seating is limited... RSVP Today! 
+
+     
+
+    Doors open at 1:45 PM – Program starts at 2:30 PM.
+
+     
+
+    Need a hotel?
+
+    We recommend Moonrise Hotel, which is next door to event.  For details, see below:
+
+
+
+    Phone: 314.721.1111
+
+    Address: 6177 Delmar Blvd, St. Louis, MO 63112
+
+    Website Link (Link)
+
+    Google Maps link of hotel (Link)
+
+    Google Maps link from Hotel to The Pageant (Link)
+
+
+
+    Ameren Accelerator Demo Day FAQ
+
+     
+
+    - What are my transport/parking options getting to the event?
+
+     
+
+    MetroLink's Delmar Loop Station is conveniently located just behind The Pageant. Please visit Metrolink's website for train schedules, fares, and maps. 
+
+     
+
+    Free parking is available directly behind The Pageant. Additional free parking can be found directly behind the lot in the Metrolink Delmar Station Park-n-Ride lot and Washington University lot. A lighted walkway will take you from the Delmar Station parking lot to the front of The Pageant. Limited street parking is available in front of The Pageant on Delmar Blvd. 
+
+     
+
+    - Do I need to bring my printed ticket to the event?
+
+    After registration, a nametag will be available at the door.  A print copy of registration is not required. 
+
+     
+
+    - Are there places to eat close by?
+
+    A list of restaurants & area information can be found at The Loop website.
+
+     
+  url: https://www.eventbrite.com/e/ameren-accelerator-demo-day-2018-tickets-48851538266?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48123269/70858844967/1/original.jpg?h=200&w=450&auto=compress&rect=101,37,1678,839&s=be8b6ca9dc51af4c0891123182bf12c4
+  starts: 2018-09-11T14:30:00.0000000
+  ends: 2018-09-11T16:30:00.0000000
+  venue: The Pageant
+- name: 'Comcast Techpak: Free STEM Activity Day'
+  description: >+
+    MISSION: To ignite an interest in STEM learning to prepare our youth to compete globally through analytical thinking and design learning that fosters creativity and innovation.
+
+
+    What is techpak?
+
+    Techpak is a free STEM activity day sponsored by Internet Essentials from Comcast. This is an event for 600 students in K – 12th grade.
+
+    This will give students the opportunity to participate in a free STEM hands on experience with the chance to interact with professionals in various STEM fields.
+
+    Students will participate in techpak activities based on their grade levels:
+
+    K – 5th grade: The Bear Cubs
+
+
+
+    Drones 
+
+
+
+    Lego Engineering
+
+
+
+    Measuring Earthquake & Building your own Seismograph 
+
+
+
+    6th - 8th grade: The Lion Pak
+
+
+
+    HCC - Coding - Swift Playground
+
+
+
+    Lego Robotics
+
+
+
+    Robotic Hands 
+
+
+
+    Virtual Reality 
+
+
+
+    9th - 12th grade: The Wolf Pak
+
+
+
+    A Taste of Tech - Career Test Drives
+
+
+
+    Drone Operations - Sky's The Limit
+
+
+
+    Comcast - Day in the Life Of A Techie
+
+
+
+    Program includes:
+
+
+
+    Free Lunch & snacks
+
+
+
+    Hands on activities
+
+
+
+    T-shirts & Giveaways
+
+
+
+    For Parents ~ You are our VIP guests (Very Important Parents) and you will learn about:
+
+
+
+    Comcast Internet Essentials
+
+
+
+    HCC Certification and Degree Opportunities
+
+
+
+    Panel Discussion with Techies - the family support required and educational journey as students seek their degree           
+
+
+
+    Partners:
+
+
+
+    BridgeYear
+
+
+
+    Compudopt
+
+
+
+    Houston Community College (HCC)
+
+
+
+    Houston Hispanic Forum
+
+
+
+    Society of Hispanic Engineers (SHPE)
+
+
+
+    Webtropolis
+
+
+
+    *Childcare will be provided for children 4 and under*
+
+
+    * WAIVER LINKS *
+
+    Waiver & Release of Liability
+
+    Photo Release Form 
+
+
+     
+
+  url: https://www.eventbrite.com/e/comcast-techpak-free-stem-activity-day-tickets-46830420047?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/47123432/259680360638/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0d74d03446e32c205bafa84beca01202
+  starts: 2018-10-06T11:00:00.0000000
+  ends: 2018-10-06T16:00:00.0000000
+  venue: Houston Community College (HCC)
+- name: 2018 North Dakota Water and Pollution Control Conference - Grand Forks
+  description: Annual Conference organized for educational and scientific advancement of water, wastewater, and stormwater systems.  Promoting and encouraging the exchanging of ideas and experience among attendees, protection of the public health, and operator education and certification.   
+  url: https://www.eventbrite.com/e/2018-north-dakota-water-and-pollution-control-conference-grand-forks-registration-46164115111?aff=ebapi
+  logo: https://cdn.evbuc.com/images/45553725/257197359451/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=b87a8d722d6fa36a6d66583e49bd1202
+  starts: 2018-10-16T13:30:00.0000000
+  ends: 2018-10-18T13:30:00.0000000
+  venue: Alerus Center
+- name: STEM Educator Open House at iFLY The Woodlands
+  description: >+
+    Are you ready for your school to take your STEM Education to the next level?
+
+    At iFLY, we know the importance of a hands-on experience that engages EVERY student. Experience how flying accelerateslearning with iFLY's STEM Education Program during our Open House Event! We will explore the STEM principles behind our wind tunnel technology through exciting lectures, test flights, and lab activities. Participants will also review important details on our TEKS curriculum for grades 2-12.
+
+    Join us at the Open House to learn more about discounted field trip flights and grant opportunities!
+
+    Each registered guest will receive a test flight, pizza, and everything you need to know about booking a STEM experience at iFLY!
+
+    PLUS- Get experienced insight from successful campaign creators from Donorschoose.org to assist you with creating the perfect STEM Field Trip when funding is an issue! 
+
+
+
+    What is the Agenda of the event?
+
+
+
+    4:30pm - Arrival and Check-in
+
+
+
+    5:00pm - Field Trip Presentation
+
+
+
+    5:50pm - Ball Demonstration in the Wind Tunnel
+
+
+
+    6:00pm - Flight Class starts
+
+
+
+    6:30pm- Flights!
+
+
+
+    Instructor Flight Demonstrations Throughout the Evening (You won't want to miss this!)
+
+
+
+    Pizza will be available beginning at 6pm.
+
+
+
+
+
+    Not sure you want to fly during the event?
+
+    We'll have activities for those that aren't flying. Guests are sure to be entertained by the demonstrations and experts flying in our wind tunnel! Please notify the organizer you are attending, but not flying.
+
+
+    FAQs
+
+    Are there age/physical limits to enter the event?
+
+    There is no age limit to attend, but there are physical requirements for the flight experience. Please complete our waiver and review the terms if you plan to fly during the event.
+
+    www.iFLYworld.com/flight-waiver
+
+
+    What can/can't I bring to the event?
+
+    Please wear comfortable clothing and lace up shoes if you are planning to fly. Please note this event is for STEM educators, legislators, and school administration. Children, family members, and other guests are welcome to attend and are welcome to fly with the purchase of a flight package. Please contact the organizer if you would like to purchase a flight.
+
+
+    Where can I contact the organizer with any questions?
+
+    Staci Smith , Sales Manager iFLY Houston-Woodlands
+
+    ssmith@iFLYworld.com
+
+    281-903-3160
+
+
+    Is my registration/ticket transferrable?
+
+    Yes, you may transfer your registration to another STEM educator or administrator. Please update your ticket information on your Eventbrite account. Plan to provide educator credentials upon arrival.
+
+
+    Do I have to bring my printed ticket to the event?
+
+    Not required, but it will be helpful.
+
+
+    Can I add the High Flight experience?
+
+    Yes! It is only $9.95 and is created specifically for first-time flyers to experience advanced body flight during their first flight. Call ahead at 281-295-1781 to add your High Flight in advance! Watch the High Flight video to learn more.
+
+
+    I'm interested in the STEM program but am unable to make it to the Open House.  What should I do?
+
+    We understand this date may not work for everyone. If you are unable to attend this event but are still interested, please contact Staci Smith at 281.903.3160 or ssmith@iflyworld.com
+
+  url: https://www.eventbrite.com/e/stem-educator-open-house-at-ifly-the-woodlands-tickets-47927828425?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/47619056/183000293372/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1200,600&s=6b3b66ff6a91452f073525c79909ef93
+  starts: 2018-09-11T16:30:00.0000000
+  ends: 2018-09-11T20:00:00.0000000
+  venue: iFLY Indoor Skydiving
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804958/
@@ -1807,7 +1989,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxlbmc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/254033186/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-08-29T07:00:00.0000000
@@ -1879,6 +2061,29 @@
   ends: 2018-09-05T20:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
+- name: Umbraco Meetup
+  description: '<p>Last months Bingo winners (More to come but no this month)<br/>- Enjoy Mug James Fisher<br/>- Jetbrains Key Matthew Mirzai<br/>- Umbraco T-shirt Sean Valentine</p> <p>This month brings two more great talks!</p> <p>- Tim Payne on Work life balance<br/>- Callum Whyte on Azure setups and tools</p> <p>See you on the 6th at Enjoy Digital.</p> '
+  url: https://www.meetup.com/umbLeeds/events/253407091/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
+  starts: 2018-09-06T16:30:00.0000000
+  ends: 2018-09-06T19:30:00.0000000
+  venue: Enjoy Digital
+- name: What's Happening in the Data World + Continuous Control (and retiring DevOps)
+  description: "<p>SESSION ONE: What's Happening in the Data World - Where We've Come From and Where We're Going</p> <p>For 30 years the data world didn't see any major paradigm shifts. In the last 8 years there has been a tsunami of change. This is an overview of where we've come from, the reasons for all the change, and a view of where we're going.</p> <p>Speaker: Steve Hicklin<br/>Steve is part of EE's Data Practice and focuses on Data Engineering, Data Science and Platform migrations. As well as being hands on in delivery, Steve spends a lot of time working with organisations to find ways of working effectively and simply - be that pushing the limits of using Machine Learning or looking at people and processes across an organisation to optimise the best outcomes from their Data platforms</p> <p>*****<br/>SESSION TWO: Continuous Control (and retiring DevOps)</p> <p>Many of us have spent what feels like the majority of our careers helping clients be ‘more agile’ — getting faster feedback, learning and experimenting, autonomous cross-functional teams, retiring ‘legacy’ stuff. But now there are a new breed of firms who don’t have legacy, for whom experimentation is the norm, who are staffed by people who have never worked in any waterfall-ish environment. This has bred a whole new range of challenges and opened up new possibility spaces. How do you help a new generation brought up on The Lean Startup to scale and build to last, to enjoy agility without sacrificing control, without bringing back ITIL and all the horrors of Enterprise IT management?</p> <p>Speaker: Dan Mitchell<br/>Dan’s the Equal Experts Operability Lead and spends his time between delivery and consulting helping organisations understand operability is about more than just the infrastructure automation they’ve been led to expect from “DevOps Engineers”. He loves to talk about platforms such as product, infrastructure, telemetry, deployment health, on-call practices and post-mortems.</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> <p>**Food and drink will be provided - we look forward to seeing you there!**</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> "
+  url: https://www.meetup.com/ExpertTalks-Leeds/events/246514091/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2018-09-06T17:00:00.0000000
+  ends: 2018-09-06T20:00:00.0000000
+  venue: Lamberts yard,
+- name: Data Platform User Group (SQL, Azure, Dev, DBA)
+  description: '<p>Network, learn, ask a question, meet other data folk, get fed - these are all things that happen at PASS user group events. These events are a really great opportunity to socialise in an informal learning experience.</p> <p>Remember to tell your friends and the people you work with; make sure you register as soon as you can.</p> <p>17.30 – 18:00 – Registration / networking.<br/>18:00 – 19:00 – Lightning Talks<br/>19:00 – 19:20 – Break (food / drinks).<br/>19:20 – 20:20 – Family Bucket of SQL Nuggets<br/>20:20 – 20:30 – Feedback (via online forms) then off t’pub.</p> <p>Family bucket of SQL nuggets<br/>A collection of tips, tricks, and myths covering the administration and development of SQL Server &amp; Azure. This talk is for anyone that works with SQL Server and includes topics such as squeezing the most out of your systems, understanding why your queries won’t run in parallel and simulating execution plans when your DBA won’t let you near production.</p> <p>About Phil<br/>After spending 14 years creating one of the world’s largest central healthcare systems, Phil Grayson (@databoffin) now works as a consultant for xTEN, where his varied but in-depth experience has helped to transform IT systems across Europe.</p> <p>He is also the co-founder of Aireforge, the creators of Aireforge Studio, a proud Friend of Redgate, organiser of Data &amp; Gravy, Leeds SQL User Group and a frequent volunteer at SQLBits.</p> '
+  url: https://www.meetup.com/leeds_data_platform/events/253209929/
+  is-free: true
+  starts: 2018-09-06T18:00:00.0000000
+  ends: 2018-09-06T20:00:00.0000000
+  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804970/
