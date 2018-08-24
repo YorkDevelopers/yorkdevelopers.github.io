@@ -18,7 +18,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxlbmc/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/254033186/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-08-29T07:00:00.0000000
@@ -90,6 +90,29 @@
   ends: 2018-09-05T20:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
+- name: Umbraco Meetup
+  description: '<p>Last months Bingo winners (More to come but no this month)<br/>- Enjoy Mug James Fisher<br/>- Jetbrains Key Matthew Mirzai<br/>- Umbraco T-shirt Sean Valentine</p> <p>This month brings two more great talks!</p> <p>- Tim Payne on Work life balance<br/>- Callum Whyte on Azure setups and tools</p> <p>See you on the 6th at Enjoy Digital.</p> '
+  url: https://www.meetup.com/umbLeeds/events/253407091/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
+  starts: 2018-09-06T16:30:00.0000000
+  ends: 2018-09-06T19:30:00.0000000
+  venue: Enjoy Digital
+- name: What's Happening in the Data World + Continuous Control (and retiring DevOps)
+  description: "<p>SESSION ONE: What's Happening in the Data World - Where We've Come From and Where We're Going</p> <p>For 30 years the data world didn't see any major paradigm shifts. In the last 8 years there has been a tsunami of change. This is an overview of where we've come from, the reasons for all the change, and a view of where we're going.</p> <p>Speaker: Steve Hicklin<br/>Steve is part of EE's Data Practice and focuses on Data Engineering, Data Science and Platform migrations. As well as being hands on in delivery, Steve spends a lot of time working with organisations to find ways of working effectively and simply - be that pushing the limits of using Machine Learning or looking at people and processes across an organisation to optimise the best outcomes from their Data platforms</p> <p>*****<br/>SESSION TWO: Continuous Control (and retiring DevOps)</p> <p>Many of us have spent what feels like the majority of our careers helping clients be ‘more agile’ — getting faster feedback, learning and experimenting, autonomous cross-functional teams, retiring ‘legacy’ stuff. But now there are a new breed of firms who don’t have legacy, for whom experimentation is the norm, who are staffed by people who have never worked in any waterfall-ish environment. This has bred a whole new range of challenges and opened up new possibility spaces. How do you help a new generation brought up on The Lean Startup to scale and build to last, to enjoy agility without sacrificing control, without bringing back ITIL and all the horrors of Enterprise IT management?</p> <p>Speaker: Dan Mitchell<br/>Dan’s the Equal Experts Operability Lead and spends his time between delivery and consulting helping organisations understand operability is about more than just the infrastructure automation they’ve been led to expect from “DevOps Engineers”. He loves to talk about platforms such as product, infrastructure, telemetry, deployment health, on-call practices and post-mortems.</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> <p>**Food and drink will be provided - we look forward to seeing you there!**</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> "
+  url: https://www.meetup.com/ExpertTalks-Leeds/events/246514091/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2018-09-06T17:00:00.0000000
+  ends: 2018-09-06T20:00:00.0000000
+  venue: Lamberts yard,
+- name: Data Platform User Group (SQL, Azure, Dev, DBA)
+  description: '<p>Network, learn, ask a question, meet other data folk, get fed - these are all things that happen at PASS user group events. These events are a really great opportunity to socialise in an informal learning experience.</p> <p>Remember to tell your friends and the people you work with; make sure you register as soon as you can.</p> <p>17.30 – 18:00 – Registration / networking.<br/>18:00 – 19:00 – Lightning Talks<br/>19:00 – 19:20 – Break (food / drinks).<br/>19:20 – 20:20 – Family Bucket of SQL Nuggets<br/>20:20 – 20:30 – Feedback (via online forms) then off t’pub.</p> <p>Family bucket of SQL nuggets<br/>A collection of tips, tricks, and myths covering the administration and development of SQL Server &amp; Azure. This talk is for anyone that works with SQL Server and includes topics such as squeezing the most out of your systems, understanding why your queries won’t run in parallel and simulating execution plans when your DBA won’t let you near production.</p> <p>About Phil<br/>After spending 14 years creating one of the world’s largest central healthcare systems, Phil Grayson (@databoffin) now works as a consultant for xTEN, where his varied but in-depth experience has helped to transform IT systems across Europe.</p> <p>He is also the co-founder of Aireforge, the creators of Aireforge Studio, a proud Friend of Redgate, organiser of Data &amp; Gravy, Leeds SQL User Group and a frequent volunteer at SQLBits.</p> '
+  url: https://www.meetup.com/leeds_data_platform/events/253209929/
+  is-free: true
+  starts: 2018-09-06T18:00:00.0000000
+  ends: 2018-09-06T20:00:00.0000000
+  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804970/
