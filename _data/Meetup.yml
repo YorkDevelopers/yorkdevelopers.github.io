@@ -32,14 +32,13 @@
   starts: 2018-08-29T17:45:00.0000000
   ends: 2018-08-29T20:00:00.0000000
   venue: Platform
-- name: SEO York - Networking
-  description: "<p>We are planning to host the event on the last Wednesday of each month. SEO York meetup is for general networking with like-minded people and to welcome people who are new to (or interested in) SEO and online marketing. Food and Drink will be provided in the form of hot and cold drinks (including beer) and buffet style food (sandwiches, etc...). You're welcome to arrive at any time after 6:00pm. We are open to suggestions regarding the schedule for future events and would like to hear from the group as to what they would like to see? A projector is available if you would like to do a presentation, please let me know before hand via meetup message. Also any allergies or special food requests, please let me know via meetup message. Thanks and it will be great to see you all there :)</p> "
-  url: https://www.meetup.com/SEO-York/events/252236603/
+- name: York Hackspace Open Evening
+  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm</p> <p>Required<br/>Yourself<br/>Enthusiasm and Curiosity<br/>Ideas<br/>Optional<br/>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/254065507/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/c/0/f/5/thumb_471349397.jpeg
   starts: 2018-08-29T18:00:00.0000000
   ends: 2018-08-29T20:00:00.0000000
-  venue: York Priory Street Centre
+  venue: York Hackspace
 - name: The Twelve Factor App Methodology - Ian Cooper
   description: "<p>You've heard of Cloud Native, the continuous deployment and easy scaling of your server side code. And you've heard about Docker and microservices, but what are 12-factor apps?</p> <p>The Twelve-Factor App methodology (<a href=\"https://12factor.net/\" class=\"linkified\">https://12factor.net/</a>), was created by engineers with experience of delivering apps on Heroku, and is a \"recipe for success\" when authoring code for cloud native senarios. In this presentation we will look at what a Twelve-Factor App is, and demonstrate how to meet the requirements when creating .NET applications. We will show examples using .NET Core, Brighter and Darker, authoring code to meet these requirements and show its deployment using containers.</p> <p>By the end of this talk you will know enough to be able to approach another pillar of Cloud Native.</p> <p>Ian Cooper</p> <p>Polyglot Coding Architect in London, founder of #ldnug, speaker, tabletop gamer, geek. Tattooed, pierced and bearded. The 'guv' on @BrighterCommand</p> "
   url: https://www.meetup.com/Leeds-Sharp/events/250848493/
@@ -48,6 +47,13 @@
   starts: 2018-08-30T17:30:00.0000000
   ends: 2018-08-30T19:30:00.0000000
   venue: Platform
+- name: Leeds Ruby Thing meetup
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are sometimes one or two short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  url: https://www.meetup.com/LeedsRubyThing/events/254079756/
+  is-free: true
+  starts: 2018-08-30T18:30:00.0000000
+  ends: 2018-08-30T22:30:00.0000000
+  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804965/
@@ -90,6 +96,13 @@
   ends: 2018-09-05T20:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
+- name: York Hackspace Open Evening
+  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm</p> <p>Required<br/>Yourself<br/>Enthusiasm and Curiosity<br/>Ideas<br/>Optional<br/>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/254066078/
+  is-free: true
+  starts: 2018-09-05T18:00:00.0000000
+  ends: 2018-09-05T20:00:00.0000000
+  venue: York Hackspace
 - name: Umbraco Meetup
   description: '<p>Last months Bingo winners (More to come but no this month)<br/>- Enjoy Mug James Fisher<br/>- Jetbrains Key Matthew Mirzai<br/>- Umbraco T-shirt Sean Valentine</p> <p>This month brings two more great talks!</p> <p>- Tim Payne on Work life balance<br/>- Callum Whyte on Azure setups and tools</p> <p>See you on the 6th at Enjoy Digital.</p> '
   url: https://www.meetup.com/umbLeeds/events/253407091/
