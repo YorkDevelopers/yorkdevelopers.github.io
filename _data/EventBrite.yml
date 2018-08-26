@@ -34,14 +34,13 @@
   starts: 2018-10-20T07:00:00.0000000
   ends: 2018-10-20T15:30:00.0000000
   venue: Davis High School
-- name: WeatherReadyFest 2018
-  description: "Come enjoy a day of fun and learning for the entire family on Saturday, August 25th at the National Weather Association Foundation WeatherReadyFest.  Meteorologists from around the country will be conducting fun activities, games, talks, book signings and movies.  Weather organizations will be exhibiting their programs/products.\n\nSaint Louis Science Center, Downtown Saint Louis\nSaturday, August 25, 2018, 9:30 a.m. - 5:30 p.m. \nThe tickets are free, but you need a ticket for admission.  \nThe tickets are timed by admission time.  You may stay as long as you like,  but please arrive during the hour shown on your ticket.  \nVisit the website at www.WeatherReadyFest.com for the latest information.\nPlease tell your friends and social networks!\nEntering this event constitutes implied consent of each event-goer to WeatherReady Fest's use of his/her image and/or likeness incidental to any photographic, digital or video use, publication, display, transmission or recording of the event.\n"
-  url: https://www.eventbrite.com/e/weatherreadyfest-2018-tickets-46880455705?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/45876601/36328006346/1/original.jpg?h=200&w=450&auto=compress&rect=0,50,1600,800&s=7b8a68b3821e7ed47c61d9e1839bfb16
-  starts: 2018-08-25T09:30:00.0000000
-  ends: 2018-08-25T17:30:00.0000000
-  venue: Saint Louis Science Center
+- name: Atlanta Black Tech Week Conference
+  description: Atlanta Black Tech Week
+  url: https://www.eventbrite.com/e/atlanta-black-tech-week-conference-tickets-43278870266?aff=ebapi
+  logo: https://cdn.evbuc.com/images/43283363/245249940875/1/original.jpg?h=200&w=450&auto=compress&rect=8,0,826,413&s=87c0ccd7002c91fb2e30143fc81b3249
+  starts: 2018-08-29T08:30:00.0000000
+  ends: 2018-08-31T22:30:00.0000000
+  venue: W Hotel Atlanta GA & African American Research Library (Auburn Ave) & Center for Civil & Human Rights
 - name: Bryan Adams vs Madison Varsity Football ***DEMO***
   description: '***THIS IS A DEMO EVENT. DO NOT PURCHASE TICKETS***'
   url: https://www.eventbrite.com/e/bryan-adams-vs-madison-varsity-football-demo-tickets-48834298702?aff=ebapi
@@ -49,13 +48,6 @@
   starts: 2018-08-09T19:30:00.0000000
   ends: 2018-08-31T23:30:00.0000000
   venue: Forester Athletic Stadium
-- name: Atlanta Black Tech Week Conference
-  description: Atlanta Black Tech Week
-  url: https://www.eventbrite.com/e/atlanta-black-tech-week-conference-tickets-43278870266?aff=ebapi
-  logo: https://cdn.evbuc.com/images/43283363/245249940875/1/original.jpg?h=200&w=450&auto=compress&rect=8,0,826,413&s=87c0ccd7002c91fb2e30143fc81b3249
-  starts: 2018-08-29T09:00:00.0000000
-  ends: 2018-08-31T22:30:00.0000000
-  venue: W Hotel Atlanta GA & African American Research Library (Auburn Ave) & Center for Civil & Human Rights
 - name: Hacker Halted Atlanta, GA IT Security Training and Conference 2018
   description: >-
     Hacker Halted is a global series of computer and information security conferences presented by EC-Council. The objective of the hacker halted conferences is to raise international awareness towards increased education and ethics in IT security.
@@ -431,41 +423,6 @@
   starts: 2018-09-10T08:00:00.0000000
   ends: 2018-10-17T08:00:00.0000000
   venue: Your school!
-- name: UAB Comprehensive Cancer Center 20th Annual Research Retreat
-  description: "Developmental Therapeutics\n \nThe Comprehensive Cancer Center Annual Research Retreat is an opportunity to stimulate interdisciplinary research collaboration and development among cancer researchers. This event is free and we invite faculty, trainees/postdoctoral fellows and staff engaged in cancer research. \n\nBreakfast and lunch will be served to those who register ahead of time. \nFree parking is available as well as valet services.\n\nCo-chairs for this year's event:\nMansoor Saleh, M.D.Eddy Yang, M.D., Ph.D.\n\nKeynote Speakers:\n\nAlex Adjei, M.D., Ph.D., Consultant, Medical Oncology, Professor of Oncology \nMayo College of Medicine\nLaura Esserman, M.D., MBA, Director, Carol Franc Buck Breast Care Center, Professor, School of Medicine\nUniversity of California San Francisco\n\nAfter you register for the Research Retreat, you will receive an email with a link where you may submit your abstract for the retreat. Check back on this page for more information and updates on this year’s event.\nFor questions regarding the research retreat, contact Courtney Bishop at cbishop3@uab.edu"
-  url: https://www.eventbrite.com/e/uab-comprehensive-cancer-center-20th-annual-research-retreat-registration-45484393044?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/47625380/172683926794/1/original.jpg?h=200&w=450&auto=compress&rect=0,172,3000,1500&s=d71c317a880722622640f1ecbb6ec9bb
-  starts: 2018-11-16T07:30:00.0000000
-  ends: 2018-11-16T17:00:00.0000000
-  venue: The Club, Inc.
-- name: dsmAgile Fall 2018
-  description: >-
-    dsmAgile Fall 2018
-
-    It's time for another great dsmAgile conference. 
-
-    Whatever your involvement in software development is, you'll find something to like at Des Moines Agile. Covering a variety of topics, this one-day conference features industry experts in Agile Software Development and is packed full of information that you can use to become more successful at work.
-
-    In addition to great content, Des Moines Agile stays true to the goals of Agile Iowa as a conference for connecting and growing our community of practice within Iowa. Open Space sessions will follow the speakers track where you will get an opportunity to discuss the day's content with your peers and speakers; a fun and engaging way to make the conference your own.
-
-    Watch the website http://dsmagile.agileiowa.org/ for details as we announce speakers and sessions.
-
-    We hope to see you at the conference!
-
-    Jodi Jones, Kent McDonald, Tim Gifford and Brandon Carlson
-  url: https://www.eventbrite.com/e/dsmagile-fall-2018-tickets-45895792551?aff=ebapi
-  logo: https://cdn.evbuc.com/images/44588667/39949347522/1/original.jpg?h=200&w=450&auto=compress&rect=549,0,1156,578&s=a23064e1cf9a1758dfebbdb088879df8
-  starts: 2018-09-28T08:30:00.0000000
-  ends: 2018-09-28T16:30:00.0000000
-  venue: Community Choice Credit Union Convention Center
-- name: '2018 Texas Bigfoot Conference '
-  description: "The Texas Bigfoot Research Center celebrates the Original Texas Bigfoot Conference held on September 15, 2001 with this year's event to be held October 19 & 20, 2018. \nOctober 20th, 2018 marks the 51st anniversary of the famous Patterson-Gimlin Bigfoot film. \nEstablished in 2001 as the original annual Bigfoot Conference in Texas by the Texas Bigfoot Research Center. \nConfirmed Speakers: \nBob Gimlin \nDr. Jeff Meldrum \nLyle Blackburn \nKen Gerhard \nNick Redfern \nShelly Covington-Montana \nSchedule of Events \nFriday, October 19\n7:00-10:00 PM Bob Gimlin Tribute Dinner\n7:00-8:30 Catered Italian dinner by Claiborne House\n8:30-9:00 PM Bob Gimlin Presentation\n9:00-10:00 PM Special Presentation - Dr. Jeff Meldrum: 51 Years with Patty - Significance of the Patterson-Gimlin Bigfoot Film \nSaturday, October 20\n9:00 AM - 5:00 PM Texas Bigfoot Conference\n6:00-10:00 Saturday Night\n6:00-8:00 PM Meat n' Greet Dinner with the Speakers\nCatered Cajun dinner by Claiborne House\n8:00-9:00 PM Special Presentation - Lyle Blackburn: Fouke Monster and Boggy Creek Updates\n9:00-10:00 PM Special Screening\n Host hotel: Executive Inn & Suites 200 South Walcott, Jefferson, Texas 75657 903-665-3700 \nFacebook page\nTerms & ConditionsBy purchasing a ticket to the event you accept the terms and conditions below for you and anyone in your group.Non-refundable ticketsAll tickets are non-refundable unless the event is cancelled. All sales final. If unable to attend, tickets are tranferable with prior notification to conference organizer. Presenters and presentation topics are subject to change depending on individual schedules and unforeseen conflicts.Event CancellationIn the unlikely event of cancellation of the event, the maximum liability shall be limited to full refund of conference registration fee paid at the time of booking, with no additional liability whatsoever to the conference organizers and presenters.IndemnificationThe conference organizers and presenters accepts no responsibility for loss or damage to personal property. Purchaser shall indemnify the Texas Bigfoot Research Center, The City of Jefferson, and any participating hosts, speakers, or any directly invited participant appearing at the event from and against all liability in respect of any costs, claims, damages, demands, penalties, actions, proceedings, suits, losses or expenses in respect of any and all claims, losses, costs, damages of any nature whatsoever, including but not limited to claims arising out of the injury to or the death of any person, or damage to any property arising from my participation in the activity."
-  url: https://www.eventbrite.com/e/2018-texas-bigfoot-conference-tickets-39489075889?aff=ebapi
-  logo: https://cdn.evbuc.com/images/37270012/81718999601/1/original.jpg?h=200&w=450&auto=compress&rect=0,35,960,480&s=cd9c8d4e944db219348b94722fb3bf95
-  starts: 2018-10-19T19:00:00.0000000
-  ends: 2018-10-20T22:00:00.0000000
-  venue: Jefferson Tourism and Visitor Center
 - name: 'Agile Midwest Open Space/Tracked Conference - 2018 '
   description: >+
     Come join us for Agile Week in St. Louis! 
@@ -508,6 +465,41 @@
   starts: 2018-08-29T08:00:00.0000000
   ends: 2018-08-30T17:00:00.0000000
   venue: Agile Midwest Conference - St. Charles Convention Center
+- name: UAB Comprehensive Cancer Center 20th Annual Research Retreat
+  description: "Developmental Therapeutics\n \nThe Comprehensive Cancer Center Annual Research Retreat is an opportunity to stimulate interdisciplinary research collaboration and development among cancer researchers. This event is free and we invite faculty, trainees/postdoctoral fellows and staff engaged in cancer research. \n\nBreakfast and lunch will be served to those who register ahead of time. \nFree parking is available as well as valet services.\n\nCo-chairs for this year's event:\nMansoor Saleh, M.D.Eddy Yang, M.D., Ph.D.\n\nKeynote Speakers:\n\nAlex Adjei, M.D., Ph.D., Consultant, Medical Oncology, Professor of Oncology \nMayo College of Medicine\nLaura Esserman, M.D., MBA, Director, Carol Franc Buck Breast Care Center, Professor, School of Medicine\nUniversity of California San Francisco\n\nAfter you register for the Research Retreat, you will receive an email with a link where you may submit your abstract for the retreat. Check back on this page for more information and updates on this year’s event.\nFor questions regarding the research retreat, contact Courtney Bishop at cbishop3@uab.edu"
+  url: https://www.eventbrite.com/e/uab-comprehensive-cancer-center-20th-annual-research-retreat-registration-45484393044?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/47625380/172683926794/1/original.jpg?h=200&w=450&auto=compress&rect=0,172,3000,1500&s=d71c317a880722622640f1ecbb6ec9bb
+  starts: 2018-11-16T07:30:00.0000000
+  ends: 2018-11-16T17:00:00.0000000
+  venue: The Club, Inc.
+- name: dsmAgile Fall 2018
+  description: >-
+    dsmAgile Fall 2018
+
+    It's time for another great dsmAgile conference. 
+
+    Whatever your involvement in software development is, you'll find something to like at Des Moines Agile. Covering a variety of topics, this one-day conference features industry experts in Agile Software Development and is packed full of information that you can use to become more successful at work.
+
+    In addition to great content, Des Moines Agile stays true to the goals of Agile Iowa as a conference for connecting and growing our community of practice within Iowa. Open Space sessions will follow the speakers track where you will get an opportunity to discuss the day's content with your peers and speakers; a fun and engaging way to make the conference your own.
+
+    Watch the website http://dsmagile.agileiowa.org/ for details as we announce speakers and sessions.
+
+    We hope to see you at the conference!
+
+    Jodi Jones, Kent McDonald, Tim Gifford and Brandon Carlson
+  url: https://www.eventbrite.com/e/dsmagile-fall-2018-tickets-45895792551?aff=ebapi
+  logo: https://cdn.evbuc.com/images/44588667/39949347522/1/original.jpg?h=200&w=450&auto=compress&rect=549,0,1156,578&s=a23064e1cf9a1758dfebbdb088879df8
+  starts: 2018-09-28T08:30:00.0000000
+  ends: 2018-09-28T16:30:00.0000000
+  venue: Community Choice Credit Union Convention Center
+- name: '2018 Texas Bigfoot Conference '
+  description: "The Texas Bigfoot Research Center celebrates the Original Texas Bigfoot Conference held on September 15, 2001 with this year's event to be held October 19 & 20, 2018. \nOctober 20th, 2018 marks the 51st anniversary of the famous Patterson-Gimlin Bigfoot film. \nEstablished in 2001 as the original annual Bigfoot Conference in Texas by the Texas Bigfoot Research Center. \nConfirmed Speakers: \nBob Gimlin \nDr. Jeff Meldrum \nLyle Blackburn \nKen Gerhard \nNick Redfern \nShelly Covington-Montana \nSchedule of Events \nFriday, October 19\n7:00-10:00 PM Bob Gimlin Tribute Dinner\n7:00-8:30 Catered Italian dinner by Claiborne House\n8:30-9:00 PM Bob Gimlin Presentation\n9:00-10:00 PM Special Presentation - Dr. Jeff Meldrum: 51 Years with Patty - Significance of the Patterson-Gimlin Bigfoot Film \nSaturday, October 20\n9:00 AM - 5:00 PM Texas Bigfoot Conference\n6:00-10:00 Saturday Night\n6:00-8:00 PM Meat n' Greet Dinner with the Speakers\nCatered Cajun dinner by Claiborne House\n8:00-9:00 PM Special Presentation - Lyle Blackburn: Fouke Monster and Boggy Creek Updates\n9:00-10:00 PM Special Screening\n Host hotel: Executive Inn & Suites 200 South Walcott, Jefferson, Texas 75657 903-665-3700 \nFacebook page\nTerms & ConditionsBy purchasing a ticket to the event you accept the terms and conditions below for you and anyone in your group.Non-refundable ticketsAll tickets are non-refundable unless the event is cancelled. All sales final. If unable to attend, tickets are tranferable with prior notification to conference organizer. Presenters and presentation topics are subject to change depending on individual schedules and unforeseen conflicts.Event CancellationIn the unlikely event of cancellation of the event, the maximum liability shall be limited to full refund of conference registration fee paid at the time of booking, with no additional liability whatsoever to the conference organizers and presenters.IndemnificationThe conference organizers and presenters accepts no responsibility for loss or damage to personal property. Purchaser shall indemnify the Texas Bigfoot Research Center, The City of Jefferson, and any participating hosts, speakers, or any directly invited participant appearing at the event from and against all liability in respect of any costs, claims, damages, demands, penalties, actions, proceedings, suits, losses or expenses in respect of any and all claims, losses, costs, damages of any nature whatsoever, including but not limited to claims arising out of the injury to or the death of any person, or damage to any property arising from my participation in the activity."
+  url: https://www.eventbrite.com/e/2018-texas-bigfoot-conference-tickets-39489075889?aff=ebapi
+  logo: https://cdn.evbuc.com/images/37270012/81718999601/1/original.jpg?h=200&w=450&auto=compress&rect=0,35,960,480&s=cd9c8d4e944db219348b94722fb3bf95
+  starts: 2018-10-19T19:00:00.0000000
+  ends: 2018-10-20T22:00:00.0000000
+  venue: Jefferson Tourism and Visitor Center
 - name: Denver Cybersecurity Conference 2018
   description: >2-
 
@@ -616,28 +608,9 @@
   url: https://www.eventbrite.com/e/global-blockchain-hackathon-chicago-tickets-46669820690?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/45614200/251732932357/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,6000,3000&s=594dc1ce87ae3c3876ef09fb9fb2c1f5
-  starts: 2018-08-25T09:00:00.0000000
+  starts: 2018-08-25T09:30:00.0000000
   ends: 2018-08-26T18:00:00.0000000
   venue: Hyatt Regency Chicago
-- name: Women in Tech Summit
-  description: >
-    Capital Factory, in partnership with Women@Austin and DivInc, welcomes you to our second annual Women in Tech Summit, kicking off Austin Startup Week on October 1, 2018. This Summit brings together the most influential entrepreneurs, investors and executives in tech.
-
-    Capital Factory is committed to increasing diversity in the tech community and making our coworking space an inclusive and welcoming environment. The Women in Tech Summit is a day full of programming to help inspire, engage and elevate female entrepreneurs and tech professionals through insightful panels, interactive workshops and networking. It will also include our $100K Pitch Challenge Competition where female founders will have the opportunity to pitch their startups for a chance to win $100,000, followed by a final keynote from a very special guest.
-
-
-    WHO IS THE EVENT FOR?
-
-    Women leaders in tech, women entrepreneurs in tech, and the men and women who support and invest in them. 
-
-
-    SPECIAL THANKS TO OUR PARTNERS...
-  url: https://www.eventbrite.com/e/women-in-tech-summit-tickets-48659279214?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48646135/1845645712/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=84969454fca59b1aef7d36a484ad2fd6
-  starts: 2018-10-01T09:00:00.0000000
-  ends: 2018-10-01T17:00:00.0000000
-  venue: Capital Factory
 - name: 'Ken Segall: Insanely Simple '
   description: >
     Cahoots, with sponsors Trove, Ann Arbor SPARK, the Zell Lurie Institiute at U of M, Office of Tech Transfer at U of M, and the Entrepreneurship Center at WCC will be hosting a speaking engagement by author and blogger Ken Segall.
@@ -677,6 +650,25 @@
   starts: 2018-09-12T14:00:00.0000000
   ends: 2018-09-12T15:00:00.0000000
   venue: Michigan Theater
+- name: Women in Tech Summit
+  description: >
+    Capital Factory, in partnership with Women@Austin and DivInc, welcomes you to our second annual Women in Tech Summit, kicking off Austin Startup Week on October 1, 2018. This Summit brings together the most influential entrepreneurs, investors and executives in tech.
+
+    Capital Factory is committed to increasing diversity in the tech community and making our coworking space an inclusive and welcoming environment. The Women in Tech Summit is a day full of programming to help inspire, engage and elevate female entrepreneurs and tech professionals through insightful panels, interactive workshops and networking. It will also include our $100K Pitch Challenge Competition where female founders will have the opportunity to pitch their startups for a chance to win $100,000, followed by a final keynote from a very special guest.
+
+
+    WHO IS THE EVENT FOR?
+
+    Women leaders in tech, women entrepreneurs in tech, and the men and women who support and invest in them. 
+
+
+    SPECIAL THANKS TO OUR PARTNERS...
+  url: https://www.eventbrite.com/e/women-in-tech-summit-tickets-48659279214?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48646135/1845645712/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=84969454fca59b1aef7d36a484ad2fd6
+  starts: 2018-10-01T09:00:00.0000000
+  ends: 2018-10-01T17:00:00.0000000
+  venue: Capital Factory
 - name: "Columbus Women in Tech Conf 2018 - #MakeHERstory Where We've Been, and Where We're Going"
   description: "Welcome to Columbus Women In Technology 3rd Annual Conference - #MakeHERstory\nColumbus Women in Tech and getWITit.org would like to invite and welcome you to the 3rd annual conference for Columbus Women in Technology:\nThe conference features career & leadership, technical, and innovation topics to an audience of 750 women ranging from software delivery roles, leadership & management, technical & engineering, and recruiting/sales roles supporting the industry. \nThis event celebrates the contributions that women have made to computing, while focusing on how we can improve the opportunities to for women to contribute to the next era of innovation.\nWe encourage you to be part of the conversation by sending a group of women in technical roles from your company to this uplifting, motivational, and educational conference. Www.cmhwit.org\nTickets: \n\n\nGeneral Admission: $149 \n\n\nStudent General Admission: $75 with code STUDENT  (highschool, college, coding/skills schools)  MUST SHOW PROOF OF ENROLLMENT (Student ID, current enrollment, \n\n\nYouth Track: $50  For ages 5th thru 9th grade \"middle school\", limit 30 participants \"hands on activities\"\n\n\nGeneral Admission Ticket Includes : \n\n\nEvent Content\n\n\n\n2 Keynote Sessions\n\n\n\nLori Beer, CIO JPMorgan Chase \n\n\nMarie Hicks, Author of Programmed Inequality \n\n\n\nOver 40 Sessions: See Agenda Here \n\n\n4 Tracks: Career and Leadership, Technical, Innovation, and Entrepreneurship\n\n\nOver 21 area companies and employers present to support your career growth\n\n\nNetwork with over 800 attendees from over 100 companies\n\n\nInnovation Lab – hands on experience with new technologies \n\n\n\nEvent Accommodations:        \n\n\n\nContinental Breakfast and Lunch, All Day Coffee \n\n\nCollaboration Cocktail Hour for additional networking and discussions post-conference\n\n\nFree Parking \n\n\nWhova event application to plan your day and manage conference collaboration with speakers and attendees. (must be registered to access event on app) \n\n\n\nHighlevel Agenda: \n     7am      -  Registration \n     8:15am  - Event Kickoff and Keynote Lori Beer, CIO JPMorgan Chase \n     9:30am  - Break Sessions\n     12-1pm -  Lunch \n           1pm - Keynote Marie Hicks, Author/Professor \"Programmed Inequality\"\n      2:15pm - Breakout Sessions \n      4:45pm - Make HERStory Cocktail Reception \n\n\n\n\n\nYouth Track  - $50  \n\n\n\nSpecial day designed especially for girls to immerse them into the amazing field of computing. \n\n\nHands on labs exploring Cybersecurity, Engineering, Computing/Software, and Leadership\n\n\nLunch  (please note any alllergies in your registration) \n\n\n\n\nWe look forward to seeing you there!\nColumbus Women in Tech & getWITit.org\n "
   url: https://www.eventbrite.com/e/columbus-women-in-tech-conf-2018-makeherstory-where-weve-been-and-where-were-going-tickets-42636246160?aff=ebapi
@@ -684,6 +676,14 @@
   starts: 2018-09-12T07:00:00.0000000
   ends: 2018-09-12T18:30:00.0000000
   venue: OSU Student Union
+- name: '(ISC)² DFW Presents: Cyber Aware Dallas'
+  description: "\nThe (ISC)² Dallas/Fort Worth (DFW) Chapter invites you to join us for Cyber Aware 2018. This one day summit is designed with you the information security professional in mind and will deliver actionable insights supporting your growth as an information security professional. This event will take place at the state of the art Davidson-Gundy Alumni Center on the campus of The University of Texas at Dallas and is one your won't want to miss. \nRegister today!\n"
+  url: https://www.eventbrite.com/e/isc2-dfw-presents-cyber-aware-dallas-tickets-45182193156?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/43589788/225418296359/1/original.jpg?h=200&w=450&auto=compress&rect=0,274,1092,546&s=1d900c1b5fe9b52eaa7ba176f26e97d7
+  starts: 2018-10-19T07:30:00.0000000
+  ends: 2018-10-19T18:00:00.0000000
+  venue: Davidson-Gundy Alumni Center
 - name: 2018 Flight Software Workshop
   description: >-
     Southwest Research Institute (SwRI) in conjunction with the NASA Jet Propulsion Laboratory, The Aerospace Corporation, and The Johns Hopkins University Applied Physics Laboratory, is hosting the 11th Annual Workshop on Spacecraft Flight Software (FSW-2018) in San Antonio, Texas  from December 3rd to 6th 2018.
@@ -720,21 +720,6 @@
   logo: https://cdn.evbuc.com/images/46510132/231616926146/1/original.jpg?h=200&w=450&auto=compress&rect=0,787,2624,1312&s=1a602c571c1938fea140ef02b0358cb6
   starts: 2018-12-03T08:00:00.0000000
   ends: 2018-12-06T12:00:00.0000000
-- name: '(ISC)² DFW Presents: Cyber Aware Dallas'
-  description: "\nThe (ISC)² Dallas/Fort Worth (DFW) Chapter invites you to join us for Cyber Aware 2018. This one day summit is designed with you the information security professional in mind and will deliver actionable insights supporting your growth as an information security professional. This event will take place at the state of the art Davidson-Gundy Alumni Center on the campus of The University of Texas at Dallas and is one your won't want to miss. \nRegister today!\n"
-  url: https://www.eventbrite.com/e/isc2-dfw-presents-cyber-aware-dallas-tickets-45182193156?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/43589788/225418296359/1/original.jpg?h=200&w=450&auto=compress&rect=0,274,1092,546&s=1d900c1b5fe9b52eaa7ba176f26e97d7
-  starts: 2018-10-19T07:30:00.0000000
-  ends: 2018-10-19T18:00:00.0000000
-  venue: Davidson-Gundy Alumni Center
-- name: Flat Earth International Conference (USA) 2018
-  description: The 2018 Flat Earth International Conference (FEIC) is the 2nd annual conference hosted by Kryptoz Media. FEIC features presenters from various backgrounds and belief systems who have each made an impact on the larger Flat Earth community. FEIC is not in any way affiliated with the Flat Earth Society.
-  url: https://www.eventbrite.com/e/flat-earth-international-conference-usa-2018-tickets-39585550447?aff=ebapi
-  logo: https://cdn.evbuc.com/images/37642037/222390928091/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1184,592&s=205f78c2c8d123ef2a9a5fb189f4c6ad
-  starts: 2018-11-15T09:00:00.0000000
-  ends: 2018-11-16T21:00:00.0000000
-  venue: Crowne Plaza Denver Airport Convention Center
 - name: 2018 Single Cell User Group Meeting - St. Louis
   description: >-
     Join 10x for our first Single Cell User Group Meeting in St. Louis!
@@ -757,6 +742,13 @@
   starts: 2018-08-28T09:00:00.0000000
   ends: 2018-08-28T16:00:00.0000000
   venue: Washington University, St. Louis
+- name: Flat Earth International Conference (USA) 2018
+  description: The 2018 Flat Earth International Conference (FEIC) is the 2nd annual conference hosted by Kryptoz Media. FEIC features presenters from various backgrounds and belief systems who have each made an impact on the larger Flat Earth community. FEIC is not in any way affiliated with the Flat Earth Society.
+  url: https://www.eventbrite.com/e/flat-earth-international-conference-usa-2018-tickets-39585550447?aff=ebapi
+  logo: https://cdn.evbuc.com/images/37642037/222390928091/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1184,592&s=205f78c2c8d123ef2a9a5fb189f4c6ad
+  starts: 2018-11-15T09:00:00.0000000
+  ends: 2018-11-16T21:00:00.0000000
+  venue: Crowne Plaza Denver Airport Convention Center
 - name: Iowa Technology Summit Powered by Wellmark
   description: >-
     The Iowa Technology Summit Powered by Wellmark will unite Iowa’s technology community in an event to educate and connect current and future IT leaders.  The Iowa Technology Summit Powered by Wellmark will convene creators and consumers of technology from Startups to Fortune 500 companies including technology executives and their teams from such industries as technology, manufacturing, agriculture, insurance, financial services, and healthcare. This day-long event is designed for the sharing of ideas and real-world experiences, with a goal of elevating Iowa's technology industry.
@@ -946,22 +938,6 @@
   starts: 2018-10-09T08:00:00.0000000
   ends: 2018-10-09T16:00:00.0000000
   venue: FFA Enrichment Center
-- name: Big Year Jeffco
-  description: >2-
-
-
-    As part of our Land Stewardship Series Jeffco Invasive Species Management and Jeffco Open Space will be sponsoring BIG YEAR JEFFCO in 2018.
-
-    Because Jefferson County is home to over 200 species of birds, we decided to encourage people to get outside and document the birds they see within the county. Participants need to register to have their sightings be included in the BIG YEAR JEFFCO official count. Participants will also need an eBird account. eBird is the online venue for documenting the birds participants see and will be the official site for recording BIG YEAR JEFFCO sightings.
-
-
-
-    Visit eBird at: http://ebird.org/content/ebird/
-  url: https://www.eventbrite.com/e/big-year-jeffco-tickets-38816370810?aff=ebapi
-  is-free: true
-  starts: 2018-01-01T00:00:00.0000000
-  ends: 2019-01-01T00:00:00.0000000
-  venue: Jefferson County
 - name: WyoHackathon 2018
   description: >+
     Visit the WyoHackathon 2018 Website for all the details about this hackathon including rules, prizes, schedule, sponsors, and updates.
@@ -1281,6 +1257,7 @@
 
 
 
+
     OUR JUDGES
 
 
@@ -1375,6 +1352,22 @@
   starts: 2018-09-07T17:00:00.0000000
   ends: 2018-09-09T18:30:00.0000000
   venue: Memorial Fieldhouse
+- name: Big Year Jeffco
+  description: >2-
+
+
+    As part of our Land Stewardship Series Jeffco Invasive Species Management and Jeffco Open Space will be sponsoring BIG YEAR JEFFCO in 2018.
+
+    Because Jefferson County is home to over 200 species of birds, we decided to encourage people to get outside and document the birds they see within the county. Participants need to register to have their sightings be included in the BIG YEAR JEFFCO official count. Participants will also need an eBird account. eBird is the online venue for documenting the birds participants see and will be the official site for recording BIG YEAR JEFFCO sightings.
+
+
+
+    Visit eBird at: http://ebird.org/content/ebird/
+  url: https://www.eventbrite.com/e/big-year-jeffco-tickets-38816370810?aff=ebapi
+  is-free: true
+  starts: 2018-01-01T00:00:00.0000000
+  ends: 2019-01-01T00:00:00.0000000
+  venue: Jefferson County
 - name: Atlanta Cybersecurity Conference 2018
   description: >2-
 
@@ -1403,6 +1396,51 @@
   starts: 2018-09-20T08:00:00.0000000
   ends: 2018-09-20T17:00:00.0000000
   venue: InterContinental® Buckhead Atlanta
+- name: Sips & Science
+  description: >-
+    Southern Research invites you to Sips & Science—an engaging evening event fusing fellowship and fun with the most fascinating scientific topics of our time. Come grow with us!
+
+
+
+
+    5PM: Happy Hour
+
+    Enjoy complimentary beer and wine while you mingle with Dr. Rita Cowell, Fellow & Chair of the Department of Neuroscience at Southern Research.
+
+    6PM: "Understanding Your Aging Brain"
+
+    Age-related neurodegenerative disorders such as Parkinson's Disease, Alzheimer's Disease, and ALS are affecting more and more people, as treatments for diseases such as cancer and diabetes improve. Many of us know someone with an age-related neurodegenerative disorder, and it is difficult to understand how a disease can influence someone's personality and ability to perform everyday tasks. Thousands of researchers dedicate their time to improve our understanding of the biological changes which cause clinical symptoms and lead to progressive changes in behavior and function. In this seminar, I will explain the changes in brain structure that accompany degeneration and discuss the strategies that scientists are exploring to prevent disease and improve brain function.  
+
+
+
+
+    Dr. Rita Cowell
+
+    Rita Cowell, Ph.D., is Fellow and Chair of the Neuroscience Department within the Drug Discovery Division. In this role, she maintains an independently-funded research program, while overseeing the Neuroscience Department with the mission of discovering novel, mechanism-based approaches to treat individuals with neurodegenerative disorders. The research in the Cowell Lab aims to determine how intrinsic transcriptional programs underlying neuronal heterogeneity give rise to selective vulnerability in neurodegenerative disorders such as Parkinson’s Disease, Huntington Disease, Amyotrophic Lateral Sclerosis, and Alzheimer’s Disease. Her research group is comprised of postdoctoral, graduate, and undergraduate trainees who are affiliated with Southern Research’s partner institution, the University of Alabama at Birmingham (UAB). The lab is currently supported by grants from the National Institutes of Health and the Michael J. Fox Foundation for Parkinson’s Research.
+
+
+
+
+
+    What are my parking options?
+
+    Parking is available at 9th Avenue South (see the map below). Once the parking lots are filled, the Five Points South Deck parking garage is available for overflow parking for a $3 fee. It is located at 2012 Magnolia Avenue Birmingham, AL 35203.
+
+
+    Have questions about Sips & Science? Contact Dr. Kathryn Lanier at STEM@southernresearch.org. 
+
+
+
+    Thank you to our Sips & Science sponsor, The Pharmaceutical Research and Manufacturers of America!
+
+
+
+    Interested in sponsoring one of our Sips & Science events? Contact Brynne MacCann at bmaccann@southernresearch.org.
+  url: https://www.eventbrite.com/e/sips-science-tickets-49185099958?aff=ebapi
+  logo: https://cdn.evbuc.com/images/48761405/205638401573/1/original.jpg?h=200&w=450&auto=compress&rect=0,29,4904,2452&s=466dba0c8d024f208c2e48add1d79933
+  starts: 2018-09-12T17:00:00.0000000
+  ends: 2018-09-12T19:00:00.0000000
+  venue: Southern Research
 - name: 'A Day In the Life of a Data Scientist: Panel Discussion'
   description: >-
     Considering a career change into Data Science and want to better understand the road ahead of you? Come join us as we bring in a panel of Data Scientists and explore their backgrounds, trainings, their typical day, and problems they're solving.
@@ -1491,51 +1529,6 @@
   starts: 2018-08-30T18:30:00.0000000
   ends: 2018-08-30T22:30:00.0000000
   venue: Center for Civil and Human Rights
-- name: MarketWaves18
-  description: >+
-    MarketWaves18 presented by FreightWaves
-
-    Visit https://www.freightwaves.com/conferences-and-events/marketwaves18 for full event details
-
-    The premier event providing you with industry leaders views of the economics of freight markets and discussions on how the market is shaping up for 2019 and beyond.
-
-    Nov 12 & 13, 2018, at the Gaylord Texan Resort & Convention Center
-
-    Day one features cutting edge short-form demos from 40 freight-tech startups demonstrating the very latest in technological innovation shaping the freight industry.  This dynamic format  provides a proven platform for freight tech companies to achieve the next level of success with new customers, strategic partnerships, expert feedback, press coverage, and VC funding.  Several networking opportunites are scheduled between the demos. 
-
-    Day two provides the latest thinking on the economics of freight markets from visionaries, industry and market leaders. Keynotes and panels provide both high level strategic and specifically actionable insights giving you the best competitive intelligence on the economics of freight markets for 2019. 
-
-    Overall at MarketWaves18 you will experience: 
-
-
-
-    Fast-paced demos of cutting-edge freight-tech startups
-
-
-
-    Networking with some of the top minds and thinkers on the future of freight
-
-
-
-    Gain key market insights from industry leaders to help you postion for the future
-
-
-
-    Expect to meet: 
-
-
-
-    Senior-level transportation industry executives, venture capitalists, industry analysts, developers, press, bloggers and entrepreneurs from across the industry spectrum.
-
-
-
-    Decision makers behind the biggest brands and startups who create buzz around high-impact technology across all industry segments: shippers, carriers, 3PLs, supply chain management, manufacturing, and media.
-
-  url: https://www.eventbrite.com/e/marketwaves18-tickets-45912208652?aff=ebapi
-  logo: https://cdn.evbuc.com/images/46687843/261619103500/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=3dc33f2517e4869a5fc8479f8fe9c9ab
-  starts: 2018-11-12T07:00:00.0000000
-  ends: 2018-11-13T16:00:00.0000000
-  venue: Gaylord Texan Resort & Convention Center
 - name: ' Ameren Accelerator Demo Day 2018'
   description: >-
     Register today for the opportunity to witness the 2018 Ameren Accelerator DEMO DAY live in St. Louis, MO.  Over the past few months, we have been hard at work cultivating some of the most cutting-edge energy tech startups in the world with our unique accelerator model.  Come check out these innovative companies and see the product of this incredible collaboration between Ameren (NYSE: AEE), University of Missouri-Systems, UMSL Accelerate and Capital Innovators.
@@ -1609,6 +1602,51 @@
   starts: 2018-09-11T14:30:00.0000000
   ends: 2018-09-11T16:30:00.0000000
   venue: The Pageant
+- name: MarketWaves18
+  description: >+
+    MarketWaves18 presented by FreightWaves
+
+    Visit https://www.freightwaves.com/conferences-and-events/marketwaves18 for full event details
+
+    The premier event providing you with industry leaders views of the economics of freight markets and discussions on how the market is shaping up for 2019 and beyond.
+
+    Nov 12 & 13, 2018, at the Gaylord Texan Resort & Convention Center
+
+    Day one features cutting edge short-form demos from 40 freight-tech startups demonstrating the very latest in technological innovation shaping the freight industry.  This dynamic format  provides a proven platform for freight tech companies to achieve the next level of success with new customers, strategic partnerships, expert feedback, press coverage, and VC funding.  Several networking opportunites are scheduled between the demos. 
+
+    Day two provides the latest thinking on the economics of freight markets from visionaries, industry and market leaders. Keynotes and panels provide both high level strategic and specifically actionable insights giving you the best competitive intelligence on the economics of freight markets for 2019. 
+
+    Overall at MarketWaves18 you will experience: 
+
+
+
+    Fast-paced demos of cutting-edge freight-tech startups
+
+
+
+    Networking with some of the top minds and thinkers on the future of freight
+
+
+
+    Gain key market insights from industry leaders to help you postion for the future
+
+
+
+    Expect to meet: 
+
+
+
+    Senior-level transportation industry executives, venture capitalists, industry analysts, developers, press, bloggers and entrepreneurs from across the industry spectrum.
+
+
+
+    Decision makers behind the biggest brands and startups who create buzz around high-impact technology across all industry segments: shippers, carriers, 3PLs, supply chain management, manufacturing, and media.
+
+  url: https://www.eventbrite.com/e/marketwaves18-tickets-45912208652?aff=ebapi
+  logo: https://cdn.evbuc.com/images/46687843/261619103500/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=3dc33f2517e4869a5fc8479f8fe9c9ab
+  starts: 2018-11-12T07:00:00.0000000
+  ends: 2018-11-13T16:00:00.0000000
+  venue: Gaylord Texan Resort & Convention Center
 - name: 2018 Salt Lake County Watershed Symposium
   description: >+
     12th Annual Salt Lake County Watershed SymposiumNovember 14-15, 2018
@@ -1650,51 +1688,124 @@
   starts: 2018-11-14T08:00:00.0000000
   ends: 2018-11-15T16:00:00.0000000
   venue: Utah Cultural Celebration Center
-- name: Sips & Science
+- name: TechPint
   description: >-
-    Southern Research invites you to Sips & Science—an engaging evening event fusing fellowship and fun with the most fascinating scientific topics of our time. Come grow with us!
+    COME TO THE “MOST POPULAR TECH NETWORKING EVENT IN NORTHEAST OHIO”– CRAIN’S CLEVELAND
+
+    TechPint returns with Summer vibes on Tuesday, August 28th in the glorious surroundings of MOCA Cleveland (Museum of Contemporary Art). The event kicks off at 4:00 PM and features local tech heroes sharing their stories and lessons, companies showcasing their latest work, group tech conversations and, of course, plenty of pints. Or should we have a Piña colada?
+
+    VISIT TECHPINT.ORG FOR FULL INFORMATION
+
+
+    EVENT HIGHLIGHTS SO FAR:
+
+    HACKEREthereum, the World Computer w/ Adam Gall of DecentUser-Focused Development w/ Rob Sable of EmployStreamIoT – The new Full-er Stack: Moving from Devices, Mobile, and Web to Systems w/ Nick Barendt of Case Western Reserve UniversityHUSTLERFree, Cheap and (Mostly) Easy Tactics to Promote Your Tech Business w/ Kaity Huff of  Kiwi CreativeWhat My Daughter Taught Me About Medical Device Development w/ Jon Sakai of Cleveland ClinicBasecamp: CLE — Running a Start-Up that Doesn’t Fit the Ecosystem w/ Tom Donelan of Deck of DiceWhy Your Content is Getting Ignored – and How to Create a Marketing Strategy Your Prospects Actually Care About w/ Mike Cottrill of NgageContentDESIGNERMaking Work Easy: UX Practices for B2B Applications w/ Kier Selinsky of IgnitionOneCreating More Usable Experiences Using Inclusive Design Techniques w/ Kate Penrod of Hileman Group
+  url: https://www.eventbrite.com/e/techpint-tickets-47692720210?aff=ebapi
+  logo: https://cdn.evbuc.com/images/47046680/5353985376/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=c62625121fb8008eee05121d813bd2af
+  starts: 2018-08-28T16:00:00.0000000
+  ends: 2018-08-28T22:00:00.0000000
+  venue: MOCA
+- name: STEM Educator Open House at iFLY The Woodlands
+  description: >+
+    Are you ready for your school to take your STEM Education to the next level?
+
+    At iFLY, we know the importance of a hands-on experience that engages EVERY student. Experience how flying accelerateslearning with iFLY's STEM Education Program during our Open House Event! We will explore the STEM principles behind our wind tunnel technology through exciting lectures, test flights, and lab activities. Participants will also review important details on our TEKS curriculum for grades 2-12.
+
+    Join us at the Open House to learn more about discounted field trip flights and grant opportunities!
+
+    Each registered guest will receive a test flight, pizza, and everything you need to know about booking a STEM experience at iFLY!
+
+    PLUS- Get experienced insight from successful campaign creators from Donorschoose.org to assist you with creating the perfect STEM Field Trip when funding is an issue! 
+
+
+
+    What is the Agenda of the event?
+
+
+
+    4:30pm - Arrival and Check-in
+
+
+
+    5:00pm - Field Trip Presentation
+
+
+
+    5:50pm - Ball Demonstration in the Wind Tunnel
+
+
+
+    6:00pm - Flight Class starts
+
+
+
+    6:30pm- Flights!
+
+
+
+    Instructor Flight Demonstrations Throughout the Evening (You won't want to miss this!)
+
+
+
+    Pizza will be available beginning at 6pm.
 
 
 
 
-    5PM: Happy Hour
 
-    Enjoy complimentary beer and wine while you mingle with Dr. Rita Cowell, Fellow & Chair of the Department of Neuroscience at Southern Research.
+    Not sure you want to fly during the event?
 
-    6PM: "Understanding Your Aging Brain"
-
-    Age-related neurodegenerative disorders such as Parkinson's Disease, Alzheimer's Disease, and ALS are affecting more and more people, as treatments for diseases such as cancer and diabetes improve. Many of us know someone with an age-related neurodegenerative disorder, and it is difficult to understand how a disease can influence someone's personality and ability to perform everyday tasks. Thousands of researchers dedicate their time to improve our understanding of the biological changes which cause clinical symptoms and lead to progressive changes in behavior and function. In this seminar, I will explain the changes in brain structure that accompany degeneration and discuss the strategies that scientists are exploring to prevent disease and improve brain function.  
+    We'll have activities for those that aren't flying. Guests are sure to be entertained by the demonstrations and experts flying in our wind tunnel! Please notify the organizer you are attending, but not flying.
 
 
+    FAQs
+
+    Are there age/physical limits to enter the event?
+
+    There is no age limit to attend, but there are physical requirements for the flight experience. Please complete our waiver and review the terms if you plan to fly during the event.
+
+    www.iFLYworld.com/flight-waiver
 
 
-    Dr. Rita Cowell
+    What can/can't I bring to the event?
 
-    Rita Cowell, Ph.D., is Fellow and Chair of the Neuroscience Department within the Drug Discovery Division. In this role, she maintains an independently-funded research program, while overseeing the Neuroscience Department with the mission of discovering novel, mechanism-based approaches to treat individuals with neurodegenerative disorders. The research in the Cowell Lab aims to determine how intrinsic transcriptional programs underlying neuronal heterogeneity give rise to selective vulnerability in neurodegenerative disorders such as Parkinson’s Disease, Huntington Disease, Amyotrophic Lateral Sclerosis, and Alzheimer’s Disease. Her research group is comprised of postdoctoral, graduate, and undergraduate trainees who are affiliated with Southern Research’s partner institution, the University of Alabama at Birmingham (UAB). The lab is currently supported by grants from the National Institutes of Health and the Michael J. Fox Foundation for Parkinson’s Research.
-
-
+    Please wear comfortable clothing and lace up shoes if you are planning to fly. Please note this event is for STEM educators, legislators, and school administration. Children, family members, and other guests are welcome to attend and are welcome to fly with the purchase of a flight package. Please contact the organizer if you would like to purchase a flight.
 
 
+    Where can I contact the organizer with any questions?
 
-    What are my parking options?
+    Staci Smith , Sales Manager iFLY Houston-Woodlands
 
-    Parking is available at 9th Avenue South (see the map below). Once the parking lots are filled, the Five Points South Deck parking garage is available for overflow parking for a $3 fee. It is located at 2012 Magnolia Avenue Birmingham, AL 35203.
+    ssmith@iFLYworld.com
 
-
-    Have questions about Sips & Science? Contact Dr. Kathryn Lanier at STEM@southernresearch.org. 
-
-
-
-    Thank you to our Sips & Science sponsor, The Pharmaceutical Research and Manufacturers of America!
+    281-903-3160
 
 
+    Is my registration/ticket transferrable?
 
-    Interested in sponsoring one of our Sips & Science events? Contact Brynne MacCann at bmaccann@southernresearch.org.
-  url: https://www.eventbrite.com/e/sips-science-tickets-49185099958?aff=ebapi
-  logo: https://cdn.evbuc.com/images/48761405/205638401573/1/original.jpg?h=200&w=450&auto=compress&rect=0,29,4904,2452&s=466dba0c8d024f208c2e48add1d79933
-  starts: 2018-09-12T17:00:00.0000000
-  ends: 2018-09-12T19:00:00.0000000
-  venue: Southern Research
+    Yes, you may transfer your registration to another STEM educator or administrator. Please update your ticket information on your Eventbrite account. Plan to provide educator credentials upon arrival.
+
+
+    Do I have to bring my printed ticket to the event?
+
+    Not required, but it will be helpful.
+
+
+    Can I add the High Flight experience?
+
+    Yes! It is only $9.95 and is created specifically for first-time flyers to experience advanced body flight during their first flight. Call ahead at 281-295-1781 to add your High Flight in advance! Watch the High Flight video to learn more.
+
+
+    I'm interested in the STEM program but am unable to make it to the Open House.  What should I do?
+
+    We understand this date may not work for everyone. If you are unable to attend this event but are still interested, please contact Staci Smith at 281.903.3160 or ssmith@iflyworld.com
+
+  url: https://www.eventbrite.com/e/stem-educator-open-house-at-ifly-the-woodlands-tickets-47927828425?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/47619056/183000293372/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1200,600&s=6b3b66ff6a91452f073525c79909ef93
+  starts: 2018-09-11T16:30:00.0000000
+  ends: 2018-09-11T20:00:00.0000000
+  venue: iFLY Indoor Skydiving
 - name: Minnesota User Groups -  Tuesday September 11, 2018
   description: >+
     REGISTER NOW for our next Minnesota User Groups Event Tuesday, September 11th from 9:00 am to 1:00 pm
@@ -1763,23 +1874,14 @@
   starts: 2018-10-23T08:00:00.0000000
   ends: 2018-10-26T13:00:00.0000000
   venue: SpringHill Suites by Marriott Moab
-- name: TechPint
-  description: >-
-    COME TO THE “MOST POPULAR TECH NETWORKING EVENT IN NORTHEAST OHIO”– CRAIN’S CLEVELAND
-
-    TechPint returns with Summer vibes on Tuesday, August 28th in the glorious surroundings of MOCA Cleveland (Museum of Contemporary Art). The event kicks off at 4:00 PM and features local tech heroes sharing their stories and lessons, companies showcasing their latest work, group tech conversations and, of course, plenty of pints. Or should we have a Piña colada?
-
-    VISIT TECHPINT.ORG FOR FULL INFORMATION
-
-
-    EVENT HIGHLIGHTS SO FAR:
-
-    HACKEREthereum, the World Computer w/ Adam Gall of DecentUser-Focused Development w/ Rob Sable of EmployStreamIoT – The new Full-er Stack: Moving from Devices, Mobile, and Web to Systems w/ Nick Barendt of Case Western Reserve UniversityHUSTLERFree, Cheap and (Mostly) Easy Tactics to Promote Your Tech Business w/ Kaity Huff of  Kiwi CreativeWhat My Daughter Taught Me About Medical Device Development w/ Jon Sakai of Cleveland ClinicBasecamp: CLE — Running a Start-Up that Doesn’t Fit the Ecosystem w/ Tom Donelan of Deck of DiceWhy Your Content is Getting Ignored – and How to Create a Marketing Strategy Your Prospects Actually Care About w/ Mike Cottrill of NgageContentDESIGNERMaking Work Easy: UX Practices for B2B Applications w/ Kier Selinsky of IgnitionOneCreating More Usable Experiences Using Inclusive Design Techniques w/ Kate Penrod of Hileman Group
-  url: https://www.eventbrite.com/e/techpint-tickets-47692720210?aff=ebapi
-  logo: https://cdn.evbuc.com/images/47046680/5353985376/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=c62625121fb8008eee05121d813bd2af
-  starts: 2018-08-28T16:00:00.0000000
-  ends: 2018-08-28T22:00:00.0000000
-  venue: MOCA
+- name: 2019 Physics Force Winter Shows
+  description: "\nPhysics is Fun!\nWe invite you to the 2019 University of Minnesota Physics Force Winter Shows. This year's shows are better than ever, with live fire, lightning, a crushing barrell, and a performer falling from a tower. Don't miss out on having fun with physics. \nThese free-of-cost performances take place at Northrop Auditorium on January 14-18, 2019.\nThe show dates and times (Each show is 60-75 minutes long; Note that some of the afternoon shows are at 12:30 pm and others at 1 pm) \nMonday 1/14  10:00 am & 12:30pm Tues 1/15  10:00 am &  1:00pm Wed 1/16 10:00am & 12:30 pm Th  1/17 10:00 am & 1:00pm Fri 1/18  10 am & 12:30pm\n \nThe shows are free but reservations are required.\nReserve as many tickets as you need, but please reserve only if you intend to come. Seats are in high demand. The shows are free but reservations are required. Please reserve on this site.  Please cancel your tickets, or notify us of a cancellation by November 15, 2018. \nThe system has a 100 ticket per order maximum. If you need more than 100 tickets please create multiple orders. The same teacher's name can be used for all reservations. Include adults, teachers, and chaperones in your order number.\nSome funding is available to help public schools with bus support. To apply for funding please follow the link http://www.physics.umn.edu/resources/forms/pfbusing.html. You must apply by November 1, 2018. We plan to send notifications around November 15th, 2018. \nIf you will need support for hearing impaired students please use the link http://www.physics.umn.edu/resources/forms/SLI.html\nRochester shows in May\nWe are also performing in the Rochester's Civic Center on May 8th and 9th, 2019.  Click here for full details and registration.\nTo learn more about the physics force and the show please go to https://physicsforce.umn.edu/\nFor questions, contact Angie Stehr at 612-301-8303, stehr002@umn.edu\n"
+  url: https://www.eventbrite.com/e/2019-physics-force-winter-shows-tickets-48814847523?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48105404/4067900361/1/original.jpg?h=200&w=450&auto=compress&rect=123,0,1808,904&s=1fdf70ab86e28e055e22f9f53b0dbb06
+  starts: 2019-01-14T10:00:00.0000000
+  ends: 2019-01-18T14:00:00.0000000
+  venue: Northrop
 - name: 'Comcast Techpak: Free STEM Activity Day'
   description: >+
     MISSION: To ignite an interest in STEM learning to prepare our youth to compete globally through analytical thinking and design learning that fosters creativity and innovation.
@@ -1940,10 +2042,3 @@
   starts: 2018-09-07T21:00:00.0000000
   ends: 2018-09-08T00:30:00.0000000
   venue: Blue Mountain Observatory
-- name: 2018 North Dakota Water and Pollution Control Conference - Grand Forks
-  description: Annual Conference organized for educational and scientific advancement of water, wastewater, and stormwater systems.  Promoting and encouraging the exchanging of ideas and experience among attendees, protection of the public health, and operator education and certification.   
-  url: https://www.eventbrite.com/e/2018-north-dakota-water-and-pollution-control-conference-grand-forks-registration-46164115111?aff=ebapi
-  logo: https://cdn.evbuc.com/images/45553725/257197359451/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=b87a8d722d6fa36a6d66583e49bd1202
-  starts: 2018-10-16T13:30:00.0000000
-  ends: 2018-10-18T13:30:00.0000000
-  venue: Alerus Center
