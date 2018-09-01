@@ -62,14 +62,6 @@
   starts: 2018-09-06T16:30:00.0000000
   ends: 2018-09-06T19:30:00.0000000
   venue: Enjoy Digital
-- name: What's Happening in the Data World + Continuous Control (and retiring DevOps)
-  description: "<p>SESSION ONE: What's Happening in the Data World - Where We've Come From and Where We're Going</p> <p>For 30 years the data world didn't see any major paradigm shifts. In the last 8 years there has been a tsunami of change. This is an overview of where we've come from, the reasons for all the change, and a view of where we're going.</p> <p>Speaker: Steve Hicklin<br/>Steve is part of EE's Data Practice and focuses on Data Engineering, Data Science and Platform migrations. As well as being hands on in delivery, Steve spends a lot of time working with organisations to find ways of working effectively and simply - be that pushing the limits of using Machine Learning or looking at people and processes across an organisation to optimise the best outcomes from their Data platforms</p> <p>*****<br/>SESSION TWO: Continuous Control (and retiring DevOps)</p> <p>Many of us have spent what feels like the majority of our careers helping clients be ‘more agile’ — getting faster feedback, learning and experimenting, autonomous cross-functional teams, retiring ‘legacy’ stuff. But now there are a new breed of firms who don’t have legacy, for whom experimentation is the norm, who are staffed by people who have never worked in any waterfall-ish environment. This has bred a whole new range of challenges and opened up new possibility spaces. How do you help a new generation brought up on The Lean Startup to scale and build to last, to enjoy agility without sacrificing control, without bringing back ITIL and all the horrors of Enterprise IT management?</p> <p>Speaker: Dan Mitchell<br/>Dan’s the Equal Experts Operability Lead and spends his time between delivery and consulting helping organisations understand operability is about more than just the infrastructure automation they’ve been led to expect from “DevOps Engineers”. He loves to talk about platforms such as product, infrastructure, telemetry, deployment health, on-call practices and post-mortems.</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> <p>**Food and drink will be provided - we look forward to seeing you there!**</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> "
-  url: https://www.meetup.com/ExpertTalks-Leeds/events/246514091/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
-  starts: 2018-09-06T17:00:00.0000000
-  ends: 2018-09-06T20:00:00.0000000
-  venue: Lamberts yard,
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804970/
@@ -133,6 +125,13 @@
   starts: 2018-09-13T18:00:00.0000000
   ends: 2018-09-13T20:00:00.0000000
   venue: The Cross Keys
+- name: Crypto catchup (Friday)
+  description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
+  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/253677501/
+  is-free: true
+  starts: 2018-09-14T11:30:00.0000000
+  ends: 2018-09-14T12:30:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804973/
