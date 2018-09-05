@@ -2,7 +2,7 @@
 layout: post
 title:  "Agile York is 1 year old!"
 date:   2018-06-20 15:08:10 -0500
-img: img/meetups/agile_york_cake.jpg
+img: img/posts/agile_york_cake.jpg
 modalID: modalAgileYorkAnniversary
 category: Post
 ---
