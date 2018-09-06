@@ -1,43 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/253804967/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-09-05T06:30:00.0000000
-  ends: 2018-09-05T09:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/254233909/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-09-05T07:00:00.0000000
-  ends: 2018-09-05T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Leeds Sitecore User Group September 2018
-  description: "<p>Join us at the next Leeds Sitecore User Group for an opportunity to network, share ideas and hear from some great speakers - and to drink some beer, of course!</p> <p>This event will be sponsored by Real IT and Sagittarius Agency on Wednesday 5th September from 6:30pm.</p> <p>Date: Wednesday 5th September<br/>Location: Sky Lounge (DoubleTree by Hilton Hotel Leeds City Centre)<br/>Time: Arrival from 6pm &amp; presentations from 6:30 - 9pm</p> <p>On the night: look out for the Real IT logo in the lobby entrance &amp; head straight to the top floor, we'll be at the back of the room entertaining with beers before the start of the presentations at 6:30!</p> <p>Lineup:</p> <p>Johannes Zijlstra - HTTPS<br/>Sagittarius (<a href=\"https://twitter.com/Trayek\" class=\"linkified\">https://twitter.com/Trayek</a>)</p> <p>Lee Swainsbury - Sitecore 9 and Ucommerce<br/>Sagittarius (<a href=\"https://twitter.com/swaino86\" class=\"linkified\">https://twitter.com/swaino86</a>)</p> <p>Peter Clisby - Sitecore Headless JSS in Version 9<br/>A dedicated Sitecore developer with 5 years experience working for both Platinum and Gold Sitecore Partners.</p> <p>Tom Hawkin - Migrating Legacy Sitecore Solutions to Helix<br/>With more than 8 years Sitecore experience Tom has also made the top 50 across the North in the Sitecore league table.</p> <p>There will be a chance to Q&amp;A each of the talks, time permitting.</p> <p>Please RSVP so we have a good idea of numbers!</p> "
-  url: https://www.meetup.com/sug-uk/events/251511728/
-  is-free: true
-  starts: 2018-09-05T17:30:00.0000000
-  ends: 2018-09-05T20:00:00.0000000
-  venue: DoubleTree by Hilton
-- name: Front End York - Big data AI, Writing skills for devs & Fast-paced design
-  description: "<p>We're back after the summer holidays! We have an awesome set of speakers and talks planned that you won't want to miss</p> <p># PureClarity - A look at how we're building an AI SaaS product using big data. In this talk the Head of Development at PureClarity, John Barton will talk about the architecture they use, as well as some of the problems and challenges they encountered from starting the product through to their first round of external investment.</p> <p># Writing skills for developers - In modern companies, developers are increasingly required to contribute to documentation. In this talk we'll be joined by Dee Vincent-Day, Technical Author at Piksel as she outlines product documentation regulations within the EU and USA, then moves into how to meet regulation requirements.</p> <p># Fast-Paced, Well-Spaced - As tragedy struck at Grenfell, a team of volunteers sprung into action to design from scratch for a crowd of 200,000 people in two weeks. Connor Gurney, MD of Difference York will be sharing details of how their work led to thanks from bereaved families, brought them into international headlines, and taught them the greatest lessons of their lives.</p> <p>We look forward to seeing you all!</p> "
-  url: https://www.meetup.com/YorkDevelopers/events/252949370/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-09-05T18:00:00.0000000
-  ends: 2018-09-05T20:00:00.0000000
-  venue: Stonegate Yard Bar & Brasserie
-  endorsed: true
-- name: York Hackspace Open Evening
-  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
-  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/254066078/
-  is-free: true
-  starts: 2018-09-05T18:00:00.0000000
-  ends: 2018-09-05T20:00:00.0000000
-  venue: York Hackspace
 - name: Data Platform User Group (SQL, Azure, Dev, DBA)
   description: "<p>Network, learn, ask a question, meet other data folk, get fed - these are all things that happen at PASS user group events. These events are a really great opportunity to socialise in an informal learning experience.</p> <p>Remember to tell your friends and the people you work with; make sure you register as soon as you can.</p> <p>17.30 – 18:00 – Networking.</p> <p>18:00 – 19:00 – Lightning Talks.</p> <p>19:00 – 19:20 – Break (food / drinks).</p> <p>19:20 – 20:20 – Family Bucket of SQL Nuggets.</p> <p>20:20 – 20:30 – Feedback (via online forms) then off t’pub.</p> <p>Lightning Talks<br/>How to architect an optimum Modern Data solution on Cloud<br/>Sherin Mathew (@SMdisrupt)</p> <p>AWS Glue - Let's get \"stuck\" in!<br/>Chris Taylor (@sqlgeordie)</p> <p>Enabling compression on large tables and LOB columns with zero downtime<br/>Sven Lowry (@sven_lowry)</p> <p>Family bucket of SQL nuggets<br/>A collection of tips, tricks, and myths covering the administration and development of SQL Server &amp; Azure. This talk is for anyone that works with SQL Server and includes topics such as squeezing the most out of your systems, understanding why your queries won’t run in parallel and simulating execution plans when your DBA won’t let you near production.</p> <p>About Phil<br/>After spending 14 years creating one of the world’s largest central healthcare systems, Phil Grayson (@databoffin) now works as a consultant for xTEN, where his varied but in-depth experience has helped to transform IT systems across Europe.</p> <p>He is also the co-founder of Aireforge, the creators of Aireforge Studio, a proud Friend of Redgate, organiser of Data &amp; Gravy, Leeds SQL User Group and a frequent volunteer at SQLBits</p> "
   url: https://www.meetup.com/leeds_data_platform/events/253209929/
@@ -63,7 +23,7 @@
   venue: Drift In At fat Face
   endorsed: true
 - name: 'HaintonDotNet Leeds: Building Scalable & Resilient Web Apps with Azure'
-  description: "<p>Building web apps that are both scalable and resilient is challenging especially when you have an existing application that you need to change.</p> <p>This talk discusses scalability and resilience, the issues you could have and highlights some of the services within Azure that you can use to help.</p> <p>18:00 - 18:30: Pizzas and beers</p> <p>18:30 - 18:31: Intro to Hainton (yes literally 1 minute)</p> <p>18:31 - 19:30: Building Scalable &amp; Resilient Web Apps with Azure by Steve Spencer</p> <p>19:31 - 20:00: Networking, more pizza, more beer</p> <p>HaintonDotNet Yorkshire is a free event that takes place every other 2nd Tuesday of the month and is aimed at .NET professionals based in Yorkshire.</p> <p>There's a different topic covered every month; subjects in the past have included: RabbitMQ, .NET Core and Typescript.</p> <p>There's plenty of free beer and pizza too.</p> <p>Yes, we are a recruitment company but please don't be worried about any hard selling. We put these events on for visibility - not to promote ourselves or any vacancies we're working on.</p> <p>Here's a link to a tweet a previous speaker wrote about our events: <a href=\"https://twitter.com/ShahidDev/status/1034929243602513922\" class=\"linkified\">https://twitter.com/ShahidDev/status/1034929243602513922</a></p> <p>We hope to see you at this event or future ones.</p> "
+  description: "<p>Building web apps that are both scalable and resilient is challenging especially when you have an existing application that you need to change.</p> <p>This talk discusses scalability and resilience, the issues you could have and highlights some of the services within Azure that you can use to help.</p> <p>18:00 to 18:30: Pizzas and beers</p> <p>18:30 to 18:31: Intro to Hainton (yes literally 1 minute)</p> <p>18:31 to 19:30: Building Scalable &amp; Resilient Web Apps with Azure by Steve Spencer</p> <p>19:31 to 20:00: Networking, more pizza, more beer</p> <p>HaintonDotNet Yorkshire is a free event that takes place every other 2nd Tuesday of the month and is aimed at .NET professionals based in Yorkshire.</p> <p>There's a different topic covered every month; subjects in the past have included: RabbitMQ, .NET Core and Typescript.</p> <p>There's plenty of free beer and pizza too.</p> <p>Yes, we are a recruitment company but please don't be worried about any hard selling. We put these events on for visibility - not to promote ourselves or any vacancies we're working on.</p> <p>Here's a link to a tweet a previous speaker wrote about our events: <a href=\"https://twitter.com/ShahidDev/status/1034929243602513922\" class=\"linkified\">https://twitter.com/ShahidDev/status/1034929243602513922</a></p> <p>We hope to see you at this event or future ones.</p> "
   url: https://www.meetup.com/HaintonDotNetYorkshire/events/253298136/
   is-free: true
   starts: 2018-09-11T17:00:00.0000000
@@ -141,6 +101,29 @@
   ends: 2018-09-19T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxmbzb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-09-19T07:00:00.0000000
+  ends: 2018-09-19T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Save The Date
+  description: '<p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided. We will have vegetarian food, if you have any other dietary requirements or questions please send us a message.</p> <p>_______________________________</p> <p>★ The talks</p> <p>✩ Talk 1 - TBA</p> <p>✩ Talk 2 - TBA</p> <p>_______________________________</p> <p>★ Timings</p> <p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – Talk 1 - TBA<br/>19:30 – A little break<br/>19:35 – Talk 2 - TBA<br/>20:10ish – Pop over to the pub for a chat and a drink</p> '
+  url: https://www.meetup.com/leedsphp/events/253971927/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
+  starts: 2018-09-19T17:30:00.0000000
+  ends: 2018-09-19T19:30:00.0000000
+  venue: Platform
+- name: York Hackspace Open Evening
+  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxmbzb/
+  is-free: true
+  starts: 2018-09-19T18:00:00.0000000
+  ends: 2018-09-19T20:00:00.0000000
+  venue: York Hackspace
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxmbbc/
@@ -592,6 +575,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-02-25T07:30:00.0000000
   ends: 2019-02-25T10:30:00.0000000
+  venue: Drift In At fat Face
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbkc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-02-27T07:30:00.0000000
+  ends: 2019-02-27T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
 - name: Game Developers, Monthly Meeting
