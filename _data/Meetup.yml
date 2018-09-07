@@ -1,18 +1,3 @@
-- name: Data Platform User Group (SQL, Azure, Dev, DBA)
-  description: "<p>Network, learn, ask a question, meet other data folk, get fed - these are all things that happen at PASS user group events. These events are a really great opportunity to socialise in an informal learning experience.</p> <p>Remember to tell your friends and the people you work with; make sure you register as soon as you can.</p> <p>17.30 – 18:00 – Networking.</p> <p>18:00 – 19:00 – Lightning Talks.</p> <p>19:00 – 19:20 – Break (food / drinks).</p> <p>19:20 – 20:20 – Family Bucket of SQL Nuggets.</p> <p>20:20 – 20:30 – Feedback (via online forms) then off t’pub.</p> <p>Lightning Talks<br/>How to architect an optimum Modern Data solution on Cloud<br/>Sherin Mathew (@SMdisrupt)</p> <p>AWS Glue - Let's get \"stuck\" in!<br/>Chris Taylor (@sqlgeordie)</p> <p>Enabling compression on large tables and LOB columns with zero downtime<br/>Sven Lowry (@sven_lowry)</p> <p>Family bucket of SQL nuggets<br/>A collection of tips, tricks, and myths covering the administration and development of SQL Server &amp; Azure. This talk is for anyone that works with SQL Server and includes topics such as squeezing the most out of your systems, understanding why your queries won’t run in parallel and simulating execution plans when your DBA won’t let you near production.</p> <p>About Phil<br/>After spending 14 years creating one of the world’s largest central healthcare systems, Phil Grayson (@databoffin) now works as a consultant for xTEN, where his varied but in-depth experience has helped to transform IT systems across Europe.</p> <p>He is also the co-founder of Aireforge, the creators of Aireforge Studio, a proud Friend of Redgate, organiser of Data &amp; Gravy, Leeds SQL User Group and a frequent volunteer at SQLBits</p> "
-  url: https://www.meetup.com/leeds_data_platform/events/253209929/
-  is-free: true
-  starts: 2018-09-06T16:30:00.0000000
-  ends: 2018-09-06T20:00:00.0000000
-  venue: Platform
-- name: Umbraco Meetup
-  description: '<p>Last months Bingo winners (More to come but no this month)<br/>- Enjoy Mug James Fisher<br/>- Jetbrains Key Matthew Mirzai<br/>- Umbraco T-shirt Sean Valentine</p> <p>This month brings two more great talks!</p> <p>- Tim Payne on Work life balance<br/>- Callum Whyte on Azure setups and tools</p> <p>See you on the 6th at Enjoy Digital.</p> '
-  url: https://www.meetup.com/umbLeeds/events/253407091/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2018-09-06T16:30:00.0000000
-  ends: 2018-09-06T19:30:00.0000000
-  venue: Enjoy Digital
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804970/
@@ -124,6 +109,14 @@
   starts: 2018-09-19T18:00:00.0000000
   ends: 2018-09-19T20:00:00.0000000
   venue: York Hackspace
+- name: CodeUp Leeds Meetup
+  description: "<p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>This month we will be delivering the following sessions:<br/>- Beginner Session: Intro to Web Development<br/>- Beginner to Intermediate Session: Python II - IDEs, Virtual Environments and Flask (This session is ideal for people with some exposure to programming fundamentals.)<br/>- Learner led mentoring</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
+  url: https://www.meetup.com/CodeUp-Leeds/events/252949495/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
+  starts: 2018-09-20T17:45:00.0000000
+  ends: 2018-09-20T20:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxmbbc/
