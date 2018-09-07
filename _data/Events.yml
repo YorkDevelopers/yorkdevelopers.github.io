@@ -104,40 +104,6 @@
   starts: 2018-09-13T09:00:00.0000000
   ends: 2018-09-14T16:00:00.0000000
   venue: Georgia International Convention Center
-- name: GrrCON '18
-  description: >-
-    What is GrrCON:
-
-
-    GrrCON is an cyber security and hacking conference put together to provide the community with a venue to come together and share ideas, information, solutions, forge relationships, and most importantly engage with like minded people in a fun atmosphere without all the elitist “Diva” nonsense. We bring together the CISO, the hacker, the security practitioner, and the researcher in a one-of-a-kind experience you CANNOT get elsewhere.We provide three+ presentation tracks, in-con workshops, and a solutions arena to ensure you get the most out of the event. Come join the conversation.No egos. No Divas. Just a good time and good content
-
-
-    When/Where is GrrCON:
-
-
-    GrrCON is being held on September 6th & 7th, 2018 at DeVos Place, Grand Rapids, MI.
-
-
-    DeVos Place303 Monroe Ave. NWGrand Rapids, MI 49503
-  url: https://www.eventbrite.com/e/grrcon-18-tickets-43683005044?aff=ebapi
-  logo: https://cdn.evbuc.com/images/41554658/14990315791/1/original.jpg?h=200&w=450&auto=compress&rect=0,15,1600,800&s=d0d9b87b4544c852ced150478f8fb5eb
-  starts: 2018-09-06T07:00:00.0000000
-  ends: 2018-09-07T18:30:00.0000000
-  venue: DeVos Place convention center
-- name: South Carrick vs Clement Basketball (boys)/Básquetbol (ninos)
-  description: >-
-    *****THIS IS EVENT IS FOR DEMONSTRATION PURPOSES ONLY AND NOT AN ACTUAL EVENT*****
-
-    2016 South Carrick Bears vs Clement Vikings
-
-    *****SPANISH VERSION OF THE EXACT SAME TEXT ABOVE*****
-
-    2016 South Carrick Osos vs Clement Vikingos
-  url: https://www.eventbrite.com/e/south-carrick-vs-clement-basketball-boysbasquetbol-ninos-tickets-31353693742?aff=ebapi
-  logo: https://cdn.evbuc.com/images/47668375/158383528857/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0140a47d21535df6bb9bb87eafd503d8
-  starts: 2018-09-08T18:30:00.0000000
-  ends: 2018-09-08T21:30:00.0000000
-  venue: South Carrick Gym
 - name: 2019 Physics Force May Shows
   description: "\nPhysics is Fun!\nWe invite you to the 2019 University of Minnesota Physics Force May Shows in Rochester. This year's shows are better than ever, with live fire, lightning, a crushing barrell, and a performer falling from a tower. Don't miss out on having fun with physics. \nThese free-of-cost performances take place at Mayo Civic Center on May 8-9, 2019.\nThe show dates and times (Each show is 60 minutes long) \nWed 5/8 10:00 am & 12:30 pm, and 7:00pm Th  5/9 10:00 am, 12:30 pm \nThe shows are free but reservations are required.\nReserve as many tickets as you need, but please reserve only if you intend to come. Seats are in high demand. The shows are free but reservations are required. Please reserve on this site.  \nThe system has a 100 ticket per order maximum. If you need more than 100 tickets please create multiple orders. The same teacher's name can be used for all reservations. Include adults, teachers, and chaperones in your order number.\nThe morning and afternoon shows are allocated to elementary and middle school classes. The Friday evening show is open to the general public. \nIf you will need support for hearing impaired students please use the link http://www.physics.umn.edu/resources/forms/SLI.html\nTo learn more about the physics force and the show please go to https://physicsforce.umn.edu/\nFor questions, contact Angie Stehr at 612-301-8303, stehr002@umn.edu\n"
   url: https://www.eventbrite.com/e/2019-physics-force-may-shows-tickets-48851323624?aff=ebapi
@@ -146,6 +112,52 @@
   starts: 2019-05-08T10:00:00.0000000
   ends: 2019-05-09T19:00:00.0000000
   venue: Mayo Civic Center Auditorium
+- name: MongoDB.local Chicago
+  description: >-
+    MongoDB is coming to Chicago! Join us for a full-day educational conference covering the fundamentals to advanced techniques of app design and performance management. You’ll hear from the team that builds the database and power users running MongoDB deployments. 
+
+    WHAT YOU'LL LEARN
+
+
+    Insight into building applications with MongoDB Stitch, the serverless platform from MongoDB
+
+    How to deploy, operate, and scale your database on all major cloud platforms with MongoDB Atlas
+
+    What’s new in MongoDB 4.0, including multi-document ACID transactions, and how the latest version of MongoDB can help your business succeed
+
+    Best practices from the experts on topics including schema design, analytics, microservices, performance, and more
+
+    Register for hands-on, deep-dive technical sessions, equipping you with the tools you need to build and deploy your giant ideas
+
+
+    Register for a day of hands-on, deep-dive technical sessions, equipping you with the tools you need to build and deploy your giant ideas.
+
+    Admission includes breakfast, lunch, and access to all sessions and sponsor area. Space is limited. Confirm your attendance today. 
+
+    The conference is free to attend. If you'd like to contribute to a good cause, you can! Select the RSVP + Contribute to a Good Cause! conference pass type. You'll be able to select which nonprofit you donate to on the next page.
+
+    For more information including agenda and speakers, visit https://www.mongodb.com/local.
+  url: https://www.eventbrite.com/e/mongodblocal-chicago-tickets-46899660146?aff=ebapi
+  logo: https://cdn.evbuc.com/images/48958360/3009931056/1/original.jpg?h=200&w=450&auto=compress&rect=39,0,540,270&s=d1b79dd8843eda3cfceb9bd267984136
+  starts: 2018-09-12T08:30:00.0000000
+  ends: 2018-09-12T17:30:00.0000000
+  venue: Hyatt Regency Chicago
+- name: 2018 Rockwell Technical Network
+  description: "Welcome to the Rockwell Automation Technical Network (RTN) Event Registration\nEvery year employees related to manufacturing, reliability, development and quality are encouraged to attend the RTN event in Milwaukee to network, learn and take information and improvements back to their business. The underlying goal is to understand our materials, challenges and processes, and share that knowledge so our Business Units can learn from each other and avoid making the same mistakes.  This year's Keynote Speaker is Blake Moret, Chairman and CEO, Rockwell Automation. \nOur labs are outfitted as well (if not better) than the best television crime solving shows. This is advanced science and it all relates to chemistry – how the materials that become our products (or used in making our products) are sourced, applied and supported. \n5 Reasons to Attend\n\n\nLearn what’s new in forensic analysis – what we know and are learning about our materials, why they work and why they fail. \n\n\nSave time and effort. Don’t repeat mistakes. Talk to colleagues and find out what they’ve learned, and apply it locally. \n\n\nHear stories from the ‘bizarre and strange’ file. A little levity you don’t want to miss.\n\n\nMeet your colleagues. They can help you. \n\n\nGet key messages straight from leaders (CEO Blake Moret will talk about how materials bring The Connected Enterprise to life).\n\n\nFurther information regarding the goals of RTN and examples of past presentations, can be found by following this link: https://rockwellautomation.sharepoint.com/teams/OESES_ATS/C_ME/SitePages/RTN.aspx\nKeynote Speaker\n\nBlake Moret is Chairman and Chief Executive Officer of Rockwell Automation. He assumed the role of CEO on July 1, 2016 and was elected Chairman of the Board effective January 1, 2018.  \nAs CEO, Blake leads the world’s largest company focused on industrial automation and information, dedicated to making our customers more productive and the world more sustainable.  \n\n\nAgenda\n Tuesday, October 9, 2018 \n7:30 AM - Gather/Light Breakfast/Coffee\n8:00 AM - Welcome & Introductions - Tim Roback, Manager, C&ME\n8:15 AM - Materials & The Connected Enterprise - Blake Moret, Chairman & CEO\n8:45 AM - Guest Introductions - Tim Roback, Manager, C&ME\n9:00 AM - Conducting Failure Analysis of Plastic Parts - Steven Hahn, Project Chemist\n9:55 AM - TBD - Roy Rice, Senior Project Engineer\n10:15 AM - Break\n10:30 AM - Caution when Using Breakaway Torque to Verify if Production Assembled a Unit Properly - Walter Lehnhoff, Project Engineer\n10:50 AM - A Case of Gold Embrittlement: Let’s Forget the Lessons of the Past - Parker Jacobson, Intern, Rockwell Collins\n11:05 AM - Characterization of Soldered Plated Through Holes (PTHS) and Gold Embrittlement Conditions Dave Hillman, Fellow, Materials & Process Engineer \n12:00 PM - Lunch\n1:00 PM - Solder Artifacts in Catastrophic Failures - TJ Cross, Materials Engineer\n1:40 PM - Failure Analysis of Brake Resistor - Pratheesh George, Senior Materials Engineer\n2:00 PM - Break\n2:15 PM - Placement and Protection: Corrosion Analysis on Rockwell Products that Underwent Battelle Labs Mixed Flowing Gas Class IV (\"GX\") Testing - David Daigle, Project Engineer\n2:45 PM - Tire & Rubber Testing Update - Christopher Genthe, Principal Engineer & Kelly Flanagan, Project Chemist\n4:25 PM - Wrap Up\n4:30 - 5:45 PM - Clock Tower Reception \nWednesday, October 10, 2018 \n7:30 AM - Gather/Light Breakfast/Coffee\n8:00 AM - Welcome Back, Review Agenda - Tim Roback, Manager, C&ME\n8:15 AM - Grey Market Update/Challenges - John M. Miller, VP & Chief Counsel, IP\n8:55 AM - The New J-STD-001 Section 8 - Doug Pauls, Principal Materials & Process Engineer\n9:40 AM - Development of a New Process Evaluation Tool - Joe Waggoner Intern, Rockwell Collins\n9:55 AM - Break\n10:10 AM - GCMS Theory, Instrumentation and Applications - Kelly Flanagan, Project Chemist & Kelly Allen,     Chemist\n11:05 AM - Challenges and Best Practices in Mixed Flow Gas Corrosion Testing of Electronics - Garron Morris, Principal Engineer\n12:00 PM  - Lunch\n12:45 PM - Dielectric Breakdown in Medium Voltage Applications - Catalin Gemanaru,Technical Consultant\n1:25 PM - Failure Analysis Case Studies in the Realm of Manufacturing and Design - Daniel Kaminski, Materials Engineer\n1:45 PM - Wrap Up & Close - Timothy Roback Manager, C&ME\n2:00 PM - Tours of C&ME Labs, HCL, Mixed Flowing Gas Test Lab & Customer Experience Center"
+  url: https://www.eventbrite.com/e/2018-rockwell-technical-network-registration-46232743380?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/47929598/141849829481/1/original.jpg?h=200&w=450&auto=compress&rect=0,283,1312,656&s=440fd891cf600acfffc2d19f7c447bdc
+  starts: 2018-10-09T07:30:00.0000000
+  ends: 2018-10-10T14:00:00.0000000
+  venue: Rockwell Automation - Milwaukee HQ
+- name: LaSTEM Statewide Summit 2018
+  description: The inaugural LaSTEM Statewide Summit will showcase the amazing STEM programs that Louisiana has to offer, as well as bring in speakers from around the country to talk all things STEM! The event will also be used to bring together regional partners from across the state to discuss the planning and creation of Regional STEM Centers.
+  url: https://www.eventbrite.com/e/lastem-statewide-summit-2018-tickets-44769864871?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/45571754/234448135849/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2400,1200&s=7ace23b6059c78742518b9eaa8821019
+  starts: 2018-09-07T07:00:00.0000000
+  ends: 2018-09-07T17:00:00.0000000
+  venue: Pennington Biomedical Research Center
 - name: Code/Design to Win - Preliminary Challenge
   description: >-
     Want to make $5k in one day, legally?
@@ -185,44 +197,6 @@
   starts: 2018-09-10T08:00:00.0000000
   ends: 2018-10-17T08:00:00.0000000
   venue: Your school!
-- name: LaSTEM Statewide Summit 2018
-  description: The inaugural LaSTEM Statewide Summit will showcase the amazing STEM programs that Louisiana has to offer, as well as bring in speakers from around the country to talk all things STEM! The event will also be used to bring together regional partners from across the state to discuss the planning and creation of Regional STEM Centers.
-  url: https://www.eventbrite.com/e/lastem-statewide-summit-2018-tickets-44769864871?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/45571754/234448135849/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2400,1200&s=7ace23b6059c78742518b9eaa8821019
-  starts: 2018-09-07T07:00:00.0000000
-  ends: 2018-09-07T17:00:00.0000000
-  venue: Pennington Biomedical Research Center
-- name: MongoDB.local Chicago
-  description: >-
-    MongoDB is coming to Chicago! Join us for a full-day educational conference covering the fundamentals to advanced techniques of app design and performance management. You’ll hear from the team that builds the database and power users running MongoDB deployments. 
-
-    WHAT YOU'LL LEARN
-
-
-    Insight into building applications with MongoDB Stitch, the serverless platform from MongoDB
-
-    How to deploy, operate, and scale your database on all major cloud platforms with MongoDB Atlas
-
-    What’s new in MongoDB 4.0, including multi-document ACID transactions, and how the latest version of MongoDB can help your business succeed
-
-    Best practices from the experts on topics including schema design, analytics, microservices, performance, and more
-
-    Register for hands-on, deep-dive technical sessions, equipping you with the tools you need to build and deploy your giant ideas
-
-
-    Register for a day of hands-on, deep-dive technical sessions, equipping you with the tools you need to build and deploy your giant ideas.
-
-    Admission includes breakfast, lunch, and access to all sessions and sponsor area. Space is limited. Confirm your attendance today. 
-
-    The conference is free to attend. If you'd like to contribute to a good cause, you can! Select the RSVP + Contribute to a Good Cause! conference pass type. You'll be able to select which nonprofit you donate to on the next page.
-
-    For more information including agenda and speakers, visit https://www.mongodb.com/local.
-  url: https://www.eventbrite.com/e/mongodblocal-chicago-tickets-46899660146?aff=ebapi
-  logo: https://cdn.evbuc.com/images/48958360/3009931056/1/original.jpg?h=200&w=450&auto=compress&rect=39,0,540,270&s=d1b79dd8843eda3cfceb9bd267984136
-  starts: 2018-09-12T08:30:00.0000000
-  ends: 2018-09-12T17:30:00.0000000
-  venue: Hyatt Regency Chicago
 - name: School of Witchcraft and Wizardry with Let's Talk Science 2018
   description: >-
     Earlybird tickets have already been claimed, thank you for your interest in this event!
@@ -416,492 +390,20 @@
   starts: 2018-11-03T11:00:00.0000000
   ends: 2018-11-03T18:00:00.0000000
   venue: Summerlee Science Complex
-- name: 2018 Rockwell Technical Network
-  description: "Welcome to the Rockwell Automation Technical Network (RTN) Event Registration\nEvery year employees related to manufacturing, reliability, development and quality are encouraged to attend the RTN event in Milwaukee to network, learn and take information and improvements back to their business. The underlying goal is to understand our materials, challenges and processes, and share that knowledge so our Business Units can learn from each other and avoid making the same mistakes.  This year's Keynote Speaker is Blake Moret, Chairman and CEO, Rockwell Automation. \nOur labs are outfitted as well (if not better) than the best television crime solving shows. This is advanced science and it all relates to chemistry – how the materials that become our products (or used in making our products) are sourced, applied and supported. \n5 Reasons to Attend\n\n\nLearn what’s new in forensic analysis – what we know and are learning about our materials, why they work and why they fail. \n\n\nSave time and effort. Don’t repeat mistakes. Talk to colleagues and find out what they’ve learned, and apply it locally. \n\n\nHear stories from the ‘bizarre and strange’ file. A little levity you don’t want to miss.\n\n\nMeet your colleagues. They can help you. \n\n\nGet key messages straight from leaders (CEO Blake Moret will talk about how materials bring The Connected Enterprise to life).\n\n\nFurther information regarding the goals of RTN and examples of past presentations, can be found by following this link: https://rockwellautomation.sharepoint.com/teams/OESES_ATS/C_ME/SitePages/RTN.aspx\nKeynote Speaker\n\nBlake Moret is Chairman and Chief Executive Officer of Rockwell Automation. He assumed the role of CEO on July 1, 2016 and was elected Chairman of the Board effective January 1, 2018.  \nAs CEO, Blake leads the world’s largest company focused on industrial automation and information, dedicated to making our customers more productive and the world more sustainable.  \n\n\nAgenda\n Tuesday, October 9, 2018 \n7:30 AM - Gather/Light Breakfast/Coffee\n8:00 AM - Welcome & Introductions - Tim Roback, Manager, C&ME\n8:15 AM - Materials & The Connected Enterprise - Blake Moret, Chairman & CEO\n8:45 AM - Guest Introductions - Tim Roback, Manager, C&ME\n9:00 AM - Conducting Failure Analysis of Plastic Parts - Steven Hahn, Project Chemist\n9:55 AM - TBD - Roy Rice, Senior Project Engineer\n10:15 AM - Break\n10:30 AM - Caution when Using Breakaway Torque to Verify if Production Assembled a Unit Properly - Walter Lehnhoff, Project Engineer\n10:50 AM - A Case of Gold Embrittlement: Let’s Forget the Lessons of the Past - Parker Jacobson, Intern, Rockwell Collins\n11:05 AM - Characterization of Soldered Plated Through Holes (PTHS) and Gold Embrittlement Conditions Dave Hillman, Fellow, Materials & Process Engineer \n12:00 PM - Lunch\n1:00 PM - Solder Artifacts in Catastrophic Failures - TJ Cross, Materials Engineer\n1:40 PM - Failure Analysis of Brake Resistor - Pratheesh George, Senior Materials Engineer\n2:00 PM - Break\n2:15 PM - Placement and Protection: Corrosion Analysis on Rockwell Products that Underwent Battelle Labs Mixed Flowing Gas Class IV (\"GX\") Testing - David Daigle, Project Engineer\n2:45 PM - Tire & Rubber Testing Update - Christopher Genthe, Principal Engineer & Kelly Flanagan, Project Chemist\n4:25 PM - Wrap Up\n4:30 - 5:45 PM - Clock Tower Reception \nWednesday, October 10, 2018 \n7:30 AM - Gather/Light Breakfast/Coffee\n8:00 AM - Welcome Back, Review Agenda - Tim Roback, Manager, C&ME\n8:15 AM - Grey Market Update/Challenges - John M. Miller, VP & Chief Counsel, IP\n8:55 AM - The New J-STD-001 Section 8 - Doug Pauls, Principal Materials & Process Engineer\n9:40 AM - Development of a New Process Evaluation Tool - Joe Waggoner Intern, Rockwell Collins\n9:55 AM - Break\n10:10 AM - GCMS Theory, Instrumentation and Applications - Kelly Flanagan, Project Chemist & Kelly Allen,     Chemist\n11:05 AM - Challenges and Best Practices in Mixed Flow Gas Corrosion Testing of Electronics - Garron Morris, Principal Engineer\n12:00 PM  - Lunch\n12:45 PM - Dielectric Breakdown in Medium Voltage Applications - Catalin Gemanaru,Technical Consultant\n1:25 PM - Failure Analysis Case Studies in the Realm of Manufacturing and Design - Daniel Kaminski, Materials Engineer\n1:45 PM - Wrap Up & Close - Timothy Roback Manager, C&ME\n2:00 PM - Tours of C&ME Labs, HCL, Mixed Flowing Gas Test Lab & Customer Experience Center"
-  url: https://www.eventbrite.com/e/2018-rockwell-technical-network-registration-46232743380?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/47929598/141849829481/1/original.jpg?h=200&w=450&auto=compress&rect=0,283,1312,656&s=440fd891cf600acfffc2d19f7c447bdc
-  starts: 2018-10-09T07:30:00.0000000
-  ends: 2018-10-10T14:00:00.0000000
-  venue: Rockwell Automation - Milwaukee HQ
-- name: WyoHackathon 2018
-  description: >+
-    Visit the WyoHackathon 2018 Website for all the details about this hackathon including rules, prizes, schedule, sponsors, and updates.
-
-    The State of Wyoming enacted five trail-blazing blockchain bills during its 2018 legislative session that garnered international attention. The WyoHackathon 2018 provides an opportunity for the global blockchain community and the State of Wyoming to converge, thank each other, collaborate, and keep Breakin' Through.
-
-    Wyoming has a rich history of Breakin' Through! Wyoming has a long record of being first: The first woman to vote in the US, the first female governor, the first national park, and the first LLC law. And it blazed a trail in blockchain, becoming the first elected body to recognize utility tokens as a new form of property that is neither securities nor money under Wyoming law. Wyoming offers blockchain businesses its most favorable tax, business entity, and privacy protections.
-
-    Join 300-400 developers from all over the world in this hackathon. With the help of our sponsors, we will be able to offer an engaging workspace, workshops, and prizes as well as food, drinks, and giveaways.
-
-    KEEP IN MIND: Once you have registered for the event via Eventbrite, YOU MUST go to https://wyominghackathon.devpost.com to register your team and submit your project for the competition.
-
-    Guest Speakers
-
-
-
-
-
-     Joseph Lubin - Founder, Consensys and Co-Founder, Ethereum
-
-
-
-     Patrick Byrne - Founder & CEO, Overstock.com and Executive Chairman, tZERO
-
-
-
-     Jeff Garzik - Co-Founder, Bloq
-
-
-
-     Ken Hodler - Chief Engineer, KeepKey
-
-
-
-     George Weiksner - 12 year old CEO, Pocketful of Quarters
-
-
-
-     Caitlin Long - Wyoming Blockchain Coalition
-
-
-     G. Thomas Esmay - Director of Business Development, SingularDTV
-
-
-     Daniel Riddell - Adviser, DECENT Foundation
-
-
-
-     Dr. Robert MacInnis - CEO & Founder, AetherWorks LLC.
-
-
-
-     Mark Gordon - Candidate for Governor of Wyoming
-
-
-
-     Mary Throne - Candidate for Governor of Wyoming
-
-
-
-    Others TBD
-
-
-
-
-    Schedule (Mountain Daylight Time)
-
-
-
-    Friday, September 7, 2018
-
-    Introductions and Team Formations - Opening Ceremony
-
-    5:00 PM - 6:00 PM - Registration. Sign-in, loot up with badges and swag, then check out the challenges to prep for a great weekend hacking with top developers.
-
-    6:00 PM - 8:00 PM - Dinner & Opening Night Reception. Meet, greet and eat with the who’s who, speakers, mentors and developers from around the world.
-
-    8:00 PM - 9:00 PM - Opening Ceremony, Sponsor Keynote. Join the excitement and hear Jeff Garzik speak as you brainstorm your strategy for winning the hackathon.
-
-    9:00 PM - 9:30 PM – Sponsor Challenges
-
-    9:30 PM – 11:00 PM - Team Formation. Drinks and Snacks. Fuel up and hydrate, then start your first long night architecting and developing your winning submittal.
-
-    All Night - Hacking. Hack Til Dawn and keep going. Survival of the fittest. Sleep is for babies!! Power nap on the cots if you must.
-
-    Saturday, September 8, 2018
-
-    Hacking all day!
-
-    8:00 AM - 9:00 AM - Breakfast. Get your grub on! Calories are starting to count. Nail your proof-of-concept.
-
-    9:30 AM – 1:00 PM - Sponsor Workshops. Ultimate freedom for geeks like us — to learn, experiment, build and master the latest technology; or learn the new WY blockchain/crypto laws.Mentor office hours
-
-    12:30 PM – 2:00 PM - Lunch. Fuel up, meet up, check out the competition, grab some swag from sponsors while picking their brains for the win.
-
-    2:00 PM - 3:30 PM - Keynotes & Fireside Chat with Joe Lubin. Hear the latest and greatest from the man himself, Joseph Lubin, Co-Founder of Ethereum
-
-    3:30 PM – 6:00 PM – Mentor Office Hours
-
-    6:00 PM - 7:30 PM - Dinner. Dinner on the blockchain, is there a DApp for that?
-
-    All Night - Hacking.
-
-    Sunday, September 9, 2018
-
-    Judging and Prizes - Closing Ceremony
-
-    8:00 AM - 9:00 AM - Breakfast. Coffee and Monster to power through to your final submittal.
-
-    9:30 AM – 12:30 PM - Mentor Office hours. Polish up that pitch!
-
-    11:00 AM - Hacking Stops. Wait, wait, I just have this one last line of code; DING! Commit it.
-
-    11:00 AM - 12:00 PM - Lunch. Eating on the go as you polish up that preso.
-
-    12:00 PM – 2:25 PM - Line up of Speakers, Patrick Byrne, George Weiksner, Dr. McInnis, Arie Ley-Cohen, James Row, Joe Lubin, Chris Kilroy
-
-    2:25 PM – 4:00 PM – Present your challenge & Judging. The moment of truth, your baby, your heart and soul — judged on the merit, effort and sweat.
-
-    4:20 PM - Winners Circle! - Mary Throne and Mark Gordon will be saying a few words about Wyoming and Blockchain!
-
-    4:45 PM - 6:30 PM - Celebration and Networking Reception. Collect your money, and party hearty, high fives and goodbyes before you jump on your plane home.
-
-
-
-
-
-
-
-
-    VENUE INFORMATION
-
-
-
-
-
-
-
-
-
-    LARAMIE, WYOMING
-
-
-
-
-    University of Wyoming, Memorial Fieldhouse 
-
-
-
-
-
-
-    Adjacent to War Memorial Stadium West Stands
-
-    Laramie, WY 82070 USA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    TRANSPORTATION
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    Laramie Regional Airport (LAR)
-
-    2 flights daily between Denver (DEN) and Laramie (LAR), 20 minute flight
-
-
-    Green Ride Shuttle (More Information)
-
-    Departs Denver International Airport (DEN) every 2 hours and 20 minutes from 8:10 AM to 1:10 AM.
-
-
-    Driving distance from Denver International Airport (DEN)
-
-    2 hours 35 minutes
-
-
-
-
-
-
-    WHAT TO DO, WHERE TO EAT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    Click Here For More Information
-
-
-
-
-
-
-    WHERE TO STAY
-
-
-
-
-
-
-
-
-
-
-
-
-
-    Are you coming from out of town and need to book a hotel? To book, you must call the hotel directly. Each person attending the WyoHackathon is responsible for their own accommodations. The University of Wyoming is not responsible for any charges incurred during your stay.
-
-
-
-
-
-
-
-
-    Comfort Inn, 1655 Centennial Dr, Laramie, WY 82070, 307-742-6665
-
-
-
-    Econo Lodge,1370 N McCue St, Laramie, WY 82072, 307-745-8900
-
-
-
-    Hampton Inn, 3715 Grand Ave, Laramie, WY 82070, 307-742-0125
-
-
-
-    Hilton Garden Inn, 2229 Grand Ave, Laramie, WY 82070, 307-745-5500
-
-
-
-    Laramie Valley Inn, 1104 S 3rd St, Laramie, WY 82070, 307-742-4200
-
-
-
-    Quality Inn, 3420 Grand Ave, Laramie, WY 82070, 307-721-8856
-
-
-
-
-
-
-    OUR SPONSORS
-
-
-    Founder Sponsors
-
-
-    DEVELOPER SPONSORS
-
-
-
-
-    INVESTOR SPONSORS
-
-
-    HACKER SPONSORS
-
-
-
-
-
-    MEDIA SPONSORS
-
-
-    OUR JUDGES
-
-
-
-
-     Joseph Lubin - Co-Founder @ Ethereum & Founder @ ConsenSys Shreesh Tiwari - Chief Strategic Officer @ SingularDTV Daniel Riddell - Adviser @ DECENT Foundation James Glasscock - Elephas Ventures Kyle Kuehm - CEO @ BullPay Alanna Gombert - Global CRO @ MetaX Denis Carriere - Co-Founder, CTO and Head of Blockchain Block Producer Infrastructure @ EOS Nation Kurt Wedgwood - IBM Pawel Mastalerz -  Co-Founder @ Stealth Blockchain Startup Yev Muchnik, Esq. - Founder @ ESQLegal Fred Krueger - CEO @ WorkCoin Sean Brennan - Blockchain Engineer @ MakerDAOKari Zimmerman - Senior Software Developer @ Happy Jack SoftwareCharles Dusek - Co-Founder @ NODE HavenJohn Carpenter - Co-Founder @ Global Blockchain SummitJonathan Lehman - Chief Strategist @ Government Blockchain AssociationMichael 'Indy' Astleford - Director, SOCOM @ Government Blockchain Association Marshall Long - Co-Founder @ EOS.fish Daniel Cowgill - Sr. Architect @ EOS.fish Eugene Luzgin - Founder @ EOS Tribe Curtis Roberts, Esq. - Attorney @ The Founder's Attorney Mark Gordon - Candidate for Governor of Wyoming Mary Throne - Candidate for Governor of Wyoming Bryan Lemster - President @ Halcyon Innovation, LLC. Paul Quigley - CEO @ Bloclab Enterprises Jill Richmond - Co-Founder @ Digital Asset Trade Association Jamiel Sheikh - Founder & CEO @ chainhaus
-
-
-
-
-    OUR MENTORS
-
-
-     Kirk Dameron - - Geomehme Vorf, ConsenSys
-
-     Viktor Bunin - Token Designer at Token Foundry Matthew Garnett - Full stack engineer at Bounties Network Chris Smith - Blockchain and API Lead for Meridio Eric Tu - Blockchain software developer at ConsenSys
-     G. Thomas Esmay - Director of Business Development @ SingularDTV Mae Smith - Strategy and Business Development Coordinator @ SingularDTV Aaron Steinberg - Manager, Business Development @ SingularDTV Daniel Riddell - Adviser @ DECENT Foundation
-     Denis Carriere - Co-Founder, CTO and Head of Blockchain Block Producer Infrastructure @ EOS Nation
-
-     Gabriel Cordona - Founder @ BITBOX, Sr. Developer @ Bitcoin.com Anantha Krishnan - Founder / Chief Executive Officer @ Aicumen Technologies Inc. Karthik Balasubramanian - Founder / Chief Business Officer @ Aicumen Technologies Inc. Paul Quigley - CEO @ Bloclab Enterprises Conrad Benham - Senior Software Engineer @ ActiveAether Carlos Tapang - Founder and Head of Product Development @ Pure Money Technology Jeff Teo - Professor of Cybersecurity @ Bluefield College
-
-    OUR WORKSHOPS
-
-
-
-    Why Wyoming (Open to General Public) - Hear from and talk with our panel about "Why Wyoming", how the Business Council can help, and to highlight BeefChain as a use case for blockchain companies succeeding in Wyoming. Sponsored by Wyoming Business Council and BeefChain
-
-    So you want to join the blockchain revolution? Wyoming’s trail-blazing blockchain bills and the path forward (Open to General Public) - Join lawyers from Holland & Hart LLP and local lawmakers to learn about Wyoming’s historic blockchain legislation and the resulting business environment. Learn the issues facing you, your technology, and your company as you try to thrive under these laws, including launching or moving your business, protecting intellectual property, raising capital, and litigating disputes. Explore the potential future direction and impact of these laws and what may be on the horizon. And learn how the technology that led to these laws is changing the practice of law itself.
-
-    dApp Tokit - SingularDTV will be doing a workshop around the dApp Tokit (https://tokit.io/). This is SingularDTV’s rights management and tokenization gateway. We will discuss the entertainment industry, the inter-workings of tokenization, smart contract systems, and rights, revenue, royalty management, and challenges within the SingularDTV ecosystem.
-
-    Solidity 101 -  Get started with the most popular programming language for smart contracts on Ethereum. Learn Solidity syntax, patterns, best practices, and how to interact with your smart contracts from your dApp. Workshop led by Chris Smith and Matthew Garnett of ConsenSys.
-
-    Experience the adChain Registry, the First Token-Curated Registry (TCR) on the Ethereum Mainnet! - Description: Take part in a live demo of the adChain Registry dapp with Director of Strategic Initiatives at MetaX, Hunter Gebron! The adChain Registry is a community-curated list of ad-supported websites (domains) designed for the digital advertising industry. Within the Registry, members use adToken (ADT) to include or reject applied domains based on community guidelines and specific ad ops metrics. Hunter will deep dive into token weighted voting and share more about MetaX and their experience building the first TCR in the blockchain space.
-
-    Creating Dapps Using a Stablecoin - Using a stablecoin like Dai as the medium of exchange or store of value in a dapp has many benefits, and in this talk developers at Makerdao will show you how to quickly add Dai to your smart contracts or web3 project.
-
-    BITBOX and the BCH Stress Test - Want to create amazing blockchain apps and change the world with Bitcoin Cash? Bitcoin.com's new developer platform has everything you need to go from idea to app 10x faster than the competition. Learn about how by leveraging BITBOX, the Bitcoin Cash network recently set records processing 2.2 million transactions on the first ever Stress Test Day. Presented by Gabriel Cardona.
-
-    Banking the Blockchain (Open to General Public) - Join the conversation about the intersection of blockchain business and banking. Discuss the challenges and opportunities when new technologies intersect with age-old laws and regulations. Learn what Wyoming is doing to bridge this divide from a regulator’s and practitioner’s perspective. Presented by Albert Forkner.
-
-    Mining Bitcoin & Other Cryptos - Truths and Untruths from a Pioneer in Industrial-Scale Mining. Presented by Marshall Long.
-
-  url: https://www.eventbrite.com/e/wyohackathon-2018-registration-46697116332?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48400089/266897979767/1/original.jpg?h=200&w=450&auto=compress&rect=110,0,630,315&s=dc0078e3388839c66a1216fca6fc75ce
-  starts: 2018-09-07T17:00:00.0000000
-  ends: 2018-09-09T18:30:00.0000000
-  venue: Memorial Fieldhouse
-- name: dsmAgile Fall 2018
+- name: South Carrick vs Clement Basketball (boys)/Básquetbol (ninos)
   description: >-
-    dsmAgile Fall 2018
+    *****THIS IS EVENT IS FOR DEMONSTRATION PURPOSES ONLY AND NOT AN ACTUAL EVENT*****
 
-    It's time for another great dsmAgile conference. 
+    2016 South Carrick Bears vs Clement Vikings
 
-    Whatever your involvement in software development is, you'll find something to like at Des Moines Agile. Covering a variety of topics, this one-day conference features industry experts in Agile Software Development and is packed full of information that you can use to become more successful at work.
+    *****SPANISH VERSION OF THE EXACT SAME TEXT ABOVE*****
 
-    In addition to great content, Des Moines Agile stays true to the goals of Agile Iowa as a conference for connecting and growing our community of practice within Iowa. Open Space sessions will follow the speakers track where you will get an opportunity to discuss the day's content with your peers and speakers; a fun and engaging way to make the conference your own.
-
-    Watch the website http://dsmagile.agileiowa.org/ for details as we announce speakers and sessions.
-
-    We hope to see you at the conference!
-
-    Jodi Jones, Kent McDonald, Tim Gifford and Brandon Carlson
-  url: https://www.eventbrite.com/e/dsmagile-fall-2018-tickets-45895792551?aff=ebapi
-  logo: https://cdn.evbuc.com/images/44588667/39949347522/1/original.jpg?h=200&w=450&auto=compress&rect=549,0,1156,578&s=a23064e1cf9a1758dfebbdb088879df8
-  starts: 2018-09-28T08:30:00.0000000
-  ends: 2018-09-28T16:30:00.0000000
-  venue: Community Choice Credit Union Convention Center
-- name: "Columbus Women in Tech Conf 2018 - #MakeHERstory Where We've Been, and Where We're Going"
-  description: "Welcome to Columbus Women In Technology 3rd Annual Conference - #MakeHERstory\nColumbus Women in Tech and getWITit.org would like to invite and welcome you to the 3rd annual conference for Columbus Women in Technology:\nThe conference features career & leadership, technical, and innovation topics to an audience of 750 women ranging from software delivery roles, leadership & management, technical & engineering, and recruiting/sales roles supporting the industry. \nThis event celebrates the contributions that women have made to computing, while focusing on how we can improve the opportunities to for women to contribute to the next era of innovation.\nWe encourage you to be part of the conversation by sending a group of women in technical roles from your company to this uplifting, motivational, and educational conference. Www.cmhwit.org\nTickets: \n\n\nGeneral Admission: $149 \n\n\nStudent General Admission: $75 with code STUDENT  (highschool, college, coding/skills schools)  MUST SHOW PROOF OF ENROLLMENT (Student ID, current enrollment, \n\n\nYouth Track: $50  For ages 5th thru 9th grade \"middle school\", limit 30 participants \"hands on activities\"\n\n\nGeneral Admission Ticket Includes : \n\n\nEvent Content\n\n\n\n2 Keynote Sessions\n\n\n\nLori Beer, CIO JPMorgan Chase \n\n\nMarie Hicks, Author of Programmed Inequality \n\n\n\nOver 40 Sessions: See Agenda Here \n\n\n4 Tracks: Career and Leadership, Technical, Innovation, and Entrepreneurship\n\n\nOver 21 area companies and employers present to support your career growth\n\n\nNetwork with over 800 attendees from over 100 companies\n\n\nInnovation Lab – hands on experience with new technologies \n\n\n\nEvent Accommodations:        \n\n\n\nContinental Breakfast and Lunch, All Day Coffee \n\n\nCollaboration Cocktail Hour for additional networking and discussions post-conference\n\n\nFree Parking \n\n\nWhova event application to plan your day and manage conference collaboration with speakers and attendees. (must be registered to access event on app) \n\n\n\nHighlevel Agenda: \n     7am      -  Registration \n     8:15am  - Event Kickoff and Keynote Lori Beer, CIO JPMorgan Chase \n     9:30am  - Break Sessions\n     12-1pm -  Lunch \n           1pm - Keynote Marie Hicks, Author/Professor \"Programmed Inequality\"\n      2:15pm - Breakout Sessions \n      4:45pm - Make HERStory Cocktail Reception \n\n\n\n\n\nYouth Track  - $50  \n\n\n\nSpecial day designed especially for girls to immerse them into the amazing field of computing. \n\n\nHands on labs exploring Cybersecurity, Engineering, Computing/Software, and Leadership\n\n\nLunch  (please note any alllergies in your registration) \n\n\n\n\nWe look forward to seeing you there!\nColumbus Women in Tech & getWITit.org\n "
-  url: https://www.eventbrite.com/e/columbus-women-in-tech-conf-2018-makeherstory-where-weve-been-and-where-were-going-tickets-42636246160?aff=ebapi
-  logo: https://cdn.evbuc.com/images/47867968/186798067997/1/original.jpg?h=200&w=450&auto=compress&rect=0,111,2186,1093&s=db4c25879818d5936d258b7b4cb657a1
-  starts: 2018-09-12T07:00:00.0000000
-  ends: 2018-09-12T18:30:00.0000000
-  venue: OSU Student Union
-- name: Xplode Conference Chicago 2018
-  description: >2+
-
-
-
-
-
-
-
-
-
-
-
-
-    Xplode Conference is a jam-packed day of technology and digital marketing for the real estate professional. Come ready to absorb everything our industry experts have to offer. Leave with actionable items to immediately ignite your business!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    Hosted By
-
-
-
-
-
-     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    Please read our disclaimer agreement thoroughly. If you disagree with any part of the document, please DO NOT APPLY TO BE A GUEST.
-
-
-
-
-
-
-
-
-
-  url: https://www.eventbrite.com/e/xplode-conference-chicago-2018-tickets-46107629160?aff=ebapi
-  logo: https://cdn.evbuc.com/images/47155363/6443574481/1/original.jpg?h=200&w=450&auto=compress&rect=0,60,1920,960&s=8d62155f52110b72ed48c0d278e7b0f4
-  starts: 2018-09-20T08:30:00.0000000
-  ends: 2018-09-20T15:30:00.0000000
-  venue: Chicago Marriott O'Hare
-- name: Iowa Technology Summit Powered by Wellmark
-  description: >-
-    The Iowa Technology Summit Powered by Wellmark will unite Iowa’s technology community in an event to educate and connect current and future IT leaders.  The Iowa Technology Summit Powered by Wellmark will convene creators and consumers of technology from Startups to Fortune 500 companies including technology executives and their teams from such industries as technology, manufacturing, agriculture, insurance, financial services, and healthcare. This day-long event is designed for the sharing of ideas and real-world experiences, with a goal of elevating Iowa's technology industry.
-
-    The Iowa Technology Summit Powered by Wellmark kicks off with the Opening Party Powered by Nutanix on Monday evening, October 1st, followed by a full day of high-impact, engaging content and conversation on October 2nd.
-
-    Visit IowaTechSummit.com for more details, event updates, and agenda.
-
-    Valuable Sponsorship Opportunities are Still Available: Contact Tyler Wyngarden for more information at tyler@technologyiowa.org.
-  url: https://www.eventbrite.com/e/iowa-technology-summit-powered-by-wellmark-registration-45898842674?aff=ebapi
-  logo: https://cdn.evbuc.com/images/44602283/183852245582/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0eaf869b0f921ec55d1526e7fb4cef4f
-  starts: 2018-10-02T07:30:00.0000000
-  ends: 2018-10-02T16:30:00.0000000
-  venue: Community Choice Credit Union Convention Center
-- name: '2018 Texas Bigfoot Conference '
-  description: "The Texas Bigfoot Research Center celebrates the Original Texas Bigfoot Conference held on September 15, 2001 with this year's event to be held October 19 & 20, 2018. \nOctober 20th, 2018 marks the 51st anniversary of the famous Patterson-Gimlin Bigfoot film. \nEstablished in 2001 as the original annual Bigfoot Conference in Texas by the Texas Bigfoot Research Center. \nConfirmed Speakers: \nBob Gimlin \nDr. Jeff Meldrum \nLyle Blackburn \nKen Gerhard \nNick Redfern \nShelly Covington-Montana \nSchedule of Events \nFriday, October 19\n7:00-10:00 PM Bob Gimlin Tribute Dinner\n7:00-8:30 Catered Italian dinner by Claiborne House\n8:30-9:00 PM Bob Gimlin Presentation\n9:00-10:00 PM Special Presentation - Dr. Jeff Meldrum: 51 Years with Patty - Significance of the Patterson-Gimlin Bigfoot Film \nSaturday, October 20\n9:00 AM - 5:00 PM Texas Bigfoot Conference\n6:00-10:00 Saturday Night\n6:00-8:00 PM Meat n' Greet Dinner with the Speakers\nCatered Cajun dinner by Claiborne House\n8:00-9:00 PM Special Presentation - Lyle Blackburn: Fouke Monster and Boggy Creek Updates\n9:00-10:00 PM Special Screening\n Host hotel: Executive Inn & Suites 200 South Walcott, Jefferson, Texas 75657 903-665-3700 \nFacebook page\nTerms & ConditionsBy purchasing a ticket to the event you accept the terms and conditions below for you and anyone in your group.Non-refundable ticketsAll tickets are non-refundable unless the event is cancelled. All sales final. If unable to attend, tickets are tranferable with prior notification to conference organizer. Presenters and presentation topics are subject to change depending on individual schedules and unforeseen conflicts.Event CancellationIn the unlikely event of cancellation of the event, the maximum liability shall be limited to full refund of conference registration fee paid at the time of booking, with no additional liability whatsoever to the conference organizers and presenters.IndemnificationThe conference organizers and presenters accepts no responsibility for loss or damage to personal property. Purchaser shall indemnify the Texas Bigfoot Research Center, The City of Jefferson, and any participating hosts, speakers, or any directly invited participant appearing at the event from and against all liability in respect of any costs, claims, damages, demands, penalties, actions, proceedings, suits, losses or expenses in respect of any and all claims, losses, costs, damages of any nature whatsoever, including but not limited to claims arising out of the injury to or the death of any person, or damage to any property arising from my participation in the activity."
-  url: https://www.eventbrite.com/e/2018-texas-bigfoot-conference-tickets-39489075889?aff=ebapi
-  logo: https://cdn.evbuc.com/images/37270012/81718999601/1/original.jpg?h=200&w=450&auto=compress&rect=0,35,960,480&s=cd9c8d4e944db219348b94722fb3bf95
-  starts: 2018-10-19T19:00:00.0000000
-  ends: 2018-10-20T22:00:00.0000000
-  venue: Jefferson Tourism and Visitor Center
-- name: UAB Comprehensive Cancer Center 20th Annual Research Retreat
-  description: "Developmental Therapeutics\n \nThe Comprehensive Cancer Center Annual Research Retreat is an opportunity to stimulate interdisciplinary research collaboration and development among cancer researchers. This event is free and we invite faculty, trainees/postdoctoral fellows and staff engaged in cancer research. \n\nBreakfast and lunch will be served to those who register ahead of time. \nFree parking is available as well as valet services.\n\nCo-chairs for this year's event:\nMansoor Saleh, M.D.Eddy Yang, M.D., Ph.D.\n\nKeynote Speakers:\n\nAlex Adjei, M.D., Ph.D., Consultant, Medical Oncology, Professor of Oncology \nMayo College of Medicine\nLaura Esserman, M.D., MBA, Director, Carol Franc Buck Breast Care Center, Professor, School of Medicine\nUniversity of California San Francisco\n\nAfter you register for the Research Retreat, you will receive an email with a link where you may submit your abstract for the retreat. Check back on this page for more information and updates on this year’s event.\nFor questions regarding the research retreat, contact Courtney Bishop at cbishop3@uab.edu"
-  url: https://www.eventbrite.com/e/uab-comprehensive-cancer-center-20th-annual-research-retreat-registration-45484393044?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/47625380/172683926794/1/original.jpg?h=200&w=450&auto=compress&rect=0,172,3000,1500&s=d71c317a880722622640f1ecbb6ec9bb
-  starts: 2018-11-16T07:30:00.0000000
-  ends: 2018-11-16T17:00:00.0000000
-  venue: The Club, Inc.
+    2016 South Carrick Osos vs Clement Vikingos
+  url: https://www.eventbrite.com/e/south-carrick-vs-clement-basketball-boysbasquetbol-ninos-tickets-31353693742?aff=ebapi
+  logo: https://cdn.evbuc.com/images/47668375/158383528857/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0140a47d21535df6bb9bb87eafd503d8
+  starts: 2018-09-08T18:30:00.0000000
+  ends: 2018-09-08T21:30:00.0000000
+  venue: South Carrick Gym
 - name: Women in Tech Summit
   description: >+
     Capital Factory, in partnership with Women@Austin and DivInc, welcomes you to our second annual Women in Tech Summit, kicking off Austin Startup Week on October 1, 2018. This Summit brings together the most influential entrepreneurs, investors and executives in tech.
@@ -925,79 +427,13 @@
 
     SPECIAL THANKS TO OUR PARTNERS...
 
+
   url: https://www.eventbrite.com/e/women-in-tech-summit-tickets-48659279214?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/48646135/1845645712/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=84969454fca59b1aef7d36a484ad2fd6
   starts: 2018-10-01T09:00:00.0000000
   ends: 2018-10-01T17:00:00.0000000
   venue: Capital Factory
-- name: 'Ken Segall: Insanely Simple '
-  description: >
-    Cahoots, with sponsors Trove, Ann Arbor SPARK, Clinc, the Zell Lurie Institiute at U of M, the Center for Entrepreneurship at U of M, Office of Tech Transfer at U of M, Atomic Object, Llamasoft, and the Entrepreneurship Center at WCC will be hosting a speaking engagement by author and blogger Ken Segall.
-
-    Ken was Creative Director at some of the world's top Ad Agencies and over the course of three decades shaped campaigns for BMW, IBM, Intel, NeXT and Apple. He worked directly with Steve Jobs for twelve years at both NeXT and Apple, led the creative team behind the Think different campaign that launched Apple's resurrection, and he started Apple down the i-road by naming the iMac. Ken's books Insanely Simple and Think Simple spell out the benefits of avoiding big company thinking and making complexity our enemy.
-
-    Ken will be at Ann Arbor's Michigan Theater on Wednesday, September 12th at 2 pm. No charge to attend the event as we want the entire community to have access. Come take an hour to hear from Ken and participate in a short Q & A at the end.
-
-    Doors open at 1:30 pm.
-
-     
-
-    FAQs
-
-    How long will this event go?
-
-    Just an hour! 45 min talk with 15 mins of Q & A. Try not to be late or you may miss it.
-
-    What do I need to bring?
-
-    Nothing! Short. Sweet. Easy. 
-
-    Where can I park?
-
-    We highly encourage walking, biking, and hoverboarding to the event. For the more traditional types, there is street parking and garage parking near by. Check out Republic Parking for more details. 
-
-    May I bring a friend? Coworker? 
-
-    Yes! The more the merrier. Let's take advantage of this great community offering.  
-
-    How can I contact the organizer with any questions?
-
-    Feel free to email: alison@beincahoots.com 
-  url: https://www.eventbrite.com/e/ken-segall-insanely-simple-tickets-48464364218?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48340153/265289559087/1/original.jpg?h=200&w=450&auto=compress&rect=0,43,1200,600&s=9e5f48c8d4845cce4e83bd3ddd33bde5
-  starts: 2018-09-12T14:00:00.0000000
-  ends: 2018-09-12T15:00:00.0000000
-  venue: Michigan Theater
-- name: 'Cybersecurity: Surviving and Thriving in a Connected World presented by the Austin Forum'
-  description: "The Austin Forum on Technology & Society\nin partnership with Austin Public Library \npresents\nCybersecurity: Surviving and Thriving in a Connected World\nwith Earl Carter, Threat Researcher at Cisco Systems\nAustin Central Library - Event Center\n710 W Cesar Chavez St, Austin, TX 78701\nNEW DATE\nTuesday, September 11, 2018\n5:15pm — Registration and cash bar open\n5:45 pm – Doors open for seating\n\L6:15 pm – Presentation\n7:30 pm – Networking\nVirtually everything we do with computing technologies and devices is now possible due to connections to services on other computing systems via networks: WiFi, cellular, Ethernet, and the like. Our homes, schools, libraries, and governments are increasingly connected with smart devices, and our workplaces could not function without this connectivity among workers, providing sources of data and information, analytics and modeling capabilities, and storage systems.\nWith all this connectivity comes risk and threat as well as benefits: data and information have value, and things of value are stolen. Our devices and our networks must be secured against intrusion, hacking, and theft. Cybersecurity is paramount to maintaining our data security, personal security, financial security, and even national security. \nJoin us as noted threat researcher Earl Carter of Cisco Systems provides an accelerated introduction into the principles of cybersecurity, discusses the nature of common and notable hacking efforts and security breaches, and shares how you and your companies can protect yourselves in an increasingly connected world.\nWe welcome your participation! Please send us your questions, answers, and prognostications in advance at info@austinforum.org.\nAdmission to the Austin Forum is always free.\nThe Austin Forum accepts donations of used cell phones and smart phones at all our events. All devices will have a factory reset and be set up as new by the team at Austin Pathways’ nationally-recognized “Unlocking the Connection” initiative, which will connect every public housing resident with a digital device, digital literacy training, and a free or very low-cost internet connection. Your donated phone can change lives and help close Austin's digital divide, thanks to Austin Pathways.\nThanks to Austin Public Library for their partnership. \n\n\n\nAnd a special thanks to all our sponsors!\n\n\n\n\n\n\n\n \n "
-  url: https://www.eventbrite.com/e/cybersecurity-surviving-and-thriving-in-a-connected-world-presented-by-the-austin-forum-tickets-48903551840?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48192858/72870734295/1/original.jpg?h=200&w=450&auto=compress&rect=0,140,2608,1304&s=0b8fbd0da042b327e76e894db8dacffa
-  starts: 2018-09-11T18:15:00.0000000
-  ends: 2018-09-11T19:30:00.0000000
-  venue: Austin Central Library, Austin Public Library
-- name: 'Fourth Annual Data Center Austin Conference '
-  description: >2+
-
-
-
-
-    The Data Center Austin Conference (DCAC) is more akin to South by Southwest (SXSW) for the data center industry, than your average run-of-the-mill data center conference. Just as SXSW helps “creative people achieve their goals,” likewise, DCAC helps bring the most relevant thought leaders in the data center industry under one roof, in order to collaborate, innovate, and motivate.
-
-    These individuals will discuss what they are doing to support technological developments that are changing the world. 
-
-    By understanding the current needs, investments, and visions of the most highly advanced tech companies such as Uber, Microsoft, and Facebook, others in the industry can better equip themselves for tomorrow’s demands in technology.
-
-
-
-
-  url: https://www.eventbrite.com/e/fourth-annual-data-center-austin-conference-tickets-43946425943?aff=ebapi
-  logo: https://cdn.evbuc.com/images/46811216/209857077023/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=4f5d4ed1cad59e9277acc92c3174c09d
-  starts: 2018-09-11T19:00:00.0000000
-  ends: 2018-09-12T22:00:00.0000000
-  venue: Brazos Hall
 - name: Alamo FTC 2018 Kickoff
   description: >-
     Please join us at the 2018 Alamo FTC Kickoff.   This is the day all FTCr's around the world look forward to.  The 2018-2019 FIRST Rover Ruckus game reveal will include the kick off video and an full competition field available for pictures and measurements.  The day will include workshops on key FTC skills perfect for new teams and members. 
@@ -1150,13 +586,256 @@
   starts: 2018-09-11T14:30:00.0000000
   ends: 2018-09-11T16:30:00.0000000
   venue: The Pageant
-- name: '(ISC)² DFW Presents: Cyber Aware Dallas'
-  description: "\nThe (ISC)² Dallas/Fort Worth (DFW) Chapter invites you to join us for Cyber Aware 2018. This one day summit is designed with you the information security professional in mind and will deliver actionable insights supporting your growth as an information security professional. This event will take place at the state of the art Davidson-Gundy Alumni Center on the campus of The University of Texas at Dallas and is one your won't want to miss. \nRegister today, CPE will be provided!\nPlease use the link below to make a hotel reservation at the Hilton Garden Inn Dallas/Richardson. A special event rate of $96/night has been secured.\nhttps://secure3.hilton.com/en_US/gi/reservation/book.htm?ctyhocn=DALRIGI&corporateCode=2994855&from=lnrlink\n"
-  url: https://www.eventbrite.com/e/isc2-dfw-presents-cyber-aware-dallas-tickets-45182193156?aff=ebapi
+- name: Xplode Conference Chicago 2018
+  description: >2+
+
+
+
+
+
+
+
+
+
+
+
+
+    Xplode Conference is a jam-packed day of technology and digital marketing for the real estate professional. Come ready to absorb everything our industry experts have to offer. Leave with actionable items to immediately ignite your business!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Hosted By
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Please read our disclaimer agreement thoroughly. If you disagree with any part of the document, please DO NOT APPLY TO BE A GUEST.
+
+
+
+
+
+
+
+
+
+  url: https://www.eventbrite.com/e/xplode-conference-chicago-2018-tickets-46107629160?aff=ebapi
+  logo: https://cdn.evbuc.com/images/47155363/6443574481/1/original.jpg?h=200&w=450&auto=compress&rect=0,60,1920,960&s=8d62155f52110b72ed48c0d278e7b0f4
+  starts: 2018-09-20T08:30:00.0000000
+  ends: 2018-09-20T15:30:00.0000000
+  venue: Chicago Marriott O'Hare
+- name: "Columbus Women in Tech Conf 2018 - #MakeHERstory Where We've Been, and Where We're Going"
+  description: "Welcome to Columbus Women In Technology 3rd Annual Conference - #MakeHERstory\nColumbus Women in Tech and getWITit.org would like to invite and welcome you to the 3rd annual conference for Columbus Women in Technology:\nThe conference features career & leadership, technical, and innovation topics to an audience of 750 women ranging from software delivery roles, leadership & management, technical & engineering, and recruiting/sales roles supporting the industry. \nThis event celebrates the contributions that women have made to computing, while focusing on how we can improve the opportunities to for women to contribute to the next era of innovation.\nWe encourage you to be part of the conversation by sending a group of women in technical roles from your company to this uplifting, motivational, and educational conference. Www.cmhwit.org\nTickets: \n\n\nGeneral Admission: $149 \n\n\nStudent General Admission: $75 with code STUDENT  (highschool, college, coding/skills schools)  MUST SHOW PROOF OF ENROLLMENT (Student ID, current enrollment, \n\n\nYouth Track: $50  For ages 5th thru 9th grade \"middle school\", limit 30 participants \"hands on activities\"\n\n\nGeneral Admission Ticket Includes : \n\n\nEvent Content\n\n\n\n2 Keynote Sessions\n\n\n\nLori Beer, CIO JPMorgan Chase \n\n\nMarie Hicks, Author of Programmed Inequality \n\n\n\nOver 40 Sessions: See Agenda Here \n\n\n4 Tracks: Career and Leadership, Technical, Innovation, and Entrepreneurship\n\n\nOver 21 area companies and employers present to support your career growth\n\n\nNetwork with over 800 attendees from over 100 companies\n\n\nInnovation Lab – hands on experience with new technologies \n\n\n\nEvent Accommodations:        \n\n\n\nContinental Breakfast and Lunch, All Day Coffee \n\n\nCollaboration Cocktail Hour for additional networking and discussions post-conference\n\n\nFree Parking \n\n\nWhova event application to plan your day and manage conference collaboration with speakers and attendees. (must be registered to access event on app) \n\n\n\nHighlevel Agenda: \n     7am      -  Registration \n     8:15am  - Event Kickoff and Keynote Lori Beer, CIO JPMorgan Chase \n     9:30am  - Break Sessions\n     12-1pm -  Lunch \n           1pm - Keynote Marie Hicks, Author/Professor \"Programmed Inequality\"\n      2:15pm - Breakout Sessions \n      4:45pm - Make HERStory Cocktail Reception \n\n\n\n\n\nYouth Track  - $50  \n\n\n\nSpecial day designed especially for girls to immerse them into the amazing field of computing. \n\n\nHands on labs exploring Cybersecurity, Engineering, Computing/Software, and Leadership\n\n\nLunch  (please note any alllergies in your registration) \n\n\n\n\nWe look forward to seeing you there!\nColumbus Women in Tech & getWITit.org\n "
+  url: https://www.eventbrite.com/e/columbus-women-in-tech-conf-2018-makeherstory-where-weve-been-and-where-were-going-tickets-42636246160?aff=ebapi
+  logo: https://cdn.evbuc.com/images/47867968/186798067997/1/original.jpg?h=200&w=450&auto=compress&rect=0,111,2186,1093&s=db4c25879818d5936d258b7b4cb657a1
+  starts: 2018-09-12T07:00:00.0000000
+  ends: 2018-09-12T18:30:00.0000000
+  venue: OSU Student Union
+- name: dsmAgile Fall 2018
+  description: >-
+    dsmAgile Fall 2018
+
+    It's time for another great dsmAgile conference. 
+
+    Whatever your involvement in software development is, you'll find something to like at Des Moines Agile. Covering a variety of topics, this one-day conference features industry experts in Agile Software Development and is packed full of information that you can use to become more successful at work.
+
+    In addition to great content, Des Moines Agile stays true to the goals of Agile Iowa as a conference for connecting and growing our community of practice within Iowa. Open Space sessions will follow the speakers track where you will get an opportunity to discuss the day's content with your peers and speakers; a fun and engaging way to make the conference your own.
+
+    Watch the website http://dsmagile.agileiowa.org/ for details as we announce speakers and sessions.
+
+    We hope to see you at the conference!
+
+    Jodi Jones, Kent McDonald, Tim Gifford and Brandon Carlson
+  url: https://www.eventbrite.com/e/dsmagile-fall-2018-tickets-45895792551?aff=ebapi
+  logo: https://cdn.evbuc.com/images/44588667/39949347522/1/original.jpg?h=200&w=450&auto=compress&rect=549,0,1156,578&s=a23064e1cf9a1758dfebbdb088879df8
+  starts: 2018-09-28T08:30:00.0000000
+  ends: 2018-09-28T16:30:00.0000000
+  venue: Community Choice Credit Union Convention Center
+- name: Iowa Technology Summit Powered by Wellmark
+  description: >-
+    The Iowa Technology Summit Powered by Wellmark will unite Iowa’s technology community in an event to educate and connect current and future IT leaders.  The Iowa Technology Summit Powered by Wellmark will convene creators and consumers of technology from Startups to Fortune 500 companies including technology executives and their teams from such industries as technology, manufacturing, agriculture, insurance, financial services, and healthcare. This day-long event is designed for the sharing of ideas and real-world experiences, with a goal of elevating Iowa's technology industry.
+
+    The Iowa Technology Summit Powered by Wellmark kicks off with the Opening Party Powered by Nutanix on Monday evening, October 1st, followed by a full day of high-impact, engaging content and conversation on October 2nd.
+
+    Visit IowaTechSummit.com for more details, event updates, and agenda.
+
+    Valuable Sponsorship Opportunities are Still Available: Contact Tyler Wyngarden for more information at tyler@technologyiowa.org.
+  url: https://www.eventbrite.com/e/iowa-technology-summit-powered-by-wellmark-registration-45898842674?aff=ebapi
+  logo: https://cdn.evbuc.com/images/44602283/183852245582/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0eaf869b0f921ec55d1526e7fb4cef4f
+  starts: 2018-10-02T07:30:00.0000000
+  ends: 2018-10-02T16:30:00.0000000
+  venue: Community Choice Credit Union Convention Center
+- name: 'Ken Segall: Insanely Simple '
+  description: >
+    Cahoots, with sponsors Trove, Ann Arbor SPARK, Clinc, the Zell Lurie Institiute at U of M, the Center for Entrepreneurship at U of M, Office of Tech Transfer at U of M, Atomic Object, Llamasoft, and the Entrepreneurship Center at WCC will be hosting a speaking engagement by author and blogger Ken Segall.
+
+    Ken was Creative Director at some of the world's top Ad Agencies and over the course of three decades shaped campaigns for BMW, IBM, Intel, NeXT and Apple. He worked directly with Steve Jobs for twelve years at both NeXT and Apple, led the creative team behind the Think different campaign that launched Apple's resurrection, and he started Apple down the i-road by naming the iMac. Ken's books Insanely Simple and Think Simple spell out the benefits of avoiding big company thinking and making complexity our enemy.
+
+    Ken will be at Ann Arbor's Michigan Theater on Wednesday, September 12th at 2 pm. No charge to attend the event as we want the entire community to have access. Come take an hour to hear from Ken and participate in a short Q & A at the end.
+
+    Doors open at 1:30 pm.
+
+     
+
+    FAQs
+
+    How long will this event go?
+
+    Just an hour! 45 min talk with 15 mins of Q & A. Try not to be late or you may miss it.
+
+    What do I need to bring?
+
+    Nothing! Short. Sweet. Easy. 
+
+    Where can I park?
+
+    We highly encourage walking, biking, and hoverboarding to the event. For the more traditional types, there is street parking and garage parking near by. Check out Republic Parking for more details. 
+
+    May I bring a friend? Coworker? 
+
+    Yes! The more the merrier. Let's take advantage of this great community offering.  
+
+    How can I contact the organizer with any questions?
+
+    Feel free to email: alison@beincahoots.com 
+  url: https://www.eventbrite.com/e/ken-segall-insanely-simple-tickets-48464364218?aff=ebapi
   is-free: true
-  starts: 2018-10-19T07:30:00.0000000
-  ends: 2018-10-19T18:00:00.0000000
-  venue: Davidson-Gundy Alumni Center
+  logo: https://cdn.evbuc.com/images/48340153/265289559087/1/original.jpg?h=200&w=450&auto=compress&rect=0,43,1200,600&s=9e5f48c8d4845cce4e83bd3ddd33bde5
+  starts: 2018-09-12T14:00:00.0000000
+  ends: 2018-09-12T15:00:00.0000000
+  venue: Michigan Theater
+- name: '2018 Texas Bigfoot Conference '
+  description: "The Texas Bigfoot Research Center celebrates the Original Texas Bigfoot Conference held on September 15, 2001 with this year's event to be held October 19 & 20, 2018. \nOctober 20th, 2018 marks the 51st anniversary of the famous Patterson-Gimlin Bigfoot film. \nEstablished in 2001 as the original annual Bigfoot Conference in Texas by the Texas Bigfoot Research Center. \nConfirmed Speakers: \nBob Gimlin \nDr. Jeff Meldrum \nLyle Blackburn \nKen Gerhard \nNick Redfern \nShelly Covington-Montana \nSchedule of Events \nFriday, October 19\n7:00-10:00 PM Bob Gimlin Tribute Dinner\n7:00-8:30 Catered Italian dinner by Claiborne House\n8:30-9:00 PM Bob Gimlin Presentation\n9:00-10:00 PM Special Presentation - Dr. Jeff Meldrum: 51 Years with Patty - Significance of the Patterson-Gimlin Bigfoot Film \nSaturday, October 20\n9:00 AM - 5:00 PM Texas Bigfoot Conference\n6:00-10:00 Saturday Night\n6:00-8:00 PM Meat n' Greet Dinner with the Speakers\nCatered Cajun dinner by Claiborne House\n8:00-9:00 PM Special Presentation - Lyle Blackburn: Fouke Monster and Boggy Creek Updates\n9:00-10:00 PM Special Screening\n Host hotel: Executive Inn & Suites 200 South Walcott, Jefferson, Texas 75657 903-665-3700 \nFacebook page\nTerms & ConditionsBy purchasing a ticket to the event you accept the terms and conditions below for you and anyone in your group.Non-refundable ticketsAll tickets are non-refundable unless the event is cancelled. All sales final. If unable to attend, tickets are tranferable with prior notification to conference organizer. Presenters and presentation topics are subject to change depending on individual schedules and unforeseen conflicts.Event CancellationIn the unlikely event of cancellation of the event, the maximum liability shall be limited to full refund of conference registration fee paid at the time of booking, with no additional liability whatsoever to the conference organizers and presenters.IndemnificationThe conference organizers and presenters accepts no responsibility for loss or damage to personal property. Purchaser shall indemnify the Texas Bigfoot Research Center, The City of Jefferson, and any participating hosts, speakers, or any directly invited participant appearing at the event from and against all liability in respect of any costs, claims, damages, demands, penalties, actions, proceedings, suits, losses or expenses in respect of any and all claims, losses, costs, damages of any nature whatsoever, including but not limited to claims arising out of the injury to or the death of any person, or damage to any property arising from my participation in the activity."
+  url: https://www.eventbrite.com/e/2018-texas-bigfoot-conference-tickets-39489075889?aff=ebapi
+  logo: https://cdn.evbuc.com/images/37270012/81718999601/1/original.jpg?h=200&w=450&auto=compress&rect=0,35,960,480&s=cd9c8d4e944db219348b94722fb3bf95
+  starts: 2018-10-19T19:00:00.0000000
+  ends: 2018-10-20T22:00:00.0000000
+  venue: Jefferson Tourism and Visitor Center
+- name: UAB Comprehensive Cancer Center 20th Annual Research Retreat
+  description: "Developmental Therapeutics\n \nThe Comprehensive Cancer Center Annual Research Retreat is an opportunity to stimulate interdisciplinary research collaboration and development among cancer researchers. This event is free and we invite faculty, trainees/postdoctoral fellows and staff engaged in cancer research. \n\nBreakfast and lunch will be served to those who register ahead of time. \nFree parking is available as well as valet services.\n\nCo-chairs for this year's event:\nMansoor Saleh, M.D.Eddy Yang, M.D., Ph.D.\n\nKeynote Speakers:\n\nAlex Adjei, M.D., Ph.D., Consultant, Medical Oncology, Professor of Oncology \nMayo College of Medicine\nLaura Esserman, M.D., MBA, Director, Carol Franc Buck Breast Care Center, Professor, School of Medicine\nUniversity of California San Francisco\n\nAfter you register for the Research Retreat, you will receive an email with a link where you may submit your abstract for the retreat. Check back on this page for more information and updates on this year’s event.\nFor questions regarding the research retreat, contact Courtney Bishop at cbishop3@uab.edu"
+  url: https://www.eventbrite.com/e/uab-comprehensive-cancer-center-20th-annual-research-retreat-registration-45484393044?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/47625380/172683926794/1/original.jpg?h=200&w=450&auto=compress&rect=0,172,3000,1500&s=d71c317a880722622640f1ecbb6ec9bb
+  starts: 2018-11-16T07:30:00.0000000
+  ends: 2018-11-16T17:00:00.0000000
+  venue: The Club, Inc.
+- name: 'Fourth Annual Data Center Austin Conference '
+  description: >2+
+
+
+
+
+    The Data Center Austin Conference (DCAC) is more akin to South by Southwest (SXSW) for the data center industry, than your average run-of-the-mill data center conference. Just as SXSW helps “creative people achieve their goals,” likewise, DCAC helps bring the most relevant thought leaders in the data center industry under one roof, in order to collaborate, innovate, and motivate.
+
+    These individuals will discuss what they are doing to support technological developments that are changing the world. 
+
+    By understanding the current needs, investments, and visions of the most highly advanced tech companies such as Uber, Microsoft, and Facebook, others in the industry can better equip themselves for tomorrow’s demands in technology.
+
+
+
+
+  url: https://www.eventbrite.com/e/fourth-annual-data-center-austin-conference-tickets-43946425943?aff=ebapi
+  logo: https://cdn.evbuc.com/images/46811216/209857077023/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=4f5d4ed1cad59e9277acc92c3174c09d
+  starts: 2018-09-11T19:00:00.0000000
+  ends: 2018-09-12T22:00:00.0000000
+  venue: Brazos Hall
+- name: 'Cybersecurity: Surviving and Thriving in a Connected World presented by the Austin Forum'
+  description: "The Austin Forum on Technology & Society\nin partnership with Austin Public Library \npresents\nCybersecurity: Surviving and Thriving in a Connected World\nwith Earl Carter, Threat Researcher at Cisco Systems\nAustin Central Library - Event Center\n710 W Cesar Chavez St, Austin, TX 78701\nNEW DATE\nTuesday, September 11, 2018\n5:15pm — Registration and cash bar open\n5:45 pm – Doors open for seating\n\L6:15 pm – Presentation\n7:30 pm – Networking\nVirtually everything we do with computing technologies and devices is now possible due to connections to services on other computing systems via networks: WiFi, cellular, Ethernet, and the like. Our homes, schools, libraries, and governments are increasingly connected with smart devices, and our workplaces could not function without this connectivity among workers, providing sources of data and information, analytics and modeling capabilities, and storage systems.\nWith all this connectivity comes risk and threat as well as benefits: data and information have value, and things of value are stolen. Our devices and our networks must be secured against intrusion, hacking, and theft. Cybersecurity is paramount to maintaining our data security, personal security, financial security, and even national security. \nJoin us as noted threat researcher Earl Carter of Cisco Systems provides an accelerated introduction into the principles of cybersecurity, discusses the nature of common and notable hacking efforts and security breaches, and shares how you and your companies can protect yourselves in an increasingly connected world.\nWe welcome your participation! Please send us your questions, answers, and prognostications in advance at info@austinforum.org.\nAdmission to the Austin Forum is always free.\nThe Austin Forum accepts donations of used cell phones and smart phones at all our events. All devices will have a factory reset and be set up as new by the team at Austin Pathways’ nationally-recognized “Unlocking the Connection” initiative, which will connect every public housing resident with a digital device, digital literacy training, and a free or very low-cost internet connection. Your donated phone can change lives and help close Austin's digital divide, thanks to Austin Pathways.\nThanks to Austin Public Library for their partnership. \n\n\n\nAnd a special thanks to all our sponsors!\n\n\n\n\n\n\n\n \n "
+  url: https://www.eventbrite.com/e/cybersecurity-surviving-and-thriving-in-a-connected-world-presented-by-the-austin-forum-tickets-48903551840?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48192858/72870734295/1/original.jpg?h=200&w=450&auto=compress&rect=0,140,2608,1304&s=0b8fbd0da042b327e76e894db8dacffa
+  starts: 2018-09-11T18:15:00.0000000
+  ends: 2018-09-11T19:30:00.0000000
+  venue: Austin Central Library, Austin Public Library
+- name: Unlocking the Mysteries of Genesis Conference
+  description: "Have you wondered how the creation story of Genesis fits with the evolutionary theories of popular science? You’re not alone. Many Christians wrestle with the seeming disparity between faith and science. They want to believe the inerrancy of Scripture, but it’s difficult to reconcile their beliefs with what science texts teach. The Unlocking the Mysteries of Genesis Conference seeks to resolve this conflict by answering key questions about the origin of human life, the age of the universe, and how scientific evidence lines up with the Bible.\nThis conference is intended for persons age 12 and up.  Younger children are welcome, but childcare will not be provided.\nSchedule\nThursday, September 13\n  6:00 p.m. Dinosaur Fossil Walk  6:30 p.m. Dinosaur Fossil Walk   7:00 p.m. Dinosaur Fossil Walk\nFriday, September 14   1:30 p.m. Dinosaur Fossil Walk   2:00 p.m. Dinosaur Fossil Walk   2:30 p.m. Dinosaur Fossil Walk \n  5:00 p.m.  Registration and check-in   6:00 p.m.  Mr. Frank Sherwin  \"Scientific Evidences for Creation\"   7:10 p.m.  Break   7:30 p.m.  Dr. Tim Clarey \"Do Dinosaurs Support Evolution?\"   8:30 p.m.  Conclusion and book signing\nSaturday, September 15\n  8:30 a.m.  Dr. Jim Johnson \"Evidence Review: 5 Proofs Creation was Recent\"   9:40 a.m.  Break 10:00 a.m.  Breakout sessions 10:50 a.m.  Break 11:10 a.m.  Breakout sessions 12:00 p.m.  Lunch break* 12:20 p.m.  Lunchtime breakout sessions   1:10 p.m.  Break   1:30 p.m.  Dr. Randy Guliuzza \"Five Minutes with a Darwinist\"   2:30 p.m.  Break   2:40 p.m.  Q&A with all speakers\n*Lunch will be provided and may be eaten during the lunchtime breakout sessions\n"
+  url: https://www.eventbrite.com/e/unlocking-the-mysteries-of-genesis-conference-tickets-38802359903?aff=ebapi
+  logo: https://cdn.evbuc.com/images/40060911/66371608659/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=8885ab93bd76a1c68bef0e9505f584b8
+  starts: 2018-09-13T18:00:00.0000000
+  ends: 2018-09-15T16:30:00.0000000
+  venue: Cielo Vista Church
+- name: Sips & Science
+  description: >-
+    Southern Research invites you to Sips & Science—an engaging evening event fusing fellowship and fun with the most fascinating scientific topics of our time. Come grow with us!
+
+
+
+
+    5PM: Happy Hour
+
+    Enjoy complimentary beer and wine while you mingle with Dr. Rita Cowell, Fellow & Chair of the Department of Neuroscience at Southern Research.
+
+    6PM: "Understanding Your Aging Brain"
+
+    Age-related neurodegenerative disorders such as Parkinson's Disease, Alzheimer's Disease, and ALS are affecting more and more people, as treatments for diseases such as cancer and diabetes improve. Many of us know someone with an age-related neurodegenerative disorder, and it is difficult to understand how a disease can influence someone's personality and ability to perform everyday tasks. Thousands of researchers dedicate their time to improve our understanding of the biological changes which cause clinical symptoms and lead to progressive changes in behavior and function. In this seminar, I will explain the changes in brain structure that accompany degeneration and discuss the strategies that scientists are exploring to prevent disease and improve brain function.  
+
+
+
+
+    Dr. Rita Cowell
+
+    Rita Cowell, Ph.D., is Fellow and Chair of the Neuroscience Department within the Drug Discovery Division. In this role, she maintains an independently-funded research program, while overseeing the Neuroscience Department with the mission of discovering novel, mechanism-based approaches to treat individuals with neurodegenerative disorders. The research in the Cowell Lab aims to determine how intrinsic transcriptional programs underlying neuronal heterogeneity give rise to selective vulnerability in neurodegenerative disorders such as Parkinson’s Disease, Huntington Disease, Amyotrophic Lateral Sclerosis, and Alzheimer’s Disease. Her research group is comprised of postdoctoral, graduate, and undergraduate trainees who are affiliated with Southern Research’s partner institution, the University of Alabama at Birmingham (UAB). The lab is currently supported by grants from the National Institutes of Health and the Michael J. Fox Foundation for Parkinson’s Research.
+
+
+
+
+
+    What are my parking options?
+
+    Parking is available at 9th Avenue South (see the map below). Once the parking lots are filled, the Five Points South Deck parking garage is available for overflow parking for a $3 fee. It is located at 2012 Magnolia Avenue Birmingham, AL 35203.
+
+
+    Have questions about Sips & Science? Contact Dr. Kathryn Lanier at STEM@southernresearch.org. 
+
+
+
+    Thank you to our Sips & Science sponsor, The Pharmaceutical Research and Manufacturers of America!
+
+
+
+    Interested in sponsoring one of our Sips & Science events? Contact Brynne MacCann at bmaccann@southernresearch.org.
+  url: https://www.eventbrite.com/e/sips-science-tickets-49185099958?aff=ebapi
+  logo: https://cdn.evbuc.com/images/48761405/205638401573/1/original.jpg?h=200&w=450&auto=compress&rect=0,29,4904,2452&s=466dba0c8d024f208c2e48add1d79933
+  starts: 2018-09-12T17:00:00.0000000
+  ends: 2018-09-12T19:00:00.0000000
+  venue: Southern Research
 - name: 2018 Flight Software Workshop
   description: >-
     Southwest Research Institute (SwRI) in conjunction with the NASA Jet Propulsion Laboratory, The Aerospace Corporation, and The Johns Hopkins University Applied Physics Laboratory, is hosting the 11th Annual Workshop on Spacecraft Flight Software (FSW-2018) in San Antonio, Texas  from December 3rd to 6th 2018.
@@ -1193,29 +872,13 @@
   logo: https://cdn.evbuc.com/images/46510132/231616926146/1/original.jpg?h=200&w=450&auto=compress&rect=0,787,2624,1312&s=1a602c571c1938fea140ef02b0358cb6
   starts: 2018-12-03T08:00:00.0000000
   ends: 2018-12-06T12:00:00.0000000
-- name: Unlocking the Mysteries of Genesis Conference
-  description: "Have you wondered how the creation story of Genesis fits with the evolutionary theories of popular science? You’re not alone. Many Christians wrestle with the seeming disparity between faith and science. They want to believe the inerrancy of Scripture, but it’s difficult to reconcile their beliefs with what science texts teach. The Unlocking the Mysteries of Genesis Conference seeks to resolve this conflict by answering key questions about the origin of human life, the age of the universe, and how scientific evidence lines up with the Bible.\nThis conference is intended for persons age 12 and up.  Younger children are welcome, but childcare will not be provided.\nSchedule\nThursday, September 13\n  6:00 p.m. Dinosaur Fossil Walk  6:30 p.m. Dinosaur Fossil Walk   7:00 p.m. Dinosaur Fossil Walk\nFriday, September 14   1:30 p.m. Dinosaur Fossil Walk   2:00 p.m. Dinosaur Fossil Walk   2:30 p.m. Dinosaur Fossil Walk \n  5:00 p.m.  Registration and check-in   6:00 p.m.  Mr. Frank Sherwin  \"Scientific Evidences for Creation\"   7:10 p.m.  Break   7:30 p.m.  Dr. Tim Clarey \"Do Dinosaurs Support Evolution?\"   8:30 p.m.  Conclusion and book signing\nSaturday, September 15\n  8:30 a.m.  Dr. Jim Johnson \"Evidence Review: 5 Proofs Creation was Recent\"   9:40 a.m.  Break 10:00 a.m.  Breakout sessions 10:50 a.m.  Break 11:10 a.m.  Breakout sessions 12:00 p.m.  Lunch break* 12:20 p.m.  Lunchtime breakout sessions   1:10 p.m.  Break   1:30 p.m.  Dr. Randy Guliuzza \"Five Minutes with a Darwinist\"   2:30 p.m.  Break   2:40 p.m.  Q&A with all speakers\n*Lunch will be provided and may be eaten during the lunchtime breakout sessions\n"
-  url: https://www.eventbrite.com/e/unlocking-the-mysteries-of-genesis-conference-tickets-38802359903?aff=ebapi
-  logo: https://cdn.evbuc.com/images/40060911/66371608659/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=8885ab93bd76a1c68bef0e9505f584b8
-  starts: 2018-09-13T18:00:00.0000000
-  ends: 2018-09-15T16:30:00.0000000
-  venue: Cielo Vista Church
-- name: Jorge Cham presents "The Power of Procrastination"
-  description: A recent survey by U.C. Berkeley found that 95% of all graduate students feel overwhelmed, and over 67% have felt seriously depressed at some point in their careers. In this talk, Jorge Cham recounts his experiences bringing humor into the lives of stressed-out academics, examines the source of their anxieties and explores the guilt, the myth, and the power of procrastination.  A book-signing session immediately follows in the Memorial Hall Lobby.
-  url: https://www.eventbrite.com/e/jorge-cham-presents-the-power-of-procrastination-tickets-49089693595?aff=ebapi
+- name: '(ISC)² DFW Presents: Cyber Aware Dallas'
+  description: "\nThe (ISC)² Dallas/Fort Worth (DFW) Chapter invites you to join us for Cyber Aware 2018. This one day summit is designed with you the information security professional in mind and will deliver actionable insights supporting your growth as an information security professional. This event will take place at the state of the art Davidson-Gundy Alumni Center on the campus of The University of Texas at Dallas and is one your won't want to miss. \nRegister today, CPE will be provided!\nPlease use the link below to make a hotel reservation at the Hilton Garden Inn Dallas/Richardson. A special event rate of $96/night has been secured.\nhttps://secure3.hilton.com/en_US/gi/reservation/book.htm?ctyhocn=DALRIGI&corporateCode=2994855&from=lnrlink\n"
+  url: https://www.eventbrite.com/e/isc2-dfw-presents-cyber-aware-dallas-tickets-45182193156?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/48397819/221867517687/1/original.jpg?h=200&w=450&auto=compress&rect=0,947,1306,653&s=9255bb9b4d917eef581e013dedd2262a
-  starts: 2018-09-06T16:00:00.0000000
-  ends: 2018-09-06T17:00:00.0000000
-  venue: UK Memorial Hall
-- name: Jorge Cham presents "Communicating Your Research"
-  description: In this talk, Jorge Cham relays his experiences creating successful science communication projects (videos that have been viewed by millions of people and a book release from Penguin Random House) and he communicates his passion for engaging with the public and exploring the unknown.  Meet the author at his book-signing immediately after the presentation -- top of the Social Staircase in the UK Student Center.
-  url: https://www.eventbrite.com/e/jorge-cham-presents-communicating-your-research-tickets-49066466121?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48367979/221867517687/1/original.jpg?h=200&w=450&auto=compress&rect=0,971,1306,653&s=d0384faadb4d3ce879f5ec5a6ef02a26
-  starts: 2018-09-06T10:00:00.0000000
-  ends: 2018-09-06T11:00:00.0000000
-  venue: Worsham Cinema in the UK Student Center
+  starts: 2018-10-19T07:30:00.0000000
+  ends: 2018-10-19T18:00:00.0000000
+  venue: Davidson-Gundy Alumni Center
 - name: Coopérathon 2018 - CANADA
   description: >-
     *** ENGLISH BELOW ***
@@ -1291,121 +954,6 @@
   starts: 2018-09-26T18:00:00.0000000
   ends: 2018-11-01T21:00:00.0000000
   venue: Plusieurs villes canadiennes / Many Canadian cities
-- name: Sips & Science
-  description: >-
-    Southern Research invites you to Sips & Science—an engaging evening event fusing fellowship and fun with the most fascinating scientific topics of our time. Come grow with us!
-
-
-
-
-    5PM: Happy Hour
-
-    Enjoy complimentary beer and wine while you mingle with Dr. Rita Cowell, Fellow & Chair of the Department of Neuroscience at Southern Research.
-
-    6PM: "Understanding Your Aging Brain"
-
-    Age-related neurodegenerative disorders such as Parkinson's Disease, Alzheimer's Disease, and ALS are affecting more and more people, as treatments for diseases such as cancer and diabetes improve. Many of us know someone with an age-related neurodegenerative disorder, and it is difficult to understand how a disease can influence someone's personality and ability to perform everyday tasks. Thousands of researchers dedicate their time to improve our understanding of the biological changes which cause clinical symptoms and lead to progressive changes in behavior and function. In this seminar, I will explain the changes in brain structure that accompany degeneration and discuss the strategies that scientists are exploring to prevent disease and improve brain function.  
-
-
-
-
-    Dr. Rita Cowell
-
-    Rita Cowell, Ph.D., is Fellow and Chair of the Neuroscience Department within the Drug Discovery Division. In this role, she maintains an independently-funded research program, while overseeing the Neuroscience Department with the mission of discovering novel, mechanism-based approaches to treat individuals with neurodegenerative disorders. The research in the Cowell Lab aims to determine how intrinsic transcriptional programs underlying neuronal heterogeneity give rise to selective vulnerability in neurodegenerative disorders such as Parkinson’s Disease, Huntington Disease, Amyotrophic Lateral Sclerosis, and Alzheimer’s Disease. Her research group is comprised of postdoctoral, graduate, and undergraduate trainees who are affiliated with Southern Research’s partner institution, the University of Alabama at Birmingham (UAB). The lab is currently supported by grants from the National Institutes of Health and the Michael J. Fox Foundation for Parkinson’s Research.
-
-
-
-
-
-    What are my parking options?
-
-    Parking is available at 9th Avenue South (see the map below). Once the parking lots are filled, the Five Points South Deck parking garage is available for overflow parking for a $3 fee. It is located at 2012 Magnolia Avenue Birmingham, AL 35203.
-
-
-    Have questions about Sips & Science? Contact Dr. Kathryn Lanier at STEM@southernresearch.org. 
-
-
-
-    Thank you to our Sips & Science sponsor, The Pharmaceutical Research and Manufacturers of America!
-
-
-
-    Interested in sponsoring one of our Sips & Science events? Contact Brynne MacCann at bmaccann@southernresearch.org.
-  url: https://www.eventbrite.com/e/sips-science-tickets-49185099958?aff=ebapi
-  logo: https://cdn.evbuc.com/images/48761405/205638401573/1/original.jpg?h=200&w=450&auto=compress&rect=0,29,4904,2452&s=466dba0c8d024f208c2e48add1d79933
-  starts: 2018-09-12T17:00:00.0000000
-  ends: 2018-09-12T19:00:00.0000000
-  venue: Southern Research
-- name: Flat Earth International Conference (USA) 2018
-  description: The 2018 Flat Earth International Conference (FEIC) is the 2nd annual conference hosted by Kryptoz Media. FEIC features presenters from various backgrounds and belief systems who have each made an impact on the larger Flat Earth community. FEIC is not in any way affiliated with the Flat Earth Society.
-  url: https://www.eventbrite.com/e/flat-earth-international-conference-usa-2018-tickets-39585550447?aff=ebapi
-  logo: https://cdn.evbuc.com/images/37642037/222390928091/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1184,592&s=205f78c2c8d123ef2a9a5fb189f4c6ad
-  starts: 2018-11-15T09:00:00.0000000
-  ends: 2018-11-16T21:00:00.0000000
-  venue: Crowne Plaza Denver Airport Convention Center
-- name: Fierce Founders Finale
-  description: >-
-    Did someone say $100,000? Yeah, we did.
-
-    Twenty-one companies led by women participated in the Fierce Founders Bootcamp.  They got a crash course in customer validation, product development, creating financials, building sales funnels and project management, but we didn’t stop there.
-
-    They received hands-on mentorship from experienced entrepreneurs and experts as they built out their business models and worked toward refining their product offerings.
-
-    It's time to put all that training to the test, and put them in the spotlight. 
-
-    Join us on September 6 to cheer on the top eight companies as they compete for a $100,000 grand prize in the final pitch competition.
-
-    How's that for fierce?
-
-    Agenda2:00 pm | Sign in
-
-    2:30 pm | Welcome remarks
-
-    2:45 pm | Keynote - Martha van Berkel, CoFounder and CEO of Schema App
-
-    3:00 pm | Pitches
-
-    4:15 pm | Judging
-
-    4:30 pm | Winners announced
-
-    4:45 pm | Networking
-
-    Judges                                                                                                                                                                          
-
-    Aaron Bast, MaRS IAF
-
-    Graham Toppin, ROSS Intelligence
-
-    Zahra Jivan, Deloitte
-
-    Kimberly Yeung, BDC Capital
-
-
-
-
-    Fierce Founders is a Communitech program backed by Business Development Bank of Canada (BDC), Thomson Reuters, Google, TD and Deloitte that helps women tech entrepreneurs accelerate their companies. 
-
-    ----------------
-
-    We have an awesome community. And we like to show it off.
-
-    Please be advised that photographs and video may be taken at Communitech events for use on Communitech web, print, and social properties. We won’t sell your photo, but we may share it with media and/or partner organizations. By attending this and any Communitech event, you consent to being photographed and/or filmed, and to your image or likeness being used at Communitech’s discretion.
-
-    Construction in the Region
-
-    As you may know, there is some construction happening in Downtown Kitchener, so you may hit some traffic getting here. Please check the latest updates from RideION.ca to help plan your best route.
-
-
-    Parking Downtown Kitchener
-
-    Parking made simple! Check out our up-to-date map to find out how to get downtown Kitchener, and where to park!
-  url: https://www.eventbrite.ca/e/fierce-founders-finale-tickets-48126048306?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48466181/257316737287/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=12d4bc54d9be2e88161ad2414c2aa7a9
-  starts: 2018-09-06T14:00:00.0000000
-  ends: 2018-09-06T17:00:00.0000000
-  venue: Tannery Event Centre
 - name: 'From Drones to Flying Cars: New Frontiers in Human-Technology Interaction'
   description: >-
     The lecture
@@ -1429,6 +977,13 @@
   starts: 2018-09-13T19:00:00.0000000
   ends: 2018-09-13T20:00:00.0000000
   venue: Linda Hall Library
+- name: Flat Earth International Conference (USA) 2018
+  description: The 2018 Flat Earth International Conference (FEIC) is the 2nd annual conference hosted by Kryptoz Media. FEIC features presenters from various backgrounds and belief systems who have each made an impact on the larger Flat Earth community. FEIC is not in any way affiliated with the Flat Earth Society.
+  url: https://www.eventbrite.com/e/flat-earth-international-conference-usa-2018-tickets-39585550447?aff=ebapi
+  logo: https://cdn.evbuc.com/images/37642037/222390928091/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1184,592&s=205f78c2c8d123ef2a9a5fb189f4c6ad
+  starts: 2018-11-15T09:00:00.0000000
+  ends: 2018-11-16T21:00:00.0000000
+  venue: Crowne Plaza Denver Airport Convention Center
 - name: Neuropsychiatry Symposium and Workshop
   description: >-
     Neuropsychiatric disorders are a leading cause of disability and result in a tremendous toll on society. We are assembling expert investigators to identify key issues that must be addressed in order for us to move forward from risk factors, genes, circuits, and mechanisms to effective therapies. Physicians, scientists, NIH leaders, pharmaceutical industry experts, patients, and patient advocacy groups will come together to identify new research paths and priorities for advancing promising translational research. Proceedings will be published in Science Translational Medicine. A complimentary continental breakfast will be provided both days and a complimentary boxed lunch will be provided the first day. Registration (FREE) is required due to limited seating.
@@ -1458,6 +1013,14 @@
   starts: 2018-10-01T08:00:00.0000000
   ends: 2018-10-02T12:00:00.0000000
   venue: Houston, Texas
+- name: 4th Austin Diversity Hackathon Sponsored by Home Depot, RetailMeNot, athenahealth, Google Fiber & AnitaB.org at Capital Factory
+  description: "4th Annual Austin Diversity Hackathon #ATXDivHack\r\n\r\n   \r\nJoin WWCode Austin for our fourth annual diversity hackathon! #ATXDivHack (Note: by signing up you are agreeing to abide by this code of conduct). For updates follow us on Twitter or Facebook.\r\n\r\nThis hackathon is a celebration of diversity. Anyone who supports diversity is welcome — no matter your level of technical knowledge. \r\n \r\nWe are providing a space for people of all backgrounds who want to start building their tech portfolio or finish up a tech project while learning new skills. Previous experience in tech is **NOT** required. If you are an advanced coder, we are looking for mentors. We are also looking for volunteers. If you are nervous about attending a hackathon, just volunteer and see what it is all about!\r\n \r\nPlus, we have a parallel FREE workshop track for anyone who wants to come and just start learning, learn more, or meet people. \r\n \r\nBonus: FREE headshots starting at 9:30AM Saturday!!!! \r\n \r\nNot sure what to work on? We encourage participants to look into open data or civic hacking projects, for more information check out our partners, Open Austin. \r\n\r\nCode of Conduct \r\nWomen Who Code (WWCode) is dedicated to providing an empowering experience for everyone who participates in or supports our community, regardless of gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, age, religion, or socioeconomic status. Because we value the safety and security of our members and strive to have an inclusive community, we do not tolerate harassment of members or event participants in any form. Our Code of Conduct applies to all events run by Women Who Code, Inc. If you would like to report an incident or contact our leadership team, please submit an incident report form.\r\nPrize Categories:\r\n\r\nBest UI/UX (how clean is your design/branding? is the app intuitive?)\r\nMost social impact (what is the reach of your app? who will use it? how it will it affect them?)\r\nMost technical (what APIs, data storage, backend, frontend technologies did you use?) \r\nMost learned (what obstacles did the team overcome? did you start with zero knowledge and get an app deployed?)\r\n\r\n \r\n*Weekend overview:\r\n \r\nFriday 9AM - 5pm - FREE Workshops all day long (see schedule below) \r\nFriday - 6PM Happy Hour\r\nCome enjoy refreshments, music provided by Chulita Vinyl Club, network with hackathon attendees, form teams, and meet other diverse folks in tech. \r\n Saturday - 8:00am - 8:00pm Hack Time\r\nStart working on your project with your team. We will serve breakfast, lunch, dinner, and some snacks throughout the day. \r\n- FREE HEADSHOTS starting at 9:30AM Saturday\r\n- FREE Workshops all day long (see schedule below) \r\nSunday - 8:00am - 4:00pm - Wrap up hacking and awards.\r\n \r\n* Schedule subject to change. Please check this event for up-to-date info and follow us on Twitter for latest news: @wwcodeatx\r\n \r\nParking Info:The Austin Centre parking is $24/day. There are a number of other downtown parking garages and lots. See more information here.\r\n \r\nAlternatives to Parking a Vehicle:\r\n\r\ncar2go is also a good option for downtown transportation.\r\nMany Capital Metro buses drop off within a few blocks of Capital Factory.\r\n\r\n \r\n\r\n\r\nTitle Sponsors: \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPrimary Sponsors:\r\n\r\n\r\n \r\nAdditional Sponsors:\r\n\r\n\r\n \r\nWant to be a sponsor? Contact us at samantha@womenwhocode.com\r\n\r\n \r\nWorkshop Schedule:\r\n \r\nFriday from 9AM to 5PM (CF 1st Floor classrooms)\r\n9AM - \"Intro Python\" with Irma Kramer, @bluflowr\r\n10AM - \"Intro to Machine Learning\" with Anna Ayzenshtat, Meghann Agarwal 7 Muriel Grobler, @miiriel\r\nNOON/12PM - \"Building Products People Trust\" with Taylor McCaslin, @digital_saas\r\n1PM - \"Intro to APIs with Python\" with Sara Safavi, @sarasomewhere - *Requirement: Python 3\r\n2PM - \"Intro to UI / UX: Design Fundamentals\" with Michelle Ferrell, @MadameMiso\r\n 3PM - \"Intro to Git\" with Stephen Hanson, @stephenhanson\r\n4PM - \"Intro to Wordpress\" with Sara Pearce \r\n5PM - \"Intro to NodeJS\" with Pierce Primm, @PiercePrimm\r\n \r\nSaturday from 9AM to 5PM (CF 1st Floor classrooms)\r\n9AM - \"Intro to SQL\" with Giselle Valenzuela Aldridge, @gisellevalenz\r\n10AM - \"Intro to AWS\" with Mirella Batista, @mirella4real\r\n11AM - \"Design Thinking Workshop\" with Alisha Moore, @MooreAustin\r\nNOON/12PM - Lunch\r\n1PM - \"Intro to JavaScript\" with Dinh Huynh, @AustinCoding \r\n2PM - \"Intro to Graphql\" with Eddy Reyes, @0x000edd1e\r\n3PM - \"Intro to Serverless APIs\" with Julia Jacobs, @jewelsjacobs\r\n4PM - \"Intro to iOS Development\" with George Pazdral & Regina Imhoff, @AustinPC512 & @stabbymcduck - *Requirement: XCode\r\n \r\nFAQs\r\n \r\nAre there ID or minimum age requirements to enter the event?\r\nYour answer goes here\r\n \r\nWhat can I bring into the event?\r\nYour answer goes here\r\n \r\nHow can I contact the organizer with any questions?\r\nYour answer goes here\r\n "
+  url: https://www.eventbrite.com/e/4th-austin-diversity-hackathon-sponsored-by-home-depot-retailmenot-athenahealth-google-fiber-tickets-45958303523?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/44682916/139594606659/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1000,500&s=5087f208548272a32e0095bec3d96fe5
+  starts: 2018-09-14T08:00:00.0000000
+  ends: 2018-09-16T17:00:00.0000000
+  venue: Capital Factory
 - name: Atlanta Cybersecurity Conference 2018
   description: >2-
 
@@ -1486,14 +1049,6 @@
   starts: 2018-09-20T08:00:00.0000000
   ends: 2018-09-20T17:00:00.0000000
   venue: InterContinental® Buckhead Atlanta
-- name: 4th Austin Diversity Hackathon Sponsored by Home Depot, RetailMeNot, athenahealth, Google Fiber & AnitaB.org at Capital Factory
-  description: "4th Annual Austin Diversity Hackathon #ATXDivHack\r\n\r\n   \r\nJoin WWCode Austin for our fourth annual diversity hackathon! #ATXDivHack (Note: by signing up you are agreeing to abide by this code of conduct). For updates follow us on Twitter or Facebook.\r\n\r\nThis hackathon is a celebration of diversity. Anyone who supports diversity is welcome — no matter your level of technical knowledge. \r\n \r\nWe are providing a space for people of all backgrounds who want to start building their tech portfolio or finish up a tech project while learning new skills. Previous experience in tech is **NOT** required. If you are an advanced coder, we are looking for mentors. We are also looking for volunteers. If you are nervous about attending a hackathon, just volunteer and see what it is all about!\r\n \r\nPlus, we have a parallel FREE workshop track for anyone who wants to come and just start learning, learn more, or meet people. \r\n \r\nBonus: FREE headshots starting at 9:30AM Saturday!!!! \r\n \r\nNot sure what to work on? We encourage participants to look into open data or civic hacking projects, for more information check out our partners, Open Austin. \r\n\r\nCode of Conduct \r\nWomen Who Code (WWCode) is dedicated to providing an empowering experience for everyone who participates in or supports our community, regardless of gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, age, religion, or socioeconomic status. Because we value the safety and security of our members and strive to have an inclusive community, we do not tolerate harassment of members or event participants in any form. Our Code of Conduct applies to all events run by Women Who Code, Inc. If you would like to report an incident or contact our leadership team, please submit an incident report form.\r\nPrize Categories:\r\n\r\nBest UI/UX (how clean is your design/branding? is the app intuitive?)\r\nMost social impact (what is the reach of your app? who will use it? how it will it affect them?)\r\nMost technical (what APIs, data storage, backend, frontend technologies did you use?) \r\nMost learned (what obstacles did the team overcome? did you start with zero knowledge and get an app deployed?)\r\n\r\n \r\n*Weekend overview:\r\n \r\nFriday 9AM - 5pm - FREE Workshops all day long (see schedule below) \r\nFriday - 6PM Happy Hour\r\nCome enjoy refreshments, music provided by Chulita Vinyl Club, network with hackathon attendees, form teams, and meet other diverse folks in tech. \r\n Saturday - 8:00am - 8:00pm Hack Time\r\nStart working on your project with your team. We will serve breakfast, lunch, dinner, and some snacks throughout the day. \r\n- FREE HEADSHOTS starting at 9:30AM Saturday\r\n- FREE Workshops all day long (see schedule below) \r\nSunday - 8:00am - 4:00pm - Wrap up hacking and awards.\r\n \r\n* Schedule subject to change. Please check this event for up-to-date info and follow us on Twitter for latest news: @wwcodeatx\r\n \r\nParking Info:The Austin Centre parking is $24/day. There are a number of other downtown parking garages and lots. See more information here.\r\n \r\nAlternatives to Parking a Vehicle:\r\n\r\ncar2go is also a good option for downtown transportation.\r\nMany Capital Metro buses drop off within a few blocks of Capital Factory.\r\n\r\n \r\n\r\n\r\nTitle Sponsors: \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPrimary Sponsors:\r\n\r\n\r\n \r\nAdditional Sponsors:\r\n\r\n\r\n \r\nWant to be a sponsor? Contact us at samantha@womenwhocode.com\r\n\r\n \r\nWorkshop Schedule:\r\n \r\nFriday from 9AM to 5PM (CF 1st Floor classrooms)\r\n9AM - \"Intro Python\" with Irma Kramer, @bluflowr\r\n10AM - \"Intro to Machine Learning\" with Anna Ayzenshtat, Meghann Agarwal 7 Muriel Grobler, @miiriel\r\nNOON/12PM - \"Building Products People Trust\" with Taylor McCaslin, @digital_saas\r\n1PM - \"Intro to APIs with Python\" with Sara Safavi, @sarasomewhere - *Requirement: Python 3\r\n2PM - \"Intro to UI / UX: Design Fundamentals\" with Michelle Ferrell, @MadameMiso\r\n 3PM - \"Intro to Git\" with Stephen Hanson, @stephenhanson\r\n4PM - \"Intro to Wordpress\" with Sara Pearce \r\n5PM - \"Intro to NodeJS\" with Pierce Primm, @PiercePrimm\r\n \r\nSaturday from 9AM to 5PM (CF 1st Floor classrooms)\r\n9AM - \"Intro to SQL\" with Giselle Valenzuela Aldridge, @gisellevalenz\r\n10AM - \"Intro to AWS\" with Mirella Batista, @mirella4real\r\n11AM - \"Design Thinking Workshop\" with Alisha Moore, @MooreAustin\r\nNOON/12PM - Lunch\r\n1PM - \"Intro to JavaScript\" with Dinh Huynh, @AustinCoding \r\n2PM - \"Intro to Graphql\" with Eddy Reyes, @0x000edd1e\r\n3PM - \"Intro to Serverless APIs\" with Julia Jacobs, @jewelsjacobs\r\n4PM - \"Intro to iOS Development\" with George Pazdral & Regina Imhoff, @AustinPC512 & @stabbymcduck - *Requirement: XCode\r\n \r\nFAQs\r\n \r\nAre there ID or minimum age requirements to enter the event?\r\nYour answer goes here\r\n \r\nWhat can I bring into the event?\r\nYour answer goes here\r\n \r\nHow can I contact the organizer with any questions?\r\nYour answer goes here\r\n "
-  url: https://www.eventbrite.com/e/4th-austin-diversity-hackathon-sponsored-by-home-depot-retailmenot-athenahealth-google-fiber-tickets-45958303523?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/44682916/139594606659/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1000,500&s=5087f208548272a32e0095bec3d96fe5
-  starts: 2018-09-14T08:00:00.0000000
-  ends: 2018-09-16T17:00:00.0000000
-  venue: Capital Factory
 - name: Secure Iowa Conference 2018
   description: >
     Secure Iowa Conference [October 9]
@@ -1700,18 +1255,6 @@
   starts: 2018-10-06T11:00:00.0000000
   ends: 2018-10-06T16:00:00.0000000
   venue: Houston Community College (HCC)
-- name: The Islet Biology Workshop at Vanderbilt
-  description: >-
-    The Islet Biology Workshop will be held at Vanderbilt University in Nashville, Tennessee (Music City) on September 6th and 7th. This meeting will pursue a highly discussion-oriented workshop-style atmosphere with coverage of provocative and emerging novel concepts in islet research. Trainee and junior investigator activities will be emphasized, with multiple plenary talks selected from submitted abstracts. All attendees will be able to present their work as a talk or poster.                   
-
-    Registration deadline: April 30th, 2018
-
-    We look forward to seeing you in Nashville.  Register Today!
-  url: https://www.eventbrite.com/e/the-islet-biology-workshop-at-vanderbilt-tickets-35763685145?aff=ebapi
-  logo: https://cdn.evbuc.com/images/42525822/56896161599/1/original.jpg?h=200&w=450&auto=compress&rect=172,0,1818,909&s=ad0b8f0c8c2b6fb3ec79cd6aadc86a4f
-  starts: 2018-09-06T09:00:00.0000000
-  ends: 2018-09-07T19:00:00.0000000
-  venue: Student Life Center
 - name: Minnesota User Groups -  Tuesday September 11, 2018
   description: >+
     REGISTER NOW for our next Minnesota User Groups Event Tuesday, September 11th from 9:00 am to 1:00 pm
@@ -1734,7 +1277,7 @@
 
     10:30 - Fellow Admin speaker Sandra Peterson and Fellow Developer speaker Tom Robbins
 
-    11:00 - Salesforce MVP and Admin Eric Dreshfield and Developer leaders Andy Boettcher and James Loghry
+    11:00 - Salesforce MVP and Admin Ben Bolopue and Developer leaders Andy Boettcher and James Loghry
 
     11:30 - Break
 
@@ -1750,26 +1293,6 @@
   starts: 2018-09-11T09:00:00.0000000
   ends: 2018-09-11T13:00:00.0000000
   venue: Eagan Community Center
-- name: 'Public talk: The making of a scientist - an unlikely journey'
-  description: >-
-    After the Nazis tore his family apart and left him homeless and alone at age 4, Mario Capecchi began an epic lifetime trek from sickly street vagrant to Nobel Laureate. In this engaging talk, one of the world's most prominent molecular geneticists weaves his personal tale of survival into the story of how he helped pioneer a technique that has revolutionized the study of human diseases.
-
-
-    5:30 p.m. Check-in and reception
-
-    6 to 7:30 p.m. Public talk
-
-    This is a partnership program with the University of Iowa Interdisiciplinary Graduate Program in Genetics and Carver College of Medicine. 
-
-
-
-    Individuals with disabilities are encouraged to attend all University of Iowa sponsored events. If you are a person with a disability who requires an accommodation in order to participate in this program, please contact UI Interdisciplinary Graduate Program in Genetics in advance at 319-335-9968 or grad-genetics@uiowa.edu.
-  url: https://www.eventbrite.com/e/public-talk-the-making-of-a-scientist-an-unlikely-journey-registration-48834681848?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48475401/135227181197/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,3300,1650&s=0bfd680694bd34d78a85eab75680622f
-  starts: 2018-09-19T17:30:00.0000000
-  ends: 2018-09-19T19:30:00.0000000
-  venue: University of Iowa Art Building West
 - name: 2018 Minnesota Aquatic Invasive Species Research and Management Showcase
   description: "Register today for the 2018 Minnesota Aquatic Invasive Species Research and Management Showcase!   Join us on campus on Wednesday, September 12 for a selection of talks about the latest MAISRC research on starry stonewort, zebra mussels, spiny waterflea, invasive carp, harmful fish diseases, and much more. The breakout session schedule is available here and the full session descriptions are available here.   Interact with faculty and researchers over lunch as they share the latest about their work, get an inside-peek at the newly renovated AIS Lab and Holding Facility to see research projects in action, and enjoy a poster session reception.  Please note: Lab tours are currently sold out. Please email Christine at leex2315@umn.edu to be added to the waiting list. \nTo get your tickets: \n1. Click on the bright green \"Tickets\" button on the top-right of your screen 2. Select how many tickets you would like to purchase, whether you'd like the lab tour option, and whether you'd like to pre-pay for a parking spot  3. Click “order now” and complete your check out  4. See you on September 12!    Ticket cost includes on-campus talks, lunch with researchers, a tour of the newly renovated lab (if you wish), and a post-event reception. "
   url: https://www.eventbrite.com/e/2018-minnesota-aquatic-invasive-species-research-and-management-showcase-tickets-47919927794?aff=ebapi
@@ -1777,31 +1300,31 @@
   starts: 2018-09-12T08:00:00.0000000
   ends: 2018-09-12T17:00:00.0000000
   venue: Continuing Education and Conference Center
-- name: '#ELA50 Science Symposium: From Canada’s Lakes to the World'
-  description: >-
-    Join us on Friday September 14, 2018 at 204 Marshall McLuhan Hall (UMSU University Centre) of University of Manitoba (Fort Garry Campus) for a day-long science symposium that explores the past, present and future of IISD Experimental Lakes Area—the world's freshwater laboratory.
+- name: Engaging Women and Minorities in Data Science Education
+  description: >+
+    Roundtable on Data Science Postsecondary Education: Engaging Women and Minorities in Data Science Education
 
-    The day will consist of a series of vibrant presentations and discussions on our unique approach of whole ecosystem research and the policy impact it has had around the globe.
+    The National Academies of Sciences, Engineering, and Medicine will hold a one-day meeting and webcast on the challenges and opportunities for engaging women and minorities in data science education on September 17, 2018 in Atlanta, GA. The meeting will bring together data scientists and educators in academia and industry to learn about recent efforts in data science programs as well as in computing, statistics, and mathematics societies for broadening participation.  For more information, visit the event website.
 
-    We will take you on a journey from the early days of exploring the role of phosphorus on algal blooms and the value of whole-lake experimentation, to groundbreaking research on synthetic estrogen, reservoirs and dams, selenium and oil spills.
+    For this event, you have the option to register as an in-person participant or as a remote participant.  Please select the appropriate ticket type so we can get a correct head count! 
 
-    Key figures from the history of the site will be presenting, along with researchers who are now pushing the site, and its research portfolio, forward into the next 50 years.
+    Remote Participants: Instructions for accessing the webcast will be provided as the event approaches.  During the event, we encourage remote participants to send questions for the speakers to Ben Wender at bwender@nas.edu, who will read them out if time permits. Please note that the afternoon breakout session will not be webcast.  
 
-    Registration: 8:00-8:30 a.m.
 
-    Program: starts at 8:30 a.m.
 
-    Lunch: noon-1:00 p.m.
 
-    If you're an IISD-ELA alumnus, please then join us the day after to reunite with all of your alumni friends and celebrate your time at the world's freshwater laboratory. More details here.
+    ABOUT THE ROUNDTABLE
 
-    Please RSVP by Friday, September 7, 2018
-  url: https://www.eventbrite.ca/e/ela50-science-symposium-from-canadas-lakes-to-the-world-tickets-48130929907?aff=ebapi
+    This event is part of an ongoing series of roundtable meetings that take place approximately four times per year.  It is organized by the Committee on Applied and Theoretical Statistics in conjunction with the Board on Mathematical Sciences and Their Applications, the Computer Science and Telecommunications Board, and the Board on Science Education.  Learn more about the roundtable and watch videos of past meetings on the roundtable website.
+
+
+
+  url: https://www.eventbrite.com/e/engaging-women-and-minorities-in-data-science-education-registration-49054409058?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/47271589/176556831675/1/original.jpg?h=200&w=450&auto=compress&rect=0,22,1024,512&s=541628129c3725da2fbeee1886fdf4f0
-  starts: 2018-09-14T08:00:00.0000000
-  ends: 2018-09-14T17:00:00.0000000
-  venue: 204 Marshall McLuhan Hall (UMSU University Centre)
+  logo: https://cdn.evbuc.com/images/48357488/149533167984/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,4500,2250&s=f8be048d56b64456fb67c568bbc8a5e3
+  starts: 2018-09-17T10:00:00.0000000
+  ends: 2018-09-17T17:00:00.0000000
+  venue: Georgia Institute of Technology, Bill Moore Student Success Center, Press Room A/B
 - name: MarketWaves18
   description: >+
     MarketWaves18 presented by FreightWaves
@@ -1847,6 +1370,51 @@
   starts: 2018-11-12T07:00:00.0000000
   ends: 2018-11-13T16:00:00.0000000
   venue: Gaylord Texan Resort & Convention Center
+- name: Houston Techfest 2018
+  description: >-
+    Houston's Premier event for IT Professionals now in its 12th year.  
+
+    Over 50 sessions with some of the best Developers and trainers in the Houston Area and beyond.
+  url: https://www.eventbrite.com/e/houston-techfest-2018-tickets-47835956634?aff=ebapi
+  is-free: true
+  starts: 2018-09-29T08:00:00.0000000
+  ends: 2018-09-29T19:00:00.0000000
+  venue: San Jacinto College Central
+- name: 2018 North Dakota Water and Pollution Control Conference - Grand Forks
+  description: Annual Conference organized for educational and scientific advancement of water, wastewater, and stormwater systems.  Promoting and encouraging the exchanging of ideas and experience among attendees, protection of the public health, and operator education and certification.   
+  url: https://www.eventbrite.com/e/2018-north-dakota-water-and-pollution-control-conference-grand-forks-registration-46164115111?aff=ebapi
+  logo: https://cdn.evbuc.com/images/45553725/257197359451/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=b87a8d722d6fa36a6d66583e49bd1202
+  starts: 2018-10-16T13:30:00.0000000
+  ends: 2018-10-18T13:30:00.0000000
+  venue: Alerus Center
+- name: Austin Cybersecurity Conference 2018
+  description: >2-
+
+
+    2018 Austin Cybersecurity Conference
+
+    This conference qualifies for CPE credits!
+
+     Passes include a full lunch, entrance into the main conference room and all conference material.
+
+    Program Description: 
+
+    Data Connectors will be hosting the Austin Cybersecurity Conference on Thursday, September 27th. The event will start at 8:15 AM with a check-in and opening introductions before presentation sessions begin at 8:45. Between the educational sessions that go throughout the day, there will be time to visit vendor booths to obtain information regarding product and service offerings. 
+
+    Event Sponsors/Vendors include:
+
+
+
+    Click here for a full agenda
+
+
+
+    When you register to attend a Data Connectors vendor-sponsored conference, your event registration information is used to confirm registrations and may be used to send product information and promotional material. (Information may also be used to compile broad demographic information). As Data Connectors may disclose your event registration information to those vendors sponsoring the event, Data Connector's customer agreement with the Sponsor provides that the Sponsor (a) may use this information only to send you product information, to contact you via common methods of communication to assess your interest in its products and services, and (b) may share this information with a business partner, reseller or distributor of its products and services for the permitted marketing purposes set forth above. You should contact the Sponsor directly if you have any questions about their use of this information.
+  url: https://www.eventbrite.com/e/austin-cybersecurity-conference-2018-tickets-35738650265?aff=ebapi
+  logo: https://cdn.evbuc.com/images/32750584/103294445877/1/original.jpg?h=200&w=450&auto=compress&rect=176,0,816,408&s=f9a9d8ceafdb32f6f934b6a808d538d2
+  starts: 2018-09-27T08:00:00.0000000
+  ends: 2018-09-27T17:00:00.0000000
+  venue: The Driskill
 - name: UFSMA 2018
   description: "\nUFSMA 2018\n(Utah Floodplain & Stormwater Management Conference) \nThe Conference registration fee is $185.00 and will go up to $230.00 after August  1, 2018. Our conference fee is your annual membership fee for UFSMA, which includes your conference registration, sneak peek to yearly trainings and CFM examination dates. Registration includes all your materials, breakfasts, lunches, snacks, and business meeting meal. The UFSMA Annual Conference is always a informative conference with great speakers. We look forward to seeing you and hearing some fantastic presentations! \n \n \nCONFERENCE HOTEL\nThe conference hotel is the Marriott Springhill Suites in Moab, Utah\n1865 N Hwy 191\nMoab, UT 84532\n435-355.0042\nConference Hotel Registration  http://www.ufsma.org/ufsma-annual-conference.html\nThe beautiful Fairfield Inn & Suites & Springhill Suites is the closest hotel to Arches & Canyonlands National Park and the only in town property on the banks of the Colorado River.  We are conveniently located next door to Canyonlands by Night’s activity center where you can participate in their world famous sound & light show with an option of their Dutch oven BBQ dinner nightly (April – October). Moab is just minutes away where you will find a variety of dining options, shopping and outfitters ready to service your individual needs. Hiking and biking trails start outside our doors to Arches National Park, Scenic by way 128 as well as trails leading to Moab and Dead Horse State Park.  Whatever outdoor adventure you are looking for we have it here in Moab! \nAt the Fairfield Inn & Suites & Springhill Suites you can count on a friendly welcome, a room that’s clean and comfortable, great features and amenities and service that will make you want to return again and again.  Weare proud to offer daily conveniences that help you focus on the more important tasks at hand, from prepping for a major presentation to spending the day relaxing or simply unwind.\n  \n \n\n\n "
   url: https://www.eventbrite.com/e/ufsma-2018-tickets-42789984997?aff=ebapi
@@ -1854,21 +1422,135 @@
   starts: 2018-10-23T08:00:00.0000000
   ends: 2018-10-26T13:00:00.0000000
   venue: SpringHill Suites by Marriott Moab
-- name: Data Platform User Group (SQL, Azure, Dev, DBA)
-  description: "<p>Network, learn, ask a question, meet other data folk, get fed - these are all things that happen at PASS user group events. These events are a really great opportunity to socialise in an informal learning experience.</p> <p>Remember to tell your friends and the people you work with; make sure you register as soon as you can.</p> <p>17.30 – 18:00 – Networking.</p> <p>18:00 – 19:00 – Lightning Talks.</p> <p>19:00 – 19:20 – Break (food / drinks).</p> <p>19:20 – 20:20 – Family Bucket of SQL Nuggets.</p> <p>20:20 – 20:30 – Feedback (via online forms) then off t’pub.</p> <p>Lightning Talks<br/>How to architect an optimum Modern Data solution on Cloud<br/>Sherin Mathew (@SMdisrupt)</p> <p>AWS Glue - Let's get \"stuck\" in!<br/>Chris Taylor (@sqlgeordie)</p> <p>Enabling compression on large tables and LOB columns with zero downtime<br/>Sven Lowry (@sven_lowry)</p> <p>Family bucket of SQL nuggets<br/>A collection of tips, tricks, and myths covering the administration and development of SQL Server &amp; Azure. This talk is for anyone that works with SQL Server and includes topics such as squeezing the most out of your systems, understanding why your queries won’t run in parallel and simulating execution plans when your DBA won’t let you near production.</p> <p>About Phil<br/>After spending 14 years creating one of the world’s largest central healthcare systems, Phil Grayson (@databoffin) now works as a consultant for xTEN, where his varied but in-depth experience has helped to transform IT systems across Europe.</p> <p>He is also the co-founder of Aireforge, the creators of Aireforge Studio, a proud Friend of Redgate, organiser of Data &amp; Gravy, Leeds SQL User Group and a frequent volunteer at SQLBits</p> "
-  url: https://www.meetup.com/leeds_data_platform/events/253209929/
+- name: Breaking Boundaries in Water Research
+  description: >-
+    Join the Water Institute on Monday, September 24 for a full day of interdisciplinary dialogue around water research at the University of Waterloo. Water Institute members and international Water Institute board members, including 2016 Stockholm Water Prize winner Joan Rose and 2018 Stockholm Water Prize winner Mark van Loosdrecht, will share their latest research and open up new opportunities for discussion and collaboration. Students from the Collaborative Water Program will also share insights from Waterloo’s most interdisciplinary graduate program.
+
+    Conference Program
+
+
+    8:30-8:45 a.m. Welcome
+
+
+    8:45-9:30 a.m. Opening Keynote Lecture
+
+    Quantitative Microbial Risk Assessment for SanitationJoan Rose, Professor and Homer Nowlin Chair in Water Research, Michigan State University; 2016 Stockholm Water Prize Laureate
+
+
+    9:30-10:30 a.m. Human Health and Well-Being
+
+    The Dichotomies of Water and Well-BeingSusan Elliott, Professor, Geography and Environmental Management, University of Waterloo
+
+    We Want to Drink the Water and Drink The Fish: Community-Partnered Contaminant Research in Canada's NorthHeidi Swanson, Professor, Biology, University of WaterlooTo Water Through Governance: Consent-Based Collaboration to Protect WatersMerrell-Ann Phare, Executive Director, Centre for Indigenous Environmental Resources, Winnipeg
+
+
+    10:30-10:50 a.m. BREAK
+
+
+    10:50-11:35 a.m. Collaborative Water Program
+
+    Students will present outcomes of the Collaborative Water Program's WATER 602 course
+
+
+    11:35-12:35 p.m. Urban Water Systems
+
+    Robust Drinking Water SystemsPeter Huck, Professor, Civil and Environmental Engineering, University of Waterloo;  NSERC Industrial Research Chair in Water Treatment
+
+    Sustainable Nanomaterials for Wastewater Treatment ApplicationsMichael Tam, Professor, Chemical Engineering, University of Waterloo
+
+    Emerging Solutions to the Water Challenges of an Urbanizing WorldTove Larsen, Professor/Group Leader, Urban Water Management at Eawag, Switzerland
+
+
+    12:35-1:20 p.m. LUNCH
+
+
+    1:20-2:20 p.m. Watershed Management
+
+    River Damming and Carbon CyclingPhilippe Van Cappellen, Professor, Earth and Environmental Sciences, University of Waterloo; Canada Excellence Research Chair Laureate in Ecohydrology  
+
+    Global Drinking Water Security: Climate Change Threats and Adaptation StrategiesMonica Emelko, Professor, Civil and Environmental Engineering, University of Waterloo
+
+    The Complex Politics of Governing WatershedsWilliam Blomquist, Professor, Political Science, Indiana University - Purdue University Indianapolis
+
+
+    2:20-3:20 p.m. Blue Economy
+
+    Flood Risk Governance in a Changing ClimateJason Thistlewaite, Professor, Environment, Enterprise and Development, University of Waterloo
+
+    The Economics of Water Pollution Control and AbatementAlain-Désiré Nimubona, Professor, Economics, University of Waterloo
+
+    Working at the Intersection of Academic and Private Sector Research to Support the Blue Economy​Brenda Lucas, Executive Director, Southern Ontario Water Consortium
+
+
+    3:20-3:40 p.m. BREAK
+
+
+    3:40-4:40 p.m. Global Water Cycle
+
+    Nutrient Legacies in Anthropogenic Catchments: Implications for Water QualityNandita Basu, Professor, Civil and Environmental Engineering and Earth and Environmental Sciences, University of Waterloo
+
+    Coupled Hydrodynamic-Biogeochemical-Ice Modelling in Large LakesKevin Lamb, Professor, Applied Mathematics, University of Waterloo
+
+    Integrated Terrestrial Observatories - The New Initiatives TERENO, MOSES and eLTERGeorg Teutsch, Scientific Director, Helmholtz Centre for Environmental Research – UFZ, Germany
+
+
+    4:40-5:00 p.m. BREAK
+
+
+    5:00-6:15 p.m. Water Institute RBC Distinguished Lecture 2018*
+
+    The Future of Water: Innovation, Resource Recovery, and the Blue EconomyMark van Loosdrecht, 2018 Stockholm Water Prize Laureate; Professor, Department of Biotechnology, TU Delft, The Netherlands
+
+    *Free, public lecture. 
+
+
+    6:15-7:30 p.m. RECEPTION 
+  url: https://www.eventbrite.ca/e/breaking-boundaries-in-water-research-tickets-46627615453?aff=ebapi
+  logo: https://cdn.evbuc.com/images/46341834/184048946920/1/original.jpg?h=200&w=450&auto=compress&rect=138,0,1112,556&s=bda856717afe819ae26b2e047b9780b2
+  starts: 2018-09-24T08:00:00.0000000
+  ends: 2018-09-24T19:00:00.0000000
+  venue: Mike & Ophelia Lazaridis Quantum-Nano Centre (QNC)
+- name: 2018 Salt Lake County Watershed Symposium
+  description: >+
+    12th Annual Salt Lake County Watershed SymposiumNovember 14-15, 2018
+
+    Free and open to all, the Watershed Symposium encourages a comprehensive review of the current state of our watershed while creating learning and networking opportunities for a broad array of stakeholders. Sessions cover a broad range of topics on water quality and watershed issues with local, regional, and national relevance. 
+
+
+    Get involved!
+
+
+    Call For Abstracts is open
+
+    Reserve an info table for your organization
+
+    Bookmark the official event schedule and directory
+
+    Visit the archives to learn more about past Watershed Symposia
+
+    Questions? Contact Lynn: email | (385) 468-6643
+
+
+
+    Some of our favorite comments from last year...
+
+    "I always look forward to the Watershed Symposium. We are all in this together and we need to engage in opportunities for sharing and building connectivity so that we can effectively address the critical and timely needs that exist in our watershed given our growth projections and never ending need to build awareness. I love the networking potential and am very proud of the work that Salt Lake County is doing in this area." Lynn DeFreitas, FRIENDS of Great Salt Lake
+
+    "The Symposium is tremendously important to the future of all of Utah." -Zach Frankel, Utah Rivers Council
+
+    "The range of topics was very good and the overall quality of presentations was much better than most technical meetings I have attended recently. Thank you for a great symposium!"
+
+    "This is one of the best opportunities to network and build partnering relationships toward supporting a healthier watershed. The free admission and food makes it possible for all to attend and its timely content makes it appealing to an interesting cross-section of professions and disciplines. Great job!"
+
+    "Great location/facility, topics, presentation structure, opportunity to engage with fellow professionals and community. Seriously one of the best, well-run conferences I've ever attended. "
+
+
+  url: https://www.eventbrite.com/e/2018-salt-lake-county-watershed-symposium-registration-41151101051?aff=ebapi
   is-free: true
-  starts: 2018-09-06T16:30:00.0000000
-  ends: 2018-09-06T20:00:00.0000000
-  venue: Platform
-- name: Umbraco Meetup
-  description: '<p>Last months Bingo winners (More to come but no this month)<br/>- Enjoy Mug James Fisher<br/>- Jetbrains Key Matthew Mirzai<br/>- Umbraco T-shirt Sean Valentine</p> <p>This month brings two more great talks!</p> <p>- Tim Payne on Work life balance<br/>- Callum Whyte on Azure setups and tools</p> <p>See you on the 6th at Enjoy Digital.</p> '
-  url: https://www.meetup.com/umbLeeds/events/253407091/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2018-09-06T16:30:00.0000000
-  ends: 2018-09-06T19:30:00.0000000
-  venue: Enjoy Digital
+  logo: https://cdn.evbuc.com/images/44973894/151131221599/1/original.jpg?h=200&w=450&auto=compress&rect=330,226,2172,1086&s=dfc03ee046354e3f973a8eb9fa4a0380
+  starts: 2018-11-14T08:00:00.0000000
+  ends: 2018-11-15T16:00:00.0000000
+  venue: Utah Cultural Celebration Center
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804970/
@@ -1980,6 +1662,14 @@
   starts: 2018-09-19T18:00:00.0000000
   ends: 2018-09-19T20:00:00.0000000
   venue: York Hackspace
+- name: CodeUp Leeds Meetup
+  description: "<p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>This month we will be delivering the following sessions:<br/>- Beginner Session: Intro to Web Development<br/>- Beginner to Intermediate Session: Python II - IDEs, Virtual Environments and Flask (This session is ideal for people with some exposure to programming fundamentals.)<br/>- Learner led mentoring</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
+  url: https://www.meetup.com/CodeUp-Leeds/events/252949495/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
+  starts: 2018-09-20T17:45:00.0000000
+  ends: 2018-09-20T20:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxmbbc/
