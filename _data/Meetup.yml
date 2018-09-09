@@ -8,7 +8,7 @@
   venue: Drift In At fat Face
   endorsed: true
 - name: 'HaintonDotNet Leeds: Building Scalable & Resilient Web Apps with Azure'
-  description: "<p>Building web apps that are both scalable and resilient is challenging especially when you have an existing application that you need to change.</p> <p>This talk discusses scalability and resilience, the issues you could have and highlights some of the services within Azure that you can use to help.</p> <p>18:00 to 18:30: Pizzas and beers</p> <p>18:30 to 18:31: Intro to Hainton (yes literally 1 minute)</p> <p>18:31 to 19:30: Building Scalable &amp; Resilient Web Apps with Azure by Steve Spencer</p> <p>19:31 to 20:00: Networking, more pizza, more beer</p> <p>HaintonDotNet Yorkshire is a free event that takes place every other 2nd Tuesday of the month and is aimed at .NET professionals based in Yorkshire.</p> <p>There's a different topic covered every month; subjects in the past have included: RabbitMQ, .NET Core and Typescript.</p> <p>There's plenty of free beer and pizza too.</p> <p>Yes, we are a recruitment company but please don't be worried about any hard selling. We put these events on for visibility - not to promote ourselves or any vacancies we're working on.</p> <p>Here's a link to a tweet a previous speaker wrote about our events: <a href=\"https://twitter.com/ShahidDev/status/1034929243602513922\" class=\"linkified\">https://twitter.com/ShahidDev/status/1034929243602513922</a></p> <p>We hope to see you at this event or future ones.</p> "
+  description: "<p>Building web apps that are both scalable and resilient is challenging especially when you have an existing application that you need to change.</p> <p>This talk discusses scalability and resilience, the issues you could have and highlights some of the services within Azure that you can use to help.</p> <p>18:00 to 18:30: Pizzas and beers</p> <p>18:30 to 18:31: Intro to Hainton (yes literally 1 minute)</p> <p>18:31 to 19:30: Building Scalable &amp; Resilient Web Apps with Azure by Steve Spencer</p> <p>19:31 to 20:00: Networking, more pizza, more beer</p> <p>HaintonDotNet Yorkshire is a free event that takes place on the second Tuesday every other month and is aimed at .NET professionals based in Yorkshire.</p> <p>There's a different topic covered every month; subjects in the past have included: RabbitMQ, .NET Core and Typescript.</p> <p>There's plenty of free beer and pizza too.</p> <p>Yes, we are a recruitment company but please don't be worried about any hard selling. We put these events on for visibility - not to promote ourselves or any vacancies we're working on.</p> <p>Here's a link to a tweet a previous speaker wrote about our events: <a href=\"https://twitter.com/ShahidDev/status/1034929243602513922\" class=\"linkified\">https://twitter.com/ShahidDev/status/1034929243602513922</a></p> <p>We hope to see you at this event or future ones.</p> "
   url: https://www.meetup.com/HaintonDotNetYorkshire/events/253298136/
   is-free: true
   starts: 2018-09-11T17:00:00.0000000
@@ -77,6 +77,13 @@
   ends: 2018-09-17T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: 'Tech Contractor Networking: Leeds'
+  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
+  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/252829835/
+  is-free: true
+  starts: 2018-09-18T11:15:00.0000000
+  ends: 2018-09-18T11:45:00.0000000
+  venue: Banyan Bar Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804975/
@@ -125,6 +132,13 @@
   starts: 2018-09-20T18:00:00.0000000
   ends: 2018-09-20T21:00:00.0000000
   endorsed: true
+- name: HackSaturdays at York Hackspace
+  description: '<p>Why not pop down and say hello? There will be members attending to show you around or chat about the space and what people do here.</p> <p>Curious about what to bring?</p> <p>All you need is yourself, enthusiasm and curiosity. Feel free to bring a project, things to make, things to do, things you want help with, or things you just can’t find time to do elsewhere.</p> <p>What does the hackspace have to offer?</p> <p>You’ll be free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it’s more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you’re welcome to use. And a tuckshop!</p> '
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/254347076/
+  is-free: true
+  starts: 2018-09-22T09:00:00.0000000
+  ends: 2018-09-22T15:00:00.0000000
+  venue: York Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804976/
