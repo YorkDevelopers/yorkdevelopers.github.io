@@ -1,35 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/253804971/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-09-12T06:30:00.0000000
-  ends: 2018-09-12T09:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/253900243/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-09-12T07:00:00.0000000
-  ends: 2018-09-12T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: '.NET Conf 2018 '
-  description: "<p>We will be live streaming the .NET Conf 2018 from 17:00 as part of a \".NET Conf local event\".</p> <p>If you can't make it for 17:00 please feel free to turn up when you can, we'll be watching the keynote and hopefully a few of sessions which will hopefully spark some discussions!</p> <p>We'll then head off to Spark for a bit of socialzing, food and drinks.</p> <p>Agenda<br/>- \U0001F4E2 17:00 Keynote<br/>- \U0001F469‍\U0001F3EB 18:30 Sessions<br/>- \U0001F37B 20:30 Spark (Food, Drinks)</p> <p>.NET Conf is a FREE, 3 day virtual developer event co-organized by the .NET community and Microsoft.</p> <p><a href=\"https://www.dotnetconf.net/\" class=\"linkified\">https://www.dotnetconf.net/</a></p> "
-  url: https://www.meetup.com/dotnetYork/events/253417956/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2018-09-12T16:00:00.0000000
-  ends: 2018-09-12T19:30:00.0000000
-  venue: Stonegate Yard Bar & Brasserie
-- name: York Hackspace Open Evening
-  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
-  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/254095843/
-  is-free: true
-  starts: 2018-09-12T18:00:00.0000000
-  ends: 2018-09-12T20:00:00.0000000
-  venue: York Hackspace
 - name: Leeds Blockchain Meetup - Evening Event 13th September 2018
   description: '<p>• Reception 18:00<br/>• Start: 18:30<br/>• Networking: 20:00 onwards</p> <p>The next event in the planned regular evening meetups for the group at a new venue – Northern Monk Brew Co, Marshalls Mill, Leeds, LS11 9YJ.</p> <p>This event will feature presentations from individuals at the vanguard of distributed ledger technology:</p> <p>• Introducing DCDC, the Leeds based blockchain smart contract platform that’s owned by you</p> <p>• Real-world traps and tricks of creating an ICO (Programmis.com - Leeds)</p> <p>• Leeds Blockchain Hackathon 16/17/18 November</p> <p>The talks will be no more than 20 mins with 10 mins of Q &amp; A each.</p> <p>We want to thank the team at AMSource Technology for their continued support of our events.</p> <p><a href="https://www.amsourcetechnology.com" class="linkified">https://www.amsourcetechnology.com</a></p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/253839931/
@@ -125,6 +93,13 @@
   starts: 2018-09-22T09:00:00.0000000
   ends: 2018-09-22T15:00:00.0000000
   venue: York Hackspace
+- name: Planning a new bot framework
+  description: '<p>Will meet up with a set of tables neighbouring each other for discussion. Laptops and paper to draw ideas and show proof of concept.</p> '
+  url: https://www.meetup.com/Bot-framework-development-meetup/events/254283188/
+  is-free: true
+  starts: 2018-09-23T10:00:00.0000000
+  ends: 2018-09-23T13:00:00.0000000
+  venue: Starbucks - Bridgewater place
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804976/
@@ -143,6 +118,37 @@
   ends: 2018-09-26T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxmbjc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-09-26T07:00:00.0000000
+  ends: 2018-09-26T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: An introduction to sketchnotes
+  description: "<p>An introduction to sketchnotes</p> <p>Within our projects; visual thinking, sketching, and note taking, are all important tools we could be better utilising.</p> <p>This interactive workshop will have you thinking and documenting ideas in a more illustrative way. Capturing what you are hearing, thinking, or talking about to be more memorable for yourselves and maybe even more relatable to others.</p> <p>We’ll have a background to visual thinking, play around using shapes/fonts/images, and then practice what we’ve learnt by sketchnoting another talk.</p> <p>Wee disclaimer; this is about visualising ideas. It truly doesn’t matter if you’re the next Picasso or can’t actually draw for toffee.</p> <p>About Matt Stroud</p> <p>Matt is a user centric Business Analyst at the City of York Council, a University of Wales Bangor graduate, and a big professional wrestling nerd.</p> <p>He has worked at the authority for over 10 years with roles ranging from managing the mobile working estate, through to successfully project managing a wide range of technical projects.</p> <p>Away from the office Matt is an organising member of NUX (Northern User Experience – nuxuk.org). A not for profit group who arrange and run meetups and events for fellow usability and design enthusiasts across the North of England.</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
+  url: https://www.meetup.com/agileYork/events/254537458/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2018-09-26T17:30:00.0000000
+  ends: 2018-09-26T19:30:00.0000000
+  venue: York St.John University
+- name: September - Blair Garrett & Ian Thomas
+  description: "<p>Join us to hear from Blair Garrett and Ian Thomas, as well as a chance to win a code for a year subscription for a Jetbrains toolbox product of your choice!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Blair Garrett - One way to blog with Ghost Blog<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Ian Thomas - Programming Safely With Types<br/>8:20 - 9:00: Social &amp; point that people can leave<br/>--------------<br/>Talks:<br/>Blair Garrett - One way to blog with Ghost Blog<br/>When I wanted to set up a blog, I didn't know what to use. After weighing up the options I settled on using Ghost. In this talk, I'll discuss my reasons for choosing Ghost, as well as how I set up and hosted my own instance. By the end of the talk, I hope you'll have the same love of Ghost as I do and will want to set up your own instance!</p> <p>Ian Thomas - Programming Safely With Types<br/>When people talk about types they tend to think about type systems or, more specifically, static type systems. In JavaScript this landscape has been dominated by TypeScript and Flow with some minority adoption of statically typed functional programming languages that compile to JS (like Elm or PureScript). The benefits of static types are well documented, notably better IDE integration/tooling and the ability to catch a certain classification of bugs at compile time, not run time. An often overlooked part of this puzzle is there is still a lack of type checking at run time, so no matter how well defined our programs, there’s every chance that an external source can provide us with data that causes our program to explode.</p> <p>But, all hope is not lost! What if we could use some of the core features of JavaScript to provide runtime guarantees as to the correctness of our software? Even if you aren’t using TypeScript…<br/>--------------<br/>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href=\"https://leedsjs.github.io/code-of-conduct/\" class=\"linkified\">https://leedsjs.github.io/code-of-conduct/</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/254472923/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2018-09-26T17:45:00.0000000
+  ends: 2018-09-26T20:00:00.0000000
+  venue: Platform
+- name: York Hackspace Open Evening
+  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxmbjc/
+  is-free: true
+  starts: 2018-09-26T18:00:00.0000000
+  ends: 2018-09-26T20:00:00.0000000
+  venue: York Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/254576558/
@@ -586,6 +592,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-03-04T07:30:00.0000000
   ends: 2019-03-04T10:30:00.0000000
+  venue: Drift In At fat Face
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzfbjb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-03-06T07:30:00.0000000
+  ends: 2019-03-06T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
 - name: Game Developers, Monthly Meeting
