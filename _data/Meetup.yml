@@ -1,19 +1,3 @@
-- name: Leeds Blockchain Meetup - Evening Event 13th September 2018
-  description: '<p>• Reception 18:00<br/>• Start: 18:30<br/>• Networking: 20:00 onwards</p> <p>The next event in the planned regular evening meetups for the group at a new venue – Northern Monk Brew Co, Marshalls Mill, Leeds, LS11 9YJ.</p> <p>This event will feature presentations from individuals at the vanguard of distributed ledger technology:</p> <p>• Introducing DCDC, the Leeds based blockchain smart contract platform that’s owned by you</p> <p>• Real-world traps and tricks of creating an ICO (Programmis.com - Leeds)</p> <p>• Leeds Blockchain Hackathon 16/17/18 November</p> <p>The talks will be no more than 20 mins with 10 mins of Q &amp; A each.</p> <p>We want to thank the team at AMSource Technology for their continued support of our events.</p> <p><a href="https://www.amsourcetechnology.com" class="linkified">https://www.amsourcetechnology.com</a></p> '
-  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/253839931/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/d/c/thumb_474486620.jpeg
-  starts: 2018-09-13T17:00:00.0000000
-  ends: 2018-09-13T20:00:00.0000000
-  venue: Northern Monk Brewing Co - The Old Flax Store
-- name: MagentoYork - September Meetup - Lightning Talks
-  description: '<p>In a series of short talks we discuss the latest happenings of Magento 2.</p> '
-  url: https://www.meetup.com/Magento-York/events/252206752/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/2/3/thumb_444120291.jpeg
-  starts: 2018-09-13T18:00:00.0000000
-  ends: 2018-09-13T20:00:00.0000000
-  venue: The Cross Keys
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/253677501/
@@ -49,7 +33,7 @@
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxmbzb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/254645277/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
   starts: 2018-09-19T07:00:00.0000000
@@ -65,19 +49,11 @@
   venue: Platform
 - name: York Hackspace Open Evening
   description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
-  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxmbzb/
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/254661457/
   is-free: true
   starts: 2018-09-19T18:00:00.0000000
   ends: 2018-09-19T20:00:00.0000000
   venue: York Hackspace
-- name: CodeUp Leeds Meetup
-  description: "<p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>This month we will be delivering the following sessions:<br/>- Beginner Session: Intro to Web Development<br/>- Beginner to Intermediate Session: Python II - IDEs, Virtual Environments and Flask (This session is ideal for people with some exposure to programming fundamentals.)<br/>- Learner led mentoring</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
-  url: https://www.meetup.com/CodeUp-Leeds/events/252949495/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
-  starts: 2018-09-20T17:45:00.0000000
-  ends: 2018-09-20T20:00:00.0000000
-  venue: 3rd Floor, Apsley House
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxmbbc/
@@ -93,13 +69,6 @@
   starts: 2018-09-22T09:00:00.0000000
   ends: 2018-09-22T15:00:00.0000000
   venue: York Hackspace
-- name: Planning a new bot framework
-  description: '<p>Will meet up with a set of tables neighbouring each other for discussion. Laptops and paper to draw ideas and show proof of concept.</p> '
-  url: https://www.meetup.com/Bot-framework-development-meetup/events/254283188/
-  is-free: true
-  starts: 2018-09-23T10:00:00.0000000
-  ends: 2018-09-23T13:00:00.0000000
-  venue: Starbucks - Bridgewater place
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804976/
@@ -149,6 +118,21 @@
   starts: 2018-09-26T18:00:00.0000000
   ends: 2018-09-26T20:00:00.0000000
   venue: York Hackspace
+- name: 1. From Monolith to Microservice using Azure - 2. What's New in C#8
+  description: "<p>We have two amazing talks lined up for you this month!</p> <p>Our first speaker is Callum Whyte, a senior .NET developer for The Cogworks in London. He is currently leading the team building an app to monitor blood pressure in pregnancy for the NHS utilising some of the latest tech: Xamarin, microservices with Azure Functions and .NET Core.</p> <p>Talk Abstract:</p> <p>How do you scale an over engineered monolith intended for millions of users?<br/>How do you fix bugs and add new features to a codebase that's impossible to understand?<br/>How can you avoid rewriting everything yet make the application perform as it was intended?<br/>How do you do all of this while the app is LIVE and being used by many users every day?<br/>The answer: restructure it into small maintainable chunks – microservices!</p> <p>Callum will discuss the process he followed to transition an app for the NHS into a majestically constructed microservices architecture, the lessons learnt and pain points felt along the way.</p> <p>We'll take a look at the infrastructure components you can use with limited knowledge to get started using microservices, focusing on utilising Azure Functions and API Management Gateway to build a large API.</p> <p>Finally we'll take a look into the code and have a look at the iterative changes we had to make to ensure our old monolithic app could scale, such as building a new authentication \"service\" based on IdentityServer and restructuring specific components into Azure Functions!</p> <p>Our second speaker is Tom Parrish, one of Crisp's Senior Developers. C# is constantly evolving so you can write the most advanced coding of your career. With C#8 rumoured to launch later this year, Tom will guide you through the key features and share ideas on how you can use them in 2019.</p> "
+  url: https://www.meetup.com/Leeds-Sharp/events/249898068/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2018-09-27T17:30:00.0000000
+  ends: 2018-09-27T20:00:00.0000000
+  venue: Platform
+- name: Leeds Ruby Thing meetup
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are sometimes one or two short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  url: https://www.meetup.com/LeedsRubyThing/events/254260058/
+  is-free: true
+  starts: 2018-09-27T18:30:00.0000000
+  ends: 2018-09-27T22:30:00.0000000
+  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/254576558/
