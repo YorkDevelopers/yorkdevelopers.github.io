@@ -259,6 +259,12 @@ section.blog_index {
 section.blog_index h2 {
     color: #fff
 }
+
+section.donate {
+    background: #4800FF;
+    color: #fff
+}
+
 section.counters_up {
     background: #4800FF;
     color: #fff
@@ -368,6 +374,20 @@ section.events-odd {
 #blog-index .blog_image {
     float:right;
 }
+
+
+
+#donate .donate-item {
+    margin: 0 0 15px;
+    right: 0
+}
+#donate .donate-item .donate-link {
+    max-width: 400px;
+    margin: 0 auto;
+    color: #4800FF;
+    font-size: 40px;    
+}
+
 
 
 section.our_posts a {
@@ -766,3 +786,16 @@ fieldset[disabled] .btn-success:hover {
      margin: 0 auto;
      max-width: 800px; 
 }
+
+
+.button {
+    background-color: #FFD800;
+    border: none;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+}
+
+.button1 {border-radius: 4px;}
