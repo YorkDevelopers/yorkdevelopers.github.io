@@ -37,27 +37,6 @@
   starts: 2019-05-08T10:00:00.0000000
   ends: 2019-05-09T19:00:00.0000000
   venue: Mayo Civic Center Auditorium
-- name: Southern Fried Agile 2018
-  description: >-
-    Our Southern Fried Agile family of Analysts, Developers, Executives, Scrum Masters, Coaches, and Teams are excited about the learning and collaborative opportunities afforded at SFA 2018,
-
-    Not to mention our traditional southern fried chicken lunch.... including other options as well.
-
-    Opening Keynote Speaker - Leaonard Wheeler
-
-    Accomplished personal/executive coach and highly sought after speaker Leonard Wheeler describes himself as "a southern boy with roots in Toccoa, Georgia". But, his competitive spirit, power to persuade and infectious personality has taken him all over the country. From playing football in the NFL, addressing high-power corporations and serving as a personal coach for top executives to supporting survivors of the Columbine tragedy and starring in local and national commercials, TV shows, and movies, Leonard’s success is well documented.
-
-    Lunch Keynote Speaker - Dave West
-
-    Dave West is the Product Owner and CEO at scrum.org. He is a frequent keynote speaker and is a widely published author of articles. He also is the co-author of two books, The Nexus Framework For Scaling Scrum and Head First Object-Oriented Analysis and Design. He led the development of the Rational Unified Process (RUP) and then worked with Ivar Jacobson running the North American business for IJI. Then managed the software delivery practice at Forrester research where he was VP and research director. Prior to joining Scrum.org he was Chief Product Officer at Tasktop where he was responsible for product management, engineering and architecture.
-
-    Join us and your agile colleagues for Southern Fried Agile 2018.September 14th at the Charlotte Convention Center!
-
-    http://southernfriedagile.com
-  url: https://www.eventbrite.com/e/southern-fried-agile-2018-registration-47572977055?aff=ebapi
-  starts: 2018-11-14T07:30:00.0000000
-  ends: 2018-11-14T16:00:00.0000000
-  venue: Charlotte Convention Center
 - name: 2018 Rockwell Technical Network
   description: "Welcome to the Rockwell Automation Technical Network (RTN) Event Registration\nEvery year employees related to manufacturing, reliability, development and quality are encouraged to attend the RTN event in Milwaukee to network, learn and take information and improvements back to their business. The underlying goal is to understand our materials, challenges and processes, and share that knowledge so our Business Units can learn from each other and avoid making the same mistakes.  This year's Keynote Speaker is Blake Moret, Chairman and CEO, Rockwell Automation. \nOur labs are outfitted as well (if not better) than the best television crime solving shows. This is advanced science and it all relates to chemistry – how the materials that become our products (or used in making our products) are sourced, applied and supported. \n5 Reasons to Attend\n\n\nLearn what’s new in forensic analysis – what we know and are learning about our materials, why they work and why they fail. \n\n\nSave time and effort. Don’t repeat mistakes. Talk to colleagues and find out what they’ve learned, and apply it locally. \n\n\nHear stories from the ‘bizarre and strange’ file. A little levity you don’t want to miss.\n\n\nMeet your colleagues. They can help you. \n\n\nGet key messages straight from leaders (CEO Blake Moret will talk about how materials bring The Connected Enterprise to life).\n\n\nFurther information regarding the goals of RTN and examples of past presentations, can be found by following this link: https://rockwellautomation.sharepoint.com/teams/OESES_ATS/C_ME/SitePages/RTN.aspx\nKeynote Speaker\n\nBlake Moret is Chairman and Chief Executive Officer of Rockwell Automation. He assumed the role of CEO on July 1, 2016 and was elected Chairman of the Board effective January 1, 2018.  \nAs CEO, Blake leads the world’s largest company focused on industrial automation and information, dedicated to making our customers more productive and the world more sustainable.  \n\n\nAgenda\n Tuesday, October 9, 2018 \n7:30 AM - Gather/Light Breakfast/Coffee\n8:00 AM - Welcome & Introductions - Tim Roback, Manager, C&ME\n8:15 AM - Materials & The Connected Enterprise - Blake Moret, Chairman & CEO\n8:45 AM - Guest Introductions - Tim Roback, Manager, C&ME\n9:00 AM - Conducting Failure Analysis of Plastic Parts - Steven Hahn, Project Chemist\n9:55 AM - TBD - Roy Rice, Senior Project Engineer\n10:15 AM - Break\n10:30 AM - Caution when Using Breakaway Torque to Verify if Production Assembled a Unit Properly - Walter Lehnhoff, Project Engineer\n10:50 AM - A Case of Gold Embrittlement: Let’s Forget the Lessons of the Past - Parker Jacobson, Intern, Rockwell Collins\n11:05 AM - Characterization of Soldered Plated Through Holes (PTHS) and Gold Embrittlement Conditions Dave Hillman, Fellow, Materials & Process Engineer \n12:00 PM - Lunch\n1:00 PM - Solder Artifacts in Catastrophic Failures - TJ Cross, Materials Engineer\n1:40 PM - Failure Analysis of Brake Resistor - Pratheesh George, Senior Materials Engineer\n2:00 PM - Break\n2:15 PM - Placement and Protection: Corrosion Analysis on Rockwell Products that Underwent Battelle Labs Mixed Flowing Gas Class IV (\"GX\") Testing - David Daigle, Project Engineer\n2:45 PM - Tire & Rubber Testing Update - Christopher Genthe, Principal Engineer & Kelly Flanagan, Project Chemist\n4:25 PM - Wrap Up\n4:30 - 5:45 PM - Clock Tower Reception \nWednesday, October 10, 2018 \n7:30 AM - Gather/Light Breakfast/Coffee\n8:00 AM - Welcome Back, Review Agenda - Tim Roback, Manager, C&ME\n8:15 AM - Grey Market Update/Challenges - John M. Miller, VP & Chief Counsel, IP\n8:55 AM - The New J-STD-001 Section 8 - Doug Pauls, Principal Materials & Process Engineer\n9:40 AM - Development of a New Process Evaluation Tool - Joe Waggoner Intern, Rockwell Collins\n9:55 AM - Break\n10:10 AM - GCMS Theory, Instrumentation and Applications - Kelly Flanagan, Project Chemist & Kelly Allen,     Chemist\n11:05 AM - Challenges and Best Practices in Mixed Flow Gas Corrosion Testing of Electronics - Garron Morris, Principal Engineer\n12:00 PM  - Lunch\n12:45 PM - Dielectric Breakdown in Medium Voltage Applications - Catalin Gemanaru,Technical Consultant\n1:25 PM - Failure Analysis Case Studies in the Realm of Manufacturing and Design - Daniel Kaminski, Materials Engineer\n1:45 PM - Wrap Up & Close - Timothy Roback Manager, C&ME\n2:00 PM - Tours of C&ME Labs, HCL, Mixed Flowing Gas Test Lab & Customer Experience Center"
   url: https://www.eventbrite.com/e/2018-rockwell-technical-network-registration-46232743380?aff=ebapi
@@ -66,38 +45,6 @@
   starts: 2018-10-09T07:30:00.0000000
   ends: 2018-10-10T14:00:00.0000000
   venue: Rockwell Automation - Milwaukee HQ
-- name: Women in Tech Summit
-  description: >+
-    Capital Factory, in partnership with Women@Austin and DivInc, welcomes you to our second annual Women in Tech Summit, kicking off Austin Startup Week on October 1, 2018. 
-
-    Capital Factory is committed to increasing diversity in the tech community and making our coworking space an inclusive and welcoming environment. The Women in Tech Summit is a day full of programming to help inspire, engage and elevate female entrepreneurs and tech professionals through insightful panels, interactive workshops, our $100K Pitch Challenge Competition and a fireside chat with Bumble COO Sarah Jones Simmer who is also leading the newly launched Bumble Fund to invest in women founders.
-
-    The Summit will also include Investor Office Hours for female founders. Apply here to meet with venture capitalists and angel investors about your startup during the Women in Tech Summit! 
-
-
-    WHO IS THE EVENT FOR?
-
-    Women leaders in tech, female founders, and the men and women who support and invest in them. 
-
-
-    AGENDA
-
-    9:00 AM: Registration + Breakfast 9:45 AM - 10:00 AM: Opening Remarks 10:00 AM - 11:00 AM: Session 1: Leading the Team: Being the Boss11:00 AM - 12:00 PM: Session 2.1: Advocating For Yourself11:00 AM - 12:00 PM: Session 2.2: How to Raise Seed Capital 12:00 PM - 1:30 PM Lunch1:30 PM - 3:00 PM Session 3.1: Google Workshop1:45 PM - 2:45 PM Session 3.2: Women in Deep Tech3:00 PM - 3:45 PM: $100K Investment Challenge Pitches4:00 PM - 4:30 PM: Sarah Jones Simmer Fireside Chat4:30 PM - 4:45 PM: $100K Winner Announced4:45 PM - 5:00 PM: Closing Remarks5:00 PM: Austin Startup Week Happy Hour
-
-
-    FEATURING...
-
-
-
-
-    SPECIAL THANKS TO OUR PARTNERS...
-
-  url: https://www.eventbrite.com/e/women-in-tech-summit-tickets-48659279214?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48646135/1845645712/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=84969454fca59b1aef7d36a484ad2fd6
-  starts: 2018-10-01T09:00:00.0000000
-  ends: 2018-10-01T17:00:00.0000000
-  venue: Capital Factory
 - name: Coopérathon 2018 - CANADA
   description: >-
     *** ENGLISH BELOW ***
@@ -195,20 +142,38 @@
   starts: 2018-09-26T18:00:00.0000000
   ends: 2018-11-01T21:00:00.0000000
   venue: Plusieurs villes canadiennes / Many Canadian cities
-- name: Iowa Technology Summit Powered by Wellmark
-  description: >-
-    The Iowa Technology Summit Powered by Wellmark will unite Iowa’s technology community in an event to educate and connect current and future IT leaders.  The Iowa Technology Summit Powered by Wellmark will convene creators and consumers of technology from Startups to Fortune 500 companies including technology executives and their teams from such industries as technology, manufacturing, agriculture, insurance, financial services, and healthcare. This day-long event is designed for the sharing of ideas and real-world experiences, with a goal of elevating Iowa's technology industry.
+- name: Women in Tech Summit
+  description: >+
+    Capital Factory, in partnership with Women@Austin and DivInc, welcomes you to our second annual Women in Tech Summit, kicking off Austin Startup Week on October 1, 2018. 
 
-    The Iowa Technology Summit Powered by Wellmark kicks off with the Opening Party Powered by Nutanix on Monday evening, October 1st, followed by a full day of high-impact, engaging content and conversation on October 2nd.
+    Capital Factory is committed to increasing diversity in the tech community and making our coworking space an inclusive and welcoming environment. The Women in Tech Summit is a day full of programming to help inspire, engage and elevate female entrepreneurs and tech professionals through insightful panels, interactive workshops, our $100K Pitch Challenge Competition and a fireside chat with Bumble COO Sarah Jones Simmer who is also leading the newly launched Bumble Fund to invest in women founders.
 
-    Visit IowaTechSummit.com for more details, event updates, and agenda.
+    The Summit will also include Investor Office Hours for female founders. Apply here to meet with venture capitalists and angel investors about your startup during the Women in Tech Summit! 
 
-    Valuable Sponsorship Opportunities are Still Available: Contact Tyler Wyngarden for more information at tyler@technologyiowa.org.
-  url: https://www.eventbrite.com/e/iowa-technology-summit-powered-by-wellmark-registration-45898842674?aff=ebapi
-  logo: https://cdn.evbuc.com/images/44602283/183852245582/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0eaf869b0f921ec55d1526e7fb4cef4f
-  starts: 2018-10-02T07:30:00.0000000
-  ends: 2018-10-02T16:30:00.0000000
-  venue: Community Choice Credit Union Convention Center
+
+    WHO IS THE EVENT FOR?
+
+    Women leaders in tech, female founders, and the men and women who support and invest in them. 
+
+
+    AGENDA
+
+    9:00 AM: Registration + Breakfast 9:45 AM - 10:00 AM: Opening Remarks 10:00 AM - 11:00 AM: Session 1: Leading the Team: Being the Boss11:00 AM - 12:00 PM: Session 2.1: Advocating For Yourself11:00 AM - 12:00 PM: Session 2.2: How to Raise Seed Capital 12:00 PM - 1:30 PM Lunch1:30 PM - 3:00 PM Session 3.1: Google Workshop1:45 PM - 2:45 PM Session 3.2: Women in Deep Tech3:00 PM - 3:45 PM: $100K Investment Challenge Pitches4:00 PM - 4:30 PM: Sarah Jones Simmer Fireside Chat4:30 PM - 4:45 PM: $100K Winner Announced4:45 PM - 5:00 PM: Closing Remarks5:00 PM: Austin Startup Week Happy Hour
+
+
+    FEATURING...
+
+
+
+
+    SPECIAL THANKS TO OUR PARTNERS...
+
+  url: https://www.eventbrite.com/e/women-in-tech-summit-tickets-48659279214?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48646135/1845645712/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=84969454fca59b1aef7d36a484ad2fd6
+  starts: 2018-10-01T09:00:00.0000000
+  ends: 2018-10-01T17:00:00.0000000
+  venue: Capital Factory
 - name: Thrival Presents LIFE.CODE
   description: >
     What makes us human?
@@ -270,6 +235,20 @@
   starts: 2018-09-19T17:00:00.0000000
   ends: 2018-09-20T23:00:00.0000000
   venue: Multiple locations
+- name: Iowa Technology Summit Powered by Wellmark
+  description: >-
+    The Iowa Technology Summit Powered by Wellmark will unite Iowa’s technology community in an event to educate and connect current and future IT leaders.  The Iowa Technology Summit Powered by Wellmark will convene creators and consumers of technology from Startups to Fortune 500 companies including technology executives and their teams from such industries as technology, manufacturing, agriculture, insurance, financial services, and healthcare. This day-long event is designed for the sharing of ideas and real-world experiences, with a goal of elevating Iowa's technology industry.
+
+    The Iowa Technology Summit Powered by Wellmark kicks off with the Opening Party Powered by Nutanix on Monday evening, October 1st, followed by a full day of high-impact, engaging content and conversation on October 2nd.
+
+    Visit IowaTechSummit.com for more details, event updates, and agenda.
+
+    Valuable Sponsorship Opportunities are Still Available: Contact Tyler Wyngarden for more information at tyler@technologyiowa.org.
+  url: https://www.eventbrite.com/e/iowa-technology-summit-powered-by-wellmark-registration-45898842674?aff=ebapi
+  logo: https://cdn.evbuc.com/images/44602283/183852245582/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0eaf869b0f921ec55d1526e7fb4cef4f
+  starts: 2018-10-02T07:30:00.0000000
+  ends: 2018-10-02T16:30:00.0000000
+  venue: Community Choice Credit Union Convention Center
 - name: dsmAgile Fall 2018
   description: >-
     dsmAgile Fall 2018
@@ -297,42 +276,14 @@
   starts: 2018-10-20T07:45:00.0000000
   ends: 2018-10-20T17:00:00.0000000
   venue: J. Harold Harrison MD, Education Commons
-- name: Atlanta Cybersecurity Conference 2018
-  description: >2-
-
-
-    2018 Atlanta Cybersecurity Conference
-
-     
-
-    This conference qualifies for CPE credits!
-
-     
-
-     Passes include a full lunch, entrance into the main conference room and all conference material.
-
-     
-
-    Program Description: 
-
-    Data Connectors will be hosting the Atlanta Cybersecurity Conference on Thursday, September 20th. The event will start at 8:15 AM with a check-in and opening introductions before presentation sessions begin at 8:45. Between the educational sessions that go throughout the day, there will be time to visit vendor booths to obtain information regarding product and service offerings. 
-
-     
-
-    Event Sponsors/Vendors include:
-
-
-
-    Click here for a full agenda
-
-
-
-    When you register to attend a Data Connectors vendor-sponsored conference, your event registration information is used to confirm registrations and may be used to send product information and promotional material. (Information may also be used to compile broad demographic information). As Data Connectors may disclose your event registration information to those vendors sponsoring the event, Data Connector's customer agreement with the Sponsor provides that the Sponsor (a) may use this information only to send you product information, to contact you via common methods of communication to assess your interest in its products and services, and (b) may share this information with a business partner, reseller or distributor of its products and services for the permitted marketing purposes set forth above. You should contact the Sponsor directly if you have any questions about their use of this information.
-  url: https://www.eventbrite.com/e/atlanta-cybersecurity-conference-2018-tickets-35737642250?aff=ebapi
-  logo: https://cdn.evbuc.com/images/32749095/103294445877/1/original.jpg?h=200&w=450&auto=compress&rect=176,0,816,408&s=b553ae3e9edecc1f05f4140eceec0074
-  starts: 2018-09-20T08:00:00.0000000
-  ends: 2018-09-20T17:00:00.0000000
-  venue: InterContinental® Buckhead Atlanta
+- name: Collaboratorium Networking & Pitch Event
+  description: "Collaboratorium Networking and Pitch Event\nThe Collaboratorium unites UChicago students with researchers, technologists, and faculty who want to explore the commercialization opportunities and business applications for their work. Attend this event if you have skills you can contribute to a team, if you’re interested in joining a team, if you want to learn about cutting-edge research, or if you have an idea that you would like to share with others. Click the registration link to review the event schedule, which will include networking and pitches by researchers. Pizza will be provided. \nSchedule:  4:45: Registration 5:00: Welcome + Pitches 5:45 Open Networking"
+  url: https://www.eventbrite.com/e/collaboratorium-networking-pitch-event-tickets-45857043652?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49048878/184066605672/1/original.jpg?h=200&w=450&auto=compress&rect=168,0,752,376&s=adcbecb6fbcf16f3c79ac2b5b2337b1f
+  starts: 2018-09-25T17:00:00.0000000
+  ends: 2018-09-25T18:30:00.0000000
+  venue: Harper Center Room 104
 - name: '2018 Texas Bigfoot Conference '
   description: "The Texas Bigfoot Research Center celebrates the Original Texas Bigfoot Conference held on September 15, 2001 with this year's event to be held October 19 & 20, 2018. \nOctober 20th, 2018 marks the 51st anniversary of the famous Patterson-Gimlin Bigfoot film. \nEstablished in 2001 as the original annual Bigfoot Conference in Texas by the Texas Bigfoot Research Center. \nConfirmed Speakers: \nBob Gimlin \nDr. Jeff Meldrum \nLyle Blackburn \nKen Gerhard \nNick Redfern \nShelly Covington-Montana \nSchedule of Events \nFriday, October 19\n7:00-10:00 PM Bob Gimlin Tribute Dinner\n7:00-8:30 Catered Italian dinner by Claiborne House\n8:30-9:00 PM Bob Gimlin Presentation\n9:00-10:00 PM Special Presentation - Dr. Jeff Meldrum: 51 Years with Patty - Significance of the Patterson-Gimlin Bigfoot Film \nSaturday, October 20\n9:00 AM - 5:00 PM Texas Bigfoot Conference\n6:00-10:00 Saturday Night\n6:00-8:00 PM Meat n' Greet Dinner with the Speakers\nCatered Cajun dinner by Claiborne House\n8:00-9:00 PM Special Presentation - Lyle Blackburn: Fouke Monster and Boggy Creek Updates\n9:00-10:00 PM Special Screening\n Host hotel: Executive Inn & Suites 200 South Walcott, Jefferson, Texas 75657 903-665-3700 \nFacebook page\nTerms & ConditionsBy purchasing a ticket to the event you accept the terms and conditions below for you and anyone in your group.Non-refundable ticketsAll tickets are non-refundable unless the event is cancelled. All sales final. If unable to attend, tickets are tranferable with prior notification to conference organizer. Presenters and presentation topics are subject to change depending on individual schedules and unforeseen conflicts.Event CancellationIn the unlikely event of cancellation of the event, the maximum liability shall be limited to full refund of conference registration fee paid at the time of booking, with no additional liability whatsoever to the conference organizers and presenters.IndemnificationThe conference organizers and presenters accepts no responsibility for loss or damage to personal property. Purchaser shall indemnify the Texas Bigfoot Research Center, The City of Jefferson, and any participating hosts, speakers, or any directly invited participant appearing at the event from and against all liability in respect of any costs, claims, damages, demands, penalties, actions, proceedings, suits, losses or expenses in respect of any and all claims, losses, costs, damages of any nature whatsoever, including but not limited to claims arising out of the injury to or the death of any person, or damage to any property arising from my participation in the activity."
   url: https://www.eventbrite.com/e/2018-texas-bigfoot-conference-tickets-39489075889?aff=ebapi
@@ -340,51 +291,21 @@
   starts: 2018-10-19T19:00:00.0000000
   ends: 2018-10-20T22:00:00.0000000
   venue: Jefferson Tourism and Visitor Center
-- name: Capital Factory + The DEC Community Showcase Happy Hour!
-  description: >-
-    Capital Factory + The DEC are throwing a Big Tex afFAIR!
-
-    Join us as we celebrate Capital Factory and the DEC's newest location in Uptown Dallas. We're so excited to continue bridging the connection of the startup ecosystem across Texas that we're bringing up a bus full of our members, mentors, and investors. 
-
-    RSVP for entry to this fun-filled evening of programming. In addition to mentoring, fundraising talks, games, food, and bar, we'll have an interactive photo booth, VR stations, a band, and more!
-
-    Agenda 
-
-    3:30 pm - Tour of Capital Factory + The DEC4:00 pm - Dallas Startup Pitches4:30 pm - Defense Innovation AMA with Joshua Baer5:30 pm - Party! Bars open, food served, band starts
-
-    Interested in joining our community? You can become a coworking member, giving you access to our space, mentor network and events in both Austin and Dallas. There's also the opportunity to volunteer as a mentor yourself! Limited dedicated desks and offices are still available, but are going fast!
-
-
-    Are you in Austin? Are you a Capital Factory member or mentor? Ride with us on a chartered bus to Dallas.
-
-    Read the Texas Startup Manifesto, about our Dallas expansion and more on our move!
-
-    Why Austin startup evangelist, Joshua Baer has set his sights on Dallas
-
-
-
-
-    Capital Factory is the center of gravity for entrepreneurs in Texas, the number one startup state in the U.S. Last year more than 100,000 entrepreneurs, programmers, and designers gathered day and night, in-person and online for meetups, classes, and coworking. We meet the best entrepreneurs in Texas and introduce them to their first investors, employees, mentors, and customers. According to Pitchbook, Capital Factory has been the most active investor in Texas since 2013.
-
-
-    The Dallas Entrepreneur Center (The DEC) is a 501c3 nonprofit established in 2013. The DEC provides entrepreneurs with training, education, incubation, programs, events, promotion and access to capital. We work to help entrepreneurs start, build, and grow companies while also working to help create a brand for North Texas as a leading entrepreneurial center in Texas and the country.
-
-
-    Parking Map: 
-
-    Sponsored by:
-
-
-
-
-
-     
-  url: https://www.eventbrite.com/e/capital-factory-the-dec-community-showcase-happy-hour-tickets-49917568792?aff=ebapi
+- name: 'Schwab Tech Talks '
+  description: "Schwab Tech Talks\nThe Schwab Tech Talks Series is designed to share best practices and learnings as we disrupt the industry across several disciplines within Schwab Technology Services. We are leveraging the latest technologies to create a culture of innovation, serve millions of customers, run billions of calculations per day and manage more than $3.3 trillion of assets while reimagining the financial services industry. In this work, we build best-in-class software experiences on modern cloud platforms using Agile development practices that impact Schwab’s broader teams and client universe.\nIn this session, you will hear from some of our top technologists in the key disciplines driving cutting-edge product development. We will also share immediate opportunities to join our application modernization journey. Bring your questions for a Q&A session with peers and software engineering leaders. Interested persons will have the opportunity to apply and interview within 1 – 2 weeks following the event.    \n \nWhat to expect:\n6:00-6:30pm Networking, opening reception\n6:30-7:30pm Technology Presentation – overview and Q&A\n7:30-8:30pm Chat with the people driving the work today – breakout tables by role opportunity\nDoors open at 5:30pm, drinks and appetizers will be served. \n\nWho should attend?\nSoftware Development Managers\nSoftware Engineers – Java, C#, .NET\nEnterprise Architects\nSolutions Architects\nDevOps Engineers\nSite Reliability Engineers\nSoftware Development Engineers in Test"
+  url: https://www.eventbrite.com/e/schwab-tech-talks-tickets-49350322142?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/49439363/1845645712/1/original.jpg?h=200&w=450&auto=compress&rect=0,282,2048,1024&s=c9a80cbddd1ff30f2606533c3e2e74ef
-  starts: 2018-09-20T15:30:00.0000000
-  ends: 2018-09-20T20:30:00.0000000
-  venue: Capital Factory + The DEC
+  logo: https://cdn.evbuc.com/images/48702889/268383073157/1/original.jpg?h=200&w=450&auto=compress&rect=0,87,690,345&s=f74cac6c90703bcfb90f88e31cdbaf4e
+  starts: 2018-09-24T18:00:00.0000000
+  ends: 2018-09-24T21:00:00.0000000
+  venue: Dallas/Fort Worth Marriott Solana
+- name: '(ISC)² DFW Presents: Cyber Aware Dallas'
+  description: "\nThe (ISC)² Dallas/Fort Worth (DFW) Chapter invites you to join us for Cyber Aware 2018. This one day summit is designed with you the information security professional in mind and will deliver actionable insights supporting your growth as an information security professional. This event will take place at the state of the art Davidson-Gundy Alumni Center on the campus of The University of Texas at Dallas and is one your won't want to miss. \nRegister today, CPE will be provided!\nPlease use the link below to make a hotel reservation at the Hilton Garden Inn Dallas/Richardson. A special event rate of $96/night has been secured.\nhttps://secure3.hilton.com/en_US/gi/reservation/book.htm?ctyhocn=DALRIGI&corporateCode=2994855&from=lnrlink\n"
+  url: https://www.eventbrite.com/e/isc2-dfw-presents-cyber-aware-dallas-tickets-45182193156?aff=ebapi
+  is-free: true
+  starts: 2018-10-19T07:30:00.0000000
+  ends: 2018-10-19T18:00:00.0000000
+  venue: Davidson-Gundy Alumni Center
 - name: 2018 Flight Software Workshop
   description: >-
     Southwest Research Institute (SwRI) in conjunction with the NASA Jet Propulsion Laboratory, The Aerospace Corporation, and The Johns Hopkins University Applied Physics Laboratory, is hosting the 11th Annual Workshop on Spacecraft Flight Software (FSW-2018) in San Antonio, Texas  from December 3rd to 6th 2018.
@@ -421,13 +342,6 @@
   logo: https://cdn.evbuc.com/images/46510132/231616926146/1/original.jpg?h=200&w=450&auto=compress&rect=0,787,2624,1312&s=1a602c571c1938fea140ef02b0358cb6
   starts: 2018-12-03T08:00:00.0000000
   ends: 2018-12-06T12:00:00.0000000
-- name: '(ISC)² DFW Presents: Cyber Aware Dallas'
-  description: "\nThe (ISC)² Dallas/Fort Worth (DFW) Chapter invites you to join us for Cyber Aware 2018. This one day summit is designed with you the information security professional in mind and will deliver actionable insights supporting your growth as an information security professional. This event will take place at the state of the art Davidson-Gundy Alumni Center on the campus of The University of Texas at Dallas and is one your won't want to miss. \nRegister today, CPE will be provided!\nPlease use the link below to make a hotel reservation at the Hilton Garden Inn Dallas/Richardson. A special event rate of $96/night has been secured.\nhttps://secure3.hilton.com/en_US/gi/reservation/book.htm?ctyhocn=DALRIGI&corporateCode=2994855&from=lnrlink\n"
-  url: https://www.eventbrite.com/e/isc2-dfw-presents-cyber-aware-dallas-tickets-45182193156?aff=ebapi
-  is-free: true
-  starts: 2018-10-19T07:30:00.0000000
-  ends: 2018-10-19T18:00:00.0000000
-  venue: Davidson-Gundy Alumni Center
 - name: UAB Comprehensive Cancer Center 20th Annual Research Retreat
   description: "Developmental Therapeutics\n \nThe Comprehensive Cancer Center Annual Research Retreat is an opportunity to stimulate interdisciplinary research collaboration and development among cancer researchers. This event is free and we invite faculty, trainees/postdoctoral fellows and staff engaged in cancer research. \n\nBreakfast and lunch will be served to those who register ahead of time. \nFree parking is available as well as valet services.\n\nCo-chairs for this year's event:\nMansoor Saleh, M.D.Eddy Yang, M.D., Ph.D.\n\nKeynote Speakers:\n\nAlex Adjei, M.D., Ph.D., Consultant, Medical Oncology, Professor of Oncology \nMayo College of Medicine\nLaura Esserman, M.D., MBA, Director, Carol Franc Buck Breast Care Center, Professor, School of Medicine\nUniversity of California San Francisco\n\nAfter you register for the Research Retreat, you will receive an email with a link where you may submit your abstract for the retreat. Check back on this page for more information and updates on this year’s event.\nFor questions regarding the research retreat, contact Courtney Bishop at cbishop3@uab.edu"
   url: https://www.eventbrite.com/e/uab-comprehensive-cancer-center-20th-annual-research-retreat-registration-45484393044?aff=ebapi
@@ -436,38 +350,6 @@
   starts: 2018-11-16T07:30:00.0000000
   ends: 2018-11-16T17:00:00.0000000
   venue: The Club, Inc.
-- name: 'Schwab Tech Talks '
-  description: "Schwab Tech Talks\nThe Schwab Tech Talks Series is designed to share best practices and learnings as we disrupt the industry across several disciplines within Schwab Technology Services. We are leveraging the latest technologies to create a culture of innovation, serve millions of customers, run billions of calculations per day and manage more than $3.3 trillion of assets while reimagining the financial services industry. In this work, we build best-in-class software experiences on modern cloud platforms using Agile development practices that impact Schwab’s broader teams and client universe.\nIn this session, you will hear from some of our top technologists in the key disciplines driving cutting-edge product development. We will also share immediate opportunities to join our application modernization journey. Bring your questions for a Q&A session with peers and software engineering leaders. Interested persons will have the opportunity to apply and interview within 1 – 2 weeks following the event.    \n \nWhat to expect:\n6:00-6:30pm Networking, opening reception\n6:30-7:30pm Technology Presentation – overview and Q&A\n7:30-8:30pm Chat with the people driving the work today – breakout tables by role opportunity\nDoors open at 5:30pm, drinks and appetizers will be served. \n\nWho should attend?\nSoftware Development Managers\nSoftware Engineers – Java, C#, .NET\nEnterprise Architects\nSolutions Architects\nDevOps Engineers\nSite Reliability Engineers\nSoftware Development Engineers in Test"
-  url: https://www.eventbrite.com/e/schwab-tech-talks-tickets-49350322142?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48702889/268383073157/1/original.jpg?h=200&w=450&auto=compress&rect=0,87,690,345&s=f74cac6c90703bcfb90f88e31cdbaf4e
-  starts: 2018-09-24T18:00:00.0000000
-  ends: 2018-09-24T21:00:00.0000000
-  venue: Dallas/Fort Worth Marriott Solana
-- name: Techweek KC 2018
-  description: "Kansas City’s biggest conference series for entrepreneurs is returning in October 2018 alongside some of KC’s most premier accelerator programs and content. Demo days for Techstars KC and BetaBlox will join LaunchKC as signature events during the Oct. 8-12 conference.\nIn addition to Big Data, Techweek’s 2018 tracks focus on healthcare technology, venture capital, IoT/smart cities, virtual reality and augmented reality, digital media/marketing, public policy in tech, minority entrepreneurship/inclusion, and cryptocurrency/blockchain.\nTechweek brings a great tech offering this year including the 2018 Techweek KC EXPO, which will host 100 booths of exciting tech companies from startups to enterprise level companies.\nBelow is an overview of the schedule for the week including some of the content tracks, with more additions coming:\nMonday October 8th-Wednesday October 10th\n\n\nBig Data Summit\n\n\nTechweek EXPO\n\n\nSmart City \n\n\nFintech Track\n\n\nHealthTech Track\n\n\nCrypto/Blockchain Track\n\n\nMinority Inclusion in Technology Track\n\n\nTech & Public Policy Track\n\n\nVenture Capital Track\n\n\nPure Pitch Rally\n\n\nBetaBlox Demo Day\n\n\nBoulevard Beer Hall presented by Spring Venture Group\n\n\nNBKC Happy Hour at NBKC Corporate Headquarters\n\n\nThursday October 11th\n\n\nTechstars KC present Digital Crossroads: Future Lens Track\n\n\nTechstars Demo Day\n\n\nVC Summit presesnted by Lead Bank\n\n\nVIP After Party powered by Lead Bank\n\n\nTechweek Founder’s House\n\n\nFriday October 12th\n\n\nLaunchKC keynote\n\n\nLaunchKC Grant Competition, $500,000 in grants made on the spot\n\n\nThe week will include dozens of panels, speakers and topics related to technology and entrepreneurship. Each day will include a featured keynote speaker. For just a sampling of additional world class speakers slated to speak at Techweek in KC, Techweek will host:\n\nPhil DeSimone – Co-founder of Carbon3D, a Silicon Valley-based digital 3D Manufacturing company recently valued at $1.7 Billion\nDr. Karen Kerr – Executive Managing Director at GE Ventures  and PhD in Physical Chemistry\nDr. Fred McKinney – Dartmouth University, Managing Director of Minority Business Programs\nKimberly Bryant – Black Girls Code Founder\nRodney Sampson – Founder of Opportunity Hub in Atlanta\nKira Blackwell – Program Executive at NASA Headquarters\n\nTechweek has invited Tim O’Reilly to speak in Kansas City this year.Tim is the founder and CEO of O’Reilly Media, Inc.  O’Reilly Media delivers online learning, publishes books, runs conferences, urges companies to create more value than they capture, and tries to change the world by spreading and amplifying the knowledge of innovators.Tim has a history of convening conversations that reshape the computer industry. In 1998, he organized the meeting where the term “open source software” was agreed on, and helped the business world understand its importance. In 2004, with the Web 2.0 Summit, he defined how “Web 2.0” represented not only the resurgence of the web after the dot com bust, but a new model for the computer industry, based on big data, collective intelligence, and the internet as a platform. In 2009, with his “Gov 2.0 Summit,” he framed a conversation about the modernization of government technology that has shaped policy and spawned initiatives at the Federal, State, and local level, and around the world.He has now turned his attention to implications of AI, the on-demand economy, and other technologies that are transforming the nature of work and the future shape of the business world. This is the subject of his recently published book from Harper Business, “WTF: What’s the Future and Why It’s Up to Us”.\n\n\n\n\n\nTechweek Kansas City 2018 features 6 ticket types:\n1. EXPO\nThe 3-day \"Techweek KC EXPO\" Exposition will host 100 booths of exciting tech companies from startups to enterprise level companies. Included is access to the Techstars Demo Day from 3:30-5pm on Thursday 10/11. Does not include access to content tracks or any private or VIP events such as Founder's House.\n2. EXECUTIVE\n\n\nThe Executive invitation gets you FULL access to all content for the week and includes admission to Techweek KC EXPO, with the exception of any private or VIP events such as Founder's House. \n3. Executive- Smart City Entrepreneur/Innovator\nThis tickets allow full access to Techweek events for the week, including the Techweek KC EXPO, with the exception of any private or VIP events such as Founder's House, and guarantees admission into the Smart City Track given limited capacity on Monday October 8th.\nIn addition, the executive ticket grants access to the interactive Smart City Citizen Innovator Workshop on 10/8 powered by Think Big. Attendees will learn design thinking, egngage in ideation and discuss smart city possibilites on Monday 10/8 Limited seating Available.\n4. Executive - Smart City Corporate Partner\nThis tickets allow full access to techweek events for the week, including the Techweek KC EXPO, with the exception of any private or VIP events such as Founder's House, and guarantees admission into the Smart City Track given limited capacity on Monday October 8th.\n5. TECHSTARS Demo Day ONLY\nThis ticket is valid ONLY for TECHSTARS demo day presentations from 3:30p-5p @ MIDLAND 10/11/2018. Does not include access to content tracks, KC EXPO, or VIP events such as Founder's House.\n6. Citizen Contributor- Smart City Workshop\nThe citizen ticket provides access to ONLY the Smart City Innovator Workshop on Mon. 10/8.\n\n\nTicket Availability\n\nWe recommend reserving your ticket early: tickets are often available at the door, but many Techweek events are RSVP only and popular events get booked out early.\n\n\n FAQs\nWhat's the refund policy?\nRefunds are available until 7 days before the event starts on 10/8/2018\n \n In addition, the executive ticket grants access to the interactive Smart City Citizen Innovator Workshop on 10/8 powered by Think Big (limited seating available)."
-  url: https://www.eventbrite.com/e/techweek-kc-2018-tickets-46628829083?aff=ebapi
-  logo: https://cdn.evbuc.com/images/45578098/258878220690/1/original.jpg?h=200&w=450&auto=compress&rect=4,0,1082,541&s=402b3da55adb8bb4dd39bcbe646a7906
-  starts: 2018-10-08T09:00:00.0000000
-  ends: 2018-10-12T23:50:00.0000000
-  venue: Union Station Kansas City
-- name: Collaboratorium Networking & Pitch Event
-  description: "Collaboratorium Networking and Pitch Event\nThe Collaboratorium unites UChicago students with researchers, technologists, and faculty who want to explore the commercialization opportunities and business applications for their work. Attend this event if you have skills you can contribute to a team, if you’re interested in joining a team, if you want to learn about cutting-edge research, or if you have an idea that you would like to share with others. Click the registration link to review the event schedule, which will include networking and pitches by researchers. Pizza will be provided. \nSchedule:  4:45: Registration 5:00: Welcome + Pitches 5:45 Open Networking"
-  url: https://www.eventbrite.com/e/collaboratorium-networking-pitch-event-tickets-45857043652?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49048878/184066605672/1/original.jpg?h=200&w=450&auto=compress&rect=168,0,752,376&s=adcbecb6fbcf16f3c79ac2b5b2337b1f
-  starts: 2018-09-25T17:00:00.0000000
-  ends: 2018-09-25T18:30:00.0000000
-  venue: Harper Center Room 104
-- name: SINNÉTIC 2018
-  description: >
-    Espacio para promover el intercambio de ideas, experiencias y propuestas que permitan fortalecer las plataformas de innovación y emprendimiento en las universidades; articulando talento, recursos y esfuerzos hacia el desarrollo de iniciativas tecnológicas que sean tanto comercialmente viables, como ambiental y socialmente sostenibles.
-  url: https://www.eventbrite.es/e/registro-sinnetic-2018-48928309892?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49921908/266916514609/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,800,400&s=7beefcd2d4016bbd137850ef0e9ef234
-  starts: 2018-09-26T09:00:00.0000000
-  ends: 2018-09-27T18:00:00.0000000
-  venue: Poliforum Científico Cultural Medicina y Ciencias Biomédicas
 - name: 'Comcast Techpak: Free STEM Activity Day'
   description: >+
     MISSION: To ignite an interest in STEM learning to prepare our youth to compete globally through analytical thinking and design learning that fosters creativity and innovation.
@@ -627,6 +509,22 @@
   starts: 2018-10-06T11:00:00.0000000
   ends: 2018-10-06T16:00:00.0000000
   venue: Houston Community College (HCC)
+- name: Techweek KC 2018
+  description: "Kansas City’s biggest conference series for entrepreneurs is returning in October 2018 alongside some of KC’s most premier accelerator programs and content. Demo days for Techstars KC and BetaBlox will join LaunchKC as signature events during the Oct. 8-12 conference.\nIn addition to Big Data, Techweek’s 2018 tracks focus on healthcare technology, venture capital, IoT/smart cities, virtual reality and augmented reality, digital media/marketing, public policy in tech, minority entrepreneurship/inclusion, and cryptocurrency/blockchain.\nTechweek brings a great tech offering this year including the 2018 Techweek KC EXPO, which will host 100 booths of exciting tech companies from startups to enterprise level companies.\nBelow is an overview of the schedule for the week including some of the content tracks, with more additions coming:\nMonday October 8th-Wednesday October 10th\n\n\nBig Data Summit\n\n\nTechweek EXPO\n\n\nSmart City \n\n\nFintech Track\n\n\nHealthTech Track\n\n\nCrypto/Blockchain Track\n\n\nMinority Inclusion in Technology Track\n\n\nTech & Public Policy Track\n\n\nVenture Capital Track\n\n\nPure Pitch Rally\n\n\nBetaBlox Demo Day\n\n\nBoulevard Beer Hall presented by Spring Venture Group\n\n\nNBKC Happy Hour at NBKC Corporate Headquarters\n\n\nThursday October 11th\n\n\nTechstars KC present Digital Crossroads: Future Lens Track\n\n\nTechstars Demo Day\n\n\nVC Summit presesnted by Lead Bank\n\n\nVIP After Party powered by Lead Bank\n\n\nTechweek Founder’s House\n\n\nFriday October 12th\n\n\nLaunchKC keynote\n\n\nLaunchKC Grant Competition, $500,000 in grants made on the spot\n\n\nThe week will include dozens of panels, speakers and topics related to technology and entrepreneurship. Each day will include a featured keynote speaker. For just a sampling of additional world class speakers slated to speak at Techweek in KC, Techweek will host:\n\nPhil DeSimone – Co-founder of Carbon3D, a Silicon Valley-based digital 3D Manufacturing company recently valued at $1.7 Billion\nDr. Karen Kerr – Executive Managing Director at GE Ventures  and PhD in Physical Chemistry\nDr. Fred McKinney – Dartmouth University, Managing Director of Minority Business Programs\nKimberly Bryant – Black Girls Code Founder\nRodney Sampson – Founder of Opportunity Hub in Atlanta\nKira Blackwell – Program Executive at NASA Headquarters\n\nTechweek has invited Tim O’Reilly to speak in Kansas City this year.Tim is the founder and CEO of O’Reilly Media, Inc.  O’Reilly Media delivers online learning, publishes books, runs conferences, urges companies to create more value than they capture, and tries to change the world by spreading and amplifying the knowledge of innovators.Tim has a history of convening conversations that reshape the computer industry. In 1998, he organized the meeting where the term “open source software” was agreed on, and helped the business world understand its importance. In 2004, with the Web 2.0 Summit, he defined how “Web 2.0” represented not only the resurgence of the web after the dot com bust, but a new model for the computer industry, based on big data, collective intelligence, and the internet as a platform. In 2009, with his “Gov 2.0 Summit,” he framed a conversation about the modernization of government technology that has shaped policy and spawned initiatives at the Federal, State, and local level, and around the world.He has now turned his attention to implications of AI, the on-demand economy, and other technologies that are transforming the nature of work and the future shape of the business world. This is the subject of his recently published book from Harper Business, “WTF: What’s the Future and Why It’s Up to Us”.\n\n\n\n\n\nTechweek Kansas City 2018 features 6 ticket types:\n1. EXPO\nThe 3-day \"Techweek KC EXPO\" Exposition will host 100 booths of exciting tech companies from startups to enterprise level companies. Included is access to the Techstars Demo Day from 3:30-5pm on Thursday 10/11. Does not include access to content tracks or any private or VIP events such as Founder's House.\n2. EXECUTIVE\n\n\nThe Executive invitation gets you FULL access to all content for the week and includes admission to Techweek KC EXPO, with the exception of any private or VIP events such as Founder's House. \n3. Executive- Smart City Entrepreneur/Innovator\nThis tickets allow full access to Techweek events for the week, including the Techweek KC EXPO, with the exception of any private or VIP events such as Founder's House, and guarantees admission into the Smart City Track given limited capacity on Monday October 8th.\nIn addition, the executive ticket grants access to the interactive Smart City Citizen Innovator Workshop on 10/8 powered by Think Big. Attendees will learn design thinking, egngage in ideation and discuss smart city possibilites on Monday 10/8 Limited seating Available.\n4. Executive - Smart City Corporate Partner\nThis tickets allow full access to techweek events for the week, including the Techweek KC EXPO, with the exception of any private or VIP events such as Founder's House, and guarantees admission into the Smart City Track given limited capacity on Monday October 8th.\n5. TECHSTARS Demo Day ONLY\nThis ticket is valid ONLY for TECHSTARS demo day presentations from 3:30p-5p @ MIDLAND 10/11/2018. Does not include access to content tracks, KC EXPO, or VIP events such as Founder's House.\n6. Citizen Contributor- Smart City Workshop\nThe citizen ticket provides access to ONLY the Smart City Innovator Workshop on Mon. 10/8.\n\n\nTicket Availability\n\nWe recommend reserving your ticket early: tickets are often available at the door, but many Techweek events are RSVP only and popular events get booked out early.\n\n\n FAQs\nWhat's the refund policy?\nRefunds are available until 7 days before the event starts on 10/8/2018\n \n In addition, the executive ticket grants access to the interactive Smart City Citizen Innovator Workshop on 10/8 powered by Think Big (limited seating available)."
+  url: https://www.eventbrite.com/e/techweek-kc-2018-tickets-46628829083?aff=ebapi
+  logo: https://cdn.evbuc.com/images/45578098/258878220690/1/original.jpg?h=200&w=450&auto=compress&rect=4,0,1082,541&s=402b3da55adb8bb4dd39bcbe646a7906
+  starts: 2018-10-08T09:00:00.0000000
+  ends: 2018-10-12T23:50:00.0000000
+  venue: Union Station Kansas City
+- name: SINNÉTIC 2018
+  description: >
+    Espacio para promover el intercambio de ideas, experiencias y propuestas que permitan fortalecer las plataformas de innovación y emprendimiento en las universidades; articulando talento, recursos y esfuerzos hacia el desarrollo de iniciativas tecnológicas que sean tanto comercialmente viables, como ambiental y socialmente sostenibles.
+  url: https://www.eventbrite.es/e/registro-sinnetic-2018-48928309892?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49921908/266916514609/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,800,400&s=7beefcd2d4016bbd137850ef0e9ef234
+  starts: 2018-09-26T09:00:00.0000000
+  ends: 2018-09-27T18:00:00.0000000
+  venue: Poliforum Científico Cultural Medicina y Ciencias Biomédicas
 - name: Baton Rouge Mini Maker Faire 2018
   description: "Launch your Imagination!\r\nJoin us for the fifth annual Baton Rouge Mini Maker Faire.   We will be showcasing a variety of projects, and you’re sure to find something to interest everyone in your family.\r\nVisit our Website or connect with us on Facebook, Instagram, and Twitter  for more information about the event and to keep up with our progress.\r\nAttendance is Free!  Why sign up for a ticket?\r\nSigning up for a ticket will help us to gauge how many people will be coming and will help us plan our exhibits and interactive displays so that we will have enough materials for everyone to take part and enjoy. \r\nFAQS:\r\nWhat day(s) and hour(s) will Baton Rouge Mini Maker Faire be open to the public? Saturday, October 6, 2018 10 am - 5 pm.\r\nWhere can I park? Main Library parking lot and surrounding BREC park lots.\r\nWhat if it rains? The show will go on! Bring rain gear to keep you dry when walking outdoors. Fortunately, we will have many indoor exhibits to keep the family dry.\r\nWhat can I expect?To have a fantastic time! You'll be surprised and intrigued with every corner that you turn.\r\nMaker Media Privacy Policy\r\n"
   url: https://www.eventbrite.com/e/baton-rouge-mini-maker-faire-2018-registration-44376790174?aff=ebapi
@@ -664,6 +562,34 @@
   starts: 2018-10-01T08:00:00.0000000
   ends: 2018-10-02T12:00:00.0000000
   venue: Houston, Texas
+- name: Austin Cybersecurity Conference 2018
+  description: >2-
+
+
+    2018 Austin Cybersecurity Conference
+
+    This conference qualifies for CPE credits!
+
+     Passes include a full lunch, entrance into the main conference room and all conference material.
+
+    Program Description: 
+
+    Data Connectors will be hosting the Austin Cybersecurity Conference on Thursday, September 27th. The event will start at 8:15 AM with a check-in and opening introductions before presentation sessions begin at 8:45. Between the educational sessions that go throughout the day, there will be time to visit vendor booths to obtain information regarding product and service offerings. 
+
+    Event Sponsors/Vendors include:
+
+
+
+    Click here for a full agenda
+
+
+
+    When you register to attend a Data Connectors vendor-sponsored conference, your event registration information is used to confirm registrations and may be used to send product information and promotional material. (Information may also be used to compile broad demographic information). As Data Connectors may disclose your event registration information to those vendors sponsoring the event, Data Connector's customer agreement with the Sponsor provides that the Sponsor (a) may use this information only to send you product information, to contact you via common methods of communication to assess your interest in its products and services, and (b) may share this information with a business partner, reseller or distributor of its products and services for the permitted marketing purposes set forth above. You should contact the Sponsor directly if you have any questions about their use of this information.
+  url: https://www.eventbrite.com/e/austin-cybersecurity-conference-2018-tickets-35738650265?aff=ebapi
+  logo: https://cdn.evbuc.com/images/32750584/103294445877/1/original.jpg?h=200&w=450&auto=compress&rect=176,0,816,408&s=f9a9d8ceafdb32f6f934b6a808d538d2
+  starts: 2018-09-27T08:00:00.0000000
+  ends: 2018-09-27T17:00:00.0000000
+  venue: The Driskill
 - name: Flat Earth International Conference (USA) 2018
   description: The 2018 Flat Earth International Conference (FEIC) is the 2nd annual conference hosted by Kryptoz Media. FEIC features presenters from various backgrounds and belief systems who have each made an impact on the larger Flat Earth community. FEIC is not in any way affiliated with the Flat Earth Society.
   url: https://www.eventbrite.com/e/flat-earth-international-conference-usa-2018-tickets-39585550447?aff=ebapi
@@ -689,6 +615,16 @@
   starts: 2018-11-02T08:00:00.0000000
   ends: 2018-11-02T14:00:00.0000000
   venue: Hosted At Devon Energy Center
+- name: Houston Techfest 2018
+  description: >-
+    Houston's Premier event for IT Professionals now in its 12th year.  
+
+    Over 50 sessions with some of the best Developers and trainers in the Houston Area and beyond.
+  url: https://www.eventbrite.com/e/houston-techfest-2018-tickets-47835956634?aff=ebapi
+  is-free: true
+  starts: 2018-09-29T08:00:00.0000000
+  ends: 2018-09-29T19:00:00.0000000
+  venue: San Jacinto College Central
 - name: Secure Iowa Conference 2018
   description: >
     Secure Iowa Conference [October 9]
@@ -744,16 +680,6 @@
   starts: 2018-09-29T10:00:00.0000000
   ends: 2018-09-29T15:00:00.0000000
   venue: Charles H. Wright Museum
-- name: Houston Techfest 2018
-  description: >-
-    Houston's Premier event for IT Professionals now in its 12th year.  
-
-    Over 50 sessions with some of the best Developers and trainers in the Houston Area and beyond.
-  url: https://www.eventbrite.com/e/houston-techfest-2018-tickets-47835956634?aff=ebapi
-  is-free: true
-  starts: 2018-09-29T08:00:00.0000000
-  ends: 2018-09-29T19:00:00.0000000
-  venue: San Jacinto College Central
 - name: 'JCertif Brazza 2018  '
   description: >+
     #JCertifBrazza2018
@@ -778,34 +704,6 @@
   starts: 2018-09-27T09:00:00.0000000
   ends: 2018-09-29T17:00:00.0000000
   venue: Hotêl Radisson Blu
-- name: Austin Cybersecurity Conference 2018
-  description: >2-
-
-
-    2018 Austin Cybersecurity Conference
-
-    This conference qualifies for CPE credits!
-
-     Passes include a full lunch, entrance into the main conference room and all conference material.
-
-    Program Description: 
-
-    Data Connectors will be hosting the Austin Cybersecurity Conference on Thursday, September 27th. The event will start at 8:15 AM with a check-in and opening introductions before presentation sessions begin at 8:45. Between the educational sessions that go throughout the day, there will be time to visit vendor booths to obtain information regarding product and service offerings. 
-
-    Event Sponsors/Vendors include:
-
-
-
-    Click here for a full agenda
-
-
-
-    When you register to attend a Data Connectors vendor-sponsored conference, your event registration information is used to confirm registrations and may be used to send product information and promotional material. (Information may also be used to compile broad demographic information). As Data Connectors may disclose your event registration information to those vendors sponsoring the event, Data Connector's customer agreement with the Sponsor provides that the Sponsor (a) may use this information only to send you product information, to contact you via common methods of communication to assess your interest in its products and services, and (b) may share this information with a business partner, reseller or distributor of its products and services for the permitted marketing purposes set forth above. You should contact the Sponsor directly if you have any questions about their use of this information.
-  url: https://www.eventbrite.com/e/austin-cybersecurity-conference-2018-tickets-35738650265?aff=ebapi
-  logo: https://cdn.evbuc.com/images/32750584/103294445877/1/original.jpg?h=200&w=450&auto=compress&rect=176,0,816,408&s=f9a9d8ceafdb32f6f934b6a808d538d2
-  starts: 2018-09-27T08:00:00.0000000
-  ends: 2018-09-27T17:00:00.0000000
-  venue: The Driskill
 - name: Dog Food Conference 2018
   description: "\nEntry fee will be $115.00.\nMain agenda as conference nears: https://dogfoodcon.com/schedule/\nWeekly updated agenda: Link  (Updates due to sponsor on-boarding, will end after sponsorship window closes)\n\nDog Food is a conference that focuses on server admins, Open Source Software, application development on Java,.Net, Ruby, JavaScript, process and personal growth.\n “Eating your own dog food” is a phrase that came out of Microsoft in the ’80s. The idea is: If you make products and expect your customers to buy them, they should be good enough for you to use too. Dog Food exists to educate organizations on their IT investments, allow technical professionals to learn from subject matter experts, and raise the community’s knowledge and partnerships.\nOur speakers include Java Champions, Microsoft MVPs & Regional Directors, Microsoft Certified Partners, software development and infrastructure professionals, authors, and community leaders. \nAttendees are a mix of CIOs, managers, software developers, architects, project managers, business analysts, QA engineers, server administrators, and help desk professionals.\nHere's what you can expect:\n\nBreakout Sessions: We feature over 75 sessions. Topics include GitHub, JAVA, ALM, JavaScript, Cucumber, Citrix, Azure, Dynamics AX & CRM, Infrastructure & DevOps, Mobile, Office 365 & MS Teams, security, Jenkins, Red Hat, SharePoint, People Skills, and SQL/BI. We have a great new speakers and familiar faces from throughout the U.S.\nDog Food After-Hours: On the evening of October 4 (Thursday), we'll have a happy hour featuring tabletop games, pizza, and a chance to relax after a day of learning.\nBreakfast, Lunch and Wi-Fi\nOpen Spaces:  Chat with experienced subject matter experts in the Columbus Room.\n\n \nFor updates, please follow our social media posts on LinkedIn, Twitter and Facebook.\n The DogFoodCon Steering committee\n\nE-mail - Info@DogFoodCon.com\nDogFoodCon 2018 volunteer team\n\n\n "
   url: https://www.eventbrite.com/e/dog-food-conference-2018-tickets-46346644060?aff=ebapi
@@ -826,20 +724,6 @@
   starts: 2018-10-04T12:00:00.0000000
   ends: 2018-10-05T13:00:00.0000000
   venue: Cool Springs Marriott Hotel, Franklin, TN
-- name: 2018 North Dakota Water and Pollution Control Conference - Grand Forks
-  description: Annual Conference organized for educational and scientific advancement of water, wastewater, and stormwater systems.  Promoting and encouraging the exchanging of ideas and experience among attendees, protection of the public health, and operator education and certification.   
-  url: https://www.eventbrite.com/e/2018-north-dakota-water-and-pollution-control-conference-grand-forks-registration-46164115111?aff=ebapi
-  logo: https://cdn.evbuc.com/images/45553725/257197359451/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=b87a8d722d6fa36a6d66583e49bd1202
-  starts: 2018-10-16T13:30:00.0000000
-  ends: 2018-10-18T13:30:00.0000000
-  venue: Alerus Center
-- name: Nashville Mini Maker Faire - 6th Annual
-  description: "\r\nNashville Mini Maker Faire \r\nHosted by Make Nashville\r\nat the Wond'ry at Vanderbilt \r\nSaturday October 6th, 10a - 6p \r\nSunday October 7th, 10a - 4p\r\nParking is Free in the 25th Ave. Garage on higher levels\r\n \r\nAttendance is Free!  Why sign up for a ticket?\r\nSponsors have donated to keep tickets free and to continue we want to be able to track our attendance so we can estimate items needed for kids crafts, prizes for contests, supplies, and to make sure we have enough food truck coverage! \r\nHelp us plan our exhibits and interactive displays so that we will have enough materials for everyone to take part and enjoy!\r\nDonations: \r\nYour generosity enables us to continue our annual tradition of showcasing the Maker culture of Nashville and Beyond here in Music City!!\r\nFAQ’S:\r\nWhat day(s) and hour(s) will Nashville Mini Maker Faire be open to the public? Saturday, October 6, 2017 & Sunday, October 7, 2017\r\nWhere can I park? 25th Avenue Garage on Vanderbilt University Campus - http://nashville.makerfaire.com/directions/\r\nWhere is the handicap parking located?25th Avenue Garage on Vanderbilt University Campus or any marked spot in the area - http://nashville.makerfaire.com/directions/\r\nWhere can I park my RV?Email info@makenashville.org for details - http://nashville.makerfaire.com/directions/\r\nIs public transportation available? Yes - https://www.vanderbilt.edu/isss/coming-to-vanderbilt/transportation-and-driving/public-transportation/\r\nWill you have bike parking? Yes - https://www.vanderbilt.edu/isss/coming-to-vanderbilt/transportation-and-driving/public-transportation/\r\nCan I volunteer at the Mini Maker Faire? \r\nIf you’d like to volunteer for the 2018 Nashville Mini Maker Faire, please fill out the volunteer application on the website nashvillemakerfaire.com and/or email makerfaire@makenashville.org with questions.\r\nWhat if it rains? \r\nThe show will go on! Bring rain gear to keep you dry when walking outdoors. Fortunately, we will have many indoor exhibits to keep the family dry.\r\nWhat can I expect?\r\nRain or Shine. To have a fantastic time! You'll be surprised and intrigued with every corner that you turn.\r\n ______ Mini Maker Faire is independently organized and operated under license from Maker Media, Inc.  \r\nI understand that by registering here,  Maker Media & Make Nashville may provide me with updates and information about Maker Faires, other events, and products of interest to the maker community.  I understand that I may opt out of these communications at any time.\r\nMaker Media Privacy Policy\r\n "
-  url: https://www.eventbrite.com/e/nashville-mini-maker-faire-6th-annual-registration-45386536352?aff=ebapi
-  logo: https://cdn.evbuc.com/images/47582057/223375776105/1/original.jpg?h=200&w=450&auto=compress&rect=0,5,800,400&s=1f536ce3ea4d0090b3fb82ce37c09375
-  starts: 2018-10-06T10:00:00.0000000
-  ends: 2018-10-07T16:00:00.0000000
-  venue: The Wond'ry at Vanderbilt University
 - name: Liferay Symposium North America 2018
   description: >
     Bring your team of 4 or more and receive discounted price on conference tickets, plus earn special benefits! Use the following codes to access your deals.
@@ -862,17 +746,13 @@
   starts: 2018-10-08T09:00:00.0000000
   ends: 2018-10-10T14:00:00.0000000
   venue: Sheraton New Orleans
-- name: PYGHACK 2018
-  description: >-
-    Our second annual hackathon — PYGHACK takes place on September 29-30, 2018 at University of Illinois Research Park's EnterpriseWorks. The 24 hour hack will bring together campus and community to build and innovate for the greater good of Champaign-Urbana. PYGHACK is a part of PYGMALION's THINK programming in 2018.
-
-    Check out our DEVPOST page!
-  url: https://www.eventbrite.com/e/pyghack-2018-tickets-47870969358?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49552819/259049304955/1/original.jpg?h=200&w=450&auto=compress&rect=0,149,1790,895&s=08be5443d1a4304538880d577bbbf4d6
-  starts: 2018-09-29T12:00:00.0000000
-  ends: 2018-09-30T12:00:00.0000000
-  venue: EnterpriseWorks
+- name: 2018 North Dakota Water and Pollution Control Conference - Grand Forks
+  description: Annual Conference organized for educational and scientific advancement of water, wastewater, and stormwater systems.  Promoting and encouraging the exchanging of ideas and experience among attendees, protection of the public health, and operator education and certification.   
+  url: https://www.eventbrite.com/e/2018-north-dakota-water-and-pollution-control-conference-grand-forks-registration-46164115111?aff=ebapi
+  logo: https://cdn.evbuc.com/images/45553725/257197359451/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=b87a8d722d6fa36a6d66583e49bd1202
+  starts: 2018-10-16T13:30:00.0000000
+  ends: 2018-10-18T13:30:00.0000000
+  venue: Alerus Center
 - name: MarketWaves18
   description: >+
     MarketWaves18 presented by FreightWaves
@@ -918,6 +798,50 @@
   starts: 2018-11-12T07:00:00.0000000
   ends: 2018-11-13T16:00:00.0000000
   venue: Gaylord Texan Resort & Convention Center
+- name: AlphaLab + AlphaLab Gear Demo Day
+  description: >+
+    Hello Startup Community,Join us at Stage AE on October 16th for an exciting evening of company launches from Innovation Works' nationally ranked hardware and software accelerators, AlphaLab and AlphaLab Gear. The companies are innovating in sectors such as IoT, Voice based tech, AI, Advanced Materials, Saas, and Robotics. Along with the company pitches, we'll be celebrating the 5, 10, and 20 year anniversaries of AlphaLab Gear, AlphaLab, and Innovation Works working with the tech startup community.
+
+
+
+    Childcare is provided by Flexable. Please select an "I need childcare" ticket if needed.
+
+    If you are in need of other accommodations, please reach out to Susan Bower, sbower@innovationworks.org.
+
+
+
+    Demo Day is made possible by the generous support of our sponsors:
+
+  url: https://www.eventbrite.com/e/alphalab-alphalab-gear-demo-day-tickets-50098697553?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49610744/182436938299/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=a8d84bfe8854a86294e0cb4f56dda9a1
+  starts: 2018-10-16T17:00:00.0000000
+  ends: 2018-10-16T20:00:00.0000000
+  venue: Stage AE
+- name: PYGHACK 2018
+  description: >-
+    Our second annual hackathon — PYGHACK takes place on September 29-30, 2018 at University of Illinois Research Park's EnterpriseWorks. The 24 hour hack will bring together campus and community to build and innovate for the greater good of Champaign-Urbana. PYGHACK is a part of PYGMALION's THINK programming in 2018.
+
+    Check out our DEVPOST page!
+  url: https://www.eventbrite.com/e/pyghack-2018-tickets-47870969358?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49552819/259049304955/1/original.jpg?h=200&w=450&auto=compress&rect=0,149,1790,895&s=08be5443d1a4304538880d577bbbf4d6
+  starts: 2018-09-29T12:00:00.0000000
+  ends: 2018-09-30T12:00:00.0000000
+  venue: EnterpriseWorks
+- name: Lonza Career Fair Event - Houston, Tx
+  description: >-
+    Please join us for an interactive Career Fair! Lonza is one of the world's leading suppliers to the Pharmaceutical, Biotech, and Specialty Ingredient markets with products that enhance your overall quality of life.
+
+    We will have representatives from various functions on site to share information regarding opportunities, including Engineering, Facilities, Purchasing, Logistics, Manufacturing Science & Technology, Quality Control, Quality Assurance, and Manufacturing. We are looking to fill numerous positions from entry level to advanced career.
+
+    We will be hosting this event at our 14905 Kirby Drive, Pearland, TX 77047. Pease register in advance to secure a spot. Doors will open at 8:30 AM.
+  url: https://www.eventbrite.com/e/lonza-career-fair-event-houston-tx-registration-50059364908?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49560601/271126598335/1/original.jpg?h=200&w=450&auto=compress&rect=0,246,644,322&s=4d7cdc254549e4e3383e8d4087c3c03b
+  starts: 2018-09-26T09:00:00.0000000
+  ends: 2018-09-26T15:00:00.0000000
+  venue: 14905 Kirby Drive
 - name: 2018 Salt Lake County Watershed Symposium
   description: >+
     12th Annual Salt Lake County Watershed SymposiumNovember 14-15, 2018
@@ -959,26 +883,6 @@
   starts: 2018-11-14T08:00:00.0000000
   ends: 2018-11-15T16:00:00.0000000
   venue: Utah Cultural Celebration Center
-- name: AlphaLab + AlphaLab Gear Demo Day
-  description: >+
-    Hello Startup Community,Join us at Stage AE on October 16th for an exciting evening of company launches from Innovation Works' nationally ranked hardware and software accelerators, AlphaLab and AlphaLab Gear. The companies are innovating in sectors such as IoT, Voice based tech, AI, Advanced Materials, Saas, and Robotics. Along with the company pitches, we'll be celebrating the 5, 10, and 20 year anniversaries of AlphaLab Gear, AlphaLab, and Innovation Works working with the tech startup community.
-
-
-
-    Childcare is provided by Flexable. Please select an "I need childcare" ticket if needed.
-
-    If you are in need of other accommodations, please reach out to Susan Bower, sbower@innovationworks.org.
-
-
-
-    Demo Day is made possible by the generous support of our sponsors:
-
-  url: https://www.eventbrite.com/e/alphalab-alphalab-gear-demo-day-tickets-50098697553?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49610744/182436938299/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=a8d84bfe8854a86294e0cb4f56dda9a1
-  starts: 2018-10-16T17:00:00.0000000
-  ends: 2018-10-16T20:00:00.0000000
-  venue: Stage AE
 - name: 2018 Oklahoma Transportation Research Day
   description: The Oklahoma Department of Transportation (ODOT) and the Southern Plains Transportation Center (SPTC) are pleased to announce their sponsorship of the 2018 Oklahoma Transportation Research Day. Attendees from academia, government service, and the private sector are strongly encouraged to attend. This event will consist of keynote speakers, ODOT and research project presentations, and student transportation project posters. Registrants will have the opportunity to receive up to 8 Professional Development Hours (PDHs) while attending this event.
   url: https://www.eventbrite.com/e/2018-oklahoma-transportation-research-day-tickets-47352442430?aff=ebapi
@@ -1039,29 +943,6 @@
   starts: 2018-09-29T09:00:00.0000000
   ends: 2018-09-29T17:00:00.0000000
   venue: University of Toledo Health Science Campus - Mulford Building
-- name: ' THINK BIG Symposium Series - The Microbiome in Health and Disease'
-  description: >-
-    Registration & breakfast: 8:15- 9:00am
-
-    Program starts at 9:00am
-
-    Keynote Speaker: Jacques Ravel, PhD
-
-    Professor, Department of Microbiology and Immunology, Associate Director for Genomics at the Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, MD
-
-     “The host-vaginal microbiota interaction and its impact on women’s health"
-
-    www.thinkbig.emory.edu - for more information
-
-    Location: Emory University, Woodruff Health Sciences Administration Building Auditorium -- 1sst floor, 1440 Clifton Road, Atlanta, GA 30322
-
-    Parking: Please use Michael Street Visitor Parking Deck, 550 Houston Mill Road, Atlanta, GA 30322. Once on Houston Mill Rd, take the first left onto Rollins Way and continue towards the blue banner for Visitor Parking.
-  url: https://www.eventbrite.com/e/think-big-symposium-series-the-microbiome-in-health-and-disease-tickets-43409587244?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/43837386/83486014725/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=6d6832b711c2e6d9278391bc72c65761
-  starts: 2018-09-20T08:15:00.0000000
-  ends: 2018-09-20T16:00:00.0000000
-  venue: Emory University
 - name: "Chancellor's STEM Speaker Series: Talithia Williams"
   description: >-
     Join West Virginia Science & Research for the next installment of the Chancellor's STEM Speaker Series at our new location: the Culture Center at the state capitol complex in Charleston. Dr. Talithia Williams is a groundbreaking professor, popular TED speaker, inspiring author and passionate STEM/STEAM advocate. A host of the PBS series, NOVA Wonders, she has made it her life's work to get people of all ages and backgrounds excited about the bold possibilities of a STEM education and to “STEMpower” women and minorities to enter these professions. Her latest book, Power in Numbers: The Rebel Women of Mathematics, reflects Williams’ passion to re-brand the field of mathematics as anything but dry, technical or male-dominated. Renowned for her popular TED Talk, “Own Your Body’s Data,” she advocates for all of us to deploy data as a way of taking charge of our own health. A vibrant, engaging and energizing speaker, Dr. Williams demystifies data, statistics, probabilities and the mathematical process in amusing and insightful ways. She also passionately champions the contributions of scientists, technologists, engineers and mathematicians and their vital role in transforming our future.
@@ -1078,74 +959,40 @@
   starts: 2018-10-04T19:00:00.0000000
   ends: 2018-10-04T20:30:00.0000000
   venue: The Culture Center, State Capitol Complex
-- name: 'Big Data Ignite 2018: Symbiotic Intelligence Through Automation'
-  description: >-
-    The Big Data Ignite 2018 workshop and conference, Sep. 19-21 at DeVos Place in downtown Grand Rapids, brings together experts, practitioners, and decision-makers to focus on cutting-edge technologies and know-how in the areas of data analytics, data management, IoT, and cloud computing. Topics include Hadoop, Spark, R, data science, and cloud-based infrastructure and services.
+- name: BSidesDFW 2018
+  description: >+
+    Making security accessible to everyone since 2010.
 
-    Big Data Ignite 2018 will feature multiple full-day workshops with an emphasis on building practical knowledge and skills, plus a wide variety of talks covering case studies, tools, techniques, and emerging trends, with speakers from Microsoft, Cloudera, Grand Valley State University, Calvin College, and many more leading tech companies and data-science programs.
-
-    You will also have a chance to win exciting prizes provided by our sponsors throughout the entire conference! The first step is to register
-  url: https://www.eventbrite.com/e/big-data-ignite-2018-symbiotic-intelligence-through-automation-tickets-44540354399?aff=ebapi
-  logo: https://cdn.evbuc.com/images/47638672/188614932642/1/original.jpg?h=200&w=450&auto=compress&rect=0,97,1920,960&s=ba6dab286573c5d987a8694f02a22c22
-  starts: 2018-09-19T08:00:00.0000000
-  ends: 2018-09-30T20:30:00.0000000
-  venue: DeVos Place
-- name: Big Year Jeffco
-  description: >2-
+    Security B-Sides Dallas/Fort Worth (BSidesDFW) is back for it's 9th year.
 
 
-    As part of our Land Stewardship Series Jeffco Invasive Species Management and Jeffco Open Space will be sponsoring BIG YEAR JEFFCO in 2018.
+    2 Speaker TracksAdhoc Fire TalksCTF competitionLockpick VillageReturn of 'Scavenge the Flag'and more
 
-    Because Jefferson County is home to over 200 species of birds, we decided to encourage people to get outside and document the birds they see within the county. Participants need to register to have their sightings be included in the BIG YEAR JEFFCO official count. Participants will also need an eBird account. eBird is the online venue for documenting the birds participants see and will be the official site for recording BIG YEAR JEFFCO sightings.
+
+    We're not the biggest. We're not the oldest. We're not the prettiest.But by golly we do our darnedest to be the best.
+
+
+    ** As always registration ensures that you get a shirt (sizes may vary) and lunch, however it is not required to participate.
+
+    ** If you cannot make it please use the site to refund your ticket.  Unclaimed tickets (associated shirt and lunch) will be released at 11am.
 
 
 
-    Visit eBird at: http://ebird.org/content/ebird/
-  url: https://www.eventbrite.com/e/big-year-jeffco-tickets-38816370810?aff=ebapi
+
+    BSidesDFW Code of Conduct (CoC)Security BSides Dallas / Fort Worth (BSidesDFW) was founded to facilitate the exchange of information and the development of relationships.We welcome and encourage the expression and debate of ideas. We also recognize that we do not have to agree in order to listen to, and/or understand, a given point of view. However, there is a language and a behaviour that is appropriate and expected in achieving that discourse.
+
+    Harassment and/or abusive behaviour will not be tolerated.Any participant that experiences and/or witnesses inappropriate behaviour is expected to report said behaviour to event staff.Any participant that experiences and/or witnesses inappropriate behaviour is encouraged to ask the offending individual to stop.Any participant asked to stop a behaviour is expected to comply immediately.
+
+    Event organizers reserve the right to respond to observed and/or reported behaviour in a manner deemed appropriate, including but not limited to expulsion without refund and referral to the relevant authorities.
+
+    It is our goal to ensure that the event is welcoming, enjoyable, and safe for all participants.Be exemplary for each other. See something, say something.
+
+  url: https://www.eventbrite.com/e/bsidesdfw-2018-tickets-50352821645?aff=ebapi
   is-free: true
-  starts: 2018-01-01T00:00:00.0000000
-  ends: 2019-01-01T00:00:00.0000000
-  venue: Jefferson County
-- name: 'Google Cloud + SoftServe Meet-up: Machine Learning Design, Demystified (Chicago)'
-  description: "Once available only to scientists, today machine learning (ML) is open to a much broader audience of software architects and engineers. In fact, the practice of ML is so advanced that some algorithm results look like \"black magic,” even to experienced practitioners. \n \nJoin us at the Google Chicago office for our latest meet-up, “Machine Learning Design, Demystified” for free food, beer, and discussion on machine learning architecture. \n \nInspired by attribute-driven design (ADD) and Smart Decisions (a software architecture design game for big data), our speakers are excited to share a new version of the game focused on designing ML systems.\n \nIn this interactive session, you will learn about designing the architecture for ML systems via series of gamified interactive exercises. We will simulate state-of-the-art ML design systems by analyzing both business and technical requirements, selecting the best matching algorithms, and teaching how to validate early design decisions using rapid prototyping techniques.\n \nAttendees are encouraged to think of an ML use case and bring it for discussion.\n \nDon’t forget to register to secure your spot! Each attendee must be registered using their own name and contact info to attend this event. No on-site registrations will be permitted.\n\n\n\nAbout the Speakers:\n\n\n\n\nSerge Haziyev – SVP, Advanced Technology\nSerge Haziyev works as a SVP, Advanced Technology at SoftServe, a digital authority that advises and provides at the cutting-edge of technology. Serge has more than 20 years of experience in various technology domains including: Big Data, AI, IoT, and Cloud Computing.\nHe is a co-author of Smart Decisions (a.k.a., architectural poker game) currently used by SEI CMU to teach students to design Big Data solutions. Also, Serge is an active contributor to the software community by sharing industry-best practices through scientific (and not-so-scientific) publications.\nSerge's current activities at SoftServe include leading AI, Big Data, IoT, and R&D advanced technology services, as well as conducting educational workshops, sharing concepts, and providing practical input to emerging technologies.\n\n\n\nIurii Milovanov – Data Science Practice Leader\nIurii Milovanov is a Data Science Practice Leader with more than 10 years of experience in building enterprise-level AI, big data and advanced analytics solutions.\nIurii is a computer science expert with strong emphasis on cutting-edge technologies. His research interests include various aspects of modern, progressive IT, and state-of-the-art artificial intelligence, such as distributed and parallel computing, large-scale machine learning, natural language processing, computer vision, and speech recognition.\nIurii is actively contributing to various research and scientific communities, including his participation in the KarooGP project, a genetic programming suite used at LIGO Lab for detecting gravitational-waves; SIMOC, an interactive model of a scalable, human community located on a remote planet; and DRLearner project, the first open source implementation of Google’s Deep Reinforcement Learning (DQN) algorithm for playing ATARI games.\n\n\n\nAgenda:\n\n6:00 PM – Doors Open\n6:15 PM – Speaker + Q&A\n7:15 PM – Networking "
-  url: https://www.eventbrite.com/e/google-cloud-softserve-meet-up-machine-learning-design-demystified-chicago-tickets-46204467807?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/45342558/136123400120/1/original.jpg?h=200&w=450&auto=compress&rect=0,1,1620,810&s=0fa1baa010294da698d519099d6534cd
-  starts: 2018-09-26T18:00:00.0000000
-  ends: 2018-09-26T20:00:00.0000000
-  venue: Google Chicago
-- name: Grand Circus Family Graduation Night
-  description: >
-    You have supported them, cheered them on and watched them grow into developers!
-
-    Join us as we graduate our latest Grand Circus Bootcamps!
-
-    This special evening is reserved for friends and families to allow everyone the ability to share in our students' accomplishments. Employers are encouraged to attend Demo Day on September 21st. 
-
-    The evening will consist of light snacks, project pitches and a short graduation ceremony for each of our cohorts.
-
-
-
-    6:00pm - 6:30pm: Light refreshments and mingling
-
-
-
-    6:30pm: Project presentations begin
-
-
-
-    7:15pm (or immediately after presentations): Graduation ceremony begins.
-
-
-
-
-    We look forward to celebrating with you!
-  url: https://www.eventbrite.com/e/grand-circus-family-graduation-night-tickets-49913226805?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49379359/130307949945/1/original.jpg?h=200&w=450&auto=compress&rect=0,488,5760,2880&s=e03875c35b21e3620521a262d2aa4917
-  starts: 2018-09-20T18:00:00.0000000
-  ends: 2018-09-20T20:00:00.0000000
-  venue: Grand Circus
+  logo: https://cdn.evbuc.com/images/49914504/41424419248/1/original.jpg?h=200&w=450&auto=compress&rect=0,174,698,349&s=31ed1a9ddf33a4f8dce05bbe6f24dcd2
+  starts: 2018-11-03T08:00:00.0000000
+  ends: 2018-11-03T18:00:00.0000000
+  venue: Richland College
 - name: America Makes MMX 2018
   description: >+
     The America Makes Annual Members Meeting & Exchange (MMX) event is our annual two-day event held in Youngstown, Ohio. This year’s event will be on October 30 & 31 at the historic Henry H. Stambaugh Auditorium ballroom. 
@@ -1240,3 +1087,127 @@
   starts: 2018-10-30T08:00:00.0000000
   ends: 2018-10-31T17:00:00.0000000
   venue: Stambaugh Auditorium
+- name: 'Google Cloud + SoftServe Meet-up: Machine Learning Design, Demystified (Chicago)'
+  description: "Once available only to scientists, today machine learning (ML) is open to a much broader audience of software architects and engineers. In fact, the practice of ML is so advanced that some algorithm results look like \"black magic,” even to experienced practitioners. \n \nJoin us at the Google Chicago office for our latest meet-up, “Machine Learning Design, Demystified” for free food, beer, and discussion on machine learning architecture. \n \nInspired by attribute-driven design (ADD) and Smart Decisions (a software architecture design game for big data), our speakers are excited to share a new version of the game focused on designing ML systems.\n \nIn this interactive session, you will learn about designing the architecture for ML systems via series of gamified interactive exercises. We will simulate state-of-the-art ML design systems by analyzing both business and technical requirements, selecting the best matching algorithms, and teaching how to validate early design decisions using rapid prototyping techniques.\n \nAttendees are encouraged to think of an ML use case and bring it for discussion.\n \nDon’t forget to register to secure your spot! Each attendee must be registered using their own name and contact info to attend this event. No on-site registrations will be permitted.\n\n\n\nAbout the Speakers:\n\n\n\n\nSerge Haziyev – SVP, Advanced Technology\nSerge Haziyev works as a SVP, Advanced Technology at SoftServe, a digital authority that advises and provides at the cutting-edge of technology. Serge has more than 20 years of experience in various technology domains including: Big Data, AI, IoT, and Cloud Computing.\nHe is a co-author of Smart Decisions (a.k.a., architectural poker game) currently used by SEI CMU to teach students to design Big Data solutions. Also, Serge is an active contributor to the software community by sharing industry-best practices through scientific (and not-so-scientific) publications.\nSerge's current activities at SoftServe include leading AI, Big Data, IoT, and R&D advanced technology services, as well as conducting educational workshops, sharing concepts, and providing practical input to emerging technologies.\n\n\n\nIurii Milovanov – Data Science Practice Leader\nIurii Milovanov is a Data Science Practice Leader with more than 10 years of experience in building enterprise-level AI, big data and advanced analytics solutions.\nIurii is a computer science expert with strong emphasis on cutting-edge technologies. His research interests include various aspects of modern, progressive IT, and state-of-the-art artificial intelligence, such as distributed and parallel computing, large-scale machine learning, natural language processing, computer vision, and speech recognition.\nIurii is actively contributing to various research and scientific communities, including his participation in the KarooGP project, a genetic programming suite used at LIGO Lab for detecting gravitational-waves; SIMOC, an interactive model of a scalable, human community located on a remote planet; and DRLearner project, the first open source implementation of Google’s Deep Reinforcement Learning (DQN) algorithm for playing ATARI games.\n\n\n\nAgenda:\n\n6:00 PM – Doors Open\n6:15 PM – Speaker + Q&A\n7:15 PM – Networking "
+  url: https://www.eventbrite.com/e/google-cloud-softserve-meet-up-machine-learning-design-demystified-chicago-tickets-46204467807?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/45342558/136123400120/1/original.jpg?h=200&w=450&auto=compress&rect=0,1,1620,810&s=0fa1baa010294da698d519099d6534cd
+  starts: 2018-09-26T18:00:00.0000000
+  ends: 2018-09-26T20:00:00.0000000
+  venue: Google Chicago
+- name: Big Year Jeffco
+  description: >2-
+
+
+    As part of our Land Stewardship Series Jeffco Invasive Species Management and Jeffco Open Space will be sponsoring BIG YEAR JEFFCO in 2018.
+
+    Because Jefferson County is home to over 200 species of birds, we decided to encourage people to get outside and document the birds they see within the county. Participants need to register to have their sightings be included in the BIG YEAR JEFFCO official count. Participants will also need an eBird account. eBird is the online venue for documenting the birds participants see and will be the official site for recording BIG YEAR JEFFCO sightings.
+
+
+
+    Visit eBird at: http://ebird.org/content/ebird/
+  url: https://www.eventbrite.com/e/big-year-jeffco-tickets-38816370810?aff=ebapi
+  is-free: true
+  starts: 2018-01-01T00:00:00.0000000
+  ends: 2019-01-01T00:00:00.0000000
+  venue: Jefferson County
+- name: Meet the Meetups II - MKE's tech largest meetup!
+  description: >
+    Milwaukee's largest tech gathering - Meet the Meetups will return this Fall at Venue 42 in the historic Pabst brewery neighborhood. Meet the Meetups' vision is to connect and celebrate the region's growing tech community. On October 23rd, 25+ of Southeast Wisconsin's top technology meetups and user groups will unite for a night filled with tech talks, pizza and craft beer! 
+
+
+    Meet the Meetups II will feature: 
+
+
+
+    Lightning technical talks crowdsourced from the local tech meetup community. Submit your talk by October 1st, here: https://goo.gl/forms/FL8nTkPkNFXCKlJd2
+
+
+
+    An opportunity to connect with the leaders of all participating meetup and user groups at the event
+
+
+
+    Technical demos from local companies
+
+
+
+    Meet the Meetups II is supported by Aurora Health Care, Delta Defense, Northwestern Mutual, Genesis10, MacGregor Partners, Mars Solutions Group, Skills Pipeline and Tesch Global.  Participating meetup and user groups include: AWS Milwaukee, Azure Meetup, Big Data MKE, Brew City UX, Creative Mornings Milwaukee, Docker Milwaukee, FinTech Wisconsin, Girl Develop It Milwaukee, Greater MKE Java Meetup, Laravel Milwaukee, Milwaukee Agile, Milwaukee Functional Programming User Group, Milwaukee JS, Milwaukee PHP User Group, MKE Blockchain Meetup, MKE Search, ReactJS Wisconsin, Salesforce Saturday, Startup Milwaukee, Web414, Wisconsin Salesforce Developer Group, Wisconsin .Net User Group, Wisconsin Technology Association and Women in Big Data’s Midwest Chapter.
+  url: https://www.eventbrite.com/e/meet-the-meetups-ii-mkes-tech-largest-meetup-tickets-50038918753?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49716198/158130094146/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,4500,2250&s=ec197fb23fa00f08ca8e23fde9ea57ad
+  starts: 2018-10-23T18:00:00.0000000
+  ends: 2018-10-23T20:30:00.0000000
+  venue: Venue 42
+- name: 'ManageEngine User Conference | Chicago | October 25 - 26, 2018 '
+  description: >-
+    We are excited to bring to you the ManageEngine User Conference 2018 in Chicago, USA on October 25 - 26, 2018.
+
+    At UserConf18, you'll discover new ways to make your IT simple, fast, and efficient with our solutions for:- IT service management- IT operations management- Windows Server and Active Directory management- Desktop and Mobile Device management- IT security management- IT analytics
+
+    At UserConf18, you will:- Learn about the latest IT management best practices- Take a sneak peek at new products, features, and integrations- Participate in the 1:1 sessions, breakout sessions, and hands-on demos- Seek and share pro tips and expert help- Listen to real-life customer implementations and network with peers
+
+    If you have any questions about UserConf18, please email us at userconf@manageengine.com or call us at +1 (925) 924-9500.
+
+    Tickets are priced at $199, and this includes breakfast, snacks, lunch and games on both days, and a networking reception at the end of Day 1!
+
+    *Early bird special: Grab your tickets for $99 using discount code MEUCEARLY18 at checkout! This special pricing is available until September 15th.
+  url: https://www.eventbrite.com/e/manageengine-user-conference-chicago-october-25-26-2018-tickets-46839444038?aff=ebapi
+  logo: https://cdn.evbuc.com/images/48839858/18521008841/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,800,400&s=e2831bf91e906aea937f30b7142b427e
+  starts: 2018-10-25T07:00:00.0000000
+  ends: 2018-10-26T16:30:00.0000000
+  venue: Chicago Marriott Southwest at Burr Ridge
+- name: UFSMA 2018
+  description: "\nUFSMA 2018\n(Utah Floodplain & Stormwater Management Conference) \nThe Conference registration fee is $185.00 and will go up to $230.00 after August  1, 2018. Our conference fee is your annual membership fee for UFSMA, which includes your conference registration, sneak peek to yearly trainings and CFM examination dates. Registration includes all your materials, breakfasts, lunches, snacks, and business meeting meal. The UFSMA Annual Conference is always a informative conference with great speakers. We look forward to seeing you and hearing some fantastic presentations! \n \n \nCONFERENCE HOTEL\nThe conference hotel is the Marriott Springhill Suites in Moab, Utah\n1865 N Hwy 191\nMoab, UT 84532\n435-355.0042\nConference Hotel Registration  http://www.ufsma.org/ufsma-annual-conference.html\nThe beautiful Fairfield Inn & Suites & Springhill Suites is the closest hotel to Arches & Canyonlands National Park and the only in town property on the banks of the Colorado River.  We are conveniently located next door to Canyonlands by Night’s activity center where you can participate in their world famous sound & light show with an option of their Dutch oven BBQ dinner nightly (April – October). Moab is just minutes away where you will find a variety of dining options, shopping and outfitters ready to service your individual needs. Hiking and biking trails start outside our doors to Arches National Park, Scenic by way 128 as well as trails leading to Moab and Dead Horse State Park.  Whatever outdoor adventure you are looking for we have it here in Moab! \nAt the Fairfield Inn & Suites & Springhill Suites you can count on a friendly welcome, a room that’s clean and comfortable, great features and amenities and service that will make you want to return again and again.  Weare proud to offer daily conveniences that help you focus on the more important tasks at hand, from prepping for a major presentation to spending the day relaxing or simply unwind.\n  \n \n\n\n "
+  url: https://www.eventbrite.com/e/ufsma-2018-tickets-42789984997?aff=ebapi
+  logo: https://cdn.evbuc.com/images/40409109/160817362262/1/original.jpg?h=200&w=450&auto=compress&rect=50,0,384,192&s=91e2c422b38136317e86846be85b0a09
+  starts: 2018-10-23T08:00:00.0000000
+  ends: 2018-10-26T13:00:00.0000000
+  venue: SpringHill Suites by Marriott Moab
+- name: 'The 2018 Science and Technology Fair:  Community Building & Sustainability'
+  description: >-
+    *** Free, Free, Free ***
+
+    The 2018 Science and Technology Fair: Community Building & Sustainability
+
+    Is presented by The Ministry of Science and Technology of The Greater Charlotte Area Local Organizing Committee & The Dorothy J. Vaughan Academy of Technology, Charlotte, NC.  Its purpose is to introduce Youth and our beloved community to the exciting world of STEM (Science, Technology, Engineering, Mathematics).  It will also include  Agriculture and Art. There will be over 35 Exhibits from science ministries, colleges, universities, institutes, youth organizations, organizations, businesses etc.  Various science projects will be on display associated with "Community Building & Sustainability."  What can we do as caretakers of our precious Earth to "Help Make Our Communities A Decent And Safe Place To Live" ?
+
+    It will include academic disciplines in the following fields ... Engineering (Aeronautical, Civil, Chemical, Electrical and Mechanical); Computer Science, Information Technology, Agriculture, Art and more ... Come learn about the various academic disciplines, top schools and professional organizations in the field. A learning experience for the whole family.
+
+    All Welcomed! A Free Event! All Must Register On Eventbrite!  Please Bring Your Printed Ticket (s) To The Fair.
+
+    Event Activities: A STEM Experience and More For The Whole Family ...
+
+    *10:00am - 11:45am - MultiPurpose Room:  Program / Guest Speakers 
+
+    *12:00pm - 3:00pm -   Gymnasium:  View Displays
+
+    Walk Through,View Exhibits, Ask Questions, Obtain Educational Materials 
+
+    For additional questions please call ... 704-659-3597 or email (preferred) ... MinistryOfScience.Technology16@gmail.com
+
+    ~ See You At The Fair ~
+
+    Please Feel Free To Share This Event On All Social Media ~ Thank You Very Much
+
+    Vivian Y. Stuart, retired college educator, scientist, Ministry of Science and Technology 
+  url: https://www.eventbrite.com/e/the-2018-science-and-technology-fair-community-building-sustainability-tickets-45114178723?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/46123884/69739943099/1/original.jpg?h=200&w=450&auto=compress&rect=10,360,678,339&s=4fefcda9af6e67e41f5cd3fab7aebe14
+  starts: 2018-09-22T09:00:00.0000000
+  ends: 2018-09-22T16:00:00.0000000
+  venue: Dorothy J. Vaughan Academy of Technology
+- name: Cream City Code - 2018
+  description: >-
+    Cream City Code is a one-day development conference in the Milwaukee area designed to bring together developers from the Midwest to explore new ideas, code, share knowledge and discover best practices.
+
+    This conference is for developers, designers, team leads & others who want to learn more about development. The conference hosts local, regional, national and world-renowned speakers presenting on the most engaging technologies and trends in development today. As an attendee you should also expect content on soft skills, culture, and best practices.
+
+    Learn more: www.creamcitycode.com
+
+    Follow us on Twitter: @creamcitycode
+  url: https://www.eventbrite.com/e/cream-city-code-2018-tickets-44368623748?aff=ebapi
+  logo: https://cdn.evbuc.com/images/42469415/24763413925/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=e764dc384685cadfa33773513a77f3d2
+  starts: 2018-10-13T08:00:00.0000000
+  ends: 2018-10-13T17:00:00.0000000
+  venue: Potawatomi Hotel & Casino
