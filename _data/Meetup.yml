@@ -92,6 +92,13 @@
   ends: 2018-10-01T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: How can Leeds win the tech race?
+  description: '<p>BusinessCloud has joined forces with leading property company Bruntwood for our breakfast event - ‘How Leeds can win the tech race ?– and will hear from some of the leading lights in the city’s digital industry.<br/>Come and meet us <a href="https://www.eventbrite.co.uk/e/how-leeds-can-win-the-tech-race-tickets-48479915733" class="linkified">https://www.eventbrite.co.uk/e/how-leeds-can-win-the-tech-race-tickets-48479915733</a></p> '
+  url: https://www.meetup.com/Leeds-Technology-Meetup/events/254882595/
+  is-free: true
+  starts: 2018-10-02T06:30:00.0000000
+  ends: 2018-10-02T08:30:00.0000000
+  venue: 3 Sovereign Square
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbfb/
@@ -128,14 +135,6 @@
   description: '<p>The JVM Thing 8.0 – Thursday 4th October</p> <p>Presented by Robin Moffatt @ Confluent.</p> <p>Robin will be talking about “Embrace the Anarchy: Apache Kafka’s role in Modern Data Architectures” followed by Q &amp; A.</p> <p>Robin is an Apache Kafka evangelist &amp; Dev Advocate @ Confluent. Robin has been a blogger since 2009, and has published over 100 articles; <a href="https://www.confluent.io/blog/author/robin" class="linkified">https://www.confluent.io/blog/author/robin</a>, <a href="http://rmoff.net" class="linkified">http://rmoff.net</a>, <a href="http://ritt.md/rmoff" class="linkified">http://ritt.md/rmoff</a>, and <a href="http://rnm1978.wordpress.com" class="linkified">http://rnm1978.wordpress.com</a>. Robin is an international speaker &amp; key organiser of the Leeds Apache Kafka meet-up.</p> <p>Follow Robin on Twitter: @rmoff</p> <p>Location – First Floor, Aireside House, 22-24, Aire Street, LS1 4HT.</p> <p>Free food &amp; drinks!</p> <p>Arrive – 6pm</p> <p>Start – 6.30pm</p> <p>Finish – 8pm</p> <p>Drinks afterwards</p> <p>Follow us on Twitter @The_JVM_Thing</p> <p>The JVM Thing is a tech networking group for the JVM language community, bringing together Software enthusiasts to show, tell, share knowledge and discuss key topics related to the JVM ecosystem.</p> '
   url: https://www.meetup.com/Leeds-JVMThing/events/254404621/
   is-free: true
-  starts: 2018-10-04T17:00:00.0000000
-  ends: 2018-10-04T19:00:00.0000000
-  venue: Aireside House
-- name: Apache Kafka’s role in Modern Data Architectures
-  description: "<p>**We are Co-Hosting this event with our friends form the The JVM Thing Meetup Group so please make sure you RSVP only in ONE of the meetup groups to help us keep track of the number. Thanks! **</p> <p>--------</p> <p>Presented by Robin Moffatt @ Confluent.</p> <p>Robin will be talking about “Embrace the Anarchy: Apache Kafka’s role in Modern Data Architectures” followed by Q &amp; A.</p> <p>Robin is an Apache Kafka evangelist &amp; Dev Advocate @ Confluent. Robin has been a blogger since 2009, and has published over 100 articles; <a href=\"https://www.confluent.io/blog/author/robin\" class=\"linkified\">https://www.confluent.io/blog/author/robin</a>, <a href=\"http://rmoff.net\" class=\"linkified\">http://rmoff.net</a>, <a href=\"http://ritt.md/rmoff\" class=\"linkified\">http://ritt.md/rmoff</a>, and <a href=\"http://rnm1978.wordpress.com\" class=\"linkified\">http://rnm1978.wordpress.com</a>. Robin is an international speaker &amp; key organiser of the Leeds Apache Kafka meet-up.</p> <p>Follow Robin on Twitter: @rmoff</p> <p>Location – First Floor, Aireside House, 22-24, Aire Street, LS1 4HT.</p> <p>Free food &amp; drinks!</p> <p>Arrive – 6pm</p> <p>Start – 6.30pm</p> <p>Finish – 8pm</p> <p>Drinks afterwards</p> <p>Follow us on Twitter @The_JVM_Thing</p> <p>The JVM Thing is a tech networking group for the JVM language community, bringing together Software enthusiasts to show, tell, share knowledge and discuss key topics related to the JVM ecosystem.</p> <p>--------</p> <p>Don't forget to join our Community Slack Team !</p> <p>If you would like to speak or host our next event please let us know! [masked]<br/>NOTE: We are unable to cater for any attendees under the age of 18. Please do not sign up for this event if you are under 18.</p> "
-  url: https://www.meetup.com/Leeds-Kafka/events/254703856/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/0/a/c/thumb_466557516.jpeg
   starts: 2018-10-04T17:00:00.0000000
   ends: 2018-10-04T19:00:00.0000000
   venue: Aireside House
