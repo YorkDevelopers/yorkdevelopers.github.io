@@ -54,28 +54,6 @@
   starts: 2018-11-03T13:00:00.0000000
   ends: 2018-11-03T16:30:00.0000000
   venue: Yorkshire Museum
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-45803539620?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
-  starts: 2018-10-04T18:30:00.0000000
-  ends: 2018-10-04T19:30:00.0000000
-- name: 'THYME workshop: proof-of-concept funding'
-  description: "Staff at the THYME universities of Hull, Teesside and York can apply for £30 – 50K to fund proof-of-concept projects that address one of THYME’s three Grand Challenges.  Each project must involve a minimum of two universities and may involve all three.  This meeting will bring together staff from THYME universities to network and discuss possible collaborative projects, suitable for proof-of-concept funding from THYME.\nThe workshop will also be an opportunity to gather expressions of interest in the THYME Inter-HEI placement scheme and entrepreneurship workshops.\nTHYME Project Grand Challenges\n 1.  Production of high value products from biowastes and by-products\nThere is an opportunity for the region to become a world leader in the conversion of bio-based waste to higher value chemicals with multibillion pound markets.  Waste, particularly urban organic waste, is a global issue and development of technology and business models is a major opportunity for both inward investment and as an exportable capability.  The region has the science base and the industrial absorptive capacity to become a world leader in the field. \n 2.  Re-purposing of industrial sites for bio-based manufacturing\nThe THYME Project will explore opportunities to re-purpose existing industrial sites into those for processing bio-based raw materials and manufacturing bio-based products.  The region has a wide range of opportunities in this area and projects that seek to evaluate these sites and generate plans for future development are sought.\n 3.  Increasing productivity of bio-based processes\nInnovation offers a wide range of opportunities to increase the productivity of bio-based processing, particularly by sharing technology between sectors.  The THYME Project will bring together expertise at Teesside, York and Hull to address a range of productivity bio-based processing challenges.  The opportunities for increasing productivity are extensive and include reducing waste; adding value to by-products, automating manufacturing processes; reducing energy and material inputs, developing better enzymes, vaccines, antibiotics and processing micro-organisms; adapting feedstocks and introducing one pot processes. This may include projects that support bioeconomy growth through the use of gaming, artificial intelligence, virtual reality and augmented reality. \n\nProgramme\n09:30 - 10:00 Coffee and registration\n10:00 - 10:30 Introduction to THYME and the proof-of-concept funding scheme, initial project ideas from York (Joe Ross, BDC Director)\n10:30 - 10:40 Initial project ideas from Teesside University (Geoff Archer, Head of Knowledge Exchange, Teesside University)\n10:40 - 10:50 Initial project ideas from the University of Hull (Maggie McGowan, Director of Research and Innovation, University of Hull)\n11:15 - 11:45 Q and A\n11:45 - 15:00 Table discussions, networking lunch and project development\n15:00: Wrap up and next steps.\n\n"
-  url: https://www.eventbrite.co.uk/e/thyme-workshop-proof-of-concept-funding-tickets-49386123224?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49576085/132068918034/1/original.jpg?h=200&w=450&auto=compress&rect=0,171,2048,1024&s=fa1b6ab13a2dd206cbc8f27dc244b4ae
-  starts: 2018-09-25T09:30:00.0000000
-  ends: 2018-09-25T15:00:00.0000000
-  venue: Novotel York Centre Hotel
 - name: 5th Physics Industry Recruitment and Placement Fair
   description: >-
     This event provides you with a unique opportunity to find out about specific physics-based:
@@ -275,8 +253,30 @@
   starts: 2018-10-10T12:00:00.0000000
   ends: 2018-10-10T15:30:00.0000000
   venue: Exhibition Centre
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-45803539620?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
+  starts: 2018-10-04T18:30:00.0000000
+  ends: 2018-10-04T19:30:00.0000000
+- name: 'THYME workshop: proof-of-concept funding'
+  description: "Staff at the THYME universities of Hull, Teesside and York can apply for £30 – 50K to fund proof-of-concept projects that address one of THYME’s three Grand Challenges.  Each project must involve a minimum of two universities and may involve all three.  This meeting will bring together staff from THYME universities to network and discuss possible collaborative projects, suitable for proof-of-concept funding from THYME.\nThe workshop will also be an opportunity to gather expressions of interest in the THYME Inter-HEI placement scheme and entrepreneurship workshops.\nTHYME Project Grand Challenges\n 1.  Production of high value products from biowastes and by-products\nThere is an opportunity for the region to become a world leader in the conversion of bio-based waste to higher value chemicals with multibillion pound markets.  Waste, particularly urban organic waste, is a global issue and development of technology and business models is a major opportunity for both inward investment and as an exportable capability.  The region has the science base and the industrial absorptive capacity to become a world leader in the field. \n 2.  Re-purposing of industrial sites for bio-based manufacturing\nThe THYME Project will explore opportunities to re-purpose existing industrial sites into those for processing bio-based raw materials and manufacturing bio-based products.  The region has a wide range of opportunities in this area and projects that seek to evaluate these sites and generate plans for future development are sought.\n 3.  Increasing productivity of bio-based processes\nInnovation offers a wide range of opportunities to increase the productivity of bio-based processing, particularly by sharing technology between sectors.  The THYME Project will bring together expertise at Teesside, York and Hull to address a range of productivity bio-based processing challenges.  The opportunities for increasing productivity are extensive and include reducing waste; adding value to by-products, automating manufacturing processes; reducing energy and material inputs, developing better enzymes, vaccines, antibiotics and processing micro-organisms; adapting feedstocks and introducing one pot processes. This may include projects that support bioeconomy growth through the use of gaming, artificial intelligence, virtual reality and augmented reality. \n\nProgramme\n09:30 - 10:00 Coffee and registration\n10:00 - 10:30 Introduction to THYME and the proof-of-concept funding scheme, initial project ideas from York (Joe Ross, BDC Director)\n10:30 - 10:40 Initial project ideas from Teesside University (Geoff Archer, Head of Knowledge Exchange, Teesside University)\n10:40 - 10:50 Initial project ideas from the University of Hull (Maggie McGowan, Director of Research and Innovation, University of Hull)\n11:15 - 11:45 Q and A\n11:45 - 15:00 Table discussions, networking lunch and project development\n15:00: Wrap up and next steps.\n\n"
+  url: https://www.eventbrite.co.uk/e/thyme-workshop-proof-of-concept-funding-tickets-49386123224?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49576085/132068918034/1/original.jpg?h=200&w=450&auto=compress&rect=0,171,2048,1024&s=fa1b6ab13a2dd206cbc8f27dc244b4ae
+  starts: 2018-09-25T09:30:00.0000000
+  ends: 2018-09-25T15:00:00.0000000
+  venue: Novotel York Centre Hotel
 - name: 'Bioladies Network & Girls in Science present    BIOCLUB '
-  description: "Are you a woman working in the bioeconomy and want to make new contacts? Are you a young lady hoping to become a Biolady one day?  *Register now for this networking event.  Join us for an evening packed with interesting people, useful information and networking. \nWhat is the bioeconomy?\nThe bioeconomy comprises those parts of the economy that use renewable biological resources from land and sea – such as crops, forests, fish, animals and micro-organisms – to produce food, materials and energy.\nMore information on Bioladies Network here   More information on Girls in Science here\nAGENDA\n4.30- Welcome                               Iris Anderson & Lakechia Jeanne\n4.35- My journey                            Lucie Pfalzgraff\n4.50- Mastering Physics                Rebecca Rafferty\n5.15- Value of Networking             Iris Anderson\n5.30-                         Networking and refreshments\n6.00- Spider  talk                           Dr Chris Holland, Uni of Sheffield\n6.20- UK Bioeconomy update       Yvonne Armitage, KTN \n6.50- European BioPerspective     Lucy Montgomery, NNFCC \n7.10- Sustainable construction      James Newton , Native Architects \n7.30-                         Networking and refreshments\n9.00 -Finish\n\n\n\n\n* Please note men working in the bioeconomy are welcome to attend this event."
+  description: "Are you a woman working in the bioeconomy and want to make new contacts? Are you a young lady hoping to become a Biolady one day?  *Register now for this networking event.  Join us for an evening packed with interesting people, useful information and networking. \nWhat is the bioeconomy?\nThe bioeconomy comprises those parts of the economy that use renewable biological resources from land and sea – such as crops, forests, fish, animals and micro-organisms – to produce food, materials and energy.\nMore information on Bioladies Network here   More information on Girls in Science here\nAGENDA:\n(Start to 6.00 aimed primarily at Girls in Science)\n4.30- Welcome                               Iris Anderson & Lakechia Jeanne\n4.35- My journey                            Lucie Pfalzgraff\n4.50- Mastering Physics                Rebecca Rafferty\n5.15- Value of Networking             Iris Anderson\n5.30-                         Networking and refreshments\n5.50 - The work of Biovale           Sarah Hickingbottom, CEO Biovale\n6.00- Spider  talk                           Dr Chris Holland, Uni of Sheffield\n6.20- UK Bioeconomy update       Yvonne Armitage, KTN \n6.50- European BioPerspective     Lucy Montgomery, NNFCC \n7.10- Sustainable construction      James Newton , Native Architects \n7.30-                         Networking and refreshments\n9.00 -Finish\nThe event is kindly sponsored by Biovale, a bioeconomy cluster which promotes Yorkshire and the Humber as a thriving centre of successful innovation for the bioeconomy and helps regional enterprise profit from the valuable business opportunities in this high growth sector. \n\n\n* Please note men working in the bioeconomy are welcome to attend this event."
   url: https://www.eventbrite.co.uk/e/bioladies-network-girls-in-science-present-bioclub-tickets-49430752712?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/49044475/175011662679/1/original.jpg?h=200&w=450&auto=compress&rect=0,65,316,158&s=0434dec814569d2cbfd5fe07c1bda4a2
@@ -331,6 +331,14 @@
   starts: 2018-11-01T09:30:00.0000000
   ends: 2018-11-01T16:00:00.0000000
   venue: Ron Cooke Hub, Deramore Lane
+- name: First of a Kind (FoaK) 2 Rail Competition Briefing - York
+  description: "“Demonstrating tomorrow’s stations and a greener railway” \r\nOpens 8 October 2018 \r\nDo you have an innovative product and service that is ready for market exploitation, but has not yet been tested in a real-world railway environment?\r\nOr are you a railway organisation with a vision to upgrade and future proof your rolling stock, infrastructure or stations?\r\nIf so, this First of a Kind (FoaK) 2 Competition will be for you. It is being delivered to “evaluate new rail technologies for the first time in real-world rail environments.”\r\nThe themes for this FoaK2 competition are:\r\n\r\nDecarbonising the railways: Decarbonisation is a priority across the network, including stations, rolling stock and infrastructure. Optimising energy use is a challenge that prioritises optimised on-board and lineside energy storage technologies, energy recovery systems, small-scale energy generation and harvesting technologies, novel electrification techniques and lightweight vehicle technology.\r\nCustomer experience in stations: This theme focuses on demonstrating how innovative technology can be integrated for the first time in a railway station. Within this theme, the vision of this competition is to fit a single station with a number of innovative solutions to enhance the passengers’ experience of using the station and to deliver a vision of the ‘station of the future’.\r\n\r\nInnovate UK, on behalf of the Department for Transport (DfT), will manage this FoaK 2 competition to accelerate innovation in the UK rail sector, enabling innovative solutions to take the final step to market readiness and integration into the railway system.\r\nFoaK 2 will break down barriers to the delivery of innovations into the rail industry, by proving that the innovation delivers the expected outcomes when integrated in a complex real-world rail application.\r\nInnovations for this competition must be:\r\n\r\nHigh TRL proven technologies – i.e. market ready\r\nVery low technology risk\r\nThe focus will be on: Integration activities; Demonstration proof of concept to customers and end-users; Collecting feedback from customers and users; Real innovations in the real world\r\n\r\nBusinesses can apply for a share of a substantial pot of money for First of a Kind technology to demonstrate aspects of tomorrow’s railway today. This competition offers the potential of 100% funding, with projects starting in early 2019.\r\nNot able to attend? There will also be briefings in London (11th October), where the scope and competition process presentations will also be available via webcast, and Cardiff (17th October).\r\n "
+  url: https://www.eventbrite.co.uk/e/first-of-a-kind-foak-2-rail-competition-briefing-york-registration-50356212788?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49916746/132030012589/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,960,480&s=751d499c04c15ee018e8fd371939ce30
+  starts: 2018-10-09T09:30:00.0000000
+  ends: 2018-10-09T16:00:00.0000000
+  venue: National Railway Museum (Main Entrance)
 - name: 'WE1: Website CMS Basic training (Thu 4 Oct 10:00-12:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -384,14 +392,6 @@
   starts: 2018-12-10T17:15:00.0000000
   ends: 2018-12-10T19:15:00.0000000
   venue: Acomb Explore Library
-- name: First of a Kind (FoaK) 2 Rail Competition Briefing - York
-  description: "“Demonstrating tomorrow’s stations and a greener railway” \r\nOpens 8 October 2018 \r\nDo you have an innovative product and service that is ready for market exploitation, but has not yet been tested in a real-world railway environment?\r\nOr are you a railway organisation with a vision to upgrade and future proof your rolling stock, infrastructure or stations?\r\nIf so, this First of a Kind (FoaK) 2 Competition will be for you. It is being delivered to “evaluate new rail technologies for the first time in real-world rail environments.”\r\nThe themes for this FoaK2 competition are:\r\n\r\nDecarbonising the railways: Decarbonisation is a priority across the network, including stations, rolling stock and infrastructure. Optimising energy use is a challenge that prioritises optimised on-board and lineside energy storage technologies, energy recovery systems, small-scale energy generation and harvesting technologies, novel electrification techniques and lightweight vehicle technology.\r\nCustomer experience in stations: This theme focuses on demonstrating how innovative technology can be integrated for the first time in a railway station. Within this theme, the vision of this competition is to fit a single station with a number of innovative solutions to enhance the passengers’ experience of using the station and to deliver a vision of the ‘station of the future’.\r\n\r\nInnovate UK, on behalf of the Department for Transport (DfT), will manage this FoaK 2 competition to accelerate innovation in the UK rail sector, enabling innovative solutions to take the final step to market readiness and integration into the railway system.\r\nFoaK 2 will break down barriers to the delivery of innovations into the rail industry, by proving that the innovation delivers the expected outcomes when integrated in a complex real-world rail application.\r\nInnovations for this competition must be:\r\n\r\nHigh TRL proven technologies – i.e. market ready\r\nVery low technology risk\r\nThe focus will be on: Integration activities; Demonstration proof of concept to customers and end-users; Collecting feedback from customers and users; Real innovations in the real world\r\n\r\nBusinesses can apply for a share of a substantial pot of money for First of a Kind technology to demonstrate aspects of tomorrow’s railway today. This competition offers the potential of 100% funding, with projects starting in early 2019.\r\nNot able to attend? There will also be briefings in London (11th October), where the scope and competition process presentations will also be available via webcast, and Cardiff (17th October).\r\n "
-  url: https://www.eventbrite.co.uk/e/first-of-a-kind-foak-2-rail-competition-briefing-york-registration-50356212788?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49916746/132030012589/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,960,480&s=751d499c04c15ee018e8fd371939ce30
-  starts: 2018-10-09T09:30:00.0000000
-  ends: 2018-10-09T16:00:00.0000000
-  venue: National Railway Museum (Main Entrance)
 - name: York Raspberry Jam - November
   description: >2-
 
@@ -406,6 +406,59 @@
   starts: 2018-11-19T17:15:00.0000000
   ends: 2018-11-19T19:15:00.0000000
   venue: Acomb Explore Library
+- name: 'EX1: Excel Essentials (Tue 25 Sept 11:00-12:00)'
+  description: >-
+    These courses are for students and staff at York St John University. Also available to Alumni.
+
+
+    EX2: Making sense of Excel data
+
+    Prior knowledge: Basic Excel skills equivalent to Excel1
+
+    Open badge available - Excel: Making sense of data
+
+    This course builds on Excel1 to make spreadsheets that are more robust for data entry and that help to analyse the data that they hold.
+
+    This course includes:
+
+
+    Using conditional formatting to highlight data
+
+    Validating entries using lists
+
+    Using Sparklines to show trends
+
+    Using tables to display data
+
+    Managing sheets, columns and windows
+
+    Using custom cell formats
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/ex1-excel-essentials-tue-25-sept-1100-1200-tickets-50526066826?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/50160704/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=ffe45e4e101e2581786847a09cc907ce
+  starts: 2018-09-25T11:00:00.0000000
+  ends: 2018-09-25T12:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: Get In The Game Careers Talks; University of York
   description: >-
     The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
@@ -654,59 +707,6 @@
   logo: https://cdn.evbuc.com/images/50117477/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=69deb507070bd8a9a44010a5de9700b4
   starts: 2018-11-22T11:00:00.0000000
   ends: 2018-11-22T12:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'EX1: Excel Essentials (Tue 25 Sept 11:00-12:00)'
-  description: >-
-    These courses are for students and staff at York St John University. Also available to Alumni.
-
-
-    EX2: Making sense of Excel data
-
-    Prior knowledge: Basic Excel skills equivalent to Excel1
-
-    Open badge available - Excel: Making sense of data
-
-    This course builds on Excel1 to make spreadsheets that are more robust for data entry and that help to analyse the data that they hold.
-
-    This course includes:
-
-
-    Using conditional formatting to highlight data
-
-    Validating entries using lists
-
-    Using Sparklines to show trends
-
-    Using tables to display data
-
-    Managing sheets, columns and windows
-
-    Using custom cell formats
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/ex1-excel-essentials-tue-25-sept-1100-1200-tickets-50526066826?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50160704/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=ffe45e4e101e2581786847a09cc907ce
-  starts: 2018-09-25T11:00:00.0000000
-  ends: 2018-09-25T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'Attracting and Retaining Women in STEM: The Conference'
   description: >+
@@ -1176,59 +1176,6 @@
   starts: 2018-10-31T15:00:00.0000000
   ends: 2018-10-31T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'EX1: Excel Essentials (Thu 27 Sep 14:00-15:00)'
-  description: >-
-    These courses are for students and staff at York St John University. Also available to Alumni.
-
-
-    EX2: Making sense of Excel data
-
-    Prior knowledge: Basic Excel skills equivalent to Excel1
-
-    Open badge available - Excel: Making sense of data
-
-    This course builds on Excel1 to make spreadsheets that are more robust for data entry and that help to analyse the data that they hold.
-
-    This course includes:
-
-
-    Using conditional formatting to highlight data
-
-    Validating entries using lists
-
-    Using Sparklines to show trends
-
-    Using tables to display data
-
-    Managing sheets, columns and windows
-
-    Using custom cell formats
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/ex1-excel-essentials-thu-27-sep-1400-1500-tickets-50495063093?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50117744/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=beb1b13c2b5887ccee8364809f5527d9
-  starts: 2018-09-27T14:00:00.0000000
-  ends: 2018-09-27T15:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'EX1: Excel Essentials (Tue 30 Oct 14:00-15:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -1356,15 +1303,6 @@
   starts: 2018-11-21T14:00:00.0000000
   ends: 2018-11-21T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/253804976/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-09-24T06:30:00.0000000
-  ends: 2018-09-24T09:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/253804977/
@@ -1949,6 +1887,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-03-13T07:30:00.0000000
   ends: 2019-03-13T10:30:00.0000000
+  venue: Drift In At fat Face
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzfbxb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-03-18T07:30:00.0000000
+  ends: 2019-03-18T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
 - name: Game Developers, Monthly Meeting
