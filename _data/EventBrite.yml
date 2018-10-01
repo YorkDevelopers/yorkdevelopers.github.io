@@ -11,19 +11,6 @@
   starts: 2018-12-11T19:00:00.0000000
   ends: 2018-12-11T20:30:00.0000000
   venue: St Peter's School
-- name: 'Professor Mark Pagel: Darwin Would Approve - The Evolution of Human Language'
-  description: >-
-    Exploring human communication through the lens of biology, Professor Pagel draws fascinating parallels between the evolution of language and the evolution of genes, explaining how our species has arrived at this point in our linguistic history.
-
-    Please either print off your ticket or display it to us on your smartphone or tablet on the evening.
-
-    Please note that parking on site will be limited, so other forms of transport are encouraged. The nearest public car park is Marygate, a few minutes' walk from the venue. Please contact us on 01904 526 315 or events@stpetersyork.org.uk if you have any access requirements.
-  url: https://www.eventbrite.co.uk/e/professor-mark-pagel-darwin-would-approve-the-evolution-of-human-language-tickets-49595760254?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48985047/87497926893/1/original.jpg?h=200&w=450&auto=compress&rect=0,60,300,150&s=c1ea70605601d62c8249d94f7ea4563a
-  starts: 2018-10-12T19:00:00.0000000
-  ends: 2018-10-12T20:30:00.0000000
-  venue: St Peter's School
 - name: 5th Physics Industry Recruitment and Placement Fair
   description: >-
     This event provides you with a unique opportunity to find out about specific physics-based:
@@ -227,6 +214,19 @@
   starts: 2018-10-10T12:00:00.0000000
   ends: 2018-10-10T15:30:00.0000000
   venue: Exhibition Centre
+- name: 'Professor Mark Pagel: Darwin Would Approve - The Evolution of Human Language'
+  description: >-
+    Exploring human communication through the lens of biology, Professor Pagel draws fascinating parallels between the evolution of language and the evolution of genes, explaining how our species has arrived at this point in our linguistic history.
+
+    Please either print off your ticket or display it to us on your smartphone or tablet on the evening.
+
+    Please note that parking on site will be limited, so other forms of transport are encouraged. The nearest public car park is Marygate, a few minutes' walk from the venue. Please contact us on 01904 526 315 or events@stpetersyork.org.uk if you have any access requirements.
+  url: https://www.eventbrite.co.uk/e/professor-mark-pagel-darwin-would-approve-the-evolution-of-human-language-tickets-49595760254?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48985047/87497926893/1/original.jpg?h=200&w=450&auto=compress&rect=0,60,300,150&s=c1ea70605601d62c8249d94f7ea4563a
+  starts: 2018-10-12T19:00:00.0000000
+  ends: 2018-10-12T20:30:00.0000000
+  venue: St Peter's School
 - name: How Artificial Intelligence and machine learning can help those living with Parkinson’s
   description: >-
     Speaker(s):  Professor Stephen Smith, Department of Electronic Engineering
@@ -287,21 +287,6 @@
   starts: 2018-10-24T16:30:00.0000000
   ends: 2018-10-24T21:30:00.0000000
   venue: Pitcher & Piano
-- name: Osprey Approach User Group - York
-  description: >-
-    Over the autumn, Pracctice will be holding eight interactive roadshows at various locations across England and Wales. The events, which are completely free of charge to attend, reflect our commitment to ensuring that you are better informed about our latest product releases and services. It’s also a chance for us to meet face to face, and for you to have your say on what areas you would like to see improved - or even added - in the future.
-
-    At each event, our dedicated team will be on hand to help answer any questions that you may have, so it’s a great opportunity to pick up useful hints and tips whilst ensuring you’re getting the most out of Osprey software.
-
-    Our CEO, Craig Matthews, will be sharing with you the latest updates on our software development plans, as well as providing insight into the future direction of Osprey and our vision for IT beyond that. Following Craig’s overview, he will be holding all day ‘open door’ sessions at each event, giving you the option of dipping out of part of the workshop to discuss a specific topic or issue with Craig.
-
-    ospreyapproach.com
-  url: https://www.eventbrite.co.uk/e/osprey-approach-user-group-york-tickets-49280848344?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48788337/268167050510/1/original.jpg?h=200&w=450&auto=compress&rect=0,181,1754,877&s=aa311dd95734189be7c5c78a8fe8e565
-  starts: 2018-11-01T09:30:00.0000000
-  ends: 2018-11-01T16:00:00.0000000
-  venue: Ron Cooke Hub, Deramore Lane
 - name: York Raspberry Jam - November
   description: >2-
 
@@ -369,14 +354,6 @@
   starts: 2018-12-10T17:15:00.0000000
   ends: 2018-12-10T19:15:00.0000000
   venue: Acomb Explore Library
-- name: Modern Modelling and Computation in Nuclear Structure
-  description: Dr Alessandro PastoreUniversity of YorkDelivered by face-to-face (residential) lectures in York.Delivery may be in two phases with assigned work inbetween.
-  url: https://www.eventbrite.co.uk/e/modern-modelling-and-computation-in-nuclear-structure-tickets-41391288458?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/38805291/228977561020/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1200,600&s=d36934c648f414b2bf20fedc74eaf381
-  starts: 2018-09-01T09:00:00.0000000
-  ends: 2018-10-28T07:00:00.0000000
-  venue: Department of Physics
 - name: 'PS1: Photoshop Essentials inc. for website editors (Thu 4 Oct 15:00-16:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -436,6 +413,14 @@
   starts: 2018-10-04T15:00:00.0000000
   ends: 2018-10-04T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Modern Modelling and Computation in Nuclear Structure
+  description: Dr Alessandro PastoreUniversity of YorkDelivered by face-to-face (residential) lectures in York.Delivery may be in two phases with assigned work inbetween.
+  url: https://www.eventbrite.co.uk/e/modern-modelling-and-computation-in-nuclear-structure-tickets-41391288458?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/38805291/228977561020/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1200,600&s=d36934c648f414b2bf20fedc74eaf381
+  starts: 2018-09-01T09:00:00.0000000
+  ends: 2018-10-28T07:00:00.0000000
+  venue: Department of Physics
 - name: 'PS1: Photoshop Essentials inc. for website editors (Tue 23 Oct 14:00-15:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -727,6 +712,65 @@
   logo: https://cdn.evbuc.com/images/50116079/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=6b17538461d3bd19b7cf07dd7a3ad653
   starts: 2018-10-16T11:00:00.0000000
   ends: 2018-10-16T12:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'PS1: Photoshop Essentials inc. for website editors (Wed 31 Oct 15:00-16:00)'
+  description: >-
+    These courses are for students and staff at York St John University
+
+
+    PS1: Photoshop Essentials
+
+    Prior knowledge: None
+
+    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
+
+
+    Understanding the workspace
+
+    Cropping existing images
+
+    Resizing images
+
+    Saving for the Web
+
+    Understanding image formats
+
+    Using filters and corrections
+
+    Using the text tool
+
+    Handling difficult shaped images
+
+    Compositing multiple images
+
+    Saving for different uses
+
+    Adding a background
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-wed-31-oct-1500-1600-tickets-50494872523?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/50117409/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=2a5354dd214faecd355581d2f10da73a
+  starts: 2018-10-31T15:00:00.0000000
+  ends: 2018-10-31T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'PS1: Photoshop Essentials inc. for website editors (Thu 22 Nov 11:00-12:00)'
   description: >-
@@ -1024,65 +1068,6 @@
   logo: https://cdn.evbuc.com/images/50116823/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=96e9f2fb96ed7dc3f6911f9654ab897c
   starts: 2018-11-22T14:00:00.0000000
   ends: 2018-11-22T15:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'PS1: Photoshop Essentials inc. for website editors (Wed 31 Oct 15:00-16:00)'
-  description: >-
-    These courses are for students and staff at York St John University
-
-
-    PS1: Photoshop Essentials
-
-    Prior knowledge: None
-
-    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
-
-
-    Understanding the workspace
-
-    Cropping existing images
-
-    Resizing images
-
-    Saving for the Web
-
-    Understanding image formats
-
-    Using filters and corrections
-
-    Using the text tool
-
-    Handling difficult shaped images
-
-    Compositing multiple images
-
-    Saving for different uses
-
-    Adding a background
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-wed-31-oct-1500-1600-tickets-50494872523?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50117409/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=2a5354dd214faecd355581d2f10da73a
-  starts: 2018-10-31T15:00:00.0000000
-  ends: 2018-10-31T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'EX1: Excel Essentials (Tue 30 Oct 14:00-15:00)'
   description: >-
