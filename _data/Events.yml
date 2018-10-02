@@ -301,6 +301,22 @@
   starts: 2018-11-19T17:15:00.0000000
   ends: 2018-11-19T19:15:00.0000000
   venue: Acomb Explore Library
+- name: York Pi Jam - December
+  description: >2-
+
+    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
+
+    Celebrate Christmas with us by coding festive projects, wearing your Christmas jumper and eating mince pies.
+
+    You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
+
+    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
+  url: https://www.eventbrite.co.uk/e/york-pi-jam-december-tickets-49963571387?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49444960/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=af3f836ff8aeb7159e4b58b9cfc4dd48
+  starts: 2018-12-10T17:15:00.0000000
+  ends: 2018-12-10T19:15:00.0000000
+  venue: Acomb Explore Library
 - name: 'WE1: Website CMS Basic training (Thu 4 Oct 10:00-12:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -338,22 +354,6 @@
   starts: 2018-10-04T10:00:00.0000000
   ends: 2018-10-04T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: York Pi Jam - December
-  description: >2-
-
-    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
-
-    Celebrate Christmas with us by coding festive projects, wearing your Christmas jumper and eating mince pies.
-
-    You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
-
-    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
-  url: https://www.eventbrite.co.uk/e/york-pi-jam-december-tickets-49963571387?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49444960/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=af3f836ff8aeb7159e4b58b9cfc4dd48
-  starts: 2018-12-10T17:15:00.0000000
-  ends: 2018-12-10T19:15:00.0000000
-  venue: Acomb Explore Library
 - name: 'PS1: Photoshop Essentials inc. for website editors (Thu 4 Oct 15:00-16:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -575,6 +575,14 @@
   starts: 2018-10-02T19:30:00.0000000
   ends: 2018-10-02T21:00:00.0000000
   venue: Priory Street Centre
+- name: Systems Change Thinking - Closing the Loop
+  description: "Systems Change Thinking - Creating Value and Closing the Loop from Unavoidable Food Supply Chain Wastes\nWe are delighted to announce an opportunity to attend a free, one-day event on understanding the chemical and environmental benefits of utilising unavoidable food supply chain wastes (UFSCW). Current strategies for dealing with UFSCW are rudimentary and of low value: these include waste to energy (including incineration and anaerobic digestion), animal feed and bedding; composting; ploughing back in to soil; and, least preferably, landfill. \nIn response, this event explores UFSCW as a unique bioresource: a treasure trove of unexploited, bio-based materials and chemicals, with a range of potential commercial applications underpinned by holistic life-cycle thinking.\nThe event will be of particular interest to companies of all sizes wishing to valorise food waste streams as well as academics and policy makers. Particular benefits to attendees include:\n\n\nAn introduction to the new Sustainable Waste Valorisation Identifier (SWaVI)  tool which enables companies to identify and compare different potential valorisation strategies based on economic viability as well as sustainability and technological readiness.\n\n\nA chance to listen to key industrialists, academics and consultants discuss valorisation from not only a company, but also a more holistic supply chain perspective.\n\n\nThe opportunity to hear from leading academic and industrial speakers about the latest, novel, technical approaches to food waste valorisation.\n\n\nThe ability to interact and connect with researchers, industrialists and policy makers interested in collaborative UK and global projects.\n\n\nPoster abstract submission deadline\nThe deadline for poster abstract submission is Monday 29th October.\n\n\nDownload the abstract template form\n\n\nSubmit your completed abstract form to sophie.palmer@york.ac.uk as a word document or share as a Google Doc\n\n\nContributed poster presentations A0 format \n\n\nProgramme\nSession One: Holistic Systems Change (Chair: Professor Shahin Rahimifard, Loughborough University)\nSession Two: Change, Technology and Methodologies (Chair: Professor Timothy Foster, University of Nottingham)\nSession Three: Influencing Systems Change (Chair: Dr Avtar Matharu, University of York)\nLunch and refreshments provided.\nInvited Speakers\nHugh Powell Product Technology Centre, Nestlé\nZainudin Umar Global Food Structure & Ingredient Science, PepsiCo International\nSponsorship\nIf you would like to sponsor or exhibit at the event, please contact sophie.palmer@york.ac.uk for more details.\nWe gratefully acknowledge funding from the Engineering and Physical Sciences Research Council (Re-SAUCE project EP/P008771/1) which has contributed to the organisation of this free event."
+  url: https://www.eventbrite.co.uk/e/systems-change-thinking-closing-the-loop-tickets-50214579158?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49756050/134225108448/1/original.jpg?h=200&w=450&auto=compress&rect=71,0,2016,1008&s=8b584faf6f4e3be92fded545150f5a54
+  starts: 2018-12-03T09:30:00.0000000
+  ends: 2018-12-03T16:30:00.0000000
+  venue: Lakehouse, The Ron Cooke Hub
 - name: 'WO2: Word Essay & dissertation (Fri 12 Oct 10:00-11:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -923,14 +931,6 @@
   starts: 2018-11-26T09:00:00.0000000
   ends: 2018-11-26T16:00:00.0000000
   venue: The Principal York
-- name: Systems Change Thinking - Closing the Loop
-  description: "Systems Change Thinking - Creating Value and Closing the Loop from Unavoidable Food Supply Chain Wastes\nWe are delighted to announce an opportunity to attend a free, one-day event on understanding the chemical and environmental benefits of utilising unavoidable food supply chain wastes (UFSCW). Current strategies for dealing with UFSCW are rudimentary and of low value: these include waste to energy (including incineration and anaerobic digestion), animal feed and bedding; composting; ploughing back in to soil; and, least preferably, landfill. \nIn response, this event explores UFSCW as a unique bioresource: a treasure trove of unexploited, bio-based materials and chemicals, with a range of potential commercial applications underpinned by holistic life-cycle thinking.\nThe event will be of particular interest to companies of all sizes wishing to valorise food waste streams as well as academics and policy makers. Particular benefits to attendees include:\n\n\nAn introduction to the new Sustainable Waste Valorisation Identifier (SWaVI)  tool which enables companies to identify and compare different potential valorisation strategies based on economic viability as well as sustainability and technological readiness.\n\n\nA chance to listen to key industrialists, academics and consultants discuss valorisation from not only a company, but also a more holistic supply chain perspective.\n\n\nThe opportunity to hear from leading academic and industrial speakers about the latest, novel, technical approaches to food waste valorisation.\n\n\nThe ability to interact and connect with researchers, industrialists and policy makers interested in collaborative UK and global projects.\n\n\nPoster abstract submission deadline\nThe deadline for poster abstract submission is Monday 29th October.\n\n\nDownload the abstract template form\n\n\nSubmit your completed abstract form to sophie.palmer@york.ac.uk as a word document or share as a Google Doc\n\n\nContributed poster presentations A0 format \n\n\nProgramme\nSession One: Holistic Systems Change (Chair: Professor Shahin Rahimifard, Loughborough University)\nSession Two: Change, Technology and Methodologies (Chair: Professor Timothy Foster, University of Nottingham)\nSession Three: Influencing Systems Change (Chair: Dr Avtar Matharu, University of York)\nLunch and refreshments provided.\nInvited Speakers\nHugh Powell Product Technology Centre, Nestlé\nZainudin Umar Global Food Structure & Ingredient Science, PepsiCo International\nSponsorship\nIf you would like to sponsor or exhibit at the event, please contact sophie.palmer@york.ac.uk for more details.\nWe gratefully acknowledge funding from the Engineering and Physical Sciences Research Council (Re-SAUCE project EP/P008771/1) which has contributed to the organisation of this free event."
-  url: https://www.eventbrite.co.uk/e/systems-change-thinking-closing-the-loop-tickets-50214579158?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49756050/134225108448/1/original.jpg?h=200&w=450&auto=compress&rect=71,0,2016,1008&s=8b584faf6f4e3be92fded545150f5a54
-  starts: 2018-12-03T09:30:00.0000000
-  ends: 2018-12-03T16:30:00.0000000
-  venue: Lakehouse, The Ron Cooke Hub
 - name: 'WO2: Word Essay & dissertation (Tue 13 Nov 15:00-16:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -1151,15 +1151,6 @@
   starts: 2018-11-21T14:00:00.0000000
   ends: 2018-11-21T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/254576558/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-10-01T06:30:00.0000000
-  ends: 2018-10-01T09:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
 - name: How can Leeds win the tech race?
   description: '<p>BusinessCloud has joined forces with leading property company Bruntwood for our breakfast event - ‘How Leeds can win the tech race ?– and will hear from some of the leading lights in the city’s digital industry.<br/>Come and meet us <a href="https://www.eventbrite.co.uk/e/how-leeds-can-win-the-tech-race-tickets-48479915733" class="linkified">https://www.eventbrite.co.uk/e/how-leeds-can-win-the-tech-race-tickets-48479915733</a></p> '
   url: https://www.meetup.com/Leeds-Technology-Meetup/events/254882595/
@@ -1267,7 +1258,6 @@
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/254682517/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/d/c/thumb_474486620.jpeg
   starts: 2018-10-12T11:30:00.0000000
   ends: 2018-10-12T12:30:00.0000000
   venue: La Bottega Milanese
@@ -1741,6 +1731,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-03-21T19:00:00.0000000
   ends: 2019-03-21T22:00:00.0000000
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzfbhc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-03-25T07:30:00.0000000
+  ends: 2019-03-25T10:30:00.0000000
+  venue: Drift In At fat Face
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
