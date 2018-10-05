@@ -132,6 +132,8 @@
 
     CGI
 
+    ClearSky Medical Diagnostics
+
     Cummins Ltd
 
     d-fine Ltd
@@ -257,20 +259,6 @@
   starts: 2018-11-03T13:00:00.0000000
   ends: 2018-11-03T16:30:00.0000000
   venue: Yorkshire Museum
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-45803539620?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
-  starts: 2018-10-04T18:30:00.0000000
-  ends: 2018-10-04T19:30:00.0000000
 - name: First of a Kind (FoaK) 2 Rail Competition Briefing - York
   description: "“Demonstrating tomorrow’s stations and a greener railway” \r\nOpens 8 October 2018 \r\nDo you have an innovative product and service that is ready for market exploitation, but has not yet been tested in a real-world railway environment?\r\nOr are you a railway organisation with a vision to upgrade and future proof your rolling stock, infrastructure or stations?\r\nIf so, this First of a Kind (FoaK) 2 Competition will be for you. It is being delivered to “evaluate new rail technologies for the first time in real-world rail environments.”\r\nThe themes for this FoaK2 competition are:\r\n\r\nDecarbonising the railways: Decarbonisation is a priority across the network, including stations, rolling stock and infrastructure. Optimising energy use is a challenge that prioritises optimised on-board and lineside energy storage technologies, energy recovery systems, small-scale energy generation and harvesting technologies, novel electrification techniques and lightweight vehicle technology.\r\nCustomer experience in stations: This theme focuses on demonstrating how innovative technology can be integrated for the first time in a railway station. Within this theme, the vision of this competition is to fit a single station with a number of innovative solutions to enhance the passengers’ experience of using the station and to deliver a vision of the ‘station of the future’.\r\n\r\nInnovate UK, on behalf of the Department for Transport (DfT), will manage this FoaK 2 competition to accelerate innovation in the UK rail sector, enabling innovative solutions to take the final step to market readiness and integration into the railway system.\r\nFoaK 2 will break down barriers to the delivery of innovations into the rail industry, by proving that the innovation delivers the expected outcomes when integrated in a complex real-world rail application.\r\nInnovations for this competition must be:\r\n\r\nHigh TRL proven technologies – i.e. market ready\r\nVery low technology risk\r\nThe focus will be on: Integration activities; Demonstration proof of concept to customers and end-users; Collecting feedback from customers and users; Real innovations in the real world\r\n\r\nBusinesses can apply for a share of a substantial pot of money for First of a Kind technology to demonstrate aspects of tomorrow’s railway today. This competition offers the potential of 100% funding, with projects starting in early 2019.\r\nNot able to attend? There will also be briefings in London (11th October), where the scope and competition process presentations will also be available via webcast, and Cardiff (17th October).\r\n "
   url: https://www.eventbrite.co.uk/e/first-of-a-kind-foak-2-rail-competition-briefing-york-registration-50356212788?aff=ebapi
@@ -280,12 +268,97 @@
   ends: 2018-10-09T16:00:00.0000000
   venue: National Railway Museum (Main Entrance)
 - name: 'Bioladies Network & Girls in Science present    BIOCLUB '
-  description: "Are you a woman working in the bioeconomy and want to make new contacts? Are you a young lady hoping to become a Biolady one day?  *Register now for this networking event.  Join us for an evening packed with interesting people, useful information and networking. \nWhat is the bioeconomy?\nThe bioeconomy comprises those parts of the economy that use renewable biological resources from land and sea – such as crops, forests, fish, animals and micro-organisms – to produce food, materials and energy.\nMore information on Bioladies Network here   More information on Girls in Science here\nAGENDA:\n(Start to 6.00 aimed primarily at Girls in Science)\n4.30- Welcome                               Iris Anderson & Lakechia Jeanne\n4.35- My journey                            Lucie Pfalzgraff\n4.50- Mastering Physics                Rebecca Rafferty\n5.15- Value of Networking             Iris Anderson\n5.30-                         Networking and refreshments\n5.50 - The work of Biovale           Sarah Hickingbottom, CEO Biovale\n6.00- Spider  talk                           Dr Chris Holland, Uni of Sheffield\n6.20- UK Bioeconomy update       Yvonne Armitage, KTN \n6.50- European BioPerspective     Lucy Montgomery, NNFCC \n7.10- Sustainable construction      James Newton , Native Architects \n7.30-                         Networking and refreshments\n9.00 -Finish\nThe event is kindly sponsored by Biovale, a bioeconomy cluster which promotes Yorkshire and the Humber as a thriving centre of successful innovation for the bioeconomy and helps regional enterprise profit from the valuable business opportunities in this high growth sector. \n\n\n* Please note men working in the bioeconomy are welcome to attend this event."
+  description: "Are you a woman working in the bioeconomy and want to make new contacts? Are you a young lady hoping to become a Biolady one day?  *Register now for this networking event.  Join us for an evening packed with interesting people, useful information and networking. \nWhat is the bioeconomy?\nThe bioeconomy comprises those parts of the economy that use renewable biological resources from land and sea – such as crops, forests, fish, animals and micro-organisms – to produce food, materials and energy.\nMore information on Bioladies Network here   More information on Girls in Science here\nThe early part of the event is aimed at young ladies at sixth form or working in bio areas who want to network and progress their career plans. The later section is for bioladies and gents who want to keep up with progress in the bioeconomy, meet like minded people and network.\nAGENDA:\n(4.30 to 5.30 is aimed primarily at Girls in Science)\n4.30- Welcome                               Iris Anderson & Lakechia Jeanne\n4.35- My journey                            Lucie Pfalzgraff\n4.50- Mastering Physics                Rebecca Rafferty\n5.15- Value of Networking             Iris Anderson\n5.30-                         Networking and refreshments\n(Bioladies section starts at 5.50 but come early if you can as valuable for girls to network with you) \n5.50 - Biovale, what next?            Sarah Hickingbottom, CEO Biovale\n6.00- Spider  talk                           Dr Chris Holland, Uni of Sheffield\n6.20- UK Bioeconomy update       Yvonne Armitage, KTN \n6.50- European BioPerspective     Lucy Montgomery, NNFCC \n7.10- Sustainable construction      James Newton , Native Architects \n7.30-                         Networking and refreshments\n9.00 -Finish\nThe event is kindly sponsored by Biovale, a bioeconomy cluster which promotes Yorkshire and the Humber as a thriving centre of successful innovation for the bioeconomy and helps regional enterprise profit from the valuable business opportunities in this high growth sector. \n\n\n* Please note men working in the bioeconomy are welcome to attend this event."
   url: https://www.eventbrite.co.uk/e/bioladies-network-girls-in-science-present-bioclub-tickets-49430752712?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/49044475/175011662679/1/original.jpg?h=200&w=450&auto=compress&rect=0,65,316,158&s=0434dec814569d2cbfd5fe07c1bda4a2
   starts: 2018-10-24T16:30:00.0000000
   ends: 2018-10-24T21:30:00.0000000
+  venue: Pitcher & Piano
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-45803540623?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
+  starts: 2018-10-18T18:30:00.0000000
+  ends: 2018-10-18T19:30:00.0000000
+- name: Women in Tech Presents Future Tech
+  description: >-
+    Welcome to Women in Tech York's FutureTech event!
+
+    We are a community of like-minded people, studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.
+
+    Our theme this month is Future Tech and there will be a free buffet (vegetarian and vegan options avaliable) thanks to our sponsors Isotoma and Mitrefinch.
+
+
+    Event Timings:
+
+    18:00: Registration Opens
+
+    18:30: Introduction
+
+    18:40: Quantum Computation: From Strange Physics To The Computers Of The Future - Rosanna Nichols
+
+    Quantum mechanics displays some truly strange phenomena: for example, superposition, where a particle can be in several “states” (with different properties such as positions or energies) at once. This quantumness is incredibly fragile and hidden to our clumsy, classical eyes but manifests itself at the microscopic level. If we can construct computers to manipulate and exploit these phenomena then a radically different way of computing becomes possible. This is the realm of quantum computing.
+
+    This talk will cover what superposition really means and why this could provide an advantage in computing. We’ll see what algorithms have already been developed, including a closer look at some of the simplest, and how they compare to their classical equivalents, as well as how they are starting to be implemented at an experimental level.
+
+    19:15: Buffet
+
+    19:45: Ian Smith
+
+    Talk details TBC
+
+    20:30: Networking
+
+    21:00: Event close
+
+
+
+    Giveaway!
+
+    We will be having our usual twitter giveaway at this event, details will be released shortly.
+
+    This month we are also really pleased to announce we will be giving away 5 tickets to the SIAM Conference (https://scopism.com/events/)  thanks to one of our members - details on how to enter will be announced on the night!
+
+
+
+
+    Nervous about attending?
+
+    A WiT York ambassador will be outside Pitcher & Piano to greet you on the night, direct you to our upstairs bar and answer any questions you may have.
+
+    You can also join our Slack community beforehand or contact us directly via Twitter or email.
+
+
+
+    Slack: https://wit-york.slack.com
+
+
+
+    LinkedIn: Women in Tech York
+
+
+
+    Twitter: @WiT_York
+
+
+
+    Code of Conduct
+
+    The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack.
+  url: https://www.eventbrite.co.uk/e/women-in-tech-presents-future-tech-tickets-50920506606?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/50725123/235318357053/1/original.jpg?h=200&w=450&auto=compress&rect=0,125,1748,874&s=daaed063665ea8126deb21309ce262b6
+  starts: 2018-10-18T18:00:00.0000000
+  ends: 2018-10-18T21:00:00.0000000
   venue: Pitcher & Piano
 - name: York Raspberry Jam - November
   description: >2-
@@ -428,43 +501,6 @@
   starts: 2018-10-22T10:00:00.0000000
   ends: 2018-10-22T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'WE1: Website CMS Basic training (Thu 4 Oct 10:00-12:00)'
-  description: >-
-    These courses are for staff who have been approved by the website team only
-
-
-    WE1: Website CMS basics
-
-    Prior knowledge: None
-
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to staff given prior approval by the website team
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-thu-4-oct-1000-1200-tickets-49839479224?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49279984/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0af4e8c753d58827ceb2ff33f37baa36
-  starts: 2018-10-04T10:00:00.0000000
-  ends: 2018-10-04T12:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: '#exabits: Teacher HackJam, York 12Nov18'
   description: >
     Aims: An adult-only, social gathering for teachers/non-teachers sharing a common interest in Computing education. 
@@ -533,65 +569,6 @@
   starts: 2018-09-01T09:00:00.0000000
   ends: 2018-10-28T07:00:00.0000000
   venue: Department of Physics
-- name: 'PS1: Photoshop Essentials inc. for website editors (Thu 4 Oct 15:00-16:00)'
-  description: >-
-    These courses are for students and staff at York St John University
-
-
-    PS1: Photoshop Essentials
-
-    Prior knowledge: None
-
-    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
-
-
-    Understanding the workspace
-
-    Cropping existing images
-
-    Resizing images
-
-    Saving for the Web
-
-    Understanding image formats
-
-    Using filters and corrections
-
-    Using the text tool
-
-    Handling difficult shaped images
-
-    Compositing multiple images
-
-    Saving for different uses
-
-    Adding a background
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-thu-4-oct-1500-1600-tickets-50494695995?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50117121/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=edb70702faf20130c859866da7cbfece
-  starts: 2018-10-04T15:00:00.0000000
-  ends: 2018-10-04T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: Get In The Game Careers Talks; University of York
   description: >-
     The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
@@ -1211,74 +1188,3 @@
   starts: 2018-11-21T14:00:00.0000000
   ends: 2018-11-21T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Women in Tech Presents Future Tech
-  description: >-
-    Welcome to Women in Tech York's FutureTech event!
-
-    We are a community of like-minded people, studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.
-
-    Our theme this month is Future Tech and there will be a free buffet (vegetarian and vegan options avaliable) thanks to our sponsors Isotoma and Mitrefinch.
-
-
-    Event Timings:
-
-    18:00: Registration Opens
-
-    18:30: Introduction
-
-    18:40: Quantum Computation: From Strange Physics To The Computers Of The Future - Rosanna Nichols
-
-    Quantum mechanics displays some truly strange phenomena: for example, superposition, where a particle can be in several “states” (with different properties such as positions or energies) at once. This quantumness is incredibly fragile and hidden to our clumsy, classical eyes but manifests itself at the microscopic level. If we can construct computers to manipulate and exploit these phenomena then a radically different way of computing becomes possible. This is the realm of quantum computing.
-
-    This talk will cover what superposition really means and why this could provide an advantage in computing. We’ll see what algorithms have already been developed, including a closer look at some of the simplest, and how they compare to their classical equivalents, as well as how they are starting to be implemented at an experimental level.
-
-    19:15: Buffet
-
-    19:45: Ian Smith
-
-    Talk details TBC
-
-    20:30: Networking
-
-    21:00: Event close
-
-
-
-    Giveaway!
-
-    We will be having our usual twitter giveaway at this event, details will be released shortly.
-
-    This month we are also really pleased to announce we will be giving away 5 tickets to the SIAM Conference (https://scopism.com/events/)  thanks to one of our members - details on how to enter will be announced on the night!
-
-
-
-
-    Nervous about attending?
-
-    A WiT York ambassador will be outside Pitcher & Piano to greet you on the night, direct you to our upstairs bar and answer any questions you may have.
-
-    You can also join our Slack community beforehand or contact us directly via Twitter or email.
-
-
-
-    Slack: https://wit-york.slack.com
-
-
-
-    LinkedIn: Women in Tech York
-
-
-
-    Twitter: @WiT_York
-
-
-
-    Code of Conduct
-
-    The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack.
-  url: https://www.eventbrite.co.uk/e/women-in-tech-presents-future-tech-tickets-50920506606?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50725123/235318357053/1/original.jpg?h=200&w=450&auto=compress&rect=0,125,1748,874&s=daaed063665ea8126deb21309ce262b6
-  starts: 2018-10-18T18:00:00.0000000
-  ends: 2018-10-18T21:00:00.0000000
-  venue: Pitcher & Piano
