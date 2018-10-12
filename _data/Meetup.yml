@@ -14,13 +14,6 @@
   ends: 2018-10-15T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
-- name: 'Tech Contractor Networking: Leeds'
-  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
-  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyxnbvb/
-  is-free: true
-  starts: 2018-10-16T11:15:00.0000000
-  ends: 2018-10-16T11:45:00.0000000
-  venue: Banyan Bar Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbwb/
@@ -125,6 +118,14 @@
   starts: 2018-10-24T18:00:00.0000000
   ends: 2018-10-24T20:00:00.0000000
   venue: York Hackspace
+- name: Machine Learning with ML.NET and Azure - Andy Cross
+  description: '<p>ML.NET is an open source, machine learning framework built in .NET and runs on Windows, Linux and macOS. It allows developers to integrate custom machine learning into their applications without any prior expertise in developing or tuning machine learning models. Enhance your .NET apps with sentiment analysis, price prediction, fraud detection and more using custom models built with ML.NET</p> <p>About Andy Cross</p> <p>Andy Cross (@andyelastacloud) is a co-founder of Elastacloud, an Azure Insider, co-founder of the UK London Azure User Group, an Azure MVP and a Microsoft Regional Director. An international speaker, Andy has lead teams building the largest Hadoop and HDInsight specialist deployments on Azure.</p> <p>His passion for embedded software and high performance compute clusters gives him a unique insight into a sphere of computation from the very small and resource constrained to the massively scalable, limitless potential of the cloud.</p> '
+  url: https://www.meetup.com/Leeds-Sharp/events/250848978/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2018-10-25T17:30:00.0000000
+  ends: 2018-10-25T20:00:00.0000000
+  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbmc/
