@@ -11,19 +11,6 @@
   starts: 2018-12-11T19:00:00.0000000
   ends: 2018-12-11T20:30:00.0000000
   venue: St Peter's School
-- name: 'Professor Mark Pagel: Darwin Would Approve - The Evolution of Human Language'
-  description: >-
-    Exploring human communication through the lens of biology, Professor Pagel draws fascinating parallels between the evolution of language and the evolution of genes, explaining how our species has arrived at this point in our linguistic history.
-
-    Please either print off your ticket or display it to us on your smartphone or tablet on the evening.
-
-    Please note that parking on site will be limited, so other forms of transport are encouraged. The nearest public car park is Marygate, a few minutes' walk from the venue. Please contact us on 01904 526 315 or events@stpetersyork.org.uk if you have any access requirements.
-  url: https://www.eventbrite.co.uk/e/professor-mark-pagel-darwin-would-approve-the-evolution-of-human-language-tickets-49595760254?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48985047/87497926893/1/original.jpg?h=200&w=450&auto=compress&rect=0,60,300,150&s=c1ea70605601d62c8249d94f7ea4563a
-  starts: 2018-10-12T19:00:00.0000000
-  ends: 2018-10-12T20:30:00.0000000
-  venue: St Peter's School
 - name: How Artificial Intelligence and machine learning can help those living with Parkinson’s
   description: >-
     Speaker(s):  Professor Stephen Smith, Department of Electronic Engineering
@@ -91,9 +78,9 @@
 
     19:15: Buffet
 
-    19:45: Ian Smith
+    19:45: AI: Friendly Helper or Job-Stealing Menace? - Ian Smith, Head of Innovation at ROQ
 
-    Talk details TBC
+    Ian will talk about AI, what it is and isn’t, and how it might impact on software delivery (with a particular interest in testing/quality).
 
     20:30: Networking
 
@@ -167,21 +154,6 @@
   starts: 2018-11-19T17:15:00.0000000
   ends: 2018-11-19T19:15:00.0000000
   venue: Acomb Explore Library
-- name: Osprey Approach User Group - York
-  description: >-
-    Over the autumn, Pracctice will be holding eight interactive roadshows at various locations across England and Wales. The events, which are completely free of charge to attend, reflect our commitment to ensuring that you are better informed about our latest product releases and services. It’s also a chance for us to meet face to face, and for you to have your say on what areas you would like to see improved - or even added - in the future.
-
-    At each event, our dedicated team will be on hand to help answer any questions that you may have, so it’s a great opportunity to pick up useful hints and tips whilst ensuring you’re getting the most out of Osprey software.
-
-    Our CEO, Craig Matthews, will be sharing with you the latest updates on our software development plans, as well as providing insight into the future direction of Osprey and our vision for IT beyond that. Following Craig’s overview, he will be holding all day ‘open door’ sessions at each event, giving you the option of dipping out of part of the workshop to discuss a specific topic or issue with Craig.
-
-    ospreyapproach.com
-  url: https://www.eventbrite.co.uk/e/osprey-approach-user-group-york-tickets-49280848344?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48788337/268167050510/1/original.jpg?h=200&w=450&auto=compress&rect=0,181,1754,877&s=aa311dd95734189be7c5c78a8fe8e565
-  starts: 2018-11-01T09:30:00.0000000
-  ends: 2018-11-01T16:00:00.0000000
-  venue: Ron Cooke Hub, Deramore Lane
 - name: Working with school students and teachers in active STEM research
   description: >-
     University of York Science Education Group Research Seminar
@@ -198,6 +170,21 @@
   starts: 2018-10-31T12:00:00.0000000
   ends: 2018-10-31T13:00:00.0000000
   venue: Alcuin College Block D
+- name: Osprey Approach User Group - York
+  description: >-
+    Over the autumn, Pracctice will be holding eight interactive roadshows at various locations across England and Wales. The events, which are completely free of charge to attend, reflect our commitment to ensuring that you are better informed about our latest product releases and services. It’s also a chance for us to meet face to face, and for you to have your say on what areas you would like to see improved - or even added - in the future.
+
+    At each event, our dedicated team will be on hand to help answer any questions that you may have, so it’s a great opportunity to pick up useful hints and tips whilst ensuring you’re getting the most out of Osprey software.
+
+    Our CEO, Craig Matthews, will be sharing with you the latest updates on our software development plans, as well as providing insight into the future direction of Osprey and our vision for IT beyond that. Following Craig’s overview, he will be holding all day ‘open door’ sessions at each event, giving you the option of dipping out of part of the workshop to discuss a specific topic or issue with Craig.
+
+    ospreyapproach.com
+  url: https://www.eventbrite.co.uk/e/osprey-approach-user-group-york-tickets-49280848344?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48788337/268167050510/1/original.jpg?h=200&w=450&auto=compress&rect=0,181,1754,877&s=aa311dd95734189be7c5c78a8fe8e565
+  starts: 2018-11-01T09:30:00.0000000
+  ends: 2018-11-01T16:00:00.0000000
+  venue: Ron Cooke Hub, Deramore Lane
 - name: York Pi Jam - December
   description: >2-
 
@@ -480,71 +467,6 @@
   starts: 2018-11-21T14:00:00.0000000
   ends: 2018-11-21T18:00:00.0000000
   venue: Piazza Building
-- name: 'WO2: Word Essay & dissertation (Tue 16 Oct 11:00-12:00)'
-  description: >-
-    These courses are for students and staff at York St John University. Also available to Alumni.
-
-
-    WO2: Essay & dissertation skills
-
-    Prior knowledge: Basic Word skills equivalent to Word1
-
-    Open Badge Available - Word: Essay and Dissertation Skills
-
-    This course focuses on writing academic essays in Word. Making the most of Word features to control page breaks, numbering and automatic table of contents.
-
-    This course includes:
-
-
-    Applying and amending heading styles 
-
-    Automatic table of contents 
-
-    Showing hidden formatting marks 
-
-    Making sections start on a new page 
-
-    Adding headers and footers 
-
-    Using section breaks to change page number styles 
-
-    Using languages, spelling and grammar check 
-
-    Checking word count 
-
-    Using the navigation pane 
-
-    Search and replace 
-
-    Controlling line spacing 
-
-    Adding captions
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/wo2-word-essay-dissertation-tue-16-oct-1100-1200-tickets-50494249660?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50116079/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=6b17538461d3bd19b7cf07dd7a3ad653
-  starts: 2018-10-16T11:00:00.0000000
-  ends: 2018-10-16T12:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'The Extreme Ultra-violet Laser at York: Physsoc Public Lecture'
   description: >-
     The title of the lecture is "The Extreme Ultra-Violet Laser at York: Impacts on Micro-Engineering and Fusion"
@@ -936,13 +858,6 @@
   starts: 2018-11-21T14:00:00.0000000
   ends: 2018-11-21T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Crypto catchup (Friday)
-  description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
-  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyxnbqb/
-  is-free: true
-  starts: 2018-10-12T11:30:00.0000000
-  ends: 2018-10-12T12:30:00.0000000
-  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbtb/
