@@ -1,16 +1,3 @@
-- name: 'The Science Society Christmas Lecture: Science QI '
-  description: >-
-    The St Peter’s Science Department will be sharing some their favourite ‘quite interesting’ facts from the world of science in their ever-popular Christmas lecture. Be prepared for whizzes, flash-bangs and the occasional klaxon.
-
-    Please either print off your ticket or display it to us on your smartphone or tablet on the evening.
-
-    Please note that parking on site will be limited, so other forms of transport are encouraged. The nearest public car park is Marygate, a few minutes' walk from the venue. Please contact us on 01904 526 315 or events@stpetersyork.org.uk if you have any access requirements.
-  url: https://www.eventbrite.co.uk/e/the-science-society-christmas-lecture-science-qi-tickets-49595516525?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48984713/87497926893/1/original.jpg?h=200&w=450&auto=compress&rect=0,267,5184,2592&s=3d5e4cf0ce4b0f9a9a2cde5954f02696
-  starts: 2018-12-11T19:00:00.0000000
-  ends: 2018-12-11T20:30:00.0000000
-  venue: St Peter's School
 - name: How Artificial Intelligence and machine learning can help those living with Parkinson’s
   description: >-
     Speaker(s):  Professor Stephen Smith, Department of Electronic Engineering
@@ -867,6 +854,13 @@
   ends: 2018-10-15T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: 'Tech Contractor Networking: Leeds'
+  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
+  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyxnbvb/
+  is-free: true
+  starts: 2018-10-16T11:15:00.0000000
+  ends: 2018-10-16T11:45:00.0000000
+  venue: Banyan Bar Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbwb/
@@ -979,6 +973,13 @@
   starts: 2018-10-25T17:30:00.0000000
   ends: 2018-10-25T20:00:00.0000000
   venue: Platform
+- name: HackSaturday at York Hackspace
+  description: '<p>Why not pop down and say hello? There will be members there to show you around or chat about the space and what people do here.</p> <p>Want to know how to find us? Click here</p> <p>For more details about our open nights, see the wiki.</p> <p>Curious about what to bring?</p> <p>All you need is yourself, enthusiasm and curiosity. Feel free to bring a project, things to make, things to do, things you want help with, or things you just can’t find time to do elsewhere.</p> <p>What does the hackspace have to offer?</p> <p>You’ll be free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it’s more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you’re welcome to use. And a tuckshop!</p> '
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/254347105/
+  is-free: true
+  starts: 2018-10-27T09:00:00.0000000
+  ends: 2018-10-27T15:00:00.0000000
+  venue: York Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbmc/
