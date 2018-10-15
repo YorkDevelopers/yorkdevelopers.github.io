@@ -292,6 +292,49 @@
   starts: 2018-10-23T14:00:00.0000000
   ends: 2018-10-23T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Get In The Game Careers Talks; University of York
+  description: >-
+    The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
+
+    Speakers
+
+
+    Schedule of Event
+
+    13:00-14:00 – Aardvark Swift Career Talk (Sharan)
+
+    14:00-14:30 – Red Kite
+
+    14:30-15:00 – Boss Alien
+
+    15:00-15:30 – Q&A
+
+
+    Our talks are given for students to learn what it really takes to make it into such a competitive industry. Covering topics such as:
+
+    • Careers in games advice
+
+    • Information of how to maximise your chances of securing your first games industry role.
+
+    • CV, Portfolio and Demo Advice
+
+    • Interview Techniques
+
+    • Technical and practical knowledge required by studios
+
+    • How to increase employability
+
+    • Q & A session
+
+    We’ll also be giving away goodie bags to a handful of lucky winners, with prizes from our partner studios.
+
+    This is a great opportunity that offers expert information which could prove vital in your career. Don't miss out - get your ticket now!
+  url: https://www.eventbrite.co.uk/e/get-in-the-game-careers-talks-university-of-york-tickets-45097383488?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48734073/107396689973/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c6b713e5c77925f1caaaa6ac2bffa35
+  starts: 2018-11-21T14:00:00.0000000
+  ends: 2018-11-21T18:00:00.0000000
+  venue: Piazza Building
 - name: 'PS1: Photoshop Essentials inc. for website editors (Thu 22 Nov 11:00-12:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -411,49 +454,6 @@
   starts: 2018-11-12T18:00:00.0000000
   ends: 2018-11-12T20:30:00.0000000
   venue: Towers Lounge & Bar
-- name: Get In The Game Careers Talks; University of York
-  description: >-
-    The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
-
-    Speakers
-
-
-    Schedule of Event
-
-    13:00-14:00 – Aardvark Swift Career Talk (Sharan)
-
-    14:00-14:30 – Red Kite
-
-    14:30-15:00 – Boss Alien
-
-    15:00-15:30 – Q&A
-
-
-    Our talks are given for students to learn what it really takes to make it into such a competitive industry. Covering topics such as:
-
-    • Careers in games advice
-
-    • Information of how to maximise your chances of securing your first games industry role.
-
-    • CV, Portfolio and Demo Advice
-
-    • Interview Techniques
-
-    • Technical and practical knowledge required by studios
-
-    • How to increase employability
-
-    • Q & A session
-
-    We’ll also be giving away goodie bags to a handful of lucky winners, with prizes from our partner studios.
-
-    This is a great opportunity that offers expert information which could prove vital in your career. Don't miss out - get your ticket now!
-  url: https://www.eventbrite.co.uk/e/get-in-the-game-careers-talks-university-of-york-tickets-45097383488?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48734073/107396689973/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c6b713e5c77925f1caaaa6ac2bffa35
-  starts: 2018-11-21T14:00:00.0000000
-  ends: 2018-11-21T18:00:00.0000000
-  venue: Piazza Building
 - name: 'The Extreme Ultra-violet Laser at York: Physsoc Public Lecture'
   description: >-
     The title of the lecture is "The Extreme Ultra-Violet Laser at York: Impacts on Micro-Engineering and Fusion"
@@ -854,13 +854,6 @@
   ends: 2018-10-15T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
-- name: 'Tech Contractor Networking: Leeds'
-  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
-  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyxnbvb/
-  is-free: true
-  starts: 2018-10-16T11:15:00.0000000
-  ends: 2018-10-16T11:45:00.0000000
-  venue: Banyan Bar Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbwb/
@@ -885,8 +878,8 @@
   starts: 2018-10-17T16:30:00.0000000
   ends: 2018-10-17T20:00:00.0000000
   venue: Platform
-- name: Front End York - October Meetup
-  description: '<p>Speakers TBC</p> '
+- name: Front End York - Website performance & writing skills for developers pt 2
+  description: '<p>Making a website more performant: Part I</p> <p>Andy Callaghan, Co-founder Recollate Software, will be discussing front end performance - A broad overview on how to measure performance, finding the potential fixes to the problems, and how to plan your work to actually fixing them. This first part will address the front-end aspects to performance, and how to make a plan of work. Whereas the second will look at perceived performance, and (a little bit) of server-side performance.</p> <p>Improving writing skills for Developers: Part 2</p> <p>Dee Vincent-Day, Lead Technical Author at Piksel, joins us once again for part 2 in her talk "Improving writing skills for developers. Want to know what homophones are? Do you know how to use a serial comma? Are you aware of active and passive voice in writing? If the answer to these questions is no, then this is the talk for you. This talk addresses common issues in writing and helps to reinforce correct usage.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/255098572/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -917,13 +910,6 @@
   starts: 2018-10-18T18:00:00.0000000
   ends: 2018-10-18T21:00:00.0000000
   endorsed: true
-- name: HackSaturday at York Hackspace
-  description: '<p>Why not pop down and say hello? There will be members there to show you around or chat about the space and what people do here.</p> <p>Want to know how to find us? Click here</p> <p>For more details about our open nights, see the wiki.</p> <p>Curious about what to bring?</p> <p>All you need is yourself, enthusiasm and curiosity. Feel free to bring a project, things to make, things to do, things you want help with, or things you just can’t find time to do elsewhere.</p> <p>What does the hackspace have to offer?</p> <p>You’ll be free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it’s more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you’re welcome to use. And a tuckshop!</p> '
-  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/254347101/
-  is-free: true
-  starts: 2018-10-20T09:00:00.0000000
-  ends: 2018-10-20T15:00:00.0000000
-  venue: York Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbdc/
@@ -933,6 +919,14 @@
   ends: 2018-10-22T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: LeedsDevops - October 2018 Meetup
+  description: "<p>After our extended summer break we're back at the ODI Node in Leeds on Tuesday 23rd October for a night of Devops chatter:</p> <p>6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>7:15 - 7:25 : Group updates/news/announcements<br/>7:25 - 8:05 : Accelerating Delivery Velocity With Kubernetes<br/>8:05 - 8:20 : Intermission<br/>8:20 - 9:00 : Azure DevOps<br/>9:00 - late : Decamp to the Wardrobe</p> <p>Our first speaker is Simon Westcott a hands-on architect with 10+ yrs experience of building high traffic websites. In late 2016 Simon moved into the world of platform engineering to help re-imagine Sky Betting &amp; Gaming's delivery approach and drive operational efficiency. Delivery agility is key to Simon and his Team's success. As their engineering team grows, they have an increasing number of greenfield products to comission, as well as monolithic applications to decompose into microservices. To manage this they need a platform that can keep pace, both in the cloud and on-premise. Simon will explore with you why they choose Kubernetes, how they're adapting both on AWS and on-premise and the challenges they faced.</p> <p>Our headline talk is from Simon Thurman who is a Cloud Solution Architect at Microsoft, he'll be showcasing Microsoft's latest toolchain, covering the components of the system such as pipelines, test plans, artifact repos, boards and more. Simon will demonstrate the steps involved and interactions as code moves from commit to production in Azure Devops.</p> <p>As an extra treat we'll also be giving away 2 tickets for the upcoming DevOpsDays Edinburgh conference on the 1st and 2nd of November.</p> <p>Once again we say a massive \"Thank You\" to Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) for sponsoring the refreshments and lodgings for the evening, ensuring there are plenty of our favourite refreshments and soft drinks in supply.</p> <p>Code Of Conduct</p> <p>Please note that we have now added an anti harassment policy and code of conduct <a href=\"http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in\" class=\"linkified\">http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in</a> order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street. If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on twitter @leedsdevops (<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>For more details see the event page on leedsdevops.org.uk (<a href=\"http://www.leedsdevops.org.uk/post/179051054730/meetup-tuesday-23rd-october-2018-at-the-odi-node\" class=\"linkified\">http://www.leedsdevops.org.uk/post/179051054730/meetup-tuesday-23rd-october-2018-at-the-odi-node</a>)</p> "
+  url: https://www.meetup.com/LeedsDevops/events/255533112/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/a/6/0/thumb_333467712.jpeg
+  starts: 2018-10-23T17:45:00.0000000
+  ends: 2018-10-23T20:00:00.0000000
+  venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbgc/
@@ -973,13 +967,6 @@
   starts: 2018-10-25T17:30:00.0000000
   ends: 2018-10-25T20:00:00.0000000
   venue: Platform
-- name: HackSaturday at York Hackspace
-  description: '<p>Why not pop down and say hello? There will be members there to show you around or chat about the space and what people do here.</p> <p>Want to know how to find us? Click here</p> <p>For more details about our open nights, see the wiki.</p> <p>Curious about what to bring?</p> <p>All you need is yourself, enthusiasm and curiosity. Feel free to bring a project, things to make, things to do, things you want help with, or things you just can’t find time to do elsewhere.</p> <p>What does the hackspace have to offer?</p> <p>You’ll be free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it’s more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you’re welcome to use. And a tuckshop!</p> '
-  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/254347105/
-  is-free: true
-  starts: 2018-10-27T09:00:00.0000000
-  ends: 2018-10-27T15:00:00.0000000
-  venue: York Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbmc/
@@ -1025,6 +1012,15 @@
   ends: 2018-11-12T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Visit <a href="https://www.yorkdevelopers.org/yorktechfest" class="linkified">https://www.yorkdevelopers.org/yorktechfest</a> to signup.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyxpbrb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-11-13T18:00:00.0000000
+  ends: 2018-11-13T21:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbsb/
@@ -1051,6 +1047,15 @@
   ends: 2018-11-19T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyxpbbc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-11-20T18:00:00.0000000
+  ends: 2018-11-20T21:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbcc/
@@ -1068,6 +1073,15 @@
   starts: 2018-11-26T07:30:00.0000000
   ends: 2018-11-26T10:30:00.0000000
   venue: Drift In At fat Face
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyxpbkc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-11-27T18:00:00.0000000
+  ends: 2018-11-27T21:00:00.0000000
+  venue: City of York Council
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
@@ -1087,6 +1101,15 @@
   ends: 2018-12-03T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyxqbgb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-12-04T18:00:00.0000000
+  ends: 2018-12-04T21:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbhb/
@@ -1105,6 +1128,15 @@
   ends: 2018-12-10T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyxqbpb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-12-11T18:00:00.0000000
+  ends: 2018-12-11T21:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbqb/
@@ -1122,6 +1154,15 @@
   starts: 2018-12-17T07:30:00.0000000
   ends: 2018-12-17T10:30:00.0000000
   venue: Drift In At fat Face
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyxqbxb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-12-18T18:00:00.0000000
+  ends: 2018-12-18T21:00:00.0000000
+  venue: City of York Council
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
@@ -1149,6 +1190,15 @@
   ends: 2018-12-24T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyxqbhc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2018-12-25T18:00:00.0000000
+  ends: 2018-12-25T21:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbjc/
@@ -1166,6 +1216,15 @@
   starts: 2018-12-31T07:30:00.0000000
   ends: 2018-12-31T10:30:00.0000000
   venue: Drift In At fat Face
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzcbcb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-01-01T18:00:00.0000000
+  ends: 2019-01-01T21:00:00.0000000
+  venue: City of York Council
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
@@ -1185,6 +1244,15 @@
   ends: 2019-01-07T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzcblb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-01-08T18:00:00.0000000
+  ends: 2019-01-08T21:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzcbmb/
@@ -1202,6 +1270,15 @@
   starts: 2019-01-14T07:30:00.0000000
   ends: 2019-01-14T10:30:00.0000000
   venue: Drift In At fat Face
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzcbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-01-15T18:00:00.0000000
+  ends: 2019-01-15T21:00:00.0000000
+  venue: City of York Council
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
@@ -1229,6 +1306,15 @@
   ends: 2019-01-21T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzcbdc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-01-22T18:00:00.0000000
+  ends: 2019-01-22T21:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzcbfc/
@@ -1246,6 +1332,15 @@
   starts: 2019-01-28T07:30:00.0000000
   ends: 2019-01-28T10:30:00.0000000
   venue: Drift In At fat Face
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzcbmc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-01-29T18:00:00.0000000
+  ends: 2019-01-29T21:00:00.0000000
+  venue: City of York Council
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
@@ -1265,6 +1360,15 @@
   ends: 2019-02-04T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzdbhb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-02-05T18:00:00.0000000
+  ends: 2019-02-05T21:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbjb/
@@ -1283,6 +1387,15 @@
   ends: 2019-02-11T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzdbqb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-02-12T18:00:00.0000000
+  ends: 2019-02-12T21:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbrb/
@@ -1300,6 +1413,15 @@
   starts: 2019-02-18T07:30:00.0000000
   ends: 2019-02-18T10:30:00.0000000
   venue: Drift In At fat Face
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzdbzb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-02-19T18:00:00.0000000
+  ends: 2019-02-19T21:00:00.0000000
+  venue: City of York Council
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
@@ -1327,6 +1449,15 @@
   ends: 2019-02-25T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzdbjc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-02-26T18:00:00.0000000
+  ends: 2019-02-26T21:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbkc/
@@ -1344,6 +1475,15 @@
   starts: 2019-03-04T07:30:00.0000000
   ends: 2019-03-04T10:30:00.0000000
   venue: Drift In At fat Face
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzfbhb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-03-05T18:00:00.0000000
+  ends: 2019-03-05T21:00:00.0000000
+  venue: City of York Council
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
@@ -1363,6 +1503,15 @@
   ends: 2019-03-11T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzfbqb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-03-12T18:00:00.0000000
+  ends: 2019-03-12T21:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzfbrb/
@@ -1380,6 +1529,15 @@
   starts: 2019-03-18T07:30:00.0000000
   ends: 2019-03-18T10:30:00.0000000
   venue: Drift In At fat Face
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzfbzb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-03-19T18:00:00.0000000
+  ends: 2019-03-19T21:00:00.0000000
+  venue: City of York Council
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
@@ -1407,6 +1565,15 @@
   ends: 2019-03-25T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzfbjc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-03-26T18:00:00.0000000
+  ends: 2019-03-26T21:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzfbkc/
@@ -1425,6 +1592,15 @@
   ends: 2019-04-01T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzgbdb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-04-02T17:00:00.0000000
+  ends: 2019-04-02T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgbfb/
@@ -1434,6 +1610,24 @@
   ends: 2019-04-03T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzgbmb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-04-09T17:00:00.0000000
+  ends: 2019-04-09T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzgbvb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-04-16T17:00:00.0000000
+  ends: 2019-04-16T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzgbxb/
@@ -1441,6 +1635,42 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-04-18T18:00:00.0000000
   ends: 2019-04-18T21:00:00.0000000
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzgbfc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-04-23T17:00:00.0000000
+  ends: 2019-04-23T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzgbnc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-04-30T17:00:00.0000000
+  ends: 2019-04-30T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzhbkb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-05-07T17:00:00.0000000
+  ends: 2019-05-07T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzhbsb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-05-14T17:00:00.0000000
+  ends: 2019-05-14T20:00:00.0000000
+  venue: City of York Council
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
@@ -1450,6 +1680,51 @@
   starts: 2019-05-16T18:00:00.0000000
   ends: 2019-05-16T21:00:00.0000000
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzhbcc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-05-21T17:00:00.0000000
+  ends: 2019-05-21T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzhblc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-05-28T17:00:00.0000000
+  ends: 2019-05-28T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzjbgb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-04T17:00:00.0000000
+  ends: 2019-06-04T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzjbpb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-11T17:00:00.0000000
+  ends: 2019-06-11T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzjbxb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-18T17:00:00.0000000
+  ends: 2019-06-18T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzjbbc/
@@ -1457,6 +1732,42 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-06-20T18:00:00.0000000
   ends: 2019-06-20T21:00:00.0000000
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzjbhc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-25T17:00:00.0000000
+  ends: 2019-06-25T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzkbdb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-07-02T17:00:00.0000000
+  ends: 2019-07-02T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzkbmb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-07-09T17:00:00.0000000
+  ends: 2019-07-09T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzkbvb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-07-16T17:00:00.0000000
+  ends: 2019-07-16T20:00:00.0000000
+  venue: City of York Council
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
@@ -1466,6 +1777,42 @@
   starts: 2019-07-18T18:00:00.0000000
   ends: 2019-07-18T21:00:00.0000000
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzkbfc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-07-23T17:00:00.0000000
+  ends: 2019-07-23T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzkbnc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-07-30T17:00:00.0000000
+  ends: 2019-07-30T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzlbjb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-08-06T17:00:00.0000000
+  ends: 2019-08-06T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzlbrb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-08-13T17:00:00.0000000
+  ends: 2019-08-13T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzlbtb/
@@ -1474,6 +1821,51 @@
   starts: 2019-08-15T18:00:00.0000000
   ends: 2019-08-15T21:00:00.0000000
   endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzlbbc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-08-20T17:00:00.0000000
+  ends: 2019-08-20T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzlbkc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-08-27T17:00:00.0000000
+  ends: 2019-08-27T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzmbfb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-09-03T17:00:00.0000000
+  ends: 2019-09-03T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzmbnb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-09-10T17:00:00.0000000
+  ends: 2019-09-10T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzmbwb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-09-17T17:00:00.0000000
+  ends: 2019-09-17T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzmbzb/
@@ -1481,4 +1873,40 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-09-19T18:00:00.0000000
   ends: 2019-09-19T21:00:00.0000000
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyzmbgc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-09-24T17:00:00.0000000
+  ends: 2019-09-24T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyznbcb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-10-01T17:00:00.0000000
+  ends: 2019-10-01T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyznblb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-10-08T17:00:00.0000000
+  ends: 2019-10-08T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyznbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-10-15T17:00:00.0000000
+  ends: 2019-10-15T20:00:00.0000000
+  venue: City of York Council
   endorsed: true
