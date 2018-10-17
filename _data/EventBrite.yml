@@ -127,20 +127,6 @@
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
   starts: 2018-10-18T18:30:00.0000000
   ends: 2018-10-18T19:30:00.0000000
-- name: York Raspberry Jam - November
-  description: >2-
-
-    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
-
-    York Raspberry Jam happens every other month. It's for beginners particularly, and also people who know a bit about Raspberry Pi computers! You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
-
-    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
-  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-november-tickets-49438151843?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48829382/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=935d6ac6b6ad5e76410ffacfcd7d410a
-  starts: 2018-11-19T17:15:00.0000000
-  ends: 2018-11-19T19:15:00.0000000
-  venue: Acomb Explore Library
 - name: Working with school students and teachers in active STEM research
   description: >-
     University of York Science Education Group Research Seminar
@@ -157,6 +143,20 @@
   starts: 2018-10-31T12:00:00.0000000
   ends: 2018-10-31T13:00:00.0000000
   venue: Alcuin College Block D
+- name: York Raspberry Jam - November
+  description: >2-
+
+    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
+
+    York Raspberry Jam happens every other month. It's for beginners particularly, and also people who know a bit about Raspberry Pi computers! You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
+
+    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
+  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-november-tickets-49438151843?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48829382/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=935d6ac6b6ad5e76410ffacfcd7d410a
+  starts: 2018-11-19T17:15:00.0000000
+  ends: 2018-11-19T19:15:00.0000000
+  venue: Acomb Explore Library
 - name: Osprey Approach User Group - York
   description: >-
     Over the autumn, Pracctice will be holding eight interactive roadshows at various locations across England and Wales. The events, which are completely free of charge to attend, reflect our commitment to ensuring that you are better informed about our latest product releases and services. It’s also a chance for us to meet face to face, and for you to have your say on what areas you would like to see improved - or even added - in the future.
@@ -172,6 +172,59 @@
   starts: 2018-11-01T09:30:00.0000000
   ends: 2018-11-01T16:00:00.0000000
   venue: Ron Cooke Hub, Deramore Lane
+- name: 'WE1: Website CMS Basic training (Mon 22 Oct 10:00-12:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-mon-22-oct-1000-1200-tickets-50495289771?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/50118030/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=42289a9c572b58aaa0adc7e610ce24d3
+  starts: 2018-10-22T10:00:00.0000000
+  ends: 2018-10-22T12:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: York Pi Jam - December
+  description: >2-
+
+    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
+
+    Celebrate Christmas with us by coding festive projects, wearing your Christmas jumper and eating mince pies.
+
+    You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
+
+    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
+  url: https://www.eventbrite.co.uk/e/york-pi-jam-december-tickets-49963571387?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49444960/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=af3f836ff8aeb7159e4b58b9cfc4dd48
+  starts: 2018-12-10T17:15:00.0000000
+  ends: 2018-12-10T19:15:00.0000000
+  venue: Acomb Explore Library
 - name: 'PS1: Photoshop Essentials inc. for website editors (Tue 23 Oct 14:00-15:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -231,59 +284,6 @@
   starts: 2018-10-23T14:00:00.0000000
   ends: 2018-10-23T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'WE1: Website CMS Basic training (Mon 22 Oct 10:00-12:00)'
-  description: >-
-    These courses are for staff who have been approved by the website team only
-
-
-    WE1: Website CMS basics
-
-    Prior knowledge: None
-
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-mon-22-oct-1000-1200-tickets-50495289771?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50118030/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=42289a9c572b58aaa0adc7e610ce24d3
-  starts: 2018-10-22T10:00:00.0000000
-  ends: 2018-10-22T12:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
-- name: York Pi Jam - December
-  description: >2-
-
-    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
-
-    Celebrate Christmas with us by coding festive projects, wearing your Christmas jumper and eating mince pies.
-
-    You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
-
-    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
-  url: https://www.eventbrite.co.uk/e/york-pi-jam-december-tickets-49963571387?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49444960/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=af3f836ff8aeb7159e4b58b9cfc4dd48
-  starts: 2018-12-10T17:15:00.0000000
-  ends: 2018-12-10T19:15:00.0000000
-  venue: Acomb Explore Library
 - name: Systems Change Thinking - Closing the Loop
   description: "Systems Change Thinking - Creating Value and Closing the Loop from Unavoidable Food Supply Chain Wastes\nWe are delighted to announce an opportunity to attend a free, one-day event on understanding the chemical and environmental benefits of utilising unavoidable food supply chain wastes (UFSCW). Current strategies for dealing with UFSCW are rudimentary and of low value: these include waste to energy (including incineration and anaerobic digestion), animal feed and bedding; composting; ploughing back in to soil; and, least preferably, landfill. \nIn response, this event explores UFSCW as a unique bioresource: a treasure trove of unexploited, bio-based materials and chemicals, with a range of potential commercial applications underpinned by holistic life-cycle thinking.\nThe event will be of particular interest to companies of all sizes wishing to valorise food waste streams as well as academics and policy makers. Particular benefits to attendees include:\n\n\nAn introduction to the new Sustainable Waste Valorisation Identifier (SWaVI)  tool which enables companies to identify and compare different potential valorisation strategies based on economic viability as well as sustainability and technological readiness.\n\n\nA chance to listen to key industrialists, academics and consultants discuss valorisation from not only a company, but also a more holistic supply chain perspective.\n\n\nThe opportunity to hear from leading academic and industrial speakers about the latest, novel, technical approaches to food waste valorisation.\n\n\nThe ability to interact and connect with researchers, industrialists and policy makers interested in collaborative UK and global projects.\n\n\nPoster abstract submission deadline\nThe deadline for poster abstract submission is Monday 29th October.\n\n\nDownload the abstract template form\n\n\nSubmit your completed abstract form to sophie.palmer@york.ac.uk as a word document or share as a Google Doc\n\n\nContributed poster presentations A0 format \n\n\nProgramme\nSession One: Holistic Systems Change (Chair: Professor Shahin Rahimifard, Loughborough University)\nSession Two: Change, Technology and Methodologies (Chair: Professor Timothy Foster, University of Nottingham)\nSession Three: Influencing Systems Change (Chair: Dr Avtar Matharu, University of York)\nLunch and refreshments provided.\nInvited Speakers\nHugh Powell Product Technology Centre, Nestlé\nZainudin Umar Global Food Structure & Ingredient Science, PepsiCo International\nSponsorship\nIf you would like to sponsor or exhibit at the event, please contact sophie.palmer@york.ac.uk for more details.\nWe gratefully acknowledge funding from the Engineering and Physical Sciences Research Council (Re-SAUCE project EP/P008771/1) which has contributed to the organisation of this free event."
   url: https://www.eventbrite.co.uk/e/systems-change-thinking-closing-the-loop-tickets-50214579158?aff=ebapi
@@ -292,61 +292,6 @@
   starts: 2018-12-03T09:30:00.0000000
   ends: 2018-12-03T16:30:00.0000000
   venue: Lakehouse, The Ron Cooke Hub
-- name: 'The Extreme Ultra-violet Laser at York: Physsoc Public Lecture'
-  description: >-
-    The title of the lecture is "The Extreme Ultra-Violet Laser at York: Impacts on Micro-Engineering and Fusion"
-
-    Professor Tallents' research focuses on developing an understanding of the physics of extreme ultra-violet (EUV) laser interactions with solids, and his expertise include EUV/X-ray laser development, laser ablation, and laser produced plasmas. This research, as well as much of the research done at the York Plasma Institue, contributes greatly to global research in developing commercially viable thermonuclear fusion reactors.
-
-    Earlier this year, Professor Tallents published a book titled "An Introduction to the Atomic and Radiation Physics of Plasmas".
-  url: https://www.eventbrite.co.uk/e/the-extreme-ultra-violet-laser-at-york-physsoc-public-lecture-tickets-51077551331?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50876597/148307828230/1/original.jpg?h=200&w=450&auto=compress&rect=0,88,1920,960&s=7c6a0546abb98d2c65cf7511dcdb88ce
-  starts: 2018-10-16T18:00:00.0000000
-  ends: 2018-10-16T19:00:00.0000000
-- name: Get In The Game Careers Talks; University of York
-  description: >-
-    The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
-
-    Speakers
-
-
-    Schedule of Event
-
-    13:00-14:00 – Aardvark Swift Career Talk
-
-    14:00-14:30 – Red Kite
-
-    14:30-15:00 – Boss Alien
-
-    15:00-15:30 – Q&A
-
-
-    Our talks are given for students to learn what it really takes to make it into such a competitive industry. Covering topics such as:
-
-    • Careers in games advice
-
-    • Information of how to maximise your chances of securing your first games industry role.
-
-    • CV, Portfolio and Demo Advice
-
-    • Interview Techniques
-
-    • Technical and practical knowledge required by studios
-
-    • How to increase employability
-
-    • Q & A session
-
-    We’ll also be giving away goodie bags to a handful of lucky winners, with prizes from our partner studios.
-
-    This is a great opportunity that offers expert information which could prove vital in your career. Don't miss out - get your ticket now!
-  url: https://www.eventbrite.co.uk/e/get-in-the-game-careers-talks-university-of-york-tickets-45097383488?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48734073/107396689973/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c6b713e5c77925f1caaaa6ac2bffa35
-  starts: 2018-11-21T14:00:00.0000000
-  ends: 2018-11-21T18:00:00.0000000
-  venue: Piazza Building
 - name: 'PS1: Photoshop Essentials inc. for website editors (Thu 22 Nov 11:00-12:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -466,6 +411,49 @@
   starts: 2018-11-12T18:00:00.0000000
   ends: 2018-11-12T20:30:00.0000000
   venue: Towers Lounge & Bar
+- name: Get In The Game Careers Talks; University of York
+  description: >-
+    The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
+
+    Speakers
+
+
+    Schedule of Event
+
+    13:00-14:00 – Aardvark Swift Career Talk
+
+    14:00-14:30 – Red Kite
+
+    14:30-15:00 – Boss Alien
+
+    15:00-15:30 – Q&A
+
+
+    Our talks are given for students to learn what it really takes to make it into such a competitive industry. Covering topics such as:
+
+    • Careers in games advice
+
+    • Information of how to maximise your chances of securing your first games industry role.
+
+    • CV, Portfolio and Demo Advice
+
+    • Interview Techniques
+
+    • Technical and practical knowledge required by studios
+
+    • How to increase employability
+
+    • Q & A session
+
+    We’ll also be giving away goodie bags to a handful of lucky winners, with prizes from our partner studios.
+
+    This is a great opportunity that offers expert information which could prove vital in your career. Don't miss out - get your ticket now!
+  url: https://www.eventbrite.co.uk/e/get-in-the-game-careers-talks-university-of-york-tickets-45097383488?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48734073/107396689973/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c6b713e5c77925f1caaaa6ac2bffa35
+  starts: 2018-11-21T14:00:00.0000000
+  ends: 2018-11-21T18:00:00.0000000
+  venue: Piazza Building
 - name: TEDxYork
   description: >-
     During our TEDxYork event we will explore how memories are anchored, how we both engage with and protect ourselves from the world around us, and how technology can affect and reflect different kinds of truth.
@@ -546,6 +534,71 @@
   logo: https://cdn.evbuc.com/images/50117409/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=2a5354dd214faecd355581d2f10da73a
   starts: 2018-10-31T15:00:00.0000000
   ends: 2018-10-31T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'WO2: Word Essay & dissertation (Tue 13 Nov 15:00-16:00)'
+  description: >-
+    These courses are for students and staff at York St John University. Also available to Alumni.
+
+
+    WO2: Essay & dissertation skills
+
+    Prior knowledge: Basic Word skills equivalent to Word1
+
+    Open Badge Available - Word: Essay and Dissertation Skills
+
+    This course focuses on writing academic essays in Word. Making the most of Word features to control page breaks, numbering and automatic table of contents.
+
+    This course includes:
+
+
+    Applying and amending heading styles 
+
+    Automatic table of contents 
+
+    Showing hidden formatting marks 
+
+    Making sections start on a new page 
+
+    Adding headers and footers 
+
+    Using section breaks to change page number styles 
+
+    Using languages, spelling and grammar check 
+
+    Checking word count 
+
+    Using the navigation pane 
+
+    Search and replace 
+
+    Controlling line spacing 
+
+    Adding captions
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/wo2-word-essay-dissertation-tue-13-nov-1500-1600-tickets-50494279750?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/50116155/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=9c8fed657af68afbb8424cb5cec19477
+  starts: 2018-11-13T15:00:00.0000000
+  ends: 2018-11-13T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'Attracting and Retaining Women in STEM: The Conference'
   description: >+
@@ -647,71 +700,6 @@
   starts: 2018-11-26T09:00:00.0000000
   ends: 2018-11-26T16:00:00.0000000
   venue: The Principal York
-- name: 'WO2: Word Essay & dissertation (Tue 13 Nov 15:00-16:00)'
-  description: >-
-    These courses are for students and staff at York St John University. Also available to Alumni.
-
-
-    WO2: Essay & dissertation skills
-
-    Prior knowledge: Basic Word skills equivalent to Word1
-
-    Open Badge Available - Word: Essay and Dissertation Skills
-
-    This course focuses on writing academic essays in Word. Making the most of Word features to control page breaks, numbering and automatic table of contents.
-
-    This course includes:
-
-
-    Applying and amending heading styles 
-
-    Automatic table of contents 
-
-    Showing hidden formatting marks 
-
-    Making sections start on a new page 
-
-    Adding headers and footers 
-
-    Using section breaks to change page number styles 
-
-    Using languages, spelling and grammar check 
-
-    Checking word count 
-
-    Using the navigation pane 
-
-    Search and replace 
-
-    Controlling line spacing 
-
-    Adding captions
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/wo2-word-essay-dissertation-tue-13-nov-1500-1600-tickets-50494279750?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50116155/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=9c8fed657af68afbb8424cb5cec19477
-  starts: 2018-11-13T15:00:00.0000000
-  ends: 2018-11-13T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'WO2: Word Essay & dissertation (Thu 22 Nov 14:00-15:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -867,3 +855,10 @@
   starts: 2018-11-21T14:00:00.0000000
   ends: 2018-11-21T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Cisco Enterprise Networking Update
+  description: "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDear Cisco Customer,\r\n \r\nNetworks are changing, they need to be more secure, more dynamic and more powerful therefore Cisco is evolving Enterprise Networks and introducing The Network Intuitive. \r\n \r\nThe Cisco Health and Local Government team invites customers to hear Cisco’s enterprise networking proposition and how Software Defined Networking can benefit your organisation.\r\n\r\n\r\n\r\n\r\n\r\nIntroduction to Cisco’s Software Defined Access\r\n\r\nCisco Software-Defined Access (SD-Access) gives you a single network fabric, from the edge to the cloud. You can set policy-based automation for users, devices, and things. Provide access to any application, without compromising on security. All while gaining awareness of what is hitting your network. With automatic segmentation of users, devices, and applications, you can deploy and secure services faster.\r\n\r\n\r\n \r\n\r\nCatalyst 9K\r\n\r\nCisco Catalyst 9000 fixed and modular, core and access LAN switches have been designed for an entirely new era of networking.\r\n\r\n\r\n \r\n\r\nMeraki Full Stack\r\n\r\nSee a live demonstration of the Meraki Dashboard and get an update on all new things Meraki including the new Insight capability.\r\n\r\n\r\n \r\n\r\nMeraki SD-WAN\r\n\r\nLearn how easy it can be to connect up all your branch sites effectively utilising the latest in SD-WAN technology embedded in the MX Security Appliances.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+  url: https://www.eventbrite.com/e/cisco-enterprise-networking-update-tickets-51472007159?aff=ebapi
+  is-free: true
+  starts: 2018-11-26T09:30:00.0000000
+  ends: 2018-11-26T16:00:00.0000000
+  venue: National Railway Museum York
