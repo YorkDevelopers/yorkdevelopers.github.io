@@ -1,33 +1,3 @@
-- name: '#DAZNLeeds Our Vision for the Future'
-  description: "<p>THIS IS A TICKET ONLY EVENT. TICKETS ARE FREE AND CAN BE OBTAINED HERE:<br/><a href=\"https://www.eventbrite.co.uk/e/daznleeds-our-vision-for-the-future-tickets-50434713586\" class=\"linkified\">https://www.eventbrite.co.uk/e/daznleeds-our-vision-for-the-future-tickets-50434713586</a></p> <p>#DAZNLeeds Our Vision for the Future</p> <p>Your host for the evening will be Rob MacDonald who is the Leeds Engineering Manager for DAZN. He started out his career as a web developer back in 2000, working his way up to Software Engineering Manager for the BBC, before joining DAZN to head up their brand-new development centre.</p> <p>Talk 1 - Message Driven Micro-Architectures<br/>Many of us have used messages and queueing systems to enhance performance in our applications. They are indeed powerful and flexible! From his experiences at Sky and unique approach being addressed at DAZN, Rich will show us how by leveraging 'message-driven' further in a decoupled architecture using micro-components can enable us to build resilient and fault tolerant systems quickly at scale.</p> <p>Bio: Bio: Rich McIntyre is a no-nonsense straight-talking technology enthusiast who has a wealth of experience in developing and designing systems being accessed by millions of people. He has been active in open-source communities in both Leeds and Japan. He is just moving on from Sky to join DAZN as Software Engineering Manager alongside Rob.</p> <p>Talk 2 - What has RxJS ever done for us? \"Practical application and testing of RxJS data streams.\"<br/>Alex will make a brief overview of what is an RxJS stream. He will take us through a few practical problems solved with RxJS in DAZN and how RxJS helped DAZN write clean, declarative and testable code.</p> <p>Bio: Alex is a Software Engineer in DAZN, a Storyteller, a coffee drinker and a dog father... Sometimes concurrently and in no particular order.</p> "
-  url: https://www.meetup.com/Northern-Tech-Events/events/254372379/
-  is-free: true
-  starts: 2018-10-18T16:30:00.0000000
-  ends: 2018-10-18T20:00:00.0000000
-  venue: Revolucion de Cuba Leeds
-- name: Understanding utterances
-  description: '<p>This meetup will focus on the discussion of of the first stage of any NLP framework, understanding an utterance (a sentence/phrase given to a bot to interpret).</p> <p>We can share ideas and approaches to solving this problem, while subjectively thinking of ways this can be improved.</p> '
-  url: https://www.meetup.com/Bot-framework-development-meetup/events/254933589/
-  is-free: true
-  starts: 2018-10-18T17:00:00.0000000
-  ends: 2018-10-18T18:30:00.0000000
-  venue: Starbucks - Bridgewater place
-- name: CodeUp Leeds Meetup
-  description: "<p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>This month we will be delivering the following sessions:<br/>- Beginner Session: Introduction to Source Control ─ Hacktoberfest 2018 Edition<br/>- Beginner to Intermediate Session: Python III - Functional Programming (Basic knowledge of Python fundamentals is required.)<br/>- Learner led mentoring</p> <p>Prerequisites for Hacktoberfest Workshop:<br/>* A git client with command line. Windows users can download git for Windows here: <a href=\"https://gitforwindows.org/\" class=\"linkified\">https://gitforwindows.org/</a><br/>* A GitHub account. You can sign up here: <a href=\"https://github.com/\" class=\"linkified\">https://github.com/</a></p> <p>To everyone who wishes to attend the \"Introduction to Source Control\" workshop, we encourage you to come as prepared as possible (see prerequisites above) as this session will be packed full of content and we'd like to spend as little as possible setting up the tooling.</p> <p>For anyone who is unable to set up their laptop prior to the event, if you bring a USB stick with you (which you don't mind having erased) we may be able to provide you with a ready-made environment so you are equipped to follow the sessions.</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
-  url: https://www.meetup.com/CodeUp-Leeds/events/kxhffqyxnbxb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
-  starts: 2018-10-18T17:45:00.0000000
-  ends: 2018-10-18T20:00:00.0000000
-  venue: 3rd Floor, Apsley House
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxnbxb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-10-18T18:00:00.0000000
-  ends: 2018-10-18T21:00:00.0000000
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbdc/
@@ -133,6 +103,14 @@
   starts: 2018-10-31T19:00:00.0000000
   ends: 2018-10-31T21:00:00.0000000
   venue: York Hackspace
+- name: Umbraco Meetup
+  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>Talks for this event:</p> <p>Lee Richardson - F# and Umbraco<br/>Stefano Chiodino - Your first Pull Request to open source software</p> "
+  url: https://www.meetup.com/umbLeeds/events/ltvqhqyxpbcb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
+  starts: 2018-11-01T17:30:00.0000000
+  ends: 2018-11-01T20:30:00.0000000
+  venue: twentysix
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbhb/
