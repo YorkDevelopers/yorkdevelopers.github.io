@@ -42,77 +42,6 @@
   starts: 2018-10-24T16:30:00.0000000
   ends: 2018-10-24T21:30:00.0000000
   venue: Pitcher & Piano
-- name: Women in Tech Presents Future Tech
-  description: >-
-    Welcome to Women in Tech York's FutureTech event!
-
-    We are a community of like-minded people, studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.
-
-    Our theme this month is Future Tech and there will be a free buffet (vegetarian and vegan options avaliable) thanks to our sponsors Isotoma and Mitrefinch.
-
-
-    Event Timings:
-
-    18:00: Registration Opens
-
-    18:30: Introduction
-
-    18:40: Quantum Computation: From Strange Physics To The Computers Of The Future - Rosanna Nichols
-
-    Quantum mechanics displays some truly strange phenomena: for example, superposition, where a particle can be in several “states” (with different properties such as positions or energies) at once. This quantumness is incredibly fragile and hidden to our clumsy, classical eyes but manifests itself at the microscopic level. If we can construct computers to manipulate and exploit these phenomena then a radically different way of computing becomes possible. This is the realm of quantum computing.
-
-    This talk will cover what superposition really means and why this could provide an advantage in computing. We’ll see what algorithms have already been developed, including a closer look at some of the simplest, and how they compare to their classical equivalents, as well as how they are starting to be implemented at an experimental level.
-
-    19:15: Buffet
-
-    19:45: AI: Friendly Helper or Job-Stealing Menace? - Ian Smith, Head of Innovation at ROQ
-
-    Ian will talk about AI, what it is and isn’t, and how it might impact on software delivery (with a particular interest in testing/quality).
-
-    20:30: Networking
-
-    21:00: Event close
-
-
-
-    Giveaway!
-
-    As it's Halloween this month, we'll be giving away an adorable ghost pin, designed by York artist Ellen Stubbings. See more of her great work here: https://www.etsy.com/uk/shop/SoCuteCompany. To win, tweet us on the night and make sure to include #WiTYork!
-
-    This month we are also really pleased to announce we will be giving away 5 tickets to the SIAM Conference (https://scopism.com/events/)  thanks to one of our members - details on how to enter will be announced on the night!
-
-
-
-
-    Nervous about attending?
-
-    A WiT York ambassador will be outside Pitcher & Piano to greet you on the night, direct you to our upstairs bar and answer any questions you may have.
-
-    You can also join our Slack community beforehand or contact us directly via Twitter or email.
-
-
-
-    Slack: https://wit-york.slack.com
-
-
-
-    LinkedIn: Women in Tech York
-
-
-
-    Twitter: @WiT_York
-
-
-
-    Code of Conduct
-
-    The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack.
-  url: https://www.eventbrite.co.uk/e/women-in-tech-presents-future-tech-tickets-50920506606?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50725123/235318357053/1/original.jpg?h=200&w=450&auto=compress&rect=0,125,1748,874&s=daaed063665ea8126deb21309ce262b6
-  starts: 2018-10-18T18:00:00.0000000
-  ends: 2018-10-18T21:00:00.0000000
-  venue: Pitcher & Piano
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -122,11 +51,55 @@
     Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
 
     If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-45803540623?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-45803541626?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
-  starts: 2018-10-18T18:30:00.0000000
-  ends: 2018-10-18T19:30:00.0000000
+  starts: 2018-11-01T18:30:00.0000000
+  ends: 2018-11-01T19:30:00.0000000
+- name: Cisco Healthcare and Local Government - Enterprise Networking update
+  description: >2-
+
+
+
+    Dear Cisco Customer,
+
+    Networks are changing, they need to be more secure, more dynamic and more powerful therefore Cisco is evolving Enterprise Networks and introducing The Network Intuitive.
+
+    The Cisco Health and Local Government team invites customers to hear Cisco’s enterprise networking proposition and how Software Defined Networking can benefit your organisation.
+
+    --
+
+    Morning  - Scott Hodgdon (Technical Marketing Engineer, Cisco Enterprise Networking BU.)
+
+    Introduction to Cisco’s Software Defined Access
+
+    Cisco Software-Defined Access (SD-Access) gives you a single network fabric, from the edge to the cloud. You can set policy-based automation for users, devices, and things. Provide access to any application, without compromising on security. All while gaining awareness of what is hitting your network. With automatic segmentation of users, devices, and applications, you can deploy and secure services faster.
+
+    Catalyst 9000 Update
+
+    Cisco Catalyst 9000 fixed and modular, core and access LAN switches have been designed for an entirely new era of networking.
+
+    --
+
+    Lunch Provided.
+
+    --
+
+    Afternoon - Christopher Devereux (Systems Engineer, Cisco Meraki)
+
+    Meraki 
+
+    See a live demonstration of the Meraki Dashboard and get an update on all new things Meraki including the new Insight capability.
+
+    Meraki SD-WAN
+
+    Learn how easy it can be to connect up all your branch sites effectively utilising the latest in SD-WAN technology embedded in the MX Security Appliances.
+  url: https://www.eventbrite.co.uk/e/cisco-healthcare-and-local-government-enterprise-networking-update-tickets-51528278468?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/51466591/258536087405/1/original.jpg?h=200&w=450&auto=compress&rect=106,0,1186,593&s=b00b2c3d5491139e9d4c578867b62f48
+  starts: 2018-11-26T09:30:00.0000000
+  ends: 2018-11-26T15:00:00.0000000
+  venue: National Railway Museum - Corporate & Private Hire
 - name: Working with school students and teachers in active STEM research
   description: >-
     University of York Science Education Group Research Seminar
@@ -225,6 +198,14 @@
   starts: 2018-12-10T17:15:00.0000000
   ends: 2018-12-10T19:15:00.0000000
   venue: Acomb Explore Library
+- name: Systems Change Thinking - Closing the Loop
+  description: "Systems Change Thinking - Creating Value and Closing the Loop from Unavoidable Food Supply Chain Wastes\nWe are delighted to announce an opportunity to attend a free, one-day event on understanding the chemical and environmental benefits of utilising unavoidable food supply chain wastes (UFSCW). Current strategies for dealing with UFSCW are rudimentary and of low value: these include waste to energy (including incineration and anaerobic digestion), animal feed and bedding; composting; ploughing back in to soil; and, least preferably, landfill. \nIn response, this event explores UFSCW as a unique bioresource: a treasure trove of unexploited, bio-based materials and chemicals, with a range of potential commercial applications underpinned by holistic life-cycle thinking.\nThe event will be of particular interest to companies of all sizes wishing to valorise food waste streams as well as academics and policy makers. Particular benefits to attendees include:\n\n\nAn introduction to the new Sustainable Waste Valorisation Identifier (SWaVI)  tool which enables companies to identify and compare different potential valorisation strategies based on economic viability as well as sustainability and technological readiness.\n\n\nA chance to listen to key industrialists, academics and consultants discuss valorisation from not only a company, but also a more holistic supply chain perspective.\n\n\nThe opportunity to hear from leading academic and industrial speakers about the latest, novel, technical approaches to food waste valorisation.\n\n\nThe ability to interact and connect with researchers, industrialists and policy makers interested in collaborative UK and global projects.\n\n\nPoster abstract submission deadline\nThe deadline for poster abstract submission is Monday 29th October.\n\n\nDownload the abstract template form\n\n\nSubmit your completed abstract form to sophie.palmer@york.ac.uk as a word document or share as a Google Doc\n\n\nContributed poster presentations A0 format \n\n\nProgramme\nSession One: Holistic Systems Change (Chair: Professor Shahin Rahimifard, Loughborough University)\nSession Two: Change, Technology and Methodologies (Chair: Professor Timothy Foster, University of Nottingham)\nSession Three: Influencing Systems Change (Chair: Dr Avtar Matharu, University of York)\nLunch and refreshments provided.\nInvited Speakers\nHugh Powell Product Technology Centre, Nestlé\nZainudin Umar Global Food Structure & Ingredient Science, PepsiCo International\nSponsorship\nIf you would like to sponsor or exhibit at the event, please contact sophie.palmer@york.ac.uk for more details.\nWe gratefully acknowledge funding from the Engineering and Physical Sciences Research Council (Re-SAUCE project EP/P008771/1) which has contributed to the organisation of this free event."
+  url: https://www.eventbrite.co.uk/e/systems-change-thinking-closing-the-loop-tickets-50214579158?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49756050/134225108448/1/original.jpg?h=200&w=450&auto=compress&rect=71,0,2016,1008&s=8b584faf6f4e3be92fded545150f5a54
+  starts: 2018-12-03T09:30:00.0000000
+  ends: 2018-12-03T16:30:00.0000000
+  venue: Lakehouse, The Ron Cooke Hub
 - name: 'PS1: Photoshop Essentials inc. for website editors (Tue 23 Oct 14:00-15:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -298,14 +279,6 @@
   starts: 2018-11-16T09:30:00.0000000
   ends: 2018-11-16T15:30:00.0000000
   venue: Everyman Cinema York
-- name: Systems Change Thinking - Closing the Loop
-  description: "Systems Change Thinking - Creating Value and Closing the Loop from Unavoidable Food Supply Chain Wastes\nWe are delighted to announce an opportunity to attend a free, one-day event on understanding the chemical and environmental benefits of utilising unavoidable food supply chain wastes (UFSCW). Current strategies for dealing with UFSCW are rudimentary and of low value: these include waste to energy (including incineration and anaerobic digestion), animal feed and bedding; composting; ploughing back in to soil; and, least preferably, landfill. \nIn response, this event explores UFSCW as a unique bioresource: a treasure trove of unexploited, bio-based materials and chemicals, with a range of potential commercial applications underpinned by holistic life-cycle thinking.\nThe event will be of particular interest to companies of all sizes wishing to valorise food waste streams as well as academics and policy makers. Particular benefits to attendees include:\n\n\nAn introduction to the new Sustainable Waste Valorisation Identifier (SWaVI)  tool which enables companies to identify and compare different potential valorisation strategies based on economic viability as well as sustainability and technological readiness.\n\n\nA chance to listen to key industrialists, academics and consultants discuss valorisation from not only a company, but also a more holistic supply chain perspective.\n\n\nThe opportunity to hear from leading academic and industrial speakers about the latest, novel, technical approaches to food waste valorisation.\n\n\nThe ability to interact and connect with researchers, industrialists and policy makers interested in collaborative UK and global projects.\n\n\nPoster abstract submission deadline\nThe deadline for poster abstract submission is Monday 29th October.\n\n\nDownload the abstract template form\n\n\nSubmit your completed abstract form to sophie.palmer@york.ac.uk as a word document or share as a Google Doc\n\n\nContributed poster presentations A0 format \n\n\nProgramme\nSession One: Holistic Systems Change (Chair: Professor Shahin Rahimifard, Loughborough University)\nSession Two: Change, Technology and Methodologies (Chair: Professor Timothy Foster, University of Nottingham)\nSession Three: Influencing Systems Change (Chair: Dr Avtar Matharu, University of York)\nLunch and refreshments provided.\nInvited Speakers\nHugh Powell Product Technology Centre, Nestlé\nZainudin Umar Global Food Structure & Ingredient Science, PepsiCo International\nSponsorship\nIf you would like to sponsor or exhibit at the event, please contact sophie.palmer@york.ac.uk for more details.\nWe gratefully acknowledge funding from the Engineering and Physical Sciences Research Council (Re-SAUCE project EP/P008771/1) which has contributed to the organisation of this free event."
-  url: https://www.eventbrite.co.uk/e/systems-change-thinking-closing-the-loop-tickets-50214579158?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49756050/134225108448/1/original.jpg?h=200&w=450&auto=compress&rect=71,0,2016,1008&s=8b584faf6f4e3be92fded545150f5a54
-  starts: 2018-12-03T09:30:00.0000000
-  ends: 2018-12-03T16:30:00.0000000
-  venue: Lakehouse, The Ron Cooke Hub
 - name: 'PS1: Photoshop Essentials inc. for website editors (Thu 22 Nov 11:00-12:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -527,50 +500,6 @@
   starts: 2018-10-31T15:00:00.0000000
   ends: 2018-10-31T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Cisco Healthcare and Local Government - Enterprise Networking update
-  description: >2-
-
-
-
-    Dear Cisco Customer,
-
-    Networks are changing, they need to be more secure, more dynamic and more powerful therefore Cisco is evolving Enterprise Networks and introducing The Network Intuitive.
-
-    The Cisco Health and Local Government team invites customers to hear Cisco’s enterprise networking proposition and how Software Defined Networking can benefit your organisation.
-
-    --
-
-    Morning  - Scott Hodgdon (Technical Marketing Engineer, Cisco Enterprise Networking BU.)
-
-    Introduction to Cisco’s Software Defined Access
-
-    Cisco Software-Defined Access (SD-Access) gives you a single network fabric, from the edge to the cloud. You can set policy-based automation for users, devices, and things. Provide access to any application, without compromising on security. All while gaining awareness of what is hitting your network. With automatic segmentation of users, devices, and applications, you can deploy and secure services faster.
-
-    Catalyst 9000 Update
-
-    Cisco Catalyst 9000 fixed and modular, core and access LAN switches have been designed for an entirely new era of networking.
-
-    --
-
-    Lunch Provided.
-
-    --
-
-    Afternoon - Christopher Devereux (Systems Engineer, Cisco Meraki)
-
-    Meraki 
-
-    See a live demonstration of the Meraki Dashboard and get an update on all new things Meraki including the new Insight capability.
-
-    Meraki SD-WAN
-
-    Learn how easy it can be to connect up all your branch sites effectively utilising the latest in SD-WAN technology embedded in the MX Security Appliances.
-  url: https://www.eventbrite.co.uk/e/cisco-healthcare-and-local-government-enterprise-networking-update-tickets-51528278468?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/51466591/258536087405/1/original.jpg?h=200&w=450&auto=compress&rect=106,0,1186,593&s=b00b2c3d5491139e9d4c578867b62f48
-  starts: 2018-11-26T09:30:00.0000000
-  ends: 2018-11-26T15:00:00.0000000
-  venue: National Railway Museum - Corporate & Private Hire
 - name: 'WO2: Word Essay & dissertation (Tue 13 Nov 15:00-16:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -898,36 +827,6 @@
   starts: 2018-11-26T09:30:00.0000000
   ends: 2018-11-26T16:00:00.0000000
   venue: National Railway Museum York
-- name: '#DAZNLeeds Our Vision for the Future'
-  description: "<p>THIS IS A TICKET ONLY EVENT. TICKETS ARE FREE AND CAN BE OBTAINED HERE:<br/><a href=\"https://www.eventbrite.co.uk/e/daznleeds-our-vision-for-the-future-tickets-50434713586\" class=\"linkified\">https://www.eventbrite.co.uk/e/daznleeds-our-vision-for-the-future-tickets-50434713586</a></p> <p>#DAZNLeeds Our Vision for the Future</p> <p>Your host for the evening will be Rob MacDonald who is the Leeds Engineering Manager for DAZN. He started out his career as a web developer back in 2000, working his way up to Software Engineering Manager for the BBC, before joining DAZN to head up their brand-new development centre.</p> <p>Talk 1 - Message Driven Micro-Architectures<br/>Many of us have used messages and queueing systems to enhance performance in our applications. They are indeed powerful and flexible! From his experiences at Sky and unique approach being addressed at DAZN, Rich will show us how by leveraging 'message-driven' further in a decoupled architecture using micro-components can enable us to build resilient and fault tolerant systems quickly at scale.</p> <p>Bio: Bio: Rich McIntyre is a no-nonsense straight-talking technology enthusiast who has a wealth of experience in developing and designing systems being accessed by millions of people. He has been active in open-source communities in both Leeds and Japan. He is just moving on from Sky to join DAZN as Software Engineering Manager alongside Rob.</p> <p>Talk 2 - What has RxJS ever done for us? \"Practical application and testing of RxJS data streams.\"<br/>Alex will make a brief overview of what is an RxJS stream. He will take us through a few practical problems solved with RxJS in DAZN and how RxJS helped DAZN write clean, declarative and testable code.</p> <p>Bio: Alex is a Software Engineer in DAZN, a Storyteller, a coffee drinker and a dog father... Sometimes concurrently and in no particular order.</p> "
-  url: https://www.meetup.com/Northern-Tech-Events/events/254372379/
-  is-free: true
-  starts: 2018-10-18T16:30:00.0000000
-  ends: 2018-10-18T20:00:00.0000000
-  venue: Revolucion de Cuba Leeds
-- name: Understanding utterances
-  description: '<p>This meetup will focus on the discussion of of the first stage of any NLP framework, understanding an utterance (a sentence/phrase given to a bot to interpret).</p> <p>We can share ideas and approaches to solving this problem, while subjectively thinking of ways this can be improved.</p> '
-  url: https://www.meetup.com/Bot-framework-development-meetup/events/254933589/
-  is-free: true
-  starts: 2018-10-18T17:00:00.0000000
-  ends: 2018-10-18T18:30:00.0000000
-  venue: Starbucks - Bridgewater place
-- name: CodeUp Leeds Meetup
-  description: "<p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>This month we will be delivering the following sessions:<br/>- Beginner Session: Introduction to Source Control ─ Hacktoberfest 2018 Edition<br/>- Beginner to Intermediate Session: Python III - Functional Programming (Basic knowledge of Python fundamentals is required.)<br/>- Learner led mentoring</p> <p>Prerequisites for Hacktoberfest Workshop:<br/>* A git client with command line. Windows users can download git for Windows here: <a href=\"https://gitforwindows.org/\" class=\"linkified\">https://gitforwindows.org/</a><br/>* A GitHub account. You can sign up here: <a href=\"https://github.com/\" class=\"linkified\">https://github.com/</a></p> <p>To everyone who wishes to attend the \"Introduction to Source Control\" workshop, we encourage you to come as prepared as possible (see prerequisites above) as this session will be packed full of content and we'd like to spend as little as possible setting up the tooling.</p> <p>For anyone who is unable to set up their laptop prior to the event, if you bring a USB stick with you (which you don't mind having erased) we may be able to provide you with a ready-made environment so you are equipped to follow the sessions.</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
-  url: https://www.meetup.com/CodeUp-Leeds/events/kxhffqyxnbxb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
-  starts: 2018-10-18T17:45:00.0000000
-  ends: 2018-10-18T20:00:00.0000000
-  venue: 3rd Floor, Apsley House
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxnbxb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-10-18T18:00:00.0000000
-  ends: 2018-10-18T21:00:00.0000000
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbdc/
@@ -1033,6 +932,14 @@
   starts: 2018-10-31T19:00:00.0000000
   ends: 2018-10-31T21:00:00.0000000
   venue: York Hackspace
+- name: Umbraco Meetup
+  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>Talks for this event:</p> <p>Lee Richardson - F# and Umbraco<br/>Stefano Chiodino - Your first Pull Request to open source software</p> "
+  url: https://www.meetup.com/umbLeeds/events/ltvqhqyxpbcb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
+  starts: 2018-11-01T17:30:00.0000000
+  ends: 2018-11-01T20:30:00.0000000
+  venue: twentysix
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbhb/
