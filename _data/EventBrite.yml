@@ -42,77 +42,6 @@
   starts: 2018-10-24T16:30:00.0000000
   ends: 2018-10-24T21:30:00.0000000
   venue: Pitcher & Piano
-- name: Women in Tech Presents Future Tech
-  description: >-
-    Welcome to Women in Tech York's FutureTech event!
-
-    We are a community of like-minded people, studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.
-
-    Our theme this month is Future Tech and there will be a free buffet (vegetarian and vegan options avaliable) thanks to our sponsors Isotoma and Mitrefinch.
-
-
-    Event Timings:
-
-    18:00: Registration Opens
-
-    18:30: Introduction
-
-    18:40: Quantum Computation: From Strange Physics To The Computers Of The Future - Rosanna Nichols
-
-    Quantum mechanics displays some truly strange phenomena: for example, superposition, where a particle can be in several “states” (with different properties such as positions or energies) at once. This quantumness is incredibly fragile and hidden to our clumsy, classical eyes but manifests itself at the microscopic level. If we can construct computers to manipulate and exploit these phenomena then a radically different way of computing becomes possible. This is the realm of quantum computing.
-
-    This talk will cover what superposition really means and why this could provide an advantage in computing. We’ll see what algorithms have already been developed, including a closer look at some of the simplest, and how they compare to their classical equivalents, as well as how they are starting to be implemented at an experimental level.
-
-    19:15: Buffet
-
-    19:45: AI: Friendly Helper or Job-Stealing Menace? - Ian Smith, Head of Innovation at ROQ
-
-    Ian will talk about AI, what it is and isn’t, and how it might impact on software delivery (with a particular interest in testing/quality).
-
-    20:30: Networking
-
-    21:00: Event close
-
-
-
-    Giveaway!
-
-    As it's Halloween this month, we'll be giving away an adorable ghost pin, designed by York artist Ellen Stubbings. See more of her great work here: https://www.etsy.com/uk/shop/SoCuteCompany. To win, tweet us on the night and make sure to include #WiTYork!
-
-    This month we are also really pleased to announce we will be giving away 5 tickets to the SIAM Conference (https://scopism.com/events/)  thanks to one of our members - details on how to enter will be announced on the night!
-
-
-
-
-    Nervous about attending?
-
-    A WiT York ambassador will be outside Pitcher & Piano to greet you on the night, direct you to our upstairs bar and answer any questions you may have.
-
-    You can also join our Slack community beforehand or contact us directly via Twitter or email.
-
-
-
-    Slack: https://wit-york.slack.com
-
-
-
-    LinkedIn: Women in Tech York
-
-
-
-    Twitter: @WiT_York
-
-
-
-    Code of Conduct
-
-    The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack.
-  url: https://www.eventbrite.co.uk/e/women-in-tech-presents-future-tech-tickets-50920506606?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50725123/235318357053/1/original.jpg?h=200&w=450&auto=compress&rect=0,125,1748,874&s=daaed063665ea8126deb21309ce262b6
-  starts: 2018-10-18T18:00:00.0000000
-  ends: 2018-10-18T21:00:00.0000000
-  venue: Pitcher & Piano
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -122,11 +51,55 @@
     Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
 
     If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-45803540623?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-45803541626?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
-  starts: 2018-10-18T18:30:00.0000000
-  ends: 2018-10-18T19:30:00.0000000
+  starts: 2018-11-01T18:30:00.0000000
+  ends: 2018-11-01T19:30:00.0000000
+- name: Cisco Healthcare and Local Government - Enterprise Networking update
+  description: >2-
+
+
+
+    Dear Cisco Customer,
+
+    Networks are changing, they need to be more secure, more dynamic and more powerful therefore Cisco is evolving Enterprise Networks and introducing The Network Intuitive.
+
+    The Cisco Health and Local Government team invites customers to hear Cisco’s enterprise networking proposition and how Software Defined Networking can benefit your organisation.
+
+    --
+
+    Morning  - Scott Hodgdon (Technical Marketing Engineer, Cisco Enterprise Networking BU.)
+
+    Introduction to Cisco’s Software Defined Access
+
+    Cisco Software-Defined Access (SD-Access) gives you a single network fabric, from the edge to the cloud. You can set policy-based automation for users, devices, and things. Provide access to any application, without compromising on security. All while gaining awareness of what is hitting your network. With automatic segmentation of users, devices, and applications, you can deploy and secure services faster.
+
+    Catalyst 9000 Update
+
+    Cisco Catalyst 9000 fixed and modular, core and access LAN switches have been designed for an entirely new era of networking.
+
+    --
+
+    Lunch Provided.
+
+    --
+
+    Afternoon - Christopher Devereux (Systems Engineer, Cisco Meraki)
+
+    Meraki 
+
+    See a live demonstration of the Meraki Dashboard and get an update on all new things Meraki including the new Insight capability.
+
+    Meraki SD-WAN
+
+    Learn how easy it can be to connect up all your branch sites effectively utilising the latest in SD-WAN technology embedded in the MX Security Appliances.
+  url: https://www.eventbrite.co.uk/e/cisco-healthcare-and-local-government-enterprise-networking-update-tickets-51528278468?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/51466591/258536087405/1/original.jpg?h=200&w=450&auto=compress&rect=106,0,1186,593&s=b00b2c3d5491139e9d4c578867b62f48
+  starts: 2018-11-26T09:30:00.0000000
+  ends: 2018-11-26T15:00:00.0000000
+  venue: National Railway Museum - Corporate & Private Hire
 - name: Working with school students and teachers in active STEM research
   description: >-
     University of York Science Education Group Research Seminar
@@ -225,6 +198,14 @@
   starts: 2018-12-10T17:15:00.0000000
   ends: 2018-12-10T19:15:00.0000000
   venue: Acomb Explore Library
+- name: Systems Change Thinking - Closing the Loop
+  description: "Systems Change Thinking - Creating Value and Closing the Loop from Unavoidable Food Supply Chain Wastes\nWe are delighted to announce an opportunity to attend a free, one-day event on understanding the chemical and environmental benefits of utilising unavoidable food supply chain wastes (UFSCW). Current strategies for dealing with UFSCW are rudimentary and of low value: these include waste to energy (including incineration and anaerobic digestion), animal feed and bedding; composting; ploughing back in to soil; and, least preferably, landfill. \nIn response, this event explores UFSCW as a unique bioresource: a treasure trove of unexploited, bio-based materials and chemicals, with a range of potential commercial applications underpinned by holistic life-cycle thinking.\nThe event will be of particular interest to companies of all sizes wishing to valorise food waste streams as well as academics and policy makers. Particular benefits to attendees include:\n\n\nAn introduction to the new Sustainable Waste Valorisation Identifier (SWaVI)  tool which enables companies to identify and compare different potential valorisation strategies based on economic viability as well as sustainability and technological readiness.\n\n\nA chance to listen to key industrialists, academics and consultants discuss valorisation from not only a company, but also a more holistic supply chain perspective.\n\n\nThe opportunity to hear from leading academic and industrial speakers about the latest, novel, technical approaches to food waste valorisation.\n\n\nThe ability to interact and connect with researchers, industrialists and policy makers interested in collaborative UK and global projects.\n\n\nPoster abstract submission deadline\nThe deadline for poster abstract submission is Monday 29th October.\n\n\nDownload the abstract template form\n\n\nSubmit your completed abstract form to sophie.palmer@york.ac.uk as a word document or share as a Google Doc\n\n\nContributed poster presentations A0 format \n\n\nProgramme\nSession One: Holistic Systems Change (Chair: Professor Shahin Rahimifard, Loughborough University)\nSession Two: Change, Technology and Methodologies (Chair: Professor Timothy Foster, University of Nottingham)\nSession Three: Influencing Systems Change (Chair: Dr Avtar Matharu, University of York)\nLunch and refreshments provided.\nInvited Speakers\nHugh Powell Product Technology Centre, Nestlé\nZainudin Umar Global Food Structure & Ingredient Science, PepsiCo International\nSponsorship\nIf you would like to sponsor or exhibit at the event, please contact sophie.palmer@york.ac.uk for more details.\nWe gratefully acknowledge funding from the Engineering and Physical Sciences Research Council (Re-SAUCE project EP/P008771/1) which has contributed to the organisation of this free event."
+  url: https://www.eventbrite.co.uk/e/systems-change-thinking-closing-the-loop-tickets-50214579158?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49756050/134225108448/1/original.jpg?h=200&w=450&auto=compress&rect=71,0,2016,1008&s=8b584faf6f4e3be92fded545150f5a54
+  starts: 2018-12-03T09:30:00.0000000
+  ends: 2018-12-03T16:30:00.0000000
+  venue: Lakehouse, The Ron Cooke Hub
 - name: 'PS1: Photoshop Essentials inc. for website editors (Tue 23 Oct 14:00-15:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -298,14 +279,6 @@
   starts: 2018-11-16T09:30:00.0000000
   ends: 2018-11-16T15:30:00.0000000
   venue: Everyman Cinema York
-- name: Systems Change Thinking - Closing the Loop
-  description: "Systems Change Thinking - Creating Value and Closing the Loop from Unavoidable Food Supply Chain Wastes\nWe are delighted to announce an opportunity to attend a free, one-day event on understanding the chemical and environmental benefits of utilising unavoidable food supply chain wastes (UFSCW). Current strategies for dealing with UFSCW are rudimentary and of low value: these include waste to energy (including incineration and anaerobic digestion), animal feed and bedding; composting; ploughing back in to soil; and, least preferably, landfill. \nIn response, this event explores UFSCW as a unique bioresource: a treasure trove of unexploited, bio-based materials and chemicals, with a range of potential commercial applications underpinned by holistic life-cycle thinking.\nThe event will be of particular interest to companies of all sizes wishing to valorise food waste streams as well as academics and policy makers. Particular benefits to attendees include:\n\n\nAn introduction to the new Sustainable Waste Valorisation Identifier (SWaVI)  tool which enables companies to identify and compare different potential valorisation strategies based on economic viability as well as sustainability and technological readiness.\n\n\nA chance to listen to key industrialists, academics and consultants discuss valorisation from not only a company, but also a more holistic supply chain perspective.\n\n\nThe opportunity to hear from leading academic and industrial speakers about the latest, novel, technical approaches to food waste valorisation.\n\n\nThe ability to interact and connect with researchers, industrialists and policy makers interested in collaborative UK and global projects.\n\n\nPoster abstract submission deadline\nThe deadline for poster abstract submission is Monday 29th October.\n\n\nDownload the abstract template form\n\n\nSubmit your completed abstract form to sophie.palmer@york.ac.uk as a word document or share as a Google Doc\n\n\nContributed poster presentations A0 format \n\n\nProgramme\nSession One: Holistic Systems Change (Chair: Professor Shahin Rahimifard, Loughborough University)\nSession Two: Change, Technology and Methodologies (Chair: Professor Timothy Foster, University of Nottingham)\nSession Three: Influencing Systems Change (Chair: Dr Avtar Matharu, University of York)\nLunch and refreshments provided.\nInvited Speakers\nHugh Powell Product Technology Centre, Nestlé\nZainudin Umar Global Food Structure & Ingredient Science, PepsiCo International\nSponsorship\nIf you would like to sponsor or exhibit at the event, please contact sophie.palmer@york.ac.uk for more details.\nWe gratefully acknowledge funding from the Engineering and Physical Sciences Research Council (Re-SAUCE project EP/P008771/1) which has contributed to the organisation of this free event."
-  url: https://www.eventbrite.co.uk/e/systems-change-thinking-closing-the-loop-tickets-50214579158?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49756050/134225108448/1/original.jpg?h=200&w=450&auto=compress&rect=71,0,2016,1008&s=8b584faf6f4e3be92fded545150f5a54
-  starts: 2018-12-03T09:30:00.0000000
-  ends: 2018-12-03T16:30:00.0000000
-  venue: Lakehouse, The Ron Cooke Hub
 - name: 'PS1: Photoshop Essentials inc. for website editors (Thu 22 Nov 11:00-12:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -535,50 +508,6 @@
   starts: 2018-10-31T15:00:00.0000000
   ends: 2018-10-31T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Cisco Healthcare and Local Government - Enterprise Networking update
-  description: >2-
-
-
-
-    Dear Cisco Customer,
-
-    Networks are changing, they need to be more secure, more dynamic and more powerful therefore Cisco is evolving Enterprise Networks and introducing The Network Intuitive.
-
-    The Cisco Health and Local Government team invites customers to hear Cisco’s enterprise networking proposition and how Software Defined Networking can benefit your organisation.
-
-    --
-
-    Morning  - Scott Hodgdon (Technical Marketing Engineer, Cisco Enterprise Networking BU.)
-
-    Introduction to Cisco’s Software Defined Access
-
-    Cisco Software-Defined Access (SD-Access) gives you a single network fabric, from the edge to the cloud. You can set policy-based automation for users, devices, and things. Provide access to any application, without compromising on security. All while gaining awareness of what is hitting your network. With automatic segmentation of users, devices, and applications, you can deploy and secure services faster.
-
-    Catalyst 9000 Update
-
-    Cisco Catalyst 9000 fixed and modular, core and access LAN switches have been designed for an entirely new era of networking.
-
-    --
-
-    Lunch Provided.
-
-    --
-
-    Afternoon - Christopher Devereux (Systems Engineer, Cisco Meraki)
-
-    Meraki 
-
-    See a live demonstration of the Meraki Dashboard and get an update on all new things Meraki including the new Insight capability.
-
-    Meraki SD-WAN
-
-    Learn how easy it can be to connect up all your branch sites effectively utilising the latest in SD-WAN technology embedded in the MX Security Appliances.
-  url: https://www.eventbrite.co.uk/e/cisco-healthcare-and-local-government-enterprise-networking-update-tickets-51528278468?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/51466591/258536087405/1/original.jpg?h=200&w=450&auto=compress&rect=106,0,1186,593&s=b00b2c3d5491139e9d4c578867b62f48
-  starts: 2018-11-26T09:30:00.0000000
-  ends: 2018-11-26T15:00:00.0000000
-  venue: National Railway Museum - Corporate & Private Hire
 - name: 'WO2: Word Essay & dissertation (Tue 13 Nov 15:00-16:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
