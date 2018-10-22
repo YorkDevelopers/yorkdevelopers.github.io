@@ -180,43 +180,6 @@
   starts: 2018-12-03T09:30:00.0000000
   ends: 2018-12-03T16:30:00.0000000
   venue: Lakehouse, The Ron Cooke Hub
-- name: 'WE1: Website CMS Basic training (Mon 22 Oct 10:00-12:00)'
-  description: >-
-    These courses are for staff who have been approved by the website team only
-
-
-    WE1: Website CMS basics
-
-    Prior knowledge: None
-
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-mon-22-oct-1000-1200-tickets-50495289771?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50118030/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=42289a9c572b58aaa0adc7e610ce24d3
-  starts: 2018-10-22T10:00:00.0000000
-  ends: 2018-10-22T12:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: York Pi Jam - December
   description: >2-
 
@@ -292,6 +255,49 @@
   starts: 2018-10-23T14:00:00.0000000
   ends: 2018-10-23T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Get In The Game Careers Talks; University of York
+  description: >-
+    The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
+
+    Speakers
+
+
+    Schedule of Event
+
+    13:00-14:00 – Aardvark Swift Career Talk
+
+    14:00-14:30 – Red Kite
+
+    14:30-15:00 – Boss Alien
+
+    15:00-15:30 – Q&A
+
+
+    Our talks are given for students to learn what it really takes to make it into such a competitive industry. Covering topics such as:
+
+    • Careers in games advice
+
+    • Information of how to maximise your chances of securing your first games industry role.
+
+    • CV, Portfolio and Demo Advice
+
+    • Interview Techniques
+
+    • Technical and practical knowledge required by studios
+
+    • How to increase employability
+
+    • Q & A session
+
+    We’ll also be giving away goodie bags to a handful of lucky winners, with prizes from our partner studios.
+
+    This is a great opportunity that offers expert information which could prove vital in your career. Don't miss out - get your ticket now!
+  url: https://www.eventbrite.co.uk/e/get-in-the-game-careers-talks-university-of-york-tickets-45097383488?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48734073/107396689973/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c6b713e5c77925f1caaaa6ac2bffa35
+  starts: 2018-11-21T14:00:00.0000000
+  ends: 2018-11-21T18:00:00.0000000
+  venue: Piazza Building
 - name: 'PS1: Photoshop Essentials inc. for website editors (Thu 22 Nov 11:00-12:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -411,49 +417,6 @@
   starts: 2018-11-12T18:00:00.0000000
   ends: 2018-11-12T20:30:00.0000000
   venue: Towers Lounge & Bar
-- name: Get In The Game Careers Talks; University of York
-  description: >-
-    The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
-
-    Speakers
-
-
-    Schedule of Event
-
-    13:00-14:00 – Aardvark Swift Career Talk
-
-    14:00-14:30 – Red Kite
-
-    14:30-15:00 – Boss Alien
-
-    15:00-15:30 – Q&A
-
-
-    Our talks are given for students to learn what it really takes to make it into such a competitive industry. Covering topics such as:
-
-    • Careers in games advice
-
-    • Information of how to maximise your chances of securing your first games industry role.
-
-    • CV, Portfolio and Demo Advice
-
-    • Interview Techniques
-
-    • Technical and practical knowledge required by studios
-
-    • How to increase employability
-
-    • Q & A session
-
-    We’ll also be giving away goodie bags to a handful of lucky winners, with prizes from our partner studios.
-
-    This is a great opportunity that offers expert information which could prove vital in your career. Don't miss out - get your ticket now!
-  url: https://www.eventbrite.co.uk/e/get-in-the-game-careers-talks-university-of-york-tickets-45097383488?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48734073/107396689973/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c6b713e5c77925f1caaaa6ac2bffa35
-  starts: 2018-11-21T14:00:00.0000000
-  ends: 2018-11-21T18:00:00.0000000
-  venue: Piazza Building
 - name: Modern Modelling and Computation in Nuclear Structure
   description: Dr Alessandro PastoreUniversity of YorkDelivered by face-to-face (residential) lectures in York.Delivery may be in two phases with assigned work inbetween.
   url: https://www.eventbrite.co.uk/e/modern-modelling-and-computation-in-nuclear-structure-tickets-41391288458?aff=ebapi
