@@ -1,22 +1,5 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbdc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-10-22T06:30:00.0000000
-  ends: 2018-10-22T09:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: LeedsDevops - October 2018 Meetup
-  description: "<p>After our extended summer break we're back at the ODI Node in Leeds on Tuesday 23rd October for a night of Devops chatter:</p> <p>6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>7:15 - 7:25 : Group updates/news/announcements<br/>7:25 - 8:05 : Azure DevOps<br/>8:05 - 8:20 : Intermission<br/>8:20 - 9:00 : Accelerating Delivery Velocity With Kubernetes<br/>9:00 - late : Decamp to the Wardrobe</p> <p>Our first talk is from Simon Thurman who is a Cloud Solution Architect at Microsoft, he'll be showcasing Microsoft's latest toolchain, covering the components of the system such as pipelines, test plans, artifact repos, boards and more. Simon will demonstrate the steps involved and interactions as code moves from commit to production in Azure Devops.</p> <p>Our headline speaker is Simon Westcott a hands-on architect with 10+ yrs experience of building high traffic websites. In late 2016 Simon moved into the world of platform engineering to help re-imagine Sky Betting &amp; Gaming's delivery approach and drive operational efficiency. Delivery agility is key to Simon and his Team's success. As their engineering team grows, they have an increasing number of greenfield products to comission, as well as monolithic applications to decompose into microservices. To manage this they need a platform that can keep pace, both in the cloud and on-premise. Simon will explore with you why they choose Kubernetes, how they're adapting both on AWS and on-premise and the challenges they faced.</p> <p>As an extra treat we'll also be giving away 2 tickets for the upcoming DevOpsDays Edinburgh conference on the 1st and 2nd of November.</p> <p>Once again we say a massive \"Thank You\" to Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) for sponsoring the refreshments and lodgings for the evening, ensuring there are plenty of our favourite refreshments and soft drinks in supply.</p> <p>Code Of Conduct</p> <p>Please note that we have now added an anti harassment policy and code of conduct <a href=\"http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in\" class=\"linkified\">http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in</a> order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street. If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on twitter @leedsdevops (<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>For more details see the event page on leedsdevops.org.uk (<a href=\"http://www.leedsdevops.org.uk/post/179051054730/meetup-tuesday-23rd-october-2018-at-the-odi-node\" class=\"linkified\">http://www.leedsdevops.org.uk/post/179051054730/meetup-tuesday-23rd-october-2018-at-the-odi-node</a>)</p> "
-  url: https://www.meetup.com/LeedsDevops/events/255533112/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/a/6/0/thumb_333467712.jpeg
-  starts: 2018-10-23T17:45:00.0000000
-  ends: 2018-10-23T20:00:00.0000000
-  venue: ODI Leeds Node
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbgc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -761,6 +744,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-04-10T06:30:00.0000000
   ends: 2019-04-10T09:30:00.0000000
+  venue: Drift In At fat Face
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-04-15T06:30:00.0000000
+  ends: 2019-04-15T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
 - name: YorkTechFest - A celebration of the York Volunteer Tech Community

@@ -34,6 +34,14 @@
   starts: 2018-11-01T18:30:00.0000000
   ends: 2018-11-01T19:30:00.0000000
   venue: Room P/X/001
+- name: 'Bioladies Network & Girls in Science present    BIOCLUB '
+  description: "Are you a woman working in the bioeconomy and want to make new contacts? Are you a young lady hoping to become a Biolady one day?  *Register now for this networking event.  Join us for an evening packed with interesting people, useful information and networking. \nWhat is the bioeconomy?\nThe bioeconomy comprises those parts of the economy that use renewable biological resources from land and sea – such as crops, forests, fish, animals and micro-organisms – to produce food, materials and energy.\nMore information on Bioladies Network here   More information on Girls in Science here\nThe early part of the event is aimed at young ladies at sixth form or working in bio areas who want to network and progress their career plans. The later section is for bioladies and gents who want to keep up with progress in the bioeconomy, meet like minded people and network.\nAGENDA:\n(4.30 to 5.30 is aimed primarily at Girls in Science)\n4.30- Welcome                               Iris Anderson & Lakechia Jeanne\n4.35- My journey                            Lucie Pfalzgraff\n4.50- Mastering Physics                Rebecca Rafferty\n5.15- Value of Networking             Iris Anderson\n5.30-                         Networking and refreshments\n(Bioladies section starts at 5.50 but come early if you can as valuable for girls to network with you) \n5.50 - Biovale, what next?            Sarah Hickingbottom, CEO Biovale\n6.00- Spider  talk                           Dr Chris Holland, Uni of Sheffield\n6.20- UK Bioeconomy update       Yvonne Armitage, KTN \n6.50- European BioPerspective     Lucy Montgomery, NNFCC \n7.10- Sustainable construction      James Newton , Native Architects \n7.30-                         Networking and refreshments\n9.00 -Finish\nThe event is kindly sponsored by Biovale, a bioeconomy cluster which promotes Yorkshire and the Humber as a thriving centre of successful innovation for the bioeconomy and helps regional enterprise profit from the valuable business opportunities in this high growth sector. \n\n\n* Please note men working in the bioeconomy are welcome to attend this event."
+  url: https://www.eventbrite.co.uk/e/bioladies-network-girls-in-science-present-bioclub-tickets-49430752712?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49044475/175011662679/1/original.jpg?h=200&w=450&auto=compress&rect=0,65,316,158&s=0434dec814569d2cbfd5fe07c1bda4a2
+  starts: 2018-10-24T16:30:00.0000000
+  ends: 2018-10-24T21:30:00.0000000
+  venue: Pitcher & Piano
 - name: '“Mammals, Dinosaurs and Sea Dragons of the Jurassic": an afternoon of talks'
   description: >-
     The Yorkshire Philosophical Society and The Yorkshire Geological Society present a free one day indoor meeting of lectures on “Mammals, Dinosaurs and Sea Dragons of the Jurassic: recent developments in vertebrate palaeontology” on Saturday November 3rd (1pm to 4.30pm) at Tempest Anderson Hall, Yorkshire Museum, York, YO1 7FR.   This will provide an overview of current cutting-edge research for amateur geologists and the general public as well as a professional and academic audience. Speakers include Mike Benton (University of Bristol) who will present “The Carnian Pluvial Episode and the origin of the dinosaurs” and Elsa Panciroli (University of Edinburgh and National Museum of Scotland) speaking on “Mammals of our Jurassic World from Yorkshire to the isle of Skye”. The Stamford and District Geological Society will speak about “The Scunthorpe Pliosaur – preserving a new find” and Dr Michael Romano formerly of the University of Sheffield "Dinosaur Tracks from the Middle Jurassic rocks of the Cleveland Basin of Yorkshire and a comparison with those from the Isle of Skye, Scotland".
@@ -47,14 +55,6 @@
   starts: 2018-11-03T13:00:00.0000000
   ends: 2018-11-03T16:30:00.0000000
   venue: Yorkshire Museum
-- name: 'Bioladies Network & Girls in Science present    BIOCLUB '
-  description: "Are you a woman working in the bioeconomy and want to make new contacts? Are you a young lady hoping to become a Biolady one day?  *Register now for this networking event.  Join us for an evening packed with interesting people, useful information and networking. \nWhat is the bioeconomy?\nThe bioeconomy comprises those parts of the economy that use renewable biological resources from land and sea – such as crops, forests, fish, animals and micro-organisms – to produce food, materials and energy.\nMore information on Bioladies Network here   More information on Girls in Science here\nThe early part of the event is aimed at young ladies at sixth form or working in bio areas who want to network and progress their career plans. The later section is for bioladies and gents who want to keep up with progress in the bioeconomy, meet like minded people and network.\nAGENDA:\n(4.30 to 5.30 is aimed primarily at Girls in Science)\n4.30- Welcome                               Iris Anderson & Lakechia Jeanne\n4.35- My journey                            Lucie Pfalzgraff\n4.50- Mastering Physics                Rebecca Rafferty\n5.15- Value of Networking             Iris Anderson\n5.30-                         Networking and refreshments\n(Bioladies section starts at 5.50 but come early if you can as valuable for girls to network with you) \n5.50 - Biovale, what next?            Sarah Hickingbottom, CEO Biovale\n6.00- Spider  talk                           Dr Chris Holland, Uni of Sheffield\n6.20- UK Bioeconomy update       Yvonne Armitage, KTN \n6.50- European BioPerspective     Lucy Montgomery, NNFCC \n7.10- Sustainable construction      James Newton , Native Architects \n7.30-                         Networking and refreshments\n9.00 -Finish\nThe event is kindly sponsored by Biovale, a bioeconomy cluster which promotes Yorkshire and the Humber as a thriving centre of successful innovation for the bioeconomy and helps regional enterprise profit from the valuable business opportunities in this high growth sector. \n\n\n* Please note men working in the bioeconomy are welcome to attend this event."
-  url: https://www.eventbrite.co.uk/e/bioladies-network-girls-in-science-present-bioclub-tickets-49430752712?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49044475/175011662679/1/original.jpg?h=200&w=450&auto=compress&rect=0,65,316,158&s=0434dec814569d2cbfd5fe07c1bda4a2
-  starts: 2018-10-24T16:30:00.0000000
-  ends: 2018-10-24T21:30:00.0000000
-  venue: Pitcher & Piano
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -127,6 +127,28 @@
   starts: 2018-11-19T17:15:00.0000000
   ends: 2018-11-19T19:15:00.0000000
   venue: Acomb Explore Library
+- name: TEDxYork
+  description: >-
+    During our TEDxYork event we will explore how memories are anchored, how we both engage with and protect ourselves from the world around us, and how technology can affect and reflect different kinds of truth.
+
+    We will explore the realities from the perspective of others who share our world e.g. the humble bumble bee. We will also learn how we can enhance our reality using our senses in different ways e.g. in food and drink. Finally we will discover a new world of choices and consequence, explore the opportunities and threats on the horizon from our accelerating world of immersive and virtual reality, enhanced experiences and artificial intelligence.
+
+    How does our sense of humanity fit with this brave new world and should we be excited or very very afraid!
+
+    Please contact me on heather.niven@scy.co.uk if you have accessibility issues as the venue is a listed building. We would appreciate advance notice if you may need help with stairs.Thank you.
+  url: https://www.eventbrite.co.uk/e/tedxyork-tickets-51396558490?aff=ebapi
+  logo: https://cdn.evbuc.com/images/51302095/2762975383/1/original.jpg?h=200&w=450&auto=compress&rect=0,188,1608,804&s=55180bd93980165abc60d5855e34a003
+  starts: 2018-11-16T09:30:00.0000000
+  ends: 2018-11-16T15:30:00.0000000
+  venue: Everyman Cinema York
+- name: Systems Change Thinking - Closing the Loop
+  description: "Systems Change Thinking - Creating Value and Closing the Loop from Unavoidable Food Supply Chain Wastes\nWe are delighted to announce an opportunity to attend a free, one-day event on understanding the chemical and environmental benefits of utilising unavoidable food supply chain wastes (UFSCW). Current strategies for dealing with UFSCW are rudimentary and of low value: these include waste to energy (including incineration and anaerobic digestion), animal feed and bedding; composting; ploughing back in to soil; and, least preferably, landfill. \nIn response, this event explores UFSCW as a unique bioresource: a treasure trove of unexploited, bio-based materials and chemicals, with a range of potential commercial applications underpinned by holistic life-cycle thinking.\nThe event will be of particular interest to companies of all sizes wishing to valorise food waste streams as well as academics and policy makers. Particular benefits to attendees include:\n\n\nAn introduction to the new Sustainable Waste Valorisation Identifier (SWaVI)  tool which enables companies to identify and compare different potential valorisation strategies based on economic viability as well as sustainability and technological readiness.\n\n\nA chance to listen to key industrialists, academics and consultants discuss valorisation from not only a company, but also a more holistic supply chain perspective.\n\n\nThe opportunity to hear from leading academic and industrial speakers about the latest, novel, technical approaches to food waste valorisation.\n\n\nThe ability to interact and connect with researchers, industrialists and policy makers interested in collaborative UK and global projects.\n\n\nPoster abstract submission deadline\nThe deadline for poster abstract submission is Monday 29th October.\n\n\nDownload the abstract template form\n\n\nSubmit your completed abstract form to sophie.palmer@york.ac.uk as a word document or share as a Google Doc\n\n\nContributed poster presentations A0 format \n\n\nProgramme\nSession One: Holistic Systems Change (Chair: Professor Shahin Rahimifard, Loughborough University)\nSession Two: Change, Technology and Methodologies (Chair: Professor Timothy Foster, University of Nottingham)\nSession Three: Influencing Systems Change (Chair: Dr Avtar Matharu, University of York)\nLunch and refreshments provided.\nInvited Speakers\nHugh Powell Product Technology Centre, Nestlé\nZainudin Umar Global Food Structure & Ingredient Science, PepsiCo International\nSponsorship\nIf you would like to sponsor or exhibit at the event, please contact sophie.palmer@york.ac.uk for more details.\nWe gratefully acknowledge funding from the Engineering and Physical Sciences Research Council (Re-SAUCE project EP/P008771/1) which has contributed to the organisation of this free event."
+  url: https://www.eventbrite.co.uk/e/systems-change-thinking-closing-the-loop-tickets-50214579158?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49756050/134225108448/1/original.jpg?h=200&w=450&auto=compress&rect=71,0,2016,1008&s=8b584faf6f4e3be92fded545150f5a54
+  starts: 2018-12-03T09:30:00.0000000
+  ends: 2018-12-03T16:30:00.0000000
+  venue: Lakehouse, The Ron Cooke Hub
 - name: Working with school students and teachers in active STEM research
   description: >-
     University of York Science Education Group Research Seminar
@@ -143,20 +165,6 @@
   starts: 2018-10-31T12:00:00.0000000
   ends: 2018-10-31T13:00:00.0000000
   venue: Alcuin College Block D
-- name: TEDxYork
-  description: >-
-    During our TEDxYork event we will explore how memories are anchored, how we both engage with and protect ourselves from the world around us, and how technology can affect and reflect different kinds of truth.
-
-    We will explore the realities from the perspective of others who share our world e.g. the humble bumble bee. We will also learn how we can enhance our reality using our senses in different ways e.g. in food and drink. Finally we will discover a new world of choices and consequence, explore the opportunities and threats on the horizon from our accelerating world of immersive and virtual reality, enhanced experiences and artificial intelligence.
-
-    How does our sense of humanity fit with this brave new world and should we be excited or very very afraid!
-
-    Please contact me on heather.niven@scy.co.uk if you have accessibility issues as the venue is a listed building. We would appreciate advance notice if you may need help with stairs.Thank you.
-  url: https://www.eventbrite.co.uk/e/tedxyork-tickets-51396558490?aff=ebapi
-  logo: https://cdn.evbuc.com/images/51302095/2762975383/1/original.jpg?h=200&w=450&auto=compress&rect=0,188,1608,804&s=55180bd93980165abc60d5855e34a003
-  starts: 2018-11-16T09:30:00.0000000
-  ends: 2018-11-16T15:30:00.0000000
-  venue: Everyman Cinema York
 - name: Osprey Approach User Group - York
   description: >-
     Over the autumn, Pracctice will be holding eight interactive roadshows at various locations across England and Wales. The events, which are completely free of charge to attend, reflect our commitment to ensuring that you are better informed about our latest product releases and services. It’s also a chance for us to meet face to face, and for you to have your say on what areas you would like to see improved - or even added - in the future.
@@ -172,14 +180,6 @@
   starts: 2018-11-01T09:30:00.0000000
   ends: 2018-11-01T16:00:00.0000000
   venue: Ron Cooke Hub, Deramore Lane
-- name: Systems Change Thinking - Closing the Loop
-  description: "Systems Change Thinking - Creating Value and Closing the Loop from Unavoidable Food Supply Chain Wastes\nWe are delighted to announce an opportunity to attend a free, one-day event on understanding the chemical and environmental benefits of utilising unavoidable food supply chain wastes (UFSCW). Current strategies for dealing with UFSCW are rudimentary and of low value: these include waste to energy (including incineration and anaerobic digestion), animal feed and bedding; composting; ploughing back in to soil; and, least preferably, landfill. \nIn response, this event explores UFSCW as a unique bioresource: a treasure trove of unexploited, bio-based materials and chemicals, with a range of potential commercial applications underpinned by holistic life-cycle thinking.\nThe event will be of particular interest to companies of all sizes wishing to valorise food waste streams as well as academics and policy makers. Particular benefits to attendees include:\n\n\nAn introduction to the new Sustainable Waste Valorisation Identifier (SWaVI)  tool which enables companies to identify and compare different potential valorisation strategies based on economic viability as well as sustainability and technological readiness.\n\n\nA chance to listen to key industrialists, academics and consultants discuss valorisation from not only a company, but also a more holistic supply chain perspective.\n\n\nThe opportunity to hear from leading academic and industrial speakers about the latest, novel, technical approaches to food waste valorisation.\n\n\nThe ability to interact and connect with researchers, industrialists and policy makers interested in collaborative UK and global projects.\n\n\nPoster abstract submission deadline\nThe deadline for poster abstract submission is Monday 29th October.\n\n\nDownload the abstract template form\n\n\nSubmit your completed abstract form to sophie.palmer@york.ac.uk as a word document or share as a Google Doc\n\n\nContributed poster presentations A0 format \n\n\nProgramme\nSession One: Holistic Systems Change (Chair: Professor Shahin Rahimifard, Loughborough University)\nSession Two: Change, Technology and Methodologies (Chair: Professor Timothy Foster, University of Nottingham)\nSession Three: Influencing Systems Change (Chair: Dr Avtar Matharu, University of York)\nLunch and refreshments provided.\nInvited Speakers\nHugh Powell Product Technology Centre, Nestlé\nZainudin Umar Global Food Structure & Ingredient Science, PepsiCo International\nSponsorship\nIf you would like to sponsor or exhibit at the event, please contact sophie.palmer@york.ac.uk for more details.\nWe gratefully acknowledge funding from the Engineering and Physical Sciences Research Council (Re-SAUCE project EP/P008771/1) which has contributed to the organisation of this free event."
-  url: https://www.eventbrite.co.uk/e/systems-change-thinking-closing-the-loop-tickets-50214579158?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49756050/134225108448/1/original.jpg?h=200&w=450&auto=compress&rect=71,0,2016,1008&s=8b584faf6f4e3be92fded545150f5a54
-  starts: 2018-12-03T09:30:00.0000000
-  ends: 2018-12-03T16:30:00.0000000
-  venue: Lakehouse, The Ron Cooke Hub
 - name: York Pi Jam - December
   description: >2-
 
@@ -196,65 +196,6 @@
   starts: 2018-12-10T17:15:00.0000000
   ends: 2018-12-10T19:15:00.0000000
   venue: Acomb Explore Library
-- name: 'PS1: Photoshop Essentials inc. for website editors (Tue 23 Oct 14:00-15:00)'
-  description: >-
-    These courses are for students and staff at York St John University
-
-
-    PS1: Photoshop Essentials
-
-    Prior knowledge: None
-
-    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
-
-
-    Understanding the workspace
-
-    Cropping existing images
-
-    Resizing images
-
-    Saving for the Web
-
-    Understanding image formats
-
-    Using filters and corrections
-
-    Using the text tool
-
-    Handling difficult shaped images
-
-    Compositing multiple images
-
-    Saving for different uses
-
-    Adding a background
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-tue-23-oct-1400-1500-tickets-50494815352?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50117358/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=1d95f0a4c9a32068d9d7453166eed552
-  starts: 2018-10-23T14:00:00.0000000
-  ends: 2018-10-23T15:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: Get In The Game Careers Talks; University of York
   description: >-
     The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
@@ -476,6 +417,43 @@
   starts: 2018-10-31T15:00:00.0000000
   ends: 2018-10-31T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'WE1: Website CMS Basic training (Wed 21 Nov 14:00-16:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-wed-21-nov-1400-1600-tickets-50495425176?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/50118336/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=75127b248f7bf47299901234a50fbebe
+  starts: 2018-11-21T14:00:00.0000000
+  ends: 2018-11-21T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'WO2: Word Essay & dissertation (Tue 13 Nov 15:00-16:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -540,6 +518,112 @@
   logo: https://cdn.evbuc.com/images/50116155/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=9c8fed657af68afbb8424cb5cec19477
   starts: 2018-11-13T15:00:00.0000000
   ends: 2018-11-13T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'EX1: Excel Essentials (Tue 30 Oct 14:00-15:00)'
+  description: >-
+    These courses are for students and staff at York St John University. Also available to Alumni.
+
+
+    EX2: Making sense of Excel data
+
+    Prior knowledge: Basic Excel skills equivalent to Excel1
+
+    Open badge available - Excel: Making sense of data
+
+    This course builds on Excel1 to make spreadsheets that are more robust for data entry and that help to analyse the data that they hold.
+
+    This course includes:
+
+
+    Using conditional formatting to highlight data
+
+    Validating entries using lists
+
+    Using Sparklines to show trends
+
+    Using tables to display data
+
+    Managing sheets, columns and windows
+
+    Using custom cell formats
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/ex1-excel-essentials-tue-30-oct-1400-1500-tickets-50495194486?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/50117843/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=ec3c7d469072b6c2eabf7de9164be985
+  starts: 2018-10-30T14:00:00.0000000
+  ends: 2018-10-30T15:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'PS2: Layers and cutting out  (Thu 25 Oct 10:30-11:30)'
+  description: >-
+    These courses are for students and staff at York St John University
+
+
+    PS2: Layers and cutting out
+
+    Prior knowledge: Basic skills with Photoshop
+
+    This course covers more skills in Photoshop to amend existing images by cutting objects out from the background or creating from scratch.
+
+    This course includes:
+
+
+    Using masking to cut out images
+
+    Magic wand tool
+
+    Working with layers
+
+    Clone brush
+
+    Using brushes
+
+    Using colours and gradients
+
+    Orientation of other tools
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/ps2-layers-and-cutting-out-thu-25-oct-1030-1130-tickets-51709324983?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/51700331/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=4740497ba66a8f919d32f406b3f046a2
+  starts: 2018-10-25T10:30:00.0000000
+  ends: 2018-10-25T11:30:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'Attracting and Retaining Women in STEM: The Conference'
   description: >+
@@ -706,96 +790,6 @@
   starts: 2018-11-22T14:00:00.0000000
   ends: 2018-11-22T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'EX1: Excel Essentials (Tue 30 Oct 14:00-15:00)'
-  description: >-
-    These courses are for students and staff at York St John University. Also available to Alumni.
-
-
-    EX2: Making sense of Excel data
-
-    Prior knowledge: Basic Excel skills equivalent to Excel1
-
-    Open badge available - Excel: Making sense of data
-
-    This course builds on Excel1 to make spreadsheets that are more robust for data entry and that help to analyse the data that they hold.
-
-    This course includes:
-
-
-    Using conditional formatting to highlight data
-
-    Validating entries using lists
-
-    Using Sparklines to show trends
-
-    Using tables to display data
-
-    Managing sheets, columns and windows
-
-    Using custom cell formats
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/ex1-excel-essentials-tue-30-oct-1400-1500-tickets-50495194486?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50117843/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=ec3c7d469072b6c2eabf7de9164be985
-  starts: 2018-10-30T14:00:00.0000000
-  ends: 2018-10-30T15:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'WE1: Website CMS Basic training (Wed 21 Nov 14:00-16:00)'
-  description: >-
-    These courses are for staff who have been approved by the website team only
-
-
-    WE1: Website CMS basics
-
-    Prior knowledge: None
-
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-wed-21-nov-1400-1600-tickets-50495425176?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50118336/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=75127b248f7bf47299901234a50fbebe
-  starts: 2018-11-21T14:00:00.0000000
-  ends: 2018-11-21T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: Cisco Enterprise Networking Update
   description: "\r\n\r\n\r\n\r\n\r\n\r\n\r\nDear Cisco Customer,\r\n \r\nNetworks are changing, they need to be more secure, more dynamic and more powerful therefore Cisco is evolving Enterprise Networks and introducing The Network Intuitive. \r\n The Cisco Health and Local Government team invites customers to hear Cisco’s enterprise networking proposition and how Software Defined Networking can benefit your organisation. \r\n \r\n\r\n\r\n\r\n\r\n\r\nIntroduction to Cisco’s Software Defined Access\r\n\r\nCisco Software-Defined Access (SD-Access) gives you a single network fabric, from the edge to the cloud. You can set policy-based automation for users, devices, and things. Provide access to any application, without compromising on security. All while gaining awareness of what is hitting your network. With automatic segmentation of users, devices, and applications, you can deploy and secure services faster.\r\n\r\n\r\n \r\n\r\nCatalyst 9K\r\n\r\nCisco Catalyst 9000 fixed and modular, core and access LAN switches have been designed for an entirely new era of networking.\r\n\r\n\r\n \r\n\r\nMeraki Full Stack\r\n\r\nSee a live demonstration of the Meraki Dashboard and get an update on all new things Meraki including the new Insight capability.\r\n\r\n\r\n \r\n\r\nMeraki SD-WAN\r\n\r\nLearn how easy it can be to connect up all your branch sites effectively utilising the latest in SD-WAN technology embedded in the MX Security Appliances.\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
   url: https://www.eventbrite.com/e/cisco-enterprise-networking-update-tickets-51472007159?aff=ebapi
@@ -803,23 +797,6 @@
   starts: 2018-11-26T09:30:00.0000000
   ends: 2018-11-26T16:00:00.0000000
   venue: National Railway Museum York
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbdc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-10-22T06:30:00.0000000
-  ends: 2018-10-22T09:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: LeedsDevops - October 2018 Meetup
-  description: "<p>After our extended summer break we're back at the ODI Node in Leeds on Tuesday 23rd October for a night of Devops chatter:</p> <p>6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>7:15 - 7:25 : Group updates/news/announcements<br/>7:25 - 8:05 : Azure DevOps<br/>8:05 - 8:20 : Intermission<br/>8:20 - 9:00 : Accelerating Delivery Velocity With Kubernetes<br/>9:00 - late : Decamp to the Wardrobe</p> <p>Our first talk is from Simon Thurman who is a Cloud Solution Architect at Microsoft, he'll be showcasing Microsoft's latest toolchain, covering the components of the system such as pipelines, test plans, artifact repos, boards and more. Simon will demonstrate the steps involved and interactions as code moves from commit to production in Azure Devops.</p> <p>Our headline speaker is Simon Westcott a hands-on architect with 10+ yrs experience of building high traffic websites. In late 2016 Simon moved into the world of platform engineering to help re-imagine Sky Betting &amp; Gaming's delivery approach and drive operational efficiency. Delivery agility is key to Simon and his Team's success. As their engineering team grows, they have an increasing number of greenfield products to comission, as well as monolithic applications to decompose into microservices. To manage this they need a platform that can keep pace, both in the cloud and on-premise. Simon will explore with you why they choose Kubernetes, how they're adapting both on AWS and on-premise and the challenges they faced.</p> <p>As an extra treat we'll also be giving away 2 tickets for the upcoming DevOpsDays Edinburgh conference on the 1st and 2nd of November.</p> <p>Once again we say a massive \"Thank You\" to Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) for sponsoring the refreshments and lodgings for the evening, ensuring there are plenty of our favourite refreshments and soft drinks in supply.</p> <p>Code Of Conduct</p> <p>Please note that we have now added an anti harassment policy and code of conduct <a href=\"http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in\" class=\"linkified\">http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in</a> order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street. If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on twitter @leedsdevops (<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>For more details see the event page on leedsdevops.org.uk (<a href=\"http://www.leedsdevops.org.uk/post/179051054730/meetup-tuesday-23rd-october-2018-at-the-odi-node\" class=\"linkified\">http://www.leedsdevops.org.uk/post/179051054730/meetup-tuesday-23rd-october-2018-at-the-odi-node</a>)</p> "
-  url: https://www.meetup.com/LeedsDevops/events/255533112/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/a/6/0/thumb_333467712.jpeg
-  starts: 2018-10-23T17:45:00.0000000
-  ends: 2018-10-23T20:00:00.0000000
-  venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbgc/
@@ -1566,6 +1543,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-04-10T06:30:00.0000000
   ends: 2019-04-10T09:30:00.0000000
+  venue: Drift In At fat Face
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-04-15T06:30:00.0000000
+  ends: 2019-04-15T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
 - name: YorkTechFest - A celebration of the York Volunteer Tech Community
