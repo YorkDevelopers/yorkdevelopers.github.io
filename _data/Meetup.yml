@@ -1,35 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbgc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-10-24T06:30:00.0000000
-  ends: 2018-10-24T09:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxnbgc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-10-24T07:00:00.0000000
-  ends: 2018-10-24T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Facilitating teams and liberating structures
-  description: "<p>This evening Meetup will be very interactive as we explore liberating structures which you can take away and use yourself.</p> <p>What are liberating structures?</p> <p>Liberating Structures are a selection of 33 alternative structures for facilitating meetings and conversations, curated by Henri Lipmanowicz and Keith McCandless.</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
-  url: https://www.meetup.com/agileYork/events/254619234/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
-  starts: 2018-10-24T17:30:00.0000000
-  ends: 2018-10-24T19:30:00.0000000
-  venue: York St.John University
-- name: York Hackspace Open Evening
-  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
-  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxnbgc/
-  is-free: true
-  starts: 2018-10-24T18:00:00.0000000
-  ends: 2018-10-24T20:00:00.0000000
-  venue: York Hackspace
 - name: Machine Learning with ML.NET and Azure - Andy Cross
   description: '<p>ML.NET is an open source, machine learning framework built in .NET and runs on Windows, Linux and macOS. It allows developers to integrate custom machine learning into their applications without any prior expertise in developing or tuning machine learning models. Enhance your .NET apps with sentiment analysis, price prediction, fraud detection and more using custom models built with ML.NET</p> <p>About Andy Cross</p> <p>Andy Cross (@andyelastacloud) is a co-founder of Elastacloud, an Azure Insider, co-founder of the UK London Azure User Group, an Azure MVP and a Microsoft Regional Director. An international speaker, Andy has lead teams building the largest Hadoop and HDInsight specialist deployments on Azure.</p> <p>His passion for embedded software and high performance compute clusters gives him a unique insight into a sphere of computation from the very small and resource constrained to the massively scalable, limitless potential of the cloud.</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/250848978/
@@ -112,6 +80,43 @@
   ends: 2018-11-07T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxpbkb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-11-07T08:00:00.0000000
+  ends: 2018-11-07T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: 1st Meet-up with The Social Software Development Group
+  description: "<p>AND Digital are very excited to be sponsors of the next Social Software Development Group Meet-up!</p> <p>Come along for a drink and a pie on us! You'll find out how AND Digital is becoming a growing part of the Leeds tech scene, hear about what we're working on and chat with some of our ANDis about life at AND! All this and the opportunity to network and learn from the Social Software Development community!</p> "
+  url: https://www.meetup.com/Social-Software-Development-Meetup-in-Leeds/events/255580035/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/3/b/thumb_464481307.jpeg
+  starts: 2018-11-07T17:30:00.0000000
+  ends: 2018-11-07T21:00:00.0000000
+  venue: The Hop
+- name: Building adapters, bots on multiple services
+  url: https://www.meetup.com/Bot-framework-development-meetup/events/255722189/
+  is-free: true
+  starts: 2018-11-07T18:30:00.0000000
+  ends: 2018-11-07T20:30:00.0000000
+  venue: Central Leeds
+- name: "YorkSwift Monthly Meetup #006 - November \U0001F468\U0001F3FB - WebSockets"
+  description: "<p>This meetup we will be exploring WebSockets! \U0001F310 \U0001F50C What are they &amp; why would we use them? What services and libraries are out there for Swift. And lets dive into some code and some real examples of client and server.</p> <p>## Agenda</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - Websockets</p> <p>* What are websockets &amp; why would we use them?<br/>* What services and libraries are out there for swift?<br/>* Live code demo clients and server</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
+  url: https://www.meetup.com/YorkSwift/events/254863726/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/7/9/c/thumb_472007004.jpeg
+  starts: 2018-11-07T19:00:00.0000000
+  ends: 2018-11-07T21:00:00.0000000
+  venue: The Coffee Bureau
+- name: York Hackspace Open Evening
+  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxpbkb/
+  is-free: true
+  starts: 2018-11-07T19:00:00.0000000
+  ends: 2018-11-07T21:00:00.0000000
+  venue: York Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbqb/
@@ -763,6 +768,15 @@
   starts: 2019-04-16T17:00:00.0000000
   ends: 2019-04-16T20:00:00.0000000
   venue: City of York Council
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgbwb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-04-17T06:30:00.0000000
+  ends: 2019-04-17T09:30:00.0000000
+  venue: Drift In At fat Face
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
