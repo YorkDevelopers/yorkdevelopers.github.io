@@ -160,20 +160,6 @@
   starts: 2018-11-26T09:30:00.0000000
   ends: 2018-11-26T15:00:00.0000000
   venue: National Railway Museum - Corporate & Private Hire
-- name: TEDxYork
-  description: >-
-    During our TEDxYork event we will explore how memories are anchored, how we both engage with and protect ourselves from the world around us, and how technology can affect and reflect different kinds of truth.
-
-    We will explore the realities from the perspective of others who share our world e.g. the humble bumble bee. We will also learn how we can enhance our reality using our senses in different ways e.g. in food and drink. Finally we will discover a new world of choices and consequence, explore the opportunities and threats on the horizon from our accelerating world of immersive and virtual reality, enhanced experiences and artificial intelligence.
-
-    How does our sense of humanity fit with this brave new world and should we be excited or very very afraid!
-
-    Please contact me on heather.niven@scy.co.uk if you have accessibility issues as the venue is a listed building. We would appreciate advance notice if you may need help with stairs.Thank you.
-  url: https://www.eventbrite.co.uk/e/tedxyork-tickets-51396558490?aff=ebapi
-  logo: https://cdn.evbuc.com/images/51302095/2762975383/1/original.jpg?h=200&w=450&auto=compress&rect=0,188,1608,804&s=55180bd93980165abc60d5855e34a003
-  starts: 2018-11-16T09:30:00.0000000
-  ends: 2018-11-16T15:30:00.0000000
-  venue: Everyman Cinema York
 - name: York Raspberry Jam - November
   description: >2-
 
@@ -188,14 +174,20 @@
   starts: 2018-11-19T17:15:00.0000000
   ends: 2018-11-19T19:15:00.0000000
   venue: Acomb Explore Library
-- name: Systems Change Thinking - Closing the Loop
-  description: "Systems Change Thinking - Creating Value and Closing the Loop from Unavoidable Food Supply Chain Wastes\nWe are delighted to announce an opportunity to attend a free, one-day event on understanding the chemical and environmental benefits of utilising unavoidable food supply chain wastes (UFSCW). Current strategies for dealing with UFSCW are rudimentary and of low value: these include waste to energy (including incineration and anaerobic digestion), animal feed and bedding; composting; ploughing back in to soil; and, least preferably, landfill. \nIn response, this event explores UFSCW as a unique bioresource: a treasure trove of unexploited, bio-based materials and chemicals, with a range of potential commercial applications underpinned by holistic life-cycle thinking.\nThe event will be of particular interest to companies of all sizes wishing to valorise food waste streams as well as academics and policy makers. Particular benefits to attendees include:\n\n\nAn introduction to the new Sustainable Waste Valorisation Identifier (SWaVI)  tool which enables companies to identify and compare different potential valorisation strategies based on economic viability as well as sustainability and technological readiness.\n\n\nA chance to listen to key industrialists, academics and consultants discuss valorisation from not only a company, but also a more holistic supply chain perspective.\n\n\nThe opportunity to hear from leading academic and industrial speakers about the latest, novel, technical approaches to food waste valorisation.\n\n\nThe ability to interact and connect with researchers, industrialists and policy makers interested in collaborative UK and global projects.\n\n\nPoster abstract submission deadline\nThe deadline for poster abstract submission is Monday 29th October.\n\n\nDownload the abstract template form\n\n\nSubmit your completed abstract form to sophie.palmer@york.ac.uk as a word document or share as a Google Doc\n\n\nContributed poster presentations A0 format \n\n\nProgramme\nSession One: Holistic Systems Change (Chair: Professor Shahin Rahimifard, Loughborough University)\nSession Two: Change, Technology and Methodologies (Chair: Professor Timothy Foster, University of Nottingham)\nSession Three: Influencing Systems Change (Chair: Dr Avtar Matharu, University of York)\nLunch and refreshments provided.\nInvited Speakers\nHugh Powell Product Technology Centre, Nestlé\nZainudin Umar Global Food Structure & Ingredient Science, PepsiCo International\nSponsorship\nIf you would like to sponsor or exhibit at the event, please contact sophie.palmer@york.ac.uk for more details.\nWe gratefully acknowledge funding from the Engineering and Physical Sciences Research Council (Re-SAUCE project EP/P008771/1) which has contributed to the organisation of this free event."
-  url: https://www.eventbrite.co.uk/e/systems-change-thinking-closing-the-loop-tickets-50214579158?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49756050/134225108448/1/original.jpg?h=200&w=450&auto=compress&rect=71,0,2016,1008&s=8b584faf6f4e3be92fded545150f5a54
-  starts: 2018-12-03T09:30:00.0000000
-  ends: 2018-12-03T16:30:00.0000000
-  venue: Lakehouse, The Ron Cooke Hub
+- name: TEDxYork
+  description: >-
+    During our TEDxYork event we will explore how memories are anchored, how we both engage with and protect ourselves from the world around us, and how technology can affect and reflect different kinds of truth.
+
+    We will explore the realities from the perspective of others who share our world e.g. the humble bumble bee. We will also learn how we can enhance our reality using our senses in different ways e.g. in food and drink. Finally we will discover a new world of choices and consequence, explore the opportunities and threats on the horizon from our accelerating world of immersive and virtual reality, enhanced experiences and artificial intelligence.
+
+    How does our sense of humanity fit with this brave new world and should we be excited or very very afraid!
+
+    Please contact me on heather.niven@scy.co.uk if you have accessibility issues as the venue is a listed building. We would appreciate advance notice if you may need help with stairs.Thank you.
+  url: https://www.eventbrite.co.uk/e/tedxyork-tickets-51396558490?aff=ebapi
+  logo: https://cdn.evbuc.com/images/51302095/2762975383/1/original.jpg?h=200&w=450&auto=compress&rect=0,188,1608,804&s=55180bd93980165abc60d5855e34a003
+  starts: 2018-11-16T09:30:00.0000000
+  ends: 2018-11-16T15:30:00.0000000
+  venue: Everyman Cinema York
 - name: Working with school students and teachers in active STEM research
   description: >-
     University of York Science Education Group Research Seminar
@@ -212,6 +204,14 @@
   starts: 2018-10-31T12:00:00.0000000
   ends: 2018-10-31T13:00:00.0000000
   venue: Alcuin College Block D
+- name: Systems Change Thinking - Closing the Loop
+  description: "Systems Change Thinking - Creating Value and Closing the Loop from Unavoidable Food Supply Chain Wastes\nWe are delighted to announce an opportunity to attend a free, one-day event on understanding the chemical and environmental benefits of utilising unavoidable food supply chain wastes (UFSCW). Current strategies for dealing with UFSCW are rudimentary and of low value: these include waste to energy (including incineration and anaerobic digestion), animal feed and bedding; composting; ploughing back in to soil; and, least preferably, landfill. \nIn response, this event explores UFSCW as a unique bioresource: a treasure trove of unexploited, bio-based materials and chemicals, with a range of potential commercial applications underpinned by holistic life-cycle thinking.\nThe event will be of particular interest to companies of all sizes wishing to valorise food waste streams as well as academics and policy makers. Particular benefits to attendees include:\n\n\nAn introduction to the new Sustainable Waste Valorisation Identifier (SWaVI)  tool which enables companies to identify and compare different potential valorisation strategies based on economic viability as well as sustainability and technological readiness.\n\n\nA chance to listen to key industrialists, academics and consultants discuss valorisation from not only a company, but also a more holistic supply chain perspective.\n\n\nThe opportunity to hear from leading academic and industrial speakers about the latest, novel, technical approaches to food waste valorisation.\n\n\nThe ability to interact and connect with researchers, industrialists and policy makers interested in collaborative UK and global projects.\n\n\nPoster abstract submission deadline\nThe deadline for poster abstract submission is Monday 29th October.\n\n\nDownload the abstract template form\n\n\nSubmit your completed abstract form to sophie.palmer@york.ac.uk as a word document or share as a Google Doc\n\n\nContributed poster presentations A0 format \n\n\nProgramme\nSession One: Holistic Systems Change (Chair: Professor Shahin Rahimifard, Loughborough University)\nSession Two: Change, Technology and Methodologies (Chair: Professor Timothy Foster, University of Nottingham)\nSession Three: Influencing Systems Change (Chair: Dr Avtar Matharu, University of York)\nLunch and refreshments provided.\nInvited Speakers\nHugh Powell Product Technology Centre, Nestlé\nZainudin Umar Global Food Structure & Ingredient Science, PepsiCo International\nSponsorship\nIf you would like to sponsor or exhibit at the event, please contact sophie.palmer@york.ac.uk for more details.\nWe gratefully acknowledge funding from the Engineering and Physical Sciences Research Council (Re-SAUCE project EP/P008771/1) which has contributed to the organisation of this free event."
+  url: https://www.eventbrite.co.uk/e/systems-change-thinking-closing-the-loop-tickets-50214579158?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49756050/134225108448/1/original.jpg?h=200&w=450&auto=compress&rect=71,0,2016,1008&s=8b584faf6f4e3be92fded545150f5a54
+  starts: 2018-12-03T09:30:00.0000000
+  ends: 2018-12-03T16:30:00.0000000
+  venue: Lakehouse, The Ron Cooke Hub
 - name: Osprey Approach User Group - York
   description: >-
     Over the autumn, Pracctice will be holding eight interactive roadshows at various locations across England and Wales. The events, which are completely free of charge to attend, reflect our commitment to ensuring that you are better informed about our latest product releases and services. It’s also a chance for us to meet face to face, and for you to have your say on what areas you would like to see improved - or even added - in the future.
@@ -619,59 +619,6 @@
   starts: 2018-10-30T14:00:00.0000000
   ends: 2018-10-30T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'PS2: Layers and cutting out  (Thu 25 Oct 10:30-11:30)'
-  description: >-
-    These courses are for students and staff at York St John University
-
-
-    PS2: Layers and cutting out
-
-    Prior knowledge: Basic skills with Photoshop
-
-    This course covers more skills in Photoshop to amend existing images by cutting objects out from the background or creating from scratch.
-
-    This course includes:
-
-
-    Using masking to cut out images
-
-    Magic wand tool
-
-    Working with layers
-
-    Clone brush
-
-    Using brushes
-
-    Using colours and gradients
-
-    Orientation of other tools
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/ps2-layers-and-cutting-out-thu-25-oct-1030-1130-tickets-51709324983?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/51700331/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=4740497ba66a8f919d32f406b3f046a2
-  starts: 2018-10-25T10:30:00.0000000
-  ends: 2018-10-25T11:30:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'Attracting and Retaining Women in STEM: The Conference'
   description: >+
     Workforce diversity in the Science, Technology, Engineering and Mathematics (STEM) sector is a major challenge. Careers are male-dominated; just 9% of Engineering, 19% of Computer studies and 38% of Maths graduates are female. In fact, just 13% of the entire UK STEM workforce is female. Forward Ladies want to challenge and change these statistics. 
@@ -864,21 +811,6 @@
   starts: 2019-05-18T10:00:00.0000000
   ends: 2019-05-18T15:00:00.0000000
   venue: Sports Hall, Foss Building
-- name: Machine Learning with ML.NET and Azure - Andy Cross
-  description: '<p>ML.NET is an open source, machine learning framework built in .NET and runs on Windows, Linux and macOS. It allows developers to integrate custom machine learning into their applications without any prior expertise in developing or tuning machine learning models. Enhance your .NET apps with sentiment analysis, price prediction, fraud detection and more using custom models built with ML.NET</p> <p>About Andy Cross</p> <p>Andy Cross (@andyelastacloud) is a co-founder of Elastacloud, an Azure Insider, co-founder of the UK London Azure User Group, an Azure MVP and a Microsoft Regional Director. An international speaker, Andy has lead teams building the largest Hadoop and HDInsight specialist deployments on Azure.</p> <p>His passion for embedded software and high performance compute clusters gives him a unique insight into a sphere of computation from the very small and resource constrained to the massively scalable, limitless potential of the cloud.</p> '
-  url: https://www.meetup.com/Leeds-Sharp/events/250848978/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2018-10-25T17:30:00.0000000
-  ends: 2018-10-25T20:00:00.0000000
-  venue: Platform
-- name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are sometimes one or two short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
-  url: https://www.meetup.com/LeedsRubyThing/events/qfxdtpyxnbhc/
-  is-free: true
-  starts: 2018-10-25T18:30:00.0000000
-  ends: 2018-10-25T22:30:00.0000000
-  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbmc/
@@ -983,6 +915,14 @@
   starts: 2018-11-07T19:00:00.0000000
   ends: 2018-11-07T21:00:00.0000000
   venue: York Hackspace
+- name: 'ExpertTalks Leeds: "Agents of Change" + fishbowl discussion'
+  description: '<p>SESSION ONE: Agents of Change</p> <p>Agile practitioners everywhere work hard to build successful delivery capabilities and achieve great outcomes. More often than not, that means helping to change the way things get done.<br/>Jon will explore behaviours that can be both helpful and unhelpful when trying to influence organisations and be an Agent of Change.</p> <p>Speaker: Jon Fulton, Delivery Lead<br/>Equal Experts</p> <p>SESSION TWO: Fishbowl Discussion</p> <p>In the second part of the event we will hold a fishbowl discussion where we will further explore some of the ideas presented in the first session. The discussion will be facilitated by one of our experts and give you an opportunity to discuss different points of view.</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;<br/>Food and drink will be provided - we look forward to seeing you there!<br/>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> '
+  url: https://www.meetup.com/ExpertTalks-Leeds/events/246514094/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2018-11-08T18:00:00.0000000
+  ends: 2018-11-08T21:00:00.0000000
+  venue: Lamberts yard,
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbqb/
