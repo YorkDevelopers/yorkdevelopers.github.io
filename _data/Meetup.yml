@@ -86,7 +86,7 @@
   is-free: true
   starts: 2018-11-07T18:30:00.0000000
   ends: 2018-11-07T20:30:00.0000000
-  venue: Central Leeds
+  venue: Water Lane Boathouse - Granary Wharf
 - name: "YorkSwift Monthly Meetup #006 - November \U0001F468\U0001F3FB - WebSockets"
   description: "<p>This meetup we will be exploring WebSockets! \U0001F310 \U0001F50C What are they &amp; why would we use them? What services and libraries are out there for Swift. And lets dive into some code and some real examples of client and server.</p> <p>## Agenda</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - Websockets</p> <p>* What are websockets &amp; why would we use them?<br/>* What services and libraries are out there for swift?<br/>* Live code demo clients and server</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
   url: https://www.meetup.com/YorkSwift/events/254863726/
@@ -110,6 +110,13 @@
   starts: 2018-11-08T18:00:00.0000000
   ends: 2018-11-08T21:00:00.0000000
   venue: Lamberts yard,
+- name: Crypto catchup (Friday)
+  description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
+  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyxpbmb/
+  is-free: true
+  starts: 2018-11-09T12:30:00.0000000
+  ends: 2018-11-09T13:30:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbqb/
