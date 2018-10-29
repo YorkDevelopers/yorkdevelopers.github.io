@@ -160,20 +160,6 @@
   starts: 2018-11-26T09:30:00.0000000
   ends: 2018-11-26T15:00:00.0000000
   venue: National Railway Museum - Corporate & Private Hire
-- name: York Raspberry Jam - November
-  description: >2-
-
-    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
-
-    York Raspberry Jam happens every other month. It's for beginners particularly, and also people who know a bit about Raspberry Pi computers! You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
-
-    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
-  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-november-tickets-49438151843?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48829382/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=935d6ac6b6ad5e76410ffacfcd7d410a
-  starts: 2018-11-19T17:15:00.0000000
-  ends: 2018-11-19T19:15:00.0000000
-  venue: Acomb Explore Library
 - name: Q&A internship / year in industry discussion with York undergraduate physicists
   description: >
     Are you interested to apply for a summer internship or year in industry?
@@ -199,6 +185,20 @@
   starts: 2018-10-30T18:00:00.0000000
   ends: 2018-10-30T19:30:00.0000000
   venue: 'Department of Physics/ Room: P/L/006'
+- name: York Raspberry Jam - November
+  description: >2-
+
+    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
+
+    York Raspberry Jam happens every other month. It's for beginners particularly, and also people who know a bit about Raspberry Pi computers! You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
+
+    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
+  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-november-tickets-49438151843?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48829382/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=935d6ac6b6ad5e76410ffacfcd7d410a
+  starts: 2018-11-19T17:15:00.0000000
+  ends: 2018-11-19T19:15:00.0000000
+  venue: Acomb Explore Library
 - name: TEDxYork
   description: >-
     During our TEDxYork event we will explore how memories are anchored, how we both engage with and protect ourselves from the world around us, and how technology can affect and reflect different kinds of truth.
@@ -252,6 +252,13 @@
   starts: 2018-11-01T09:30:00.0000000
   ends: 2018-11-01T16:00:00.0000000
   venue: Ron Cooke Hub, Deramore Lane
+- name: York Technology Conference
+  description: "The York Technology Conference is a non-profit one-day event run by students, providing the opportunity for students to network with other students, who share an interest in technology, and with industry leaders. \nThis event will enable students from York and other universities to explore emerging technological trends through speakers, panel debates, workshops and networking opportunities."
+  url: https://www.eventbrite.co.uk/e/york-technology-conference-tickets-51011295157?aff=ebapi
+  logo: https://cdn.evbuc.com/images/50797944/275322375612/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,864,432&s=6ba2006f92dd07e87471a2627d5c742f
+  starts: 2019-01-30T09:00:00.0000000
+  ends: 2019-01-30T17:30:00.0000000
+  venue: The Ron Cooke Hub
 - name: York Pi Jam - December
   description: >2-
 
