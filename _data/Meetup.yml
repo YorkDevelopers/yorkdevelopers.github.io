@@ -1,35 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxnbpc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-10-31T07:30:00.0000000
-  ends: 2018-10-31T10:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxnbpc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-10-31T08:00:00.0000000
-  ends: 2018-10-31T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: October - Ryan Townsend & Jusef Belkasemi
-  description: '<p>Join us to hear from Jusef Belkasemi, as well as a chance to win a code for a year subscription for a Jetbrains toolbox product of your choice!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Ryan Townsend - Building Fast Websites Against All Odds<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Jusef Belkasemi - HTML5 games with Phaser 3 (an introduction)<br/>8:20 - 9:00: Social &amp; point that people can leave<br/>--------------<br/>Talks:<br/>Ryan Townsend - Building Fast Websites Against All Odds<br/>Fast website performance is essential for a great user experience, particularly in rural areas or emerging markets where poor connectivity and low-power devices can struggle with even the most optimised sites, yet it can still seem impossible to convince clients and stakeholders of the value that performance holds.</p> <p>Now, I can’t promise that I can magically transform your clients’ attitudes toward performance, but what I can do show is show you how to build a fast website without even involving them. In my work delivering high-performance, high-availability websites for some of the UK’s biggest retailers, I’ve come up with a wealth of ways in which we as front-end developers can improve performance without the need for any costly rewrites, new infrastructure, or any kind of work that requires permission (and budget!).</p> <p>We may not be able to make the _fastest_ website without permission, but we can certainly make a fast one!</p> <p>Jusef Belkasemi - HTML5 games with Phaser 3 (an introduction)<br/>HTML5 games are an awesome way to use your JavaScript skills to add some more interactive content to your website or to allow you to build a new mobile or desktop game. The modern device and browser capabilities give you all the power needed to jump into this exciting field. Today I would like to introduce you to Phaser this is a 2d HTML5 game development framework that I have recently started using to learn how to build HTML5 games. I hope by the end of this talk you will share my enthusiasm for this framework and start building a game of your own.<br/>--------------<br/>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href="https://leedsjs.github.io/code-of-conduct/" class="linkified">https://leedsjs.github.io/code-of-conduct/</a></p> '
-  url: https://www.meetup.com/LeedsJS/events/255547488/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2018-10-31T18:45:00.0000000
-  ends: 2018-10-31T21:00:00.0000000
-  venue: Platform
-- name: York Hackspace Open Evening
-  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
-  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxnbpc/
-  is-free: true
-  starts: 2018-10-31T19:00:00.0000000
-  ends: 2018-10-31T21:00:00.0000000
-  venue: York Hackspace
 - name: Umbraco Meetup
   description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>Talks for this event:</p> <p>Lee Richardson - F# and Umbraco<br/>Stefano Chiodino - Your first Pull Request to open source software</p> "
   url: https://www.meetup.com/umbLeeds/events/ltvqhqyxpbcb/
@@ -47,6 +15,14 @@
   ends: 2018-11-05T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: Christmas Lights Challenge
+  description: "<p>Here at Leeds Code Dojo we believe it's never to early to start preparing for Christmas!</p> <p>So this month, we're going to be writing controllers for (fictional) programmable Xmas lights, which we will try out using an advanced emulator (AKA the Console).</p> <p>As usual we'll work mainly in pairs - your development approach is up to you, but we will of course encourage good practices including automated unit and/or acceptance tests.</p> <p>At the end of the night you'll have the option of showing your solutions, and in addition we'll see who has managed to create the best Christmas display with their program!</p> <p>See the LCD website for details: <a href=\"http://leedscodedojo.github.io/\" class=\"linkified\">http://leedscodedojo.github.io/</a></p> "
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/255996436/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2018-11-07T18:00:00.0000000
+  ends: 2018-11-07T21:00:00.0000000
+  venue: TransUnion
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbkb/
@@ -64,14 +40,6 @@
   starts: 2018-11-07T08:00:00.0000000
   ends: 2018-11-07T11:00:00.0000000
   venue: La Bottega Milanese
-- name: 1st Meet-up with The Social Software Development Group
-  description: "<p>AND Digital are very excited to be sponsors of the next Social Software Development Group Meet-up!</p> <p>Come along for a drink and a pie on us! You'll find out how AND Digital is becoming a growing part of the Leeds tech scene, hear about what we're working on and chat with some of our ANDis about life at AND! All this and the opportunity to network and learn from the Social Software Development community!</p> "
-  url: https://www.meetup.com/Social-Software-Development-Meetup-in-Leeds/events/255580035/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/3/b/thumb_464481307.jpeg
-  starts: 2018-11-07T17:30:00.0000000
-  ends: 2018-11-07T21:00:00.0000000
-  venue: The Hop
 - name: Building adapters, bots on multiple services
   url: https://www.meetup.com/Bot-framework-development-meetup/events/255722189/
   is-free: true
@@ -134,6 +102,21 @@
   ends: 2018-11-14T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxpbsb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-11-14T08:00:00.0000000
+  ends: 2018-11-14T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: York Hackspace Open Evening
+  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxpbsb/
+  is-free: true
+  starts: 2018-11-14T19:00:00.0000000
+  ends: 2018-11-14T21:00:00.0000000
+  venue: York Hackspace
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxpbtb/
@@ -793,6 +776,15 @@
   starts: 2019-04-23T17:00:00.0000000
   ends: 2019-04-23T20:00:00.0000000
   venue: City of York Council
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgbgc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-04-24T06:30:00.0000000
+  ends: 2019-04-24T09:30:00.0000000
+  venue: Drift In At fat Face
   endorsed: true
 - name: YorkTechFest - A celebration of the York Volunteer Tech Community
   description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
