@@ -47,14 +47,6 @@
   starts: 2018-11-07T19:00:00.0000000
   ends: 2018-11-07T21:00:00.0000000
   venue: York Hackspace
-- name: 'ExpertTalks Leeds: "Agents of Change" + fishbowl discussion'
-  description: '<p>SESSION ONE: Agents of Change</p> <p>Agile practitioners everywhere work hard to build successful delivery capabilities and achieve great outcomes. More often than not, that means helping to change the way things get done.<br/>Jon will explore behaviours that can be both helpful and unhelpful when trying to influence organisations and be an Agent of Change.</p> <p>Speaker: Jon Fulton, Delivery Lead<br/>Equal Experts</p> <p>SESSION TWO: Fishbowl Discussion</p> <p>In the second part of the event we will hold a fishbowl discussion where we will further explore some of the ideas presented in the first session. The discussion will be facilitated by one of our experts and give you an opportunity to discuss different points of view.</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;<br/>Food and drink will be provided - we look forward to seeing you there!<br/>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> '
-  url: https://www.meetup.com/ExpertTalks-Leeds/events/246514094/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
-  starts: 2018-11-08T18:00:00.0000000
-  ends: 2018-11-08T21:00:00.0000000
-  venue: Lamberts yard,
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyxpbmb/
@@ -135,6 +127,13 @@
   starts: 2018-11-15T19:00:00.0000000
   ends: 2018-11-15T22:00:00.0000000
   endorsed: true
+- name: Leeds Blockchain Hackathon
+  description: "<p>Please sign up on our EventBrite page</p> <p><a href=\"https://www.eventbrite.co.uk/e/leeds-blockchain-hackathon-2018-tickets-48790473620\" class=\"linkified\">https://www.eventbrite.co.uk/e/leeds-blockchain-hackathon-2018-tickets-48790473620</a></p> <p>Innovative and bold, Blockchain challenges the way we look at technology today, from the way we view cybersecurity to the way new governmental elections are held.</p> <p>And guess what.</p> <p>The first Leeds blockchain hackathon is here, and you’re invited.</p> <p>It's the ultimate event for learning, hacking and networking for teams of budding coders, developers, tech enthusiasts and people from all areas of the vibrant tech community in Leeds. The grand prize will be awarded for the most ambitious, impressive or fully realized prototype and we’ll have experienced judges and mentors to encourage and support all participants.</p> <p>If you're a newbie, don't panic! There will be technical experts on hand to help you build your project.</p> <p>So, what is a hackathon, and why blockchain?</p> <p>Hackathons are premier start-up incubators where disruptive, breakthrough ideas come to life in a myriad of ways. These are engaging events where teams of developers collaborate, sharpen their skills and bring their ideas to life.</p> <p>We’ll be aiming to tackle real world problems as provided by Leeds City council, and the ideal solutions may even become a fundable business venture. Blockchain's practical uses are seemingly endless, and as a tech still in infancy, it's already bringing technological innovation, shaping new economies and inspiring ideas.</p> <p>SCHEDULE</p> <p>Friday 16th November 18:00 pm - Welcome Meetup</p> <p>Saturday, 17th November 08:00 am - Day 1</p> <p>Sunday, 18th November 08:00 am to 15:00 pm - Day 2</p> <p>DETAILS</p> <p>We are looking to form teams from 3-6 people. You can either register as a team or we will help form teams for you at the meetup event on the Friday. Lunch and drinks will be provided to all participants, and there will be plenty of swag too.</p> <p>Judges and mentors will be present from different fields (FinTech, Leeds Council, Law) for networking opportunities.</p> <p>FAQs</p> <p>What can I bring into the event?</p> <p>Please bring your laptop.</p> <p>How can I contact the organiser with any questions?</p> <p>Please join our slack channel here - <a href=\"https://leedscrypto.slack.com\" class=\"linkified\">https://leedscrypto.slack.com</a></p> "
+  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/255161672/
+  is-free: true
+  starts: 2018-11-17T08:00:00.0000000
+  ends: 2018-11-18T15:00:00.0000000
+  venue: LexisNexis
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbzb/
