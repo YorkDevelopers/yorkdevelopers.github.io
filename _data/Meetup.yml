@@ -23,6 +23,14 @@
   starts: 2018-11-07T08:00:00.0000000
   ends: 2018-11-07T11:00:00.0000000
   venue: La Bottega Milanese
+- name: 1st Meet-up with The Social Software Development Group
+  description: "<p>AND Digital are very excited to be sponsors of the next Social Software Development Group Meet-up!</p> <p>Come along for a drink and a pie on us! You'll find out how AND Digital is becoming a growing part of the Leeds tech scene, hear about what we're working on and chat with some of our ANDis about life at AND! All this and the opportunity to network and learn from the Social Software Development community!</p> "
+  url: https://www.meetup.com/Social-Software-Development-Meetup-in-Leeds/events/255580035/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/3/b/thumb_464481307.jpeg
+  starts: 2018-11-07T17:30:00.0000000
+  ends: 2018-11-07T21:00:00.0000000
+  venue: The Hop
 - name: "YorkSwift Monthly Meetup #006 - November \U0001F468\U0001F3FB - WebSockets"
   description: "<p>This meetup we will be exploring WebSockets! \U0001F310 \U0001F50C What are they &amp; why would we use them? What services and libraries are out there for Swift. And lets dive into some code and some real examples of client and server.</p> <p>## Agenda</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - Websockets</p> <p>* What are websockets &amp; why would we use them?<br/>* What services and libraries are out there for swift?<br/>* Live code demo clients and server</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
   url: https://www.meetup.com/YorkSwift/events/254863726/
@@ -38,6 +46,14 @@
   starts: 2018-11-07T19:00:00.0000000
   ends: 2018-11-07T21:00:00.0000000
   venue: York Hackspace
+- name: 'ExpertTalks Leeds: "Agents of Change" + fishbowl discussion'
+  description: '<p>SESSION ONE: Agents of Change</p> <p>Agile practitioners everywhere work hard to build successful delivery capabilities and achieve great outcomes. More often than not, that means helping to change the way things get done.<br/>Jon will explore behaviours that can be both helpful and unhelpful when trying to influence organisations and be an Agent of Change.</p> <p>Speaker: Jon Fulton, Delivery Lead<br/>Equal Experts</p> <p>SESSION TWO: Fishbowl Discussion</p> <p>In the second part of the event we will hold a fishbowl discussion where we will further explore some of the ideas presented in the first session. The discussion will be facilitated by one of our experts and give you an opportunity to discuss different points of view.</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;<br/>Food and drink will be provided - we look forward to seeing you there!<br/>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> '
+  url: https://www.meetup.com/ExpertTalks-Leeds/events/246514094/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2018-11-08T18:00:00.0000000
+  ends: 2018-11-08T21:00:00.0000000
+  venue: Lamberts yard,
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyxpbmb/
@@ -70,6 +86,15 @@
   starts: 2018-11-13T18:00:00.0000000
   ends: 2018-11-13T20:00:00.0000000
   venue: Duke Studios
+- name: York Code Dojo Nov Meetup - Sudoko
+  description: '<p>This month we will have a go at writing a program to solve Sudoku puzzles. The session will be suitable for people of any ability. If possible please bring a laptop with your programming languages of choice already installed. Please note this is going to be held the day after our YorkTechFest event, I hope to see many of you there! <a href="https://yorktechfest.github.io" class="linkified">https://yorktechfest.github.io</a> NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/256185411/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2018-11-14T18:30:00.0000000
+  ends: 2018-11-14T21:00:00.0000000
+  venue: Room FT/112 York St John University
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbsb/
@@ -102,14 +127,6 @@
   starts: 2018-11-15T18:30:00.0000000
   ends: 2018-11-15T19:30:00.0000000
   venue: The Catalyst
-- name: CodeUp Leeds Meetup
-  description: "<p>THE SIGN-UP PERIOD IS NOW OPEN.</p> <p>Remember to bring a laptop in order to participate in the sessions!</p> <p>November Agenda</p> <p>* Beginners Intro to Coding with p5.js: introduction to programming for the complete beginner with p5.js, an accessible, JavaScript-like language. PREREQUISITES: None.<br/>* Beginners Intro to Coding with Python (Repeat): this is a repetition of the Python 101 session that was delivered in a past meetup, for those who couldn't attend the first one or are new to CodeUp. PREREQUISITES: None.<br/>* Community-driven Talk: vote for your preferred topic on the following URL: <a href=\"https://doodle.com/poll/vshwdtrss652ersk\" class=\"linkified\">https://doodle.com/poll/vshwdtrss652ersk</a> . Voting period will end on the 8th November.</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
-  url: https://www.meetup.com/CodeUp-Leeds/events/lfkxkqyxpbtb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
-  starts: 2018-11-15T18:45:00.0000000
-  ends: 2018-11-15T21:00:00.0000000
-  venue: 3rd Floor, Apsley House
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxpbtb/
@@ -134,6 +151,13 @@
   ends: 2018-11-19T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: 'Tech Contractor Networking: Leeds'
+  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
+  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyxpbbc/
+  is-free: true
+  starts: 2018-11-20T12:15:00.0000000
+  ends: 2018-11-20T12:45:00.0000000
+  venue: Banyan Bar Leeds
 - name: YorkTechFest - A celebration of the York Volunteer Tech Community
   description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
   url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyxpbbc/
