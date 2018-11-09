@@ -11,74 +11,6 @@
   starts: 2018-12-11T19:00:00.0000000
   ends: 2018-12-11T20:30:00.0000000
   venue: St Peter's School
-- name: 'Women in Tech: Just the job'
-  description: >-
-    Welcome to Women in Tech York’s careers event
-
-    Who are we?
-
-    We are a community of like-minded people, studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.
-
-    We also welcome all students who are interested in learning more about Tech, and the careers it entails.
-
-    Come and join us for an evening of inspiring and insightful career advice.
-
-    This month we are talking all about careers! We'll be doing various activities around careers in Tech, such as finding out what kind of roles are avaliable, and how to thrive in your current role.  We want to ensure that our knowledge, experiences and journeys are shared with those within tech, looking to start a career or resume a career in tech.
-
-    Don't worry if you're not looking for a new job, the point of this evening is for you to share your story with those who are new or would like to return to the Tech world. If that isn't enough, we are also going to cater for those already in Tech, by discussing practical advice on topics such as for applying for a raise.
-
-    There will be free food thanks to our sponsors Isotoma and Mitrefinch.
-
-    Event Timings:
-
-    18:00: Registration Opens
-
-    18:30: Introduction
-
-    18:40: Career Speed-DatingWe want to shout about the varied roles within tech, and what better way than to speak to as many people as possible! We know this exercise will benefit students, people wanting to get into tech or even those within tech who want a change in direction. It'll also help you if are already in a role you are happy with, come and tell people why your job is the best!
-
-    19:10: Buffet
-
-    19:40: Practical Workshops & NetworkingWe’re hosting several workshops, including:
-
-    - Raise negotiation.
-
-    - Dos and don't of using social media as an employee
-
-    - Developing your career
-
-    - CV Clinic
-
-    - Connecting the dots from Telesales to Tech
-
-    20:30: Closing remarks
-
-    21:00: Event close
-
-    Giveaway!
-
-    This month we’ll be giving away a cute gameboy pin, designed by York artist Ellen Stubbings. See more of her great work here: https://www.etsy.com/uk/shop/SoCuteCompany.
-
-    To win, tweet us on the night and make sure to include #WiTYork!
-
-    ________________________________________Nervous about attending?A WiT York ambassador will be outside Revolution to greet you on the night, direct you to our upstairs bar and answer any questions you may have.
-
-    You can also join our online community beforehand or contact us directly via Twitter or email WomenInTechYork@gmail.com.• Slack: https://wit-york.slack.com• LinkedIn: Women in Tech York• Twitter: @WiT_York
-
-    Code of ConductThe short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack.
-  url: https://www.eventbrite.co.uk/e/women-in-tech-just-the-job-tickets-51726976780?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/51727285/235318357053/1/original.jpg?h=200&w=450&auto=compress&rect=0,513,4960,2480&s=66877b8c1e464eaca4d7a994f5d227a1
-  starts: 2018-11-08T18:00:00.0000000
-  ends: 2018-11-08T21:00:00.0000000
-  venue: Revolution York
-- name: York Technology Conference
-  description: "The York Technology Conference is a non-profit one-day event run by students, providing the opportunity for students to network with other students, who share an interest in technology, and with industry leaders. \nThis event will enable students from York and other universities to explore emerging technological trends through speakers, panel debates, workshops and networking opportunities."
-  url: https://www.eventbrite.co.uk/e/york-technology-conference-tickets-51011295157?aff=ebapi
-  logo: https://cdn.evbuc.com/images/50797944/275322375612/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,864,432&s=6ba2006f92dd07e87471a2627d5c742f
-  starts: 2019-01-30T09:00:00.0000000
-  ends: 2019-01-30T17:30:00.0000000
-  venue: The Ron Cooke Hub
 - name: Research Funders and Fellowships Day at York
   description: >-
     Do you want to further your research career in the physical sciences or engineering? Do you have great research ideas but are not sure how to make them happen? Are you looking for funding but need a starting point?
@@ -99,6 +31,13 @@
   starts: 2018-12-04T09:30:00.0000000
   ends: 2018-12-04T16:00:00.0000000
   venue: York Plasma Institute
+- name: York Technology Conference
+  description: "The York Technology Conference is a non-profit one-day event run by students, providing the opportunity for students to network with other students, who share an interest in technology, and with industry leaders. \nThis event will enable students from York and other universities to explore emerging technological trends through speakers, panel debates, workshops and networking opportunities."
+  url: https://www.eventbrite.co.uk/e/york-technology-conference-tickets-51011295157?aff=ebapi
+  logo: https://cdn.evbuc.com/images/50797944/275322375612/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,864,432&s=6ba2006f92dd07e87471a2627d5c742f
+  starts: 2019-01-30T09:00:00.0000000
+  ends: 2019-01-30T17:30:00.0000000
+  venue: The Ron Cooke Hub
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -257,6 +196,31 @@
   starts: 2018-11-28T17:00:00.0000000
   ends: 2018-11-28T19:00:00.0000000
   venue: Anaplan
+- name: Glyphosate, it’s use and managing public perception
+  description: >-
+    A half day seminar providing essential guidance for the amenity sector, with the latest information from Bayer regarding glyphosate, as well as informative sessions dealing with the application of glyphosate for hard surfaces utilising Weed-IT.  In addition there will invaluable advice with regard to handling public objections to weed control activities with concise information to take away from the event.  Findings from the most extensive trials into Japanese Knotweed and its control will also be provided along with advice as to how best manage the problem and its associated issues. 
+
+    There will be a live demonstration of the Weed-IT machine in order for delegates to appreciate the environmental and productivity benefits that this technology brings to the sector.
+
+    Address:
+
+    King's Manor
+
+    University of York
+
+    Exhibition Square
+
+    York
+
+    YO1 7EP
+
+    N.B. Please note that no parking is available at King's Manor.  Should parking be required there are two nearby City of York carparks: Bootham Row and Marygate.  The venue is also a ten minute walk from York Train Station and there are a number of Park and Ride facilities that service the city centre.
+  url: https://www.eventbrite.co.uk/e/glyphosate-its-use-and-managing-public-perception-tickets-52048262755?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52085210/278703111257/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=66bab0b0913bfb1eb1714fbd99ab3f3e
+  starts: 2018-11-28T10:00:00.0000000
+  ends: 2018-11-28T14:00:00.0000000
+  venue: King's Manor Library
 - name: Get In The Game Careers Talks; University of York
   description: >-
     The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
@@ -456,31 +420,6 @@
   starts: 2018-11-12T18:00:00.0000000
   ends: 2018-11-12T20:30:00.0000000
   venue: Towers Lounge & Bar
-- name: Glyphosate, it’s use and managing public perception
-  description: >-
-    A half day seminar providing essential guidance for the amenity sector, with the latest information from Bayer regarding glyphosate, as well as informative sessions dealing with the application of glyphosate for hard surfaces utilising Weed-IT.  In addition there will invaluable advice with regard to handling public objections to weed control activities with concise information to take away from the event.  Findings from the most extensive trials into Japanese Knotweed and its control will also be provided along with advice as to how best manage the problem and its associated issues. 
-
-    There will be a live demonstration of the Weed-IT machine in order for delegates to appreciate the environmental and productivity benefits that this technology brings to the sector.
-
-    Address:
-
-    King's Manor
-
-    University of York
-
-    Exhibition Square
-
-    York
-
-    YO1 7EP
-
-    N.B. Please note that no parking is available at King's Manor.  Should parking be required there are two nearby City of York carparks: Bootham Row and Marygate.  The venue is also a ten minute walk from York Train Station and there are a number of Park and Ride facilities that service the city centre.
-  url: https://www.eventbrite.co.uk/e/glyphosate-its-use-and-managing-public-perception-tickets-52048262755?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52085210/278703111257/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=66bab0b0913bfb1eb1714fbd99ab3f3e
-  starts: 2018-11-28T10:00:00.0000000
-  ends: 2018-11-28T14:00:00.0000000
-  venue: King's Manor Library
 - name: New Horizons in Materials Modelling
   description: >-
     This annual one-day meeting in the heart of York brings together materials modelling researchers to discuss the latest developments in theory, algorithms and applications. This meeting will consist of invited and contributed talks, and a poster session. This, the 5th meeting in this series, will have three sessions, with invited speakers who will introduce the three main topic areas chosen for this meeting:
