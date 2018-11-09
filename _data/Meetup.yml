@@ -30,7 +30,7 @@
   starts: 2018-11-13T18:00:00.0000000
   ends: 2018-11-13T20:00:00.0000000
   venue: Duke Studios
-- name: York Code Dojo Nov Meetup - Sudoko
+- name: York Code Dojo Nov Meetup - Sudoku
   description: '<p>This month we will have a go at writing a program to solve Sudoku puzzles. The session will be suitable for people of any ability. If possible please bring a laptop with your programming languages of choice already installed. Please note this is going to be held the day after our YorkTechFest event, I hope to see many of you there! <a href="https://yorktechfest.github.io" class="linkified">https://yorktechfest.github.io</a> NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/256185411/
   is-free: true
@@ -95,13 +95,6 @@
   ends: 2018-11-19T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
-- name: 'Tech Contractor Networking: Leeds'
-  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
-  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyxpbbc/
-  is-free: true
-  starts: 2018-11-20T12:15:00.0000000
-  ends: 2018-11-20T12:45:00.0000000
-  venue: Banyan Bar Leeds
 - name: YorkTechFest - A celebration of the York Volunteer Tech Community
   description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
   url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyxpbbc/
@@ -151,6 +144,13 @@
   starts: 2018-11-21T19:00:00.0000000
   ends: 2018-11-21T21:00:00.0000000
   venue: York Hackspace
+- name: Data Platform User Group (SQLWatch.io. PowerBI, DBA, Azure Managed Instances)-
+  description: '<p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Marcin Gminski (sqlwatch.io)<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – John Martin (SentryOne)<br/>20:20 – 20:30 – Off t’pub.</p> <p>Marcin Gminski (sqlwatch.io) | SQLWatch Overview<br/>SQLWATCH is free and community-driven SQL Server performance monitor, available for SQL Server 2008R2 to 2017. SQLWATCH collects your server performance metrics, database growth and disk space, index statistics and more. In this session, we will go through the conceptual design, installation, data collection and reports. You can download it free from <a href="https://sqlwatch.io/" class="linkified">https://sqlwatch.io/</a></p> <p>Marcin is an independent SQL Server consultant specialising in performance, development, disaster recovery and data migrations. Following his degree in Computer Science, Marcin has gained over 15 years of experience and knowledge of technical architecture, data analysis, logical and physical design, coding, performance testing, implementation and support whilst working with SQL Server as well as Oracle and DB2 for global brands like Lloyds Banking Group, Wal-Mart, NHS and Solera Holdings.</p> <p>John Martin (SentryOne) | Azure Managed Instances</p> <p>Azure SQL DB Managed Instance is here, Microsoft want us to use it, but what is it good for and how should you use it? Let us get past the marketing hype and take a more in-depth look at Managed Instance and see what we can do with it.</p> <p>To get the most out of Managed Instance you need to understand the Azure infrastructure that underpins it and how this behaves, as well as understanding the differences between General Purpose and Business Critical tiers.</p> <p>There is far more to Managed Instance than meets the eye and if you do not understand the details then you run the risk of spending a lot more money and not getting the performance you want.<br/>During this training day we will cover the core Azure infrastructure components that underpin Managed Instance and look at how these can impact its usability and performance. We will work through use cases and migration scenarios that are available for us to use when it comes to making the jump to Azure. We will also look at how applications that use with SQL Server on-premises can be updated to get the most out of Managed Instance, including authentication and high-level architecture.</p> '
+  url: https://www.meetup.com/leeds_data_platform/events/253209985/
+  is-free: true
+  starts: 2018-11-22T17:30:00.0000000
+  ends: 2018-11-22T21:00:00.0000000
+  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbjc/
