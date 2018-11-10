@@ -38,20 +38,14 @@
   starts: 2019-01-30T09:00:00.0000000
   ends: 2019-01-30T17:30:00.0000000
   venue: The Ron Cooke Hub
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-45803542629?aff=ebapi
+- name: 'Exploring new worlds: Project Mars and the BepiColombo mission to Mercury'
+  description: "Join us at the National STEM Learning Centre for this free event, to see the winning films and posters from the NASA Project Mars Competition and to hear from Dr. Suzie Imber about BepiColombo, the latest mission to Mercury, which launched into space on 20th October.\n\nThrough ESERO-UK, the centre has been chosen as a venue to screen the winning film and poster entries for the Project Mars International Film and Art Competition. Entries included film and poster submissions that envisioned NASA’s missions and what astronauts might see, feel and experience on those missions.  A 16 minute film will be shown comprising the winning entries.  The winning posters will be displayed in the Atrium. Doors open at 18:00 to allow viewing of the posters before the film showing at 18:30.\n\nAfter the winning films are shown, Dr. Suzie Imber, from the University of Leicester and winner of BBC Astronauts – Have you got what it takes?, will give a talk about her involvement with BepiColombo – a joint mission between the European Space Agency and Japan Aerospace Exploration Agency.  Suzie also recently attended the successful launch of BepiColombo, in French Guiana, on 20th October.  You can learn more about the mission here http://sci.esa.int/bepicolombo/60769-outreach-resources/\n\nThe event is suitable for ages 8 and above.  \n \nSome free educational resources will be available to take away, from the European Space Education Resources Office (ESERO-UK)."
+  url: https://www.eventbrite.co.uk/e/exploring-new-worlds-project-mars-and-the-bepicolombo-mission-to-mercury-tickets-51661390610?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
-  starts: 2018-11-15T18:30:00.0000000
-  ends: 2018-11-15T19:30:00.0000000
+  logo: https://cdn.evbuc.com/images/51658194/26759940461/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1200,600&s=13640883b7df041f7637c125570982a2
+  starts: 2018-11-12T18:30:00.0000000
+  ends: 2018-11-12T20:00:00.0000000
+  venue: National STEM Learning Centre
 - name: TEDxYork
   description: >-
     During our TEDxYork event we will explore how memories are anchored, how we both engage with and protect ourselves from the world around us, and how technology can affect and reflect different kinds of truth.
@@ -132,14 +126,6 @@
   starts: 2018-11-19T17:15:00.0000000
   ends: 2018-11-19T19:15:00.0000000
   venue: Acomb Explore Library
-- name: 'Exploring new worlds: Project Mars and the BepiColombo mission to Mercury'
-  description: "Join us at the National STEM Learning Centre for this free event, to see the winning films and posters from the NASA Project Mars Competition and to hear from Dr. Suzie Imber about BepiColombo, the latest mission to Mercury, which launched into space on 20th October.\n\nThrough ESERO-UK, the centre has been chosen as a venue to screen the winning film and poster entries for the Project Mars International Film and Art Competition. Entries included film and poster submissions that envisioned NASA’s missions and what astronauts might see, feel and experience on those missions.  A 16 minute film will be shown comprising the winning entries.  The winning posters will be displayed in the Atrium. Doors open at 18:00 to allow viewing of the posters before the film showing at 18:30.\n\nAfter the winning films are shown, Dr. Suzie Imber, from the University of Leicester and winner of BBC Astronauts – Have you got what it takes?, will give a talk about her involvement with BepiColombo – a joint mission between the European Space Agency and Japan Aerospace Exploration Agency.  Suzie also recently attended the successful launch of BepiColombo, in French Guiana, on 20th October.  You can learn more about the mission here http://sci.esa.int/bepicolombo/60769-outreach-resources/\n\nThe event is suitable for ages 8 and above.  \n \nSome free educational resources will be available to take away, from the European Space Education Resources Office (ESERO-UK)."
-  url: https://www.eventbrite.co.uk/e/exploring-new-worlds-project-mars-and-the-bepicolombo-mission-to-mercury-tickets-51661390610?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/51658194/26759940461/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,1200,600&s=13640883b7df041f7637c125570982a2
-  starts: 2018-11-12T18:30:00.0000000
-  ends: 2018-11-12T20:00:00.0000000
-  venue: National STEM Learning Centre
 - name: Physics@Work 2018
   description: >-
     Join the University of York for a day of workshops and talks about the applications of physics in the world of work. Hear from employers about the value of studying physics at A-level and beyond and try out hands-on activities that give a taste of the many ways physics contributes to the UK economy.  
@@ -172,30 +158,6 @@
   starts: 2018-12-11T10:00:00.0000000
   ends: 2018-12-11T14:15:00.0000000
   venue: Exhibition Centre
-- name: York Pi Jam - December
-  description: >2-
-
-    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
-
-    Celebrate Christmas with us by coding festive projects, wearing your Christmas jumper and eating mince pies.
-
-    You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
-
-    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
-  url: https://www.eventbrite.co.uk/e/york-pi-jam-december-tickets-49963571387?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49444960/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=af3f836ff8aeb7159e4b58b9cfc4dd48
-  starts: 2018-12-10T17:15:00.0000000
-  ends: 2018-12-10T19:15:00.0000000
-  venue: Acomb Explore Library
-- name: 'Code Club Meetup: York'
-  description: "Code Club meetups are a place where teachers, veteran volunteers, and newcomers alike can meet in a fun, friendly and informal environment to talk about Code Club.\n\nBrand new to Code Club? Come along and find out more about what we do. Anna, our Regional Coordinator for the North East & Yorkshire, will be there to answer any questions you have about getting started. \n\nAlready involved with Code Club? This is a chance to meet other people involved in the community. Let’s swap stories and help each other!\n\nThere will be refreshments and snacks too!\nIf you have any questions before the event, please get in touch by email to yhne@codeclub.org.uk or by contacting @codeclubyandh on Twitter.\n \nThank you to Anaplan, York, for providing us with a wonderful venue. \n \nWe look forward to seeing you at the event!\n\n\n--------\n\nWould you like to share a story from your Code Club, or showcase a digital making project you are working on? I’m looking for a few volunteers who’d like to do a five-minute presentation. Please get in touch at yhne@codeclub.org.uk if you’re keen to get involved.\n\n\n---------\n\nFor further info on accessibility, location, and parking at the venue, check here\n\n\n \n\n\n \n\n"
-  url: https://www.eventbrite.co.uk/e/code-club-meetup-york-tickets-52082854219?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52129239/176518582794/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=a74808dee5d8ed6eaf2343ec07ff866d
-  starts: 2018-11-28T17:00:00.0000000
-  ends: 2018-11-28T19:00:00.0000000
-  venue: Anaplan
 - name: Glyphosate, it’s use and managing public perception
   description: >-
     A half day seminar providing essential guidance for the amenity sector, with the latest information from Bayer regarding glyphosate, as well as informative sessions dealing with the application of glyphosate for hard surfaces utilising Weed-IT.  In addition there will invaluable advice with regard to handling public objections to weed control activities with concise information to take away from the event.  Findings from the most extensive trials into Japanese Knotweed and its control will also be provided along with advice as to how best manage the problem and its associated issues. 
@@ -221,49 +183,89 @@
   starts: 2018-11-28T10:00:00.0000000
   ends: 2018-11-28T14:00:00.0000000
   venue: King's Manor Library
-- name: Get In The Game Careers Talks; University of York
+- name: Astrocampus Open Evenings
   description: >-
-    The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
 
-    Speakers
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
 
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
 
-    Schedule of Event
-
-    13:00-14:00 – Aardvark Swift Career Talk
-
-    14:00-14:30 – Red Kite
-
-    14:30-15:00 – Boss Alien
-
-    15:00-15:30 – Q&A
-
-
-    Our talks are given for students to learn what it really takes to make it into such a competitive industry. Covering topics such as:
-
-    • Careers in games advice
-
-    • Information of how to maximise your chances of securing your first games industry role.
-
-    • CV, Portfolio and Demo Advice
-
-    • Interview Techniques
-
-    • Technical and practical knowledge required by studios
-
-    • How to increase employability
-
-    • Q & A session
-
-    We’ll also be giving away goodie bags to a handful of lucky winners, with prizes from our partner studios.
-
-    This is a great opportunity that offers expert information which could prove vital in your career. Don't miss out - get your ticket now!
-  url: https://www.eventbrite.co.uk/e/get-in-the-game-careers-talks-university-of-york-tickets-45097383488?aff=ebapi
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-51655888152?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/48734073/107396689973/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c6b713e5c77925f1caaaa6ac2bffa35
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
+  starts: 2018-11-29T18:30:00.0000000
+  ends: 2018-11-29T19:30:00.0000000
+- name: York Pi Jam - December
+  description: >2-
+
+    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
+
+    Celebrate Christmas with us by coding festive projects, wearing your Christmas jumper and eating mince pies.
+
+    You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
+
+    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
+  url: https://www.eventbrite.co.uk/e/york-pi-jam-december-tickets-49963571387?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49444960/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=af3f836ff8aeb7159e4b58b9cfc4dd48
+  starts: 2018-12-10T17:15:00.0000000
+  ends: 2018-12-10T19:15:00.0000000
+  venue: Acomb Explore Library
+- name: 'Code Club Meetup: York'
+  description: "Code Club meetups are a place where teachers, veteran volunteers, and newcomers alike can meet in a fun, friendly and informal environment to talk about Code Club.\n\nBrand new to Code Club? Come along and find out more about what we do. Anna, our Regional Coordinator for the North East & Yorkshire, will be there to answer any questions you have about getting started. \n\nAlready involved with Code Club? This is a chance to meet other people involved in the community. Let’s swap stories and help each other!\n\nThere will be refreshments and snacks too!\nIf you have any questions before the event, please get in touch by email to yhne@codeclub.org.uk or by contacting @codeclubyandh on Twitter.\n \nThank you to Anaplan, York, for providing us with a wonderful venue. \n \nWe look forward to seeing you at the event!\n\n\n--------\n\nWould you like to share a story from your Code Club, or showcase a digital making project you are working on? I’m looking for a few volunteers who’d like to do a five-minute presentation. Please get in touch at yhne@codeclub.org.uk if you’re keen to get involved.\n\n\n---------\n\nFor further info on accessibility, location, and parking at the venue, check here\n\n\n \n\n\n \n\n"
+  url: https://www.eventbrite.co.uk/e/code-club-meetup-york-tickets-52082854219?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52129239/176518582794/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=a74808dee5d8ed6eaf2343ec07ff866d
+  starts: 2018-11-28T17:00:00.0000000
+  ends: 2018-11-28T19:00:00.0000000
+  venue: Anaplan
+- name: 'WE1: Website CMS Basic training (Wed 21 Nov 14:00-16:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-wed-21-nov-1400-1600-tickets-50495425176?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/50118336/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=75127b248f7bf47299901234a50fbebe
   starts: 2018-11-21T14:00:00.0000000
-  ends: 2018-11-21T18:00:00.0000000
-  venue: Piazza Building
+  ends: 2018-11-21T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: Women in Tech York End of Year Party!
+  description: "Welcome to Women in Tech York’s end of year party!\nWho are we?\nWe are a community of like-minded people, studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.\nCome and join us for an evening of fun to celebrate our first year! \nWomen in Tech York started 6 months ago, and we can’t believe how much we’ve grown! We wanted to use the end of the year to throw an event that thanks our attendees for their continued support - this month we’ll be partying at Spark York, where we’ll have drinks, music and free food thanks to our Sponsors Isotoma and Mitrefinch.\nDress code: Festive! Whether you’re rocking the sparkliest of dresses, or you’re happier in jeans and a jumper, you’ll be welcome! \n Event Timings\n18:00: Registration Opens\n18:30: Thank you\n18:45: Party! \n21:00: Event close\n ________________________________________ Nervous about attending?\n A WiT York ambassador will be outside the Spark event space to greet you on the night, direct you to the event space and answer any questions you may have.\n You can also join our online community beforehand or contact us directly via Twitter or email WomenInTechYork@gmail.com. • Slack: https://wit-york.slack.com • LinkedIn: Women in Tech York • Twitter: @WiT_York\n Code of Conduct\n The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack."
+  url: https://www.eventbrite.co.uk/e/women-in-tech-york-end-of-year-party-tickets-52402869393?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52515671/235318357053/1/original.jpg?h=200&w=450&auto=compress&rect=0,172,1748,874&s=b21334a3d30e7e9fd5bc37e51223d70b
+  starts: 2018-12-13T18:00:00.0000000
+  ends: 2018-12-13T21:00:00.0000000
+  venue: Spark York CIC
 - name: 'PS1: Photoshop Essentials inc. for website editors (Thu 22 Nov 11:00-12:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -323,43 +325,65 @@
   starts: 2018-11-22T11:00:00.0000000
   ends: 2018-11-22T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'WE1: Website CMS Basic training (Wed 21 Nov 14:00-16:00)'
+- name: New Horizons in Materials Modelling
   description: >-
-    These courses are for staff who have been approved by the website team only
+    This annual one-day meeting in the heart of York brings together materials modelling researchers to discuss the latest developments in theory, algorithms and applications. This meeting will consist of invited and contributed talks, and a poster session. This, the 5th meeting in this series, will have three sessions, with invited speakers who will introduce the three main topic areas chosen for this meeting:
 
+     Magnetic/electrical properties: Dr Richard Evans (University of York)
 
-    WE1: Website CMS basics
+    Transport properties: Dr Paul Bristowe (University of Cambridge)
 
-    Prior knowledge: None
+    Structural properties:Prof Keith Refson (Royal Holloway, University of London)
 
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-wed-21-nov-1400-1600-tickets-50495425176?aff=ebapi
+    Although these topics are the main focus of the meeting, contributions from any area of atomistic simulation are welcome. At this event you will meet with leading researchers working with quantum / atomistic simulations from across the UK. Begin the New Year with a simulation! We look forward to meeting you in York next January.
+  url: https://www.eventbrite.co.uk/e/new-horizons-in-materials-modelling-tickets-52152334035?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/50118336/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=75127b248f7bf47299901234a50fbebe
+  starts: 2019-01-04T10:00:00.0000000
+  ends: 2019-01-04T17:00:00.0000000
+  venue: The Bar Convent
+- name: Get In The Game Careers Talks; University of York
+  description: >-
+    The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
+
+    Speakers
+
+
+    Schedule of Event
+
+    13:00-14:00 – Aardvark Swift Career Talk
+
+    14:00-14:30 – Red Kite
+
+    14:30-15:00 – Boss Alien
+
+    15:00-15:30 – Q&A
+
+
+    Our talks are given for students to learn what it really takes to make it into such a competitive industry. Covering topics such as:
+
+    • Careers in games advice
+
+    • Information of how to maximise your chances of securing your first games industry role.
+
+    • CV, Portfolio and Demo Advice
+
+    • Interview Techniques
+
+    • Technical and practical knowledge required by studios
+
+    • How to increase employability
+
+    • Q & A session
+
+    We’ll also be giving away goodie bags to a handful of lucky winners, with prizes from our partner studios.
+
+    This is a great opportunity that offers expert information which could prove vital in your career. Don't miss out - get your ticket now!
+  url: https://www.eventbrite.co.uk/e/get-in-the-game-careers-talks-university-of-york-tickets-45097383488?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48734073/107396689973/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c6b713e5c77925f1caaaa6ac2bffa35
   starts: 2018-11-21T14:00:00.0000000
-  ends: 2018-11-21T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
+  ends: 2018-11-21T18:00:00.0000000
+  venue: Piazza Building
 - name: '#exabits: Teacher HackJam, York 12Nov18'
   description: >
     Aims: An adult-only, social gathering for teachers/non-teachers sharing a common interest in Computing education. 
@@ -420,22 +444,6 @@
   starts: 2018-11-12T18:00:00.0000000
   ends: 2018-11-12T20:30:00.0000000
   venue: Towers Lounge & Bar
-- name: New Horizons in Materials Modelling
-  description: >-
-    This annual one-day meeting in the heart of York brings together materials modelling researchers to discuss the latest developments in theory, algorithms and applications. This meeting will consist of invited and contributed talks, and a poster session. This, the 5th meeting in this series, will have three sessions, with invited speakers who will introduce the three main topic areas chosen for this meeting:
-
-     Magnetic/electrical properties: Dr Richard Evans (University of York)
-
-    Transport properties: Dr Paul Bristowe (University of Cambridge)
-
-    Structural properties:Prof Keith Refson (Royal Holloway, University of London)
-
-    Although these topics are the main focus of the meeting, contributions from any area of atomistic simulation are welcome. At this event you will meet with leading researchers working with quantum / atomistic simulations from across the UK. Begin the New Year with a simulation! We look forward to meeting you in York next January.
-  url: https://www.eventbrite.co.uk/e/new-horizons-in-materials-modelling-tickets-52152334035?aff=ebapi
-  is-free: true
-  starts: 2019-01-04T10:00:00.0000000
-  ends: 2019-01-04T17:00:00.0000000
-  venue: The Bar Convent
 - name: 'WO2: Word Essay & dissertation (Tue 13 Nov 15:00-16:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -578,106 +586,6 @@
   starts: 2018-11-22T14:00:00.0000000
   ends: 2018-11-22T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'Attracting and Retaining Women in STEM: The Conference'
-  description: >+
-    Workforce diversity in the Science, Technology, Engineering and Mathematics (STEM) sector is a major challenge. Careers are male-dominated; just 9% of Engineering, 19% of Computer studies and 38% of Maths graduates are female. In fact, just 13% of the entire UK STEM workforce is female. Forward Ladies want to challenge and change these statistics. 
-
-    We invite senior leaders from business, academia and policy to attend and represent their organisations.
-
-    The action-packed day offers a schedule which includes insightful and thought-provoking presentations from women and men paving the way for diversity within the industry, audience Q&A sessions and of course, fantastic networking opportunities.
-
-    From practical advice on effective ways to navigate your career to the opportunity to learn from the experiences of successful women, you will come away with valuable and actionable ideas and guidance. This conference will provide you with a unique opportunity to:
-
-
-
-    Gain the latest best practice insights from policy experts and practitioners
-
-    Develop strategies to enhance the impact and progression of women in STEM
-
-    Shape future policies within the industry and influence them into working practices
-
-    Understanding the educational paths which lead to careers in STEM
-
-    Build lasting relationships with peers
-
-
-
-
-
-    Agenda
-
-    09:00 – Arrival, Registrations and Refreshments
-
-    09:30 – Chair’s Welcome Address 09:40 – Speaker: Details coming soon
-
-    10:00 – Speaker:  Jenni Uotila, National Grid
-
-    10:20 – Speaker:  Details coming soon
-
-    10:40 – Questions and Answers
-
-    11:00 – Refreshments and Networking
-
-    11:30 – Speaker:  Tom Fogden/Mark Smith, ADA College
-
-    11:50 – Speaker:  Jessica Okoro, BeScience STEM
-
-    12:10 – Speaker:  Liz Towns Andrews, University of Huddersfield
-
-    12:20 – Questions and Answers
-
-    12:45 – Lunch and Networking
-
-    14:15 – Speaker:  Caroline Moore, SAGE UK
-
-    14:35 – Speaker:  Details coming soon
-
-    14:55 – Speaker:  Details coming soon
-
-    15:15 – Questions and Answers
-
-    15:45 – Final Remarks
-
-    16:00 – Event Close
-
-     *the programme is subject to change.
-
-
-
-     
-
-    Bridging the Gender Gap in STEM
-
-    This Conference is being held in conjunction with the release of the Forward Ladies' STEM Report 2018.
-
-    In 2017, Forward Ladies published results of the “Bridging the Gender Gap in STEM” survey, in partnership with BT, Coca-Cola, Sky Betting & Gaming, Yorkshire Water and GRAHAM Construction which received responses from 1,299 participants working in STEM.
-
-    The report is available for download via this link: 2017 Bridging the Gender Gap in STEM Report.
-
-
-
-     
-
-    Speakers
-
-     
-
-
-
-
-
-     
-
-     
-
-
-
-      
-
-  url: https://www.eventbrite.co.uk/e/attracting-and-retaining-women-in-stem-the-conference-tickets-43483573539?aff=ebapi
-  starts: 2018-11-26T09:00:00.0000000
-  ends: 2018-11-26T16:00:00.0000000
-  venue: The Principal York
 - name: Cisco Enterprise Networking Update
   description: "\r\n\r\n\r\n\r\n\r\n\r\n\r\nDear Cisco Customer,\r\n \r\nNetworks are changing, they need to be more secure, more dynamic and more powerful therefore Cisco is evolving Enterprise Networks and introducing The Network Intuitive. \r\n The Cisco Health and Local Government team invites customers to hear Cisco’s enterprise networking proposition and how Software Defined Networking can benefit your organisation. \r\n \r\n\r\n\r\n\r\n\r\n\r\nIntroduction to Cisco’s Software Defined Access\r\n\r\nCisco Software-Defined Access (SD-Access) gives you a single network fabric, from the edge to the cloud. You can set policy-based automation for users, devices, and things. Provide access to any application, without compromising on security. All while gaining awareness of what is hitting your network. With automatic segmentation of users, devices, and applications, you can deploy and secure services faster.\r\n\r\n\r\n \r\n\r\nCatalyst 9K\r\n\r\nCisco Catalyst 9000 fixed and modular, core and access LAN switches have been designed for an entirely new era of networking.\r\n\r\n\r\n \r\n\r\nMeraki Full Stack\r\n\r\nSee a live demonstration of the Meraki Dashboard and get an update on all new things Meraki including the new Insight capability.\r\n\r\n\r\n \r\n\r\nMeraki SD-WAN\r\n\r\nLearn how easy it can be to connect up all your branch sites effectively utilising the latest in SD-WAN technology embedded in the MX Security Appliances.\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
   url: https://www.eventbrite.com/e/cisco-enterprise-networking-update-tickets-51472007159?aff=ebapi
@@ -744,3 +652,11 @@
   starts: 2018-12-18T14:00:00.0000000
   ends: 2018-12-18T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Tech-meet5
+  description: This event is the rearranged meet up of local computing teachers sharing ideas through mini presentations. Presentations include Master the Mainframe, Project Quantum as well as others and networking opportunities.  
+  url: https://www.eventbrite.co.uk/e/tech-meet5-tickets-52403375908?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52515998/53683224378/1/original.jpg?h=200&w=450&auto=compress&rect=0,8,676,338&s=65b08def095b7846e9629fff338deda9
+  starts: 2018-11-27T16:15:00.0000000
+  ends: 2018-11-27T17:30:00.0000000
+  venue: National STEM Centre
