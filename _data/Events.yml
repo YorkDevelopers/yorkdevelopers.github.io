@@ -1,16 +1,3 @@
-- name: 'The Science Society Christmas Lecture: Science QI '
-  description: >-
-    The St Peter’s Science Department will be sharing some their favourite ‘quite interesting’ facts from the world of science in their ever-popular Christmas lecture. Be prepared for whizzes, flash-bangs and the occasional klaxon.
-
-    Please either print off your ticket or display it to us on your smartphone or tablet on the evening.
-
-    Please note that parking on site will be limited, so other forms of transport are encouraged. The nearest public car park is Marygate, a few minutes' walk from the venue. Please contact us on 01904 526 315 or events@stpetersyork.org.uk if you have any access requirements.
-  url: https://www.eventbrite.co.uk/e/the-science-society-christmas-lecture-science-qi-tickets-49595516525?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48984713/87497926893/1/original.jpg?h=200&w=450&auto=compress&rect=0,267,5184,2592&s=3d5e4cf0ce4b0f9a9a2cde5954f02696
-  starts: 2018-12-11T19:00:00.0000000
-  ends: 2018-12-11T20:30:00.0000000
-  venue: St Peter's School
 - name: Research Funders and Fellowships Day at York
   description: >-
     Do you want to further your research career in the physical sciences or engineering? Do you have great research ideas but are not sure how to make them happen? Are you looking for funding but need a starting point?
@@ -221,6 +208,14 @@
   starts: 2018-11-28T17:00:00.0000000
   ends: 2018-11-28T19:00:00.0000000
   venue: Anaplan
+- name: Women in Tech York End of Year Party!
+  description: "Welcome to Women in Tech York’s end of year party!\nWho are we?\nWe are a community of like-minded people, studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.\nCome and join us for an evening of fun to celebrate our first year! \nWomen in Tech York started 6 months ago, and we can’t believe how much we’ve grown! We wanted to use the end of the year to throw an event that thanks our attendees for their continued support - this month we’ll be partying at Spark York, where we’ll have drinks, music and free food thanks to our Sponsors Isotoma and Mitrefinch.\nDress code: Festive! Whether you’re rocking the sparkliest of dresses, or you’re happier in jeans and a jumper, you’ll be welcome! \n Event Timings\n18:00: Registration Opens\n18:30: Thank you\n18:45: Party! \n21:00: Event close\n ________________________________________ Nervous about attending?\n A WiT York ambassador will be outside the Spark event space to greet you on the night, direct you to the event space and answer any questions you may have.\n You can also join our online community beforehand or contact us directly via Twitter or email WomenInTechYork@gmail.com. • Slack: https://wit-york.slack.com • LinkedIn: Women in Tech York • Twitter: @WiT_York\n Code of Conduct\n The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack."
+  url: https://www.eventbrite.co.uk/e/women-in-tech-york-end-of-year-party-tickets-52402869393?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52515671/235318357053/1/original.jpg?h=200&w=450&auto=compress&rect=0,172,1748,874&s=b21334a3d30e7e9fd5bc37e51223d70b
+  starts: 2018-12-13T18:00:00.0000000
+  ends: 2018-12-13T21:00:00.0000000
+  venue: Spark York CIC
 - name: 'WE1: Website CMS Basic training (Wed 21 Nov 14:00-16:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -258,14 +253,22 @@
   starts: 2018-11-21T14:00:00.0000000
   ends: 2018-11-21T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Women in Tech York End of Year Party!
-  description: "Welcome to Women in Tech York’s end of year party!\nWho are we?\nWe are a community of like-minded people, studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.\nCome and join us for an evening of fun to celebrate our first year! \nWomen in Tech York started 6 months ago, and we can’t believe how much we’ve grown! We wanted to use the end of the year to throw an event that thanks our attendees for their continued support - this month we’ll be partying at Spark York, where we’ll have drinks, music and free food thanks to our Sponsors Isotoma and Mitrefinch.\nDress code: Festive! Whether you’re rocking the sparkliest of dresses, or you’re happier in jeans and a jumper, you’ll be welcome! \n Event Timings\n18:00: Registration Opens\n18:30: Thank you\n18:45: Party! \n21:00: Event close\n ________________________________________ Nervous about attending?\n A WiT York ambassador will be outside the Spark event space to greet you on the night, direct you to the event space and answer any questions you may have.\n You can also join our online community beforehand or contact us directly via Twitter or email WomenInTechYork@gmail.com. • Slack: https://wit-york.slack.com • LinkedIn: Women in Tech York • Twitter: @WiT_York\n Code of Conduct\n The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack."
-  url: https://www.eventbrite.co.uk/e/women-in-tech-york-end-of-year-party-tickets-52402869393?aff=ebapi
+- name: New Horizons in Materials Modelling
+  description: >-
+    This annual one-day meeting in the heart of York brings together materials modelling researchers to discuss the latest developments in theory, algorithms and applications. This meeting will consist of invited and contributed talks, and a poster session. This, the 5th meeting in this series, will have three sessions, with invited speakers who will introduce the three main topic areas chosen for this meeting:
+
+     Magnetic/electrical properties: Dr Richard Evans (University of York)
+
+    Transport properties: Dr Paul Bristowe (University of Cambridge)
+
+    Structural properties:Prof Keith Refson (Royal Holloway, University of London)
+
+    Although these topics are the main focus of the meeting, contributions from any area of atomistic simulation are welcome. At this event you will meet with leading researchers working with quantum / atomistic simulations from across the UK. Begin the New Year with a simulation! We look forward to meeting you in York next January.
+  url: https://www.eventbrite.co.uk/e/new-horizons-in-materials-modelling-tickets-52152334035?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/52515671/235318357053/1/original.jpg?h=200&w=450&auto=compress&rect=0,172,1748,874&s=b21334a3d30e7e9fd5bc37e51223d70b
-  starts: 2018-12-13T18:00:00.0000000
-  ends: 2018-12-13T21:00:00.0000000
-  venue: Spark York CIC
+  starts: 2019-01-04T10:00:00.0000000
+  ends: 2019-01-04T17:00:00.0000000
+  venue: The Bar Convent
 - name: 'PS1: Photoshop Essentials inc. for website editors (Thu 22 Nov 11:00-12:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -325,22 +328,6 @@
   starts: 2018-11-22T11:00:00.0000000
   ends: 2018-11-22T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: New Horizons in Materials Modelling
-  description: >-
-    This annual one-day meeting in the heart of York brings together materials modelling researchers to discuss the latest developments in theory, algorithms and applications. This meeting will consist of invited and contributed talks, and a poster session. This, the 5th meeting in this series, will have three sessions, with invited speakers who will introduce the three main topic areas chosen for this meeting:
-
-     Magnetic/electrical properties: Dr Richard Evans (University of York)
-
-    Transport properties: Dr Paul Bristowe (University of Cambridge)
-
-    Structural properties:Prof Keith Refson (Royal Holloway, University of London)
-
-    Although these topics are the main focus of the meeting, contributions from any area of atomistic simulation are welcome. At this event you will meet with leading researchers working with quantum / atomistic simulations from across the UK. Begin the New Year with a simulation! We look forward to meeting you in York next January.
-  url: https://www.eventbrite.co.uk/e/new-horizons-in-materials-modelling-tickets-52152334035?aff=ebapi
-  is-free: true
-  starts: 2019-01-04T10:00:00.0000000
-  ends: 2019-01-04T17:00:00.0000000
-  venue: The Bar Convent
 - name: Get In The Game Careers Talks; University of York
   description: >-
     The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
@@ -521,6 +508,14 @@
   starts: 2019-05-18T10:00:00.0000000
   ends: 2019-05-18T15:00:00.0000000
   venue: Sports Hall, Foss Building
+- name: Tech-meet5
+  description: This event is the rearranged meet up of local computing teachers sharing ideas through mini presentations. Presentations include Master the Mainframe, Project Quantum as well as others and networking opportunities.  
+  url: https://www.eventbrite.co.uk/e/tech-meet5-tickets-52403375908?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52515998/53683224378/1/original.jpg?h=200&w=450&auto=compress&rect=0,8,676,338&s=65b08def095b7846e9629fff338deda9
+  starts: 2018-11-27T16:15:00.0000000
+  ends: 2018-11-27T17:30:00.0000000
+  venue: National STEM Centre
 - name: 'WO2: Word Essay & dissertation (Thu 22 Nov 14:00-15:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -652,14 +647,6 @@
   starts: 2018-12-18T14:00:00.0000000
   ends: 2018-12-18T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Tech-meet5
-  description: This event is the rearranged meet up of local computing teachers sharing ideas through mini presentations. Presentations include Master the Mainframe, Project Quantum as well as others and networking opportunities.  
-  url: https://www.eventbrite.co.uk/e/tech-meet5-tickets-52403375908?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52515998/53683224378/1/original.jpg?h=200&w=450&auto=compress&rect=0,8,676,338&s=65b08def095b7846e9629fff338deda9
-  starts: 2018-11-27T16:15:00.0000000
-  ends: 2018-11-27T17:30:00.0000000
-  venue: National STEM Centre
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbqb/
