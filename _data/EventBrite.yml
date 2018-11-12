@@ -99,20 +99,6 @@
   starts: 2018-12-03T09:30:00.0000000
   ends: 2018-12-03T16:30:00.0000000
   venue: Lakehouse, The Ron Cooke Hub
-- name: York Raspberry Jam - November
-  description: >2-
-
-    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
-
-    York Raspberry Jam happens every other month. It's for beginners particularly, and also people who know a bit about Raspberry Pi computers! You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
-
-    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
-  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-november-tickets-49438151843?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48829382/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=935d6ac6b6ad5e76410ffacfcd7d410a
-  starts: 2018-11-19T17:15:00.0000000
-  ends: 2018-11-19T19:15:00.0000000
-  venue: Acomb Explore Library
 - name: Physics@Work 2018
   description: >-
     Join the University of York for a day of workshops and talks about the applications of physics in the world of work. Hear from employers about the value of studying physics at A-level and beyond and try out hands-on activities that give a taste of the many ways physics contributes to the UK economy.  
@@ -145,6 +131,20 @@
   starts: 2018-12-11T10:00:00.0000000
   ends: 2018-12-11T14:15:00.0000000
   venue: Exhibition Centre
+- name: York Raspberry Jam - November
+  description: >2-
+
+    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
+
+    York Raspberry Jam happens every other month. It's for beginners particularly, and also people who know a bit about Raspberry Pi computers! You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
+
+    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
+  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-november-tickets-49438151843?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48829382/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=935d6ac6b6ad5e76410ffacfcd7d410a
+  starts: 2018-11-19T17:15:00.0000000
+  ends: 2018-11-19T19:15:00.0000000
+  venue: Acomb Explore Library
 - name: Glyphosate, it’s use and managing public perception
   description: >-
     A half day seminar providing essential guidance for the amenity sector, with the latest information from Bayer regarding glyphosate, as well as informative sessions dealing with the application of glyphosate for hard surfaces utilising Weed-IT.  In addition there will invaluable advice with regard to handling public objections to weed control activities with concise information to take away from the event.  Findings from the most extensive trials into Japanese Knotweed and its control will also be provided along with advice as to how best manage the problem and its associated issues. 
@@ -581,6 +581,14 @@
   starts: 2018-11-22T14:00:00.0000000
   ends: 2018-11-22T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'York Science Conference Discovery Series: Blockchain - Cryptic or Clear?'
+  description: '*COMPETITION WITH A SWEET PRIZE*What exactly is "Blockchain", and why is everyone obsessed with it? Apparently it has the potential to change our financial system, and decentralise governments! Curious to find out more? Join the York Science Conference with York Blockchain Research and Development Society to clear up what Blockchain is. Then it is your turn for a special competition with an exclusive task. Be in the running to win a sweet prize!  What will you discover? '
+  url: https://www.eventbrite.com/e/york-science-conference-discovery-series-blockchain-cryptic-or-clear-tickets-52451472767?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52589174/269251122262/1/original.jpg?h=200&w=450&auto=compress&rect=0,109,1920,960&s=5a336b6d600ca8bb441accb979b1e6f8
+  starts: 2018-12-21T18:00:00.0000000
+  ends: 2018-12-21T20:00:00.0000000
+  venue: Physics Exhibition Centre
 - name: Cisco Enterprise Networking Update
   description: "\r\n\r\n\r\n\r\n\r\n\r\n\r\nDear Cisco Customer,\r\n \r\nNetworks are changing, they need to be more secure, more dynamic and more powerful therefore Cisco is evolving Enterprise Networks and introducing The Network Intuitive. \r\n The Cisco Health and Local Government team invites customers to hear Cisco’s enterprise networking proposition and how Software Defined Networking can benefit your organisation. \r\n \r\n\r\n\r\n\r\n\r\n\r\nIntroduction to Cisco’s Software Defined Access\r\n\r\nCisco Software-Defined Access (SD-Access) gives you a single network fabric, from the edge to the cloud. You can set policy-based automation for users, devices, and things. Provide access to any application, without compromising on security. All while gaining awareness of what is hitting your network. With automatic segmentation of users, devices, and applications, you can deploy and secure services faster.\r\n\r\n\r\n \r\n\r\nCatalyst 9K\r\n\r\nCisco Catalyst 9000 fixed and modular, core and access LAN switches have been designed for an entirely new era of networking.\r\n\r\n\r\n \r\n\r\nMeraki Full Stack\r\n\r\nSee a live demonstration of the Meraki Dashboard and get an update on all new things Meraki including the new Insight capability.\r\n\r\n\r\n \r\n\r\nMeraki SD-WAN\r\n\r\nLearn how easy it can be to connect up all your branch sites effectively utilising the latest in SD-WAN technology embedded in the MX Security Appliances.\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
   url: https://www.eventbrite.com/e/cisco-enterprise-networking-update-tickets-51472007159?aff=ebapi
