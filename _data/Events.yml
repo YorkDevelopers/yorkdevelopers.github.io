@@ -99,20 +99,6 @@
   starts: 2018-12-03T09:30:00.0000000
   ends: 2018-12-03T16:30:00.0000000
   venue: Lakehouse, The Ron Cooke Hub
-- name: York Raspberry Jam - November
-  description: >2-
-
-    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
-
-    York Raspberry Jam happens every other month. It's for beginners particularly, and also people who know a bit about Raspberry Pi computers! You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
-
-    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
-  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-november-tickets-49438151843?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48829382/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=935d6ac6b6ad5e76410ffacfcd7d410a
-  starts: 2018-11-19T17:15:00.0000000
-  ends: 2018-11-19T19:15:00.0000000
-  venue: Acomb Explore Library
 - name: Physics@Work 2018
   description: >-
     Join the University of York for a day of workshops and talks about the applications of physics in the world of work. Hear from employers about the value of studying physics at A-level and beyond and try out hands-on activities that give a taste of the many ways physics contributes to the UK economy.  
@@ -145,6 +131,20 @@
   starts: 2018-12-11T10:00:00.0000000
   ends: 2018-12-11T14:15:00.0000000
   venue: Exhibition Centre
+- name: York Raspberry Jam - November
+  description: >2-
+
+    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
+
+    York Raspberry Jam happens every other month. It's for beginners particularly, and also people who know a bit about Raspberry Pi computers! You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
+
+    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
+  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-november-tickets-49438151843?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48829382/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=935d6ac6b6ad5e76410ffacfcd7d410a
+  starts: 2018-11-19T17:15:00.0000000
+  ends: 2018-11-19T19:15:00.0000000
+  venue: Acomb Explore Library
 - name: Glyphosate, it’s use and managing public perception
   description: >-
     A half day seminar providing essential guidance for the amenity sector, with the latest information from Bayer regarding glyphosate, as well as informative sessions dealing with the application of glyphosate for hard surfaces utilising Weed-IT.  In addition there will invaluable advice with regard to handling public objections to weed control activities with concise information to take away from the event.  Findings from the most extensive trials into Japanese Knotweed and its control will also be provided along with advice as to how best manage the problem and its associated issues. 
@@ -581,6 +581,14 @@
   starts: 2018-11-22T14:00:00.0000000
   ends: 2018-11-22T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'York Science Conference Discovery Series: Blockchain - Cryptic or Clear?'
+  description: '*COMPETITION WITH A SWEET PRIZE*What exactly is "Blockchain", and why is everyone obsessed with it? Apparently it has the potential to change our financial system, and decentralise governments! Curious to find out more? Join the York Science Conference with York Blockchain Research and Development Society to clear up what Blockchain is. Then it is your turn for a special competition with an exclusive task. Be in the running to win a sweet prize!  What will you discover? '
+  url: https://www.eventbrite.com/e/york-science-conference-discovery-series-blockchain-cryptic-or-clear-tickets-52451472767?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52589174/269251122262/1/original.jpg?h=200&w=450&auto=compress&rect=0,109,1920,960&s=5a336b6d600ca8bb441accb979b1e6f8
+  starts: 2018-12-21T18:00:00.0000000
+  ends: 2018-12-21T20:00:00.0000000
+  venue: Physics Exhibition Centre
 - name: Cisco Enterprise Networking Update
   description: "\r\n\r\n\r\n\r\n\r\n\r\n\r\nDear Cisco Customer,\r\n \r\nNetworks are changing, they need to be more secure, more dynamic and more powerful therefore Cisco is evolving Enterprise Networks and introducing The Network Intuitive. \r\n The Cisco Health and Local Government team invites customers to hear Cisco’s enterprise networking proposition and how Software Defined Networking can benefit your organisation. \r\n \r\n\r\n\r\n\r\n\r\n\r\nIntroduction to Cisco’s Software Defined Access\r\n\r\nCisco Software-Defined Access (SD-Access) gives you a single network fabric, from the edge to the cloud. You can set policy-based automation for users, devices, and things. Provide access to any application, without compromising on security. All while gaining awareness of what is hitting your network. With automatic segmentation of users, devices, and applications, you can deploy and secure services faster.\r\n\r\n\r\n \r\n\r\nCatalyst 9K\r\n\r\nCisco Catalyst 9000 fixed and modular, core and access LAN switches have been designed for an entirely new era of networking.\r\n\r\n\r\n \r\n\r\nMeraki Full Stack\r\n\r\nSee a live demonstration of the Meraki Dashboard and get an update on all new things Meraki including the new Insight capability.\r\n\r\n\r\n \r\n\r\nMeraki SD-WAN\r\n\r\nLearn how easy it can be to connect up all your branch sites effectively utilising the latest in SD-WAN technology embedded in the MX Security Appliances.\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
   url: https://www.eventbrite.com/e/cisco-enterprise-networking-update-tickets-51472007159?aff=ebapi
@@ -770,14 +778,6 @@
   starts: 2018-11-21T08:00:00.0000000
   ends: 2018-11-21T11:00:00.0000000
   venue: La Bottega Milanese
-- name: 'Jurassic Park: What went wrong?'
-  description: "<p>Jurassic Park: What went wrong?</p> <p>\"Dinosaurs and man, two species separated by 65 million years of evolution have just been suddenly thrown back into the mix together. How can we possibly have the slightest idea what to expect?\" In this talk, 65 million years in the making, Andrew Seward (@MrAndrew) and the audience will use Root Cause Analysis to follow a logical approach to figuring out what went wrong at Jurassic Park and propose some actions that can ensure the safe deployment of dinosaur parks in the future. A lot of ideas are banded about in the 1993 film that suggest why things went awry, and idly pontificating about who should've done what and who should've listened to who is not unusual when a there’s a live issue. In this interactive workshop we'll demonstrate how following a methodical approach to understanding failure works well, we'll gain an understanding of what actually caused the issues at Jurassic Park and how we can ensure the next park succeeds. Out of all of this we will hopefully learn some valuable techniques for responding to live incidents in our own systems in the future.</p> <p>Andrew Seward (@MrAndrew)</p> <p>Software Director for York-based HR software company Mitrefinch and is the founder of Tech Nottingham &amp; Hack24.</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
-  url: https://www.meetup.com/agileYork/events/255752115/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
-  starts: 2018-11-21T18:30:00.0000000
-  ends: 2018-11-21T20:30:00.0000000
-  venue: York St.John University
 - name: Introduction to OpenAPI Spec & Lightning Talks
   description: '<p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided. We will have vegetarian food, if you have any other dietary requirements or questions please send us a message.</p> <p>_______________________________</p> <p>★ The talks</p> <p>✩ Introduction to OpenAPI Spec<br/>Lorna Mitchell - <a href="https://twitter.com/lornajane" class="linkified">https://twitter.com/lornajane</a></p> <p>Open API Specification is a machine and human readable way to describe APIs. From these specs we can generate documentation, create libraries, and ensure that our users know exactly what to expect from our APIs. This talk shows you around OAS from the beginning, showing how to create the specs and recommending some tools to help the process. Once you have the spec, things get interesting and this talk will showcase some of the things that you can offer once your API is described in this way. This session is recommended for writers looking to become more API-savvy and API engineers wanting to make their APIs more useful to their users.</p> <p>✩ Lightning Talks<br/>Hugh Noble - <a href="https://twitter.com/hughnoble" class="linkified">https://twitter.com/hughnoble</a><br/>Tom Wade - <a href="https://twitter.com/TomWade" class="linkified">https://twitter.com/TomWade</a></p> <p>Talks TBA<br/>_______________________________</p> <p>★ Timings</p> <p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – Lightning Talk 1 - Tom Wade<br/>19:15 – Lightning Talk 2 - Hugh Noble<br/>19:30 – A little break<br/>19:35 – Introduction to OpenAPI Spec - Lorna Mitchell<br/>20:10ish – Pop over to the pub for a chat and a drink</p> <p>_______________________________</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform (<a href="https://bruntwood.co.uk/our-locations/leeds/platform/" class="linkified">https://bruntwood.co.uk/our-locations/leeds/platform/</a>) – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Infinity Works (<a href="https://www.infinityworks.com/" class="linkified">https://www.infinityworks.com/</a>) - Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href="https://twitter.com/InfinityWorks" class="linkified">https://twitter.com/InfinityWorks</a>)</p> <p>• Searchability (<a href="https://searchability.co.uk/" class="linkified">https://searchability.co.uk/</a>) - Searchability are a recruitment marketing company that help companies secure hard to find candidates either indirectly or directly via our award winning JobHoller platform. There are few sectors more challenged by skill-shortage than digital tech, we specialise in sourcing unique opportunities &amp; engaging relevant candidate audiences across the IT &amp; eCommerce sectors by fusing traditional methods with a twist of social magic, with particular focus &amp; expertise within Software Development in Yorkshire, where it all started for us in 2012. @SearchabilityUK (<a href="https://twitter.com/SearchabilityUK" class="linkified">https://twitter.com/SearchabilityUK</a>)</p> '
   url: https://www.meetup.com/leedsphp/events/255888045/
@@ -786,6 +786,14 @@
   starts: 2018-11-21T18:30:00.0000000
   ends: 2018-11-21T20:30:00.0000000
   venue: Platform
+- name: Diversity, Chocolate and Safe Cracking
+  description: "<p>Greetings agileYorkers! This being our last event before Christmas will have a festive twist and I can guarantee there will be chocolate.</p> <p>Diversity, Chocolate and Safe Cracking</p> <p>Diversity. It's the topic of the hour. Organizations are all putting “diversity” and “equal opportunities” on every job ad. But, for some organizations it still seems to be a struggle. What's the goal? Do we want diverse teams because it's the \"right thing to do,\" or is it \"good for our teams and organizations?” Are we hiring minorities to keep up with quotas or our competition? This talk will engage the audience in a frank discussion on what diversity is, why we need it and how we might achieve it.</p> <p>About John Le Drew (@antz29)</p> <p>Starting my career in systems administration, I first dipped into software engineering writing automation and data migration tools mostly using Perl and VBScript on Windows. This sparked my interest and led to 10 years as a software engineer, working in a wide range of environments and languages including C, C++, PHP, Python, Ruby, C#, VB, Java, JavaScript and probably more that I have forgotten!</p> <p>After a decade as a software engineer, I then spent most of the last 10 years as an independent consultant. Working with companies to help them get the most out of their technology teams. I soon recognised that the technological problems I was hired to solve, were rooted not in technology, but in the way teams were collaborating. This led me to research lean and agile ways of working, transforming my practice.</p> <p>** Special thanks to our host York St John business school (@YSJBusiness) for their generosity and support **</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
+  url: https://www.meetup.com/agileYork/events/256329101/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2018-11-21T18:30:00.0000000
+  ends: 2018-11-21T20:30:00.0000000
+  venue: York St.John University
 - name: York Hackspace Open Evening
   description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
   url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxpbcc/
