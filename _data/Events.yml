@@ -18,13 +18,6 @@
   starts: 2018-12-04T09:30:00.0000000
   ends: 2018-12-04T16:00:00.0000000
   venue: York Plasma Institute
-- name: York Technology Conference
-  description: "The York Technology Conference is a non-profit one-day event run by students, providing the opportunity for students to network with other students, who share an interest in technology, and with industry leaders. \nThis event will enable students from York and other universities to explore emerging technological trends through speakers, panel debates, workshops and networking opportunities."
-  url: https://www.eventbrite.co.uk/e/york-technology-conference-tickets-51011295157?aff=ebapi
-  logo: https://cdn.evbuc.com/images/50797944/275322375612/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,864,432&s=6ba2006f92dd07e87471a2627d5c742f
-  starts: 2019-01-30T09:00:00.0000000
-  ends: 2019-01-30T17:30:00.0000000
-  venue: The Ron Cooke Hub
 - name: TEDxYork
   description: >-
     During our TEDxYork event we will explore how memories are anchored, how we both engage with and protect ourselves from the world around us, and how technology can affect and reflect different kinds of truth.
@@ -39,6 +32,21 @@
   starts: 2018-11-16T09:30:00.0000000
   ends: 2018-11-16T15:30:00.0000000
   venue: Everyman Cinema York
+- name: York Technology Conference
+  description: "The York Technology Conference is a non-profit one-day event run by students, providing the opportunity for students to network with other students, who share an interest in technology, and with industry leaders. \nThis event will enable students from York and other universities to explore emerging technological trends through speakers, panel debates, workshops and networking opportunities."
+  url: https://www.eventbrite.co.uk/e/york-technology-conference-tickets-51011295157?aff=ebapi
+  logo: https://cdn.evbuc.com/images/50797944/275322375612/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,864,432&s=6ba2006f92dd07e87471a2627d5c742f
+  starts: 2019-01-30T09:00:00.0000000
+  ends: 2019-01-30T17:30:00.0000000
+  venue: The Ron Cooke Hub
+- name: Digital / tech supplier event for STEP - a £2.85m project in York
+  description: "If you supply high quality IT infrastructure, transport technology, data collection/processing or have an expertise in data visualisation and presentation, come to this event to learn how you can become a supplier to STEP - our £2.85m government-funded project to transform the way we manage traffic. \nJoin us for breakfast  (9.30) or lunch (12:30) (let us know of any dietary requirements), then:\n1)   a 15-minute walk through the project and the products and services we’re commissioning \n2)   a speed learn event giving you the opportunity to meet the project team on a 1-2-1 basis to explore other pontetial products and possibilities for the project\n3)   the chance to meet other companies along the whole supply chain within the sector\nWhy work with City of York Council?\nYork is the UK’s first gigabit city, and STEP will make York the first small city to combine data, technology and connected people and vehicles to deliver our policy aims.\nThis DfT funded project will change the way York and potentilly all historic cities manage traffic, relieving congestion and reducing emissions in York and potentially across the globe. To learn more, visit https://www.york.gov.uk/smart"
+  url: https://www.eventbrite.co.uk/e/digital-tech-supplier-event-for-step-a-285m-project-in-york-tickets-51580818617?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/51547747/133201531214/1/original.jpg?h=200&w=450&auto=compress&rect=0,39,796,398&s=270d263094227d1e4fe194de8db762a5
+  starts: 2018-11-23T09:30:00.0000000
+  ends: 2018-11-23T12:00:00.0000000
+  venue: National Railway Museum (Main Entrance)
 - name: Systems Change Thinking - Closing the Loop
   description: "Systems Change Thinking - Creating Value and Closing the Loop from Unavoidable Food Supply Chain Wastes\nWe are delighted to announce an opportunity to attend a free, one-day event on understanding the chemical and environmental benefits of utilising unavoidable food supply chain wastes (UFSCW). Current strategies for dealing with UFSCW are rudimentary and of low value: these include waste to energy (including incineration and anaerobic digestion), animal feed and bedding; composting; ploughing back in to soil; and, least preferably, landfill. \nIn response, this event explores UFSCW as a unique bioresource: a treasure trove of unexploited, bio-based materials and chemicals, with a range of potential commercial applications underpinned by holistic life-cycle thinking.\nThe event will be of particular interest to companies of all sizes wishing to valorise food waste streams as well as academics and policy makers. Particular benefits to attendees include:\n\n\nAn introduction to the new Sustainable Waste Valorisation Identifier (SWaVI)  tool which enables companies to identify and compare different potential valorisation strategies based on economic viability as well as sustainability and technological readiness.\n\n\nA chance to listen to key industrialists, academics and consultants discuss valorisation from not only a company, but also a more holistic supply chain perspective.\n\n\nThe opportunity to hear from leading academic and industrial speakers about the latest, novel, technical approaches to food waste valorisation.\n\n\nThe ability to interact and connect with researchers, industrialists and policy makers interested in collaborative UK and global projects.\n\n\nPoster abstract submission deadline\nThe deadline for poster abstract submission is extended to Monday 12th November.\n\n\nDownload the abstract template form\n\n\nSubmit your completed abstract form to sophie.palmer@york.ac.uk as a word document or share as a Google Doc\n\n\nContributed poster presentations A0 format \n\n\nRegistration \nRegister your place for free by 16th November 2018.\nProgramme\nSession One: Holistic Systems Change (Chair: Professor Shahin Rahimifard, Loughborough University)\nSession Two: Change, Technology and Methodologies (Chair: Professor Timothy Foster, University of Nottingham)\nSession Three: Influencing Systems Change (Chair: Dr Avtar Matharu, University of York)\nLunch and refreshments provided.\nInvited Speakers\nHugh Powell Product Technology Centre, Nestlé\nZainudin Umar Global Food Structure & Ingredient Science, PepsiCo International\nGeoff Archer THYME Project, Teesside University\nSotirios Sourmelis, NNFCC The Bioeconomy Consultants\nNina Sweet OBE\nSponsorship\nIf you would like to sponsor or exhibit at the event, please contact sophie.palmer@york.ac.uk for more details.\nWe gratefully acknowledge funding from the Engineering and Physical Sciences Research Council (Re-SAUCE project EP/P008771/1) which has contributed to the organisation of this free event."
   url: https://www.eventbrite.co.uk/e/systems-change-thinking-closing-the-loop-tickets-50214579158?aff=ebapi
@@ -178,6 +186,14 @@
   starts: 2019-01-04T10:00:00.0000000
   ends: 2019-01-04T17:00:00.0000000
   venue: The Bar Convent
+- name: 'York Science Conference Discovery Series: Blockchain - Cryptic or Clear?'
+  description: '*COMPETITION WITH A SWEET PRIZE*What exactly is "Blockchain", and why is everyone obsessed with it? Apparently it has the potential to change our financial system, and decentralise governments! Curious to find out more? Join the York Science Conference with York Blockchain Research and Development Society to clear up what Blockchain is. Then it is your turn for a special competition with an exclusive task. Be in the running to win a sweet prize!  What will you discover? '
+  url: https://www.eventbrite.com/e/york-science-conference-discovery-series-blockchain-cryptic-or-clear-tickets-52451472767?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52589174/269251122262/1/original.jpg?h=200&w=450&auto=compress&rect=0,109,1920,960&s=5a336b6d600ca8bb441accb979b1e6f8
+  starts: 2018-11-21T18:00:00.0000000
+  ends: 2018-11-21T20:00:00.0000000
+  venue: Physics Exhibition Centre
 - name: Women in Tech York End of Year Party!
   description: "Welcome to Women in Tech York’s end of year party!\nWho are we?\nWe are a community of like-minded people, studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.\nCome and join us for an evening of fun to celebrate our first year! \nWomen in Tech York started 6 months ago, and we can’t believe how much we’ve grown! We wanted to use the end of the year to throw an event that thanks our attendees for their continued support - this month we’ll be partying at Spark York, where we’ll have drinks, music and free food thanks to our Sponsors Isotoma and Mitrefinch.\nDress code: Festive! Whether you’re rocking the sparkliest of dresses, or you’re happier in jeans and a jumper, you’ll be welcome! \n Event Timings\n18:00: Registration Opens\n18:30: Thank you\n18:45: Party! \n21:00: Event close\n ________________________________________ Nervous about attending?\n A WiT York ambassador will be outside the Spark event space to greet you on the night, direct you to the event space and answer any questions you may have.\n You can also join our online community beforehand or contact us directly via Twitter or email WomenInTechYork@gmail.com. • Slack: https://wit-york.slack.com • LinkedIn: Women in Tech York • Twitter: @WiT_York\n Code of Conduct\n The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack."
   url: https://www.eventbrite.co.uk/e/women-in-tech-york-end-of-year-party-tickets-52402869393?aff=ebapi
@@ -186,6 +202,14 @@
   starts: 2018-12-13T18:00:00.0000000
   ends: 2018-12-13T21:00:00.0000000
   venue: Spark York CIC
+- name: 'Code Club Meetup: York'
+  description: "Code Club meetups are a place where teachers, veteran volunteers, and newcomers alike can meet in a fun, friendly and informal environment to talk about Code Club.\n\nBrand new to Code Club? Come along and find out more about what we do. Anna, our Regional Coordinator for the North East & Yorkshire, will be there to answer any questions you have about getting started. \n\nAlready involved with Code Club? This is a chance to meet other people involved in the community. Let’s swap stories and help each other!\n\nThere will be refreshments and snacks too!\nIf you have any questions before the event, please get in touch by email to yhne@codeclub.org.uk or by contacting @codeclubyandh on Twitter.\n \nThank you to Anaplan, York, for providing us with a wonderful venue. \n \nWe look forward to seeing you at the event!\n\n\n--------\n\nWould you like to share a story from your Code Club, or showcase a digital making project you are working on? I’m looking for a few volunteers who’d like to do a five-minute presentation. Please get in touch at yhne@codeclub.org.uk if you’re keen to get involved.\n\n\n---------\n\nFor further info on accessibility, location, and parking at the venue, check here\n\n\n \n\n\n \n\n"
+  url: https://www.eventbrite.co.uk/e/code-club-meetup-york-tickets-52082854219?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52129239/176518582794/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=a74808dee5d8ed6eaf2343ec07ff866d
+  starts: 2018-11-28T17:00:00.0000000
+  ends: 2018-11-28T19:00:00.0000000
+  venue: Anaplan
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -216,14 +240,6 @@
   starts: 2018-12-10T17:15:00.0000000
   ends: 2018-12-10T19:15:00.0000000
   venue: Acomb Explore Library
-- name: 'Code Club Meetup: York'
-  description: "Code Club meetups are a place where teachers, veteran volunteers, and newcomers alike can meet in a fun, friendly and informal environment to talk about Code Club.\n\nBrand new to Code Club? Come along and find out more about what we do. Anna, our Regional Coordinator for the North East & Yorkshire, will be there to answer any questions you have about getting started. \n\nAlready involved with Code Club? This is a chance to meet other people involved in the community. Let’s swap stories and help each other!\n\nThere will be refreshments and snacks too!\nIf you have any questions before the event, please get in touch by email to yhne@codeclub.org.uk or by contacting @codeclubyandh on Twitter.\n \nThank you to Anaplan, York, for providing us with a wonderful venue. \n \nWe look forward to seeing you at the event!\n\n\n--------\n\nWould you like to share a story from your Code Club, or showcase a digital making project you are working on? I’m looking for a few volunteers who’d like to do a five-minute presentation. Please get in touch at yhne@codeclub.org.uk if you’re keen to get involved.\n\n\n---------\n\nFor further info on accessibility, location, and parking at the venue, check here\n\n\n \n\n\n \n\n"
-  url: https://www.eventbrite.co.uk/e/code-club-meetup-york-tickets-52082854219?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52129239/176518582794/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=a74808dee5d8ed6eaf2343ec07ff866d
-  starts: 2018-11-28T17:00:00.0000000
-  ends: 2018-11-28T19:00:00.0000000
-  venue: Anaplan
 - name: 'WE1: Website CMS Basic training (Wed 21 Nov 14:00-16:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -320,14 +336,6 @@
   starts: 2018-11-22T11:00:00.0000000
   ends: 2018-11-22T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'York Science Conference Discovery Series: Blockchain - Cryptic or Clear?'
-  description: '*COMPETITION WITH A SWEET PRIZE*What exactly is "Blockchain", and why is everyone obsessed with it? Apparently it has the potential to change our financial system, and decentralise governments! Curious to find out more? Join the York Science Conference with York Blockchain Research and Development Society to clear up what Blockchain is. Then it is your turn for a special competition with an exclusive task. Be in the running to win a sweet prize!  What will you discover? '
-  url: https://www.eventbrite.com/e/york-science-conference-discovery-series-blockchain-cryptic-or-clear-tickets-52451472767?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52589174/269251122262/1/original.jpg?h=200&w=450&auto=compress&rect=0,109,1920,960&s=5a336b6d600ca8bb441accb979b1e6f8
-  starts: 2018-11-21T18:00:00.0000000
-  ends: 2018-11-21T20:00:00.0000000
-  venue: Physics Exhibition Centre
 - name: Get In The Game Careers Talks; University of York
   description: >-
     The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
@@ -371,71 +379,6 @@
   starts: 2018-11-21T14:00:00.0000000
   ends: 2018-11-21T18:00:00.0000000
   venue: Piazza Building
-- name: 'WO2: Word Essay & dissertation (Tue 13 Nov 15:00-16:00)'
-  description: >-
-    These courses are for students and staff at York St John University. Also available to Alumni.
-
-
-    WO2: Essay & dissertation skills
-
-    Prior knowledge: Basic Word skills equivalent to Word1
-
-    Open Badge Available - Word: Essay and Dissertation Skills
-
-    This course focuses on writing academic essays in Word. Making the most of Word features to control page breaks, numbering and automatic table of contents.
-
-    This course includes:
-
-
-    Applying and amending heading styles 
-
-    Automatic table of contents 
-
-    Showing hidden formatting marks 
-
-    Making sections start on a new page 
-
-    Adding headers and footers 
-
-    Using section breaks to change page number styles 
-
-    Using languages, spelling and grammar check 
-
-    Checking word count 
-
-    Using the navigation pane 
-
-    Search and replace 
-
-    Controlling line spacing 
-
-    Adding captions
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/wo2-word-essay-dissertation-tue-13-nov-1500-1600-tickets-50494279750?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/50116155/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=9c8fed657af68afbb8424cb5cec19477
-  starts: 2018-11-13T15:00:00.0000000
-  ends: 2018-11-13T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: The VIVIT Experience | Enhanced Undergraduate Post Mortem | York 18/05/19
   description: >-
     The VIVIT Experience is a nationally award winning academic experience offering you the chance to participate in a recreated post mortem experience conducted on VIVIT -the worlds only semi-synthetic human cadaver. During this special 5 hour experience you will be taken on a scientifically accurate recreated human body dissection learning in-depth anatomy and physiology relevant to your academic studies. The course is interactive and designed to support those students currently at York St John University and the surrounding areas studying in the biosciences, health, sports or associated degree pathways that require an understanding of advanced anatomy and physiology or indeed the associated clinical pathologies. The procedure will be lead by Samuel Piri & team who will first set out the basics of anatomical dissection before systematically working their way through the anatomical cavities comparing normal specimens with various states of pathology. You will also be taught a variety of important clinical skills including interpreting X-rays and linking symptoms to clinical diagnosis. There will be the opportunity to ask questions and at the same time handle the anatomical samples and even the chance to undertake some dissection for yourself.
@@ -521,6 +464,53 @@
   starts: 2018-11-22T14:00:00.0000000
   ends: 2018-11-22T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Vital Education Technology Conference 2019 - Vital etc
+  description: >-
+    Vital York Limited brings you their annual Education Technology Conference on Wednesday 27 March 2019. 
+
+    Showcasing just some of the plethora of opportunities available in education technology, we'll focus in on how you can achieve the very best in your teaching and learning through the use of technology. 
+
+    For us, it's not enough to have the newest Chromebook, the slickest iPad or the coolest mobile, it's about working with you to show you new and inventive ways to get the best results from using technology in the classroom. Together with our partners, we will show you how education technology can be implemented and how together, we can transform your school’s technology journey.
+
+    What is the programme for the day?
+
+    For those who have attended the conference in previous years, this year's event promises something new! 
+
+    We are delighted to announce that we have the fantastic ICT Evangelist, Mr Mark Anderson as our Keynote Speaker and not only that! Mark will be our MC for the day, taking you through a fast-paced programme of information bursts, presentations, demos and quick edtech wins.
+
+    Other confirmed speakers include: Joe Dale, Fiona Price and Mark Lloyd. 
+
+    The complete programme will be released after Christmas.
+
+    Who is the event for?
+
+    The event is for headteachers, teachers, teaching assistants, school business managers, school IT managers and colleagues from multi-academy trusts. You don't have to be a current client to come along - we'd love to see you there.
+
+    Is the event free?
+
+    Yes! 
+
+    Where will the event be held?
+
+    The event will be held in the Dante & Nunthorpe Suite at York Racecourse. Full details of how to get there will be sent to you before the event. Refreshments will be served throughout the day. 
+
+    Can I park onsite?
+
+    Yes, parking spaces will be available on the day.
+
+    Bookings
+
+    Don't miss out! Book your place today by simply clicking on register and entering your details.
+
+    Further information
+
+    If you would like any further information, please don't hesitate to contact us either by phone on T: 0344 873 6100 or by email E: j.taylor@vitalyork.com
+  url: https://www.eventbrite.co.uk/e/vital-education-technology-conference-2019-vital-etc-tickets-50914619999?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52521540/190381436210/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=53c62428b6ca5138330df04343796712
+  starts: 2019-03-27T09:00:00.0000000
+  ends: 2019-03-27T14:30:00.0000000
+  venue: Dante & Nunthorpe Suite
 - name: Cisco Enterprise Networking Update
   description: "\r\n\r\n\r\n\r\n\r\n\r\n\r\nDear Cisco Customer,\r\n \r\nNetworks are changing, they need to be more secure, more dynamic and more powerful therefore Cisco is evolving Enterprise Networks and introducing The Network Intuitive. \r\n The Cisco Health and Local Government team invites customers to hear Cisco’s enterprise networking proposition and how Software Defined Networking can benefit your organisation. \r\n \r\n\r\n\r\n\r\n\r\n\r\nIntroduction to Cisco’s Software Defined Access\r\n\r\nCisco Software-Defined Access (SD-Access) gives you a single network fabric, from the edge to the cloud. You can set policy-based automation for users, devices, and things. Provide access to any application, without compromising on security. All while gaining awareness of what is hitting your network. With automatic segmentation of users, devices, and applications, you can deploy and secure services faster.\r\n\r\n\r\n \r\n\r\nCatalyst 9K\r\n\r\nCisco Catalyst 9000 fixed and modular, core and access LAN switches have been designed for an entirely new era of networking.\r\n\r\n\r\n \r\n\r\nMeraki Full Stack\r\n\r\nSee a live demonstration of the Meraki Dashboard and get an update on all new things Meraki including the new Insight capability.\r\n\r\n\r\n \r\n\r\nMeraki SD-WAN\r\n\r\nLearn how easy it can be to connect up all your branch sites effectively utilising the latest in SD-WAN technology embedded in the MX Security Appliances.\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
   url: https://www.eventbrite.com/e/cisco-enterprise-networking-update-tickets-51472007159?aff=ebapi
@@ -587,22 +577,6 @@
   starts: 2018-12-18T14:00:00.0000000
   ends: 2018-12-18T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: YorkTechFest - A celebration of the York Volunteer Tech Community
-  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Please note: This is a ticketed event and this event is NOW SOLD OUT!!</p> <p>Find out more about the speakers and learn more visit: <a href="https://www.yorkdevelopers.org/yorktechfest" class="linkified">https://www.yorkdevelopers.org/yorktechfest</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyxpbrb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-11-13T18:00:00.0000000
-  ends: 2018-11-13T21:00:00.0000000
-  venue: City of York Council
-  endorsed: true
-- name: 'HaintonDotNet Leeds: Introduction to Azure Service Fabric'
-  description: '<p>Introduction to Azure Service Fabric</p> <p>Azure Service Fabric is the Microsoft microservices framework and this talk explains how to build applications that can be deployed in Azure or on your own infrastructure.</p> <p>Service fabric lets you deploy your own existing services or build them using the service fabric framework to take advantage of the built-in microservices features that service fabric provides.</p> '
-  url: https://www.meetup.com/HaintonDotNetYorkshire/events/253298151/
-  is-free: true
-  starts: 2018-11-13T18:00:00.0000000
-  ends: 2018-11-13T20:00:00.0000000
-  venue: Duke Studios
 - name: York Code Dojo Nov Meetup - Sudoku
   description: '<p>This month we will have a go at writing a program to solve Sudoku puzzles. The session will be suitable for people of any ability. If possible please bring a laptop with your programming languages of choice already installed. Please note this is going to be held the day after our YorkTechFest event, I hope to see many of you there! <a href="https://yorktechfest.github.io" class="linkified">https://yorktechfest.github.io</a> NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/256185411/
@@ -668,6 +642,13 @@
   ends: 2018-11-19T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: 'Tech Contractor Networking: Leeds'
+  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
+  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyxpbbc/
+  is-free: true
+  starts: 2018-11-20T12:15:00.0000000
+  ends: 2018-11-20T12:45:00.0000000
+  venue: Banyan Bar Leeds
 - name: YorkTechFest - A celebration of the York Volunteer Tech Community
   description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
   url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyxpbbc/
@@ -1665,5 +1646,14 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-10-22T17:00:00.0000000
   ends: 2019-10-22T20:00:00.0000000
+  venue: City of York Council
+  endorsed: true
+- name: YorkTechFest - A celebration of the York Volunteer Tech Community
+  description: '<p>YorkTechFest 2018 is a community event in the City of York in celebration of and through collaboration of the volunteer tech community. In true spirit of the volunteer tech scene, we bring together communities on 1 evening showcasing a programme of speakers and interactive workshops.</p> <p>Aimed at members of existing communities and also to those who would like to have a taster of what we do - come along and dip in to sessions from up to 2 tech communities on the evening.</p> <p>To be delivered in multiple tracks on several stages in a festival format - we represent volunteer technical communities in York.</p> <p>Tickets will be available soon!</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/wqmgkqyznbmc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-10-29T18:00:00.0000000
+  ends: 2019-10-29T21:00:00.0000000
   venue: City of York Council
   endorsed: true
