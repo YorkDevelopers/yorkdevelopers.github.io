@@ -1,19 +1,3 @@
-- name: ACCU York meetup
-  description: '<p>Our first ACCU York meetup.</p> <p>Talk #1 from Andy Callaghan<br/>Making a website more performant: Part I - Front end performance</p> <p>An broad overview on how to measure performance, finding the potential fixes to the problems, and how to plan your work to actually fixing them. This first part will address the front-end aspects to performance, and how to make a plan of work. Whereas the second will look at perceived performance, and server-side performance.</p> <p>Talk #2 from Gareth Lloyd<br/>Thinking about native code</p> <p>A look at the realities of your machine and what it can mean for performance.</p> <p>Many thanks to York Science Park (YSP) for providing us a place to meet.</p> '
-  url: https://www.meetup.com/ACCU-York/events/255534667/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/3/6/f/thumb_475438223.jpeg
-  starts: 2018-11-15T18:30:00.0000000
-  ends: 2018-11-15T19:30:00.0000000
-  venue: The Catalyst
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxpbtb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-11-15T19:00:00.0000000
-  ends: 2018-11-15T22:00:00.0000000
-  endorsed: true
 - name: Leeds Blockchain Hackathon
   description: "<p>Please sign up on our EventBrite page</p> <p><a href=\"https://www.eventbrite.co.uk/e/leeds-blockchain-hackathon-2018-tickets-48790473620\" class=\"linkified\">https://www.eventbrite.co.uk/e/leeds-blockchain-hackathon-2018-tickets-48790473620</a></p> <p>Innovative and bold, Blockchain challenges the way we look at technology today, from the way we view cybersecurity to the way new governmental elections are held.</p> <p>And guess what.</p> <p>The first Leeds blockchain hackathon is here, and you’re invited.</p> <p>It's the ultimate event for learning, hacking and networking for teams of budding coders, developers, tech enthusiasts and people from all areas of the vibrant tech community in Leeds. The grand prize will be awarded for the most ambitious, impressive or fully realized prototype and we’ll have experienced judges and mentors to encourage and support all participants.</p> <p>If you're a newbie, don't panic! There will be technical experts on hand to help you build your project.</p> <p>So, what is a hackathon, and why blockchain?</p> <p>Hackathons are premier start-up incubators where disruptive, breakthrough ideas come to life in a myriad of ways. These are engaging events where teams of developers collaborate, sharpen their skills and bring their ideas to life.</p> <p>We’ll be aiming to tackle real world problems as provided by Leeds City council, and the ideal solutions may even become a fundable business venture. Blockchain's practical uses are seemingly endless, and as a tech still in infancy, it's already bringing technological innovation, shaping new economies and inspiring ideas.</p> <p>SCHEDULE</p> <p>Friday 16th November 18:00 pm - Welcome Meetup</p> <p>Saturday, 17th November 08:00 am - Day 1</p> <p>Sunday, 18th November 08:00 am to 15:00 pm - Day 2</p> <p>DETAILS</p> <p>We are looking to form teams from 3-6 people. You can either register as a team or we will help form teams for you at the meetup event on the Friday. Lunch and drinks will be provided to all participants, and there will be plenty of swag too.</p> <p>Judges and mentors will be present from different fields (FinTech, Leeds Council, Law) for networking opportunities.</p> <p>FAQs</p> <p>What can I bring into the event?</p> <p>Please bring your laptop.</p> <p>How can I contact the organiser with any questions?</p> <p>Please join our slack channel here - <a href=\"https://leedscrypto.slack.com\" class=\"linkified\">https://leedscrypto.slack.com</a></p> "
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/255161672/
@@ -21,6 +5,13 @@
   starts: 2018-11-17T08:00:00.0000000
   ends: 2018-11-18T15:00:00.0000000
   venue: LexisNexis
+- name: York Hackspace Open Saturday
+  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building on selected Saturdays!</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/256432942/
+  is-free: true
+  starts: 2018-11-17T10:00:00.0000000
+  ends: 2018-11-17T16:00:00.0000000
+  venue: York Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbzb/
@@ -118,14 +109,6 @@
   starts: 2018-11-28T18:45:00.0000000
   ends: 2018-11-28T21:00:00.0000000
   venue: Platform
-- name: SEO York - Networking
-  description: "<p>We are planning to host the event on the last Wednesday of each month. SEO York meetup is for general networking with like-minded people and to welcome people who are new to (or interested in) SEO and online marketing. Food and Drink will be provided in the form of hot and cold drinks (including beer) and buffet style food (sandwiches, etc...). You're welcome to arrive at any time after 6:00pm. We are open to suggestions regarding the schedule for future events and would like to hear from the group as to what they would like to see? A projector is available if you would like to do a presentation, please let me know before hand via meetup message. Also any allergies or special food requests, please let me know via meetup message. Thanks and it will be great to see you all there :)</p> "
-  url: https://www.meetup.com/SEO-York/events/gttgxpyxpblc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/c/0/f/5/thumb_471349397.jpeg
-  starts: 2018-11-28T19:00:00.0000000
-  ends: 2018-11-28T21:00:00.0000000
-  venue: York Priory Street Centre
 - name: York Hackspace Open Evening
   description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
   url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxpblc/
@@ -133,6 +116,21 @@
   starts: 2018-11-28T19:00:00.0000000
   ends: 2018-11-28T21:00:00.0000000
   venue: York Hackspace
+- name: Christmas Panel Show 2018
+  description: '<p>Our annual Christmas panel show with lots of mince pies or festive drinks, our popular Leeds Sharp quiz, plenty of goodies to win (2018 design Leeds Sharp t-shirts, LS# mugs, and lots more), and an interview with Adam Pridmore from Covéa Insurance chatting about coding practices in the finance sector (+ rants). Join us.</p> '
+  url: https://www.meetup.com/Leeds-Sharp/events/255794475/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2018-11-29T19:00:00.0000000
+  ends: 2018-11-29T21:00:00.0000000
+  venue: Platform
+- name: Leeds Ruby Thing meetup
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are sometimes one or two short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  url: https://www.meetup.com/LeedsRubyThing/events/qfxdtpyxpbmc/
+  is-free: true
+  starts: 2018-11-29T19:30:00.0000000
+  ends: 2018-11-29T23:30:00.0000000
+  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbfb/
