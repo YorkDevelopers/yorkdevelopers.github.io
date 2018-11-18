@@ -174,20 +174,6 @@
   starts: 2018-12-13T18:00:00.0000000
   ends: 2018-12-13T21:00:00.0000000
   venue: Spark York CIC
-- name: York Raspberry Jam - November
-  description: >2-
-
-    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
-
-    York Raspberry Jam happens every other month. It's for beginners particularly, and also people who know a bit about Raspberry Pi computers! You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
-
-    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
-  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-november-tickets-49438151843?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48829382/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=935d6ac6b6ad5e76410ffacfcd7d410a
-  starts: 2018-11-19T17:15:00.0000000
-  ends: 2018-11-19T19:15:00.0000000
-  venue: Acomb Explore Library
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -202,6 +188,20 @@
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
   starts: 2018-11-29T18:30:00.0000000
   ends: 2018-11-29T19:30:00.0000000
+- name: York Raspberry Jam - November
+  description: >2-
+
+    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
+
+    York Raspberry Jam happens every other month. It's for beginners particularly, and also people who know a bit about Raspberry Pi computers! You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
+
+    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
+  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-november-tickets-49438151843?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48829382/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=935d6ac6b6ad5e76410ffacfcd7d410a
+  starts: 2018-11-19T17:15:00.0000000
+  ends: 2018-11-19T19:15:00.0000000
+  venue: Acomb Explore Library
 - name: 'Code Club Meetup: York'
   description: "Code Club meetups are a place where teachers, veteran volunteers, and newcomers alike can meet in a fun, friendly and informal environment to talk about Code Club.\n\nBrand new to Code Club? Come along and find out more about what we do. Anna, our Regional Coordinator for the North East & Yorkshire, will be there to answer any questions you have about getting started. \n\nAlready involved with Code Club? This is a chance to meet other people involved in the community. Let’s swap stories and help each other!\n\nThere will be refreshments and snacks too!\nIf you have any questions before the event, please get in touch by email to yhne@codeclub.org.uk or by contacting @codeclubyandh on Twitter.\n \nThank you to Anaplan, York, for providing us with a wonderful venue. \n \nWe look forward to seeing you at the event!\n\n\n--------\n\nWould you like to share a story from your Code Club, or showcase a digital making project you are working on? I’m looking for a few volunteers who’d like to do a five-minute presentation. Please get in touch at yhne@codeclub.org.uk if you’re keen to get involved.\n\n\n---------\n\nFor further info on accessibility, location, and parking at the venue, check here\n\n\n \n\n\n \n\n"
   url: https://www.eventbrite.co.uk/e/code-club-meetup-york-tickets-52082854219?aff=ebapi
