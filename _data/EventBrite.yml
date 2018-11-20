@@ -1,23 +1,3 @@
-- name: Research Funders and Fellowships Day at York
-  description: >-
-    Do you want to further your research career in the physical sciences or engineering? Do you have great research ideas but are not sure how to make them happen? Are you looking for funding but need a starting point?
-
-    The Research Funders and Fellowships Day at York takes place on Tuesday 4th December, and could help you find the right funding scheme to support your work and help you on your way to your next steps. The day is divided into two sessions (morning and afternoon) and will cover specific funder schemes, what help you can expect from the university and what Fellowship programmes there are out there, with talks by research funders and previously successful applicants.
-
-    Morning Session: will include presentations from the Royal Society and Royal Academy of Engineering covering their funding schemes, and a question and answer session with the funders.
-
-    Lunch will be provided - ensure you register for lunch and indicate whether you have dietary requirements.
-
-    Afternoon Session: focuses on Fellowships, with a general overview of different schemes available, funder specific information and talks from previously successful applicants. A panel question and answer session is also scheduled to take place.
-
-
-    Please note:  There are 50 tickets available for each session.
-  url: https://www.eventbrite.co.uk/e/research-funders-and-fellowships-day-at-york-tickets-51957372901?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/51956672/177310868240/1/original.jpg?h=200&w=450&auto=compress&rect=0,104,1148,574&s=29d9479365b294d54b7a405486995dc8
-  starts: 2018-12-04T09:30:00.0000000
-  ends: 2018-12-04T16:00:00.0000000
-  venue: York Plasma Institute
 - name: Physics@Work 2018
   description: >-
     Join the University of York for a day of workshops and talks about the applications of physics in the world of work. Hear from employers about the value of studying physics at A-level and beyond and try out hands-on activities that give a taste of the many ways physics contributes to the UK economy.  
@@ -50,6 +30,26 @@
   starts: 2018-12-11T10:00:00.0000000
   ends: 2018-12-11T14:15:00.0000000
   venue: Exhibition Centre
+- name: Research Funders and Fellowships Day at York
+  description: >-
+    Do you want to further your research career in the physical sciences or engineering? Do you have great research ideas but are not sure how to make them happen? Are you looking for funding but need a starting point?
+
+    The Research Funders and Fellowships Day at York takes place on Tuesday 4th December, and could help you find the right funding scheme to support your work and help you on your way to your next steps. The day is divided into two sessions (morning and afternoon) and will cover specific funder schemes, what help you can expect from the university and what Fellowship programmes there are out there, with talks by research funders and previously successful applicants.
+
+    Morning Session: will include presentations from the Royal Society and Royal Academy of Engineering covering their funding schemes, and a question and answer session with the funders.
+
+    Lunch will be provided - ensure you register for lunch and indicate whether you have dietary requirements.
+
+    Afternoon Session: focuses on Fellowships, with a general overview of different schemes available, funder specific information and talks from previously successful applicants. A panel question and answer session is also scheduled to take place.
+
+
+    Please note:  There are 50 tickets available for each session.
+  url: https://www.eventbrite.co.uk/e/research-funders-and-fellowships-day-at-york-tickets-51957372901?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/51956672/177310868240/1/original.jpg?h=200&w=450&auto=compress&rect=0,104,1148,574&s=29d9479365b294d54b7a405486995dc8
+  starts: 2018-12-04T09:30:00.0000000
+  ends: 2018-12-04T16:00:00.0000000
+  venue: York Plasma Institute
 - name: York Technology Conference
   description: "The York Technology Conference is a non-profit one-day event run by students, providing the opportunity for students to network with other students, who share an interest in technology, and with industry leaders. \nThis event will enable students from York and other universities to explore emerging technological trends through speakers, panel debates, workshops and networking opportunities."
   url: https://www.eventbrite.co.uk/e/york-technology-conference-tickets-51011295157?aff=ebapi
@@ -57,14 +57,6 @@
   starts: 2019-01-30T09:00:00.0000000
   ends: 2019-01-30T17:30:00.0000000
   venue: The Ron Cooke Hub
-- name: Digital / tech supplier event for STEP - a £2.85m project in York
-  description: "If you supply high quality IT infrastructure, transport technology, data collection/processing or have an expertise in data visualisation and presentation, come to this event to learn how you can become a supplier to STEP - our £2.85m government-funded project to transform the way we manage traffic. \nJoin us for breakfast  (9.30) or lunch (12:30) (let us know of any dietary requirements), then:\n1)   a 15-minute walk through the project and the products and services we’re commissioning \n2)   a speed learn event giving you the opportunity to meet the project team on a 1-2-1 basis to explore other potential products and possibilities for the project\n3)   the chance to meet other companies along the whole supply chain within the sector\nWhy work with City of York Council?\nYork is the UK’s first gigabit city, and STEP will make York the first small city to combine data, technology and connected people and vehicles to deliver our policy aims.\nThis DfT funded project will change the way York and potentilly all historic cities manage traffic, relieving congestion and reducing emissions in York and potentially across the globe. To learn more, visit https://www.york.gov.uk/smart"
-  url: https://www.eventbrite.co.uk/e/digital-tech-supplier-event-for-step-a-285m-project-in-york-tickets-51580818617?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/51547747/133201531214/1/original.jpg?h=200&w=450&auto=compress&rect=0,39,796,398&s=270d263094227d1e4fe194de8db762a5
-  starts: 2018-11-23T09:30:00.0000000
-  ends: 2018-11-23T12:00:00.0000000
-  venue: National Railway Museum (Main Entrance)
 - name: Cisco Healthcare and Local Government - Enterprise Networking update
   description: >2-
 
@@ -134,6 +126,57 @@
   starts: 2018-11-28T10:00:00.0000000
   ends: 2018-11-28T14:00:00.0000000
   venue: King's Manor Library
+- name: Get In The Game Careers Talks; University of York
+  description: >-
+    The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
+
+    Speakers
+
+
+    Schedule of Event
+
+    13:00-14:00 – Aardvark Swift Career Talk
+
+    14:00-14:30 – Red Kite
+
+    14:30-15:00 – Boss Alien
+
+    15:00-15:30 – Q&A
+
+
+    Our talks are given for students to learn what it really takes to make it into such a competitive industry. Covering topics such as:
+
+    • Careers in games advice
+
+    • Information of how to maximise your chances of securing your first games industry role.
+
+    • CV, Portfolio and Demo Advice
+
+    • Interview Techniques
+
+    • Technical and practical knowledge required by studios
+
+    • How to increase employability
+
+    • Q & A session
+
+    We’ll also be giving away goodie bags to a handful of lucky winners, with prizes from our partner studios.
+
+    This is a great opportunity that offers expert information which could prove vital in your career. Don't miss out - get your ticket now!
+  url: https://www.eventbrite.co.uk/e/get-in-the-game-careers-talks-university-of-york-tickets-45097383488?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48734073/107396689973/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c6b713e5c77925f1caaaa6ac2bffa35
+  starts: 2018-11-21T14:00:00.0000000
+  ends: 2018-11-21T18:00:00.0000000
+  venue: Piazza Building
+- name: Digital / tech supplier event for STEP - a £2.85m project in York
+  description: "If you supply high quality IT infrastructure, transport technology, data collection/processing or have an expertise in data visualisation and presentation, come to this event to learn how you can become a supplier to STEP - our £2.85m government-funded project to transform the way we manage traffic. \nJoin us for breakfast  (9.30) or lunch (12:30) (let us know of any dietary requirements), then:\n1)   a 15-minute walk through the project and the products and services we’re commissioning \n2)   a speed learn event giving you the opportunity to meet the project team on a 1-2-1 basis to explore other potential products and possibilities for the project\n3)   the chance to meet other companies along the whole supply chain within the sector\nWhy work with City of York Council?\nYork is the UK’s first gigabit city, and STEP will make York the first small city to combine data, technology and connected people and vehicles to deliver our policy aims.\nThis DfT funded project will change the way York and potentilly all historic cities manage traffic, relieving congestion and reducing emissions in York and potentially across the globe. To learn more, visit https://www.york.gov.uk/smart"
+  url: https://www.eventbrite.co.uk/e/digital-tech-supplier-event-for-step-a-285m-project-in-york-tickets-51580818617?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/51547747/133201531214/1/original.jpg?h=200&w=450&auto=compress&rect=0,39,796,398&s=270d263094227d1e4fe194de8db762a5
+  starts: 2018-11-23T09:30:00.0000000
+  ends: 2018-11-23T12:00:00.0000000
+  venue: National Railway Museum (Main Entrance)
 - name: 'York Science Conference Discovery Series: Blockchain - Cryptic or Clear?'
   description: '*COMPETITION WITH A SWEET PRIZE*What exactly is "Blockchain", and why is everyone obsessed with it? Apparently it has the potential to change our financial system, and decentralise governments! Curious to find out more? Join the York Science Conference with York Blockchain Research and Development Society to clear up what Blockchain is. Then it is your turn for a special competition with an exclusive task. Be in the running to win a sweet prize!  What will you discover? '
   url: https://www.eventbrite.com/e/york-science-conference-discovery-series-blockchain-cryptic-or-clear-tickets-52451472767?aff=ebapi
@@ -180,20 +223,6 @@
   starts: 2019-01-04T10:00:00.0000000
   ends: 2019-01-04T17:00:00.0000000
   venue: The Bar Convent
-- name: York Raspberry Jam - November
-  description: >2-
-
-    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
-
-    York Raspberry Jam happens every other month. It's for beginners particularly, and also people who know a bit about Raspberry Pi computers! You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
-
-    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
-  url: https://www.eventbrite.co.uk/e/york-raspberry-jam-november-tickets-49438151843?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48829382/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=935d6ac6b6ad5e76410ffacfcd7d410a
-  starts: 2018-11-19T17:15:00.0000000
-  ends: 2018-11-19T19:15:00.0000000
-  venue: Acomb Explore Library
 - name: 'Code Club Meetup: York'
   description: "Code Club meetups are a place where teachers, veteran volunteers, and newcomers alike can meet in a fun, friendly and informal environment to talk about Code Club.\n\nBrand new to Code Club? Come along and find out more about what we do. Anna, our Regional Coordinator for the North East & Yorkshire, will be there to answer any questions you have about getting started. \n\nAlready involved with Code Club? This is a chance to meet other people involved in the community. Let’s swap stories and help each other!\n\nThere will be refreshments and snacks too!\nIf you have any questions before the event, please get in touch by email to yhne@codeclub.org.uk or by contacting @codeclubyandh on Twitter.\n \nThank you to Anaplan, York, for providing us with a wonderful venue. \n \nWe look forward to seeing you at the event!\n\n\n--------\n\nWould you like to share a story from your Code Club, or showcase a digital making project you are working on? I’m looking for a few volunteers who’d like to do a five-minute presentation. Please get in touch at yhne@codeclub.org.uk if you’re keen to get involved.\n\n\n---------\n\nFor further info on accessibility, location, and parking at the venue, check here\n\n\n \n\n\n \n\n"
   url: https://www.eventbrite.co.uk/e/code-club-meetup-york-tickets-52082854219?aff=ebapi
@@ -255,49 +284,6 @@
   starts: 2018-12-10T17:15:00.0000000
   ends: 2018-12-10T19:15:00.0000000
   venue: Acomb Explore Library
-- name: Get In The Game Careers Talks; University of York
-  description: >-
-    The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
-
-    Speakers
-
-
-    Schedule of Event
-
-    13:00-14:00 – Aardvark Swift Career Talk
-
-    14:00-14:30 – Red Kite
-
-    14:30-15:00 – Boss Alien
-
-    15:00-15:30 – Q&A
-
-
-    Our talks are given for students to learn what it really takes to make it into such a competitive industry. Covering topics such as:
-
-    • Careers in games advice
-
-    • Information of how to maximise your chances of securing your first games industry role.
-
-    • CV, Portfolio and Demo Advice
-
-    • Interview Techniques
-
-    • Technical and practical knowledge required by studios
-
-    • How to increase employability
-
-    • Q & A session
-
-    We’ll also be giving away goodie bags to a handful of lucky winners, with prizes from our partner studios.
-
-    This is a great opportunity that offers expert information which could prove vital in your career. Don't miss out - get your ticket now!
-  url: https://www.eventbrite.co.uk/e/get-in-the-game-careers-talks-university-of-york-tickets-45097383488?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48734073/107396689973/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c6b713e5c77925f1caaaa6ac2bffa35
-  starts: 2018-11-21T14:00:00.0000000
-  ends: 2018-11-21T18:00:00.0000000
-  venue: Piazza Building
 - name: 'PS1: Photoshop Essentials inc. for website editors (Thu 22 Nov 11:00-12:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -365,6 +351,18 @@
   starts: 2018-11-27T16:15:00.0000000
   ends: 2018-11-27T17:30:00.0000000
   venue: National STEM Centre
+- name: The VIVIT Experience | Enhanced Undergraduate Post Mortem | York 18/05/19
+  description: >-
+    The VIVIT Experience is a nationally award winning academic experience offering you the chance to participate in a recreated post mortem experience conducted on VIVIT -the worlds only semi-synthetic human cadaver. During this special 5 hour experience you will be taken on a scientifically accurate recreated human body dissection learning in-depth anatomy and physiology relevant to your academic studies. The course is interactive and designed to support those students currently at York St John University and the surrounding areas studying in the biosciences, health, sports or associated degree pathways that require an understanding of advanced anatomy and physiology or indeed the associated clinical pathologies. The procedure will be lead by Samuel Piri & team who will first set out the basics of anatomical dissection before systematically working their way through the anatomical cavities comparing normal specimens with various states of pathology. You will also be taught a variety of important clinical skills including interpreting X-rays and linking symptoms to clinical diagnosis. There will be the opportunity to ask questions and at the same time handle the anatomical samples and even the chance to undertake some dissection for yourself.
+
+    There is 1 experience operating on the 18th May in York A daytime experience operating between 10.00am and 3.00pm. Please ensure you purchase tickets for the correct experience as changes cannot be made.
+
+    All tickets are sold subject to the ITAE Groups terms and conditions. All tickets are non refundable and non transferable. Strictly students over 18. No alcohol permitted. Photography and recorded footage will be taken.
+  url: https://www.eventbrite.co.uk/e/the-vivit-experience-enhanced-undergraduate-post-mortem-york-180519-tickets-51769097765?aff=ebapi
+  logo: https://cdn.evbuc.com/images/51779702/176751422341/1/original.jpg?h=200&w=450&auto=compress&rect=0,19,612,306&s=335d50032a56e1b99745e57fe00ab962
+  starts: 2019-05-18T10:00:00.0000000
+  ends: 2019-05-18T15:00:00.0000000
+  venue: Sports Hall, Foss Building
 - name: Vital Education Technology Conference 2019 - Vital etc
   description: >-
     Vital York Limited brings you their annual Education Technology Conference on Wednesday 27 March 2019. 
@@ -412,18 +410,6 @@
   starts: 2019-03-27T09:00:00.0000000
   ends: 2019-03-27T14:30:00.0000000
   venue: Dante & Nunthorpe Suite
-- name: The VIVIT Experience | Enhanced Undergraduate Post Mortem | York 18/05/19
-  description: >-
-    The VIVIT Experience is a nationally award winning academic experience offering you the chance to participate in a recreated post mortem experience conducted on VIVIT -the worlds only semi-synthetic human cadaver. During this special 5 hour experience you will be taken on a scientifically accurate recreated human body dissection learning in-depth anatomy and physiology relevant to your academic studies. The course is interactive and designed to support those students currently at York St John University and the surrounding areas studying in the biosciences, health, sports or associated degree pathways that require an understanding of advanced anatomy and physiology or indeed the associated clinical pathologies. The procedure will be lead by Samuel Piri & team who will first set out the basics of anatomical dissection before systematically working their way through the anatomical cavities comparing normal specimens with various states of pathology. You will also be taught a variety of important clinical skills including interpreting X-rays and linking symptoms to clinical diagnosis. There will be the opportunity to ask questions and at the same time handle the anatomical samples and even the chance to undertake some dissection for yourself.
-
-    There is 1 experience operating on the 18th May in York A daytime experience operating between 10.00am and 3.00pm. Please ensure you purchase tickets for the correct experience as changes cannot be made.
-
-    All tickets are sold subject to the ITAE Groups terms and conditions. All tickets are non refundable and non transferable. Strictly students over 18. No alcohol permitted. Photography and recorded footage will be taken.
-  url: https://www.eventbrite.co.uk/e/the-vivit-experience-enhanced-undergraduate-post-mortem-york-180519-tickets-51769097765?aff=ebapi
-  logo: https://cdn.evbuc.com/images/51779702/176751422341/1/original.jpg?h=200&w=450&auto=compress&rect=0,19,612,306&s=335d50032a56e1b99745e57fe00ab962
-  starts: 2019-05-18T10:00:00.0000000
-  ends: 2019-05-18T15:00:00.0000000
-  venue: Sports Hall, Foss Building
 - name: 'PS1: Photoshop Essentials inc. for website editors (Wed 19th Dec 11:00-12:00)'
   description: >-
     These courses are for students and staff at York St John University
