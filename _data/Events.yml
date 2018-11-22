@@ -1,3 +1,16 @@
+- name: 'The Science Society Christmas Lecture: Science QI '
+  description: >-
+    The St Peter’s Science Department will be sharing some their favourite ‘quite interesting’ facts from the world of science in their ever-popular Christmas lecture. Be prepared for whizzes, flash-bangs and the occasional klaxon.
+
+    Please either print off your ticket or display it to us on your smartphone or tablet on the evening.
+
+    Please note that parking on site will be limited, so other forms of transport are encouraged. The nearest public car park is Marygate, a few minutes' walk from the venue. Please contact us on 01904 526 315 or events@stpetersyork.org.uk if you have any access requirements.
+  url: https://www.eventbrite.co.uk/e/the-science-society-christmas-lecture-science-qi-tickets-49595516525?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48984713/87497926893/1/original.jpg?h=200&w=450&auto=compress&rect=0,267,5184,2592&s=3d5e4cf0ce4b0f9a9a2cde5954f02696
+  starts: 2018-12-11T19:00:00.0000000
+  ends: 2018-12-11T20:30:00.0000000
+  venue: St Peter's School
 - name: Physics@Work 2018
   description: >-
     Join the University of York for a day of workshops and talks about the applications of physics in the world of work. Hear from employers about the value of studying physics at A-level and beyond and try out hands-on activities that give a taste of the many ways physics contributes to the UK economy.  
@@ -101,59 +114,14 @@
   starts: 2018-11-26T09:30:00.0000000
   ends: 2018-11-26T15:00:00.0000000
   venue: National Railway Museum - Corporate & Private Hire
-- name: 'York Science Conference Discovery Series: Blockchain - Cryptic or Clear?'
-  description: '*COMPETITION WITH A SWEET PRIZE*What exactly is "Blockchain", and why is everyone obsessed with it? Apparently it has the potential to change our financial system, and decentralise governments! Curious to find out more? Join the York Science Conference with York Blockchain Research and Development Society to clear up what Blockchain is. Then it is your turn for a special competition with an exclusive task. Be in the running to win a sweet prize!  What will you discover? '
-  url: https://www.eventbrite.com/e/york-science-conference-discovery-series-blockchain-cryptic-or-clear-tickets-52451472767?aff=ebapi
+- name: Digital / tech supplier event for STEP - a £2.85m project in York
+  description: "If you supply high quality IT infrastructure, transport technology, data collection/processing or have an expertise in data visualisation and presentation, come to this event to learn how you can become a supplier to STEP - our £2.85m government-funded project to transform the way we manage traffic. \nJoin us for breakfast  (9.30) or lunch (12:30) (let us know of any dietary requirements), then:\n1)   a 15-minute walk through the project and the products and services we’re commissioning \n2)   a speed learn event giving you the opportunity to meet the project team on a 1-2-1 basis to explore other potential products and possibilities for the project\n3)   the chance to meet other companies along the whole supply chain within the sector\nWhy work with City of York Council?\nYork is the UK’s first gigabit city, and STEP will make York the first small city to combine data, technology and connected people and vehicles to deliver our policy aims.\nThis DfT funded project will change the way York and potentilly all historic cities manage traffic, relieving congestion and reducing emissions in York and potentially across the globe. To learn more, visit https://www.york.gov.uk/smart"
+  url: https://www.eventbrite.co.uk/e/digital-tech-supplier-event-for-step-a-285m-project-in-york-tickets-51580818617?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/52589174/269251122262/1/original.jpg?h=200&w=450&auto=compress&rect=0,109,1920,960&s=5a336b6d600ca8bb441accb979b1e6f8
-  starts: 2018-11-21T18:00:00.0000000
-  ends: 2018-11-21T20:00:00.0000000
-  venue: Physics Exhibition Centre
-- name: Get In The Game Careers Talks; University of York
-  description: >-
-    The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
-
-    Speakers
-
-
-    Schedule of Event
-
-    14:00-15:00 – Aardvark Swift Career Talk
-
-    15:00-15:30 – Red Kite
-
-    15:30-16:00 – Boss Alien
-
-    16:00-16:45 – Sumo
-
-    16:45-17:15 - Q&A
-
-
-    Our talks are given for students to learn what it really takes to make it into such a competitive industry. Covering topics such as:
-
-    • Careers in games advice
-
-    • Information of how to maximise your chances of securing your first games industry role.
-
-    • CV, Portfolio and Demo Advice
-
-    • Interview Techniques
-
-    • Technical and practical knowledge required by studios
-
-    • How to increase employability
-
-    • Q & A session
-
-    We’ll also be giving away goodie bags to a handful of lucky winners, with prizes from our partner studios.
-
-    This is a great opportunity that offers expert information which could prove vital in your career. Don't miss out - get your ticket now!
-  url: https://www.eventbrite.co.uk/e/get-in-the-game-careers-talks-university-of-york-tickets-45097383488?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48734073/107396689973/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c6b713e5c77925f1caaaa6ac2bffa35
-  starts: 2018-11-21T14:00:00.0000000
-  ends: 2018-11-21T18:00:00.0000000
-  venue: Piazza Building
+  logo: https://cdn.evbuc.com/images/51547747/133201531214/1/original.jpg?h=200&w=450&auto=compress&rect=0,39,796,398&s=270d263094227d1e4fe194de8db762a5
+  starts: 2018-11-23T09:30:00.0000000
+  ends: 2018-11-23T12:00:00.0000000
+  venue: National Railway Museum (Main Entrance)
 - name: Glyphosate, it’s use and managing public perception
   description: >-
     A half day seminar providing essential guidance for the amenity sector, with the latest information from Bayer regarding glyphosate, as well as informative sessions dealing with the application of glyphosate for hard surfaces utilising Weed-IT.  In addition there will invaluable advice with regard to handling public objections to weed control activities with concise information to take away from the event.  Findings from the most extensive trials into Japanese Knotweed and its control will also be provided along with advice as to how best manage the problem and its associated issues. 
@@ -179,14 +147,6 @@
   starts: 2018-11-28T10:00:00.0000000
   ends: 2018-11-28T14:00:00.0000000
   venue: King's Manor Library
-- name: Digital / tech supplier event for STEP - a £2.85m project in York
-  description: "If you supply high quality IT infrastructure, transport technology, data collection/processing or have an expertise in data visualisation and presentation, come to this event to learn how you can become a supplier to STEP - our £2.85m government-funded project to transform the way we manage traffic. \nJoin us for breakfast  (9.30) or lunch (12:30) (let us know of any dietary requirements), then:\n1)   a 15-minute walk through the project and the products and services we’re commissioning \n2)   a speed learn event giving you the opportunity to meet the project team on a 1-2-1 basis to explore other potential products and possibilities for the project\n3)   the chance to meet other companies along the whole supply chain within the sector\nWhy work with City of York Council?\nYork is the UK’s first gigabit city, and STEP will make York the first small city to combine data, technology and connected people and vehicles to deliver our policy aims.\nThis DfT funded project will change the way York and potentilly all historic cities manage traffic, relieving congestion and reducing emissions in York and potentially across the globe. To learn more, visit https://www.york.gov.uk/smart"
-  url: https://www.eventbrite.co.uk/e/digital-tech-supplier-event-for-step-a-285m-project-in-york-tickets-51580818617?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/51547747/133201531214/1/original.jpg?h=200&w=450&auto=compress&rect=0,39,796,398&s=270d263094227d1e4fe194de8db762a5
-  starts: 2018-11-23T09:30:00.0000000
-  ends: 2018-11-23T12:00:00.0000000
-  venue: National Railway Museum (Main Entrance)
 - name: New Horizons in Materials Modelling
   description: >-
     This annual one-day meeting in the heart of York brings together materials modelling researchers to discuss the latest developments in theory, algorithms and applications. This meeting will consist of invited and contributed talks, and a poster session. This, the 5th meeting in this series, will have three sessions, with invited speakers who will introduce the three main topic areas chosen for this meeting:
@@ -203,6 +163,14 @@
   starts: 2019-01-04T10:00:00.0000000
   ends: 2019-01-04T17:00:00.0000000
   venue: The Bar Convent
+- name: Women in Tech York End of Year Party!
+  description: "Welcome to Women in Tech York’s end of year party!\nWho are we?\nWe are a community of like-minded people, studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.\nCome and join us for an evening of fun to celebrate our first year! \nWomen in Tech York started 6 months ago, and we can’t believe how much we’ve grown! We wanted to use the end of the year to throw an event that thanks our attendees for their continued support - this month we’ll be partying at Spark York, where we’ll have drinks, music and free food thanks to our Sponsors Isotoma and Mitrefinch.\nDress code: Festive! Whether you’re rocking the sparkliest of dresses, or you’re happier in jeans and a jumper, you’ll be welcome! \n Event Timings\n18:00: Registration Opens\n18:30: Thank you\n18:45: Party! \n21:00: Event close\n ________________________________________ Nervous about attending?\n A WiT York ambassador will be outside the Spark event space to greet you on the night, direct you to the event space and answer any questions you may have.\n You can also join our online community beforehand or contact us directly via Twitter or email WomenInTechYork@gmail.com. • Slack: https://wit-york.slack.com • LinkedIn: Women in Tech York • Twitter: @WiT_York\n Code of Conduct\n The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack."
+  url: https://www.eventbrite.co.uk/e/women-in-tech-york-end-of-year-party-tickets-52402869393?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52515671/235318357053/1/original.jpg?h=200&w=450&auto=compress&rect=0,172,1748,874&s=b21334a3d30e7e9fd5bc37e51223d70b
+  starts: 2018-12-13T18:00:00.0000000
+  ends: 2018-12-13T21:00:00.0000000
+  venue: Spark York CIC
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -217,14 +185,6 @@
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
   starts: 2018-11-29T18:30:00.0000000
   ends: 2018-11-29T19:30:00.0000000
-- name: Women in Tech York End of Year Party!
-  description: "Welcome to Women in Tech York’s end of year party!\nWho are we?\nWe are a community of like-minded people, studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.\nCome and join us for an evening of fun to celebrate our first year! \nWomen in Tech York started 6 months ago, and we can’t believe how much we’ve grown! We wanted to use the end of the year to throw an event that thanks our attendees for their continued support - this month we’ll be partying at Spark York, where we’ll have drinks, music and free food thanks to our Sponsors Isotoma and Mitrefinch.\nDress code: Festive! Whether you’re rocking the sparkliest of dresses, or you’re happier in jeans and a jumper, you’ll be welcome! \n Event Timings\n18:00: Registration Opens\n18:30: Thank you\n18:45: Party! \n21:00: Event close\n ________________________________________ Nervous about attending?\n A WiT York ambassador will be outside the Spark event space to greet you on the night, direct you to the event space and answer any questions you may have.\n You can also join our online community beforehand or contact us directly via Twitter or email WomenInTechYork@gmail.com. • Slack: https://wit-york.slack.com • LinkedIn: Women in Tech York • Twitter: @WiT_York\n Code of Conduct\n The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack."
-  url: https://www.eventbrite.co.uk/e/women-in-tech-york-end-of-year-party-tickets-52402869393?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52515671/235318357053/1/original.jpg?h=200&w=450&auto=compress&rect=0,172,1748,874&s=b21334a3d30e7e9fd5bc37e51223d70b
-  starts: 2018-12-13T18:00:00.0000000
-  ends: 2018-12-13T21:00:00.0000000
-  venue: Spark York CIC
 - name: 'Code Club Meetup: York'
   description: "Code Club meetups are a place where teachers, veteran volunteers, and newcomers alike can meet in a fun, friendly and informal environment to talk about Code Club.\n\nBrand new to Code Club? Come along and find out more about what we do. Anna, our Regional Coordinator for the North East & Yorkshire, will be there to answer any questions you have about getting started. \n\nAlready involved with Code Club? This is a chance to meet other people involved in the community. Let’s swap stories and help each other!\n\nThere will be refreshments and snacks too!\nIf you have any questions before the event, please get in touch by email to yhne@codeclub.org.uk or by contacting @codeclubyandh on Twitter.\n \nThank you to Anaplan, York, for providing us with a wonderful venue. \n \nWe look forward to seeing you at the event!\n\n\n--------\n\nWould you like to share a story from your Code Club, or showcase a digital making project you are working on? I’m looking for a few volunteers who’d like to do a five-minute presentation. Please get in touch at yhne@codeclub.org.uk if you’re keen to get involved.\n\n\n---------\n\nFor further info on accessibility, location, and parking at the venue, check here\n\n\n \n\n\n \n\n"
   url: https://www.eventbrite.co.uk/e/code-club-meetup-york-tickets-52082854219?aff=ebapi
@@ -233,43 +193,23 @@
   starts: 2018-11-28T17:00:00.0000000
   ends: 2018-11-28T19:00:00.0000000
   venue: Anaplan
-- name: 'WE1: Website CMS Basic training (Wed 21 Nov 14:00-16:00)'
+- name: BioVale Members' Evening
   description: >-
-    These courses are for staff who have been approved by the website team only
+    It's our pleasure to invite you to our annual, exclusive members’ evening at York's historic Grays Court Hotel. There will be drinks, nibbles and good company to celebrate both your own and BioVale's 2018 success in developing the bioeconomy of Yorkshire and the Humber.As a festive treat, we will be hearing from three inspiring UK entrepreneurs behind some of our most innovative, biobased start-ups:
 
+    ·       Ben Dolman, CEO of Holiferm
 
-    WE1: Website CMS basics
+    ·       Alex Novitskiy, CEO of Nova Extraction
 
-    Prior knowledge: None
+    ·       Jonny Ruffell, Co-founder of Green Rose
 
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-wed-21-nov-1400-1600-tickets-50495425176?aff=ebapi
+    To round off the evening, there will be a bioeconomy review of the year from our new CEO, Sarah Hickingbottom and the BioVale Steering Group will be joining us.
+  url: https://www.eventbrite.co.uk/e/biovale-members-evening-tickets-52815805496?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/50118336/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=75127b248f7bf47299901234a50fbebe
-  starts: 2018-11-21T14:00:00.0000000
-  ends: 2018-11-21T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
+  logo: https://cdn.evbuc.com/images/52926047/132068918034/1/original.jpg?h=200&w=450&auto=compress&rect=0,20,524,262&s=0c53a2aff615fac3a40d5d142391b903
+  starts: 2018-12-12T17:00:00.0000000
+  ends: 2018-12-12T20:00:00.0000000
+  venue: Grays Inn Court
 - name: York Pi Jam - December
   description: >2-
 
@@ -345,6 +285,14 @@
   starts: 2018-11-22T11:00:00.0000000
   ends: 2018-11-22T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Tech-meet5
+  description: This event is the rearranged meet up of local computing teachers sharing ideas through mini presentations. Presentations include Master the Mainframe, Project Quantum as well as others and networking opportunities.  
+  url: https://www.eventbrite.co.uk/e/tech-meet5-tickets-52403375908?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52515998/53683224378/1/original.jpg?h=200&w=450&auto=compress&rect=0,8,676,338&s=65b08def095b7846e9629fff338deda9
+  starts: 2018-11-27T16:15:00.0000000
+  ends: 2018-11-27T17:30:00.0000000
+  venue: National STEM Centre
 - name: Vital Education Technology Conference 2019 - Vital etc
   description: >-
     Vital York Limited brings you their annual Education Technology Conference on Wednesday 27 March 2019. 
@@ -392,14 +340,6 @@
   starts: 2019-03-27T09:00:00.0000000
   ends: 2019-03-27T14:30:00.0000000
   venue: Dante & Nunthorpe Suite
-- name: Tech-meet5
-  description: This event is the rearranged meet up of local computing teachers sharing ideas through mini presentations. Presentations include Master the Mainframe, Project Quantum as well as others and networking opportunities.  
-  url: https://www.eventbrite.co.uk/e/tech-meet5-tickets-52403375908?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52515998/53683224378/1/original.jpg?h=200&w=450&auto=compress&rect=0,8,676,338&s=65b08def095b7846e9629fff338deda9
-  starts: 2018-11-27T16:15:00.0000000
-  ends: 2018-11-27T17:30:00.0000000
-  venue: National STEM Centre
 - name: The VIVIT Experience | Enhanced Undergraduate Post Mortem | York 18/05/19
   description: >-
     The VIVIT Experience is a nationally award winning academic experience offering you the chance to participate in a recreated post mortem experience conducted on VIVIT -the worlds only semi-synthetic human cadaver. During this special 5 hour experience you will be taken on a scientifically accurate recreated human body dissection learning in-depth anatomy and physiology relevant to your academic studies. The course is interactive and designed to support those students currently at York St John University and the surrounding areas studying in the biosciences, health, sports or associated degree pathways that require an understanding of advanced anatomy and physiology or indeed the associated clinical pathologies. The procedure will be lead by Samuel Piri & team who will first set out the basics of anatomical dissection before systematically working their way through the anatomical cavities comparing normal specimens with various states of pathology. You will also be taught a variety of important clinical skills including interpreting X-rays and linking symptoms to clinical diagnosis. There will be the opportunity to ask questions and at the same time handle the anatomical samples and even the chance to undertake some dissection for yourself.
@@ -821,46 +761,6 @@
   starts: 2019-02-06T10:00:00.0000000
   ends: 2019-02-06T11:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbcc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-11-21T07:30:00.0000000
-  ends: 2018-11-21T10:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxpbcc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-11-21T08:00:00.0000000
-  ends: 2018-11-21T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: Introduction to OpenAPI Spec & Lightning Talks
-  description: '<p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided. We will have vegetarian food, if you have any other dietary requirements or questions please send us a message.</p> <p>_______________________________</p> <p>★ The talks</p> <p>✩ Introduction to OpenAPI Spec<br/>Lorna Mitchell - <a href="https://twitter.com/lornajane" class="linkified">https://twitter.com/lornajane</a></p> <p>Open API Specification is a machine and human readable way to describe APIs. From these specs we can generate documentation, create libraries, and ensure that our users know exactly what to expect from our APIs. This talk shows you around OAS from the beginning, showing how to create the specs and recommending some tools to help the process. Once you have the spec, things get interesting and this talk will showcase some of the things that you can offer once your API is described in this way. This session is recommended for writers looking to become more API-savvy and API engineers wanting to make their APIs more useful to their users.</p> <p>✩ Lightning Talks<br/>Hugh Noble - <a href="https://twitter.com/hughnoble" class="linkified">https://twitter.com/hughnoble</a><br/>Tom Wade - <a href="https://twitter.com/TomWade" class="linkified">https://twitter.com/TomWade</a></p> <p>Talks TBA<br/>_______________________________</p> <p>★ Timings</p> <p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – Lightning Talk 1 - Tom Wade<br/>19:15 – Lightning Talk 2 - Hugh Noble<br/>19:30 – A little break<br/>19:35 – Introduction to OpenAPI Spec - Lorna Mitchell<br/>20:10ish – Pop over to the pub for a chat and a drink</p> <p>_______________________________</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform (<a href="https://bruntwood.co.uk/our-locations/leeds/platform/" class="linkified">https://bruntwood.co.uk/our-locations/leeds/platform/</a>) – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Infinity Works (<a href="https://www.infinityworks.com/" class="linkified">https://www.infinityworks.com/</a>) - Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href="https://twitter.com/InfinityWorks" class="linkified">https://twitter.com/InfinityWorks</a>)</p> <p>• Searchability (<a href="https://searchability.co.uk/" class="linkified">https://searchability.co.uk/</a>) - Searchability are a recruitment marketing company that help companies secure hard to find candidates either indirectly or directly via our award winning JobHoller platform. There are few sectors more challenged by skill-shortage than digital tech, we specialise in sourcing unique opportunities &amp; engaging relevant candidate audiences across the IT &amp; eCommerce sectors by fusing traditional methods with a twist of social magic, with particular focus &amp; expertise within Software Development in Yorkshire, where it all started for us in 2012. @SearchabilityUK (<a href="https://twitter.com/SearchabilityUK" class="linkified">https://twitter.com/SearchabilityUK</a>)</p> '
-  url: https://www.meetup.com/leedsphp/events/255888045/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
-  starts: 2018-11-21T18:30:00.0000000
-  ends: 2018-11-21T20:30:00.0000000
-  venue: Platform
-- name: Diversity, Chocolate and Safe Cracking
-  description: "<p>Greetings agileYorkers! This being our last event before Christmas will have a festive twist and I can guarantee there will be chocolate.</p> <p>Diversity, Chocolate and Safe Cracking</p> <p>Diversity. It's the topic of the hour. Organizations are all putting “diversity” and “equal opportunities” on every job ad. But, for some organizations it still seems to be a struggle. What's the goal? Do we want diverse teams because it's the \"right thing to do,\" or is it \"good for our teams and organizations?” Are we hiring minorities to keep up with quotas or our competition? This talk will engage the audience in a frank discussion on what diversity is, why we need it and how we might achieve it.</p> <p>About John Le Drew (@antz29)</p> <p>Starting my career in systems administration, I first dipped into software engineering writing automation and data migration tools mostly using Perl and VBScript on Windows. This sparked my interest and led to 10 years as a software engineer, working in a wide range of environments and languages including C, C++, PHP, Python, Ruby, C#, VB, Java, JavaScript and probably more that I have forgotten!</p> <p>After a decade as a software engineer, I then spent most of the last 10 years as an independent consultant. Working with companies to help them get the most out of their technology teams. I soon recognised that the technological problems I was hired to solve, were rooted not in technology, but in the way teams were collaborating. This led me to research lean and agile ways of working, transforming my practice.</p> <p>** Special thanks to our host York St John business school (@YSJBusiness) for their generosity and support **</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
-  url: https://www.meetup.com/agileYork/events/256329101/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
-  starts: 2018-11-21T18:30:00.0000000
-  ends: 2018-11-21T20:30:00.0000000
-  venue: York St.John University
-- name: York Hackspace Open Evening
-  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
-  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxpbcc/
-  is-free: true
-  starts: 2018-11-21T19:00:00.0000000
-  ends: 2018-11-21T21:00:00.0000000
-  venue: York Hackspace
 - name: Data Platform User Group (SQLWatch.io. PowerBI, DBA, Azure Managed Instances)-
   description: '<p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Marcin Gminski (sqlwatch.io)<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – John Martin (SentryOne)<br/>20:20 – 20:30 – Off t’pub.</p> <p>Marcin Gminski (sqlwatch.io) | SQLWatch Overview<br/>SQLWATCH is free and community-driven SQL Server performance monitor, available for SQL Server 2008R2 to 2017. SQLWATCH collects your server performance metrics, database growth and disk space, index statistics and more. In this session, we will go through the conceptual design, installation, data collection and reports. You can download it free from <a href="https://sqlwatch.io/" class="linkified">https://sqlwatch.io/</a></p> <p>Marcin is an independent SQL Server consultant specialising in performance, development, disaster recovery and data migrations. Following his degree in Computer Science, Marcin has gained over 15 years of experience and knowledge of technical architecture, data analysis, logical and physical design, coding, performance testing, implementation and support whilst working with SQL Server as well as Oracle and DB2 for global brands like Lloyds Banking Group, Wal-Mart, NHS and Solera Holdings.</p> <p>John Martin (SentryOne) | Azure Managed Instances</p> <p>Azure SQL DB Managed Instance is here, Microsoft want us to use it, but what is it good for and how should you use it? Let us get past the marketing hype and take a more in-depth look at Managed Instance and see what we can do with it.</p> <p>To get the most out of Managed Instance you need to understand the Azure infrastructure that underpins it and how this behaves, as well as understanding the differences between General Purpose and Business Critical tiers.</p> <p>There is far more to Managed Instance than meets the eye and if you do not understand the details then you run the risk of spending a lot more money and not getting the performance you want.<br/>During this training day we will cover the core Azure infrastructure components that underpin Managed Instance and look at how these can impact its usability and performance. We will work through use cases and migration scenarios that are available for us to use when it comes to making the jump to Azure. We will also look at how applications that use with SQL Server on-premises can be updated to get the most out of Managed Instance, including authentication and high-level architecture.</p> '
   url: https://www.meetup.com/leeds_data_platform/events/253209985/
@@ -950,6 +850,29 @@
   ends: 2018-12-05T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxqbhb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-12-05T08:00:00.0000000
+  ends: 2018-12-05T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: The JVM Thing 9.0
+  description: "<p>The JVM Thing 9.0 – Wednesday 5th December</p> <p>1st talk:</p> <p>Ten Things To Do With GraalVM - Presented by Chris Seaton, Research Manager @ Oracle Labs - <a href=\"https://www.linkedin.com/in/chrisgseaton/\" class=\"linkified\">https://www.linkedin.com/in/chrisgseaton/</a></p> <p>Oracle Labs is working on a new native compiler for the Java Virtual Machine called Graal. Graal is 'one compiler to rule them all', meaning we use it for both just-in-time compilation, and ahead-of-time compilation, for Java, JavaScript, Ruby, R, Python, C and other languages.<br/>You may have heard the term 'Graal' but you are probably not aware of how many incredible things it can do.</p> <p>It can run your Java application faster, compile Java to standalone native executables that start instantly, compile Java libraries to native libraries, run languages like JavaScript, Ruby, R, Python, including polyglot programs written in more than one of these languages, it can run native languages like C and C++ on the JVM, it gives you tools like debuggers that work across languages, and much more.</p> <p>Follow Chris on Twitter: @ChrisGSeaton</p> <p>Plus a series of lightning talks to be confirmed.</p> <p>Location – First Floor, Aireside House, 24-26, Aire Street, LS1 4HT.</p> <p>Free food &amp; drinks!</p> <p>Arrive – 6pm<br/>Start – 6.30pm<br/>Finish – 8.30pm<br/>Drinks afterwards</p> <p>Follow us on Twitter @The_JVM_Thing</p> <p>The JVM Thing is a tech networking group for the JVM language community, bringing together Software enthusiasts to show, tell, share knowledge and discuss key topics related to the JVM ecosystem.</p> "
+  url: https://www.meetup.com/Leeds-JVMThing/events/256380263/
+  is-free: true
+  starts: 2018-12-05T18:00:00.0000000
+  ends: 2018-12-05T21:00:00.0000000
+  venue: Aireside House
+- name: "YorkSwift Monthly Meetup  #007 - December \U0001F385"
+  description: "<p>This meetup is in the planning stage, details to be announced soon.</p> <p>## Agenda</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - TBA</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
+  url: https://www.meetup.com/YorkSwift/events/254863744/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/7/9/c/thumb_472007004.jpeg
+  starts: 2018-12-05T19:00:00.0000000
+  ends: 2018-12-05T21:00:00.0000000
+  venue: The Coffee Bureau
 - name: Front End York - December Meetup
   description: '<p>Speakers TBC</p> '
   url: https://www.meetup.com/YorkDevelopers/events/256416019/
@@ -959,6 +882,13 @@
   ends: 2018-12-05T21:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
+- name: York Hackspace Open Evening
+  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxqbhb/
+  is-free: true
+  starts: 2018-12-05T19:00:00.0000000
+  ends: 2018-12-05T21:00:00.0000000
+  venue: York Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbnb/
@@ -1402,6 +1332,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-05-13T06:30:00.0000000
   ends: 2019-05-13T09:30:00.0000000
+  venue: Drift In At fat Face
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzhbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-05-15T06:30:00.0000000
+  ends: 2019-05-15T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
 - name: Game Developers, Monthly Meeting
