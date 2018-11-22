@@ -1,3 +1,16 @@
+- name: 'The Science Society Christmas Lecture: Science QI '
+  description: >-
+    The St Peter’s Science Department will be sharing some their favourite ‘quite interesting’ facts from the world of science in their ever-popular Christmas lecture. Be prepared for whizzes, flash-bangs and the occasional klaxon.
+
+    Please either print off your ticket or display it to us on your smartphone or tablet on the evening.
+
+    Please note that parking on site will be limited, so other forms of transport are encouraged. The nearest public car park is Marygate, a few minutes' walk from the venue. Please contact us on 01904 526 315 or events@stpetersyork.org.uk if you have any access requirements.
+  url: https://www.eventbrite.co.uk/e/the-science-society-christmas-lecture-science-qi-tickets-49595516525?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/48984713/87497926893/1/original.jpg?h=200&w=450&auto=compress&rect=0,267,5184,2592&s=3d5e4cf0ce4b0f9a9a2cde5954f02696
+  starts: 2018-12-11T19:00:00.0000000
+  ends: 2018-12-11T20:30:00.0000000
+  venue: St Peter's School
 - name: Physics@Work 2018
   description: >-
     Join the University of York for a day of workshops and talks about the applications of physics in the world of work. Hear from employers about the value of studying physics at A-level and beyond and try out hands-on activities that give a taste of the many ways physics contributes to the UK economy.  
@@ -101,59 +114,14 @@
   starts: 2018-11-26T09:30:00.0000000
   ends: 2018-11-26T15:00:00.0000000
   venue: National Railway Museum - Corporate & Private Hire
-- name: 'York Science Conference Discovery Series: Blockchain - Cryptic or Clear?'
-  description: '*COMPETITION WITH A SWEET PRIZE*What exactly is "Blockchain", and why is everyone obsessed with it? Apparently it has the potential to change our financial system, and decentralise governments! Curious to find out more? Join the York Science Conference with York Blockchain Research and Development Society to clear up what Blockchain is. Then it is your turn for a special competition with an exclusive task. Be in the running to win a sweet prize!  What will you discover? '
-  url: https://www.eventbrite.com/e/york-science-conference-discovery-series-blockchain-cryptic-or-clear-tickets-52451472767?aff=ebapi
+- name: Digital / tech supplier event for STEP - a £2.85m project in York
+  description: "If you supply high quality IT infrastructure, transport technology, data collection/processing or have an expertise in data visualisation and presentation, come to this event to learn how you can become a supplier to STEP - our £2.85m government-funded project to transform the way we manage traffic. \nJoin us for breakfast  (9.30) or lunch (12:30) (let us know of any dietary requirements), then:\n1)   a 15-minute walk through the project and the products and services we’re commissioning \n2)   a speed learn event giving you the opportunity to meet the project team on a 1-2-1 basis to explore other potential products and possibilities for the project\n3)   the chance to meet other companies along the whole supply chain within the sector\nWhy work with City of York Council?\nYork is the UK’s first gigabit city, and STEP will make York the first small city to combine data, technology and connected people and vehicles to deliver our policy aims.\nThis DfT funded project will change the way York and potentilly all historic cities manage traffic, relieving congestion and reducing emissions in York and potentially across the globe. To learn more, visit https://www.york.gov.uk/smart"
+  url: https://www.eventbrite.co.uk/e/digital-tech-supplier-event-for-step-a-285m-project-in-york-tickets-51580818617?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/52589174/269251122262/1/original.jpg?h=200&w=450&auto=compress&rect=0,109,1920,960&s=5a336b6d600ca8bb441accb979b1e6f8
-  starts: 2018-11-21T18:00:00.0000000
-  ends: 2018-11-21T20:00:00.0000000
-  venue: Physics Exhibition Centre
-- name: Get In The Game Careers Talks; University of York
-  description: >-
-    The award-winning Grads In Games initiative is coming to the University of York for the Get in the Game Careers Talk Tour 2018.
-
-    Speakers
-
-
-    Schedule of Event
-
-    14:00-15:00 – Aardvark Swift Career Talk
-
-    15:00-15:30 – Red Kite
-
-    15:30-16:00 – Boss Alien
-
-    16:00-16:45 – Sumo
-
-    16:45-17:15 - Q&A
-
-
-    Our talks are given for students to learn what it really takes to make it into such a competitive industry. Covering topics such as:
-
-    • Careers in games advice
-
-    • Information of how to maximise your chances of securing your first games industry role.
-
-    • CV, Portfolio and Demo Advice
-
-    • Interview Techniques
-
-    • Technical and practical knowledge required by studios
-
-    • How to increase employability
-
-    • Q & A session
-
-    We’ll also be giving away goodie bags to a handful of lucky winners, with prizes from our partner studios.
-
-    This is a great opportunity that offers expert information which could prove vital in your career. Don't miss out - get your ticket now!
-  url: https://www.eventbrite.co.uk/e/get-in-the-game-careers-talks-university-of-york-tickets-45097383488?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48734073/107396689973/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c6b713e5c77925f1caaaa6ac2bffa35
-  starts: 2018-11-21T14:00:00.0000000
-  ends: 2018-11-21T18:00:00.0000000
-  venue: Piazza Building
+  logo: https://cdn.evbuc.com/images/51547747/133201531214/1/original.jpg?h=200&w=450&auto=compress&rect=0,39,796,398&s=270d263094227d1e4fe194de8db762a5
+  starts: 2018-11-23T09:30:00.0000000
+  ends: 2018-11-23T12:00:00.0000000
+  venue: National Railway Museum (Main Entrance)
 - name: Glyphosate, it’s use and managing public perception
   description: >-
     A half day seminar providing essential guidance for the amenity sector, with the latest information from Bayer regarding glyphosate, as well as informative sessions dealing with the application of glyphosate for hard surfaces utilising Weed-IT.  In addition there will invaluable advice with regard to handling public objections to weed control activities with concise information to take away from the event.  Findings from the most extensive trials into Japanese Knotweed and its control will also be provided along with advice as to how best manage the problem and its associated issues. 
@@ -179,14 +147,6 @@
   starts: 2018-11-28T10:00:00.0000000
   ends: 2018-11-28T14:00:00.0000000
   venue: King's Manor Library
-- name: Digital / tech supplier event for STEP - a £2.85m project in York
-  description: "If you supply high quality IT infrastructure, transport technology, data collection/processing or have an expertise in data visualisation and presentation, come to this event to learn how you can become a supplier to STEP - our £2.85m government-funded project to transform the way we manage traffic. \nJoin us for breakfast  (9.30) or lunch (12:30) (let us know of any dietary requirements), then:\n1)   a 15-minute walk through the project and the products and services we’re commissioning \n2)   a speed learn event giving you the opportunity to meet the project team on a 1-2-1 basis to explore other potential products and possibilities for the project\n3)   the chance to meet other companies along the whole supply chain within the sector\nWhy work with City of York Council?\nYork is the UK’s first gigabit city, and STEP will make York the first small city to combine data, technology and connected people and vehicles to deliver our policy aims.\nThis DfT funded project will change the way York and potentilly all historic cities manage traffic, relieving congestion and reducing emissions in York and potentially across the globe. To learn more, visit https://www.york.gov.uk/smart"
-  url: https://www.eventbrite.co.uk/e/digital-tech-supplier-event-for-step-a-285m-project-in-york-tickets-51580818617?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/51547747/133201531214/1/original.jpg?h=200&w=450&auto=compress&rect=0,39,796,398&s=270d263094227d1e4fe194de8db762a5
-  starts: 2018-11-23T09:30:00.0000000
-  ends: 2018-11-23T12:00:00.0000000
-  venue: National Railway Museum (Main Entrance)
 - name: New Horizons in Materials Modelling
   description: >-
     This annual one-day meeting in the heart of York brings together materials modelling researchers to discuss the latest developments in theory, algorithms and applications. This meeting will consist of invited and contributed talks, and a poster session. This, the 5th meeting in this series, will have three sessions, with invited speakers who will introduce the three main topic areas chosen for this meeting:
@@ -203,6 +163,14 @@
   starts: 2019-01-04T10:00:00.0000000
   ends: 2019-01-04T17:00:00.0000000
   venue: The Bar Convent
+- name: Women in Tech York End of Year Party!
+  description: "Welcome to Women in Tech York’s end of year party!\nWho are we?\nWe are a community of like-minded people, studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.\nCome and join us for an evening of fun to celebrate our first year! \nWomen in Tech York started 6 months ago, and we can’t believe how much we’ve grown! We wanted to use the end of the year to throw an event that thanks our attendees for their continued support - this month we’ll be partying at Spark York, where we’ll have drinks, music and free food thanks to our Sponsors Isotoma and Mitrefinch.\nDress code: Festive! Whether you’re rocking the sparkliest of dresses, or you’re happier in jeans and a jumper, you’ll be welcome! \n Event Timings\n18:00: Registration Opens\n18:30: Thank you\n18:45: Party! \n21:00: Event close\n ________________________________________ Nervous about attending?\n A WiT York ambassador will be outside the Spark event space to greet you on the night, direct you to the event space and answer any questions you may have.\n You can also join our online community beforehand or contact us directly via Twitter or email WomenInTechYork@gmail.com. • Slack: https://wit-york.slack.com • LinkedIn: Women in Tech York • Twitter: @WiT_York\n Code of Conduct\n The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack."
+  url: https://www.eventbrite.co.uk/e/women-in-tech-york-end-of-year-party-tickets-52402869393?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52515671/235318357053/1/original.jpg?h=200&w=450&auto=compress&rect=0,172,1748,874&s=b21334a3d30e7e9fd5bc37e51223d70b
+  starts: 2018-12-13T18:00:00.0000000
+  ends: 2018-12-13T21:00:00.0000000
+  venue: Spark York CIC
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -217,14 +185,6 @@
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
   starts: 2018-11-29T18:30:00.0000000
   ends: 2018-11-29T19:30:00.0000000
-- name: Women in Tech York End of Year Party!
-  description: "Welcome to Women in Tech York’s end of year party!\nWho are we?\nWe are a community of like-minded people, studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.\nCome and join us for an evening of fun to celebrate our first year! \nWomen in Tech York started 6 months ago, and we can’t believe how much we’ve grown! We wanted to use the end of the year to throw an event that thanks our attendees for their continued support - this month we’ll be partying at Spark York, where we’ll have drinks, music and free food thanks to our Sponsors Isotoma and Mitrefinch.\nDress code: Festive! Whether you’re rocking the sparkliest of dresses, or you’re happier in jeans and a jumper, you’ll be welcome! \n Event Timings\n18:00: Registration Opens\n18:30: Thank you\n18:45: Party! \n21:00: Event close\n ________________________________________ Nervous about attending?\n A WiT York ambassador will be outside the Spark event space to greet you on the night, direct you to the event space and answer any questions you may have.\n You can also join our online community beforehand or contact us directly via Twitter or email WomenInTechYork@gmail.com. • Slack: https://wit-york.slack.com • LinkedIn: Women in Tech York • Twitter: @WiT_York\n Code of Conduct\n The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack."
-  url: https://www.eventbrite.co.uk/e/women-in-tech-york-end-of-year-party-tickets-52402869393?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52515671/235318357053/1/original.jpg?h=200&w=450&auto=compress&rect=0,172,1748,874&s=b21334a3d30e7e9fd5bc37e51223d70b
-  starts: 2018-12-13T18:00:00.0000000
-  ends: 2018-12-13T21:00:00.0000000
-  venue: Spark York CIC
 - name: 'Code Club Meetup: York'
   description: "Code Club meetups are a place where teachers, veteran volunteers, and newcomers alike can meet in a fun, friendly and informal environment to talk about Code Club.\n\nBrand new to Code Club? Come along and find out more about what we do. Anna, our Regional Coordinator for the North East & Yorkshire, will be there to answer any questions you have about getting started. \n\nAlready involved with Code Club? This is a chance to meet other people involved in the community. Let’s swap stories and help each other!\n\nThere will be refreshments and snacks too!\nIf you have any questions before the event, please get in touch by email to yhne@codeclub.org.uk or by contacting @codeclubyandh on Twitter.\n \nThank you to Anaplan, York, for providing us with a wonderful venue. \n \nWe look forward to seeing you at the event!\n\n\n--------\n\nWould you like to share a story from your Code Club, or showcase a digital making project you are working on? I’m looking for a few volunteers who’d like to do a five-minute presentation. Please get in touch at yhne@codeclub.org.uk if you’re keen to get involved.\n\n\n---------\n\nFor further info on accessibility, location, and parking at the venue, check here\n\n\n \n\n\n \n\n"
   url: https://www.eventbrite.co.uk/e/code-club-meetup-york-tickets-52082854219?aff=ebapi
@@ -233,43 +193,23 @@
   starts: 2018-11-28T17:00:00.0000000
   ends: 2018-11-28T19:00:00.0000000
   venue: Anaplan
-- name: 'WE1: Website CMS Basic training (Wed 21 Nov 14:00-16:00)'
+- name: BioVale Members' Evening
   description: >-
-    These courses are for staff who have been approved by the website team only
+    It's our pleasure to invite you to our annual, exclusive members’ evening at York's historic Grays Court Hotel. There will be drinks, nibbles and good company to celebrate both your own and BioVale's 2018 success in developing the bioeconomy of Yorkshire and the Humber.As a festive treat, we will be hearing from three inspiring UK entrepreneurs behind some of our most innovative, biobased start-ups:
 
+    ·       Ben Dolman, CEO of Holiferm
 
-    WE1: Website CMS basics
+    ·       Alex Novitskiy, CEO of Nova Extraction
 
-    Prior knowledge: None
+    ·       Jonny Ruffell, Co-founder of Green Rose
 
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-wed-21-nov-1400-1600-tickets-50495425176?aff=ebapi
+    To round off the evening, there will be a bioeconomy review of the year from our new CEO, Sarah Hickingbottom and the BioVale Steering Group will be joining us.
+  url: https://www.eventbrite.co.uk/e/biovale-members-evening-tickets-52815805496?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/50118336/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=75127b248f7bf47299901234a50fbebe
-  starts: 2018-11-21T14:00:00.0000000
-  ends: 2018-11-21T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
+  logo: https://cdn.evbuc.com/images/52926047/132068918034/1/original.jpg?h=200&w=450&auto=compress&rect=0,20,524,262&s=0c53a2aff615fac3a40d5d142391b903
+  starts: 2018-12-12T17:00:00.0000000
+  ends: 2018-12-12T20:00:00.0000000
+  venue: Grays Inn Court
 - name: York Pi Jam - December
   description: >2-
 
@@ -345,6 +285,14 @@
   starts: 2018-11-22T11:00:00.0000000
   ends: 2018-11-22T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Tech-meet5
+  description: This event is the rearranged meet up of local computing teachers sharing ideas through mini presentations. Presentations include Master the Mainframe, Project Quantum as well as others and networking opportunities.  
+  url: https://www.eventbrite.co.uk/e/tech-meet5-tickets-52403375908?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52515998/53683224378/1/original.jpg?h=200&w=450&auto=compress&rect=0,8,676,338&s=65b08def095b7846e9629fff338deda9
+  starts: 2018-11-27T16:15:00.0000000
+  ends: 2018-11-27T17:30:00.0000000
+  venue: National STEM Centre
 - name: Vital Education Technology Conference 2019 - Vital etc
   description: >-
     Vital York Limited brings you their annual Education Technology Conference on Wednesday 27 March 2019. 
@@ -392,14 +340,6 @@
   starts: 2019-03-27T09:00:00.0000000
   ends: 2019-03-27T14:30:00.0000000
   venue: Dante & Nunthorpe Suite
-- name: Tech-meet5
-  description: This event is the rearranged meet up of local computing teachers sharing ideas through mini presentations. Presentations include Master the Mainframe, Project Quantum as well as others and networking opportunities.  
-  url: https://www.eventbrite.co.uk/e/tech-meet5-tickets-52403375908?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52515998/53683224378/1/original.jpg?h=200&w=450&auto=compress&rect=0,8,676,338&s=65b08def095b7846e9629fff338deda9
-  starts: 2018-11-27T16:15:00.0000000
-  ends: 2018-11-27T17:30:00.0000000
-  venue: National STEM Centre
 - name: The VIVIT Experience | Enhanced Undergraduate Post Mortem | York 18/05/19
   description: >-
     The VIVIT Experience is a nationally award winning academic experience offering you the chance to participate in a recreated post mortem experience conducted on VIVIT -the worlds only semi-synthetic human cadaver. During this special 5 hour experience you will be taken on a scientifically accurate recreated human body dissection learning in-depth anatomy and physiology relevant to your academic studies. The course is interactive and designed to support those students currently at York St John University and the surrounding areas studying in the biosciences, health, sports or associated degree pathways that require an understanding of advanced anatomy and physiology or indeed the associated clinical pathologies. The procedure will be lead by Samuel Piri & team who will first set out the basics of anatomical dissection before systematically working their way through the anatomical cavities comparing normal specimens with various states of pathology. You will also be taught a variety of important clinical skills including interpreting X-rays and linking symptoms to clinical diagnosis. There will be the opportunity to ask questions and at the same time handle the anatomical samples and even the chance to undertake some dissection for yourself.
