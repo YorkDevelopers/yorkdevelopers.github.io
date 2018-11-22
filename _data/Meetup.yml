@@ -1,43 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbcc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-11-21T07:30:00.0000000
-  ends: 2018-11-21T10:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxpbcc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-11-21T08:00:00.0000000
-  ends: 2018-11-21T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: Introduction to OpenAPI Spec & Lightning Talks
-  description: '<p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided. We will have vegetarian food, if you have any other dietary requirements or questions please send us a message.</p> <p>_______________________________</p> <p>★ The talks</p> <p>✩ Introduction to OpenAPI Spec<br/>Lorna Mitchell - <a href="https://twitter.com/lornajane" class="linkified">https://twitter.com/lornajane</a></p> <p>Open API Specification is a machine and human readable way to describe APIs. From these specs we can generate documentation, create libraries, and ensure that our users know exactly what to expect from our APIs. This talk shows you around OAS from the beginning, showing how to create the specs and recommending some tools to help the process. Once you have the spec, things get interesting and this talk will showcase some of the things that you can offer once your API is described in this way. This session is recommended for writers looking to become more API-savvy and API engineers wanting to make their APIs more useful to their users.</p> <p>✩ Lightning Talks<br/>Hugh Noble - <a href="https://twitter.com/hughnoble" class="linkified">https://twitter.com/hughnoble</a><br/>Tom Wade - <a href="https://twitter.com/TomWade" class="linkified">https://twitter.com/TomWade</a></p> <p>Talks TBA<br/>_______________________________</p> <p>★ Timings</p> <p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – Lightning Talk 1 - Tom Wade<br/>19:15 – Lightning Talk 2 - Hugh Noble<br/>19:30 – A little break<br/>19:35 – Introduction to OpenAPI Spec - Lorna Mitchell<br/>20:10ish – Pop over to the pub for a chat and a drink</p> <p>_______________________________</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform (<a href="https://bruntwood.co.uk/our-locations/leeds/platform/" class="linkified">https://bruntwood.co.uk/our-locations/leeds/platform/</a>) – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Infinity Works (<a href="https://www.infinityworks.com/" class="linkified">https://www.infinityworks.com/</a>) - Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href="https://twitter.com/InfinityWorks" class="linkified">https://twitter.com/InfinityWorks</a>)</p> <p>• Searchability (<a href="https://searchability.co.uk/" class="linkified">https://searchability.co.uk/</a>) - Searchability are a recruitment marketing company that help companies secure hard to find candidates either indirectly or directly via our award winning JobHoller platform. There are few sectors more challenged by skill-shortage than digital tech, we specialise in sourcing unique opportunities &amp; engaging relevant candidate audiences across the IT &amp; eCommerce sectors by fusing traditional methods with a twist of social magic, with particular focus &amp; expertise within Software Development in Yorkshire, where it all started for us in 2012. @SearchabilityUK (<a href="https://twitter.com/SearchabilityUK" class="linkified">https://twitter.com/SearchabilityUK</a>)</p> '
-  url: https://www.meetup.com/leedsphp/events/255888045/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
-  starts: 2018-11-21T18:30:00.0000000
-  ends: 2018-11-21T20:30:00.0000000
-  venue: Platform
-- name: Diversity, Chocolate and Safe Cracking
-  description: "<p>Greetings agileYorkers! This being our last event before Christmas will have a festive twist and I can guarantee there will be chocolate.</p> <p>Diversity, Chocolate and Safe Cracking</p> <p>Diversity. It's the topic of the hour. Organizations are all putting “diversity” and “equal opportunities” on every job ad. But, for some organizations it still seems to be a struggle. What's the goal? Do we want diverse teams because it's the \"right thing to do,\" or is it \"good for our teams and organizations?” Are we hiring minorities to keep up with quotas or our competition? This talk will engage the audience in a frank discussion on what diversity is, why we need it and how we might achieve it.</p> <p>About John Le Drew (@antz29)</p> <p>Starting my career in systems administration, I first dipped into software engineering writing automation and data migration tools mostly using Perl and VBScript on Windows. This sparked my interest and led to 10 years as a software engineer, working in a wide range of environments and languages including C, C++, PHP, Python, Ruby, C#, VB, Java, JavaScript and probably more that I have forgotten!</p> <p>After a decade as a software engineer, I then spent most of the last 10 years as an independent consultant. Working with companies to help them get the most out of their technology teams. I soon recognised that the technological problems I was hired to solve, were rooted not in technology, but in the way teams were collaborating. This led me to research lean and agile ways of working, transforming my practice.</p> <p>** Special thanks to our host York St John business school (@YSJBusiness) for their generosity and support **</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
-  url: https://www.meetup.com/agileYork/events/256329101/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
-  starts: 2018-11-21T18:30:00.0000000
-  ends: 2018-11-21T20:30:00.0000000
-  venue: York St.John University
-- name: York Hackspace Open Evening
-  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
-  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxpbcc/
-  is-free: true
-  starts: 2018-11-21T19:00:00.0000000
-  ends: 2018-11-21T21:00:00.0000000
-  venue: York Hackspace
 - name: Data Platform User Group (SQLWatch.io. PowerBI, DBA, Azure Managed Instances)-
   description: '<p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Marcin Gminski (sqlwatch.io)<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – John Martin (SentryOne)<br/>20:20 – 20:30 – Off t’pub.</p> <p>Marcin Gminski (sqlwatch.io) | SQLWatch Overview<br/>SQLWATCH is free and community-driven SQL Server performance monitor, available for SQL Server 2008R2 to 2017. SQLWATCH collects your server performance metrics, database growth and disk space, index statistics and more. In this session, we will go through the conceptual design, installation, data collection and reports. You can download it free from <a href="https://sqlwatch.io/" class="linkified">https://sqlwatch.io/</a></p> <p>Marcin is an independent SQL Server consultant specialising in performance, development, disaster recovery and data migrations. Following his degree in Computer Science, Marcin has gained over 15 years of experience and knowledge of technical architecture, data analysis, logical and physical design, coding, performance testing, implementation and support whilst working with SQL Server as well as Oracle and DB2 for global brands like Lloyds Banking Group, Wal-Mart, NHS and Solera Holdings.</p> <p>John Martin (SentryOne) | Azure Managed Instances</p> <p>Azure SQL DB Managed Instance is here, Microsoft want us to use it, but what is it good for and how should you use it? Let us get past the marketing hype and take a more in-depth look at Managed Instance and see what we can do with it.</p> <p>To get the most out of Managed Instance you need to understand the Azure infrastructure that underpins it and how this behaves, as well as understanding the differences between General Purpose and Business Critical tiers.</p> <p>There is far more to Managed Instance than meets the eye and if you do not understand the details then you run the risk of spending a lot more money and not getting the performance you want.<br/>During this training day we will cover the core Azure infrastructure components that underpin Managed Instance and look at how these can impact its usability and performance. We will work through use cases and migration scenarios that are available for us to use when it comes to making the jump to Azure. We will also look at how applications that use with SQL Server on-premises can be updated to get the most out of Managed Instance, including authentication and high-level architecture.</p> '
   url: https://www.meetup.com/leeds_data_platform/events/253209985/
@@ -127,6 +87,29 @@
   ends: 2018-12-05T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxqbhb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-12-05T08:00:00.0000000
+  ends: 2018-12-05T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: The JVM Thing 9.0
+  description: "<p>The JVM Thing 9.0 – Wednesday 5th December</p> <p>1st talk:</p> <p>Ten Things To Do With GraalVM - Presented by Chris Seaton, Research Manager @ Oracle Labs - <a href=\"https://www.linkedin.com/in/chrisgseaton/\" class=\"linkified\">https://www.linkedin.com/in/chrisgseaton/</a></p> <p>Oracle Labs is working on a new native compiler for the Java Virtual Machine called Graal. Graal is 'one compiler to rule them all', meaning we use it for both just-in-time compilation, and ahead-of-time compilation, for Java, JavaScript, Ruby, R, Python, C and other languages.<br/>You may have heard the term 'Graal' but you are probably not aware of how many incredible things it can do.</p> <p>It can run your Java application faster, compile Java to standalone native executables that start instantly, compile Java libraries to native libraries, run languages like JavaScript, Ruby, R, Python, including polyglot programs written in more than one of these languages, it can run native languages like C and C++ on the JVM, it gives you tools like debuggers that work across languages, and much more.</p> <p>Follow Chris on Twitter: @ChrisGSeaton</p> <p>Plus a series of lightning talks to be confirmed.</p> <p>Location – First Floor, Aireside House, 24-26, Aire Street, LS1 4HT.</p> <p>Free food &amp; drinks!</p> <p>Arrive – 6pm<br/>Start – 6.30pm<br/>Finish – 8.30pm<br/>Drinks afterwards</p> <p>Follow us on Twitter @The_JVM_Thing</p> <p>The JVM Thing is a tech networking group for the JVM language community, bringing together Software enthusiasts to show, tell, share knowledge and discuss key topics related to the JVM ecosystem.</p> "
+  url: https://www.meetup.com/Leeds-JVMThing/events/256380263/
+  is-free: true
+  starts: 2018-12-05T18:00:00.0000000
+  ends: 2018-12-05T21:00:00.0000000
+  venue: Aireside House
+- name: "YorkSwift Monthly Meetup  #007 - December \U0001F385"
+  description: "<p>This meetup is in the planning stage, details to be announced soon.</p> <p>## Agenda</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - TBA</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
+  url: https://www.meetup.com/YorkSwift/events/254863744/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/7/9/c/thumb_472007004.jpeg
+  starts: 2018-12-05T19:00:00.0000000
+  ends: 2018-12-05T21:00:00.0000000
+  venue: The Coffee Bureau
 - name: Front End York - December Meetup
   description: '<p>Speakers TBC</p> '
   url: https://www.meetup.com/YorkDevelopers/events/256416019/
@@ -136,6 +119,13 @@
   ends: 2018-12-05T21:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
+- name: York Hackspace Open Evening
+  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxqbhb/
+  is-free: true
+  starts: 2018-12-05T19:00:00.0000000
+  ends: 2018-12-05T21:00:00.0000000
+  venue: York Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbnb/
@@ -579,6 +569,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-05-13T06:30:00.0000000
   ends: 2019-05-13T09:30:00.0000000
+  venue: Drift In At fat Face
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzhbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-05-15T06:30:00.0000000
+  ends: 2019-05-15T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
 - name: Game Developers, Monthly Meeting
