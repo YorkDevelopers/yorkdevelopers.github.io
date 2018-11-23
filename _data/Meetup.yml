@@ -1,10 +1,3 @@
-- name: Data Platform User Group (SQLWatch.io. PowerBI, DBA, Azure Managed Instances)-
-  description: '<p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Marcin Gminski (sqlwatch.io)<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – John Martin (SentryOne)<br/>20:20 – 20:30 – Off t’pub.</p> <p>Marcin Gminski (sqlwatch.io) | SQLWatch Overview<br/>SQLWATCH is free and community-driven SQL Server performance monitor, available for SQL Server 2008R2 to 2017. SQLWATCH collects your server performance metrics, database growth and disk space, index statistics and more. In this session, we will go through the conceptual design, installation, data collection and reports. You can download it free from <a href="https://sqlwatch.io/" class="linkified">https://sqlwatch.io/</a></p> <p>Marcin is an independent SQL Server consultant specialising in performance, development, disaster recovery and data migrations. Following his degree in Computer Science, Marcin has gained over 15 years of experience and knowledge of technical architecture, data analysis, logical and physical design, coding, performance testing, implementation and support whilst working with SQL Server as well as Oracle and DB2 for global brands like Lloyds Banking Group, Wal-Mart, NHS and Solera Holdings.</p> <p>John Martin (SentryOne) | Azure Managed Instances</p> <p>Azure SQL DB Managed Instance is here, Microsoft want us to use it, but what is it good for and how should you use it? Let us get past the marketing hype and take a more in-depth look at Managed Instance and see what we can do with it.</p> <p>To get the most out of Managed Instance you need to understand the Azure infrastructure that underpins it and how this behaves, as well as understanding the differences between General Purpose and Business Critical tiers.</p> <p>There is far more to Managed Instance than meets the eye and if you do not understand the details then you run the risk of spending a lot more money and not getting the performance you want.<br/>During this training day we will cover the core Azure infrastructure components that underpin Managed Instance and look at how these can impact its usability and performance. We will work through use cases and migration scenarios that are available for us to use when it comes to making the jump to Azure. We will also look at how applications that use with SQL Server on-premises can be updated to get the most out of Managed Instance, including authentication and high-level architecture.</p> '
-  url: https://www.meetup.com/leeds_data_platform/events/253209985/
-  is-free: true
-  starts: 2018-11-22T17:30:00.0000000
-  ends: 2018-11-22T21:00:00.0000000
-  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpbjc/
@@ -39,14 +32,6 @@
   starts: 2018-11-28T18:45:00.0000000
   ends: 2018-11-28T21:00:00.0000000
   venue: Platform
-- name: SEO York - Networking
-  description: "<p>We are planning to host the event on the last Wednesday of each month. SEO York meetup is for general networking with like-minded people and to welcome people who are new to (or interested in) SEO and online marketing. Food and Drink will be provided in the form of hot and cold drinks (including beer) and buffet style food (sandwiches, etc...). You're welcome to arrive at any time after 6:00pm. We are open to suggestions regarding the schedule for future events and would like to hear from the group as to what they would like to see? A projector is available if you would like to do a presentation, please let me know before hand via meetup message. Also any allergies or special food requests, please let me know via meetup message. Thanks and it will be great to see you all there :)</p> "
-  url: https://www.meetup.com/SEO-York/events/gttgxpyxpblc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/c/0/f/5/thumb_471349397.jpeg
-  starts: 2018-11-28T19:00:00.0000000
-  ends: 2018-11-28T21:00:00.0000000
-  venue: York Priory Street Centre
 - name: York Hackspace Open Evening
   description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
   url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxpblc/
@@ -126,6 +111,29 @@
   starts: 2018-12-05T19:00:00.0000000
   ends: 2018-12-05T21:00:00.0000000
   venue: York Hackspace
+- name: Umbraco Meetup
+  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>More details to come!</p> "
+  url: https://www.meetup.com/umbLeeds/events/ltvqhqyxqbjb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
+  starts: 2018-12-06T17:30:00.0000000
+  ends: 2018-12-06T20:30:00.0000000
+  venue: twentysix
+- name: Bitcoin & Crypto discussion with drinks
+  description: '<p>We are meeting up for another informal discussion about bitcoin and other crypto-currencies.<br/>Meet like minded people and learn from others who are interested in crypto-currency.<br/>Arrive and leave when is convenient to you.<br/>For those of you who are only available in the early evening, you can come along before 7pm, as some of us will be there early.</p> <p>Do Feel free to bring drinks and the lovely food from the bar into the upper function room.</p> <p>Look forward to seeing you there!</p> '
+  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/256514812/
+  is-free: true
+  starts: 2018-12-06T19:00:00.0000000
+  ends: 2018-12-06T21:00:00.0000000
+  venue: Royal Oak
+- name: December lightning talks
+  description: "<p>At our December event we will be hosting a range of lightning talks. If you're interested in speaking please get in touch. Our lightning talk will last between 10-15 long.</p> <p>A lightning talk is a very short presentation lasting only a few minutes, given at a conference or similar forum. Several lightning talks will usually be delivered by different speakers in a single session, sometimes called a data blitz.<br/>(<a href=\"https://en.wikipedia.org/wiki/Lightning_talk\" class=\"linkified\">https://en.wikipedia.org/wiki/Lightning_talk</a>)</p> <p>Agenda TBA.</p> "
+  url: https://www.meetup.com/dotnetYork/events/256628844/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
+  starts: 2018-12-06T19:30:00.0000000
+  ends: 2018-12-06T21:30:00.0000000
+  venue: Trailight Boardroom
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbnb/
