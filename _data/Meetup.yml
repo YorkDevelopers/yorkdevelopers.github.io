@@ -95,8 +95,8 @@
   starts: 2018-12-05T19:00:00.0000000
   ends: 2018-12-05T21:00:00.0000000
   venue: The Coffee Bureau
-- name: Front End York - December Meetup
-  description: '<p>Speakers TBC</p> '
+- name: Front End York - End of year bonanza! JAMStack, Kanban, Web performance
+  description: "<p>Boy are we ending the year with a bang! 3 Speakers, 3 amazing topics, 3 something else's (shrug).</p> <p># Phil Hawksworth - What, why and how to JAMstack</p> <p>Modern tools and services can make cost effective web development far more powerful and dynamic than ever before. And the maturing ecosystem is blossoming to make things ever easier.</p> <p>In this talk, Phil will explain the approach of using JavaScript, APIs and Markup (popularly referred to as the JAMstack). We'll explore the advantages it has over other architectures and take a practical look at using Netlify to build and host sites this way. He'll demonstrate techniques useful to beginners and enterprise clients alike.</p> <p>We'll publish and update a new site. We'll roll our site back to any previous version. We'll create staging and production environments and try lots of other goodies.</p> <p># Sophie Weston - Stop starting, start finishing</p> <p>Sophie will be sharing her DevOps expertise on how Kanban can help you get more done!</p> <p># Andy Callaghan - Making a website performant: Part II</p> <p>The second part of Andy’s web performance talk. This part talks about user’s perception of performance, common server-side performance problems, and making a plan to deal with the all problems you’ve found.</p> <p>18:30 - Arrive &amp; bar<br/>19:00 - Sophie Weston<br/>19:30 - Drinks<br/>19:40 - Phil Hawksworth<br/>20:10 - Drinks<br/>20:20 - Andy Callaghan<br/>20:50 onwards - Social</p> "
   url: https://www.meetup.com/YorkDevelopers/events/256416019/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
