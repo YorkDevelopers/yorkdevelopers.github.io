@@ -1,16 +1,3 @@
-- name: 'The Science Society Christmas Lecture: Science QI '
-  description: >-
-    The St Peter’s Science Department will be sharing some their favourite ‘quite interesting’ facts from the world of science in their ever-popular Christmas lecture. Be prepared for whizzes, flash-bangs and the occasional klaxon.
-
-    Please either print off your ticket or display it to us on your smartphone or tablet on the evening.
-
-    Please note that parking on site will be limited, so other forms of transport are encouraged. The nearest public car park is Marygate, a few minutes' walk from the venue. Please contact us on 01904 526 315 or events@stpetersyork.org.uk if you have any access requirements.
-  url: https://www.eventbrite.co.uk/e/the-science-society-christmas-lecture-science-qi-tickets-49595516525?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/48984713/87497926893/1/original.jpg?h=200&w=450&auto=compress&rect=0,267,5184,2592&s=3d5e4cf0ce4b0f9a9a2cde5954f02696
-  starts: 2018-12-11T19:00:00.0000000
-  ends: 2018-12-11T20:30:00.0000000
-  venue: St Peter's School
 - name: Physics@Work 2018
   description: >-
     Join the University of York for a day of workshops and talks about the applications of physics in the world of work. Hear from employers about the value of studying physics at A-level and beyond and try out hands-on activities that give a taste of the many ways physics contributes to the UK economy.  
@@ -214,30 +201,6 @@
   starts: 2018-11-28T17:00:00.0000000
   ends: 2018-11-28T19:00:00.0000000
   venue: Anaplan
-- name: York Pi Jam - December
-  description: >2-
-
-    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
-
-    Celebrate Christmas with us by coding festive projects, wearing your Christmas jumper and eating mince pies.
-
-    You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
-
-    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
-  url: https://www.eventbrite.co.uk/e/york-pi-jam-december-tickets-49963571387?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/49444960/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=af3f836ff8aeb7159e4b58b9cfc4dd48
-  starts: 2018-12-10T17:15:00.0000000
-  ends: 2018-12-10T19:15:00.0000000
-  venue: Acomb Explore Library
-- name: Tech-meet5
-  description: This event is the rearranged meet up of local computing teachers sharing ideas through mini presentations. Presentations include Master the Mainframe, Project Quantum as well as others and networking opportunities.  
-  url: https://www.eventbrite.co.uk/e/tech-meet5-tickets-52403375908?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52515998/53683224378/1/original.jpg?h=200&w=450&auto=compress&rect=0,8,676,338&s=65b08def095b7846e9629fff338deda9
-  starts: 2018-11-27T16:15:00.0000000
-  ends: 2018-11-27T17:30:00.0000000
-  venue: National STEM Centre
 - name: Vital Education Technology Conference 2019 - Vital etc
   description: >-
     Vital York Limited brings you their annual Education Technology Conference on Wednesday 27 March 2019. 
@@ -285,6 +248,30 @@
   starts: 2019-03-27T09:00:00.0000000
   ends: 2019-03-27T14:30:00.0000000
   venue: Dante & Nunthorpe Suite
+- name: York Pi Jam - December
+  description: >2-
+
+    Want to know about the Raspberry Pi? Got your own but haven't explored it yet?
+
+    Celebrate Christmas with us by coding festive projects, wearing your Christmas jumper and eating mince pies.
+
+    You don't need to bring a Raspberry Pi as we have a kit but we also have an IT Suite so we have computers for Scratch etc. - but if you'd like to bring your own kit please feel free to do so.
+
+    Under 16s need to be accompanied by an adult. Tea and coffee is available but if your child needs a drink please bring one.
+  url: https://www.eventbrite.co.uk/e/york-pi-jam-december-tickets-49963571387?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/49444960/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=af3f836ff8aeb7159e4b58b9cfc4dd48
+  starts: 2018-12-10T17:15:00.0000000
+  ends: 2018-12-10T19:15:00.0000000
+  venue: Acomb Explore Library
+- name: Tech-meet5
+  description: This event is the rearranged meet up of local computing teachers sharing ideas through mini presentations. Presentations include Master the Mainframe, Project Quantum as well as others and networking opportunities.  
+  url: https://www.eventbrite.co.uk/e/tech-meet5-tickets-52403375908?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52515998/53683224378/1/original.jpg?h=200&w=450&auto=compress&rect=0,8,676,338&s=65b08def095b7846e9629fff338deda9
+  starts: 2018-11-27T16:15:00.0000000
+  ends: 2018-11-27T17:30:00.0000000
+  venue: National STEM Centre
 - name: 'PS1: Photoshop Essentials inc. for website editors (Wed 19th Dec 11:00-12:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -454,6 +441,79 @@
   starts: 2018-12-13T10:00:00.0000000
   ends: 2018-12-13T11:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'WO4: Research & PhD writing (Wed 6th Feb 10:00-11:00)'
+  description: >-
+    These courses are for students and staff at York St John University. Also available to Alumni.
+
+
+    WO4: Research & PhD writing
+
+    Prior knowledge: Reasonable day to day experience using Word.
+
+    Writing very long documents and working collaboratively is made easier using some of the tools in Word. It is beneficial to begin using these tools at the start of writing to gain the greatest benefit. This course can be tailored to your individual requirements.
+
+    The course includes:
+
+
+    Applying and amending heading styles 
+
+    Automatic table of contents 
+
+    Showing hidden formatting marks 
+
+    Making sections start on a new page 
+
+    Adding headers and footers 
+
+    Using section breaks to change page number styles 
+
+    Using languages, spelling and grammar check 
+
+    Checking word count 
+
+    Using the navigation pane 
+
+    Search and replace 
+
+    Controlling line spacing 
+
+    Adding captions
+
+
+
+    Controlling comments and tracking changes
+
+    Using auto-correct and quick parts to add text
+
+    Paragraph options and line numbers
+
+    Master documents - pros and cons
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/wo4-research-phd-writing-wed-6th-feb-1000-1100-tickets-52670651336?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52789752/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=47911e3b744f596d28eb036f43eba61a
+  starts: 2019-02-06T10:00:00.0000000
+  ends: 2019-02-06T11:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: Cisco Enterprise Networking Update
   description: "\r\n\r\n\r\n\r\n\r\n\r\n\r\nDear Cisco Customer,\r\n \r\nNetworks are changing, they need to be more secure, more dynamic and more powerful therefore Cisco is evolving Enterprise Networks and introducing The Network Intuitive. \r\n The Cisco Health and Local Government team invites customers to hear Cisco’s enterprise networking proposition and how Software Defined Networking can benefit your organisation. \r\n \r\n\r\n\r\n\r\n\r\n\r\nIntroduction to Cisco’s Software Defined Access\r\n\r\nCisco Software-Defined Access (SD-Access) gives you a single network fabric, from the edge to the cloud. You can set policy-based automation for users, devices, and things. Provide access to any application, without compromising on security. All while gaining awareness of what is hitting your network. With automatic segmentation of users, devices, and applications, you can deploy and secure services faster.\r\n\r\n\r\n \r\n\r\nCatalyst 9K\r\n\r\nCisco Catalyst 9000 fixed and modular, core and access LAN switches have been designed for an entirely new era of networking.\r\n\r\n\r\n \r\n\r\nMeraki Full Stack\r\n\r\nSee a live demonstration of the Meraki Dashboard and get an update on all new things Meraki including the new Insight capability.\r\n\r\n\r\n \r\n\r\nMeraki SD-WAN\r\n\r\nLearn how easy it can be to connect up all your branch sites effectively utilising the latest in SD-WAN technology embedded in the MX Security Appliances.\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
   url: https://www.eventbrite.com/e/cisco-enterprise-networking-update-tickets-51472007159?aff=ebapi
@@ -555,77 +615,4 @@
   logo: https://cdn.evbuc.com/images/52789590/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=a9ee8321135e6eb70ad49176e5e147a0
   starts: 2018-12-14T11:00:00.0000000
   ends: 2018-12-14T12:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'WO4: Research & PhD writing (Wed 6th Feb 10:00-11:00)'
-  description: >-
-    These courses are for students and staff at York St John University. Also available to Alumni.
-
-
-    WO4: Research & PhD writing
-
-    Prior knowledge: Reasonable day to day experience using Word.
-
-    Writing very long documents and working collaboratively is made easier using some of the tools in Word. It is beneficial to begin using these tools at the start of writing to gain the greatest benefit. This course can be tailored to your individual requirements.
-
-    The course includes:
-
-
-    Applying and amending heading styles 
-
-    Automatic table of contents 
-
-    Showing hidden formatting marks 
-
-    Making sections start on a new page 
-
-    Adding headers and footers 
-
-    Using section breaks to change page number styles 
-
-    Using languages, spelling and grammar check 
-
-    Checking word count 
-
-    Using the navigation pane 
-
-    Search and replace 
-
-    Controlling line spacing 
-
-    Adding captions
-
-
-
-    Controlling comments and tracking changes
-
-    Using auto-correct and quick parts to add text
-
-    Paragraph options and line numbers
-
-    Master documents - pros and cons
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/wo4-research-phd-writing-wed-6th-feb-1000-1100-tickets-52670651336?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52789752/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=47911e3b744f596d28eb036f43eba61a
-  starts: 2019-02-06T10:00:00.0000000
-  ends: 2019-02-06T11:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
