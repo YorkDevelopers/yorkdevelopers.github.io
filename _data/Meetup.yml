@@ -1,35 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxpblc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-11-28T07:30:00.0000000
-  ends: 2018-11-28T10:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxpblc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-11-28T08:00:00.0000000
-  ends: 2018-11-28T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: November - Beth North & Oliver Dunk
-  description: '<p>Join us to hear from Beth North and Oliver Dunk, as well as a chance to win a code for a year subscription for a Jetbrains toolbox product of your choice!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Beth North - Smashing the dev-test silo<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Oliver Dunk - Testing 1Password.com with Selenium<br/>8:20 - 9:00: Social &amp; point that people can leave<br/>--------------<br/>Talks:</p> <p>Beth North (@EccentricTester) - Smashing the dev-test silo<br/>Everyone wants to work in an agile team, it’s exciting. But there are a lot of rules and processes that the team should follow to be the most efficient it can. We’re human and don’t always get it right.</p> <p>One of the areas that I’ve seen be a big drain on creativity, learning and work getting done on time are silos. I’ve made the mistake of thinking it will go away or maybe I’ve just simply made it worse.</p> <p>Tech silos are sometimes problems for pretty much anyone working in an agile environment or transitioning from waterfall ways of working. Or even just a team that isn’t great at communicating. How we can avoid falling into simple traps? Are there ideas that we can implement to get us out of a dev-test silo environment? What can testers can do to contribute and change the situation?</p> <p>Oliver Dunk (@oliverdunk_) - Testing 1Password.com with Selenium<br/>As your website’s feature set grows, testing every user interaction after each commit can quickly become infeasible. Unfortunately, that makes avoiding regressions hard. In this talk, we’ll look at using automated regression testing to solve that problem, and I’ll show how Selenium can help you to maintain confidence in every release.</p> <p>We’ll start with a crash course in Selenium, and create a very basic test. Afterwards, I’ll take you on a whistle-stop tour of the tests we’ve written at 1Password, and show you how Selenium can test more than you might think.</p> <p>--------------<br/>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href="https://leedsjs.github.io/code-of-conduct/" class="linkified">https://leedsjs.github.io/code-of-conduct/</a></p> '
-  url: https://www.meetup.com/LeedsJS/events/256234762/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2018-11-28T18:45:00.0000000
-  ends: 2018-11-28T21:00:00.0000000
-  venue: Platform
-- name: York Hackspace Open Evening
-  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
-  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxpblc/
-  is-free: true
-  starts: 2018-11-28T19:00:00.0000000
-  ends: 2018-11-28T21:00:00.0000000
-  venue: York Hackspace
 - name: Christmas Panel Show 2018
   description: '<p>Our annual Christmas panel show with lots of mince pies or festive drinks, our popular Leeds Sharp quiz, plenty of goodies to win (2018 design Leeds Sharp t-shirts, LS# mugs, and lots more), and an interview with Adam Pridmore from Covéa Insurance chatting about coding practices in the finance sector (+ rants). Join us.</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/255794475/
@@ -72,7 +40,7 @@
   ends: 2018-12-05T11:00:00.0000000
   venue: La Bottega Milanese
 - name: The JVM Thing 9.0
-  description: "<p>The JVM Thing 9.0 – Wednesday 5th December</p> <p>1st talk:</p> <p>Ten Things To Do With GraalVM - Presented by Chris Seaton, Research Manager @ Oracle Labs - <a href=\"https://www.linkedin.com/in/chrisgseaton/\" class=\"linkified\">https://www.linkedin.com/in/chrisgseaton/</a></p> <p>Oracle Labs is working on a new native compiler for the Java Virtual Machine called Graal. Graal is 'one compiler to rule them all', meaning we use it for both just-in-time compilation, and ahead-of-time compilation, for Java, JavaScript, Ruby, R, Python, C and other languages.<br/>You may have heard the term 'Graal' but you are probably not aware of how many incredible things it can do.</p> <p>It can run your Java application faster, compile Java to standalone native executables that start instantly, compile Java libraries to native libraries, run languages like JavaScript, Ruby, R, Python, including polyglot programs written in more than one of these languages, it can run native languages like C and C++ on the JVM, it gives you tools like debuggers that work across languages, and much more.</p> <p>Follow Chris on Twitter: @ChrisGSeaton</p> <p>Plus a series of lightning talks to be confirmed.</p> <p>Location – First Floor, Aireside House, 24-26, Aire Street, LS1 4HT.</p> <p>Free food &amp; drinks!</p> <p>Arrive – 6pm<br/>Start – 6.30pm<br/>Finish – 8.30pm<br/>Drinks afterwards</p> <p>Follow us on Twitter @The_JVM_Thing</p> <p>The JVM Thing is a tech networking group for the JVM language community, bringing together Software enthusiasts to show, tell, share knowledge and discuss key topics related to the JVM ecosystem.</p> "
+  description: "<p>The JVM Thing 9.0 – Wednesday 5th December</p> <p>1st talk:</p> <p>Ten Things To Do With GraalVM - Presented by Chris Seaton, Research Manager @ Oracle Labs - <a href=\"https://www.linkedin.com/in/chrisgseaton/\" class=\"linkified\">https://www.linkedin.com/in/chrisgseaton/</a></p> <p>Oracle Labs is working on a new native compiler for the Java Virtual Machine called Graal. Graal is 'one compiler to rule them all', meaning we use it for both just-in-time compilation, and ahead-of-time compilation, for Java, JavaScript, Ruby, R, Python, C and other languages.<br/>You may have heard the term 'Graal' but you are probably not aware of how many incredible things it can do.</p> <p>It can run your Java application faster, compile Java to standalone native executables that start instantly, compile Java libraries to native libraries, run languages like JavaScript, Ruby, R, Python, including polyglot programs written in more than one of these languages, it can run native languages like C and C++ on the JVM, it gives you tools like debuggers that work across languages, and much more.</p> <p>Follow Chris on Twitter: @ChrisGSeaton</p> <p>Plus a series of lightning talks to include:</p> <p>Chris Wormald - 'Keeping Current with Legacy Systems'</p> <p>Danny Kay, Software Engineer @ Sky Betting &amp; Gaming - The Basics of Spring Cloud Stream</p> <p>Richard McIntyre, Software Engineering Manager @ DAZN - 'Going serverless with the JVM'</p> <p>Location – First Floor, Aireside House, 24-26, Aire Street, LS1 4HT.</p> <p>Free food &amp; drinks!</p> <p>Arrive – 6pm<br/>Start – 6.30pm<br/>Finish – 8.30pm<br/>Drinks afterwards</p> <p>Follow us on Twitter @The_JVM_Thing</p> <p>The JVM Thing is a tech networking group for the JVM language community, bringing together Software enthusiasts to show, tell, share knowledge and discuss key topics related to the JVM ecosystem.</p> "
   url: https://www.meetup.com/Leeds-JVMThing/events/256380263/
   is-free: true
   starts: 2018-12-05T18:00:00.0000000
@@ -158,6 +126,28 @@
   ends: 2018-12-12T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxqbqb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2018-12-12T08:00:00.0000000
+  ends: 2018-12-12T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: Leeds Blockchain - Bob Summerwill
+  description: "<p>As part our Leeds Blockchain Meetup's push to work closer with the local community we are joint hosting an event with the Leeds University Business School and the students’ Blockchain Society (LUUCABS).</p> <p>We are lucky to have a guest speaker from Vancouver who is a leader in the Ethereum field and is originally a local Leeds lad and alumni of the University.</p> <p>Bob Summerwill is a Blockchain Lead at Quantfury, Co-Founder and CTO of Varro Technologies, a community leader for the Ethereum Project and Community Ambassador for CryptoChicks. Originally from the UK, he has lived in Vancouver since 2003, and is now a dual citizen of Canada and the UK.</p> <p>He was foundational in the creation of the Enterprise Ethereum Alliance (EEA), working full-time on that project for ConsenSys from October 2016 to October 2017. He co-presented the Technical Roadmap at the EEA launch event and served first as Secretary of the Technical Working Group and subsequently as Vice-Chair of the Technical Steering Committee.</p> <p>That role followed a spell at the Ethereum Foundation, where he was a developer on the cpp-ethereum client, leading a major refactoring and revamp of the codebase (cpp-ethereum-1.3.0 \"Homecoming\") and led a failed effort at re-licensing cpp-ethereum which was intended to open up the possibility of an Ethereum client within Hyperledger seven months before Monax made that a reality.</p> <p>Bob will be giving a 1 hour talk as the headline speaker plus we will also be announcing our next blockchain hackathon following on from the successful one in November.</p> <p>After the talks there will be opportunity to network and ask further questions on campus.</p> <p>Address:<br/>Leeds University Business School<br/>Maurice Keyworth Building<br/>Moorland Road<br/>LS6 1AN, Leeds, UK</p> <p>Room: G02 (lecture hall next to the reception)<br/>Time: 18:00 – 20:00 + networking</p> <p>The Leeds University Union Cryptocurrency and Blockchain Society (LUUCABS) has as its objective to ensure that people can access as much knowledge as possible surrounding the topics of cryptocurrencies and blockchain technology. This comprises organisation of events such as trading and investing tutorials, blockchain coding lectures and hackathons. If you are experienced or even just curious in this rapidly growing technology – please be sure to follow on Facebook so that you can stay up to date with the events!</p> "
+  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/256667236/
+  is-free: true
+  starts: 2018-12-12T18:00:00.0000000
+  ends: 2018-12-12T20:00:00.0000000
+  venue: University of Leeds
+- name: York Hackspace Open Evening
+  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxqbqb/
+  is-free: true
+  starts: 2018-12-12T19:00:00.0000000
+  ends: 2018-12-12T21:00:00.0000000
+  venue: York Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbwb/
@@ -617,6 +607,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-05-20T06:30:00.0000000
   ends: 2019-05-20T09:30:00.0000000
+  venue: Drift In At fat Face
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzhbdc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-05-22T06:30:00.0000000
+  ends: 2019-05-22T09:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
 - name: Game Developers, Monthly Meeting
