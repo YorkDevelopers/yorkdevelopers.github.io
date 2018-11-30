@@ -1,18 +1,3 @@
-- name: Christmas Panel Show 2018
-  description: '<p>Our annual Christmas panel show with lots of mince pies or festive drinks, our popular Leeds Sharp quiz, plenty of goodies to win (2018 design Leeds Sharp t-shirts, LS# mugs, and lots more), and an interview with Adam Pridmore from Covéa Insurance chatting about coding practices in the finance sector (+ rants). Join us.</p> '
-  url: https://www.meetup.com/Leeds-Sharp/events/255794475/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2018-11-29T19:00:00.0000000
-  ends: 2018-11-29T21:00:00.0000000
-  venue: Platform
-- name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are sometimes one or two short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
-  url: https://www.meetup.com/LeedsRubyThing/events/qfxdtpyxpbmc/
-  is-free: true
-  starts: 2018-11-29T19:30:00.0000000
-  ends: 2018-11-29T23:30:00.0000000
-  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbfb/
@@ -40,20 +25,12 @@
   ends: 2018-12-05T11:00:00.0000000
   venue: La Bottega Milanese
 - name: The JVM Thing 9.0
-  description: "<p>The JVM Thing 9.0 – Wednesday 5th December</p> <p>1st talk:</p> <p>Ten Things To Do With GraalVM - Presented by Chris Seaton, Research Manager @ Oracle Labs - <a href=\"https://www.linkedin.com/in/chrisgseaton/\" class=\"linkified\">https://www.linkedin.com/in/chrisgseaton/</a></p> <p>Oracle Labs is working on a new native compiler for the Java Virtual Machine called Graal. Graal is 'one compiler to rule them all', meaning we use it for both just-in-time compilation, and ahead-of-time compilation, for Java, JavaScript, Ruby, R, Python, C and other languages.<br/>You may have heard the term 'Graal' but you are probably not aware of how many incredible things it can do.</p> <p>It can run your Java application faster, compile Java to standalone native executables that start instantly, compile Java libraries to native libraries, run languages like JavaScript, Ruby, R, Python, including polyglot programs written in more than one of these languages, it can run native languages like C and C++ on the JVM, it gives you tools like debuggers that work across languages, and much more.</p> <p>Follow Chris on Twitter: @ChrisGSeaton</p> <p>Plus a series of lightning talks to include:</p> <p>Chris Wormald - 'Keeping Current with Legacy Systems'</p> <p>Danny Kay, Software Engineer @ Sky Betting &amp; Gaming - The Basics of Spring Cloud Stream</p> <p>Richard McIntyre, Software Engineering Manager @ DAZN - 'Going serverless with the JVM'</p> <p>Location – First Floor, Aireside House, 24-26, Aire Street, LS1 4HT.</p> <p>Free food &amp; drinks!</p> <p>Arrive – 6pm<br/>Start – 6.30pm<br/>Finish – 8.30pm<br/>Drinks afterwards</p> <p>Follow us on Twitter @The_JVM_Thing</p> <p>The JVM Thing is a tech networking group for the JVM language community, bringing together Software enthusiasts to show, tell, share knowledge and discuss key topics related to the JVM ecosystem.</p> "
+  description: "<p>The JVM Thing 9.0 – Wednesday 5th December</p> <p>1st talk:</p> <p>Ten Things To Do With GraalVM - Presented by Chris Seaton, Research Manager @ Oracle Labs - <a href=\"https://www.linkedin.com/in/chrisgseaton/\" class=\"linkified\">https://www.linkedin.com/in/chrisgseaton/</a></p> <p>Oracle Labs is working on a new native compiler for the Java Virtual Machine called Graal. Graal is 'one compiler to rule them all', meaning we use it for both just-in-time compilation, and ahead-of-time compilation, for Java, JavaScript, Ruby, R, Python, C and other languages.<br/>You may have heard the term 'Graal' but you are probably not aware of how many incredible things it can do.</p> <p>It can run your Java application faster, compile Java to standalone native executables that start instantly, compile Java libraries to native libraries, run languages like JavaScript, Ruby, R, Python, including polyglot programs written in more than one of these languages, it can run native languages like C and C++ on the JVM, it gives you tools like debuggers that work across languages, and much more.</p> <p>Follow Chris on Twitter: @ChrisGSeaton</p> <p>Plus a series of lightning talks to include:</p> <p>Chris Wormald - 'Keeping Current with Legacy Systems'</p> <p>Danny Kay, Software Engineer @ Sky Betting &amp; Gaming - The Basics of Spring Cloud Stream</p> <p>Richard McIntyre, Software Engineering Manager @ DAZN - 'Going serverless with the JVM'</p> <p>Ben Foster, Senior Consultant @ Infinity Works - 'Talking to Alexa Serverless'</p> <p>Location – First Floor, Aireside House, 24-26, Aire Street, LS1 4HT.</p> <p>Free food &amp; drinks!</p> <p>Arrive – 6pm<br/>Start – 6.30pm<br/>Finish – 8.30pm<br/>Drinks afterwards</p> <p>Follow us on Twitter @The_JVM_Thing</p> <p>The JVM Thing is a tech networking group for the JVM language community, bringing together Software enthusiasts to show, tell, share knowledge and discuss key topics related to the JVM ecosystem.</p> "
   url: https://www.meetup.com/Leeds-JVMThing/events/256380263/
   is-free: true
   starts: 2018-12-05T18:00:00.0000000
   ends: 2018-12-05T21:00:00.0000000
   venue: Aireside House
-- name: "YorkSwift Monthly Meetup  #007 - December \U0001F385"
-  description: "<p>This meetup is in the planning stage, details to be announced soon.</p> <p>## Agenda</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - TBA</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
-  url: https://www.meetup.com/YorkSwift/events/254863744/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/7/9/c/thumb_472007004.jpeg
-  starts: 2018-12-05T19:00:00.0000000
-  ends: 2018-12-05T21:00:00.0000000
-  venue: The Coffee Bureau
 - name: Front End York - End of year bonanza! JAMStack, Kanban, Web performance
   description: "<p>Boy are we ending the year with a bang! 3 Speakers, 3 amazing topics, 3 something else's (shrug).</p> <p># Phil Hawksworth - What, why and how to JAMstack</p> <p>Modern tools and services can make cost effective web development far more powerful and dynamic than ever before. And the maturing ecosystem is blossoming to make things ever easier.</p> <p>In this talk, Phil will explain the approach of using JavaScript, APIs and Markup (popularly referred to as the JAMstack). We'll explore the advantages it has over other architectures and take a practical look at using Netlify to build and host sites this way. He'll demonstrate techniques useful to beginners and enterprise clients alike.</p> <p>We'll publish and update a new site. We'll roll our site back to any previous version. We'll create staging and production environments and try lots of other goodies.</p> <p># Sophie Weston - Stop starting, start finishing</p> <p>Sophie will be sharing her DevOps expertise on how Kanban can help you get more done!</p> <p># Andy Callaghan - Making a website performant: Part II</p> <p>The second part of Andy’s web performance talk. This part talks about user’s perception of performance, common server-side performance problems, and making a plan to deal with the all problems you’ve found.</p> <p>18:30 - Arrive &amp; bar<br/>19:00 - Sophie Weston<br/>19:30 - Drinks<br/>19:40 - Phil Hawksworth<br/>20:10 - Drinks<br/>20:20 - Andy Callaghan<br/>20:50 onwards - Social</p> "
   url: https://www.meetup.com/YorkDevelopers/events/256416019/
@@ -117,6 +94,14 @@
   ends: 2018-12-10T10:30:00.0000000
   venue: Drift In At fat Face
   endorsed: true
+- name: "YorkSwift Monthly Meetup  #007 - December - Back to basics \U0001F385"
+  description: "<p>A light back to basics Meetup, lets look though some of the swift language basics of Foundation, strings, arrays, enums, structs, classes!<br/>There may or may not be a Christmas theme.</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - Swift Language</p> <p>Lets run through some example playgrounds, learn how to manipulate your data in some basic use case scenarios.</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
+  url: https://www.meetup.com/YorkSwift/events/254863744/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/7/9/c/thumb_472007004.jpeg
+  starts: 2018-12-10T19:00:00.0000000
+  ends: 2018-12-10T21:00:00.0000000
+  venue: The Coffee Bureau
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbqb/
