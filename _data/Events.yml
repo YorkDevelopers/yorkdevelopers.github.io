@@ -528,6 +528,14 @@
   starts: 2018-12-05T19:00:00.0000000
   ends: 2018-12-05T21:00:00.0000000
   venue: York Hackspace
+- name: December lightning talks
+  description: "<p>At our December event, we will be hosting a range of lightning talks. If you're interested in speaking please get in touch. Our lightning talk will last between 10-15 long.</p> <p>A lightning talk is a very short presentation lasting only a few minutes, given at a conference or similar forum. Several lightning talks will usually be delivered by different speakers in a single session, sometimes called a data blitz.<br/>(<a href=\"https://en.wikipedia.org/wiki/Lightning_talk\" class=\"linkified\">https://en.wikipedia.org/wiki/Lightning_talk</a>)</p> <p>\U0001F4C5 Agenda<br/>- \U0001F4E2 Welcome/Introduction<br/>- \U0001F44B Round Table<br/>- \U0001F469‍\U0001F3EB Sessions<br/>- \U0001F37B Spark (Food, Drinks)</p> <p>\U0001F469‍\U0001F3EB Sessions<br/>- Multi-platform Development with Unit (Paul Jervis)<br/>- My solution to an interesting C# problem (David Betteridge)<br/>- AutoMapper fun (Kevin Smith)<br/>- Grenfell Tower survivors website (Connor Gurney)<br/>- TBA</p> "
+  url: https://www.meetup.com/dotnetYork/events/256628844/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
+  starts: 2018-12-06T18:30:00.0000000
+  ends: 2018-12-06T20:30:00.0000000
+  venue: Trailight Boardroom
 - name: Shuffleboard special Umbraco Leeds
   description: "<p>December twist! Let's go to the BrewDog in North Street to play some shuffleboard and have fun!</p> <p>We have reserved 2 tables for 1h, from 18:00, but please arrive earlier than that!</p> "
   url: https://www.meetup.com/umbLeeds/events/ltvqhqyxqbjb/
@@ -558,14 +566,6 @@
   starts: 2018-12-06T19:00:00.0000000
   ends: 2018-12-06T21:00:00.0000000
   venue: Royal Oak
-- name: December lightning talks
-  description: "<p>At our December event we will be hosting a range of lightning talks. If you're interested in speaking please get in touch. Our lightning talk will last between 10-15 long.</p> <p>A lightning talk is a very short presentation lasting only a few minutes, given at a conference or similar forum. Several lightning talks will usually be delivered by different speakers in a single session, sometimes called a data blitz.<br/>(<a href=\"https://en.wikipedia.org/wiki/Lightning_talk\" class=\"linkified\">https://en.wikipedia.org/wiki/Lightning_talk</a>)</p> <p>Agenda TBA.</p> "
-  url: https://www.meetup.com/dotnetYork/events/256628844/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2018-12-06T19:30:00.0000000
-  ends: 2018-12-06T21:30:00.0000000
-  venue: Trailight Boardroom
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbnb/
@@ -614,6 +614,13 @@
   starts: 2018-12-12T19:00:00.0000000
   ends: 2018-12-12T21:00:00.0000000
   venue: York Hackspace
+- name: Crypto catchup (Friday)
+  description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
+  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyxqbsb/
+  is-free: true
+  starts: 2018-12-14T12:30:00.0000000
+  ends: 2018-12-14T13:30:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbwb/
