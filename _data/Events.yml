@@ -67,22 +67,6 @@
   starts: 2019-01-30T09:00:00.0000000
   ends: 2019-01-30T17:30:00.0000000
   venue: The Ron Cooke Hub
-- name: New Horizons in Materials Modelling
-  description: >-
-    This annual one-day meeting in the heart of York brings together materials modelling researchers to discuss the latest developments in theory, algorithms and applications. This meeting will consist of invited and contributed talks, and a poster session. This, the 5th meeting in this series, will have three sessions, with invited speakers who will introduce the three main topic areas chosen for this meeting:
-
-     Magnetic/electrical properties: Dr Richard Evans (University of York)
-
-    Transport properties: Dr Paul Bristowe (University of Cambridge)
-
-    Structural properties:Prof Keith Refson (Royal Holloway, University of London)
-
-    Although these topics are the main focus of the meeting, contributions from any area of atomistic simulation are welcome. At this event you will meet with leading researchers working with quantum / atomistic simulations from across the UK. Begin the New Year with a simulation! We look forward to meeting you in York next January.
-  url: https://www.eventbrite.co.uk/e/new-horizons-in-materials-modelling-tickets-52152334035?aff=ebapi
-  is-free: true
-  starts: 2019-01-04T10:00:00.0000000
-  ends: 2019-01-04T17:00:00.0000000
-  venue: The Bar Convent
 - name: The VIVIT Experience | Enhanced Undergraduate Post Mortem | York 18/05/19
   description: >-
     The VIVIT Experience is a nationally award winning academic experience offering you the chance to participate in a recreated post mortem experience conducted on VIVIT -the worlds only semi-synthetic human cadaver. During this special 5 hour experience you will be taken on a scientifically accurate recreated human body dissection learning in-depth anatomy and physiology relevant to your academic studies. The course is interactive and designed to support those students currently at York St John University and the surrounding areas studying in the biosciences, health, sports or associated degree pathways that require an understanding of advanced anatomy and physiology or indeed the associated clinical pathologies. The procedure will be lead by Samuel Piri & team who will first set out the basics of anatomical dissection before systematically working their way through the anatomical cavities comparing normal specimens with various states of pathology. You will also be taught a variety of important clinical skills including interpreting X-rays and linking symptoms to clinical diagnosis. There will be the opportunity to ask questions and at the same time handle the anatomical samples and even the chance to undertake some dissection for yourself.
@@ -239,6 +223,99 @@
   starts: 2018-12-19T11:00:00.0000000
   ends: 2018-12-19T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Collaborative working with Office 365 including Teams (Wed 12 Dec 14:00-15:00)
+  description: >
+    These courses are for students and staff at York St John University. 
+
+
+    OF1: Collaborative working with Office 365 including Teams
+
+    Prior knowledge: none
+
+
+    Office 365 offers many ways to work collaboratively.  Files stored in OneDrive can be accessed from anywhere online and can be shared and simultaneously worked on. Microsoft Teams provides an easy way to work collaboratively with other staff and students. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Getting into Office 365
+
+    Using Office online apps
+
+    Working with OneDrive to store documents
+
+    Sharing personal documents and collaborative editing
+
+    Creating and managing Microsoft Teams
+
+    Managing Team files in OneDrive
+
+    Key apps for Team based collaborative working including Planner and OneNote
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+
+    OF1: Collaborative working with Office 365 including Teams
+  url: https://www.eventbrite.co.uk/e/collaborative-working-with-office-365-including-teams-wed-12-dec-1400-1500-tickets-53132929021?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/53344276/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=53182d871e5ecaef9018169b227828b7
+  starts: 2018-12-12T14:00:00.0000000
+  ends: 2018-12-12T15:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'WE1: Website CMS Basic training (Wed 19th Dec 12:00-14:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-wed-19th-dec-1200-1400-tickets-52207705653?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52274719/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=e33afe9f5adbd0cbb9bb2ddb81f95a00
+  starts: 2018-12-19T12:00:00.0000000
+  ends: 2018-12-19T14:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'WO4: Research & PhD writing (Wed 6th Feb 10:00-11:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -311,43 +388,6 @@
   logo: https://cdn.evbuc.com/images/52789752/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=47911e3b744f596d28eb036f43eba61a
   starts: 2019-02-06T10:00:00.0000000
   ends: 2019-02-06T11:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'WE1: Website CMS Basic training (Wed 19th Dec 12:00-14:00)'
-  description: >-
-    These courses are for staff who have been approved by the website team only
-
-
-    WE1: Website CMS basics
-
-    Prior knowledge: None
-
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-wed-19th-dec-1200-1400-tickets-52207705653?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52274719/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=e33afe9f5adbd0cbb9bb2ddb81f95a00
-  starts: 2018-12-19T12:00:00.0000000
-  ends: 2018-12-19T14:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'WO4: Research & PhD writing (Fri 13 Dec 10:00-11:00)'
   description: >-
@@ -422,34 +462,37 @@
   starts: 2018-12-13T10:00:00.0000000
   ends: 2018-12-13T11:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Collaborative working with Office 365 including Teams (Wed 12 Dec 14:00-15:00)
+- name: 'AD1: Making accessible documents (Wed 19 Dec 15:00-16:00)'
   description: >
     These courses are for students and staff at York St John University. 
 
 
-    OF1: Collaborative working with Office 365 including Teams
+    AD1: Making accessible documents
 
     Prior knowledge: none
 
-
-    Office 365 offers many ways to work collaboratively.  Files stored in OneDrive can be accessed from anywhere online and can be shared and simultaneously worked on. Microsoft Teams provides an easy way to work collaboratively with other staff and students. This course can be customised for different teams or delivered to student groups.
+    Making documents accessible is important for everyone, not just those with visual impairments, hearing impairments and mobility limitations. As well as being best practise, new regulations are coming into force for all websites. Learn how to make PowerPoint presentations, Word documents, Excel Spreadsheets and PDFs accessible in a few easy steps. This course can be customised for different teams or delivered to student groups.
 
     This course includes:
 
 
-    Getting into Office 365
+    Adding captions to images
 
-    Using Office online apps
+    Controlling the order in which screen readers navigate documents
 
-    Working with OneDrive to store documents
+    Creating accessible tables
 
-    Sharing personal documents and collaborative editing
+    Using colour in documents
 
-    Creating and managing Microsoft Teams
+    Adding meta-data to documents
 
-    Managing Team files in OneDrive
+    Creating accessible hyperlinks
 
-    Key apps for Team based collaborative working including Planner and OneNote
+    Using the built-in accessibility checkers
+
+    Discussion of different formats for accessible documents
+
+    Brief discussion of other YSJ systems
 
 
 
@@ -472,11 +515,11 @@
     No, we have a list of bookings
 
     OF1: Collaborative working with Office 365 including Teams
-  url: https://www.eventbrite.co.uk/e/collaborative-working-with-office-365-including-teams-wed-12-dec-1400-1500-tickets-53132929021?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/ad1-making-accessible-documents-wed-19-dec-1500-1600-tickets-53133317182?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/53344276/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=53182d871e5ecaef9018169b227828b7
-  starts: 2018-12-12T14:00:00.0000000
-  ends: 2018-12-12T15:00:00.0000000
+  logo: https://cdn.evbuc.com/images/53344847/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=e02841d923d03d19ea445ee3e42a09a8
+  starts: 2018-12-19T15:00:00.0000000
+  ends: 2018-12-19T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'WO4: Research & PhD writing (Fri 14 Dec 11:00-12:00)'
   description: >-
@@ -662,65 +705,6 @@
   logo: https://cdn.evbuc.com/images/53356644/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=4fce5919a4df6c4a15db32bb8bd5ac59
   starts: 2019-01-30T14:00:00.0000000
   ends: 2019-01-30T15:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'AD1: Making accessible documents (Wed 19 Dec 15:00-16:00)'
-  description: >
-    These courses are for students and staff at York St John University. 
-
-
-    AD1: Making accessible documents
-
-    Prior knowledge: none
-
-    Making documents accessible is important for everyone, not just those with visual impairments, hearing impairments and mobility limitations. As well as being best practise, new regulations are coming into force for all websites. Learn how to make PowerPoint presentations, Word documents, Excel Spreadsheets and PDFs accessible in a few easy steps. This course can be customised for different teams or delivered to student groups.
-
-    This course includes:
-
-
-    Adding captions to images
-
-    Controlling the order in which screen readers navigate documents
-
-    Creating accessible tables
-
-    Using colour in documents
-
-    Adding meta-data to documents
-
-    Creating accessible hyperlinks
-
-    Using the built-in accessibility checkers
-
-    Discussion of different formats for accessible documents
-
-    Brief discussion of other YSJ systems
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-
-    OF1: Collaborative working with Office 365 including Teams
-  url: https://www.eventbrite.co.uk/e/ad1-making-accessible-documents-wed-19-dec-1500-1600-tickets-53133317182?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/53344847/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=e02841d923d03d19ea445ee3e42a09a8
-  starts: 2018-12-19T15:00:00.0000000
-  ends: 2018-12-19T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'OF1: Collaborative working with Office 365 including Teams (Mon 21st Jan 14:00-15:00)'
   description: >
