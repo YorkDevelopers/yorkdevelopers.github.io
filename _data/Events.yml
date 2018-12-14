@@ -55,12 +55,13 @@
   ends: 2018-12-19T21:00:00.0000000
   venue: York Hackspace
 - name: YorkDevelopers - Christmas Dinner
-  description: '<p>Come and join us to celebrate the festive season together at our YorkDevelopers Christmas Meal. Location to be revealed soon in York City Centre - but please make this a date for your diary!</p> '
+  description: '<p>Come and join us to celebrate the festive season together at our YorkDevelopers Christmas Meal. Make this a date for your diary!</p> '
   url: https://www.meetup.com/YorkDevelopers/events/256711359/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2018-12-20T18:30:00.0000000
   ends: 2018-12-20T20:30:00.0000000
+  venue: Wagamama York
   endorsed: true
 - name: ACCU York [Dec 2018]
   description: "<p>Talk #1 from Andy Callaghan - Making a website performant: Part II</p> <p>The second part of Andy’s web performance talk.</p> <p>Talk #2 from Maxime Maigret - Pragmatic TDD, from design driven by the tests</p> <p>TDD is a very powerful tool to help you to use a simple design when you need to implement a requirement. It's more than just about testing, it gives a guideline to follow to avoid pitfall and to increase code maintainability and readability</p> <p>Many thanks to York Science Park (YSP) for providing us a place to meet.</p> "
