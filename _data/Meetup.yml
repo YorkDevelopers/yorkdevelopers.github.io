@@ -1,35 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyxqbzb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-12-19T07:00:00.0000000
-  ends: 2018-12-19T10:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxqbzb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-12-19T08:00:00.0000000
-  ends: 2018-12-19T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: CodeUp Leeds Meetup
-  description: "<p>THE SIGN-UP PERIOD IS NOW OPEN. PLEASE NOTE THIS MEETUP WILL TAKE PLACE ON WEDNESDAY 19TH INSTEAD OF THURSDAY.</p> <p>Remember to bring a laptop in order to participate in the sessions!</p> <p>DECEMBER AGENDA</p> <p>* Dynamic WordPress Sites for the Complete Beginner (with Graham Trott): join us in this highly interactive workshop where you will learn what domain-specific languages (DSL) are and use one to build a JavaScript plugin to add dynamic elements to your own WordPress site! PREREQUISITES: None, although basic knowledge of HTML/CSS would be useful.<br/>* Python 102 (Repeat): follow-up to the \"Python Programming for Beginners\" session from last month where you will learn how to build a web application in Flask using an IDE. PREREQUISITES: Basic Python knowledge. People who attended last month's Python session should be able to follow along easily.<br/>* Learning C# (Community talk): the modern de facto programming language of the Microsoft software ecosystem. If you're interested in an introduction to .NET development in C#, make sure not to miss this one! PREREQUISITES: understanding of fundamental programming concepts (people who attended the \"Beginners Intro to Coding\" or \"Python Programming\" workshops should be able to follow along).</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
-  url: https://www.meetup.com/CodeUp-Leeds/events/lfkxkqyxqbbc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
-  starts: 2018-12-19T18:45:00.0000000
-  ends: 2018-12-19T21:00:00.0000000
-  venue: 3rd Floor, Apsley House
-- name: York Hackspace Open Evening
-  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
-  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxqbzb/
-  is-free: true
-  starts: 2018-12-19T19:00:00.0000000
-  ends: 2018-12-19T21:00:00.0000000
-  venue: York Hackspace
 - name: YorkDevelopers - Christmas Dinner
   description: '<p>Come and join us to celebrate the festive season together at our YorkDevelopers Christmas Meal. Make this a date for your diary!</p> '
   url: https://www.meetup.com/YorkDevelopers/events/256711359/
@@ -79,6 +47,14 @@
   ends: 2018-12-24T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Free Open to Everyone Evening!
+  description: "<p><b>What's happening?</b></p> <p>Are you an artist, maker, hobbyist, tinkerer, engineer or someone who just likes to make things or even just discuss creativity in Leeds?</p> <p>Come along and talk to like minded people and members at Leeds Hackspace, feel free to bring along a project that you're working on or just have a chat.</p> <p><b>So is this free? Do I have to book or something?</b></p> <p>Yes, it is free. Leeds Hackspace is a work-space, community group type and workshop area. We have snacks you can buy at our own Tuck Shop, internet access via WiFi or wired Ethernet.</p> <p><b>There doesn't seem to be many attending?</b></p> <p>A lot of our members, some 30+ do not use Meetup, and they regularly attend the open evenings/days without RSVPing on here. So don't worry, the open evenings happen regularly and every week.</p> <p><b>What do you have?</b></p> <p>Wood and metal workshop, laser cutter, 3D Printer, Vinyl cutter, computers, electronics, a heat press, and all sorts of <a href=\"https://wiki.leedshackspace.org.uk/wiki/Leeds_Hackspace\">other goodies</a>. However, using a lot of these things require an induction and for you to be a paying member, but we have these open evenings so that you can look around and check the place out. Some members are happy to help you if you need to be pointed in the right direction or have something that needs repairs.</p> <p><b>So is this a business.. ?</b></p> <p>Leeds Hackspace is registered as a business, but it is run voluntarily by Directors and members, if you want to see a change you can make it happen.</p> <p><b>How do I get there?</b></p> <p>You can find out more details about visiting here: <a href=\"http://leedshackspace.org.uk/getting-here/\"><a href=\"http://leedshackspace.org.uk/getting-here/\" class=\"linkified\">http://leedshackspace.org.uk/getting-here/</a></a> there is limited on-site free parking, and on-street parking is free after 6pm.</p> <p><b>What if I want to ask more questions?</b></p> <p>We also have a mailing list: <a href=\"https://groups.google.com/forum/#!forum/leeds-hack-space\" class=\"linkified\">https://groups.google.com/forum/#!forum/leeds-hack-space</a></p> "
+  url: https://www.meetup.com/Leeds-Hackspace/events/tkfdbmyxqbhc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/6/c/e/a/thumb_427947882.jpeg
+  starts: 2018-12-25T19:00:00.0000000
+  ends: 2018-12-25T23:30:00.0000000
+  venue: Leeds Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyxqbjc/
@@ -121,6 +97,21 @@
   ends: 2019-01-02T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzcbdb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-01-02T08:00:00.0000000
+  ends: 2019-01-02T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: York Hackspace Open Evening
+  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
+  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyzcbdb/
+  is-free: true
+  starts: 2019-01-02T19:00:00.0000000
+  ends: 2019-01-02T21:00:00.0000000
+  venue: York Hackspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbkb/
@@ -564,6 +555,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-06-10T06:00:00.0000000
   ends: 2019-06-10T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbqb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-12T06:00:00.0000000
+  ends: 2019-06-12T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
