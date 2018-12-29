@@ -76,25 +76,6 @@
   starts: 2019-05-18T10:00:00.0000000
   ends: 2019-05-18T15:00:00.0000000
   venue: Sports Hall, Foss Building
-- name: 'The bitter future for coffee: Challenges in a changing world'
-  description: >-
-    Speaker: Professor Rob Marchant, Department of Environment and Geography
-
-    Department of Environment and Geography Lecture Series
-
-    Coffee has become an export of global significance for countries in East Africa, reaching diverse markets across the world, and with large numbers of farmers involved in its production. There are enormous potential benefits from the growing coffee industry but significant environmental, economic and social challenges are emerging. Drawing on the experience of East Africa this talk will consider the nature of these challenges and how they might be overcome for the benefit of producers and consumers.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/the-bitter-future-for-coffee-challenges-in-a-changing-world-tickets-53726043041?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/53959904/22468345120/1/original.20181214-130640?h=200&w=450&auto=compress&rect=0,0,800,400&s=aea28c3be60c8dc6b9a48976c06a2935
-  starts: 2019-02-20T19:30:00.0000000
-  ends: 2019-02-20T20:30:00.0000000
-  venue: Bowland Auditorium
 - name: 'From scarcity to abundance: How water resource management can contribute to cooperation and stability in the Middle East'
   description: >-
     Speaker: Dr Clive Lipchin, Arava Institute, Israel
@@ -115,6 +96,25 @@
   logo: https://cdn.evbuc.com/images/53959536/22468345120/1/original.20181214-125303?h=200&w=450&auto=compress&rect=0,0,800,400&s=b753d689336464d8c30fcfaac9470924
   starts: 2019-02-07T19:30:00.0000000
   ends: 2019-02-07T20:30:00.0000000
+  venue: Bowland Auditorium
+- name: 'The bitter future for coffee: Challenges in a changing world'
+  description: >-
+    Speaker: Professor Rob Marchant, Department of Environment and Geography
+
+    Department of Environment and Geography Lecture Series
+
+    Coffee has become an export of global significance for countries in East Africa, reaching diverse markets across the world, and with large numbers of farmers involved in its production. There are enormous potential benefits from the growing coffee industry but significant environmental, economic and social challenges are emerging. Drawing on the experience of East Africa this talk will consider the nature of these challenges and how they might be overcome for the benefit of producers and consumers.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/the-bitter-future-for-coffee-challenges-in-a-changing-world-tickets-53726043041?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/53959904/22468345120/1/original.20181214-130640?h=200&w=450&auto=compress&rect=0,0,800,400&s=aea28c3be60c8dc6b9a48976c06a2935
+  starts: 2019-02-20T19:30:00.0000000
+  ends: 2019-02-20T20:30:00.0000000
   venue: Bowland Auditorium
 - name: Should we be worried about indoor air pollution?
   description: >-
@@ -500,43 +500,6 @@
   starts: 2019-02-06T10:00:00.0000000
   ends: 2019-02-06T11:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'WE1: Website CMS Basic training (Mon 7th January 14:00-16:00)'
-  description: >-
-    These courses are for staff who have been approved by the website team only
-
-
-    WE1: Website CMS basics
-
-    Prior knowledge: None
-
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-mon-7th-january-1400-1600-tickets-53902280171?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54135718/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=3b6fb09e13d0d460bd0b6a12eb75692a
-  starts: 2019-01-07T14:00:00.0000000
-  ends: 2019-01-07T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: York Science Conference 2019
   description: >-
     York Science Conference 2019
@@ -586,6 +549,43 @@
   starts: 2019-03-06T09:00:00.0000000
   ends: 2019-03-06T16:45:00.0000000
   venue: Ron Cooke Hub, The University of York
+- name: 'WE1: Website CMS Basic training (Mon 7th January 14:00-16:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-mon-7th-january-1400-1600-tickets-53902280171?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/54135718/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=3b6fb09e13d0d460bd0b6a12eb75692a
+  starts: 2019-01-07T14:00:00.0000000
+  ends: 2019-01-07T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'OF2: Collaborative working with Office 365 including Teams (Thu 3rd Jan 10:00-11:00)'
   description: >+
     These courses are for students and staff at York St John University. 
