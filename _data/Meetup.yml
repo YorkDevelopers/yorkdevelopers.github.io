@@ -1,203 +1,107 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbnb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbdb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-12-10T07:30:00.0000000
-  ends: 2018-12-10T10:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: "YorkSwift Monthly Meetup  #007 - December - Back to basics \U0001F385"
-  description: "<p>A light back to basics Meetup, lets look though some of the swift language basics of Foundation, strings, arrays, enums, structs, classes!<br/>There may or may not be a Christmas theme.</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - Swift Language</p> <p>Lets run through some example playgrounds, learn how to manipulate your data in some basic use case scenarios.</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
-  url: https://www.meetup.com/YorkSwift/events/254863744/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/7/9/c/thumb_472007004.jpeg
-  starts: 2018-12-10T19:00:00.0000000
-  ends: 2018-12-10T21:00:00.0000000
-  venue: The Coffee Bureau
-- name: York Code Dojo Dec Meetup - Advent of Code
-  description: '<p>This month we will work on the Advent Of Code problems. The session will be suitable for people of any ability. If possible please bring a laptop with your programming languages of choice already installed. Please note this is going to be held the day after our YorkTechFest event, I hope to see many of you there! <a href="https://yorktechfest.github.io" class="linkified">https://yorktechfest.github.io</a> NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/256906848/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2018-12-12T18:30:00.0000000
-  ends: 2018-12-12T20:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbqb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-12-12T07:30:00.0000000
-  ends: 2018-12-12T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-01-02T07:00:00.0000000
+  ends: 2019-01-02T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Code & Coffee
   description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxqbqb/
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzcbdb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-12-12T08:00:00.0000000
-  ends: 2018-12-12T11:00:00.0000000
+  starts: 2019-01-02T08:00:00.0000000
+  ends: 2019-01-02T11:00:00.0000000
   venue: La Bottega Milanese
-- name: Leeds Blockchain - Bob Summerwill
-  description: "<p>As part our Leeds Blockchain Meetup's push to work closer with the local community we are joint hosting an event with the Leeds University Business School and the students’ Blockchain Society (LUUCABS).</p> <p>We are lucky to have a guest speaker from Vancouver who is a leader in the Ethereum field and is originally a local Leeds lad and alumni of the University.</p> <p>Bob Summerwill is a Blockchain Lead at Quantfury, Co-Founder and CTO of Varro Technologies, a community leader for the Ethereum Project and Community Ambassador for CryptoChicks. Originally from the UK, he has lived in Vancouver since 2003, and is now a dual citizen of Canada and the UK.</p> <p>He was foundational in the creation of the Enterprise Ethereum Alliance (EEA), working full-time on that project for ConsenSys from October 2016 to October 2017. He co-presented the Technical Roadmap at the EEA launch event and served first as Secretary of the Technical Working Group and subsequently as Vice-Chair of the Technical Steering Committee.</p> <p>That role followed a spell at the Ethereum Foundation, where he was a developer on the cpp-ethereum client, leading a major refactoring and revamp of the codebase (cpp-ethereum-1.3.0 \"Homecoming\") and led a failed effort at re-licensing cpp-ethereum which was intended to open up the possibility of an Ethereum client within Hyperledger seven months before Monax made that a reality.</p> <p>Bob will be giving a 1 hour talk as the headline speaker plus we will also be announcing our next blockchain hackathon following on from the successful one in November.</p> <p>After the talks there will be opportunity to network and ask further questions on campus.</p> <p>Address:<br/>Leeds University Business School<br/>Maurice Keyworth Building<br/>Moorland Road<br/>LS6 1AN, Leeds, UK</p> <p>Room: G02 (lecture hall next to the reception)<br/>Time: 18:00 – 20:00 + networking</p> <p>The Leeds University Union Cryptocurrency and Blockchain Society (LUUCABS) has as its objective to ensure that people can access as much knowledge as possible surrounding the topics of cryptocurrencies and blockchain technology. This comprises organisation of events such as trading and investing tutorials, blockchain coding lectures and hackathons. If you are experienced or even just curious in this rapidly growing technology – please be sure to follow on Facebook so that you can stay up to date with the events!</p> "
-  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/256667236/
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbkb/
   is-free: true
-  starts: 2018-12-12T18:00:00.0000000
-  ends: 2018-12-12T20:00:00.0000000
-  venue: University of Leeds
-- name: York Hackspace Open Evening
-  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
-  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxqbqb/
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-01-07T07:00:00.0000000
+  ends: 2019-01-07T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbmb/
   is-free: true
-  starts: 2018-12-12T19:00:00.0000000
-  ends: 2018-12-12T21:00:00.0000000
-  venue: York Hackspace
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-01-09T07:00:00.0000000
+  ends: 2019-01-09T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzcbmb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-01-09T08:00:00.0000000
+  ends: 2019-01-09T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: Running a cluster in the Cloud and ATM Fraud detection with Kafka and KSQL
+  description: "<p>Join us for an Apache Kafka meetup on January 10th from 6.00pm, hosted at the brand new Sky Betting and Gaming offices in Leeds. The address, agenda and speaker information can be found below. See you there!</p> <p>-----</p> <p>Agenda:<br/>6:00pm: Doors open<br/>6:00pm - 6:30pm: Networking, Pizza and Drinks<br/>6:30pm - 7:15pm: ATM Fraud detection with Kafka and KSQL, Robin Moffatt, Confluent<br/>7:15pm - 8:00pm: Running your own Apache Kafka cluster in the Cloud, Rami Alnawas, Sky Betting and Gaming<br/>8:00pm - 8:30pm: Additional Q&amp;A and Networking</p> <p>-----</p> <p>First Talk</p> <p>Speaker:<br/>Robin Moffatt</p> <p>Bio:<br/>Robin is a Developer Advocate at Confluent, the company founded by the creators of Apache Kafka, as well as an Oracle Groundbreaker Ambassador and ACE Director (Alumnus). His career has always involved data, from the old worlds of COBOL and DB2, through the worlds of Oracle and Hadoop, and into the current world with Kafka. His particular interests are analytics, systems architecture, performance testing and optimization. He blogs at <a href=\"http://cnfl.io/rmoff\" class=\"linkified\">http://cnfl.io/rmoff</a> and <a href=\"http://rmoff.net/\" class=\"linkified\">http://rmoff.net/</a> (and previously <a href=\"http://ritt.md/rmoff\" class=\"linkified\">http://ritt.md/rmoff</a>) and can be found tweeting grumpy geek thoughts as @rmoff. Outside of work he enjoys drinking good beer and eating fried breakfasts, although generally not at the same time.</p> <p>Title:<br/>ATM Fraud Detection with Apache Kafka and KSQL</p> <p>Abstract:<br/>Detecting fraudulent activity in real time can save a business significant amounts of money, but has traditionally been an area requiring a lot of complex programming and frameworks, particularly at scale. Using KSQL, it's possible to use just SQL to build scalable real-time applications.</p> <p>In this talk, we'll look at what KSQL is, and how its ability to join streams of events can be used to detect possibly fraudulent activity based on a stream of ATM transactions. We'll also see how easy it is to integrate Kafka with other systems—both upstream and downstream—using Kafka Connect to stream from a database into Kafka, and from Kafka into Elasticsearch.</p> <p>---</p> <p>Second Talk</p> <p>Speaker:<br/>Rami Alnawas</p> <p>Bio:<br/>Rami is a Sheffield University Graduate with an M.Sc. in Information Systems, having worked in software development and operations across both the telecom and finance industries previously. He has since gone on to join Sky Betting and Gaming where he has embraced the DevOps movement across different tribes working within SBG. Hobbies and interests include going to the Gym, undertaking DIY at home and studying towards gaining new certification and acquiring new knowledge.</p> <p>Title:<br/>Running your own Apache Kafka cluster in the Cloud</p> <p>Abstract:<br/>We happily run multiple Kafka clusters on-premises with a variety of workloads and requirements. As the business continues to leverage the awesomeness of the cloud, we have been tasked to build a cluster for one of our squads. The purpose of this is to help them integrate with third-parties and provide a consistent hybrid architecture. This presentation will walk you through this journey, outlining the challenges we faced and how we overcome those challenges.</p> <p>-----</p> <p>Don't forget to join our Community Slack Team! <a href=\"https://launchpass.com/confluentcommunity\" class=\"linkified\">https://launchpass.com/confluentcommunity</a><br/>If you would like to speak or host our next event please let us know! community@confluent.io<br/>NOTE: We are unable to cater for any attendees under the age of 18. Please do not sign up for this event if you are under 18.</p> "
+  url: https://www.meetup.com/Leeds-Kafka/events/257219447/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/0/a/c/thumb_466557516.jpeg
+  starts: 2019-01-10T18:00:00.0000000
+  ends: 2019-01-10T20:30:00.0000000
+  venue: Sky Betting and Gaming
+- name: The announcer
+  description: '<p>Smartly handing the distribution of articles and posts across multiple social platforms. Think blogging, but reaching every social network you care about.</p> '
+  url: https://www.meetup.com/Bot-framework-development-meetup/events/256922166/
+  is-free: true
+  starts: 2019-01-10T19:00:00.0000000
+  ends: 2019-01-10T22:00:00.0000000
+  venue: Water Lane Boathouse (formally Pour House)
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
-  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyxqbsb/
+  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyzcbpb/
   is-free: true
-  starts: 2018-12-14T12:30:00.0000000
-  ends: 2018-12-14T13:30:00.0000000
+  starts: 2019-01-11T12:30:00.0000000
+  ends: 2019-01-11T13:30:00.0000000
   venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbwb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbsb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-12-17T07:30:00.0000000
-  ends: 2018-12-17T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-01-14T07:00:00.0000000
+  ends: 2019-01-14T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbzb/
+- name: 'Tech Contractor Networking: Leeds'
+  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
+  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyzcbtb/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-12-19T07:30:00.0000000
-  ends: 2018-12-19T10:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyxqbzb/
+  starts: 2019-01-15T12:15:00.0000000
+  ends: 2019-01-15T12:45:00.0000000
+  venue: Banyan Bar Leeds
+- name: Lightening Talks!
+  description: '<p>Lightening talks from our members. Fancy giving it a go?! Message Louise Elliott on meetup or tweet to @AgileInLeeds. We are happy to support new speakers,</p> '
+  url: https://www.meetup.com/Agile-in-Leeds/events/257320487/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2018-12-19T08:00:00.0000000
-  ends: 2018-12-19T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: CodeUp Leeds Meetup
-  description: "<p>THE SIGN-UP PERIOD IS NOW OPEN. PLEASE NOTE THIS MEETUP WILL TAKE PLACE ON WEDNESDAY 19TH INSTEAD OF THURSDAY.</p> <p>Remember to bring a laptop in order to participate in the sessions!</p> <p>DECEMBER AGENDA</p> <p>* Introduction to Domain-specific Languages (with Graham Trott): join us in this highly interactive workshop where you will learn what domain-specific languages (DSL) are and use one to build a JavaScript plugin to add dynamic elements to your own WordPress site!<br/>* Python 102 (Repeat): follow-up to the \"Python Programming for Beginners\" session from last month where you will learn how to build a web application in Flask using an IDE. PREREQUISITES: Basic Python knowledge. People who attended last month's Python session should be able to follow along easily.<br/>* Community-driven talk: TBD. Cast your vote for your favourite one in the poll! (Check your inbox for the announcement email with the link to the poll) Deadline is on the 10th December.</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
-  url: https://www.meetup.com/CodeUp-Leeds/events/lfkxkqyxqbbc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
-  starts: 2018-12-19T18:45:00.0000000
-  ends: 2018-12-19T21:00:00.0000000
+  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
+  starts: 2019-01-15T18:00:00.0000000
+  ends: 2019-01-15T20:00:00.0000000
   venue: 3rd Floor, Apsley House
-- name: York Hackspace Open Evening
-  description: "<p>Interested in making, breaking, fixing and doing? Want to find out more about us?</p> <p>York Hackspace open up our building every Wednesday, from 7pm—11pm.</p> <p>Feel free to use whatever tools and facilities you want, subject to the necessary training and/or supervision. Non-members will be expected to contribute towards hardware, electronic components etc (members get all this stuff for free!) if it's more than a few bits and pieces. We have a fast Internet connection sponsored by Andrews &amp; Arnold which you're welcome to use.</p> <p>We have only one requirement if you wish to come along which is that we require any under 18s to be accompanied by a parent or guardian. If a parent or guardian is not able to make it we are also happy for under 18s to be accompanied by any responsible adult, so long as their parent has given permission.</p> <p>Optional</p> <p>Laptop + Power supply<br/>Electronics<br/>Coins, if you may wish to enjoy our wonderful tuckshop<br/>Things to make<br/>Things to do<br/>Things you want help with<br/>Things you just can't find time to do elsewhere</p> "
-  url: https://www.meetup.com/York-Makers-Breakers-Fixers-and-Do-ers/events/mxqkdqyxqbzb/
+- name: Azure Machine Learning by Steve Spencer
+  description: '<p>Azure Machine Learning for Developers</p> <p>As a developer I wanted to get an understanding of machine learning and with the arrival of Azure Machine Learning I got my chance. This talk will go through from a developers perspective the highs and lows of machine learning. I will introduce the tools, show how easy it is to use and then talk about what us as developers can add to the process</p> '
+  url: https://www.meetup.com/HaintonDotNetYorkshire/events/257619300/
   is-free: true
-  starts: 2018-12-19T19:00:00.0000000
-  ends: 2018-12-19T21:00:00.0000000
-  venue: York Hackspace
-- name: YorkDevelopers - Christmas Dinner
-  description: '<p>Come and join us to celebrate the festive season together at our YorkDevelopers Christmas Meal. Location to be revealed soon in York City Centre - but please make this a date for your diary!</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/256711359/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-12-20T18:30:00.0000000
-  ends: 2018-12-20T20:30:00.0000000
-  endorsed: true
-- name: ACCU York [Dec 2018]
-  description: "<p>Talk #1 from Andy Callaghan - Making a website performant: Part II</p> <p>The second part of Andy’s web performance talk.</p> <p>Talk #2 from Maxime Maigret - Pragmatic TDD, from design driven by the tests</p> <p>TDD is a very powerful tool to help you to use a simple design when you need to implement a requirement. It's more than just about testing, it gives a guideline to follow to avoid pitfall and to increase code maintainability and readability</p> <p>Many thanks to York Science Park (YSP) for providing us a place to meet.</p> "
-  url: https://www.meetup.com/ACCU-York/events/256028757/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/3/6/f/thumb_475438223.jpeg
-  starts: 2018-12-20T18:30:00.0000000
-  ends: 2018-12-20T19:30:00.0000000
-  venue: The Catalyst
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyxqbbc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-12-20T19:00:00.0000000
-  ends: 2018-12-20T22:00:00.0000000
-  endorsed: true
+  starts: 2019-01-15T18:00:00.0000000
+  ends: 2019-01-15T20:00:00.0000000
+  venue: Duke Studios
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbgc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbvb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-12-24T07:30:00.0000000
-  ends: 2018-12-24T10:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbjc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-12-26T07:30:00.0000000
-  ends: 2018-12-26T10:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyxqbpc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2018-12-31T07:30:00.0000000
-  ends: 2018-12-31T10:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzcbdb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-01-02T07:30:00.0000000
-  ends: 2019-01-02T10:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzcbkb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-01-07T07:30:00.0000000
-  ends: 2019-01-07T10:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzcbmb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-01-09T07:30:00.0000000
-  ends: 2019-01-09T10:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzcbsb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-01-14T07:30:00.0000000
-  ends: 2019-01-14T10:30:00.0000000
-  venue: Drift In At fat Face
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzcbvb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-01-16T07:30:00.0000000
-  ends: 2019-01-16T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-01-16T07:00:00.0000000
+  ends: 2019-01-16T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
@@ -209,93 +113,93 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzcbcc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbcc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-01-21T07:30:00.0000000
-  ends: 2019-01-21T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-01-21T07:00:00.0000000
+  ends: 2019-01-21T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzcbfc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbfc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-01-23T07:30:00.0000000
-  ends: 2019-01-23T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-01-23T07:00:00.0000000
+  ends: 2019-01-23T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzcblc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcblc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-01-28T07:30:00.0000000
-  ends: 2019-01-28T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-01-28T07:00:00.0000000
+  ends: 2019-01-28T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzcbnc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbnc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-01-30T07:30:00.0000000
-  ends: 2019-01-30T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-01-30T07:00:00.0000000
+  ends: 2019-01-30T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbgb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbgb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-02-04T07:30:00.0000000
-  ends: 2019-02-04T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-02-04T07:00:00.0000000
+  ends: 2019-02-04T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbjb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbjb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-02-06T07:30:00.0000000
-  ends: 2019-02-06T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-02-06T07:00:00.0000000
+  ends: 2019-02-06T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbpb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbpb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-02-11T07:30:00.0000000
-  ends: 2019-02-11T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-02-11T07:00:00.0000000
+  ends: 2019-02-11T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbrb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbrb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-02-13T07:30:00.0000000
-  ends: 2019-02-13T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-02-13T07:00:00.0000000
+  ends: 2019-02-13T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbxb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbxb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-02-18T07:30:00.0000000
-  ends: 2019-02-18T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-02-18T07:00:00.0000000
+  ends: 2019-02-18T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbbc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbbc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-02-20T07:30:00.0000000
-  ends: 2019-02-20T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-02-20T07:00:00.0000000
+  ends: 2019-02-20T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
@@ -307,75 +211,75 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbhc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbhc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-02-25T07:30:00.0000000
-  ends: 2019-02-25T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-02-25T07:00:00.0000000
+  ends: 2019-02-25T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzdbkc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbkc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-02-27T07:30:00.0000000
-  ends: 2019-02-27T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-02-27T07:00:00.0000000
+  ends: 2019-02-27T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzfbgb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbgb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-03-04T07:30:00.0000000
-  ends: 2019-03-04T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-03-04T07:00:00.0000000
+  ends: 2019-03-04T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzfbjb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbjb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-03-06T07:30:00.0000000
-  ends: 2019-03-06T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-03-06T07:00:00.0000000
+  ends: 2019-03-06T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzfbpb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbpb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-03-11T07:30:00.0000000
-  ends: 2019-03-11T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-03-11T07:00:00.0000000
+  ends: 2019-03-11T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzfbrb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbrb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-03-13T07:30:00.0000000
-  ends: 2019-03-13T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-03-13T07:00:00.0000000
+  ends: 2019-03-13T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzfbxb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbxb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-03-18T07:30:00.0000000
-  ends: 2019-03-18T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-03-18T07:00:00.0000000
+  ends: 2019-03-18T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzfbbc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbbc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-03-20T07:30:00.0000000
-  ends: 2019-03-20T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-03-20T07:00:00.0000000
+  ends: 2019-03-20T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
@@ -387,75 +291,75 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzfbhc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbhc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-03-25T07:30:00.0000000
-  ends: 2019-03-25T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-03-25T07:00:00.0000000
+  ends: 2019-03-25T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzfbkc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbkc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-03-27T07:30:00.0000000
-  ends: 2019-03-27T10:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-03-27T07:00:00.0000000
+  ends: 2019-03-27T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgbcb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbcb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-01T06:30:00.0000000
-  ends: 2019-04-01T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-04-01T06:00:00.0000000
+  ends: 2019-04-01T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgbfb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbfb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-03T06:30:00.0000000
-  ends: 2019-04-03T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-04-03T06:00:00.0000000
+  ends: 2019-04-03T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgblb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgblb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-08T06:30:00.0000000
-  ends: 2019-04-08T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-04-08T06:00:00.0000000
+  ends: 2019-04-08T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgbnb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbnb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-10T06:30:00.0000000
-  ends: 2019-04-10T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-04-10T06:00:00.0000000
+  ends: 2019-04-10T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgbtb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbtb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-15T06:30:00.0000000
-  ends: 2019-04-15T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-04-15T06:00:00.0000000
+  ends: 2019-04-15T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgbwb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbwb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-17T06:30:00.0000000
-  ends: 2019-04-17T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-04-17T06:00:00.0000000
+  ends: 2019-04-17T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
@@ -467,75 +371,75 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgbdc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbdc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-22T06:30:00.0000000
-  ends: 2019-04-22T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-04-22T06:00:00.0000000
+  ends: 2019-04-22T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgbgc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbgc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-24T06:30:00.0000000
-  ends: 2019-04-24T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-04-24T06:00:00.0000000
+  ends: 2019-04-24T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzgbmc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbmc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-29T06:30:00.0000000
-  ends: 2019-04-29T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-04-29T06:00:00.0000000
+  ends: 2019-04-29T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzhbcb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbcb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-05-01T06:30:00.0000000
-  ends: 2019-05-01T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-05-01T06:00:00.0000000
+  ends: 2019-05-01T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzhbjb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbjb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-05-06T06:30:00.0000000
-  ends: 2019-05-06T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-05-06T06:00:00.0000000
+  ends: 2019-05-06T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzhblb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhblb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-05-08T06:30:00.0000000
-  ends: 2019-05-08T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-05-08T06:00:00.0000000
+  ends: 2019-05-08T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzhbrb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbrb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-05-13T06:30:00.0000000
-  ends: 2019-05-13T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-05-13T06:00:00.0000000
+  ends: 2019-05-13T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzhbtb/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbtb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-05-15T06:30:00.0000000
-  ends: 2019-05-15T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-05-15T06:00:00.0000000
+  ends: 2019-05-15T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
@@ -547,39 +451,93 @@
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzhbbc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbbc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-05-20T06:30:00.0000000
-  ends: 2019-05-20T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-05-20T06:00:00.0000000
+  ends: 2019-05-20T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzhbdc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbdc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-05-22T06:30:00.0000000
-  ends: 2019-05-22T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-05-22T06:00:00.0000000
+  ends: 2019-05-22T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzhbkc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbkc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-05-27T06:30:00.0000000
-  ends: 2019-05-27T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-05-27T06:00:00.0000000
+  ends: 2019-05-27T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/frbqbqyzhbmc/
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbmc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-05-29T06:30:00.0000000
-  ends: 2019-05-29T09:30:00.0000000
-  venue: Drift In At fat Face
+  starts: 2019-05-29T06:00:00.0000000
+  ends: 2019-05-29T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbfb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-03T06:00:00.0000000
+  ends: 2019-06-03T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbhb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-05T06:00:00.0000000
+  ends: 2019-06-05T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbnb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-10T06:00:00.0000000
+  ends: 2019-06-10T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbqb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-12T06:00:00.0000000
+  ends: 2019-06-12T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbwb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-17T06:00:00.0000000
+  ends: 2019-06-17T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbzb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-19T06:00:00.0000000
+  ends: 2019-06-19T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
@@ -588,6 +546,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-06-20T18:00:00.0000000
   ends: 2019-06-20T21:00:00.0000000
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbgc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-24T06:00:00.0000000
+  ends: 2019-06-24T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
@@ -628,4 +595,12 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-11-21T19:00:00.0000000
   ends: 2019-11-21T22:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzqbzb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-12-19T19:00:00.0000000
+  ends: 2019-12-19T22:00:00.0000000
   endorsed: true
