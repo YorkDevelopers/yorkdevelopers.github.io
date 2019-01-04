@@ -64,14 +64,6 @@
   starts: 2019-01-15T12:15:00.0000000
   ends: 2019-01-15T12:45:00.0000000
   venue: Banyan Bar Leeds
-- name: Lightening Talks!
-  description: '<p>Lightening talks from our members. Fancy giving it a go?! Message Louise Elliott on meetup or tweet to @AgileInLeeds. We are happy to support new speakers,</p> '
-  url: https://www.meetup.com/Agile-in-Leeds/events/257320487/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/a/5/thumb_443040933.jpeg
-  starts: 2019-01-15T18:00:00.0000000
-  ends: 2019-01-15T20:00:00.0000000
-  venue: 3rd Floor, Apsley House
 - name: Azure Machine Learning by Steve Spencer
   description: '<p>Azure Machine Learning for Developers</p> <p>As a developer I wanted to get an understanding of machine learning and with the arrival of Azure Machine Learning I got my chance. This talk will go through from a developers perspective the highs and lows of machine learning. I will introduce the tools, show how easy it is to use and then talk about what us as developers can add to the process</p> '
   url: https://www.meetup.com/HaintonDotNetYorkshire/events/257619300/
@@ -104,6 +96,21 @@
   starts: 2019-01-16T19:00:00.0000000
   ends: 2019-01-16T21:00:00.0000000
   venue: Platform
+- name: ACCU York [Jan 2019] - Option(al) Is Not A Failure
+  description: "<p>We have the honor to welcome Phil Nash to ACCU York. Phil is the author of the C++ test framework, Catch2 and command line parser Clara. As Developer Advocate at JetBrains he's involved with CLion, AppCode and ReSharper C++. More generally he's an advocate for good testing practices, TDD and using the type system and functional techniques to reduce complexity and increase correctness. He's previously worked in Finance and Mobile as well as an independent consultant and coach specialising in TDD on iOS.</p> <p>Abstract: Error code returns were bad so we invented exceptions. Much better we said. Then we realised exceptions had their problems - with 52% of a recent ISO survey's respondents saying they were banned on all or part of their codebases! We've been trying to patch them up how we can (with noexcept, for example) - but most of the problems are systemic.</p> <p>So there's been a return to error codes. But now we have new features in the language (arithmetic data types, including variant and optional) - and the promise of more coming (expected, outcome?) - that bring us closer to the best of both worlds - although, perhaps, with different compromises.</p> <p>But there's more. Where do error_code and error_condition fit in? What's all this about monadic binding? A try keyword? What do other languages that are further down this road do and what can we learn from them?</p> <p>This talk will be a tour of the past, present, and possible future of C++ error handling; the trade-offs and rationale for each piece and a discussion of where to go next and what we can do as a community to get there. We'll look at a number of in-flight proposals, and include up-to-the-minute status on them following the most recent standards meeting.</p> "
+  url: https://www.meetup.com/ACCU-York/events/256854396/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/3/6/f/thumb_475438223.jpeg
+  starts: 2019-01-17T18:30:00.0000000
+  ends: 2019-01-17T20:00:00.0000000
+  venue: Department of Computer Science, University of York
+- name: The announcer
+  description: '<p>Smartly handing the distribution of articles and posts across multiple social platforms. Think blogging, but reaching every social network you care about.</p> '
+  url: https://www.meetup.com/Bot-framework-development-meetup/events/256922166/
+  is-free: true
+  starts: 2019-01-17T19:00:00.0000000
+  ends: 2019-01-17T21:00:00.0000000
+  venue: Water Lane Boathouse (formally Pour House)
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzcbwb/
