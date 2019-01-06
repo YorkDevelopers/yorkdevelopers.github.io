@@ -104,13 +104,6 @@
   starts: 2019-01-17T18:30:00.0000000
   ends: 2019-01-17T20:00:00.0000000
   venue: Department of Computer Science, University of York
-- name: The announcer
-  description: '<p>Smartly handing the distribution of articles and posts across multiple social platforms. Think blogging, but reaching every social network you care about.</p> '
-  url: https://www.meetup.com/Bot-framework-development-meetup/events/256922166/
-  is-free: true
-  starts: 2019-01-17T19:00:00.0000000
-  ends: 2019-01-17T21:00:00.0000000
-  venue: Water Lane Boathouse (formally Pour House)
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzcbwb/
