@@ -1,29 +1,3 @@
-- name: York Code Dojo Jan Meetup - Code Golf
-  description: '<p>This month will play a round of code golf. To win you will need to solve a simple problem, but using as little code as possible. The session will be suitable for people of any ability. If possible please bring a laptop with your programming languages of choice already installed. <a href="https://yorktechfest.github.io" class="linkified">https://yorktechfest.github.io</a> NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/257702348/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2019-01-09T18:30:00.0000000
-  ends: 2019-01-09T20:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbmb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-01-09T07:00:00.0000000
-  ends: 2019-01-09T10:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzcbmb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-01-09T08:00:00.0000000
-  ends: 2019-01-09T11:00:00.0000000
-  venue: La Bottega Milanese
 - name: Running a cluster in the Cloud and ATM Fraud detection with Kafka and KSQL
   description: "<p>Join us for an Apache Kafka meetup on January 10th from 6.00pm, hosted at the brand new Sky Betting and Gaming offices in Leeds. The address, agenda and speaker information can be found below. See you there!</p> <p>-----</p> <p>Agenda:<br/>6:00pm: Doors open<br/>6:00pm - 6:30pm: Networking, Pizza and Drinks<br/>6:30pm - 7:15pm: ATM Fraud detection with Kafka and KSQL, Robin Moffatt, Confluent<br/>7:15pm - 8:00pm: Running your own Apache Kafka cluster in the Cloud, Rami Alnawas, Sky Betting and Gaming<br/>8:00pm - 8:30pm: Additional Q&amp;A and Networking</p> <p>-----</p> <p>First Talk</p> <p>Speaker:<br/>Robin Moffatt</p> <p>Bio:<br/>Robin is a Developer Advocate at Confluent, the company founded by the creators of Apache Kafka, as well as an Oracle Groundbreaker Ambassador and ACE Director (Alumnus). His career has always involved data, from the old worlds of COBOL and DB2, through the worlds of Oracle and Hadoop, and into the current world with Kafka. His particular interests are analytics, systems architecture, performance testing and optimization. He blogs at <a href=\"http://cnfl.io/rmoff\" class=\"linkified\">http://cnfl.io/rmoff</a> and <a href=\"http://rmoff.net/\" class=\"linkified\">http://rmoff.net/</a> (and previously <a href=\"http://ritt.md/rmoff\" class=\"linkified\">http://ritt.md/rmoff</a>) and can be found tweeting grumpy geek thoughts as @rmoff. Outside of work he enjoys drinking good beer and eating fried breakfasts, although generally not at the same time.</p> <p>Title:<br/>ATM Fraud Detection with Apache Kafka and KSQL</p> <p>Abstract:<br/>Detecting fraudulent activity in real time can save a business significant amounts of money, but has traditionally been an area requiring a lot of complex programming and frameworks, particularly at scale. Using KSQL, it's possible to use just SQL to build scalable real-time applications.</p> <p>In this talk, we'll look at what KSQL is, and how its ability to join streams of events can be used to detect possibly fraudulent activity based on a stream of ATM transactions. We'll also see how easy it is to integrate Kafka with other systems—both upstream and downstream—using Kafka Connect to stream from a database into Kafka, and from Kafka into Elasticsearch.</p> <p>---</p> <p>Second Talk</p> <p>Speaker:<br/>Rami Alnawas</p> <p>Bio:<br/>Rami is a Sheffield University Graduate with an M.Sc. in Information Systems, having worked in software development and operations across both the telecom and finance industries previously. He has since gone on to join Sky Betting and Gaming where he has embraced the DevOps movement across different tribes working within SBG. Hobbies and interests include going to the Gym, undertaking DIY at home and studying towards gaining new certification and acquiring new knowledge.</p> <p>Title:<br/>Running your own Apache Kafka cluster in the Cloud</p> <p>Abstract:<br/>We happily run multiple Kafka clusters on-premises with a variety of workloads and requirements. As the business continues to leverage the awesomeness of the cloud, we have been tasked to build a cluster for one of our squads. The purpose of this is to help them integrate with third-parties and provide a consistent hybrid architecture. This presentation will walk you through this journey, outlining the challenges we faced and how we overcome those challenges.</p> <p>-----</p> <p>Don't forget to join our Community Slack Team! <a href=\"https://launchpass.com/confluentcommunity\" class=\"linkified\">https://launchpass.com/confluentcommunity</a><br/>If you would like to speak or host our next event please let us know! community@confluent.io<br/>NOTE: We are unable to cater for any attendees under the age of 18. Please do not sign up for this event if you are under 18.</p> "
   url: https://www.meetup.com/Leeds-Kafka/events/257219447/
@@ -120,6 +94,14 @@
   ends: 2019-01-21T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: 'YorkSwift Monthly Meetup  #008 - Jan - Codable'
+  description: "<p>This month we are looking at the very useful Codable protocol. It can be used for decoding API JSON and mapping to your classes, or encoding for view data in templates files.</p> <p><a href=\"https://developer.apple.com/documentation/swift/codable\" class=\"linkified\">https://developer.apple.com/documentation/swift/codable</a></p> <p>## Agenda</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - Codable, Encodable &amp; Decodable</p> <p>Lets run through some example playgrounds, learn how to manipulate your data in some basic use case scenarios.</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
+  url: https://www.meetup.com/YorkSwift/events/257935804/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/7/9/c/thumb_472007004.jpeg
+  starts: 2019-01-22T19:00:00.0000000
+  ends: 2019-01-22T21:00:00.0000000
+  venue: The Coffee Bureau
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbfc/
@@ -129,6 +111,14 @@
   ends: 2019-01-23T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzcbfc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-01-23T08:00:00.0000000
+  ends: 2019-01-23T11:00:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcblc/
@@ -572,6 +562,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-07-01T06:00:00.0000000
   ends: 2019-07-01T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbfb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-07-03T06:00:00.0000000
+  ends: 2019-07-03T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
