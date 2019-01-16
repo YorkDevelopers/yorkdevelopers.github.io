@@ -69,7 +69,7 @@
   ends: 2019-03-14T19:30:00.0000000
   venue: Room C/A/101
 - name: York Technology Conference
-  description: "The York Technology Conference is a non-profit one-day event run by students, providing the opportunity for students to network with other students, who share an interest in technology, and with industry leaders. \nThis event will enable students from York and other universities to explore emerging technological trends through speakers, panel debates, workshops and networking opportunities.\nCurrent Agenda:\n\n3 Simple Steps to making your first million as an IT entrepreneur - Darryl Mattocks\nMachine Learning & Data Science in Content Production for TV & Online - Robin Pembrooke, BBC\nDesigning with Ethics - Ross Sleight, Somo Global\nCastles In The Sky - Tim Burnett, Sykes Holiday Cottages\nDelivering Innovation in Emerging Technologies - Helen Bowyer, IBM\nCyber Security Investigation: Case Study - Tim Burnett, Sykes Holiday Cottages\nSpeed Pitching - Darryl Mattocks\n\nMore talks and workshops to be added! \n"
+  description: "The York Technology Conference is a non-profit one-day event run by students, providing the opportunity for students to network with other students, who share an interest in technology, and with industry leaders. \nThis event will enable students from York and other universities to explore emerging technological trends through speakers, panel debates, workshops and networking opportunities.\nCurrent Agenda:\n\n3 Simple Steps to making your first million as an IT entrepreneur - Darryl Mattocks\nMachine Learning & Data Science in Content Production for TV & Online - Robin Pembrooke, BBC\nDesigning with Ethics - Ross Sleight, Somo Global\nCastles In The Sky - Tim Burnett, Sykes Holiday Cottages\nDelivering Innovation in Emerging Technologies - Helen Bowyer, IBM\nCyber Security Investigation: Case Study - Tim Burnett, Sykes Holiday Cottages\nSpeed Pitching - Darryl Mattocks\n\nMore talks and workshops to be added! "
   url: https://www.eventbrite.co.uk/e/york-technology-conference-tickets-51011295157?aff=ebapi
   logo: https://cdn.evbuc.com/images/50797944/275322375612/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,864,432&s=6ba2006f92dd07e87471a2627d5c742f
   starts: 2019-01-30T09:00:00.0000000
@@ -257,59 +257,57 @@
   starts: 2019-02-05T18:00:00.0000000
   ends: 2019-02-05T21:30:00.0000000
   venue: Pitcher & Piano
-- name: 'NV1: Brief overview of NVivo'
+- name: Global Game Jam York 2019
   description: >
-    These courses are for staff and researchers at York St John University. 
-
-
-    AD1: Making accessible documents
-
-    Prior knowledge: None but this course is aimed at staff and researchers
-
-    NVivo is a CAQDAS (Computer Assisted Qualitative Data Analysis System) that enables researchers to organize, analyse and share qualitative data efficiently. This course is a brief introduction to NVivo which will allow you to decide if it will be useful for your research and whether to undertake further training.
-
-    This course includes:
-
-
-    Explore an existing sample project structure
-
-    How to set up a new project
-
-    Bringing sources into NVivo project
-
-    Working with data
-
-    Handling external sources that can’t be digitised
-
-    Creating nodes and coding
+    ***This event is free for all students and staff from the University of York and University of York St John; email enterprise@york.ac.uk for the discount code***
 
 
 
-    FAQ
 
-    Is this course open to anyone?
+    Want to make a video game? 
 
-    This course is only available to students and staff from York St John University.
+    Learn how by joining the York Game Jam as part of Global Game Jam 2019! Bring along your friends and make a game together, or come and meet new friends.
 
-     
 
-    How can I contact the organiser with any questions?
+    How does it work?
 
-    Email digitaltraining@yorksj.ac.uk 
+    You'll be set a theme for the game on the Friday evening (25th January). Then, over the course of 48 hours you and your fellow team mates will rapidly go through each stage of game development in crunchtime fashion. This covers everything from theme development through to music, artwork and programming. When the deadline hits you will have a fully playable game!
 
-     
+    Industry experts will be coming along on both the Saturday and Sunday to play your games and give you hints and advice!
 
-    Do I have to bring my printed ticket to the event?
 
-    No, we have a list of bookings
+    No code experience? No problem.
 
-    OF1: Collaborative working with Office 365 including Teams
-  url: https://www.eventbrite.co.uk/e/nv1-brief-overview-of-nvivo-tickets-53146019174?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/53356644/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=4fce5919a4df6c4a15db32bb8bd5ac59
-  starts: 2019-01-30T14:00:00.0000000
-  ends: 2019-01-30T15:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
+    Whether you're an industry veteran or a total beginner, anyone is welcome to try their hand at making a game – no code experience is required (although having computer skills helps, and we're sure you've got those!).
+
+
+    ***Introductory workshop***
+
+
+    In preparation for the Game Jam, we will be running workshops to help you learn how to make a game. More details will be announced soon.
+
+
+
+    What do I need to bring?
+
+    Bring your laptops, your friends and your curiosity. Don't forget to bring refreshments to keep up your energy levels, bearing in mind, though, that you're not in any way expected to work through the night. Sleep is a beautiful thing.
+
+    We recommend that you download the software you'd like to use in advance of the Game Jam so you're ready to go. If you're not sure of what you’ll need, see the suggestions on the Game Jam website.
+
+
+    Sounds fun?
+
+    For more information email enterprise@york.ac.uk, visit www.globalgamejam.org or visit the University of York page on the Global Game Jam site. 
+
+
+    Under 18?
+
+    It is now Global Game Jam policy to not allow Under 18s to participate unless they are accompanied by their legal guardian at all times while attending the jam. Read more about the new age policy at http://globalgamejam.org/news/word-about-our-new-age-policy
+  url: https://www.eventbrite.co.uk/e/global-game-jam-york-2019-tickets-54527056895?aff=ebapi
+  logo: https://cdn.evbuc.com/images/54722549/160740409336/1/original.20190107-145305?h=200&w=450&auto=compress&rect=0,60,1920,960&s=48943c32aaf9a3facacd52be3d5cda09
+  starts: 2019-01-25T16:00:00.0000000
+  ends: 2019-01-27T20:00:00.0000000
+  venue: The Ron Cooke Hub
 - name: 'AD1: Making accessible documents (Thu 24th Jan 14:00-15:00)'
   description: >
     These courses are for students and staff at York St John University. 
@@ -369,57 +367,6 @@
   starts: 2019-01-24T14:00:00.0000000
   ends: 2019-01-24T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Global Game Jam York 2019
-  description: >
-    ***This event is free for all students and staff from the University of York and University of York St John; email enterprise@york.ac.uk for the discount code***
-
-
-
-
-    Want to make a video game? 
-
-    Learn how by joining the York Game Jam as part of Global Game Jam 2019! Bring along your friends and make a game together, or come and meet new friends.
-
-
-    How does it work?
-
-    You'll be set a theme for the game on the Friday evening (25th January). Then, over the course of 48 hours you and your fellow team mates will rapidly go through each stage of game development in crunchtime fashion. This covers everything from theme development through to music, artwork and programming. When the deadline hits you will have a fully playable game!
-
-    Industry experts will be coming along on both the Saturday and Sunday to play your games and give you hints and advice!
-
-
-    No code experience? No problem.
-
-    Whether you're an industry veteran or a total beginner, anyone is welcome to try their hand at making a game – no code experience is required (although having computer skills helps, and we're sure you've got those!).
-
-
-    ***Introductory workshop***
-
-
-    In preparation for the Game Jam, we will be running workshops to help you learn how to make a game. More details will be announced soon.
-
-
-
-    What do I need to bring?
-
-    Bring your laptops, your friends and your curiosity. Don't forget to bring refreshments to keep up your energy levels, bearing in mind, though, that you're not in any way expected to work through the night. Sleep is a beautiful thing.
-
-    We recommend that you download the software you'd like to use in advance of the Game Jam so you're ready to go. If you're not sure of what you’ll need, see the suggestions on the Game Jam website.
-
-
-    Sounds fun?
-
-    For more information email enterprise@york.ac.uk, visit www.globalgamejam.org or visit the University of York page on the Global Game Jam site. 
-
-
-    Under 18?
-
-    It is now Global Game Jam policy to not allow Under 18s to participate unless they are accompanied by their legal guardian at all times while attending the jam. Read more about the new age policy at http://globalgamejam.org/news/word-about-our-new-age-policy
-  url: https://www.eventbrite.co.uk/e/global-game-jam-york-2019-tickets-54527056895?aff=ebapi
-  logo: https://cdn.evbuc.com/images/54722549/160740409336/1/original.20190107-145305?h=200&w=450&auto=compress&rect=0,60,1920,960&s=48943c32aaf9a3facacd52be3d5cda09
-  starts: 2019-01-25T16:00:00.0000000
-  ends: 2019-01-27T20:00:00.0000000
-  venue: The Ron Cooke Hub
 - name: 'WO4: Research & PhD writing (Wed 6th Feb 10:00-11:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -729,6 +676,14 @@
   starts: 2019-05-08T13:00:00.0000000
   ends: 2019-05-08T14:00:00.0000000
   venue: University of York
+- name: Viking Cluster Launch
+  description: An afternoon of talks to launch the University of York's new high performance compute cluster, Viking
+  url: https://www.eventbrite.co.uk/e/viking-cluster-launch-registration-54844128264?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55084504/288439455905/1/original.20190114-093225?h=200&w=450&auto=compress&rect=0,556,2438,1219&s=5f2ac4ff0e1bb650abe8f507bc102685
+  starts: 2019-02-14T14:00:00.0000000
+  ends: 2019-02-14T18:00:00.0000000
+  venue: Bowland Auditorium, Berrick Saul Building
 - name: 'ID2: Speeding up production (Thur 7th Feb 14:30-15:30)'
   description: >-
     These courses are for students and staff at York St John University
@@ -839,6 +794,21 @@
   starts: 2019-01-17T14:30:00.0000000
   ends: 2019-01-17T15:30:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: '“Evolution – It’s a Fact" '
+  description: >-
+    “Evolution – It’s a Fact "with Andy Parkin
+
+     Andy’s talk on Evolution by Natural Selection will provide definitions and explanations and a look at the current threat facing science, particularly from the religious. 
+
+    He will also discuss taxonomy, the latest discoveries concerning overlapping hominid populations, evidence supporting evolution and a look at the predictions the theory makes.
+
+    Andy Parkinis currently a teacher of English as a Second Language and has taught all over the world. He has previously worked in the software industry and has been a Management Consultant, Benefits Guru and Housing Director. He started life as a Science Teacher and throughout his life has maintained an enthusiasm in all matters scientific. He has a keen interest in astronomy and cosmology and has recently become an accredited school speaker for Humanists UK.
+  url: https://www.eventbrite.co.uk/e/evolution-its-a-fact-tickets-54759121005?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/54990522/237754649552/1/original.20190111-153737?h=200&w=450&auto=compress&rect=0,60,1920,960&s=5258c7ede952b1bfbd2526b4719cff9a
+  starts: 2019-02-05T19:30:00.0000000
+  ends: 2019-02-05T21:00:00.0000000
+  venue: Priory Street Centre
 - name: The 7th International Cardiovascular Genetics & Genomics Conference
   description: "\n\n\nThe 7th International Cardiovascular Genomic Medicine Conference\n‘Clinical Cardiology in the Genome Era’\n4-5 December 2019\nRadisson Blu Hotel, York, England, UK\nThe Biennial ‘7th International Conference on Cardiovascular Genomic Medicine Conference’ offers a unique opportunity for clinical cardiologists, specialist cardiac nurses, electrophysiologists, cardiovascular radiologists, cardiac pathologists, clinical geneticists, genetic counselors and molecular geneticists to learn and share the fast emerging practice of cardiovascular genomic medicine.\nWorld class Faculty of experts in all fields of cardiovascular genetics & genomics and genomic medicine will join the wide ranging participants from UK, Europe and rest of the World. The programme includes plenary lectures, keynote presentations, open platform and poster presentations and seminars on selected topics.\nThis conference is the 7th as part of the original series of Biennial ‘Cardiff Cardiovascular Genetics Conference’ held since 2007. All previous events were grand successes admired by several clinicians, health professionals and researchers from all over the world.\nFor Registration, Sponsorship and all other enquiries please visit www.genomicmedicine.org\nFor General information and contributions to the Scientific Programme please contact Prof. Dhavendra Kumar\ngenomicmedicine@yahoo.co.uk\ncardiovasculargeneticsgenomics@gmail.com\nSPONSORSHIP PACKAGES\nPlatinum:   \n\nProminent display space and central position (4m x 2m space)\nOpportunity for ‘open’ presentation during Lunch break\nFull page space in the Conference pack\nUp to 3 complimentary registrations for both days\nFree Gala Dinner passes for 3\n\nGold:             \n\nProminent display position with generous space equivalent to \nlarge poster board size (3m x 2m space)\nHalf page space in the Conference pack\nUp to 2 complimentary registrations for both days\nFree Gala Dinner passes for 2\n\nSilver            \n\nProminent display position with generous space equivalent to 2 large poster board size (2m x 2m space)\nQuarter page space in the Conference Pack\nOne complimentary registration for both days\nOne free Gala Dinner pass; 50% discount for additional 2 passes\n\nBronze         \n\nProminent display position with generous space equivalent to one large poster board size (1.5m x 1.5m space)\nLogo insertion for Sponsorship acknowledgement in the Conference Pack\nHalf discount registration for two, either both days or one day only\n50% discount for 2 Gala Dinner passes\n\nPlease contact nick@neon-events.co.uk for more details & prices\n"
   url: https://www.eventbrite.co.uk/e/the-7th-international-cardiovascular-genetics-genomics-conference-tickets-50125566920?aff=ebapi
@@ -1070,35 +1040,28 @@
   starts: 2019-02-13T15:00:00.0000000
   ends: 2019-02-13T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: '“Evolution – It’s a Fact" '
-  description: >-
-    “Evolution – It’s a Fact "with Andy Parkin
+- name: Towards Sustainable Plastics
+  description: >
+    A free symposium on the challenges and solutions to the global issue of plastic waste pollution
 
-     Andy’s talk on Evolution by Natural Selection will provide definitions and explanations and a look at the current threat facing science, particularly from the religious. 
+    Over recent years, there has been significant attention drawn towards the environmental damage caused by traditional plastics. This global pollution issue has arisen from several factors including complications surrounding the direct reuse of consumer packaging, challenges associated with chemical recycling and subsequent separation of plastic additives, the chemical composition of commonly used plastics, together with many socio-economic and infrastructure issues. Due to diversity of these key problems, a multitiered approach, utilising different expertise is needed to challenge the problem of plastic waste holistically.
 
-    He will also discuss taxonomy, the latest discoveries concerning overlapping hominid populations, evidence supporting evolution and a look at the predictions the theory makes.
+    Why attend?
 
-    Andy Parkinis currently a teacher of English as a Second Language and has taught all over the world. He has previously worked in the software industry and has been a Management Consultant, Benefits Guru and Housing Director. He started life as a Science Teacher and throughout his life has maintained an enthusiasm in all matters scientific. He has a keen interest in astronomy and cosmology and has recently become an accredited school speaker for Humanists UK.
-  url: https://www.eventbrite.co.uk/e/evolution-its-a-fact-tickets-54759121005?aff=ebapi
+
+    Build knowledge and bridge the different technical areas (from polymer design to additives extraction and recycling)
+
+    Forge new relationships in the field of sustainable plastics in our networking sessions
+
+    Discuss potential sources for funding important research over the next few years, such as the forthcoming ISCF Wave 3
+
+    Enjoy a free buffet lunch and wine reception following the event
+  url: https://www.eventbrite.co.uk/e/towards-sustainable-plastics-tickets-54912416516?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/54990522/237754649552/1/original.20190111-153737?h=200&w=450&auto=compress&rect=0,60,1920,960&s=5258c7ede952b1bfbd2526b4719cff9a
-  starts: 2019-02-05T19:30:00.0000000
-  ends: 2019-02-05T21:00:00.0000000
-  venue: Priory Street Centre
-- name: 'Tech Contractor Networking: Leeds'
-  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
-  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyzcbtb/
-  is-free: true
-  starts: 2019-01-15T12:15:00.0000000
-  ends: 2019-01-15T12:45:00.0000000
-  venue: Banyan Bar Leeds
-- name: Azure Machine Learning by Steve Spencer
-  description: '<p>Azure Machine Learning for Developers</p> <p>As a developer I wanted to get an understanding of machine learning and with the arrival of Azure Machine Learning I got my chance. This talk will go through from a developers perspective the highs and lows of machine learning. I will introduce the tools, show how easy it is to use and then talk about what us as developers can add to the process</p> '
-  url: https://www.meetup.com/HaintonDotNetYorkshire/events/257619300/
-  is-free: true
-  starts: 2019-01-15T18:00:00.0000000
-  ends: 2019-01-15T20:00:00.0000000
-  venue: Duke Studios
+  logo: https://cdn.evbuc.com/images/55153193/61443779641/1/original.20190115-102324?h=200&w=450&auto=compress&rect=600,0,796,398&s=ce03ef226af42778f707373a3cf3dc62
+  starts: 2019-04-17T08:30:00.0000000
+  ends: 2019-04-17T18:00:00.0000000
+  venue: Kings Manor
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbvb/
@@ -1182,6 +1145,22 @@
   starts: 2019-01-23T08:00:00.0000000
   ends: 2019-01-23T11:00:00.0000000
   venue: La Bottega Milanese
+- name: Ministry of Testing Leeds - January 2019
+  description: "<p>Ministry of Test Leeds is back for 2019 with a slightly new format.</p> <p>From the feedback we've had, people would like more meetings, but slightly shorter. Therefore we'll be trialing that for this month by having one main talk and one lightening talk.</p> <p>Going forward we'll be looking to see if this format works and if so, move to monthly meetings so more people can attend!</p> <p>To start the new way forward, we've got an excellent speaker lined up. Louise is very prominent within the Leeds community and highly experienced.</p> <p>They'll also be a lightening talk, food, drink, networking opportunities and lots of people to meet and talk to!</p> <p>6.30pm - 7pm: Networking and food</p> <p>7pm - 7.45pm: TALK: Test Driven Punishment - Louise Elliott (details below)</p> <p>7.45pm - 8pm: Break</p> <p>8pm - 8.15pm: Lightening talk - TBC</p> <p>Here are details for Louise and her talk:</p> <p>Louise Elliott (@IvanaTerrorBull)</p> <p>Louise has worked in the software world for longer than she cares to remember as a ​developer, technical architect and manager. She is passionate about pragmatic agile, quality, delivering value, cosmology, photography, visiting Antarctica (if only), roller derby, machine learning, bridge (the card game not things that help you cross rivers), people stuff, archery, war poetry and politics and she will talk endlessly about all of these given half the chance. She believes that people are infinitely fascinating and that managing people is like the most complex multivariable multithreaded system you ever encountered.</p> <p>About the Session</p> <p>What is the first thing we do when a major issue occurs in a live system? Sort it out of course. Then we start the hunt for the person to blame so that they can suffer the appropriate punishment. What do we do if a person is being awkward in the team and won’t agree to our ways of doing things? Ostracise them of course, and see how long it is until they hand in their notice – problem solved.</p> <p>This highly interactive talk delves into why humans have this tendency to blame and punish. It looks at real examples of punishment within the software world and the results which were achieved. These stories not only cover managers punishing team members but also punishment within teams and self-punishment. We are all guilty of some of the behaviours discussed.</p> "
+  url: https://www.meetup.com/Ministry-of-Testing-Leeds/events/258096060/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/b/0/f/thumb_470671503.jpeg
+  starts: 2019-01-24T18:30:00.0000000
+  ends: 2019-01-24T20:30:00.0000000
+  venue: Infinity Works Consulting
+- name: LeedsDevops - January 2019 Meetup
+  description: "<p>Happy new year, we've our first meetup of 2019 at The ODI Node in Leeds on Thursday 24th January 2019:</p> <p>6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>7:15 - 7:25 : Group updates/news/announcements<br/>7:25 - 8:55 : TBC.<br/>8:55 - 8:10 : Intermission<br/>8:10 - 9:00 : The Unexpected (Infrastructure Management) Journey<br/>9:00 - late : Decamp to the Wardrobe</p> <p>We're still dotting the i's and crossing the t's for our first speaker, but expect 30 mins filled with CI/CD, testing and the odd map! We'll update as soon as we have the everything sorted.</p> <p>Ahead of her appearence at Config Management Camp, Mihaela Drumeva (Micky for short) brings us a preview of her talk \"The Unexpected (Infrastructure Management) Journey\". Micky has a passion to automate all things. If she needs to perform a task more than twice, she'll automate it. Currently an operations engineer at Solarwinds, her 6 year career has spanned 3 companies and over 6 diverse teams, from development to test, build and infrastructure. As well as her day job as an operations engineer her main area of interest is in enhancing and automating new and exiting processes to increase productivity, confidence and quality. She recently organised Devopsdays Edinburgh and is passionate about building strong and diverse tech communities.</p> <p>Micky will cover..</p> <p>- What is it like to start new in infrastructure management land coming from unconventional background?<br/>- How do you wrap your head into infrastructure as code when all you cared before was if your code compiles?<br/>- How do software development techniques translate to infrastructure management?</p> <p>Having started her first job as an operations engineer roughly 18 months ago, she had all of those questions and many more. Coming from development background the transition into a more ops role and a DevOps team has been a fascinating journey. She'd like to share the lessons she learned along the way and encourage more people to blur the traditional lines.</p> <p>Refreshments</p> <p>As it's the start of a new year we've decided to expand the range of refreshments we offer, there will now be a wider range of quality soft drinks, teas and coffees - a massive thanks to our sponsors Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) for their continued support and sponsorship.</p> <p>Code Of Conduct</p> <p>Please note that we have an anti harassment policy and code of conduct <a href=\"http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in\" class=\"linkified\">http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in</a> order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street. If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on twitter @leedsdevops (<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>For more details see the event page on leedsdevops.org.uk (<a href=\"http://www.leedsdevops.org.uk/post/2019-01-15-meetup-tuesday-24th-january-2019-at-the-odi-node-in-leeds/\" class=\"linkified\">http://www.leedsdevops.org.uk/post/2019-01-15-meetup-tuesday-24th-january-2019-at-the-odi-node-in-leeds/</a>)</p> "
+  url: https://www.meetup.com/LeedsDevops/events/258091427/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/2/d/2/6/thumb_477851558.jpeg
+  starts: 2019-01-24T18:45:00.0000000
+  ends: 2019-01-24T20:45:00.0000000
+  venue: ODI Leeds Node
 - name: The Oracle Blockchain
   description: '<p>SEATS AT: <a href="https://ti.to/leeds-java-user-group/january-2019-the-oracle-blockchain" class="linkified">https://ti.to/leeds-java-user-group/january-2019-the-oracle-blockchain</a> Welcome to the first official Leeds Java User Group, sister to the enormously successful Dublin JUG, and the newly lunched Liverpool JUG. On the 24th January 2019, we welcome Oracle consultant Juarez Barbosa Junior who will open the LeedsJUG with a 2 hour deep-dive into the Oracle Blockchain Check out the full talk abstracts here. . . <a href="https://ti.to/leeds-java-user-group/january-2019-the-oracle-blockchain" class="linkified">https://ti.to/leeds-java-user-group/january-2019-the-oracle-blockchain</a></p> '
   url: https://www.meetup.com/Leeds-Java-User-Group/events/256922484/
@@ -1199,6 +1178,14 @@
   ends: 2019-01-28T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: HTTP API patterns with Toby Henderson
+  description: "<p>**HTTP API patterns**</p> <p>I GET how to DELETE but the real question is \"To PUT or to POST?\" or is it PATCH? What there's more?!</p> <p>After doing the standard HTTP CRUD, sometimes you need to do more, become a little more sophisticated in your manipulation of resources and add some depth to your HTTP API.</p> <p>This talk will take you through some common HTTP API patterns, provide you with names for these patterns so we can talk about them, describe what the patterns are and when they are generally used, and go through working examples.</p> <p>Hopefully, this information will help people create richer HTTP APIs, make you REST easy and everything 200 OK.</p> <p>Bio<br/>Toby Henderson is an Application Architect at Huddle, the #1 SharePoint alternative for enterprise content collaboration. He has over 20 years experience of commercial software engineering and has given talks at DDD events.</p> "
+  url: https://www.meetup.com/dotnetYork/events/255889878/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
+  starts: 2019-01-29T18:30:00.0000000
+  ends: 2019-01-29T20:30:00.0000000
+  venue: Trailight Boardroom
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbnc/
@@ -1700,4 +1687,12 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-12-19T19:00:00.0000000
   ends: 2019-12-19T22:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmybccbvb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-01-16T19:00:00.0000000
+  ends: 2020-01-16T22:00:00.0000000
   endorsed: true
