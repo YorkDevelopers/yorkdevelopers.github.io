@@ -69,7 +69,7 @@
   ends: 2019-03-14T19:30:00.0000000
   venue: Room C/A/101
 - name: York Technology Conference
-  description: "The York Technology Conference is a non-profit one-day event run by students, providing the opportunity for students to network with other students, who share an interest in technology, and with industry leaders. \nThis event will enable students from York and other universities to explore emerging technological trends through speakers, panel debates, workshops and networking opportunities.\nCurrent Agenda:\n\n3 Simple Steps to making your first million as an IT entrepreneur - Darryl Mattocks\nMachine Learning & Data Science in Content Production for TV & Online - Robin Pembrooke, BBC\nDesigning with Ethics - Ross Sleight, Somo Global\nCastles In The Sky - Tim Burnett, Sykes Holiday Cottages\nDelivering Innovation in Emerging Technologies - Helen Bowyer, IBM\nCyber Security Investigation: Case Study - Tim Burnett, Sykes Holiday Cottages\nSpeed Pitching - Darryl Mattocks\n\nMore talks and workshops to be added! \n"
+  description: "The York Technology Conference is a non-profit one-day event run by students, providing the opportunity for students to network with other students, who share an interest in technology, and with industry leaders. \nThis event will enable students from York and other universities to explore emerging technological trends through speakers, panel debates, workshops and networking opportunities.\nCurrent Agenda:\n\n3 Simple Steps to making your first million as an IT entrepreneur - Darryl Mattocks\nMachine Learning & Data Science in Content Production for TV & Online - Robin Pembrooke, BBC\nDesigning with Ethics - Ross Sleight, Somo Global\nCastles In The Sky - Tim Burnett, Sykes Holiday Cottages\nDelivering Innovation in Emerging Technologies - Helen Bowyer, IBM\nCyber Security Investigation: Case Study - Tim Burnett, Sykes Holiday Cottages\nSpeed Pitching - Darryl Mattocks\n\nMore talks and workshops to be added! "
   url: https://www.eventbrite.co.uk/e/york-technology-conference-tickets-51011295157?aff=ebapi
   logo: https://cdn.evbuc.com/images/50797944/275322375612/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,864,432&s=6ba2006f92dd07e87471a2627d5c742f
   starts: 2019-01-30T09:00:00.0000000
@@ -257,59 +257,57 @@
   starts: 2019-02-05T18:00:00.0000000
   ends: 2019-02-05T21:30:00.0000000
   venue: Pitcher & Piano
-- name: 'NV1: Brief overview of NVivo'
+- name: Global Game Jam York 2019
   description: >
-    These courses are for staff and researchers at York St John University. 
-
-
-    AD1: Making accessible documents
-
-    Prior knowledge: None but this course is aimed at staff and researchers
-
-    NVivo is a CAQDAS (Computer Assisted Qualitative Data Analysis System) that enables researchers to organize, analyse and share qualitative data efficiently. This course is a brief introduction to NVivo which will allow you to decide if it will be useful for your research and whether to undertake further training.
-
-    This course includes:
-
-
-    Explore an existing sample project structure
-
-    How to set up a new project
-
-    Bringing sources into NVivo project
-
-    Working with data
-
-    Handling external sources that can’t be digitised
-
-    Creating nodes and coding
+    ***This event is free for all students and staff from the University of York and University of York St John; email enterprise@york.ac.uk for the discount code***
 
 
 
-    FAQ
 
-    Is this course open to anyone?
+    Want to make a video game? 
 
-    This course is only available to students and staff from York St John University.
+    Learn how by joining the York Game Jam as part of Global Game Jam 2019! Bring along your friends and make a game together, or come and meet new friends.
 
-     
 
-    How can I contact the organiser with any questions?
+    How does it work?
 
-    Email digitaltraining@yorksj.ac.uk 
+    You'll be set a theme for the game on the Friday evening (25th January). Then, over the course of 48 hours you and your fellow team mates will rapidly go through each stage of game development in crunchtime fashion. This covers everything from theme development through to music, artwork and programming. When the deadline hits you will have a fully playable game!
 
-     
+    Industry experts will be coming along on both the Saturday and Sunday to play your games and give you hints and advice!
 
-    Do I have to bring my printed ticket to the event?
 
-    No, we have a list of bookings
+    No code experience? No problem.
 
-    OF1: Collaborative working with Office 365 including Teams
-  url: https://www.eventbrite.co.uk/e/nv1-brief-overview-of-nvivo-tickets-53146019174?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/53356644/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=4fce5919a4df6c4a15db32bb8bd5ac59
-  starts: 2019-01-30T14:00:00.0000000
-  ends: 2019-01-30T15:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
+    Whether you're an industry veteran or a total beginner, anyone is welcome to try their hand at making a game – no code experience is required (although having computer skills helps, and we're sure you've got those!).
+
+
+    ***Introductory workshop***
+
+
+    In preparation for the Game Jam, we will be running workshops to help you learn how to make a game. More details will be announced soon.
+
+
+
+    What do I need to bring?
+
+    Bring your laptops, your friends and your curiosity. Don't forget to bring refreshments to keep up your energy levels, bearing in mind, though, that you're not in any way expected to work through the night. Sleep is a beautiful thing.
+
+    We recommend that you download the software you'd like to use in advance of the Game Jam so you're ready to go. If you're not sure of what you’ll need, see the suggestions on the Game Jam website.
+
+
+    Sounds fun?
+
+    For more information email enterprise@york.ac.uk, visit www.globalgamejam.org or visit the University of York page on the Global Game Jam site. 
+
+
+    Under 18?
+
+    It is now Global Game Jam policy to not allow Under 18s to participate unless they are accompanied by their legal guardian at all times while attending the jam. Read more about the new age policy at http://globalgamejam.org/news/word-about-our-new-age-policy
+  url: https://www.eventbrite.co.uk/e/global-game-jam-york-2019-tickets-54527056895?aff=ebapi
+  logo: https://cdn.evbuc.com/images/54722549/160740409336/1/original.20190107-145305?h=200&w=450&auto=compress&rect=0,60,1920,960&s=48943c32aaf9a3facacd52be3d5cda09
+  starts: 2019-01-25T16:00:00.0000000
+  ends: 2019-01-27T20:00:00.0000000
+  venue: The Ron Cooke Hub
 - name: 'AD1: Making accessible documents (Thu 24th Jan 14:00-15:00)'
   description: >
     These courses are for students and staff at York St John University. 
@@ -369,57 +367,6 @@
   starts: 2019-01-24T14:00:00.0000000
   ends: 2019-01-24T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Global Game Jam York 2019
-  description: >
-    ***This event is free for all students and staff from the University of York and University of York St John; email enterprise@york.ac.uk for the discount code***
-
-
-
-
-    Want to make a video game? 
-
-    Learn how by joining the York Game Jam as part of Global Game Jam 2019! Bring along your friends and make a game together, or come and meet new friends.
-
-
-    How does it work?
-
-    You'll be set a theme for the game on the Friday evening (25th January). Then, over the course of 48 hours you and your fellow team mates will rapidly go through each stage of game development in crunchtime fashion. This covers everything from theme development through to music, artwork and programming. When the deadline hits you will have a fully playable game!
-
-    Industry experts will be coming along on both the Saturday and Sunday to play your games and give you hints and advice!
-
-
-    No code experience? No problem.
-
-    Whether you're an industry veteran or a total beginner, anyone is welcome to try their hand at making a game – no code experience is required (although having computer skills helps, and we're sure you've got those!).
-
-
-    ***Introductory workshop***
-
-
-    In preparation for the Game Jam, we will be running workshops to help you learn how to make a game. More details will be announced soon.
-
-
-
-    What do I need to bring?
-
-    Bring your laptops, your friends and your curiosity. Don't forget to bring refreshments to keep up your energy levels, bearing in mind, though, that you're not in any way expected to work through the night. Sleep is a beautiful thing.
-
-    We recommend that you download the software you'd like to use in advance of the Game Jam so you're ready to go. If you're not sure of what you’ll need, see the suggestions on the Game Jam website.
-
-
-    Sounds fun?
-
-    For more information email enterprise@york.ac.uk, visit www.globalgamejam.org or visit the University of York page on the Global Game Jam site. 
-
-
-    Under 18?
-
-    It is now Global Game Jam policy to not allow Under 18s to participate unless they are accompanied by their legal guardian at all times while attending the jam. Read more about the new age policy at http://globalgamejam.org/news/word-about-our-new-age-policy
-  url: https://www.eventbrite.co.uk/e/global-game-jam-york-2019-tickets-54527056895?aff=ebapi
-  logo: https://cdn.evbuc.com/images/54722549/160740409336/1/original.20190107-145305?h=200&w=450&auto=compress&rect=0,60,1920,960&s=48943c32aaf9a3facacd52be3d5cda09
-  starts: 2019-01-25T16:00:00.0000000
-  ends: 2019-01-27T20:00:00.0000000
-  venue: The Ron Cooke Hub
 - name: 'WO4: Research & PhD writing (Wed 6th Feb 10:00-11:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -729,6 +676,14 @@
   starts: 2019-05-08T13:00:00.0000000
   ends: 2019-05-08T14:00:00.0000000
   venue: University of York
+- name: Viking Cluster Launch
+  description: An afternoon of talks to launch the University of York's new high performance compute cluster, Viking
+  url: https://www.eventbrite.co.uk/e/viking-cluster-launch-registration-54844128264?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55084504/288439455905/1/original.20190114-093225?h=200&w=450&auto=compress&rect=0,556,2438,1219&s=5f2ac4ff0e1bb650abe8f507bc102685
+  starts: 2019-02-14T14:00:00.0000000
+  ends: 2019-02-14T18:00:00.0000000
+  venue: Bowland Auditorium, Berrick Saul Building
 - name: 'ID2: Speeding up production (Thur 7th Feb 14:30-15:30)'
   description: >-
     These courses are for students and staff at York St John University
@@ -839,6 +794,21 @@
   starts: 2019-01-17T14:30:00.0000000
   ends: 2019-01-17T15:30:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: '“Evolution – It’s a Fact" '
+  description: >-
+    “Evolution – It’s a Fact "with Andy Parkin
+
+     Andy’s talk on Evolution by Natural Selection will provide definitions and explanations and a look at the current threat facing science, particularly from the religious. 
+
+    He will also discuss taxonomy, the latest discoveries concerning overlapping hominid populations, evidence supporting evolution and a look at the predictions the theory makes.
+
+    Andy Parkinis currently a teacher of English as a Second Language and has taught all over the world. He has previously worked in the software industry and has been a Management Consultant, Benefits Guru and Housing Director. He started life as a Science Teacher and throughout his life has maintained an enthusiasm in all matters scientific. He has a keen interest in astronomy and cosmology and has recently become an accredited school speaker for Humanists UK.
+  url: https://www.eventbrite.co.uk/e/evolution-its-a-fact-tickets-54759121005?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/54990522/237754649552/1/original.20190111-153737?h=200&w=450&auto=compress&rect=0,60,1920,960&s=5258c7ede952b1bfbd2526b4719cff9a
+  starts: 2019-02-05T19:30:00.0000000
+  ends: 2019-02-05T21:00:00.0000000
+  venue: Priory Street Centre
 - name: The 7th International Cardiovascular Genetics & Genomics Conference
   description: "\n\n\nThe 7th International Cardiovascular Genomic Medicine Conference\n‘Clinical Cardiology in the Genome Era’\n4-5 December 2019\nRadisson Blu Hotel, York, England, UK\nThe Biennial ‘7th International Conference on Cardiovascular Genomic Medicine Conference’ offers a unique opportunity for clinical cardiologists, specialist cardiac nurses, electrophysiologists, cardiovascular radiologists, cardiac pathologists, clinical geneticists, genetic counselors and molecular geneticists to learn and share the fast emerging practice of cardiovascular genomic medicine.\nWorld class Faculty of experts in all fields of cardiovascular genetics & genomics and genomic medicine will join the wide ranging participants from UK, Europe and rest of the World. The programme includes plenary lectures, keynote presentations, open platform and poster presentations and seminars on selected topics.\nThis conference is the 7th as part of the original series of Biennial ‘Cardiff Cardiovascular Genetics Conference’ held since 2007. All previous events were grand successes admired by several clinicians, health professionals and researchers from all over the world.\nFor Registration, Sponsorship and all other enquiries please visit www.genomicmedicine.org\nFor General information and contributions to the Scientific Programme please contact Prof. Dhavendra Kumar\ngenomicmedicine@yahoo.co.uk\ncardiovasculargeneticsgenomics@gmail.com\nSPONSORSHIP PACKAGES\nPlatinum:   \n\nProminent display space and central position (4m x 2m space)\nOpportunity for ‘open’ presentation during Lunch break\nFull page space in the Conference pack\nUp to 3 complimentary registrations for both days\nFree Gala Dinner passes for 3\n\nGold:             \n\nProminent display position with generous space equivalent to \nlarge poster board size (3m x 2m space)\nHalf page space in the Conference pack\nUp to 2 complimentary registrations for both days\nFree Gala Dinner passes for 2\n\nSilver            \n\nProminent display position with generous space equivalent to 2 large poster board size (2m x 2m space)\nQuarter page space in the Conference Pack\nOne complimentary registration for both days\nOne free Gala Dinner pass; 50% discount for additional 2 passes\n\nBronze         \n\nProminent display position with generous space equivalent to one large poster board size (1.5m x 1.5m space)\nLogo insertion for Sponsorship acknowledgement in the Conference Pack\nHalf discount registration for two, either both days or one day only\n50% discount for 2 Gala Dinner passes\n\nPlease contact nick@neon-events.co.uk for more details & prices\n"
   url: https://www.eventbrite.co.uk/e/the-7th-international-cardiovascular-genetics-genomics-conference-tickets-50125566920?aff=ebapi
@@ -1070,18 +1040,25 @@
   starts: 2019-02-13T15:00:00.0000000
   ends: 2019-02-13T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: '“Evolution – It’s a Fact" '
-  description: >-
-    “Evolution – It’s a Fact "with Andy Parkin
+- name: Towards Sustainable Plastics
+  description: >
+    A free symposium on the challenges and solutions to the global issue of plastic waste pollution
 
-     Andy’s talk on Evolution by Natural Selection will provide definitions and explanations and a look at the current threat facing science, particularly from the religious. 
+    Over recent years, there has been significant attention drawn towards the environmental damage caused by traditional plastics. This global pollution issue has arisen from several factors including complications surrounding the direct reuse of consumer packaging, challenges associated with chemical recycling and subsequent separation of plastic additives, the chemical composition of commonly used plastics, together with many socio-economic and infrastructure issues. Due to diversity of these key problems, a multitiered approach, utilising different expertise is needed to challenge the problem of plastic waste holistically.
 
-    He will also discuss taxonomy, the latest discoveries concerning overlapping hominid populations, evidence supporting evolution and a look at the predictions the theory makes.
+    Why attend?
 
-    Andy Parkinis currently a teacher of English as a Second Language and has taught all over the world. He has previously worked in the software industry and has been a Management Consultant, Benefits Guru and Housing Director. He started life as a Science Teacher and throughout his life has maintained an enthusiasm in all matters scientific. He has a keen interest in astronomy and cosmology and has recently become an accredited school speaker for Humanists UK.
-  url: https://www.eventbrite.co.uk/e/evolution-its-a-fact-tickets-54759121005?aff=ebapi
+
+    Build knowledge and bridge the different technical areas (from polymer design to additives extraction and recycling)
+
+    Forge new relationships in the field of sustainable plastics in our networking sessions
+
+    Discuss potential sources for funding important research over the next few years, such as the forthcoming ISCF Wave 3
+
+    Enjoy a free buffet lunch and wine reception following the event
+  url: https://www.eventbrite.co.uk/e/towards-sustainable-plastics-tickets-54912416516?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/54990522/237754649552/1/original.20190111-153737?h=200&w=450&auto=compress&rect=0,60,1920,960&s=5258c7ede952b1bfbd2526b4719cff9a
-  starts: 2019-02-05T19:30:00.0000000
-  ends: 2019-02-05T21:00:00.0000000
-  venue: Priory Street Centre
+  logo: https://cdn.evbuc.com/images/55153193/61443779641/1/original.20190115-102324?h=200&w=450&auto=compress&rect=600,0,796,398&s=ce03ef226af42778f707373a3cf3dc62
+  starts: 2019-04-17T08:30:00.0000000
+  ends: 2019-04-17T18:00:00.0000000
+  venue: Kings Manor
