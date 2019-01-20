@@ -200,6 +200,20 @@
   starts: 2019-01-30T18:00:00.0000000
   ends: 2019-01-30T20:30:00.0000000
   venue: Isotoma
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-51655890158?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
+  starts: 2019-01-31T18:30:00.0000000
+  ends: 2019-01-31T19:30:00.0000000
 - name: 'Designing with Natural Materials: Book Launch by NMA & Bioladies Network '
   description: >+
     The  Bioladies Network and the Natural Materials Association would like to invite you to an exciting evening celebrating the launch of "Designing with Natural Materials".
@@ -236,20 +250,6 @@
   starts: 2019-02-05T18:00:00.0000000
   ends: 2019-02-05T21:30:00.0000000
   venue: Pitcher & Piano
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-51655890158?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
-  starts: 2019-01-31T18:30:00.0000000
-  ends: 2019-01-31T19:30:00.0000000
 - name: 'AD1: Making accessible documents (Thu 24th Jan 14:00-15:00)'
   description: >
     These courses are for students and staff at York St John University. 
@@ -309,6 +309,28 @@
   starts: 2019-01-24T14:00:00.0000000
   ends: 2019-01-24T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Towards Sustainable Plastics
+  description: >
+    A free symposium on the challenges and solutions to the global issue of plastic waste pollution
+
+    Over recent years, there has been significant attention drawn towards the environmental damage caused by traditional plastics. This global pollution issue has arisen from several factors including complications surrounding the direct reuse of consumer packaging, challenges associated with chemical recycling and subsequent separation of plastic additives, the chemical composition of commonly used plastics, together with many socio-economic and infrastructure issues. Due to diversity of these key problems, a multitiered approach, utilising different expertise is needed to challenge the problem of plastic waste holistically.
+
+    Why attend?
+
+
+    Build knowledge and bridge the different technical areas (from polymer design to additives extraction and recycling)
+
+    Forge new relationships in the field of sustainable plastics in our networking sessions
+
+    Discuss potential sources for funding important research over the next few years, such as the forthcoming ISCF Wave 3
+
+    Enjoy a free buffet lunch and wine reception following the event
+  url: https://www.eventbrite.co.uk/e/towards-sustainable-plastics-tickets-54912416516?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55153193/61443779641/1/original.20190115-102324?h=200&w=450&auto=compress&rect=600,0,796,398&s=ce03ef226af42778f707373a3cf3dc62
+  starts: 2019-04-17T08:30:00.0000000
+  ends: 2019-04-17T18:00:00.0000000
+  venue: Kings Manor
 - name: 'WO4: Research & PhD writing (Wed 6th Feb 10:00-11:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -502,28 +524,65 @@
   starts: 2019-01-24T10:00:00.0000000
   ends: 2019-01-24T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Towards Sustainable Plastics
-  description: >
-    A free symposium on the challenges and solutions to the global issue of plastic waste pollution
-
-    Over recent years, there has been significant attention drawn towards the environmental damage caused by traditional plastics. This global pollution issue has arisen from several factors including complications surrounding the direct reuse of consumer packaging, challenges associated with chemical recycling and subsequent separation of plastic additives, the chemical composition of commonly used plastics, together with many socio-economic and infrastructure issues. Due to diversity of these key problems, a multitiered approach, utilising different expertise is needed to challenge the problem of plastic waste holistically.
-
-    Why attend?
+- name: 'PS1: Photoshop Essentials inc. for website editors (Tue 24th Jan 15:00-16:00)'
+  description: >-
+    These courses are for students and staff at York St John University
 
 
-    Build knowledge and bridge the different technical areas (from polymer design to additives extraction and recycling)
+    PS1: Photoshop Essentials
 
-    Forge new relationships in the field of sustainable plastics in our networking sessions
+    Prior knowledge: None
 
-    Discuss potential sources for funding important research over the next few years, such as the forthcoming ISCF Wave 3
+    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
 
-    Enjoy a free buffet lunch and wine reception following the event
-  url: https://www.eventbrite.co.uk/e/towards-sustainable-plastics-tickets-54912416516?aff=ebapi
+
+    Understanding the workspace
+
+    Cropping existing images
+
+    Resizing images
+
+    Saving for the Web
+
+    Understanding image formats
+
+    Using filters and corrections
+
+    Using the text tool
+
+    Handling difficult shaped images
+
+    Compositing multiple images
+
+    Saving for different uses
+
+    Adding a background
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-tue-24th-jan-1500-1600-tickets-53863791049?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/55153193/61443779641/1/original.20190115-102324?h=200&w=450&auto=compress&rect=600,0,796,398&s=ce03ef226af42778f707373a3cf3dc62
-  starts: 2019-04-17T08:30:00.0000000
-  ends: 2019-04-17T18:00:00.0000000
-  venue: Kings Manor
+  logo: https://cdn.evbuc.com/images/54094344/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=f01f1acb716f0543555221ceab836cd2
+  starts: 2019-01-24T15:00:00.0000000
+  ends: 2019-01-24T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: York Science Conference 2019
   description: >-
     York Science Conference 2019
@@ -632,65 +691,6 @@
   logo: https://cdn.evbuc.com/images/54093719/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=ca95b97c94f0a6df441dd63dc403ed66
   starts: 2019-02-11T10:00:00.0000000
   ends: 2019-02-11T12:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'PS1: Photoshop Essentials inc. for website editors (Tue 24th Jan 15:00-16:00)'
-  description: >-
-    These courses are for students and staff at York St John University
-
-
-    PS1: Photoshop Essentials
-
-    Prior knowledge: None
-
-    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
-
-
-    Understanding the workspace
-
-    Cropping existing images
-
-    Resizing images
-
-    Saving for the Web
-
-    Understanding image formats
-
-    Using filters and corrections
-
-    Using the text tool
-
-    Handling difficult shaped images
-
-    Compositing multiple images
-
-    Saving for different uses
-
-    Adding a background
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-tue-24th-jan-1500-1600-tickets-53863791049?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54094344/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=f01f1acb716f0543555221ceab836cd2
-  starts: 2019-01-24T15:00:00.0000000
-  ends: 2019-01-24T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'PS1: Photoshop Essentials inc. for website editors (Wed 13th Feb 15:00-16:00)'
   description: >-
