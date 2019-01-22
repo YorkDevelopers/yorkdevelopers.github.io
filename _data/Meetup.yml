@@ -1,12 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbcc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-01-21T07:00:00.0000000
-  ends: 2019-01-21T10:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
 - name: 'YorkSwift Monthly Meetup  #008 - Jan - Codable'
   description: "<p>This month we are looking at the very useful Codable protocol. It can be used for decoding API JSON and mapping to your classes, or encoding for view data in templates files.</p> <p><a href=\"https://developer.apple.com/documentation/swift/codable\" class=\"linkified\">https://developer.apple.com/documentation/swift/codable</a></p> <p>## Agenda</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - Codable, Encodable &amp; Decodable</p> <p>Lets run through some example playgrounds, learn how to manipulate your data in some basic use case scenarios.</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
   url: https://www.meetup.com/YorkSwift/events/257935804/
@@ -40,8 +31,8 @@
   starts: 2019-01-24T18:45:00.0000000
   ends: 2019-01-24T20:45:00.0000000
   venue: ODI Leeds Node
-- name: The Oracle Blockchain
-  description: '<p>SEATS AT: <a href="https://ti.to/leeds-java-user-group/january-2019-the-oracle-blockchain" class="linkified">https://ti.to/leeds-java-user-group/january-2019-the-oracle-blockchain</a> Welcome to the first official Leeds Java User Group, sister to the enormously successful Dublin JUG, and the newly lunched Liverpool JUG. On the 24th January 2019, we welcome Oracle consultant Juarez Barbosa Junior who will open the LeedsJUG with a 2 hour deep-dive into the Oracle Blockchain Check out the full talk abstracts here. . . <a href="https://ti.to/leeds-java-user-group/january-2019-the-oracle-blockchain" class="linkified">https://ti.to/leeds-java-user-group/january-2019-the-oracle-blockchain</a></p> '
+- name: 'Project Helidon - Java Libraries for Microservices / Oracle Blockchain '
+  description: '<p>BOOK SEATS AT: <a href="https://ti.to/leeds-java-user-group/january-2019-the-oracle-blockchain" class="linkified">https://ti.to/leeds-java-user-group/january-2019-the-oracle-blockchain</a> Welcome to the first official Leeds Java User Group, sister to the enormously successful Dublin JUG, and the newly lunched Liverpool JUG. On the 24th January 2019, we welcome Oracle consultant Juarez Barbosa Junior who will open the LeedsJUG with a introduction to Project Helidon, a collection of Java libraries for microservices, and a deep-dive into the Oracle Blockchain, presenting both Hyperledger and the Oracle Blockchain Cloud Service as a platform to develop Blockchain applications with Java. Check out the full talk abstracts here. . . <a href="https://ti.to/leeds-java-user-group/january-2019-the-oracle-blockchain" class="linkified">https://ti.to/leeds-java-user-group/january-2019-the-oracle-blockchain</a></p> '
   url: https://www.meetup.com/Leeds-Java-User-Group/events/256922484/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/5/3/6/e/thumb_476481358.jpeg
@@ -123,6 +114,13 @@
   ends: 2019-02-04T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: 'Digital Transformation: Leeds'
+  description: '<p>Please RSVP Via Eventbrite<br/><a href="https://www.eventbrite.co.uk/e/digital-transformation-leeds-tickets-54851735016" class="linkified">https://www.eventbrite.co.uk/e/digital-transformation-leeds-tickets-54851735016</a></p> <p>Please join us for the first of a series of Digital Transformation meet-ups in Leeds discussing the changing face of IT development and the latest digital transformation subjects. We aim to cover Software Engineering, Data Science, Design and Agile topics over the course of 2019.</p> <p>In this event we have presenters covering Transformation and Test Automation topics. There will also be plenty of time to network with other attendees at this informal meet-up, and food and drink will be provided.</p> <p>Doors open at 5.30pm in the Event Space at the excellent Duke Studios, 3 Sheaf Street, Leeds LS10 1HD, just an 8 minute walk from Leeds Train Station. Entry is by strictly by Eventbrite ticket only, so please ensure you register above and bring a printed or electronic copy.</p> <p>This is an informal event for local technology practitioners.</p> <p>This event is brought to you by Lloyds Banking Group Engineering #horsepower</p> '
+  url: https://www.meetup.com/Digital-Transformation-Leeds/events/258065782/
+  is-free: true
+  starts: 2019-02-04T17:30:00.0000000
+  ends: 2019-02-04T19:30:00.0000000
+  venue: Duke Studios
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbjb/
@@ -566,6 +564,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-07-10T06:00:00.0000000
   ends: 2019-07-10T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-07-15T06:00:00.0000000
+  ends: 2019-07-15T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
