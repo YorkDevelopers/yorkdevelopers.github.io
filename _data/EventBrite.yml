@@ -47,13 +47,6 @@
   starts: 2019-03-14T18:30:00.0000000
   ends: 2019-03-14T19:30:00.0000000
   venue: Room C/A/101
-- name: York Technology Conference
-  description: "The York Technology Conference is a non-profit one-day event run by students, providing the opportunity for students to network with other students, who share an interest in technology, and with industry leaders. \nThis event will enable students from York and other universities to explore emerging technological trends through speakers, panel debates, workshops and networking opportunities.\nCurrent Agenda:\nTalks:\n\n3 Simple Steps to making your first million as an IT entrepreneur - Darryl Mattocks\nMachine Learning & Data Science in Content Production for TV & Online - Robin Pembrooke, BBC\nDesigning with Ethics - Ross Sleight, Somo Global\nCastles In The Sky - Tim Burnett, Sykes Holiday Cottages\nDelivering Innovation in Emerging Technologies - Helen Bowyer, IBM\nFrom student to practitioner: Making the leap - Mansha Manohar, BBC \n\nWorkshops:\n\nSpeed Pitching - Darryl Mattocks\nHands-on Analytics - IBM\nManagement Consulting in Tech - YCC\nFintech Foundations - Rob Bellingham \nThe Psychology of how to sell things (and you)\nCyber Security Investigation: Case Study - Tim Burnett, Sykes\nCollaborative Product Development: Putting the User First - IBM\nDragons' Den: Blockchain Edition - Blockchain society \nStorytelling with data visualisation - Tobias Sturt, AddTwo\nLearn Startup Method - How to plan your start-up using one page of A4 - Bethan Vincent, Netsells\nTechie Reckie - Heather Nivan and Emma DuBruel, Science City York\n\nMore talks and workshops to be added! "
-  url: https://www.eventbrite.co.uk/e/york-technology-conference-tickets-51011295157?aff=ebapi
-  logo: https://cdn.evbuc.com/images/50797944/275322375612/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,864,432&s=6ba2006f92dd07e87471a2627d5c742f
-  starts: 2019-01-30T09:00:00.0000000
-  ends: 2019-01-30T17:30:00.0000000
-  venue: The Ron Cooke Hub
 - name: 'From scarcity to abundance: How water resource management can contribute to cooperation and stability in the Middle East'
   description: >-
     Speaker: Dr Clive Lipchin, Arava Institute, Israel
@@ -192,6 +185,14 @@
   starts: 2019-01-25T16:00:00.0000000
   ends: 2019-01-27T20:00:00.0000000
   venue: The Ron Cooke Hub
+- name: Studying Cancer, One Cell at a Time
+  description: Studying Cancer, One Cell at a Time
+  url: https://www.eventbrite.co.uk/e/studying-cancer-one-cell-at-a-time-tickets-54640532303?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/54859878/287847590648/1/original.20190109-143743?h=200&w=450&auto=compress&rect=0,103,800,400&s=8323cd95e9fb6766bfb52119bda05436
+  starts: 2019-05-08T13:00:00.0000000
+  ends: 2019-05-08T14:00:00.0000000
+  venue: University of York
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -214,14 +215,6 @@
   starts: 2019-01-30T18:00:00.0000000
   ends: 2019-01-30T20:30:00.0000000
   venue: Isotoma
-- name: Studying Cancer, One Cell at a Time
-  description: Studying Cancer, One Cell at a Time
-  url: https://www.eventbrite.co.uk/e/studying-cancer-one-cell-at-a-time-tickets-54640532303?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54859878/287847590648/1/original.20190109-143743?h=200&w=450&auto=compress&rect=0,103,800,400&s=8323cd95e9fb6766bfb52119bda05436
-  starts: 2019-05-08T13:00:00.0000000
-  ends: 2019-05-08T14:00:00.0000000
-  venue: University of York
 - name: 'Designing with Natural Materials: Book Launch by NMA & Bioladies Network '
   description: >+
     The  Bioladies Network and the Natural Materials Association would like to invite you to an exciting evening celebrating the launch of "Designing with Natural Materials".
@@ -422,102 +415,21 @@
   logo: https://cdn.evbuc.com/images/55084867/225199386643/1/original.20190114-094421?h=200&w=450&auto=compress&rect=0,0,800,400&s=678fb15d74cbb952545fcb39af536e0b
   starts: 2019-03-27T12:00:00.0000000
   ends: 2019-03-27T13:30:00.0000000
-- name: 'WE1: Website CMS Basic training (Thur 24th Jan 10:00-12:00)'
+- name: IDGC-YCCSA Seminar:Information Transforming Human Network Systems to a Sustainable Nexus Multiplex
   description: >-
-    These courses are for staff who have been approved by the website team only
+    The Interdisciplinary Global Development Centre and York Cross-Disciplinary Centre for Systems Analysis are pleased to present a seminar by Dr. Roger Cremades from the Climate Service Centre, Germany.
 
+    IGDC Research Seminar Series: Exploring sustainability, resilience, security and complexity within the water-energy-land-food nexus.
 
-    WE1: Website CMS basics
+    Abstract:Separate considerations of water, energy, food and land use pressures and environmental constraints result in a waste of resources and incoherent planning worldwide. Current modelling of these pressures as an integrated nexus captures limited instances of a more complex feature: the distribution and trade networks formed by each of these nexus elements. Together these form a ‘multiplex’ that has not been studied previously as a whole. Moreover, the sustainability properties of these multiplexes and their implications for development are not understood. Using big data techniques to assimilate real-world water, energy, commodities’ trade and transport networks, and graph theory and complex systems science to analyse and model them, the seminar will explore how to (i) analyse their emerging complex properties, (ii) understand which of these properties lead to sustainability, (iii) test these properties and study their full potential in transformation simulation models to better understand and enhance sustainability, resilience and security, and (iv) formulate a new data-driven theoretical paradigm that studies sustainability from a systemic multiplex perspective. This project will lay the groundwork for new approaches to evaluating sustainability and development using the latest advances in big data and complex systems.  
 
-    Prior knowledge: None
-
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-thur-24th-jan-1000-1200-tickets-53862759965?aff=ebapi
+    Freshements will be available after the talk followed by a discussion session.
+  url: https://www.eventbrite.co.uk/e/idgc-yccsa-seminarinformation-transforming-human-network-systems-to-a-sustainable-nexus-multiplex-tickets-52307602447?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/54093539/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=b6a3afe4d49be8f39417759025584198
-  starts: 2019-01-24T10:00:00.0000000
-  ends: 2019-01-24T12:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'PS1: Photoshop Essentials inc. for website editors (Tue 24th Jan 15:00-16:00)'
-  description: >-
-    These courses are for students and staff at York St John University
-
-
-    PS1: Photoshop Essentials
-
-    Prior knowledge: None
-
-    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
-
-
-    Understanding the workspace
-
-    Cropping existing images
-
-    Resizing images
-
-    Saving for the Web
-
-    Understanding image formats
-
-    Using filters and corrections
-
-    Using the text tool
-
-    Handling difficult shaped images
-
-    Compositing multiple images
-
-    Saving for different uses
-
-    Adding a background
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-tue-24th-jan-1500-1600-tickets-53863791049?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54094344/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=f01f1acb716f0543555221ceab836cd2
-  starts: 2019-01-24T15:00:00.0000000
-  ends: 2019-01-24T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
+  logo: https://cdn.evbuc.com/images/55222411/44075574330/1/original.20190116-111348?h=200&w=450&auto=compress&rect=0,7,270,135&s=27d820b8cc4b62c13803be0d601e5f49
+  starts: 2019-02-01T13:30:00.0000000
+  ends: 2019-02-01T15:30:00.0000000
+  venue: The Tree House, Berrick Saul Building
 - name: 'WE1: Website CMS Basic training (Mon 11th Feb 10:00-12:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -562,78 +474,6 @@
   starts: 2019-03-19T18:30:00.0000000
   ends: 2019-03-19T21:00:00.0000000
   venue: Merchant Adventurers' Hall
-- name: IDGC-YCCSA Seminar:Information Transforming Human Network Systems to a Sustainable Nexus Multiplex
-  description: >-
-    The Interdisciplinary Global Development Centre and York Cross-Disciplinary Centre for Systems Analysis are pleased to present a seminar by Dr. Roger Cremades from the Climate Service Centre, Germany.
-
-    IGDC Research Seminar Series: Exploring sustainability, resilience, security and complexity within the water-energy-land-food nexus.
-
-    Abstract:Separate considerations of water, energy, food and land use pressures and environmental constraints result in a waste of resources and incoherent planning worldwide. Current modelling of these pressures as an integrated nexus captures limited instances of a more complex feature: the distribution and trade networks formed by each of these nexus elements. Together these form a ‘multiplex’ that has not been studied previously as a whole. Moreover, the sustainability properties of these multiplexes and their implications for development are not understood. Using big data techniques to assimilate real-world water, energy, commodities’ trade and transport networks, and graph theory and complex systems science to analyse and model them, the seminar will explore how to (i) analyse their emerging complex properties, (ii) understand which of these properties lead to sustainability, (iii) test these properties and study their full potential in transformation simulation models to better understand and enhance sustainability, resilience and security, and (iv) formulate a new data-driven theoretical paradigm that studies sustainability from a systemic multiplex perspective. This project will lay the groundwork for new approaches to evaluating sustainability and development using the latest advances in big data and complex systems.  
-
-    Freshements will be available after the talk followed by a discussion session.
-  url: https://www.eventbrite.co.uk/e/idgc-yccsa-seminarinformation-transforming-human-network-systems-to-a-sustainable-nexus-multiplex-tickets-52307602447?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/55222411/44075574330/1/original.20190116-111348?h=200&w=450&auto=compress&rect=0,7,270,135&s=27d820b8cc4b62c13803be0d601e5f49
-  starts: 2019-02-01T13:30:00.0000000
-  ends: 2019-02-01T15:30:00.0000000
-  venue: The Tree House, Berrick Saul Building
-- name: 'ID2: Speeding up production (Thur 7th Feb 14:30-15:30)'
-  description: >-
-    These courses are for students and staff at York St John University
-
-
-    ID2: Speeding up production
-
-
-
-
-    Prior knowledge: Basic skills with InDesign equivalent to Indesign1
-
-    This course adds features aimed at handling more documents in InDesign. We will look at setting up styles to maintain consistency, using master pages to provide constant backgrounds and libraries to gain quick access to to commonly used objects.
-
-    This course includes:
-
-
-    Using master pages
-
-    Headers and footers
-
-    Using layers
-
-    Guides, rulers and tabs
-
-    Using a library
-
-    Page numbers and references
-
-
-
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/id2-speeding-up-production-thur-7th-feb-1430-1530-tickets-54280586696?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54490205/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=1d0a59fa99c834ad16cfeec0334b4154
-  starts: 2019-02-07T14:30:00.0000000
-  ends: 2019-02-07T15:30:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'PS1: Photoshop Essentials inc. for website editors (Wed 13th Feb 15:00-16:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -693,6 +533,95 @@
   starts: 2019-02-13T15:00:00.0000000
   ends: 2019-02-13T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'ID2: Speeding up production (Thur 7th Feb 14:30-15:30)'
+  description: >-
+    These courses are for students and staff at York St John University
+
+
+    ID2: Speeding up production
+
+
+
+
+    Prior knowledge: Basic skills with InDesign equivalent to Indesign1
+
+    This course adds features aimed at handling more documents in InDesign. We will look at setting up styles to maintain consistency, using master pages to provide constant backgrounds and libraries to gain quick access to to commonly used objects.
+
+    This course includes:
+
+
+    Using master pages
+
+    Headers and footers
+
+    Using layers
+
+    Guides, rulers and tabs
+
+    Using a library
+
+    Page numbers and references
+
+
+
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/id2-speeding-up-production-thur-7th-feb-1430-1530-tickets-54280586696?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/54490205/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=1d0a59fa99c834ad16cfeec0334b4154
+  starts: 2019-02-07T14:30:00.0000000
+  ends: 2019-02-07T15:30:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: Clean Air Day- air pollution and York
+  description: >-
+    This event will consist of a series of talks exploring research at the University of York into air pollution. This will be followed by interactive sessions, allowing the audience to ask the researchers their burning questions and gain ideas about what they can do for Clean Air Day on the 20th June 2019. This event is open to the public and University of York staff and students.
+
+
+    Health in Urban Environments Event Series
+
+    The event forms part of the Health in Urban Environments Series where the York Environmental Sustainability Institute (YESI), Stockholm Environment Institute (SEI), Interdisciplinary Global Development Centre (IGDC), Wolfson Atmospheric Chemistry Laboratories (WACL) and several Research Champions are joining forces to host an event series to explore Urban Living-related research and innovation at the University of York.
+
+    Through a series of workshops, lunchtime seminar, full day events and discussion sessions, we will gain insight into the historical development of the world’s cities and the social and environmental consequences of urbanisation.
+
+    By bringing together the social, physical and life sciences we will be able to explore this topic from many angles and celebrate the interdisciplinary nature of research at the University of York.
+
+    The series, which will begin in January and conclude in June in alignment with Clean Air Day, will be open to researchers, staff and students at the University of York.
+
+    Events in the series:
+
+    Exploring transport in an African city context: 12:00-14:00, 22nd January 2019
+
+    Global pollution in urban environments: 12:00-13:30, 27th March 2019
+
+    Transforming urban infrastructure: the role of religion and communities in urbanisation in Africa: 12:00-13:30, 11th April 2019
+
+    Mental health in urban environments: 9:30-12:30, 2nd May 2019
+
+    Clean Air Day- air pollution and York: 9:00-17:00, 13th June 2019
+  url: https://www.eventbrite.co.uk/e/clean-air-day-air-pollution-and-york-tickets-53815756376?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55084961/225199386643/1/original.20190114-094711?h=200&w=450&auto=compress&rect=0,0,800,400&s=2a050f836f43e8ed19f6a541302c0514
+  starts: 2019-06-13T09:00:00.0000000
+  ends: 2019-06-13T17:00:00.0000000
+  venue: University of York
 - name: 'PS2: Layers and cutting out (Tue 19th Feb 14:30-15:30)'
   description: >-
     These courses are for students and staff at York St John University
@@ -761,6 +690,65 @@
   starts: 2019-02-05T19:30:00.0000000
   ends: 2019-02-05T21:00:00.0000000
   venue: Priory Street Centre
+- name: 'AD1: Making accessible documents (Thu 31st Jan 14:00-15:00)'
+  description: >
+    These courses are for students and staff at York St John University. 
+
+
+    AD1: Making accessible documents
+
+    Prior knowledge: none
+
+    Making documents accessible is important for everyone, not just those with visual impairments, hearing impairments and mobility limitations. As well as being best practise, new regulations are coming into force for all websites. Learn how to make PowerPoint presentations, Word documents, Excel Spreadsheets and PDFs accessible in a few easy steps. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Adding captions to images
+
+    Controlling the order in which screen readers navigate documents
+
+    Creating accessible tables
+
+    Using colour in documents
+
+    Adding meta-data to documents
+
+    Creating accessible hyperlinks
+
+    Using the built-in accessibility checkers
+
+    Discussion of different formats for accessible documents
+
+    Brief discussion of other YSJ systems
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+
+    OF1: Collaborative working with Office 365 including Teams
+  url: https://www.eventbrite.co.uk/e/ad1-making-accessible-documents-thu-31st-jan-1400-1500-tickets-55211036697?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55514867/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=01252ce173ed7451b2fe31f876fc0945
+  starts: 2019-01-31T14:00:00.0000000
+  ends: 2019-01-31T15:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: The 7th International Cardiovascular Genetics & Genomics Conference
   description: "\n\n\nThe 7th International Cardiovascular Genomic Medicine Conference\n‘Clinical Cardiology in the Genome Era’\n4-5 December 2019\nRadisson Blu Hotel, York, England, UK\nThe Biennial ‘7th International Conference on Cardiovascular Genomic Medicine Conference’ offers a unique opportunity for clinical cardiologists, specialist cardiac nurses, electrophysiologists, cardiovascular radiologists, cardiac pathologists, clinical geneticists, genetic counselors and molecular geneticists to learn and share the fast emerging practice of cardiovascular genomic medicine.\nWorld class Faculty of experts in all fields of cardiovascular genetics & genomics and genomic medicine will join the wide ranging participants from UK, Europe and rest of the World. The programme includes plenary lectures, keynote presentations, open platform and poster presentations and seminars on selected topics.\nThis conference is the 7th as part of the original series of Biennial ‘Cardiff Cardiovascular Genetics Conference’ held since 2007. All previous events were grand successes admired by several clinicians, health professionals and researchers from all over the world.\nFor Registration, Sponsorship and all other enquiries please visit www.genomicmedicine.org\nFor General information and contributions to the Scientific Programme please contact Prof. Dhavendra Kumar\ngenomicmedicine@yahoo.co.uk\ncardiovasculargeneticsgenomics@gmail.com\nSPONSORSHIP PACKAGES\nPlatinum:   \n\nProminent display space and central position (4m x 2m space)\nOpportunity for ‘open’ presentation during Lunch break\nFull page space in the Conference pack\nUp to 3 complimentary registrations for both days\nFree Gala Dinner passes for 3\n\nGold:             \n\nProminent display position with generous space equivalent to \nlarge poster board size (3m x 2m space)\nHalf page space in the Conference pack\nUp to 2 complimentary registrations for both days\nFree Gala Dinner passes for 2\n\nSilver            \n\nProminent display position with generous space equivalent to 2 large poster board size (2m x 2m space)\nQuarter page space in the Conference Pack\nOne complimentary registration for both days\nOne free Gala Dinner pass; 50% discount for additional 2 passes\n\nBronze         \n\nProminent display position with generous space equivalent to one large poster board size (1.5m x 1.5m space)\nLogo insertion for Sponsorship acknowledgement in the Conference Pack\nHalf discount registration for two, either both days or one day only\n50% discount for 2 Gala Dinner passes\n\nPlease contact nick@neon-events.co.uk for more details & prices\n"
   url: https://www.eventbrite.co.uk/e/the-7th-international-cardiovascular-genetics-genomics-conference-tickets-50125566920?aff=ebapi
@@ -768,38 +756,6 @@
   starts: 2019-12-04T08:00:00.0000000
   ends: 2019-12-05T17:00:00.0000000
   venue: Park Inn by Radisson York City Centre
-- name: Clean Air Day- air pollution and York
-  description: >-
-    This event will consist of a series of talks exploring research at the University of York into air pollution. This will be followed by interactive sessions, allowing the audience to ask the researchers their burning questions and gain ideas about what they can do for Clean Air Day on the 20th June 2019. This event is open to the public and University of York staff and students.
-
-
-    Health in Urban Environments Event Series
-
-    The event forms part of the Health in Urban Environments Series where the York Environmental Sustainability Institute (YESI), Stockholm Environment Institute (SEI), Interdisciplinary Global Development Centre (IGDC), Wolfson Atmospheric Chemistry Laboratories (WACL) and several Research Champions are joining forces to host an event series to explore Urban Living-related research and innovation at the University of York.
-
-    Through a series of workshops, lunchtime seminar, full day events and discussion sessions, we will gain insight into the historical development of the world’s cities and the social and environmental consequences of urbanisation.
-
-    By bringing together the social, physical and life sciences we will be able to explore this topic from many angles and celebrate the interdisciplinary nature of research at the University of York.
-
-    The series, which will begin in January and conclude in June in alignment with Clean Air Day, will be open to researchers, staff and students at the University of York.
-
-    Events in the series:
-
-    Exploring transport in an African city context: 12:00-14:00, 22nd January 2019
-
-    Global pollution in urban environments: 12:00-13:30, 27th March 2019
-
-    Transforming urban infrastructure: the role of religion and communities in urbanisation in Africa: 12:00-13:30, 11th April 2019
-
-    Mental health in urban environments: 9:30-12:30, 2nd May 2019
-
-    Clean Air Day- air pollution and York: 9:00-17:00, 13th June 2019
-  url: https://www.eventbrite.co.uk/e/clean-air-day-air-pollution-and-york-tickets-53815756376?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/55084961/225199386643/1/original.20190114-094711?h=200&w=450&auto=compress&rect=0,0,800,400&s=2a050f836f43e8ed19f6a541302c0514
-  starts: 2019-06-13T09:00:00.0000000
-  ends: 2019-06-13T17:00:00.0000000
-  venue: University of York
 - name: 'WE1: Website CMS Basic training (Mon 4th Mar 14:00-16:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -900,7 +856,7 @@
   description: >-
     STEMsational Women - Professional panel & Q&AThursday 7 March 2019Venue: York St John University; Temple Hall 6.00pm                   Event commences 7.15-7.30pm           Key professional panel event closes7.30 - 8.30pm         All guests are invited to a post event reception to carry on conversations and meet other professionals. Drinks and nibbles provided.
 
-    As part of International Womens day events York St John University have worked in partnership with the Two Ridings Community Foundation to bring together an event to encourage and inspire women, particularly from Science, Technology, Engineering and Maths sectors.
+    As part of International Womens Day York St John University have worked in partnership with the Two Ridings Community Foundation to bring together an event to encourage and inspire women, particularly from Science, Technology, Engineering and Maths sectors.
 
     The aim of the event is to showcase women in these areas and create an environment for attendees to hear their stories of success, discuss with professionals how they can access these career paths, to take inspiration from women in these roles and also to encourage mentors to step forward. The event would be hosted by Jan Garrill, Chief Executive of the Two Ridings Community Foundation and Dr Jane Rand, Deputy Vice-Chancellor & Chair YSJU Womens Network.
 
@@ -923,8 +879,15 @@
   starts: 2019-03-07T18:00:00.0000000
   ends: 2019-03-07T22:00:00.0000000
   venue: York St John University
-- name: 'AD1: Making accessible documents (Thu 31st Jan 14:00-15:00)'
-  description: >
+- name: Regulations around Blockchain in Industry (Panel Discussion)
+  description: Four distinguished speakers in the Blockchain space discuss and debate the regulations around Blockchain and it's applications in industry!
+  url: https://www.eventbrite.co.uk/e/regulations-around-blockchain-in-industry-panel-discussion-tickets-55213105886?aff=ebapi
+  is-free: true
+  starts: 2019-03-11T19:00:00.0000000
+  ends: 2019-03-11T21:00:00.0000000
+  venue: University of York
+- name: 'AD1: Making accessible documents (Mon 11th Feb 15:00-16:00)'
+  description: >+
     These courses are for students and staff at York St John University. 
 
 
@@ -975,17 +938,183 @@
 
     No, we have a list of bookings
 
-    OF1: Collaborative working with Office 365 including Teams
-  url: https://www.eventbrite.co.uk/e/ad1-making-accessible-documents-thu-31st-jan-1400-1500-tickets-55211036697?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/ad1-making-accessible-documents-mon-11th-feb-1500-1600-tickets-55340566123?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/55514867/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=01252ce173ed7451b2fe31f876fc0945
-  starts: 2019-01-31T14:00:00.0000000
-  ends: 2019-01-31T15:00:00.0000000
+  logo: https://cdn.evbuc.com/images/55651323/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=f4f0bf6981767bb10aadb56a841c8921
+  starts: 2019-02-11T15:00:00.0000000
+  ends: 2019-02-11T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Regulations around Blockchain in Industry (Panel Discussion)
-  description: Four distinguished speakers in the Blockchain space discuss and debate the regulations around Blockchain and it's applications in industry!
-  url: https://www.eventbrite.co.uk/e/regulations-around-blockchain-in-industry-panel-discussion-tickets-55213105886?aff=ebapi
+- name: 'AD1: Making accessible documents (Thur 7th Mar 10:00-11:00)'
+  description: >+
+    These courses are for students and staff at York St John University. 
+
+
+    AD1: Making accessible documents
+
+    Prior knowledge: none
+
+    Making documents accessible is important for everyone, not just those with visual impairments, hearing impairments and mobility limitations. As well as being best practise, new regulations are coming into force for all websites. Learn how to make PowerPoint presentations, Word documents, Excel Spreadsheets and PDFs accessible in a few easy steps. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Adding captions to images
+
+    Controlling the order in which screen readers navigate documents
+
+    Creating accessible tables
+
+    Using colour in documents
+
+    Adding meta-data to documents
+
+    Creating accessible hyperlinks
+
+    Using the built-in accessibility checkers
+
+    Discussion of different formats for accessible documents
+
+    Brief discussion of other YSJ systems
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+
+  url: https://www.eventbrite.co.uk/e/ad1-making-accessible-documents-thur-7th-mar-1000-1100-tickets-55340900122?aff=ebapi
   is-free: true
-  starts: 2019-03-11T19:00:00.0000000
-  ends: 2019-03-11T21:00:00.0000000
-  venue: University of York
+  logo: https://cdn.evbuc.com/images/55651592/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=6a939ecc7a58d299e71911b67836a56a
+  starts: 2019-03-07T10:00:00.0000000
+  ends: 2019-03-07T11:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'AD1: Making accessible documents (Tue 19th Mar 10:00-11:00)'
+  description: >+
+    These courses are for students and staff at York St John University. 
+
+
+    AD1: Making accessible documents
+
+    Prior knowledge: none
+
+    Making documents accessible is important for everyone, not just those with visual impairments, hearing impairments and mobility limitations. As well as being best practise, new regulations are coming into force for all websites. Learn how to make PowerPoint presentations, Word documents, Excel Spreadsheets and PDFs accessible in a few easy steps. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Adding captions to images
+
+    Controlling the order in which screen readers navigate documents
+
+    Creating accessible tables
+
+    Using colour in documents
+
+    Adding meta-data to documents
+
+    Creating accessible hyperlinks
+
+    Using the built-in accessibility checkers
+
+    Discussion of different formats for accessible documents
+
+    Brief discussion of other YSJ systems
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+
+  url: https://www.eventbrite.co.uk/e/ad1-making-accessible-documents-tue-19th-mar-1000-1100-tickets-55340933221?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55651673/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=15025821243bc8bfdf960dbe390cbfd6
+  starts: 2019-03-19T10:00:00.0000000
+  ends: 2019-03-19T11:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'AD1: Making accessible documents (Wed 3rd Apr 14:00-15:00)'
+  description: >+
+    These courses are for students and staff at York St John University. 
+
+
+    AD1: Making accessible documents
+
+    Prior knowledge: none
+
+    Making documents accessible is important for everyone, not just those with visual impairments, hearing impairments and mobility limitations. As well as being best practise, new regulations are coming into force for all websites. Learn how to make PowerPoint presentations, Word documents, Excel Spreadsheets and PDFs accessible in a few easy steps. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Adding captions to images
+
+    Controlling the order in which screen readers navigate documents
+
+    Creating accessible tables
+
+    Using colour in documents
+
+    Adding meta-data to documents
+
+    Creating accessible hyperlinks
+
+    Using the built-in accessibility checkers
+
+    Discussion of different formats for accessible documents
+
+    Brief discussion of other YSJ systems
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+
+  url: https://www.eventbrite.co.uk/e/ad1-making-accessible-documents-wed-3rd-apr-1400-1500-tickets-55341064614?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55651803/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=b2b0a66b70c8b9b48a239c2e2746f0dd
+  starts: 2019-04-03T14:00:00.0000000
+  ends: 2019-04-03T15:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
