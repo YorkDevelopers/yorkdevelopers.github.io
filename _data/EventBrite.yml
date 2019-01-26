@@ -114,6 +114,29 @@
   starts: 2019-02-11T19:30:00.0000000
   ends: 2019-02-11T20:30:00.0000000
   venue: Bowland Auditorium
+- name: 'Professor Joseph Silk: Dark Matters'
+  description: >-
+    The York Union warmly invites you to attend our second external speaker event of 2019 as we welcome Professor Joseph Silk for an address titled:
+
+    'Dark Matters.' 
+
+    The emergence of cosmic structure is an outcome of the Big Bang that we study by peering back through the mists of time with giant telescopes to extract knowledge about the most remote objects in the Universe. One of the greatest mysteries in the cosmos is that it is extremely dark. Not only is the night sky mostly dark, but also most of the matter  in the universe is dark. For every atom visible in planets, stars and galaxies today there is about six times more matter in some invisible form. The Universe not only contains dark matter but its mass budget is dominated by even more mysterious dark energy. This is acts like antigravity, and has accelerated the rate of cosmic expansion in the recent past. Professor Silk will describe the dark side of the Universe, how we measure it, and why it matters.
+
+    Professor Silk is an astrophysicist and a leading expert on the early Universe. He is a Balzan Prize winner and one of the world’s most sought-after science communicators. He is a research scientist at the Service d’Astrophysique, CEA, Saclay and the Institut d’Astrophysique, Université Pierre et Marie Curie, Paris,  Homewood Professor in the Department of Physics and Astronomy, Johns Hopkins University, Baltimore, and Senior Fellow in the Beecroft Institute for Particle Astrophysics and Cosmology at the Department of Physics, University of Oxford. 
+
+    Professor Silk is also the Gresham Professor of Astronomy and a Fellow of the Royal Society. He is one of the world’s leading researchers into theoretical cosmology, dark matter, galaxy formation and cosmic microwave background. Having delivered some of the most important invited astronomy lectures around the globe and with over 500 publications to his name, he is one of the world’s foremost science communicators. His books include: The Big Bang, Horizons of Cosmology, The Infinite Cosmos, On the Shores of the Unknown, A Short History of the Universe and Cosmic Enigmas.
+
+    The address will include a Q&A during which time audience members can pose questions to Professor Silk. Our events are as intelligent as our audience so please join us for what should be a lively and engaging evening!
+
+    Please bring your free ticket with you to the event. You cannot be guaranteed entry without your ticket and those without tickets may be allowed entry only if spaces are available.
+
+    To cover the expenses of hosting this event we suggest a small donation of £2 from students and £4 from members of the public at the door for those who are able. The York Union is a strictly not-for-profit organisation run by a small group of volunteers.
+  url: https://www.eventbrite.co.uk/e/professor-joseph-silk-dark-matters-tickets-55409652763?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55722654/56373589019/1/original.20190125-152513?h=200&w=450&auto=compress&rect=1305,0,7440,3720&s=cf707b59a8b67aa52af978fc4af1a10e
+  starts: 2019-02-07T18:30:00.0000000
+  ends: 2019-02-07T20:00:00.0000000
+  venue: P/L/002
 - name: The VIVIT Experience | Enhanced Undergraduate Post Mortem | York 18/05/19
   description: >-
     The VIVIT Experience is a nationally award winning academic experience offering you the chance to participate in a recreated post mortem experience conducted on VIVIT -the worlds only semi-synthetic human cadaver. During this special 5 hour experience you will be taken on a scientifically accurate recreated human body dissection learning in-depth anatomy and physiology relevant to your academic studies. The course is interactive and designed to support those students currently at York St John University and the surrounding areas studying in the biosciences, health, sports or associated degree pathways that require an understanding of advanced anatomy and physiology or indeed the associated clinical pathologies. The procedure will be lead by Samuel Piri & team who will first set out the basics of anatomical dissection before systematically working their way through the anatomical cavities comparing normal specimens with various states of pathology. You will also be taught a variety of important clinical skills including interpreting X-rays and linking symptoms to clinical diagnosis. There will be the opportunity to ask questions and at the same time handle the anatomical samples and even the chance to undertake some dissection for yourself.
@@ -193,6 +216,14 @@
   starts: 2019-05-08T13:00:00.0000000
   ends: 2019-05-08T14:00:00.0000000
   venue: University of York
+- name: Test York Inaugural Event
+  description: Test York's First Event!
+  url: https://www.eventbrite.co.uk/e/test-york-inaugural-event-tickets-54350901008?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/54561106/287207511238/1/original.20190103-160424?h=200&w=450&auto=compress&rect=0,0,4320,2160&s=9f88abe69cc4958e52e7498d4e1b7628
+  starts: 2019-01-30T18:00:00.0000000
+  ends: 2019-01-30T20:30:00.0000000
+  venue: Isotoma
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -207,14 +238,6 @@
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
   starts: 2019-01-31T18:30:00.0000000
   ends: 2019-01-31T19:30:00.0000000
-- name: Test York Inaugural Event
-  description: Test York's First Event!
-  url: https://www.eventbrite.co.uk/e/test-york-inaugural-event-tickets-54350901008?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54561106/287207511238/1/original.20190103-160424?h=200&w=450&auto=compress&rect=0,0,4320,2160&s=9f88abe69cc4958e52e7498d4e1b7628
-  starts: 2019-01-30T18:00:00.0000000
-  ends: 2019-01-30T20:30:00.0000000
-  venue: Isotoma
 - name: 'Designing with Natural Materials: Book Launch by NMA & Bioladies Network '
   description: >+
     The  Bioladies Network and the Natural Materials Association would like to invite you to an exciting evening celebrating the launch of "Designing with Natural Materials".
@@ -251,6 +274,14 @@
   starts: 2019-02-05T18:00:00.0000000
   ends: 2019-02-05T21:30:00.0000000
   venue: Pitcher & Piano
+- name: York 'Raspberry Pi' Big Birthday Weekend Jam 2019
+  description: "We will be taking part in the 2019 Big Birthday Weekend on the 2nd of March 2019. \nCome and celebrate with us by getting your free ticket, learning how to code and make some new projects. \nPlus, every birthday party needs birthday cake (donation welcome).\nWe also will have tea and coffee avaliable, please try to bring your own reusable cup though.\nAgain, our Jam’s are open to everyone, young or old, beginners or experts, basically come down and celebrate with us. \n\nWe are just organsing some workshops/talks. Keep an eye out on our website for the link to get workshop/talk tickets. You will still need a Child/Adult ticket.\n\nFAQs\n \nWhat are my transport/parking options for getting to and from the event?\nThere is a small, free on site carpark at Acomb Explore Library. \nHow can I contact the organiser with any questions?\nComplete the contact form on the home page of our website (yorkpijam.com).\nDo I have to bring my printed ticket to the event?\nIt can help, we can easily scan it. You can also show your tickets on your phone. If you can't bring a ticket, let us know your name and we can sign you in that way.\nWhat if I can't make the 11:30am start?\nDon't panic, turn up when you can.\n"
+  url: https://www.eventbrite.co.uk/e/york-raspberry-pi-big-birthday-weekend-jam-2019-tickets-52179108117?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52230559/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=89a0be6c9ebb5823f65eac410a229341
+  starts: 2019-03-02T11:30:00.0000000
+  ends: 2019-03-02T14:30:00.0000000
+  venue: Acomb Explore Library
 - name: Towards Sustainable Plastics
   description: >
     A free symposium on the challenges and solutions to the global issue of plastic waste pollution
@@ -273,14 +304,6 @@
   starts: 2019-04-17T08:30:00.0000000
   ends: 2019-04-17T18:00:00.0000000
   venue: Kings Manor
-- name: York 'Raspberry Pi' Big Birthday Weekend Jam 2019
-  description: "We will be taking part in the 2019 Big Birthday Weekend on the 2nd of March 2019. \nCome and celebrate with us by getting your free ticket, learning how to code and make some new projects. \nPlus, every birthday party needs birthday cake (donation welcome).\nWe also will have tea and coffee avaliable, please try to bring your own reusable cup though.\nAgain, our Jam’s are open to everyone, young or old, beginners or experts, basically come down and celebrate with us. \n\nWe are just organsing some workshops/talks. Keep an eye out on our website for the link to get workshop/talk tickets. You will still need a Child/Adult ticket.\n\nFAQs\n \nWhat are my transport/parking options for getting to and from the event?\nThere is a small, free on site carpark at Acomb Explore Library. \nHow can I contact the organiser with any questions?\nComplete the contact form on the home page of our website (yorkpijam.com).\nDo I have to bring my printed ticket to the event?\nIt can help, we can easily scan it. You can also show your tickets on your phone. If you can't bring a ticket, let us know your name and we can sign you in that way.\nWhat if I can't make the 11:30am start?\nDon't panic, turn up when you can.\n"
-  url: https://www.eventbrite.co.uk/e/york-raspberry-pi-big-birthday-weekend-jam-2019-tickets-52179108117?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52230559/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=89a0be6c9ebb5823f65eac410a229341
-  starts: 2019-03-02T11:30:00.0000000
-  ends: 2019-03-02T14:30:00.0000000
-  venue: Acomb Explore Library
 - name: York Science Conference 2019
   description: >-
     York Science Conference 2019
@@ -409,7 +432,7 @@
   ends: 2019-02-06T11:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: Global pollution in urban environments
-  description: "During this lunchtime seminar, researchers at the University of York will discuss their research into global pollution in urban environments. Confirmed speakers include Dr Chris Malley from the Stockholm Environment Institute and Prof James Lee from the Wolfson Atmospheric Chemistry Laboratories (WACL). \n\nHealth in Urban Environments Event Series\nThe event forms part of the Health in Urban Environments Series where the York Environmental Sustainability Institute (YESI), Stockholm Environment Institute (SEI), Interdisciplinary Global Development Centre (IGDC), Wolfson Atmospheric Chemistry Laboratories (WACL) and several Research Champions are joining forces to host an event series to explore Urban Living-related research and innovation at the University of York.\nThrough a series of workshops, lunchtime seminar, full day events and discussion sessions, we will gain insight into the historical development of the world’s cities and the social and environmental consequences of urbanisation.\nBy bringing together the social, physical and life sciences we will be able to explore this topic from many angles and celebrate the interdisciplinary nature of research at the University of York.\nThe series, which will begin in January and conclude in June in alignment with Clean Air Day, will be open to researchers, staff and students at the University of York. \nEvents in the series:\nExploring transport in an African city context: 12:00-14:00, 22nd January 2019\nGlobal pollution in urban environments: 12:00-13:30, 27th March 2019\nTransforming urban infrastructure: the role of religion and communities in urbanisation in Africa: 12:00-13:30, 11th April 2019\nMental health in urban environments: 9:30-12:30, 2nd May 2019\nClean Air Day- air pollution and York: 9:00-17:00, 13th June 2019\n"
+  description: "During this lunchtime seminar, researchers at the University of York will discuss their research into global pollution in urban environments. Confirmed speakers include Dr. Chris Malley from the Stockholm Environment Institute and Dr. Adam Vaughan from the Wolfson Atmospheric Chemistry Laboratories (WACL).\nDr. Chris Malley, Researcher for the Stockholm Environment Institute in York (SEI-Y)\nChris joined SEI in September 2015 as a research associate focusing on the development of the Climate and Clean Air Coalition Supporting NAtional Planning (CCAC SNAP) toolkit. The CCAC SNAP toolkit aims to demonstrate the socio-economic benefits achievable through national emission reductions of short-lived climate pollutants (SLCPs). Chris’ work involves the formulation of emission inventories, future scenarios, cost-benefit analysis and training of toolkit users.Chris’ interest in air pollution and its impacts were fostered during a PhD in atmospheric chemistry at the University of Edinburgh and the Centre for Ecology and Hydrology. The focus was on the interpretation of data collected at the two UK monitoring supersites to demonstrate the linkage between specific impacts (e.g. on human health and vegetation) of atmospheric composition, and the conditions producing them. To achieve this a wide variety of tools and statistical techniques were used, which resulted in broader research interests in the application of statistical tools to investigate air pollution, and specifically how these tools can be integrated together to maximise the information derived from available data. Chris is currently also a member of the statistics and database working group contributing to the production of the International Global Atmospheric Chemistry (IGAC) Tropospheric Ozone Assessment Report (TOAR).\nDr. Adam Vaughan, Postdoctoral Researcher at the Wolfson Atmospheric Chemistry Laboratories (WACL)\nAdam is a postdoctoral researcher at the Wolfson Atmospheric Chemistry Laboratories (WACL) since 2017, specialising in urban emission measurements. WACL is the UK’s first dedicated laboratory building for atmospheric chemistry research. Adam obtained his Master’s in Chemistry from the University of Hull in 2013, and his PhD in Chemistry from the University of York in 2017, working with Prof. James Lee and Prof. Lucy Carpenter. His PhD focused on assessing UK emissions from a low flying aircraft. His work led to the first direct assessment of Greater London emissions from an aircraft through eddy-covariance, highlighting that London’s NOx emissions were being underestimated in the National Inventory. Since completing his PhD, Adam has developed a range of techniques for assessing urban emissions through enhanced eddy-covariance methodologies. He has made air quality measurements on multiple global field campaigns and more recently led research in New Delhi measuring vehicle emissions through remote sensing techniques.\nHealth in Urban Environments Event Series\nThe event forms part of the Health in Urban Environments Series where the York Environmental Sustainability Institute (YESI), Stockholm Environment Institute (SEI), Interdisciplinary Global Development Centre (IGDC), Wolfson Atmospheric Chemistry Laboratories (WACL) and several Research Champions are joining forces to host an event series to explore Urban Living-related research and innovation at the University of York.\nThrough a series of workshops, lunchtime seminar, full day events and discussion sessions, we will gain insight into the historical development of the world’s cities and the social and environmental consequences of urbanisation.\nBy bringing together the social, physical and life sciences we will be able to explore this topic from many angles and celebrate the interdisciplinary nature of research at the University of York.\nThe series, which will begin in January and conclude in June in alignment with Clean Air Day, will be open to researchers, staff and students at the University of York. \nEvents in the series:\nExploring transport in an African city context: 12:00-14:00, 22nd January 2019\nGlobal pollution in urban environments: 12:00-13:30, 27th March 2019\nTransforming urban infrastructure: the role of religion and communities in urbanisation in Africa: 12:00-13:30, 11th April 2019\nMental health in urban environments: 9:30-12:30, 2nd May 2019\nClean Air Day- air pollution and York: 9:00-17:00, 13th June 2019"
   url: https://www.eventbrite.co.uk/e/global-pollution-in-urban-environments-tickets-53815418365?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/55084867/225199386643/1/original.20190114-094421?h=200&w=450&auto=compress&rect=0,0,800,400&s=678fb15d74cbb952545fcb39af536e0b
@@ -468,7 +491,7 @@
   ends: 2019-02-11T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'Hagge Woods Trust Spring Lecture: Simon King OBE'
-  description: "Hagge Woods Trust inaugural Spring Lecture, Talk to the animals, will be given by Simon King OBE, Naturalist, Conservationist, Author, Artist and Broadcaster.  The talk is held in aid of Hagge Woods Trust, the pioneering charity taking practical action for nature and people by creating wood-meadows and inspiring others to plant and look after these exceptional habitats.\nKnown to millions as a face of Sringwatch and Big Cat Diary, Simon King is the real life Dr Doolittle.  In this fully illustrated talk, Simon will take you on a journey of discovery, showing you how you too can talk to the animals in your neighbourhood and get first class views of wildlife as a result.  This talk is suitable for wildlife enthusiasts for all ages.  Learn to grunt like a fallow deer, hoot like an owl and cuckoo like a cuckoo amongst many others.  Discover stories of filming creastures as diverse as killer whales (for the landmark series Blue Planet), Great White Sharks (Planet Earth) and lions, leopards and cheetahs (Big Cat Diary). This is an exciting opportunity to hear Simon speak about ask him questions about his work.  \nHagge Woods Trust was founded in 2013 with the creation of its flagship site Three Hagges Wood-Meadow near York.  The ecosystem and the wood-meadow community of volunteers and Friends are flourishing.  Without the invaluable support of many individuals, Trusts and Foundations, and businesses in the community, Hagge Woods Trust would be unable to sustain its ground-breaking work in restoring nature through the creation of wood-meadows and educating children and families about native nature and wildlife.  \nDrinks reception on arrival is included in the ticket price."
+  description: "Hagge Woods Trust inaugural Spring Lecture, Talk to the animals, will be given by Simon King OBE, Naturalist, Conservationist, Author, Artist and Broadcaster.  The talk is held in aid of Hagge Woods Trust, the pioneering charity taking practical action for nature and people by creating wood-meadows and inspiring others to plant and look after these exceptional habitats.\nKnown to millions as a face of Sringwatch and Big Cat Diary, Simon King is the real life Dr Doolittle.  In this fully illustrated talk, Simon will take you on a journey of discovery, showing you how you too can talk to the animals in your neighbourhood and get first class views of wildlife as a result.  This talk is suitable for wildlife enthusiasts for all ages.  Learn to grunt like a fallow deer, hoot like an owl and cuckoo like a cuckoo amongst many others.  Discover stories of filming creastures as diverse as killer whales (for the landmark series Blue Planet), Great White Sharks (Planet Earth) and lions, leopards and cheetahs (Big Cat Diary). This is an exciting opportunity to hear Simon speak about ask him questions about his work.  \nHagge Woods Trust was founded in 2013 with the creation of its flagship site Three Hagges Wood-Meadow near York.  The ecosystem and the wood-meadow community of volunteers and Friends are flourishing.  Without the invaluable support of many individuals, Trusts and Foundations, and businesses in the community, Hagge Woods Trust would be unable to sustain its ground-breaking work in restoring nature through the creation of wood-meadows and educating children and families about native nature and wildlife.  \nDrinks reception is included in the ticket price.\nSponsored by Andrew Jackson Solicitors LLP, CGA Accountants and Wrapped Brand and Digital Agency."
   url: https://www.eventbrite.co.uk/e/hagge-woods-trust-spring-lecture-simon-king-obe-tickets-54979222334?aff=ebapi
   logo: https://cdn.evbuc.com/images/55237890/181325961521/1/original.20190116-160825?h=200&w=450&auto=compress&rect=0,281,3704,1852&s=4b9cafd91545690a6b49393545ea90a8
   starts: 2019-03-19T18:30:00.0000000
@@ -749,6 +772,64 @@
   starts: 2019-01-31T14:00:00.0000000
   ends: 2019-01-31T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'AD1: Making accessible documents (Mon 11th Feb 15:00-16:00)'
+  description: >+
+    These courses are for students and staff at York St John University. 
+
+
+    AD1: Making accessible documents
+
+    Prior knowledge: none
+
+    Making documents accessible is important for everyone, not just those with visual impairments, hearing impairments and mobility limitations. As well as being best practise, new regulations are coming into force for all websites. Learn how to make PowerPoint presentations, Word documents, Excel Spreadsheets and PDFs accessible in a few easy steps. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Adding captions to images
+
+    Controlling the order in which screen readers navigate documents
+
+    Creating accessible tables
+
+    Using colour in documents
+
+    Adding meta-data to documents
+
+    Creating accessible hyperlinks
+
+    Using the built-in accessibility checkers
+
+    Discussion of different formats for accessible documents
+
+    Brief discussion of other YSJ systems
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+
+  url: https://www.eventbrite.co.uk/e/ad1-making-accessible-documents-mon-11th-feb-1500-1600-tickets-55340566123?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55651323/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=f4f0bf6981767bb10aadb56a841c8921
+  starts: 2019-02-11T15:00:00.0000000
+  ends: 2019-02-11T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: The 7th International Cardiovascular Genetics & Genomics Conference
   description: "\n\n\nThe 7th International Cardiovascular Genomic Medicine Conference\n‘Clinical Cardiology in the Genome Era’\n4-5 December 2019\nRadisson Blu Hotel, York, England, UK\nThe Biennial ‘7th International Conference on Cardiovascular Genomic Medicine Conference’ offers a unique opportunity for clinical cardiologists, specialist cardiac nurses, electrophysiologists, cardiovascular radiologists, cardiac pathologists, clinical geneticists, genetic counselors and molecular geneticists to learn and share the fast emerging practice of cardiovascular genomic medicine.\nWorld class Faculty of experts in all fields of cardiovascular genetics & genomics and genomic medicine will join the wide ranging participants from UK, Europe and rest of the World. The programme includes plenary lectures, keynote presentations, open platform and poster presentations and seminars on selected topics.\nThis conference is the 7th as part of the original series of Biennial ‘Cardiff Cardiovascular Genetics Conference’ held since 2007. All previous events were grand successes admired by several clinicians, health professionals and researchers from all over the world.\nFor Registration, Sponsorship and all other enquiries please visit www.genomicmedicine.org\nFor General information and contributions to the Scientific Programme please contact Prof. Dhavendra Kumar\ngenomicmedicine@yahoo.co.uk\ncardiovasculargeneticsgenomics@gmail.com\nSPONSORSHIP PACKAGES\nPlatinum:   \n\nProminent display space and central position (4m x 2m space)\nOpportunity for ‘open’ presentation during Lunch break\nFull page space in the Conference pack\nUp to 3 complimentary registrations for both days\nFree Gala Dinner passes for 3\n\nGold:             \n\nProminent display position with generous space equivalent to \nlarge poster board size (3m x 2m space)\nHalf page space in the Conference pack\nUp to 2 complimentary registrations for both days\nFree Gala Dinner passes for 2\n\nSilver            \n\nProminent display position with generous space equivalent to 2 large poster board size (2m x 2m space)\nQuarter page space in the Conference Pack\nOne complimentary registration for both days\nOne free Gala Dinner pass; 50% discount for additional 2 passes\n\nBronze         \n\nProminent display position with generous space equivalent to one large poster board size (1.5m x 1.5m space)\nLogo insertion for Sponsorship acknowledgement in the Conference Pack\nHalf discount registration for two, either both days or one day only\n50% discount for 2 Gala Dinner passes\n\nPlease contact nick@neon-events.co.uk for more details & prices\n"
   url: https://www.eventbrite.co.uk/e/the-7th-international-cardiovascular-genetics-genomics-conference-tickets-50125566920?aff=ebapi
@@ -877,8 +958,8 @@
   is-free: true
   logo: https://cdn.evbuc.com/images/55585025/14297485693/1/original.20190123-134515?h=200&w=450&auto=compress&rect=0,59,1200,600&s=2dbd150d9dc68f92e34074a3be63b417
   starts: 2019-03-07T18:00:00.0000000
-  ends: 2019-03-07T22:00:00.0000000
-  venue: York St John University
+  ends: 2019-03-07T20:30:00.0000000
+  venue: Temple Hall
 - name: Regulations around Blockchain in Industry (Panel Discussion)
   description: Four distinguished speakers in the Blockchain space discuss and debate the regulations around Blockchain and it's applications in industry!
   url: https://www.eventbrite.co.uk/e/regulations-around-blockchain-in-industry-panel-discussion-tickets-55213105886?aff=ebapi
@@ -886,64 +967,6 @@
   starts: 2019-03-11T19:00:00.0000000
   ends: 2019-03-11T21:00:00.0000000
   venue: University of York
-- name: 'AD1: Making accessible documents (Mon 11th Feb 15:00-16:00)'
-  description: >+
-    These courses are for students and staff at York St John University. 
-
-
-    AD1: Making accessible documents
-
-    Prior knowledge: none
-
-    Making documents accessible is important for everyone, not just those with visual impairments, hearing impairments and mobility limitations. As well as being best practise, new regulations are coming into force for all websites. Learn how to make PowerPoint presentations, Word documents, Excel Spreadsheets and PDFs accessible in a few easy steps. This course can be customised for different teams or delivered to student groups.
-
-    This course includes:
-
-
-    Adding captions to images
-
-    Controlling the order in which screen readers navigate documents
-
-    Creating accessible tables
-
-    Using colour in documents
-
-    Adding meta-data to documents
-
-    Creating accessible hyperlinks
-
-    Using the built-in accessibility checkers
-
-    Discussion of different formats for accessible documents
-
-    Brief discussion of other YSJ systems
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-
-  url: https://www.eventbrite.co.uk/e/ad1-making-accessible-documents-mon-11th-feb-1500-1600-tickets-55340566123?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/55651323/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=f4f0bf6981767bb10aadb56a841c8921
-  starts: 2019-02-11T15:00:00.0000000
-  ends: 2019-02-11T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'AD1: Making accessible documents (Thur 7th Mar 10:00-11:00)'
   description: >+
     These courses are for students and staff at York St John University. 
