@@ -1,26 +1,3 @@
-- name: 'Spreading the word: Why science communication is so vital'
-  description: >-
-    Speaker: Professor Jim Al-Khalili, University of Surrey
-
-    Jim Matthew Lecture
-
-    Like many physicists in the UK of my generation, Jim Matthews was a huge inspiration to me, both as a teacher and researcher as well as a communicator of physics. It is therefore a great honour for me to be delivering the Jim Matthews Lecture in the year that he sadly passed away. Science communication has of course changed out of all recognition over the past couple of decades that I have been actively involved in it. In this lecture I will chart my own personal journey in becoming a ‘public scientist’ while never wishing to sideline my academic career in teaching and research – indeed, following very much in Jim Matthews’ footsteps. I will also discuss how and why science communication in the UK has undergone such a revolution, to the extent that we now lead the world by a decade or more in the public engagement in science, from communicating and debating the vitally important ways in which science is needed to address the challenges of the 21st century to the outright fascinating discoveries still being made about the workings of our universe. 
-
-    Professor Jim Al-Khalili
-
-    Jim Al-Khalili OBE FRS is a theoretical physicist, author and broadcaster based at the University of Surrey where he holds a joint chair in physics and the public engagement in science. He received his PhD in nuclear reaction theory in 1989 from Surrey and, after holding several prestigious research fellowships, was promoted to professor in 2005. He has written twelve books, translated into over twenty languages – including, later this year, his first novel. He is a regular presenter of TV science documentaries and presents the long-running weekly BBC Radio 4 programme, The Life Scientific.  He is a recipient of the Royal Society Michael Faraday medal, the Institute of Physics Kelvin Medal and the inaugural Stephen Hawking Medal for Science Communication. He was awarded an OBE for services to science in 2007 and made a fellow of the Royal Society in 2018. He is the current president of the British Science Association.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/spreading-the-word-why-science-communication-is-so-vital-tickets-53850539413?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54080584/22468345120/1/original.20181218-085510?h=200&w=450&auto=compress&rect=0,0,800,400&s=eb507ed4a55d19a24898159727f2c112
-  starts: 2019-01-28T18:30:00.0000000
-  ends: 2019-01-28T19:30:00.0000000
-  venue: Room P/X001
 - name: Stargazing Live
   description: >-
     Join us for an evening of astronomy at St Peter’s School for our annual Stargazing Live event.
@@ -133,14 +110,6 @@
   starts: 2019-02-20T19:30:00.0000000
   ends: 2019-02-20T20:30:00.0000000
   venue: Bowland Auditorium
-- name: Viking Cluster Launch
-  description: An afternoon of talks to launch the University of York's new high performance compute cluster, Viking
-  url: https://www.eventbrite.co.uk/e/viking-cluster-launch-registration-54844128264?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/55084504/288439455905/1/original.20190114-093225?h=200&w=450&auto=compress&rect=0,556,2438,1219&s=5f2ac4ff0e1bb650abe8f507bc102685
-  starts: 2019-02-14T14:00:00.0000000
-  ends: 2019-02-14T18:00:00.0000000
-  venue: Bowland Auditorium, Berrick Saul Building
 - name: Should we be worried about indoor air pollution?
   description: >-
     Speaker: Dr Nic Carslaw, Department of Environment and Geography
@@ -160,6 +129,14 @@
   starts: 2019-02-11T19:30:00.0000000
   ends: 2019-02-11T20:30:00.0000000
   venue: Bowland Auditorium
+- name: Viking Cluster Launch
+  description: An afternoon of talks to launch the University of York's new high performance compute cluster, Viking
+  url: https://www.eventbrite.co.uk/e/viking-cluster-launch-registration-54844128264?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55084504/288439455905/1/original.20190114-093225?h=200&w=450&auto=compress&rect=0,556,2438,1219&s=5f2ac4ff0e1bb650abe8f507bc102685
+  starts: 2019-02-14T14:00:00.0000000
+  ends: 2019-02-14T18:00:00.0000000
+  venue: Bowland Auditorium, Berrick Saul Building
 - name: The VIVIT Experience | Enhanced Undergraduate Post Mortem | York 18/05/19
   description: >-
     The VIVIT Experience is a nationally award winning academic experience offering you the chance to participate in a recreated post mortem experience conducted on VIVIT -the worlds only semi-synthetic human cadaver. During this special 5 hour experience you will be taken on a scientifically accurate recreated human body dissection learning in-depth anatomy and physiology relevant to your academic studies. The course is interactive and designed to support those students currently at York St John University and the surrounding areas studying in the biosciences, health, sports or associated degree pathways that require an understanding of advanced anatomy and physiology or indeed the associated clinical pathologies. The procedure will be lead by Samuel Piri & team who will first set out the basics of anatomical dissection before systematically working their way through the anatomical cavities comparing normal specimens with various states of pathology. You will also be taught a variety of important clinical skills including interpreting X-rays and linking symptoms to clinical diagnosis. There will be the opportunity to ask questions and at the same time handle the anatomical samples and even the chance to undertake some dissection for yourself.
@@ -180,102 +157,6 @@
   starts: 2019-03-27T09:15:00.0000000
   ends: 2019-03-27T14:45:00.0000000
   venue: Dante & Nunthorpe Suite
-- name: Studying Cancer, One Cell at a Time
-  description: Studying Cancer, One Cell at a Time
-  url: https://www.eventbrite.co.uk/e/studying-cancer-one-cell-at-a-time-tickets-54640532303?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54859878/287847590648/1/original.20190109-143743?h=200&w=450&auto=compress&rect=0,103,800,400&s=8323cd95e9fb6766bfb52119bda05436
-  starts: 2019-05-08T13:00:00.0000000
-  ends: 2019-05-08T14:00:00.0000000
-  venue: University of York
-- name: Test York Inaugural Event
-  description: Test York's First Event!
-  url: https://www.eventbrite.co.uk/e/test-york-inaugural-event-tickets-54350901008?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54561106/287207511238/1/original.20190103-160424?h=200&w=450&auto=compress&rect=0,0,4320,2160&s=9f88abe69cc4958e52e7498d4e1b7628
-  starts: 2019-01-30T18:00:00.0000000
-  ends: 2019-01-30T20:30:00.0000000
-  venue: Isotoma
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-51655890158?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
-  starts: 2019-01-31T18:30:00.0000000
-  ends: 2019-01-31T19:30:00.0000000
-- name: 'Designing with Natural Materials: Book Launch by NMA & Bioladies Network '
-  description: >+
-    The  Bioladies Network and the Natural Materials Association would like to invite you to an exciting evening celebrating the launch of "Designing with Natural Materials".
-
-    The event is focussed on bringing together the entire community surrounding natural materials production, investigation, innovation and use, from artists to scientists, start-ups to policy makers.
-
-    We will begin with a few talks from experts in their field to set the scene and introduce you to the topics of the book; then we will take a quick look at recent strategies that impact natural materials and then it is over to drinks and networking.
-
-    17:30 Registration opens
-
-    18:00 Welcome by Bioladies Network and NMA and a few words from the sponsors
-
-    18.10 Introduction to Designing with Natural Materials & Restoring Credibility to Natural Materials: Angela Morris  and Keith Spilsbury, The Wool Packaging Company.
-
-    18:30 Natural Materials as Bioinspiration: Dr Chris Holland, Chair of NMA, Univ of Sheffield
-
-    18.50 Construction Perspective: Sally Walker, Native Architects.
-
-    19:10 The Natural Materials Association Award, update and invitations to submit
-
-    19.15  Bioeconomy* Regulation, Quick overview: Iris Anderson, Founder Bioladies Network
-
-    19.25 Introduction to Bioladies: Dr Sara Hickingbottom:CEO Biovale
-
-    19.30 Refreshments: Mingle, network, drinks and nibbles (Sponsored by xxxxxxx)
-
-    21:30 Finish
-
-    *The bioeconomy comprises those parts of the economy that use renewable biological resources from land and sea – such as crops, forests, fish, animals and micro-organisms – to produce food, materials and energy.
-
-  url: https://www.eventbrite.co.uk/e/designing-with-natural-materials-book-launch-by-nma-bioladies-network-tickets-53779486893?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54273660/175011662679/1/original.20181222-094051?h=200&w=450&auto=compress&rect=0,89,1902,951&s=bf4fb641c4ccd98a29cea2073c33e914
-  starts: 2019-02-05T18:00:00.0000000
-  ends: 2019-02-05T21:30:00.0000000
-  venue: Pitcher & Piano
-- name: Towards Sustainable Plastics
-  description: >
-    A free symposium on the challenges and solutions to the global issue of plastic waste pollution
-
-    Over recent years, there has been significant attention drawn towards the environmental damage caused by traditional plastics. This global pollution issue has arisen from several factors including complications surrounding the direct reuse of consumer packaging, challenges associated with chemical recycling and subsequent separation of plastic additives, the chemical composition of commonly used plastics, together with many socio-economic and infrastructure issues. Due to diversity of these key problems, a multitiered approach, utilising different expertise is needed to challenge the problem of plastic waste holistically.
-
-    Why attend?
-
-
-    Build knowledge and bridge the different technical areas (from polymer design to additives extraction and recycling)
-
-    Forge new relationships in the field of sustainable plastics in our networking sessions
-
-    Discuss potential sources for funding important research over the next few years, such as the forthcoming ISCF Wave 3
-
-    Enjoy a free buffet lunch and wine reception following the event
-  url: https://www.eventbrite.co.uk/e/towards-sustainable-plastics-tickets-54912416516?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/55153193/61443779641/1/original.20190115-102324?h=200&w=450&auto=compress&rect=600,0,796,398&s=ce03ef226af42778f707373a3cf3dc62
-  starts: 2019-04-17T08:30:00.0000000
-  ends: 2019-04-17T18:00:00.0000000
-  venue: Kings Manor
-- name: York 'Raspberry Pi' Big Birthday Weekend Jam 2019
-  description: "We will be taking part in the 2019 Big Birthday Weekend on the 2nd of March 2019. \nCome and celebrate with us by getting your free ticket, learning how to code and make some new projects. \nPlus, every birthday party needs birthday cake (donation welcome).\nWe also will have tea and coffee avaliable, please try to bring your own reusable cup though.\nAgain, our Jam’s are open to everyone, young or old, beginners or experts, basically come down and celebrate with us. \n\nWe are just organsing some workshops/talks. Keep an eye out on our website for the link to get workshop/talk tickets. You will still need a Child/Adult ticket.\n\nFAQs\n \nWhat are my transport/parking options for getting to and from the event?\nThere is a small, free on site carpark at Acomb Explore Library. \nHow can I contact the organiser with any questions?\nComplete the contact form on the home page of our website (yorkpijam.com).\nDo I have to bring my printed ticket to the event?\nIt can help, we can easily scan it. You can also show your tickets on your phone. If you can't bring a ticket, let us know your name and we can sign you in that way.\nWhat if I can't make the 11:30am start?\nDon't panic, turn up when you can.\n"
-  url: https://www.eventbrite.co.uk/e/york-raspberry-pi-big-birthday-weekend-jam-2019-tickets-52179108117?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52230559/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=89a0be6c9ebb5823f65eac410a229341
-  starts: 2019-03-02T11:30:00.0000000
-  ends: 2019-03-02T14:30:00.0000000
-  venue: Acomb Explore Library
 - name: York Science Conference 2019
   description: >-
     York Science Conference 2019
@@ -330,6 +211,142 @@
   starts: 2019-03-06T09:00:00.0000000
   ends: 2019-03-06T16:45:00.0000000
   venue: Ron Cooke Hub, The University of York
+- name: Studying Cancer, One Cell at a Time
+  description: Studying Cancer, One Cell at a Time
+  url: https://www.eventbrite.co.uk/e/studying-cancer-one-cell-at-a-time-tickets-54640532303?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/54859878/287847590648/1/original.20190109-143743?h=200&w=450&auto=compress&rect=0,103,800,400&s=8323cd95e9fb6766bfb52119bda05436
+  starts: 2019-05-08T13:00:00.0000000
+  ends: 2019-05-08T14:00:00.0000000
+  venue: University of York
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-51655890158?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
+  starts: 2019-01-31T18:30:00.0000000
+  ends: 2019-01-31T19:30:00.0000000
+- name: Test York Inaugural Event
+  description: Test York's First Event!
+  url: https://www.eventbrite.co.uk/e/test-york-inaugural-event-tickets-54350901008?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/54561106/287207511238/1/original.20190103-160424?h=200&w=450&auto=compress&rect=0,0,4320,2160&s=9f88abe69cc4958e52e7498d4e1b7628
+  starts: 2019-01-30T18:00:00.0000000
+  ends: 2019-01-30T20:30:00.0000000
+  venue: Isotoma
+- name: 'Designing with Natural Materials: Book Launch by NMA & Bioladies Network '
+  description: >+
+    The  Bioladies Network and the Natural Materials Association would like to invite you to an exciting evening celebrating the launch of "Designing with Natural Materials".
+
+    The event is focussed on bringing together the entire community surrounding natural materials production, investigation, innovation and use, from artists to scientists, start-ups to policy makers.
+
+    We will begin with a few talks from experts in their field to set the scene and introduce you to the topics of the book; then we will take a quick look at recent strategies that impact natural materials and then it is over to drinks and networking.
+
+    The event drinks and nibbles are kindly sponsored by Swanline Print Ltd. 
+
+    AGENDA:
+
+    17:30 Registration opens
+
+    18:00 Welcome by Bioladies Network and NMA and a few words from the sponsors
+
+    18.10 Introduction to Designing with Natural Materials & Restoring Credibility to Natural Materials: Angela Morris  and Keith Spilsbury, The Wool Packaging Company.
+
+    18:30 Natural Materials as Bioinspiration: Dr Chris Holland, Chair of NMA, Univ of Sheffield
+
+    18.50 Construction Perspective: Sally Walker, Native Architects.
+
+    19:10 The Natural Materials Association Award, update and invitations to submit
+
+    19.15  Bioeconomy* Regulation, Quick overview: Iris Anderson, Founder Bioladies Network
+
+    19.25 Introduction to Bioladies: Dr Sara Hickingbottom:CEO Biovale
+
+    19.30 Refreshments: Mingle, network, drinks and nibbles (Sponsored by Swanline Print Ltd)
+
+    21:30 Finish
+
+
+
+
+    *The bioeconomy comprises those parts of the economy that use renewable biological resources from land and sea – such as crops, forests, fish, animals and micro-organisms – to produce food, materials and energy.
+
+
+
+  url: https://www.eventbrite.co.uk/e/designing-with-natural-materials-book-launch-by-nma-bioladies-network-tickets-53779486893?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/54273660/175011662679/1/original.20181222-094051?h=200&w=450&auto=compress&rect=0,89,1902,951&s=bf4fb641c4ccd98a29cea2073c33e914
+  starts: 2019-02-05T18:00:00.0000000
+  ends: 2019-02-05T21:30:00.0000000
+  venue: Pitcher & Piano
+- name: York 'Raspberry Pi' Big Birthday Weekend Jam 2019
+  description: "We will be taking part in the 2019 Big Birthday Weekend on the 2nd of March 2019. \nCome and celebrate with us by getting your free ticket, learning how to code and make some new projects. \nPlus, every birthday party needs birthday cake (donation welcome).\nWe also will have tea and coffee avaliable, please try to bring your own reusable cup though.\nAgain, our Jam’s are open to everyone, young or old, beginners or experts, basically come down and celebrate with us. \n\nWe are just organsing some workshops/talks. Keep an eye out on our website for the link to get workshop/talk tickets. You will still need a Child/Adult ticket.\n\nFAQs\n \nWhat are my transport/parking options for getting to and from the event?\nThere is a small, free on site carpark at Acomb Explore Library. \nHow can I contact the organiser with any questions?\nComplete the contact form on the home page of our website (yorkpijam.com).\nDo I have to bring my printed ticket to the event?\nIt can help, we can easily scan it. You can also show your tickets on your phone. If you can't bring a ticket, let us know your name and we can sign you in that way.\nWhat if I can't make the 11:30am start?\nDon't panic, turn up when you can.\n"
+  url: https://www.eventbrite.co.uk/e/york-raspberry-pi-big-birthday-weekend-jam-2019-tickets-52179108117?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52230559/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=89a0be6c9ebb5823f65eac410a229341
+  starts: 2019-03-02T11:30:00.0000000
+  ends: 2019-03-02T14:30:00.0000000
+  venue: Acomb Explore Library
+- name: 'NV1: Brief overview of NVivo'
+  description: >
+    These courses are for staff and researchers at York St John University. 
+
+
+    AD1: Making accessible documents
+
+    Prior knowledge: None but this course is aimed at staff and researchers
+
+    NVivo is a CAQDAS (Computer Assisted Qualitative Data Analysis System) that enables researchers to organize, analyse and share qualitative data efficiently. This course is a brief introduction to NVivo which will allow you to decide if it will be useful for your research and whether to undertake further training.
+
+    This course includes:
+
+
+    Explore an existing sample project structure
+
+    How to set up a new project
+
+    Bringing sources into NVivo project
+
+    Working with data
+
+    Handling external sources that can’t be digitised
+
+    Creating nodes and coding
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+
+    OF1: Collaborative working with Office 365 including Teams
+  url: https://www.eventbrite.co.uk/e/nv1-brief-overview-of-nvivo-tickets-53146019174?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/53356644/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=4fce5919a4df6c4a15db32bb8bd5ac59
+  starts: 2019-01-30T14:00:00.0000000
+  ends: 2019-01-30T15:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'WO4: Research & PhD writing (Wed 6th Feb 10:00-11:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -418,6 +435,40 @@
   starts: 2019-02-01T13:30:00.0000000
   ends: 2019-02-01T15:30:00.0000000
   venue: The Tree House, Berrick Saul Building
+- name: 'Wordpress1: Getting started with WordPress (22nd Feb 2019)'
+  description: >+
+    3LL207
+
+    This workshop is for individuals to sign-up, please do so by Thursday 14th February at 17:00 when bookings close.
+
+
+    Prior knowledge: None
+
+    WordPress is a popular blogging platform and York St John University has its own implementation which allows every user to have an account and host a personal blog or website.
+
+    This course includes:
+
+
+    Understanding the dashboard
+
+    Adding blog posts and pages
+
+    Changing the theme
+
+    Working with comments
+
+    Embedding audio and video
+
+    Finding copyright cleared images
+
+
+
+  url: https://www.eventbrite.co.uk/e/wordpress1-getting-started-with-wordpress-22nd-feb-2019-tickets-55508818370?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55820422/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2354,1177&s=d040808160abb649afa5a6967ccd1ae5
+  starts: 2019-02-22T10:00:00.0000000
+  ends: 2019-02-22T11:30:00.0000000
+  venue: FT113
 - name: 'WE1: Website CMS Basic training (Mon 11th Feb 10:00-12:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -866,15 +917,15 @@
   starts: 2019-03-05T10:00:00.0000000
   ends: 2019-03-05T11:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: STEMsational Women - Celebrating International Womens Day
+- name: STEMsational Women - Celebrating International Women's Day
   description: >-
-    STEMsational Women - Professional panel & Q&AThursday 7 March 2019Venue: York St John University; Temple Hall 6.00pm                   Event commences 7.15-7.30pm           Key professional panel event closes7.30 - 8.30pm         All guests are invited to a post event reception to carry on conversations and meet other professionals. Drinks and nibbles provided.
+    In advance of International Women's Day join York St John University and Two Ridings Community Foundation for an inspirational, all-female panel discussion on the opportunities and challenges for women working within Science, Technology, Engineering and Maths (STEM) industries.
 
-    As part of International Womens Day York St John University have worked in partnership with the Two Ridings Community Foundation to bring together an event to encourage and inspire women, particularly from Science, Technology, Engineering and Maths sectors.
+    If you’re looking to kick-start a career in STEM, or are inquisitive about what it takes for women to succeed in STEM industries, then come along with your questions for our four STEMsational women!
 
-    The aim of the event is to showcase women in these areas and create an environment for attendees to hear their stories of success, discuss with professionals how they can access these career paths, to take inspiration from women in these roles and also to encourage mentors to step forward. The event would be hosted by Jan Garrill, Chief Executive of the Two Ridings Community Foundation and Dr Jane Rand, Deputy Vice-Chancellor & Chair YSJU Womens Network.
+    Programme6.00pm - Event commences 7.15 - 7.30pm - Key professional panel event closes7.30 - 8.30pm - All guests are invited to a post event reception to carry on conversations and meet other professionals. Drinks and nibbles provided.
 
-    Professional Panel Members include: Dr Claire Corps - Research Scientist in Transplant Technology, Leeds Teaching Hospital NHS Trust Annabel Jelley - Annabel Jelley, Enterprise Manager at Yorks, North Yorks & East Riding LEP Catherine Dixon - Chief Executive Officer, Askham Bryam College Professor Deborah Smith - University of York, Pro Vice Chancellor for Research
+    Panellists Dr Claire Corps - Research Scientist in Transplant Technology, Leeds Teaching Hospital NHS Trust Annabel Jelley - Annabel Jelley, Enterprise Manager at York, North Yorks & East Riding LEP Catherine Dixon - Chief Executive Officer, Askham Bryam College Professor Deborah Smith - University of York, Pro Vice Chancellor for Research
 
     Hosted by Jan Garrill and Professor Jane Rand
 
@@ -884,7 +935,7 @@
 
     We will only send you important information and reminders related to the event you have booked unless you tell us otherwise. During the booking process, if you opt in to receive emails about the latest events hosted and supported by York St John University, you consent to York St John University contacting you with relevant information.
 
-    If you no longer wish to hear from us you can opt out at any time by changing your contact preferences via the link in emails you receive from us or by contacting us: events@Yorksj.ac.uk /01904 876654.
+    If you no longer wish to hear from us you can opt out at any time by changing your contact preferences via the link in emails you receive from us or by contacting us: events@yorksj.ac.uk / 01904 876654.
 
      
   url: https://www.eventbrite.co.uk/e/stemsational-women-celebrating-international-womens-day-tickets-55161317987?aff=ebapi
@@ -1073,4 +1124,249 @@
   logo: https://cdn.evbuc.com/images/55651803/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=b2b0a66b70c8b9b48a239c2e2746f0dd
   starts: 2019-04-03T14:00:00.0000000
   ends: 2019-04-03T15:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'NV1: Brief overview of NVivo'
+  description: >
+    These courses are for staff and researchers at York St John University. 
+
+
+    AD1: Making accessible documents
+
+    Prior knowledge: None but this course is aimed at staff and researchers
+
+    NVivo is a CAQDAS (Computer Assisted Qualitative Data Analysis System) that enables researchers to organize, analyse and share qualitative data efficiently. This course is a brief introduction to NVivo which will allow you to decide if it will be useful for your research and whether to undertake further training.
+
+    This course includes:
+
+
+    Explore an existing sample project structure
+
+    How to set up a new project
+
+    Bringing sources into NVivo project
+
+    Working with data
+
+    Handling external sources that can’t be digitised
+
+    Creating nodes and coding
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+
+    OF1: Collaborative working with Office 365 including Teams
+  url: https://www.eventbrite.co.uk/e/nv1-brief-overview-of-nvivo-tickets-55513433173?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55825836/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=de0b6d886349a4066e850c8f87242abb
+  starts: 2019-02-20T15:00:00.0000000
+  ends: 2019-02-20T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'PS1: Photoshop Essentials inc. for website editors (Wed 27th Mar 10:00-11:00)'
+  description: >-
+    These courses are for students and staff at York St John University
+
+
+    PS1: Photoshop Essentials
+
+    Prior knowledge: None
+
+    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
+
+
+    Understanding the workspace
+
+    Cropping existing images
+
+    Resizing images
+
+    Saving for the Web
+
+    Understanding image formats
+
+    Using filters and corrections
+
+    Using the text tool
+
+    Handling difficult shaped images
+
+    Compositing multiple images
+
+    Saving for different uses
+
+    Adding a background
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-wed-27th-mar-1000-1100-tickets-55517001847?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55829950/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=c740e2b1babfdffda85a1fd8056142ec
+  starts: 2019-03-27T10:00:00.0000000
+  ends: 2019-03-27T11:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'WE1: Website CMS Basic training (Thur 28th Mar 14:00-16:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-thur-28th-mar-1400-1600-tickets-55517130231?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55830132/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=d1206bc1609a6be22c965eba2d58e3bd
+  starts: 2019-03-28T14:00:00.0000000
+  ends: 2019-03-28T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'WE1: Website CMS Basic training (Wed 17th Apr 10:00-12:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-wed-17th-apr-1000-1200-tickets-55517261624?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55830240/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=55f115e493a2a2a0fb315b8ca52f24ed
+  starts: 2019-04-17T10:00:00.0000000
+  ends: 2019-04-17T12:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'PS1: Photoshop Essentials inc. for website editors (Tue 16th Apr 15:00-16:00)'
+  description: >-
+    These courses are for students and staff at York St John University
+
+
+    PS1: Photoshop Essentials
+
+    Prior knowledge: None
+
+    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
+
+
+    Understanding the workspace
+
+    Cropping existing images
+
+    Resizing images
+
+    Saving for the Web
+
+    Understanding image formats
+
+    Using filters and corrections
+
+    Using the text tool
+
+    Handling difficult shaped images
+
+    Compositing multiple images
+
+    Saving for different uses
+
+    Adding a background
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-tue-16th-apr-1500-1600-tickets-55517478272?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55830366/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=46f6cba3369afcb0154de78b4a9ca4a6
+  starts: 2019-04-16T15:00:00.0000000
+  ends: 2019-04-16T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
