@@ -1,12 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcblc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-01-28T07:00:00.0000000
-  ends: 2019-01-28T10:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
 - name: HTTP API patterns with Toby Henderson
   description: "<p>**HTTP API patterns**</p> <p>I GET how to DELETE but the real question is \"To PUT or to POST?\" or is it PATCH? What there's more?!</p> <p>After doing the standard HTTP CRUD, sometimes you need to do more, become a little more sophisticated in your manipulation of resources and add some depth to your HTTP API.</p> <p>This talk will take you through some common HTTP API patterns, provide you with names for these patterns so we can talk about them, describe what the patterns are and when they are generally used, and go through working examples.</p> <p>Hopefully, this information will help people create richer HTTP APIs, make you REST easy and everything 200 OK.</p> <p>Bio<br/>Toby Henderson is an Application Architect at Huddle, the #1 SharePoint alternative for enterprise content collaboration. He has over 20 years experience of commercial software engineering and has given talks at DDD events.</p> "
   url: https://www.meetup.com/dotnetYork/events/255889878/
@@ -49,7 +40,7 @@
   ends: 2019-01-30T21:00:00.0000000
   venue: The Cross Keys
 - name: Lightning talks
-  description: '<p>We will be hosting an eclectic mix of lightning talks (10-15 minutes) plus questions. Line up is as follows:</p> <p>Kevin: MassTransit<br/>Jamie: History of .Net up to .Net core<br/>Richard Tasker - Carter and asp.net core routing<br/>Matt: Augmented Reality for E-Commerce<br/>Kieron: TBA</p> <p>If you want to give a talk on a .Net related subject then please get in touch with one of the organisers, we may have another slot available or you can be considered for future lightning talks.</p> <p>Matt, Kieron and Richard</p> '
+  description: '<p>We will be hosting an eclectic mix of lightning talks (10-15 minutes) plus questions. Line up is as follows:</p> <p>Kevin: MassTransit<br/>Jamie: History of .Net up to .Net core<br/>Richard Tasker - Carter and asp.net core routing<br/>Matt: Augmented Reality for E-Commerce<br/>Kiran: Light BDD</p> <p>If you want to give a talk on a .Net related subject then please get in touch with one of the organisers, we may have another slot available or you can be considered for future lightning talks.</p> <p>Matt, Kieron and Richard</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/255550750/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
@@ -587,6 +578,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-07-18T18:00:00.0000000
   ends: 2019-07-18T21:00:00.0000000
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbdc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-07-22T06:00:00.0000000
+  ends: 2019-07-22T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
