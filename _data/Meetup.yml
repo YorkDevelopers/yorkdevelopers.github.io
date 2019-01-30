@@ -1,11 +1,3 @@
-- name: HTTP API patterns with Toby Henderson
-  description: "<p>**HTTP API patterns**</p> <p>I GET how to DELETE but the real question is \"To PUT or to POST?\" or is it PATCH? What there's more?!</p> <p>After doing the standard HTTP CRUD, sometimes you need to do more, become a little more sophisticated in your manipulation of resources and add some depth to your HTTP API.</p> <p>This talk will take you through some common HTTP API patterns, provide you with names for these patterns so we can talk about them, describe what the patterns are and when they are generally used, and go through working examples.</p> <p>Hopefully, this information will help people create richer HTTP APIs, make you REST easy and everything 200 OK.</p> <p>Bio<br/>Toby Henderson is an Application Architect at Huddle, the #1 SharePoint alternative for enterprise content collaboration. He has over 20 years experience of commercial software engineering and has given talks at DDD events.</p> "
-  url: https://www.meetup.com/dotnetYork/events/255889878/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2019-01-29T18:30:00.0000000
-  ends: 2019-01-29T20:30:00.0000000
-  venue: Trailight Boardroom
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbnc/
@@ -95,12 +87,12 @@
   starts: 2019-02-06T08:00:00.0000000
   ends: 2019-02-06T11:00:00.0000000
   venue: La Bottega Milanese
-- name: Data Platform User Group
-  description: "<p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Richard Macaskill (Red Gate)<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – Q&amp;A / Lightning Talks<br/>20:20 – 21:00 – Off t’pub.</p> <p>Building an awesome provisioning process for DB DevOps</p> <p>How to build a freaking awesome db provisioning pipeline with DBATools, PoshRSJob and the Redgate stack (or DBATools again).</p> <p>In this example/demo-heavy session, Richard will aim to show how a new dev-test provisioning strategy can replace legacy processes.</p> <p>And make your governance team happy at the same time.</p> <p>About Richard<br/>Richard is a Product Manager at Redgate, having previously spent around 20 years in IT management, database administration and development for Insurance and Financial Services firms in London, back-filling other roles along the way. He spends much of his time boring anyone in earshot about the DevOps and automation implications of financial compliance and audit.</p> <p>Q&amp;A / Lightning Talks</p> <p>Got a question for something you'd like help with? Ask the group and everyone can chip in to try and help you out.</p> <p>We'll also have a quick discussion on some useful tools and websites you may not be aware of, that can assist you with day to day tasks.</p> "
+- name: 'Data Platform User Group (DB DevOps, Power BI, Power Apps) '
+  description: '<p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Richard Macaskill (Red Gate)<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – Matt Bromilow (Bond Digital)<br/>20:20 – 21:00 – Off t’pub.</p> <p>Session one: Building an awesome provisioning process for DB DevOps<br/>How to build a freaking awesome db provisioning pipeline with DBATools, PoshRSJob and the Redgate stack (or DBATools again).<br/>In this example/demo-heavy session, Richard will aim to show how a new dev-test provisioning strategy can replace legacy processes. And make your governance team happy at the same time.</p> <p>About Richard:<br/>Richard is a Product Manager at Redgate, having previously spent around 20 years in IT management, database administration and development for Insurance and Financial Services firms in London, back-filling other roles along the way. He spends much of his time boring anyone in earshot about the DevOps and automation implications of financial compliance and audit.</p> <p>Session two: Power Platform Hour<br/>A fast paced interactive session covering power apps, power BI and Microsoft flow. We will build a report that you can post comments to from within Power BI whilst maintaining a history and notification system. This will be a live interactive demo and you can take part - please download the power apps app on mobile and login details will be supplied during the session.</p> <p>About Matt:<br/>Matt is director of Manchester Based Analytics company Bond Digital Services, specialising in Microsoft business intelligence and financial reporting solutions in D365. Matt has over 12 years experience in the analytics sector working with a broad range of technologies for leading global organisations such as Airswift, EMR, Kids insights and public sector bodies such as the NHS, Cabinet office and Crown commercial service.</p> '
   url: https://www.meetup.com/leeds_data_platform/events/255664557/
   is-free: true
-  starts: 2019-02-06T19:00:00.0000000
-  ends: 2019-02-06T21:00:00.0000000
+  starts: 2019-02-06T18:00:00.0000000
+  ends: 2019-02-06T20:00:00.0000000
   venue: Platform
 - name: Umbraco Meetup
   description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>There will be 2 talks this month:</p> <p>Phil Whittaker - It's a just mail merge<br/>Jamie Taylor - Blazor - You Want To Run .NET Where?!</p> "
@@ -126,6 +118,14 @@
   ends: 2019-02-11T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Running Servers That Build Themselves + In God, We Trust. In All Else, We Test
+  description: '<p>SESSION ONE: "Running Servers That Build Themselves"</p> <p>Running servers in the cloud comes with a warning label. Servers fail. This talk will show you why this is okay and what we can do about it.</p> <p>SPEAKER: Neil Millard, DevOps Engineer<br/>Equal Experts</p> <p>SESSION TWO: (updated) "In God, We Trust. In All Else, We Test"</p> <p>The talk will be focussed on how to approach testing with an agile tech stack, types of testing we need to consider and why relying heavily on end to end test is a bad idea. Also the talk will go through how to write great scenarios in behaviour driven development.</p> <p>SPEAKER: Shahnaaz Rahamatullah, QA<br/>Equal Experts</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;<br/>**Food and drink will be provided - we look forward to seeing you there!**<br/>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> '
+  url: https://www.meetup.com/ExpertTalks-Leeds/events/254265564/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2019-02-12T18:00:00.0000000
+  ends: 2019-02-12T21:00:00.0000000
+  venue: Lamberts yard,
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbrb/
