@@ -1,36 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzcbnc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-01-30T07:00:00.0000000
-  ends: 2019-01-30T10:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzcbnc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-01-30T08:00:00.0000000
-  ends: 2019-01-30T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: January - Jamie Bradley & Jordan Finneran
-  description: "<p>PLEASE NOTE: RSVPs will be opened on the 23rd!</p> <p>Join us to hear from Jamie Bradley and Jordan Finneran, as well as a chance to win a code for a year subscription for a Jetbrains toolbox product of your choice!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Jamie Bradley - What the JAMstack?<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Jordan Finneran (@JordanFinners) - Serverless Single Page Applications<br/>8:20 - 9:00: Social &amp; point that people can leave<br/>--------------<br/>Talks:</p> <p>Jamie Bradley (@jamiebradley234) - What the JAMstack?<br/>In this talk I will cover the basics of JAMstack i.e. what it is, why it's becoming so popular and also some of the potential drawbacks with using JAMstack.</p> <p>I'll then follow up with a short demonstration of a project using Gatsby and showcase how this fits into the JAMstack and why it is proving to be a success. This may be the kick you need to start a blog in 2019!</p> <p>Jordan Finneran (@JordanFinners) - Serverless Single Page Applications<br/>There is a lot of hype around serverless at the moment, I will share my real world experience with a serverless single page application. Covering why you may or may not want to consider going serverless. How I found migrating from a typical Express JS set up to serverless and if the demo gods are with me, demo a real world example.</p> <p>--------------<br/>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href=\"https://leedsjs.github.io/code-of-conduct/\" class=\"linkified\">https://leedsjs.github.io/code-of-conduct/</a></p> "
-  url: https://www.meetup.com/LeedsJS/events/257895148/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2019-01-30T18:45:00.0000000
-  ends: 2019-01-30T21:00:00.0000000
-  venue: Platform
-- name: MagentoYork - January Meetup - Lightning Talks
-  description: '<p>In a series of short talks we discuss the latest happenings of Magento 2.</p> '
-  url: https://www.meetup.com/Magento-York/events/256968569/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/2/3/thumb_444120291.jpeg
-  starts: 2019-01-30T19:00:00.0000000
-  ends: 2019-01-30T21:00:00.0000000
-  venue: The Cross Keys
 - name: Lightning talks
   description: '<p>We will be hosting an eclectic mix of lightning talks (10-15 minutes) plus questions. Line up is as follows:</p> <p>Kevin: MassTransit<br/>Jamie: History of .Net up to .Net core<br/>Richard Tasker - Carter and asp.net core routing<br/>Matt: Augmented Reality for E-Commerce<br/>Kiran: Light BDD</p> <p>If you want to give a talk on a .Net related subject then please get in touch with one of the organisers, we may have another slot available or you can be considered for future lightning talks.</p> <p>Matt, Kieron and Richard</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/255550750/
@@ -135,6 +102,14 @@
   ends: 2019-02-13T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzdbrb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-02-13T08:00:00.0000000
+  ends: 2019-02-13T11:00:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbxb/
@@ -586,6 +561,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-07-22T06:00:00.0000000
   ends: 2019-07-22T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbgc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-07-24T06:00:00.0000000
+  ends: 2019-07-24T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
