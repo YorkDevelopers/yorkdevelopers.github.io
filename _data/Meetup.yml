@@ -1,26 +1,3 @@
-- name: Lightning talks
-  description: '<p>We will be hosting an eclectic mix of lightning talks (10-15 minutes) plus questions. Line up is as follows:</p> <p>Kevin: MassTransit<br/>Jamie: History of .Net up to .Net core<br/>Richard Tasker - Carter and asp.net core routing<br/>Matt: Augmented Reality for E-Commerce<br/>Kiran: Light BDD</p> <p>If you want to give a talk on a .Net related subject then please get in touch with one of the organisers, we may have another slot available or you can be considered for future lightning talks.</p> <p>Matt, Kieron and Richard</p> '
-  url: https://www.meetup.com/Leeds-Sharp/events/255550750/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2019-01-31T19:00:00.0000000
-  ends: 2019-01-31T21:00:00.0000000
-  venue: Platform
-- name: 'Laravel York Monthly Meetup #001 - Collections & Exceptions'
-  description: "<p>Welcome to our first Meetup! We have 2 small topic talks to get us started; collection tips &amp; custom exception handling. Let's also gather round and discuss everyone's ideas on a Laravel Meetup and how we want it to develop.</p> <p>Agenda<br/>\U0001F596 Introductions<br/>A quick roundtable hello and what you would like to achieve out of coming to this Meetup.</p> <p>\U0001F4E2 News &amp; \U0001F393 Resources for learning<br/>Newsletters, blogs and feeds to keep an eye on.</p> <p>\U0001F680 Topic 1. Custom Exception Handling &amp; Logging</p> <p>100% visibility on exceptions in all your environments is key to knowing the health of your app. It's easy to setup different message broadcasters and different logging levels depending on severity of the issue.</p> <p><a href=\"https://laravel.com/docs/master/errors\" class=\"linkified\">https://laravel.com/docs/master/errors</a> <a href=\"https://laravel.com/docs/master/logging\" class=\"linkified\">https://laravel.com/docs/master/logging</a></p> <p>\U0001F680 Topic 2. Collection Tips<br/>Laravels Collections are a great, powerful way to interact with PHP arrays in an object-orientated way. Lets take a quick look to see what they're about and how they can help us manipulate data.</p> <p><a href=\"https://laravel.com/docs/master/collections\" class=\"linkified\">https://laravel.com/docs/master/collections</a></p> <p>\U0001F64B Questions<br/>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>\U0001F37B Laravel York Social<br/>Let's migrate a few doors down for refreshments and banter.</p> "
-  url: https://www.meetup.com/LaravelYork/events/258166514/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/9/7/4/thumb_477839764.jpeg
-  starts: 2019-01-31T19:00:00.0000000
-  ends: 2019-01-31T21:00:00.0000000
-  venue: Divine Coffee Roasters
-- name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are sometimes one or two short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
-  url: https://www.meetup.com/LeedsRubyThing/events/qfxdtpyzcbpc/
-  is-free: true
-  starts: 2019-01-31T19:30:00.0000000
-  ends: 2019-01-31T23:30:00.0000000
-  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbgb/
