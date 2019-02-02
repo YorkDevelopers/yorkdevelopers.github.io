@@ -1,18 +1,3 @@
-- name: Stargazing Live
-  description: >-
-    Join us for an evening of astronomy at St Peter’s School for our annual Stargazing Live event.
-
-    Explore the night’s sky with York Astronomical Society who will be on hand with their impressive array of telescopes. Discover our ever popular science exhibition which will feature a variety of displays and experiments.
-
-    This event is suitable for all the family.
-
-    Plus don’t miss our talk by cosmologist Professor Joseph Silk from Johns Hopkins University at 7.30pm. Tickets for this talk are free but must be booked separately and can be purchased here.
-  url: https://www.eventbrite.co.uk/e/stargazing-live-tickets-54281265727?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54490962/87497926893/1/original.20190102-103010?h=200&w=450&auto=compress&rect=0,230,1332,666&s=b29aded96838b706a3afa6860b902fb0
-  starts: 2019-02-06T18:00:00.0000000
-  ends: 2019-02-06T21:00:00.0000000
-  venue: St Peter's School
 - name: 'Professor Joseph Silk: Cosmology'
   description: >-
     Join Professor Joseph Silk from Johns Hopkins University as we explore the exciting world of cosmology in this free lecture, part of St Peter’s Stargazing Live event.
@@ -211,6 +196,14 @@
   starts: 2019-03-27T09:15:00.0000000
   ends: 2019-03-27T14:45:00.0000000
   venue: Dante & Nunthorpe Suite
+- name: Studying Cancer, One Cell at a Time
+  description: Studying Cancer, One Cell at a Time
+  url: https://www.eventbrite.co.uk/e/studying-cancer-one-cell-at-a-time-tickets-54640532303?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/54859878/287847590648/1/original.20190109-143743?h=200&w=450&auto=compress&rect=0,103,800,400&s=8323cd95e9fb6766bfb52119bda05436
+  starts: 2019-05-08T13:00:00.0000000
+  ends: 2019-05-08T14:00:00.0000000
+  venue: University of York
 - name: 'Designing with Natural Materials: Book Launch by NMA & Bioladies Network '
   description: >+
     The  Bioladies Network and the Natural Materials Association would like to invite you to an exciting evening celebrating the launch of "Designing with Natural Materials".
@@ -256,13 +249,13 @@
   starts: 2019-02-05T18:00:00.0000000
   ends: 2019-02-05T21:30:00.0000000
   venue: Pitcher & Piano
-- name: Studying Cancer, One Cell at a Time
-  description: Studying Cancer, One Cell at a Time
-  url: https://www.eventbrite.co.uk/e/studying-cancer-one-cell-at-a-time-tickets-54640532303?aff=ebapi
+- name: Regulations around Blockchain in Industry (Panel Discussion)
+  description: Four distinguished speakers in the Blockchain space discuss and debate the regulations around Blockchain and it's applications in industry!
+  url: https://www.eventbrite.co.uk/e/regulations-around-blockchain-in-industry-panel-discussion-tickets-55213105886?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/54859878/287847590648/1/original.20190109-143743?h=200&w=450&auto=compress&rect=0,103,800,400&s=8323cd95e9fb6766bfb52119bda05436
-  starts: 2019-05-08T13:00:00.0000000
-  ends: 2019-05-08T14:00:00.0000000
+  logo: https://cdn.evbuc.com/images/56127873/289547605027/1/original.20190202-001841?h=200&w=450&auto=compress&rect=0,29,1920,960&s=96015b30bf5907c78cf389d06eb86644
+  starts: 2019-03-11T19:00:00.0000000
+  ends: 2019-03-11T21:00:00.0000000
   venue: University of York
 - name: 'Hagge Woods Trust Spring Lecture: Simon King OBE'
   description: "Hagge Woods Trust inaugural Spring Lecture, Talk to the animals, will be given by Simon King OBE, Naturalist, Conservationist, Author, Artist and Broadcaster.  The talk is held in aid of Hagge Woods Trust, the pioneering charity taking practical action for nature and people by creating wood-meadows and inspiring others to plant and look after these exceptional habitats.\nKnown to millions as a face of Sringwatch and Big Cat Diary, Simon King is the real life Dr Doolittle.  In this fully illustrated talk, Simon will take you on a journey of discovery, showing you how you too can talk to the animals in your neighbourhood and get first class views of wildlife as a result.  This talk is suitable for wildlife enthusiasts for all ages.  Learn to grunt like a fallow deer, hoot like an owl and cuckoo like a cuckoo amongst many others.  Discover stories of filming creastures as diverse as killer whales (for the landmark series Blue Planet), Great White Sharks (Planet Earth) and lions, leopards and cheetahs (Big Cat Diary). This is an exciting opportunity to hear Simon speak about ask him questions about his work.  \nHagge Woods Trust was founded in 2013 with the creation of its flagship site Three Hagges Wood-Meadow near York.  The ecosystem and the wood-meadow community of volunteers and Friends are flourishing.  Without the invaluable support of many individuals, Trusts and Foundations, and businesses in the community, Hagge Woods Trust would be unable to sustain its ground-breaking work in restoring nature through the creation of wood-meadows and educating children and families about native nature and wildlife.  \nDrinks reception is included in the ticket price.\nSponsored by Andrew Jackson Solicitors LLP, CGA Accountants and Wrapped Brand and Digital Agency."
@@ -313,21 +306,25 @@
   starts: 2019-02-22T10:00:00.0000000
   ends: 2019-02-22T11:30:00.0000000
   venue: FT113
-- name: IDGC-YCCSA Seminar:Information Transforming Human Network Systems to a Sustainable Nexus Multiplex
+- name: 'Air pollution: Local contexts, universal effects'
   description: >-
-    The Interdisciplinary Global Development Centre and York Cross-Disciplinary Centre for Systems Analysis are pleased to present a seminar by Dr. Roger Cremades from the Climate Service Centre, Germany.
+    Speaker: Dr Cressida Bowyer, University of Portsmouth
 
-    IGDC Research Seminar Series: Exploring sustainability, resilience, security and complexity within the water-energy-land-food nexus.
+    Global Health Histories Seminar 119
 
-    Abstract:Separate considerations of water, energy, food and land use pressures and environmental constraints result in a waste of resources and incoherent planning worldwide. Current modelling of these pressures as an integrated nexus captures limited instances of a more complex feature: the distribution and trade networks formed by each of these nexus elements. Together these form a ‘multiplex’ that has not been studied previously as a whole. Moreover, the sustainability properties of these multiplexes and their implications for development are not understood. Using big data techniques to assimilate real-world water, energy, commodities’ trade and transport networks, and graph theory and complex systems science to analyse and model them, the seminar will explore how to (i) analyse their emerging complex properties, (ii) understand which of these properties lead to sustainability, (iii) test these properties and study their full potential in transformation simulation models to better understand and enhance sustainability, resilience and security, and (iv) formulate a new data-driven theoretical paradigm that studies sustainability from a systemic multiplex perspective. This project will lay the groundwork for new approaches to evaluating sustainability and development using the latest advances in big data and complex systems.  
+    Air pollution represents a global problem, contributing to chronic illness and mortality. This seminar will examine the cultural drivers of increased air pollution and state and community-based responses to the problem.
 
-    Freshements will be available after the talk followed by a discussion session.
-  url: https://www.eventbrite.co.uk/e/idgc-yccsa-seminarinformation-transforming-human-network-systems-to-a-sustainable-nexus-multiplex-tickets-52307602447?aff=ebapi
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/air-pollution-local-contexts-universal-effects-tickets-55761676676?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/55222411/44075574330/1/original.20190116-111348?h=200&w=450&auto=compress&rect=0,7,270,135&s=27d820b8cc4b62c13803be0d601e5f49
-  starts: 2019-02-01T13:30:00.0000000
-  ends: 2019-02-01T15:30:00.0000000
-  venue: The Tree House, Berrick Saul Building
+  logo: https://cdn.evbuc.com/images/56090833/22468345120/1/original.20190201-134049?h=200&w=450&auto=compress&rect=0,0,800,400&s=cc0d3e1b0c8a1804edd53a90d686f0d0
+  starts: 2019-03-06T12:30:00.0000000
+  ends: 2019-03-06T13:30:00.0000000
+  venue: Room RCH/017, Ron Cooke Hub
 - name: 'WO4: Research & PhD writing (Wed 6th Feb 10:00-11:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -452,6 +449,116 @@
   starts: 2019-02-11T10:00:00.0000000
   ends: 2019-02-11T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'ID2: Speeding up production (Thur 7th Feb 14:30-15:30)'
+  description: >-
+    These courses are for students and staff at York St John University
+
+
+    ID2: Speeding up production
+
+
+
+
+    Prior knowledge: Basic skills with InDesign equivalent to Indesign1
+
+    This course adds features aimed at handling more documents in InDesign. We will look at setting up styles to maintain consistency, using master pages to provide constant backgrounds and libraries to gain quick access to to commonly used objects.
+
+    This course includes:
+
+
+    Using master pages
+
+    Headers and footers
+
+    Using layers
+
+    Guides, rulers and tabs
+
+    Using a library
+
+    Page numbers and references
+
+
+
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/id2-speeding-up-production-thur-7th-feb-1430-1530-tickets-54280586696?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/54490205/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=1d0a59fa99c834ad16cfeec0334b4154
+  starts: 2019-02-07T14:30:00.0000000
+  ends: 2019-02-07T15:30:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'NV1: Brief overview of NVivo (Fri 22nd Feb 14:00-15:00)'
+  description: >
+    These courses are for staff and researchers at York St John University. 
+
+
+    NV1: Brief overview of NVivo
+
+    Prior knowledge: None but this course is aimed at staff and researchers
+
+    NVivo is a CAQDAS (Computer Assisted Qualitative Data Analysis System) that enables researchers to organize, analyse and share qualitative data efficiently. This course is a brief introduction to NVivo which will allow you to decide if it will be useful for your research and whether to undertake further training.
+
+    This course includes:
+
+
+    Explore an existing sample project structure
+
+    How to set up a new project
+
+    Bringing sources into NVivo project
+
+    Working with data
+
+    Handling external sources that can’t be digitised
+
+    Creating nodes and coding
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+
+    OF1: Collaborative working with Office 365 including Teams
+  url: https://www.eventbrite.co.uk/e/nv1-brief-overview-of-nvivo-fri-22nd-feb-1400-1500-tickets-55513433173?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55825836/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=de0b6d886349a4066e850c8f87242abb
+  starts: 2019-02-22T14:00:00.0000000
+  ends: 2019-02-22T15:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: The 7th International Cardiovascular Genetics & Genomics Conference
   description: "\n\n\nThe 7th International Cardiovascular Genomic Medicine Conference\n‘Clinical Cardiology in the Genome Era’\n4-5 December 2019\nRadisson Blu Hotel, York, England, UK\nThe Biennial ‘7th International Conference on Cardiovascular Genomic Medicine Conference’ offers a unique opportunity for clinical cardiologists, specialist cardiac nurses, electrophysiologists, cardiovascular radiologists, cardiac pathologists, clinical geneticists, genetic counselors and molecular geneticists to learn and share the fast emerging practice of cardiovascular genomic medicine.\nWorld class Faculty of experts in all fields of cardiovascular genetics & genomics and genomic medicine will join the wide ranging participants from UK, Europe and rest of the World. The programme includes plenary lectures, keynote presentations, open platform and poster presentations and seminars on selected topics.\nThis conference is the 7th as part of the original series of Biennial ‘Cardiff Cardiovascular Genetics Conference’ held since 2007. All previous events were grand successes admired by several clinicians, health professionals and researchers from all over the world.\nFor Registration, Sponsorship and all other enquiries please visit www.genomicmedicine.org\nFor General information and contributions to the Scientific Programme please contact Prof. Dhavendra Kumar\ngenomicmedicine@yahoo.co.uk\ncardiovasculargeneticsgenomics@gmail.com\nSPONSORSHIP PACKAGES\nPlatinum:   \n\nProminent display space and central position (4m x 2m space)\nOpportunity for ‘open’ presentation during Lunch break\nFull page space in the Conference pack\nUp to 3 complimentary registrations for both days\nFree Gala Dinner passes for 3\n\nGold:             \n\nProminent display position with generous space equivalent to \nlarge poster board size (3m x 2m space)\nHalf page space in the Conference pack\nUp to 2 complimentary registrations for both days\nFree Gala Dinner passes for 2\n\nSilver            \n\nProminent display position with generous space equivalent to 2 large poster board size (2m x 2m space)\nQuarter page space in the Conference Pack\nOne complimentary registration for both days\nOne free Gala Dinner pass; 50% discount for additional 2 passes\n\nBronze         \n\nProminent display position with generous space equivalent to one large poster board size (1.5m x 1.5m space)\nLogo insertion for Sponsorship acknowledgement in the Conference Pack\nHalf discount registration for two, either both days or one day only\n50% discount for 2 Gala Dinner passes\n\nPlease contact nick@neon-events.co.uk for more details & prices\n"
   url: https://www.eventbrite.co.uk/e/the-7th-international-cardiovascular-genetics-genomics-conference-tickets-50125566920?aff=ebapi
@@ -517,116 +624,6 @@
   logo: https://cdn.evbuc.com/images/54094428/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=c3578d637f1a0100197a542179e57ba9
   starts: 2019-02-13T15:00:00.0000000
   ends: 2019-02-13T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'ID2: Speeding up production (Thur 7th Feb 14:30-15:30)'
-  description: >-
-    These courses are for students and staff at York St John University
-
-
-    ID2: Speeding up production
-
-
-
-
-    Prior knowledge: Basic skills with InDesign equivalent to Indesign1
-
-    This course adds features aimed at handling more documents in InDesign. We will look at setting up styles to maintain consistency, using master pages to provide constant backgrounds and libraries to gain quick access to to commonly used objects.
-
-    This course includes:
-
-
-    Using master pages
-
-    Headers and footers
-
-    Using layers
-
-    Guides, rulers and tabs
-
-    Using a library
-
-    Page numbers and references
-
-
-
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/id2-speeding-up-production-thur-7th-feb-1430-1530-tickets-54280586696?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54490205/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=1d0a59fa99c834ad16cfeec0334b4154
-  starts: 2019-02-07T14:30:00.0000000
-  ends: 2019-02-07T15:30:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'NV1: Brief overview of NVivo (Wed 20th Feb 15:00-16:00)'
-  description: >
-    These courses are for staff and researchers at York St John University. 
-
-
-    AD1: Making accessible documents
-
-    Prior knowledge: None but this course is aimed at staff and researchers
-
-    NVivo is a CAQDAS (Computer Assisted Qualitative Data Analysis System) that enables researchers to organize, analyse and share qualitative data efficiently. This course is a brief introduction to NVivo which will allow you to decide if it will be useful for your research and whether to undertake further training.
-
-    This course includes:
-
-
-    Explore an existing sample project structure
-
-    How to set up a new project
-
-    Bringing sources into NVivo project
-
-    Working with data
-
-    Handling external sources that can’t be digitised
-
-    Creating nodes and coding
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-
-    OF1: Collaborative working with Office 365 including Teams
-  url: https://www.eventbrite.co.uk/e/nv1-brief-overview-of-nvivo-wed-20th-feb-1500-1600-tickets-55513433173?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/55825836/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=de0b6d886349a4066e850c8f87242abb
-  starts: 2019-02-20T15:00:00.0000000
-  ends: 2019-02-20T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'PS2: Layers and cutting out (Tue 19th Feb 14:30-15:30)'
   description: >-
@@ -879,13 +876,6 @@
   starts: 2019-03-05T10:00:00.0000000
   ends: 2019-03-05T11:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Regulations around Blockchain in Industry (Panel Discussion)
-  description: Four distinguished speakers in the Blockchain space discuss and debate the regulations around Blockchain and it's applications in industry!
-  url: https://www.eventbrite.co.uk/e/regulations-around-blockchain-in-industry-panel-discussion-tickets-55213105886?aff=ebapi
-  is-free: true
-  starts: 2019-03-11T19:00:00.0000000
-  ends: 2019-03-11T21:00:00.0000000
-  venue: University of York
 - name: 'AD1: Making accessible documents (Thur 7th Mar 10:00-11:00)'
   description: >+
     These courses are for students and staff at York St John University. 
