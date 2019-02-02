@@ -34,6 +34,12 @@ a:hover {
     color: #FFD800;
     outline: 0
 }
+
+a.standard-link {
+    color: #4800FF;
+    text-decoration: none;
+}
+
 h1,
 h2,
 h3,
@@ -260,6 +266,11 @@ section.blog_index h2 {
     color: #fff
 }
 
+section.yorktechfest2018 {
+    background: #FFF;
+    color: #000;
+}
+
 section.donate {
     background: #4800FF;
     color: #fff
@@ -295,7 +306,6 @@ section.events-odd {
         padding-top: 75px
     }
 }
-
 
 #meetups .meetups-item {
     margin: 0 0 15px;
