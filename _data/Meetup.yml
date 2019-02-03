@@ -70,6 +70,13 @@
   starts: 2019-02-12T18:00:00.0000000
   ends: 2019-02-12T21:00:00.0000000
   venue: Lamberts yard,
+- name: Performance in the Javascript Era
+  description: '<p>More than just tips, tricks, metrics and clicks, from code to cloud and back again - performance on the web has gone way beyond "oh just put your CSS in the header and your Javascript in the footer".</p> <p>More often approached as an afterthought, this primer will cover some essential ground on how to approach measuring website and web app performance, along with some quick wins, through to some more lower-level technical nuances with HTTP2, compression, and header management, and finally putting all our tools together to comprehensively and continuously keep a watchful eye on your performance metrics.</p> <p>Topic will include ASP.NET and NodeJS samples, and slides &amp; code will be made available on Github well in advance.</p> <p>About the speaker:<br/>Benjamin Howarth is a freelance ASP.NET architect &amp; senior developer, specialising in open-source content management systems. His experience in high-scale high-performance websites has been a strength over the past 5 years, working for Tesco, FIA Formula E, Universal Music Group, and Manchester Airport Group. He can be found @benjaminhowarth on Twitter.</p> <p>About Hainton:<br/>Hainton are a specialist .NET Recruitment company based in Teesside. We host regular tech events across the North East and Yorkshire.</p> '
+  url: https://www.meetup.com/HaintonDotNetYorkshire/events/258618885/
+  is-free: true
+  starts: 2019-02-12T18:00:00.0000000
+  ends: 2019-02-12T20:00:00.0000000
+  venue: Duke Studios
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbrb/
