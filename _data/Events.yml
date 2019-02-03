@@ -76,25 +76,6 @@
   starts: 2019-02-07T19:30:00.0000000
   ends: 2019-02-07T20:30:00.0000000
   venue: Bowland Auditorium
-- name: 'The bitter future for coffee: Challenges in a changing world'
-  description: >-
-    Speaker: Professor Rob Marchant, Department of Environment and Geography
-
-    Department of Environment and Geography Lecture Series
-
-    Coffee has become an export of global significance for countries in East Africa, reaching diverse markets across the world, and with large numbers of farmers involved in its production. There are enormous potential benefits from the growing coffee industry but significant environmental, economic and social challenges are emerging. Drawing on the experience of East Africa this talk will consider the nature of these challenges and how they might be overcome for the benefit of producers and consumers.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/the-bitter-future-for-coffee-challenges-in-a-changing-world-tickets-53726043041?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/53959904/22468345120/1/original.20181214-130640?h=200&w=450&auto=compress&rect=0,0,800,400&s=aea28c3be60c8dc6b9a48976c06a2935
-  starts: 2019-02-20T19:30:00.0000000
-  ends: 2019-02-20T20:30:00.0000000
-  venue: Bowland Auditorium
 - name: Should we be worried about indoor air pollution?
   description: >-
     Speaker: Dr Nic Carslaw, Department of Environment and Geography
@@ -113,6 +94,25 @@
   logo: https://cdn.evbuc.com/images/53959639/22468345120/1/original.20181214-125751?h=200&w=450&auto=compress&rect=0,0,800,400&s=caa85e0a01316be953cf539d0e0aad4a
   starts: 2019-02-11T19:30:00.0000000
   ends: 2019-02-11T20:30:00.0000000
+  venue: Bowland Auditorium
+- name: 'The bitter future for coffee: Challenges in a changing world'
+  description: >-
+    Speaker: Professor Rob Marchant, Department of Environment and Geography
+
+    Department of Environment and Geography Lecture Series
+
+    Coffee has become an export of global significance for countries in East Africa, reaching diverse markets across the world, and with large numbers of farmers involved in its production. There are enormous potential benefits from the growing coffee industry but significant environmental, economic and social challenges are emerging. Drawing on the experience of East Africa this talk will consider the nature of these challenges and how they might be overcome for the benefit of producers and consumers.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/the-bitter-future-for-coffee-challenges-in-a-changing-world-tickets-53726043041?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/53959904/22468345120/1/original.20181214-130640?h=200&w=450&auto=compress&rect=0,0,800,400&s=aea28c3be60c8dc6b9a48976c06a2935
+  starts: 2019-02-20T19:30:00.0000000
+  ends: 2019-02-20T20:30:00.0000000
   venue: Bowland Auditorium
 - name: Viking Cluster Launch
   description: An afternoon of talks to launch the University of York's new high performance compute cluster, Viking
@@ -196,6 +196,14 @@
   starts: 2019-03-27T09:15:00.0000000
   ends: 2019-03-27T14:45:00.0000000
   venue: Dante & Nunthorpe Suite
+- name: Regulations around Blockchain in Industry (Panel Discussion)
+  description: Four distinguished speakers in the Blockchain space discuss and debate the regulations around Blockchain and it's applications in industry!
+  url: https://www.eventbrite.co.uk/e/regulations-around-blockchain-in-industry-panel-discussion-tickets-55213105886?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/56127873/289547605027/1/original.20190202-001841?h=200&w=450&auto=compress&rect=0,29,1920,960&s=96015b30bf5907c78cf389d06eb86644
+  starts: 2019-03-11T19:00:00.0000000
+  ends: 2019-03-11T21:00:00.0000000
+  venue: University of York
 - name: Studying Cancer, One Cell at a Time
   description: Studying Cancer, One Cell at a Time
   url: https://www.eventbrite.co.uk/e/studying-cancer-one-cell-at-a-time-tickets-54640532303?aff=ebapi
@@ -249,14 +257,6 @@
   starts: 2019-02-05T18:00:00.0000000
   ends: 2019-02-05T21:30:00.0000000
   venue: Pitcher & Piano
-- name: Regulations around Blockchain in Industry (Panel Discussion)
-  description: Four distinguished speakers in the Blockchain space discuss and debate the regulations around Blockchain and it's applications in industry!
-  url: https://www.eventbrite.co.uk/e/regulations-around-blockchain-in-industry-panel-discussion-tickets-55213105886?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/56127873/289547605027/1/original.20190202-001841?h=200&w=450&auto=compress&rect=0,29,1920,960&s=96015b30bf5907c78cf389d06eb86644
-  starts: 2019-03-11T19:00:00.0000000
-  ends: 2019-03-11T21:00:00.0000000
-  venue: University of York
 - name: 'Hagge Woods Trust Spring Lecture: Simon King OBE'
   description: "Hagge Woods Trust inaugural Spring Lecture, Talk to the animals, will be given by Simon King OBE, Naturalist, Conservationist, Author, Artist and Broadcaster.  The talk is held in aid of Hagge Woods Trust, the pioneering charity taking practical action for nature and people by creating wood-meadows and inspiring others to plant and look after these exceptional habitats.\nKnown to millions as a face of Sringwatch and Big Cat Diary, Simon King is the real life Dr Doolittle.  In this fully illustrated talk, Simon will take you on a journey of discovery, showing you how you too can talk to the animals in your neighbourhood and get first class views of wildlife as a result.  This talk is suitable for wildlife enthusiasts for all ages.  Learn to grunt like a fallow deer, hoot like an owl and cuckoo like a cuckoo amongst many others.  Discover stories of filming creastures as diverse as killer whales (for the landmark series Blue Planet), Great White Sharks (Planet Earth) and lions, leopards and cheetahs (Big Cat Diary). This is an exciting opportunity to hear Simon speak about ask him questions about his work.  \nHagge Woods Trust was founded in 2013 with the creation of its flagship site Three Hagges Wood-Meadow near York.  The ecosystem and the wood-meadow community of volunteers and Friends are flourishing.  Without the invaluable support of many individuals, Trusts and Foundations, and businesses in the community, Hagge Woods Trust would be unable to sustain its ground-breaking work in restoring nature through the creation of wood-meadows and educating children and families about native nature and wildlife.  \nDrinks reception is included in the ticket price.\nSponsored by Andrew Jackson Solicitors LLP, CGA Accountants and Wrapped Brand and Digital Agency."
   url: https://www.eventbrite.co.uk/e/hagge-woods-trust-spring-lecture-simon-king-obe-tickets-54979222334?aff=ebapi
@@ -264,8 +264,27 @@
   starts: 2019-03-19T18:30:00.0000000
   ends: 2019-03-19T21:00:00.0000000
   venue: Merchant Adventurers' Hall
+- name: 'Air pollution: Local contexts, universal effects'
+  description: >-
+    Speaker: Dr Cressida Bowyer, University of Portsmouth
+
+    Global Health Histories Seminar 119
+
+    Air pollution represents a global problem, contributing to chronic illness and mortality. This seminar will examine the cultural drivers of increased air pollution and state and community-based responses to the problem.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/air-pollution-local-contexts-universal-effects-tickets-55761676676?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/56090833/22468345120/1/original.20190201-134049?h=200&w=450&auto=compress&rect=0,0,800,400&s=cc0d3e1b0c8a1804edd53a90d686f0d0
+  starts: 2019-03-06T12:30:00.0000000
+  ends: 2019-03-06T13:30:00.0000000
+  venue: Room RCH/017, Ron Cooke Hub
 - name: York 'Raspberry Pi' Big Birthday Weekend Jam 2019
-  description: "We will be taking part in the 2019 Big Birthday Weekend on the 2nd of March 2019. \nCome and celebrate with us by getting your free ticket, learning how to code and make some new projects. \nPlus, every birthday party needs birthday cake (donation welcome).\nWe also will have tea and coffee avaliable, please try to bring your own reusable cup though.\nAgain, our Jam’s are open to everyone, young or old, beginners or experts, basically come down and celebrate with us. \n\nWe are just organsing some workshops/talks. Keep an eye out on our website for the link to get workshop/talk tickets. You will still need a Child/Adult ticket.\n\nFAQs\n \nWhat are my transport/parking options for getting to and from the event?\nThere is a small, free on site carpark at Acomb Explore Library. \nHow can I contact the organiser with any questions?\nComplete the contact form on the home page of our website (yorkpijam.com).\nDo I have to bring my printed ticket to the event?\nIt can help, we can easily scan it. You can also show your tickets on your phone. If you can't bring a ticket, let us know your name and we can sign you in that way.\nWhat if I can't make the 11:30am start?\nDon't panic, turn up when you can.\n"
+  description: "We will be taking part in the 2019 Big Birthday Weekend on the 2nd of March 2019. \nCome and celebrate with us by getting your free ticket, learning how to code and make some new projects. \nPlus, every birthday party needs birthday cake (donation welcome).\nWe also will have tea and coffee avaliable, please try to bring your own reusable cup though.\nAgain, our Jam’s are open to everyone, young or old, beginners or experts, basically come down and celebrate with us. \nYou can read the Raspberry Pi Foundation's safeguarding policy here (http://rpf.io/safeguarding), in addition we also have the safeguarding policy on our website here (https://yorkpijam.com/index.php/safeguarding)\nWorkshops:\nTraffic Light Coding – Learn to code in Python and control traffic lights on the Raspberry Pi. Quite a challenging workshop and people may need to buddy up with others as we only have a limited amount of traffic lights.\nCoding For Beginners – Learn the basics of coding and code in Scratch, a child friendly programming language. This workshop is great for beginners and people who are unsure on what coding is.\nMake your own Cookie Clicker game in Scratch – Learn how to make your own “cookie clicker” style incremental game in Scratch 3.0. Cookie clicker games involve pressing something repeatedly and then buying upgrades to increase your clicking power. They all have no ending. We’ll have various scratch based examples ready for you to look at and learn from as well as code snippets and explanations at the start of the workshop.\n \nOne More Workshop To Be Confirmed\nTalk:\nLuke, from York Pi Jam, will be talking about the benefits of learning Scratch. This talk is perfect for parents/guardians who want to know why we should be encouraging children to learn to code. This talk is ticketed but it is free. When you sign in at the venue on the day ask for a talk ticket.\n\nFAQs\n \nWhat are my transport/parking options for getting to and from the event?\nThere is a small, free on site carpark at Acomb Explore Library. \nHow can I contact the organiser with any questions?\nComplete the contact form on the home page of our website (yorkpijam.com).\nDo I have to bring my printed ticket to the event?\nIt can help, we can easily scan it. You can also show your tickets on your phone. If you can't bring a ticket, let us know your name and we can sign you in that way.\nWhat if I can't make the 11:30am start?\nDon't panic, turn up when you can.\n"
   url: https://www.eventbrite.co.uk/e/york-raspberry-pi-big-birthday-weekend-jam-2019-tickets-52179108117?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/52230559/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=89a0be6c9ebb5823f65eac410a229341
@@ -306,25 +325,6 @@
   starts: 2019-02-22T10:00:00.0000000
   ends: 2019-02-22T11:30:00.0000000
   venue: FT113
-- name: 'Air pollution: Local contexts, universal effects'
-  description: >-
-    Speaker: Dr Cressida Bowyer, University of Portsmouth
-
-    Global Health Histories Seminar 119
-
-    Air pollution represents a global problem, contributing to chronic illness and mortality. This seminar will examine the cultural drivers of increased air pollution and state and community-based responses to the problem.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/air-pollution-local-contexts-universal-effects-tickets-55761676676?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/56090833/22468345120/1/original.20190201-134049?h=200&w=450&auto=compress&rect=0,0,800,400&s=cc0d3e1b0c8a1804edd53a90d686f0d0
-  starts: 2019-03-06T12:30:00.0000000
-  ends: 2019-03-06T13:30:00.0000000
-  venue: Room RCH/017, Ron Cooke Hub
 - name: 'WO4: Research & PhD writing (Wed 6th Feb 10:00-11:00)'
   description: >-
     These courses are for students and staff at York St John University. Also available to Alumni.
@@ -1338,6 +1338,13 @@
   starts: 2019-02-12T18:00:00.0000000
   ends: 2019-02-12T21:00:00.0000000
   venue: Lamberts yard,
+- name: Performance in the Javascript Era
+  description: '<p>More than just tips, tricks, metrics and clicks, from code to cloud and back again - performance on the web has gone way beyond "oh just put your CSS in the header and your Javascript in the footer".</p> <p>More often approached as an afterthought, this primer will cover some essential ground on how to approach measuring website and web app performance, along with some quick wins, through to some more lower-level technical nuances with HTTP2, compression, and header management, and finally putting all our tools together to comprehensively and continuously keep a watchful eye on your performance metrics.</p> <p>Topic will include ASP.NET and NodeJS samples, and slides &amp; code will be made available on Github well in advance.</p> <p>About the speaker:<br/>Benjamin Howarth is a freelance ASP.NET architect &amp; senior developer, specialising in open-source content management systems. His experience in high-scale high-performance websites has been a strength over the past 5 years, working for Tesco, FIA Formula E, Universal Music Group, and Manchester Airport Group. He can be found @benjaminhowarth on Twitter.</p> <p>About Hainton:<br/>Hainton are a specialist .NET Recruitment company based in Teesside. We host regular tech events across the North East and Yorkshire.</p> '
+  url: https://www.meetup.com/HaintonDotNetYorkshire/events/258618885/
+  is-free: true
+  starts: 2019-02-12T18:00:00.0000000
+  ends: 2019-02-12T20:00:00.0000000
+  venue: Duke Studios
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbrb/
