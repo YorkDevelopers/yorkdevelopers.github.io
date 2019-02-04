@@ -7,13 +7,6 @@
   ends: 2019-02-04T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
-- name: 'Digital Transformation: Leeds'
-  description: '<p>Please RSVP Via Eventbrite<br/><a href="https://www.eventbrite.co.uk/e/digital-transformation-leeds-tickets-54851735016" class="linkified">https://www.eventbrite.co.uk/e/digital-transformation-leeds-tickets-54851735016</a></p> <p>Please join us for the first of a series of Digital Transformation meet-ups in Leeds discussing the changing face of IT development and the latest digital transformation subjects. We aim to cover Software Engineering, Data Science, Design and Agile topics over the course of 2019.</p> <p>Confirmed speakers for the event are:</p> <p>Jason Lord, Scrum Master – “The Need for Transformation”. Both the banking and IT industries continue to evolve and with Lloyds Banking Group (LBG) being firmly across both they are no exception. In this session Jason will discuss why LBG recognised the need to transform how they deliver IT projects. Talking as Scrum Master, Jason will give overview of DevOps technologies the bank are using and will then discuss what DevOps means culturally and how adapting Scrum methodology supports the cultural changes required.</p> <p>Richard Bishop, Engineering - “Transforming Testing for DevOps at Lloyds Banking Group” In the race to deliver software projects more efficiently whilst maintaining quality, Lloyds Banking Group (LBG) development and testing needed to change. LBG software development has transformed from traditional centralised teams serving multiple projects to smaller, business-aligned, multi-disciplinary teams managing development and testing. By introducing DevOps, Agile and Performance Engineering principles across the group and combining traditional enterprise tools with open source, LBG has increased automation and reduced handovers between teams, in doing so has reduced software development costs and timescales. In this session, LBG will give an insight into their DevOps journey from a testing perspective; describing lessons learned as well as some of the difficulties that they faced during their transition.</p> <p>Doors open at 5.30pm in the Event Space at the excellent Duke Studios, 3 Sheaf Street, Leeds LS10 1HD, just an 8 minute walk from Leeds Train Station. Entry is by strictly by Eventbrite ticket only, so please ensure you register above and bring a printed or electronic copy.</p> <p>This is an informal event for local technology practitioners.</p> <p>This event is brought to you by Lloyds Banking Group Engineering #horsepower</p> '
-  url: https://www.meetup.com/Digital-Transformation-Leeds/events/258065782/
-  is-free: true
-  starts: 2019-02-04T17:30:00.0000000
-  ends: 2019-02-04T19:30:00.0000000
-  venue: Duke Studios
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbjb/
@@ -46,6 +39,13 @@
   starts: 2019-02-07T17:30:00.0000000
   ends: 2019-02-07T20:30:00.0000000
   venue: Enjoy Digital
+- name: Geek Lunch at Coffee Culture
+  description: "<p>Coffee Culture (<a href=\"https://www.facebook.com/41Goodramgate\" class=\"linkified\">https://www.facebook.com/41Goodramgate</a>) is one of the great coffee shops in York.</p> <p>We'll be meeting for lunch at 12:15 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat.</p> <p>This will be our first official meetup scheduled event however we normally chat on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>)</p> "
+  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/258654749/
+  is-free: true
+  starts: 2019-02-08T12:15:00.0000000
+  ends: 2019-02-08T13:15:00.0000000
+  venue: Coffee Culture
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyzdblb/
