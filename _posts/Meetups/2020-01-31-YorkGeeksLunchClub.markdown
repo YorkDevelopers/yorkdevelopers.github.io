@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "York Geeks Lunch Club"
-date:   2019-01-31 15:08:10 -0500
+date:   2020-01-31 15:08:10 -0500
 img: img/meetups/york_geeks_lunch_club_logo.png
 modalID: modalYorkGeeksLunchClub
 category: Meetup
