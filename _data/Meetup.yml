@@ -1,11 +1,3 @@
-- name: Umbraco Meetup
-  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>There will be 2 talks this month:</p> <p>Phil Whittaker - It's a just mail merge<br/>Jamie Taylor - Blazor - You Want To Run .NET Where?!</p> "
-  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzdbkb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2019-02-07T17:30:00.0000000
-  ends: 2019-02-07T20:30:00.0000000
-  venue: Enjoy Digital
 - name: Geek Lunch at Coffee Culture
   description: "<p>Coffee Culture (<a href=\"https://www.facebook.com/41Goodramgate\" class=\"linkified\">https://www.facebook.com/41Goodramgate</a>) is one of the great coffee shops in York.</p> <p>We'll be meeting for lunch at 12:15 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat.</p> <p>This will be our first official meetup scheduled event however we normally chat on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>)</p> "
   url: https://www.meetup.com/York-Geeks-Lunch-Club/events/258654749/
@@ -112,6 +104,22 @@
   starts: 2019-02-20T18:30:00.0000000
   ends: 2019-02-20T20:30:00.0000000
   venue: Platform
+- name: ACCU York [Feb 2019]
+  description: '<p>Talk #1 from Robin Stafford - Back to the Future: Developing in the eighties</p> <p>I started as a full time developer in 1986. The first versions of Windows and C++ had just been released. There was no Java, Linux or World Wide Web.<br/>This talk describes what developing was like then, what has changed, and what hasn’t. By looking at where we have come from we might get some pointers to where we are going.</p> <p>Talk #2 from Vishal Soomaney Vijaykumar - A technical introduction to Blockchain</p> <p>Interested in Blockchain as a technology but tired of all the hype surrounding it? This is a technical talk by the President of the York Blockchain Development and Research society explaining Blockchain and consensus algorithms as implemented in Bitcoin followed by an explanation of Smart Contracts as implemented in Ethereum.</p> <p>Many thanks to York Science Park (yorksciencepark.co.uk) for providing us a place to meet and the support of YorkDevelopers (yorkdevelopers.org)</p> '
+  url: https://www.meetup.com/ACCU-York/events/257704849/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/3/6/f/thumb_475438223.jpeg
+  starts: 2019-02-21T18:30:00.0000000
+  ends: 2019-02-21T20:00:00.0000000
+  venue: The Catalyst
+- name: CodeUp Leeds Meetup
+  description: "<p>FEBRUARY AGENDA</p> <p>* Web Development for Beginners: we will cover HTML and CSS, the two basic markup languages you need to build any website. PREREQUISITES: None.<br/>* The Developer's Toolset: what are the tools that a software or web developer uses to accomplish their day-to-day job? In this talk we'll give a whirlwind introduction to the command line, text editors, IDEs, debugging tools, version control and more. PREREQUISITES: None.<br/>* Learner-led 1-to-1 sessions as always!</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
+  url: https://www.meetup.com/CodeUp-Leeds/events/lfkxkqyzdbcc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
+  starts: 2019-02-21T18:45:00.0000000
+  ends: 2019-02-21T21:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzdbcc/
