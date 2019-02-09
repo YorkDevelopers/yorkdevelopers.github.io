@@ -276,14 +276,6 @@
   starts: 2019-05-08T13:00:00.0000000
   ends: 2019-05-08T14:00:00.0000000
   venue: University of York
-- name: York 'Raspberry Pi' Big Birthday Weekend Jam 2019
-  description: "We will be taking part in the 2019 Big Birthday Weekend on the 2nd of March 2019. \nCome and celebrate with us by getting your free ticket, learning how to code and make some new projects. \nPlus, every birthday party needs birthday cake (donation welcome).\nWe also will have tea and coffee avaliable, please try to bring your own reusable cup though.\nAgain, our Jam’s are open to everyone, young or old, beginners or experts, basically come down and celebrate with us. \nYou can read the Raspberry Pi Foundation's safeguarding policy here (http://rpf.io/safeguarding), in addition we also have the safeguarding policy on our website here (https://yorkpijam.com/index.php/safeguarding)\nWorkshops:\nTraffic Light Coding – Learn to code in Python and control traffic lights on the Raspberry Pi. Quite a challenging workshop and people may need to buddy up with others as we only have a limited amount of traffic lights.\nCoding For Beginners – Learn the basics of coding and code in Scratch, a child friendly programming language. This workshop is great for beginners and people who are unsure on what coding is.\nMake your own Cookie Clicker game in Scratch – Learn how to make your own “cookie clicker” style incremental game in Scratch 3.0. Cookie clicker games involve pressing something repeatedly and then buying upgrades to increase your clicking power. They all have no ending. We’ll have various scratch based examples ready for you to look at and learn from as well as code snippets and explanations at the start of the workshop.\n \nOne More Workshop To Be Confirmed\nTalk:\nLuke, from York Pi Jam, will be talking about the benefits of learning Scratch. This talk is perfect for parents/guardians who want to know why we should be encouraging children to learn to code. This talk is ticketed but it is free. When you sign in at the venue on the day ask for a talk ticket.\n\nFAQs\n \nWhat are my transport/parking options for getting to and from the event?\nThere is a small, free on site carpark at Acomb Explore Library. \nHow can I contact the organiser with any questions?\nComplete the contact form on the home page of our website (yorkpijam.com).\nDo I have to bring my printed ticket to the event?\nIt can help, we can easily scan it. You can also show your tickets on your phone. If you can't bring a ticket, let us know your name and we can sign you in that way.\nWhat if I can't make the 11:30am start?\nDon't panic, turn up when you can.\n"
-  url: https://www.eventbrite.co.uk/e/york-raspberry-pi-big-birthday-weekend-jam-2019-tickets-52179108117?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52230559/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=89a0be6c9ebb5823f65eac410a229341
-  starts: 2019-03-02T11:30:00.0000000
-  ends: 2019-03-02T14:30:00.0000000
-  venue: Acomb Explore Library
 - name: 'Wordpress1: Getting started with WordPress (22nd Feb 2019)'
   description: >+
     3LL207
@@ -318,6 +310,14 @@
   starts: 2019-02-22T10:00:00.0000000
   ends: 2019-02-22T11:30:00.0000000
   venue: FT113
+- name: York 'Raspberry Pi' Big Birthday Weekend Jam 2019
+  description: "We will be taking part in the 2019 Big Birthday Weekend on the 2nd of March 2019. \nCome and celebrate with us by getting your free ticket, learning how to code and make some new projects. \nPlus, every birthday party needs birthday cake (donation welcome).\nWe also will have tea and coffee avaliable, please try to bring your own reusable cup though.\nAgain, our Jam’s are open to everyone, young or old, beginners or experts, basically come down and celebrate with us. \nYou can read the Raspberry Pi Foundation's safeguarding policy here (http://rpf.io/safeguarding), in addition we also have the safeguarding policy on our website here (https://yorkpijam.com/index.php/safeguarding)\nWorkshops:\nTraffic Light Coding – Learn to code in Python and control traffic lights on the Raspberry Pi. Quite a challenging workshop and people may need to buddy up with others as we only have a limited amount of traffic lights.\nCoding For Beginners – Learn the basics of coding and code in Scratch, a child friendly programming language. This workshop is great for beginners and people who are unsure on what coding is.\nMake your own Cookie Clicker game in Scratch – Learn how to make your own “cookie clicker” style incremental game in Scratch 3.0. Cookie clicker games involve pressing something repeatedly and then buying upgrades to increase your clicking power. They all have no ending. We’ll have various scratch based examples ready for you to look at and learn from as well as code snippets and explanations at the start of the workshop.\n \nOne More Workshop To Be Confirmed\nTalk:\nLuke, from York Pi Jam, will be talking about the benefits of learning Scratch. This talk is perfect for parents/guardians who want to know why we should be encouraging children to learn to code. This talk is ticketed but it is free. When you sign in at the venue on the day ask for a talk ticket.\n\nFAQs\n \nWhat are my transport/parking options for getting to and from the event?\nThere is a small, free on site carpark at Acomb Explore Library. \nHow can I contact the organiser with any questions?\nComplete the contact form on the home page of our website (yorkpijam.com).\nDo I have to bring my printed ticket to the event?\nIt can help, we can easily scan it. You can also show your tickets on your phone. If you can't bring a ticket, let us know your name and we can sign you in that way.\nWhat if I can't make the 11:30am start?\nDon't panic, turn up when you can.\n"
+  url: https://www.eventbrite.co.uk/e/york-raspberry-pi-big-birthday-weekend-jam-2019-tickets-52179108117?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52230559/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=89a0be6c9ebb5823f65eac410a229341
+  starts: 2019-03-02T11:30:00.0000000
+  ends: 2019-03-02T14:30:00.0000000
+  venue: Acomb Explore Library
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -339,18 +339,69 @@
   logo: https://cdn.evbuc.com/images/55084867/225199386643/1/original.20190114-094421?h=200&w=450&auto=compress&rect=0,0,800,400&s=678fb15d74cbb952545fcb39af536e0b
   starts: 2019-03-27T12:00:00.0000000
   ends: 2019-03-27T13:30:00.0000000
-- name: 'WE1: Website CMS Basic training (Mon 11th Feb 10:00-12:00)'
+- name: STEMsational Women - Celebrating International Women's Day
   description: >-
-    These courses are for staff who have been approved by the website team only
+    In advance of International Women's Day join York St John University and Two Ridings Community Foundation for an inspirational, all-female panel discussion on the opportunities and challenges for women working within Science, Technology, Engineering and Maths (STEM) industries.
+
+    If you’re looking to kick-start a career in STEM, or are inquisitive about what it takes for women to succeed in STEM industries, then come along with your questions for our four STEMsational women!
+
+    Programme6.00pm - Event commences 6.15 - 7.30pm - Key professional panel event commences with open audience conversation and Q&A7.30 - 8.30pm - All guests are invited to a post event reception to carry on conversations and meet other professionals. Drinks and nibbles provided. As part of the post event reception there will be information on the launch of YSJ Womens Network.
+
+    Panellists Dr Claire Corps - Research Scientist in Transplant Technology, Leeds Teaching Hospital NHS Trust Annabel Jelley - Annabel Jelley, Enterprise Manager at York, North Yorks & East Riding LEP Catherine Dixon - Chief Executive Officer, Askham Bryam College Professor Deborah Smith - University of York, Pro Vice Chancellor for Research
+
+    Hosted by Jan Garrill and Professor Jane Rand
+
+    Two Ridings Community Foundation (Registered Charitable Incorporated Org no. 1166471) supports grassroots charities across North & East Yorkshire using generous donations from individuals, businesses and local & national charities. In 2019 the Foundation is supporting groups and events that celebrate the extra-ordinary achievements of women. For more information about our work go to www.tworidngscf.org.uk
+
+    Privacy Policy
+
+    York St John University will use the data you submit in Eventbrite for the purposes of administering this event. York St John University utilises third party software for data storage, tracking and analysis activity but your details will not be used by any of these third parties in order to contact you Any data you share with us will be used to help us improve your event experience and for event tracking and analysis activity within the University. 
+
+    We will only send you important information and reminders related to the event you have booked unless you tell us otherwise. During the booking process, if you opt in to receive emails about the latest events hosted and supported by York St John University, you consent to York St John University contacting you with relevant information.
+
+    If you no longer wish to hear from us you can opt out at any time by changing your contact preferences via the link in emails you receive from us or by contacting us: events@yorksj.ac.uk / 01904 876654.
+
+     
+  url: https://www.eventbrite.co.uk/e/stemsational-women-celebrating-international-womens-day-tickets-55161317987?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55585025/14297485693/1/original.20190123-134515?h=200&w=450&auto=compress&rect=0,59,1200,600&s=2dbd150d9dc68f92e34074a3be63b417
+  starts: 2019-03-07T18:00:00.0000000
+  ends: 2019-03-07T20:30:00.0000000
+  venue: Temple Hall
+- name: 'PS1: Photoshop Essentials inc. for website editors (Wed 13th Feb 15:00-16:00)'
+  description: >-
+    These courses are for students and staff at York St John University
 
 
-    WE1: Website CMS basics
+    PS1: Photoshop Essentials
 
     Prior knowledge: None
 
-    Introduction to the York St John University website content management system
+    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
 
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+    Understanding the workspace
+
+    Cropping existing images
+
+    Resizing images
+
+    Saving for the Web
+
+    Understanding image formats
+
+    Using filters and corrections
+
+    Using the text tool
+
+    Handling difficult shaped images
+
+    Compositing multiple images
+
+    Saving for different uses
+
+    Adding a background
+
 
 
     FAQ
@@ -370,11 +421,11 @@
     Do I have to bring my printed ticket to the event?
 
     No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-mon-11th-feb-1000-1200-tickets-53862968589?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-wed-13th-feb-1500-1600-tickets-53863875301?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/54093719/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=ca95b97c94f0a6df441dd63dc403ed66
-  starts: 2019-02-11T10:00:00.0000000
-  ends: 2019-02-11T12:00:00.0000000
+  logo: https://cdn.evbuc.com/images/54094428/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=c3578d637f1a0100197a542179e57ba9
+  starts: 2019-02-13T15:00:00.0000000
+  ends: 2019-02-13T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'AD1: Making accessible documents (Thur 7th Mar 10:00-11:00)'
   description: >+
@@ -487,65 +538,13 @@
   starts: 2019-02-22T14:00:00.0000000
   ends: 2019-02-22T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'PS1: Photoshop Essentials inc. for website editors (Wed 13th Feb 15:00-16:00)'
-  description: >-
-    These courses are for students and staff at York St John University
-
-
-    PS1: Photoshop Essentials
-
-    Prior knowledge: None
-
-    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
-
-
-    Understanding the workspace
-
-    Cropping existing images
-
-    Resizing images
-
-    Saving for the Web
-
-    Understanding image formats
-
-    Using filters and corrections
-
-    Using the text tool
-
-    Handling difficult shaped images
-
-    Compositing multiple images
-
-    Saving for different uses
-
-    Adding a background
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-wed-13th-feb-1500-1600-tickets-53863875301?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54094428/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=c3578d637f1a0100197a542179e57ba9
-  starts: 2019-02-13T15:00:00.0000000
-  ends: 2019-02-13T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'Tech York '
+  description: "WHO ARE WE? \nWe are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.  This event is kindly sponsored by Piksel keeping the cost for you to attend low!\nWHAT WILL WE DO?\nWe will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.\nAnyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech York events.\nPROGRAMME\n1730     Drinks & Networking\n1800     Welcome - Heather Niven Science CIty York\n1810     Piksel (Mark Harrison)\n1830     The Distance (Jessica Mowatt)\n1850     AP16 (Colin SInclair)\n1910     Women in Tech  (Rebecca Rafferty)\n1930    Food and Networking\n2030    Close"
+  url: https://www.eventbrite.co.uk/e/tech-york-tickets-31123957595?aff=ebapi
+  logo: https://cdn.evbuc.com/images/56483058/2762975383/1/original.20190208-133123?h=200&w=450&auto=compress&rect=0,0,1600,800&s=cfea3ac703933d8e7f8f5eaa3a0421c5
+  starts: 2019-02-27T17:30:00.0000000
+  ends: 2019-02-27T20:30:00.0000000
+  venue: Kennedy's Bar
 - name: 'AD1: Making accessible documents (Mon 11th Feb 15:00-16:00)'
   description: >+
     These courses are for students and staff at York St John University. 
@@ -669,43 +668,6 @@
   starts: 2019-12-04T08:00:00.0000000
   ends: 2019-12-05T17:00:00.0000000
   venue: Park Inn by Radisson York City Centre
-- name: STEMsational Women - Celebrating International Women's Day
-  description: >-
-    In advance of International Women's Day join York St John University and Two Ridings Community Foundation for an inspirational, all-female panel discussion on the opportunities and challenges for women working within Science, Technology, Engineering and Maths (STEM) industries.
-
-    If you’re looking to kick-start a career in STEM, or are inquisitive about what it takes for women to succeed in STEM industries, then come along with your questions for our four STEMsational women!
-
-    Programme6.00pm - Event commences 6.15 - 7.30pm - Key professional panel event commences with open audience conversation and Q&A7.30 - 8.30pm - All guests are invited to a post event reception to carry on conversations and meet other professionals. Drinks and nibbles provided. As part of the post event reception there will be information on the launch of YSJ Womens Network.
-
-    Panellists Dr Claire Corps - Research Scientist in Transplant Technology, Leeds Teaching Hospital NHS Trust Annabel Jelley - Annabel Jelley, Enterprise Manager at York, North Yorks & East Riding LEP Catherine Dixon - Chief Executive Officer, Askham Bryam College Professor Deborah Smith - University of York, Pro Vice Chancellor for Research
-
-    Hosted by Jan Garrill and Professor Jane Rand
-
-    Two Ridings Community Foundation (Registered Charitable Incorporated Org no. 1166471) supports grassroots charities across North & East Yorkshire using generous donations from individuals, businesses and local & national charities. In 2019 the Foundation is supporting groups and events that celebrate the extra-ordinary achievements of women. For more information about our work go to www.tworidngscf.org.uk
-
-    Privacy Policy
-
-    York St John University will use the data you submit in Eventbrite for the purposes of administering this event. York St John University utilises third party software for data storage, tracking and analysis activity but your details will not be used by any of these third parties in order to contact you Any data you share with us will be used to help us improve your event experience and for event tracking and analysis activity within the University. 
-
-    We will only send you important information and reminders related to the event you have booked unless you tell us otherwise. During the booking process, if you opt in to receive emails about the latest events hosted and supported by York St John University, you consent to York St John University contacting you with relevant information.
-
-    If you no longer wish to hear from us you can opt out at any time by changing your contact preferences via the link in emails you receive from us or by contacting us: events@yorksj.ac.uk / 01904 876654.
-
-     
-  url: https://www.eventbrite.co.uk/e/stemsational-women-celebrating-international-womens-day-tickets-55161317987?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/55585025/14297485693/1/original.20190123-134515?h=200&w=450&auto=compress&rect=0,59,1200,600&s=2dbd150d9dc68f92e34074a3be63b417
-  starts: 2019-03-07T18:00:00.0000000
-  ends: 2019-03-07T20:30:00.0000000
-  venue: Temple Hall
-- name: Thinking, Teaching and Doing Green at the Department of Chemistry
-  description: Find out more about the research, teaching and sustainable practices in place within Green Chemistry Centre of Excellence
-  url: https://www.eventbrite.co.uk/e/thinking-teaching-and-doing-green-at-the-department-of-chemistry-tickets-55898744650?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/56200015/286069588147/1/original.20190204-121229?h=200&w=450&auto=compress&rect=0,0,638,319&s=24070c368ea4092a01c21b8697ac391d
-  starts: 2019-02-13T10:30:00.0000000
-  ends: 2019-02-13T12:00:00.0000000
-  venue: C/B/102 (Chemistry Building, B-block room 102)
 - name: Clean Air Day- air pollution and York
   description: >-
     This event will consist of a series of talks exploring research at the University of York into air pollution. This will be followed by interactive sessions, allowing the audience to ask the researchers their burning questions and gain ideas about what they can do for Clean Air Day on the 20th June 2019. This event is open to the public and University of York staff and students.
@@ -738,6 +700,14 @@
   starts: 2019-06-13T18:00:00.0000000
   ends: 2019-06-14T19:30:00.0000000
   venue: ARC/014 Alan Maynard Auditorium
+- name: Thinking, Teaching and Doing Green at the Department of Chemistry
+  description: Find out more about the research, teaching and sustainable practices in place within Green Chemistry Centre of Excellence
+  url: https://www.eventbrite.co.uk/e/thinking-teaching-and-doing-green-at-the-department-of-chemistry-tickets-55898744650?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/56200015/286069588147/1/original.20190204-121229?h=200&w=450&auto=compress&rect=0,0,638,319&s=24070c368ea4092a01c21b8697ac391d
+  starts: 2019-02-13T10:30:00.0000000
+  ends: 2019-02-13T12:00:00.0000000
+  venue: C/B/102 (Chemistry Building, B-block room 102)
 - name: 'PS2: Layers and cutting out (Tue 19th Feb 14:30-15:30)'
   description: >-
     These courses are for students and staff at York St John University
