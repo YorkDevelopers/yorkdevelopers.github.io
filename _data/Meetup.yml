@@ -1,29 +1,3 @@
-- name: York Code Dojo Feb Meetup - Interview Problems
-  description: '<p>This month we work in pairs on some sample interview style coding problems. The session will be suitable for people of any ability. If possible please bring a laptop with your programming languages of choice already installed. NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/258667065/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2019-02-13T18:30:00.0000000
-  ends: 2019-02-13T21:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbrb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-02-13T07:00:00.0000000
-  ends: 2019-02-13T10:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzdbrb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-02-13T08:00:00.0000000
-  ends: 2019-02-13T11:00:00.0000000
-  venue: La Bottega Milanese
 - name: Geek Lunch at Circles Cafe
   description: "<p>Circles Cafe (<a href=\"http://circlescafe.co.uk/\" class=\"linkified\">http://circlescafe.co.uk/</a>) is a quaint family run coffee shop, with a garden area (which might be a little cold) over the river Ouse and great views of York.</p> <p>Menu: <a href=\"https://circlescafe.co.uk/index.php/our-menu\" class=\"linkified\">https://circlescafe.co.uk/index.php/our-menu</a></p> <p>We'll be meeting for lunch at 12:15 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>This will be our first official meetup scheduled event however we normally chat on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>)</p> "
   url: https://www.meetup.com/York-Geeks-Lunch-Club/events/258893858/
@@ -55,6 +29,14 @@
   starts: 2019-02-19T12:15:00.0000000
   ends: 2019-02-19T12:45:00.0000000
   venue: Banyan Bar Leeds
+- name: 'YorkSwift Monthly Meetup  #008 - Feb - Codable'
+  description: "<p>This month we are trying again to look at the very useful Codable protocol. It can be used for decoding API JSON and mapping to your classes, or encoding for view data in templates files.</p> <p><a href=\"https://developer.apple.com/documentation/swift/codable\" class=\"linkified\">https://developer.apple.com/documentation/swift/codable</a></p> <p>## Agenda</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - Codable, Encodable &amp; Decodable</p> <p>Lets run through some example playgrounds, learn how to manipulate your data in some basic use case scenarios.</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
+  url: https://www.meetup.com/YorkSwift/events/258882365/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/7/9/c/thumb_472007004.jpeg
+  starts: 2019-02-19T19:00:00.0000000
+  ends: 2019-02-19T21:00:00.0000000
+  venue: The Coffee Bureau
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbbc/
@@ -122,6 +104,30 @@
   ends: 2019-02-27T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzdbkc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-02-27T08:00:00.0000000
+  ends: 2019-02-27T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: Tales From The Cloud
+  description: '<p>Javascript has broken free from the confines of web browsers!</p> <p>Now it’s a compelling fullstack language choice; thanks to its lightweight and efficient runtime, huge developer community and wealth of tooling and libraries.</p> <p>In this talk, we’ll discuss the journey so far, what’s so good about it, and how you can successfully ride this wave all the way to production.</p> <p>The issue of security runs deep in many organisations. Covered in this topic are pentesting and the staged approach to this plus some ‘real life’ examples of companies (and consumers) that have been fooled and the tactics used. Also covering what you can do to stay safe and keep on the right side of the law!</p> <p>This event is free, no ticket required.</p> <p><a href="https://www.eventbrite.co.uk/e/tales-from-the-cloud-tickets-54693694312?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=esli&amp;utm-source=li&amp;utm-term=listing" class="linkified">https://www.eventbrite.co.uk/e/tales-from-the-cloud-tickets-54693694312?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=esli&amp;utm-source=li&amp;utm-term=listing</a></p> '
+  url: https://www.meetup.com/Harrogate-Cloud-Technology/events/258496153/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/9/5/9/thumb_478235161.jpeg
+  starts: 2019-02-27T18:30:00.0000000
+  ends: 2019-02-27T20:30:00.0000000
+  venue: 2 Cardale Park
+- name: February - Luke Bonaccorsi & Wade Penistone
+  description: "<p>PLEASE NOTE: RSVPs will be opened on the 20th!</p> <p>Join us to hear from Luke Bonaccorsi and Wade Penistone, as well as a chance to win a code for a year subscription for a Jetbrains toolbox product of your choice and a chance to win a ticket for the FrontendNE 2019 conference!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Luke Bonaccorsi (@CodeFoodPixels) - Coding Is Serious Business<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Wade Penistone (@PenistoneWade) - Mindstack<br/>8:20 - 9:00: Social &amp; point that people can leave<br/>--------------<br/>Talks:</p> <p>Luke Bonaccorsi (@CodeFoodPixels) - Coding Is Serious Business<br/>Coding is serious business. Except it isn't. Code gives us the power to unleash our creative potential in new and interesting ways, whether that’s making interactive art, creating live music and visualisations, building games or even adding joyful flourishes on a web app.</p> <p>In this talk, I’ll show that our code doesn’t just have to be for building boring applications. Using real examples, I’ll talk about some ways that we can bring creativity into our coding projects, as well as ways for us to share our knowledge and why it’s important that we do. By the end, I hope to have inspired you to bring creativity into your projects and given you the enthusiasm to share your knowledge.</p> <p>Wade Penistone (@PenistoneWade) - Mindstack<br/>Bots, machine learning and AI are hot topics in the industry at the moment. The skillsets are in demand and there is plenty of resources for learning. Lots of people now also use voice assistants and helpdesk automated facilities.</p> <p>However developing for these is still a very vague and improvised strategy, with tools and frameworks only offering a limited scope and most of us as web developers unaware on the layers of compexity involved in creating an effective AI.</p> <p>Join me for what I believe is a solution to this problem, aimed at simplifying and consolidating the code needed in an nice and easy to use package/ecosystem.</p> <p>--------------<br/>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href=\"https://leedsjs.github.io/code-of-conduct/\" class=\"linkified\">https://leedsjs.github.io/code-of-conduct/</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/258788292/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2019-02-27T18:45:00.0000000
+  ends: 2019-02-27T21:00:00.0000000
+  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbgb/
@@ -565,6 +571,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-08-05T06:00:00.0000000
   ends: 2019-08-05T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbkb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-08-07T06:00:00.0000000
+  ends: 2019-08-07T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
