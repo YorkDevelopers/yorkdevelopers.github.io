@@ -90,14 +90,6 @@
   starts: 2019-02-20T19:30:00.0000000
   ends: 2019-02-20T20:30:00.0000000
   venue: Bowland Auditorium
-- name: Viking Cluster Launch
-  description: An afternoon of talks to launch the University of York's new high performance compute cluster, Viking
-  url: https://www.eventbrite.co.uk/e/viking-cluster-launch-registration-54844128264?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/55084504/288439455905/1/original.20190114-093225?h=200&w=450&auto=compress&rect=0,556,2438,1219&s=5f2ac4ff0e1bb650abe8f507bc102685
-  starts: 2019-02-14T14:00:00.0000000
-  ends: 2019-02-14T18:00:00.0000000
-  venue: Bowland Auditorium, Berrick Saul Building
 - name: Regulations around Blockchain in Industry (Panel Discussion)
   description: Four distinguished speakers in the Blockchain space discuss and debate the regulations around Blockchain and it's applications in industry!
   url: https://www.eventbrite.co.uk/e/regulations-around-blockchain-in-industry-panel-discussion-tickets-55213105886?aff=ebapi
@@ -257,6 +249,20 @@
   starts: 2019-05-08T13:00:00.0000000
   ends: 2019-05-08T14:00:00.0000000
   venue: University of York
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-51655891161?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
+  starts: 2019-02-14T18:30:00.0000000
+  ends: 2019-02-14T19:30:00.0000000
 - name: 'Wordpress1: Getting started with WordPress (22nd Feb 2019)'
   description: >+
     3LL207
@@ -291,20 +297,6 @@
   starts: 2019-02-22T10:00:00.0000000
   ends: 2019-02-22T11:30:00.0000000
   venue: FT113
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-51655891161?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
-  starts: 2019-02-14T18:30:00.0000000
-  ends: 2019-02-14T19:30:00.0000000
 - name: York 'Raspberry Pi' Big Birthday Weekend Jam 2019
   description: "We will be taking part in the 2019 Big Birthday Weekend on the 2nd of March 2019. \nCome and celebrate with us by getting your free ticket, learning how to code and make some new projects. \nPlus, every birthday party needs birthday cake (donation welcome).\nWe also will have tea and coffee avaliable, please try to bring your own reusable cup though.\nAgain, our Jam’s are open to everyone, young or old, beginners or experts, basically come down and celebrate with us. \nYou can read the Raspberry Pi Foundation's safeguarding policy here (http://rpf.io/safeguarding), in addition we also have the safeguarding policy on our website here (https://yorkpijam.com/index.php/safeguarding)\nWorkshops:\nTraffic Light Coding – Learn to code in Python and control traffic lights on the Raspberry Pi. Quite a challenging workshop and people may need to buddy up with others as we only have a limited amount of traffic lights.\nCoding For Beginners – Learn the basics of coding and code in Scratch, a child friendly programming language. This workshop is great for beginners and people who are unsure on what coding is.\nMake your own Cookie Clicker game in Scratch – Learn how to make your own “cookie clicker” style incremental game in Scratch 3.0. Cookie clicker games involve pressing something repeatedly and then buying upgrades to increase your clicking power. They all have no ending. We’ll have various scratch based examples ready for you to look at and learn from as well as code snippets and explanations at the start of the workshop.\n \nOne More Workshop To Be Confirmed\nTalk:\nLuke, from York Pi Jam, will be talking about the benefits of learning Scratch. This talk is perfect for parents/guardians who want to know why we should be encouraging children to learn to code. This talk is ticketed but it is free. When you sign in at the venue on the day ask for a talk ticket.\n\nFAQs\n \nWhat are my transport/parking options for getting to and from the event?\nThere is a small, free on site carpark at Acomb Explore Library. \nHow can I contact the organiser with any questions?\nComplete the contact form on the home page of our website (yorkpijam.com).\nDo I have to bring my printed ticket to the event?\nIt can help, we can easily scan it. You can also show your tickets on your phone. If you can't bring a ticket, let us know your name and we can sign you in that way.\nWhat if I can't make the 11:30am start?\nDon't panic, turn up when you can.\n"
   url: https://www.eventbrite.co.uk/e/york-raspberry-pi-big-birthday-weekend-jam-2019-tickets-52179108117?aff=ebapi
@@ -313,14 +305,6 @@
   starts: 2019-03-02T11:30:00.0000000
   ends: 2019-03-02T14:30:00.0000000
   venue: Acomb Explore Library
-- name: Thinking, Teaching and Doing Green at the Department of Chemistry
-  description: Find out more about the research, teaching and sustainable practices in place within Green Chemistry Centre of Excellence
-  url: https://www.eventbrite.co.uk/e/thinking-teaching-and-doing-green-at-the-department-of-chemistry-tickets-55898744650?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/56200015/286069588147/1/original.20190204-121229?h=200&w=450&auto=compress&rect=0,0,638,319&s=24070c368ea4092a01c21b8697ac391d
-  starts: 2019-02-13T10:30:00.0000000
-  ends: 2019-02-13T12:00:00.0000000
-  venue: C/B/102 (Chemistry Building, B-block room 102)
 - name: 'STEMsational Women '
   description: >-
     In advance of International Women's Day join York St John University and Two Ridings Community Foundation for an inspirational, all-female panel discussion on the opportunities and challenges for women working within Science, Technology, Engineering and Maths (STEM) industries.
@@ -350,13 +334,13 @@
   starts: 2019-03-07T18:00:00.0000000
   ends: 2019-03-07T20:30:00.0000000
   venue: Temple Hall
-- name: 'Tech York '
-  description: "WHO ARE WE? \nWe are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.  This event is kindly sponsored by Piksel keeping the cost for you to attend low!\nWHAT WILL WE DO?\nWe will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.\nAnyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech York events.\nPROGRAMME\n1730     Drinks & Networking\n1800     Welcome - Heather Niven Science CIty York\n1810     Piksel (Mark Harrison)\n1830     The Distance (Jessica Mowatt)\n1850     AP16 (Colin SInclair)\n1910     Women in Tech  (Rebecca Rafferty)\n1930    Food and Networking\n2030    Close"
-  url: https://www.eventbrite.co.uk/e/tech-york-tickets-31123957595?aff=ebapi
-  logo: https://cdn.evbuc.com/images/56483058/2762975383/1/original.20190208-133123?h=200&w=450&auto=compress&rect=0,0,1600,800&s=cfea3ac703933d8e7f8f5eaa3a0421c5
-  starts: 2019-02-27T17:30:00.0000000
-  ends: 2019-02-27T20:30:00.0000000
-  venue: Kennedy's Bar
+- name: Global pollution in urban environments
+  description: "During this lunchtime seminar, researchers at the University of York will discuss their research into global pollution in urban environments. Confirmed speakers include Dr. Harry Vallack from the Stockholm Environment Institute and Dr. Adam Vaughan from the Wolfson Atmospheric Chemistry Laboratories (WACL).\nDr. Harry Vallack, Senior Research Asoociate for Stockholm Environment Institute in York (SEI-Y)\nHarry Vallack is an ecologist specialising in air pollutant emissions inventories, carbon dynamics of plant/soil systems, ambient dust pollution monitoring and issues relating to persistent organic pollutants (POPs).\nHarry has over 25 years experience working on various aspects of air pollution at scales ranging from local to global. This has included capacity building within non-OECD countries (including developing of suitable manuals/software) for the preparation of air pollutant emissions inventories, producing air pollution emission scenario projections for developing country regions.\nHarry’s current research interests concern short-lived climate pollutants (SLCPs), global change ecology, soil carbon dynamics and capacity building for emissions inventory preparation in developing countries. In the process of this research, he has developed software tools to enable developing countries to compile air pollutant emission inventories. More recently he has helped develop a tool to assist countries prioritise alternative SLCP mitigation strategies, going from emissions estimates through to likely impacts on human health crop production and climate.\nDr. Adam Vaughan, Postdoctoral Researcher at the Wolfson Atmospheric Chemistry Laboratories (WACL)\nAdam is a postdoctoral researcher at the Wolfson Atmospheric Chemistry Laboratories (WACL) since 2017, specialising in urban emission measurements. WACL is the UK’s first dedicated laboratory building for atmospheric chemistry research. Adam obtained his Master’s in Chemistry from the University of Hull in 2013, and his PhD in Chemistry from the University of York in 2017, working with Prof. James Lee and Prof. Lucy Carpenter. His PhD focused on assessing UK emissions from a low flying aircraft. His work led to the first direct assessment of Greater London emissions from an aircraft through eddy-covariance, highlighting that London’s NOx emissions were being underestimated in the National Inventory. Since completing his PhD, Adam has developed a range of techniques for assessing urban emissions through enhanced eddy-covariance methodologies. He has made air quality measurements on multiple global field campaigns and more recently led research in New Delhi measuring vehicle emissions through remote sensing techniques.\nHealth in Urban Environments Event Series\nThe event forms part of the Health in Urban Environments Series where the York Environmental Sustainability Institute (YESI), Stockholm Environment Institute (SEI), Interdisciplinary Global Development Centre (IGDC), Wolfson Atmospheric Chemistry Laboratories (WACL) and several Research Champions are joining forces to host an event series to explore Urban Living-related research and innovation at the University of York.\nThrough a series of workshops, lunchtime seminar, full day events and discussion sessions, we will gain insight into the historical development of the world’s cities and the social and environmental consequences of urbanisation.\nBy bringing together the social, physical and life sciences we will be able to explore this topic from many angles and celebrate the interdisciplinary nature of research at the University of York.\nThe series, which will begin in January and conclude in June in alignment with Clean Air Day, will be open to researchers, staff and students at the University of York. \nEvents in the series:\nExploring transport in an African city context: 12:00-14:00, 22nd January 2019\nGlobal pollution in urban environments: 12:00-13:30, 27th March 2019\nTransforming urban infrastructure: the role of religion and communities in urbanisation in Africa: 12:00-13:30, 11th April 2019\nMental health in urban environments: 9:30-12:30, 2nd May 2019\nClean Air Day- air pollution and York: 9:00-17:00, 13th June 2019"
+  url: https://www.eventbrite.co.uk/e/global-pollution-in-urban-environments-tickets-53815418365?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55084867/225199386643/1/original.20190114-094421?h=200&w=450&auto=compress&rect=0,0,800,400&s=678fb15d74cbb952545fcb39af536e0b
+  starts: 2019-03-27T12:00:00.0000000
+  ends: 2019-03-27T13:30:00.0000000
 - name: 'AD1: Making accessible documents (Thur 7th Mar 10:00-11:00)'
   description: >+
     These courses are for students and staff at York St John University. 
@@ -415,72 +399,13 @@
   starts: 2019-03-07T10:00:00.0000000
   ends: 2019-03-07T11:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Global pollution in urban environments
-  description: "During this lunchtime seminar, researchers at the University of York will discuss their research into global pollution in urban environments. Confirmed speakers include Dr. Harry Vallack from the Stockholm Environment Institute and Dr. Adam Vaughan from the Wolfson Atmospheric Chemistry Laboratories (WACL).\nDr. Harry Vallack, Senior Research Asoociate for Stockholm Environment Institute in York (SEI-Y)\nHarry Vallack is an ecologist specialising in air pollutant emissions inventories, carbon dynamics of plant/soil systems, ambient dust pollution monitoring and issues relating to persistent organic pollutants (POPs).\nHarry has over 25 years experience working on various aspects of air pollution at scales ranging from local to global. This has included capacity building within non-OECD countries (including developing of suitable manuals/software) for the preparation of air pollutant emissions inventories, producing air pollution emission scenario projections for developing country regions.\nHarry’s current research interests concern short-lived climate pollutants (SLCPs), global change ecology, soil carbon dynamics and capacity building for emissions inventory preparation in developing countries. In the process of this research, he has developed software tools to enable developing countries to compile air pollutant emission inventories. More recently he has helped develop a tool to assist countries prioritise alternative SLCP mitigation strategies, going from emissions estimates through to likely impacts on human health crop production and climate.\nDr. Adam Vaughan, Postdoctoral Researcher at the Wolfson Atmospheric Chemistry Laboratories (WACL)\nAdam is a postdoctoral researcher at the Wolfson Atmospheric Chemistry Laboratories (WACL) since 2017, specialising in urban emission measurements. WACL is the UK’s first dedicated laboratory building for atmospheric chemistry research. Adam obtained his Master’s in Chemistry from the University of Hull in 2013, and his PhD in Chemistry from the University of York in 2017, working with Prof. James Lee and Prof. Lucy Carpenter. His PhD focused on assessing UK emissions from a low flying aircraft. His work led to the first direct assessment of Greater London emissions from an aircraft through eddy-covariance, highlighting that London’s NOx emissions were being underestimated in the National Inventory. Since completing his PhD, Adam has developed a range of techniques for assessing urban emissions through enhanced eddy-covariance methodologies. He has made air quality measurements on multiple global field campaigns and more recently led research in New Delhi measuring vehicle emissions through remote sensing techniques.\nHealth in Urban Environments Event Series\nThe event forms part of the Health in Urban Environments Series where the York Environmental Sustainability Institute (YESI), Stockholm Environment Institute (SEI), Interdisciplinary Global Development Centre (IGDC), Wolfson Atmospheric Chemistry Laboratories (WACL) and several Research Champions are joining forces to host an event series to explore Urban Living-related research and innovation at the University of York.\nThrough a series of workshops, lunchtime seminar, full day events and discussion sessions, we will gain insight into the historical development of the world’s cities and the social and environmental consequences of urbanisation.\nBy bringing together the social, physical and life sciences we will be able to explore this topic from many angles and celebrate the interdisciplinary nature of research at the University of York.\nThe series, which will begin in January and conclude in June in alignment with Clean Air Day, will be open to researchers, staff and students at the University of York. \nEvents in the series:\nExploring transport in an African city context: 12:00-14:00, 22nd January 2019\nGlobal pollution in urban environments: 12:00-13:30, 27th March 2019\nTransforming urban infrastructure: the role of religion and communities in urbanisation in Africa: 12:00-13:30, 11th April 2019\nMental health in urban environments: 9:30-12:30, 2nd May 2019\nClean Air Day- air pollution and York: 9:00-17:00, 13th June 2019"
-  url: https://www.eventbrite.co.uk/e/global-pollution-in-urban-environments-tickets-53815418365?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/55084867/225199386643/1/original.20190114-094421?h=200&w=450&auto=compress&rect=0,0,800,400&s=678fb15d74cbb952545fcb39af536e0b
-  starts: 2019-03-27T12:00:00.0000000
-  ends: 2019-03-27T13:30:00.0000000
-- name: 'PS1: Photoshop Essentials inc. for website editors (Wed 13th Feb 15:00-16:00)'
-  description: >-
-    These courses are for students and staff at York St John University
-
-
-    PS1: Photoshop Essentials
-
-    Prior knowledge: None
-
-    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
-
-
-    Understanding the workspace
-
-    Cropping existing images
-
-    Resizing images
-
-    Saving for the Web
-
-    Understanding image formats
-
-    Using filters and corrections
-
-    Using the text tool
-
-    Handling difficult shaped images
-
-    Compositing multiple images
-
-    Saving for different uses
-
-    Adding a background
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-wed-13th-feb-1500-1600-tickets-53863875301?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54094428/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=c3578d637f1a0100197a542179e57ba9
-  starts: 2019-02-13T15:00:00.0000000
-  ends: 2019-02-13T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'Tech York '
+  description: "WHO ARE WE? \nWe are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.  This event is kindly sponsored by Piksel keeping the cost for you to attend low!\nWHAT WILL WE DO?\nWe will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.\nAnyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech York events.\nPROGRAMME\n1730     Drinks & Networking\n1800     Welcome - Heather Niven Science CIty York\n1810     Piksel (Mark Harrison)\n1830     The Distance (Jessica Mowatt)\n1850     AP16 (Colin SInclair)\n1910     Women in Tech  (Rebecca Rafferty)\n1930    Food and Networking\n2030    Close"
+  url: https://www.eventbrite.co.uk/e/tech-york-tickets-31123957595?aff=ebapi
+  logo: https://cdn.evbuc.com/images/56483058/2762975383/1/original.20190208-133123?h=200&w=450&auto=compress&rect=0,0,1600,800&s=cfea3ac703933d8e7f8f5eaa3a0421c5
+  starts: 2019-02-27T17:30:00.0000000
+  ends: 2019-02-27T20:30:00.0000000
+  venue: Kennedy's Bar
 - name: 'Test York: Bring your problems & projects!'
   description: "Welcome to Test York's second event: Bring a project or problem!"
   url: https://www.eventbrite.co.uk/e/test-york-bring-your-problems-projects-tickets-56406502367?aff=ebapi
@@ -600,6 +525,14 @@
   starts: 2019-02-22T14:00:00.0000000
   ends: 2019-02-22T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Looking for Aliens in a Galaxy Far Far Away...
+  description: "Join us at the Astrocampus as we discuss the likelihood of life existing around the planet Tatooine: The childhood home of Luke Skywalker in Star Wars. This fictional planet is noted for having not one, but two Sun's in its sky. Could such a planet exist in real life? PLUS try hands-on activities, take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes."
+  url: https://www.eventbrite.co.uk/e/looking-for-aliens-in-a-galaxy-far-far-away-tickets-55974927515?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/56282868/133368849299/1/original.20190205-160054?h=200&w=450&auto=compress&rect=0,100,800,400&s=ca5dbc49bf2c643e6078c67777a3290d
+  starts: 2019-03-14T18:30:00.0000000
+  ends: 2019-03-14T19:30:00.0000000
+  venue: Astrocampus
 - name: The 7th International Cardiovascular Genomic Medicine Conference
   description: >2
 
@@ -667,43 +600,6 @@
   starts: 2019-06-13T18:00:00.0000000
   ends: 2019-06-14T19:30:00.0000000
   venue: ARC/014 Alan Maynard Auditorium
-- name: 'WE1: Website CMS Basic training (Mon 4th Mar 14:00-16:00)'
-  description: >-
-    These courses are for staff who have been approved by the website team only
-
-
-    WE1: Website CMS basics
-
-    Prior knowledge: None
-
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-mon-4th-mar-1400-1600-tickets-53863023754?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54093787/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=3d3e8a491f01c2ff7db40cf842bca0c2
-  starts: 2019-03-04T14:00:00.0000000
-  ends: 2019-03-04T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'PS1: Photoshop Essentials inc. for website editors (Tue 5th Mar 10:00-11:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -762,6 +658,43 @@
   logo: https://cdn.evbuc.com/images/54094169/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=8693665475deaa59ff729abdb290a71f
   starts: 2019-03-05T10:00:00.0000000
   ends: 2019-03-05T11:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'WE1: Website CMS Basic training (Mon 4th Mar 14:00-16:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-mon-4th-mar-1400-1600-tickets-53863023754?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/54093787/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=3d3e8a491f01c2ff7db40cf842bca0c2
+  starts: 2019-03-04T14:00:00.0000000
+  ends: 2019-03-04T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'PS2: Layers and cutting out (Tue 19th Feb 14:30-15:30)'
   description: >-
@@ -1203,32 +1136,6 @@
   starts: 2019-06-24T09:30:00.0000000
   ends: 2019-06-25T16:00:00.0000000
   venue: Spring Lane Building
-- name: York Code Dojo Feb Meetup - Interview Problems
-  description: '<p>This month we work in pairs on some sample interview style coding problems. The session will be suitable for people of any ability. If possible please bring a laptop with your programming languages of choice already installed. NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/258667065/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2019-02-13T18:30:00.0000000
-  ends: 2019-02-13T21:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbrb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-02-13T07:00:00.0000000
-  ends: 2019-02-13T10:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzdbrb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-02-13T08:00:00.0000000
-  ends: 2019-02-13T11:00:00.0000000
-  venue: La Bottega Milanese
 - name: Geek Lunch at Circles Cafe
   description: "<p>Circles Cafe (<a href=\"http://circlescafe.co.uk/\" class=\"linkified\">http://circlescafe.co.uk/</a>) is a quaint family run coffee shop, with a garden area (which might be a little cold) over the river Ouse and great views of York.</p> <p>Menu: <a href=\"https://circlescafe.co.uk/index.php/our-menu\" class=\"linkified\">https://circlescafe.co.uk/index.php/our-menu</a></p> <p>We'll be meeting for lunch at 12:15 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>This will be our first official meetup scheduled event however we normally chat on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>)</p> "
   url: https://www.meetup.com/York-Geeks-Lunch-Club/events/258893858/
@@ -1260,6 +1167,14 @@
   starts: 2019-02-19T12:15:00.0000000
   ends: 2019-02-19T12:45:00.0000000
   venue: Banyan Bar Leeds
+- name: 'YorkSwift Monthly Meetup  #008 - Feb - Codable'
+  description: "<p>This month we are trying again to look at the very useful Codable protocol. It can be used for decoding API JSON and mapping to your classes, or encoding for view data in templates files.</p> <p><a href=\"https://developer.apple.com/documentation/swift/codable\" class=\"linkified\">https://developer.apple.com/documentation/swift/codable</a></p> <p>## Agenda</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - Codable, Encodable &amp; Decodable</p> <p>Lets run through some example playgrounds, learn how to manipulate your data in some basic use case scenarios.</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
+  url: https://www.meetup.com/YorkSwift/events/258882365/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/7/9/c/thumb_472007004.jpeg
+  starts: 2019-02-19T19:00:00.0000000
+  ends: 2019-02-19T21:00:00.0000000
+  venue: The Coffee Bureau
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbbc/
@@ -1327,6 +1242,30 @@
   ends: 2019-02-27T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzdbkc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-02-27T08:00:00.0000000
+  ends: 2019-02-27T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: Tales From The Cloud
+  description: '<p>Javascript has broken free from the confines of web browsers!</p> <p>Now it’s a compelling fullstack language choice; thanks to its lightweight and efficient runtime, huge developer community and wealth of tooling and libraries.</p> <p>In this talk, we’ll discuss the journey so far, what’s so good about it, and how you can successfully ride this wave all the way to production.</p> <p>The issue of security runs deep in many organisations. Covered in this topic are pentesting and the staged approach to this plus some ‘real life’ examples of companies (and consumers) that have been fooled and the tactics used. Also covering what you can do to stay safe and keep on the right side of the law!</p> <p>This event is free, no ticket required.</p> <p><a href="https://www.eventbrite.co.uk/e/tales-from-the-cloud-tickets-54693694312?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=esli&amp;utm-source=li&amp;utm-term=listing" class="linkified">https://www.eventbrite.co.uk/e/tales-from-the-cloud-tickets-54693694312?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=esli&amp;utm-source=li&amp;utm-term=listing</a></p> '
+  url: https://www.meetup.com/Harrogate-Cloud-Technology/events/258496153/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/9/5/9/thumb_478235161.jpeg
+  starts: 2019-02-27T18:30:00.0000000
+  ends: 2019-02-27T20:30:00.0000000
+  venue: 2 Cardale Park
+- name: February - Luke Bonaccorsi & Wade Penistone
+  description: "<p>PLEASE NOTE: RSVPs will be opened on the 20th!</p> <p>Join us to hear from Luke Bonaccorsi and Wade Penistone, as well as a chance to win a code for a year subscription for a Jetbrains toolbox product of your choice and a chance to win a ticket for the FrontendNE 2019 conference!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Luke Bonaccorsi (@CodeFoodPixels) - Coding Is Serious Business<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Wade Penistone (@PenistoneWade) - Mindstack<br/>8:20 - 9:00: Social &amp; point that people can leave<br/>--------------<br/>Talks:</p> <p>Luke Bonaccorsi (@CodeFoodPixels) - Coding Is Serious Business<br/>Coding is serious business. Except it isn't. Code gives us the power to unleash our creative potential in new and interesting ways, whether that’s making interactive art, creating live music and visualisations, building games or even adding joyful flourishes on a web app.</p> <p>In this talk, I’ll show that our code doesn’t just have to be for building boring applications. Using real examples, I’ll talk about some ways that we can bring creativity into our coding projects, as well as ways for us to share our knowledge and why it’s important that we do. By the end, I hope to have inspired you to bring creativity into your projects and given you the enthusiasm to share your knowledge.</p> <p>Wade Penistone (@PenistoneWade) - Mindstack<br/>Bots, machine learning and AI are hot topics in the industry at the moment. The skillsets are in demand and there is plenty of resources for learning. Lots of people now also use voice assistants and helpdesk automated facilities.</p> <p>However developing for these is still a very vague and improvised strategy, with tools and frameworks only offering a limited scope and most of us as web developers unaware on the layers of compexity involved in creating an effective AI.</p> <p>Join me for what I believe is a solution to this problem, aimed at simplifying and consolidating the code needed in an nice and easy to use package/ecosystem.</p> <p>--------------<br/>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href=\"https://leedsjs.github.io/code-of-conduct/\" class=\"linkified\">https://leedsjs.github.io/code-of-conduct/</a></p> "
+  url: https://www.meetup.com/LeedsJS/events/258788292/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
+  starts: 2019-02-27T18:45:00.0000000
+  ends: 2019-02-27T21:00:00.0000000
+  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbgb/
@@ -1772,6 +1711,15 @@
   ends: 2019-08-05T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbkb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-08-07T06:00:00.0000000
+  ends: 2019-08-07T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzlbtb/
@@ -1820,3 +1768,20 @@
   starts: 2020-01-16T19:00:00.0000000
   ends: 2020-01-16T22:00:00.0000000
   endorsed: true
+- name: 'Refugee Week: Public lecture by Gulwali Passarlay'
+  description: >
+    Gulwali is a dedicated advocate and spokesperson for refugees and asylum seekers across the U.K and is the Co-Founder of not-for-profit organisation “My Bright Kite CIC”. 
+
+
+    Since arriving in the UK in 2007 after being forced to leave Afghanistan as a 12 year old boy, Gulwali has achieved beyond all odds to become a well-respected and sought after public speaker, influencer and political campaigner for refugee’s rights, social justice and education. The experience of his journey to the UK shaped his future and inspired an insatiable determination and commitment to raise awareness and make a difference for other refugees. 
+
+
+    Among his many achievements, Gulwali graduated with a Politics degree from The University of Manchester and he is now studying for his MPA at Coventry. Gulwali is the esteemed author of his autobiography, "The Lightless Sky: My Journey to Safety as a Child Refugee". 
+
+
+    In his talks, Gulwali shares his captivating story of struggle, danger and resilience and how he miraculously survived the harrowing year long journey from Afghanistan to the UK, on his own, after being separated from his brother. Through his talks, audience’s young and old, are able to achieve an understanding of the extent of adversity that refugees face and thus be inspired to instigate positive change in their environments.
+  url: https://bootham-school.ticketleap.com/refugee-week-public-lecture-by-gulwali-passarlay/
+  logo: https://ticketleap-media-master.s3.amazonaws.com/20b3da31-7d45-48ca-b717-35677cc2996f/full.jpg
+  starts: 2019-06-17T20:30:00.0000000
+  ends: 2019-06-17T20:30:00.0000000
+  venue: Bootham School
