@@ -1,22 +1,3 @@
-- name: 'Serendipitous Science: Accidental discoveries that changed the world'
-  description: >-
-    Speaker: Dr Annie Hodgson, Department of Chemistry
-
-    Department of Chemistry Open Lecture
-
-    Some of the most amazing scientific discoveries have been made completely by accident. The sign of a great scientist is that they recognise the significance of what they observe; then led by curiosity and imagination experiment to develop an idea or invention. Whether the accident is the result of a clumsy cat or a careless chemist, serendipity has played an important role in the history of science. Dr Annie Hodgson will take you into the world of serendipitous discoveries and will try to recreate some of these accidents on purpose!  
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/serendipitous-science-accidental-discoveries-that-changed-the-world-tickets-53728322860?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/53961630/22468345120/1/original.20181214-135739?h=200&w=450&auto=compress&rect=0,0,800,400&s=f791a5e8ec0f46c84d7bfb50220f4e21
-  starts: 2019-03-14T18:30:00.0000000
-  ends: 2019-03-14T19:30:00.0000000
-  venue: Room C/A/101
 - name: York Science Conference 2019
   description: >-
     York Science Conference 2019
@@ -94,7 +75,7 @@
   description: Four distinguished speakers in the Blockchain space discuss and debate the regulations around Blockchain and it's applications in industry!
   url: https://www.eventbrite.co.uk/e/regulations-around-blockchain-in-industry-panel-discussion-tickets-55213105886?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/56556876/289547605027/1/original.20190210-140654?h=200&w=450&auto=compress&rect=0,28,1920,960&s=69430975d07a74b25c3f4baaf04a7156
+  logo: https://cdn.evbuc.com/images/56813710/289547605027/1/original.20190214-143033?h=200&w=450&auto=compress&rect=0,20,1920,960&s=8305a20b11c3395a581d820db4067b08
   starts: 2019-03-11T19:00:00.0000000
   ends: 2019-03-11T21:00:00.0000000
   venue: University of York
@@ -249,20 +230,6 @@
   starts: 2019-05-08T13:00:00.0000000
   ends: 2019-05-08T14:00:00.0000000
   venue: University of York
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-51655891161?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
-  starts: 2019-02-14T18:30:00.0000000
-  ends: 2019-02-14T19:30:00.0000000
 - name: 'Wordpress1: Getting started with WordPress (22nd Feb 2019)'
   description: >+
     3LL207
@@ -305,6 +272,20 @@
   starts: 2019-03-02T11:30:00.0000000
   ends: 2019-03-02T14:30:00.0000000
   venue: Acomb Explore Library
+- name: Astrocampus Open Evenings
+  description: >-
+    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
+
+    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
+
+    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
+
+    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
+  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-51655893167?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
+  starts: 2019-02-28T18:30:00.0000000
+  ends: 2019-02-28T19:30:00.0000000
 - name: 'STEMsational Women '
   description: >-
     In advance of International Women's Day join York St John University and Two Ridings Community Foundation for an inspirational, all-female panel discussion on the opportunities and challenges for women working within Science, Technology, Engineering and Maths (STEM) industries.
@@ -406,6 +387,14 @@
   starts: 2019-02-27T17:30:00.0000000
   ends: 2019-02-27T20:30:00.0000000
   venue: Kennedy's Bar
+- name: Looking for Aliens in a Galaxy Far Far Away...
+  description: "Join us at the Astrocampus as we discuss the likelihood of life existing around the planet Tatooine: The childhood home of Luke Skywalker in Star Wars. This fictional planet is noted for having not one, but two Sun's in its sky. Could such a planet exist in real life? PLUS try hands-on activities, take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes."
+  url: https://www.eventbrite.co.uk/e/looking-for-aliens-in-a-galaxy-far-far-away-tickets-55974927515?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/56282868/133368849299/1/original.20190205-160054?h=200&w=450&auto=compress&rect=0,100,800,400&s=ca5dbc49bf2c643e6078c67777a3290d
+  starts: 2019-03-14T18:30:00.0000000
+  ends: 2019-03-14T19:30:00.0000000
+  venue: Astrocampus
 - name: 'Test York: Bring your problems & projects!'
   description: "Welcome to Test York's second event: Bring a project or problem!"
   url: https://www.eventbrite.co.uk/e/test-york-bring-your-problems-projects-tickets-56406502367?aff=ebapi
@@ -525,14 +514,6 @@
   starts: 2019-02-22T14:00:00.0000000
   ends: 2019-02-22T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Looking for Aliens in a Galaxy Far Far Away...
-  description: "Join us at the Astrocampus as we discuss the likelihood of life existing around the planet Tatooine: The childhood home of Luke Skywalker in Star Wars. This fictional planet is noted for having not one, but two Sun's in its sky. Could such a planet exist in real life? PLUS try hands-on activities, take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes."
-  url: https://www.eventbrite.co.uk/e/looking-for-aliens-in-a-galaxy-far-far-away-tickets-55974927515?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/56282868/133368849299/1/original.20190205-160054?h=200&w=450&auto=compress&rect=0,100,800,400&s=ca5dbc49bf2c643e6078c67777a3290d
-  starts: 2019-03-14T18:30:00.0000000
-  ends: 2019-03-14T19:30:00.0000000
-  venue: Astrocampus
 - name: The 7th International Cardiovascular Genomic Medicine Conference
   description: >2
 
@@ -807,6 +788,27 @@
   starts: 2019-04-03T14:00:00.0000000
   ends: 2019-04-03T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: iPiE Conference- FREE entry ticket for members
+  description: >-
+    New Approaches for Prioritisation and Assessment of the Risks of Pharmaceuticals in the Environment
+
+    Over the past 4.5 years, the IMI, a public-private partnership between the European Commission and EFPIA, has funded the iPiE project to develop frameworks that utilize information from toxicological studies, pharmacological mode of action and computational tools to support intelligence-based environmental testing of pharmaceuticals in drug development and to prioritise legacy pharmaceuticals (those authorized prior to the 2006 enactment of Medicines Agency requirements) for targeted environmental risk assessment and/or environmental (bio) monitoring. This two-day international conference, which marks the completion of the iPiE project, will act as a forum to disseminate the results of the project while also providing opportunity to others working on the prioritisation and intelligent assessment of pharmaceuticals, to present their work.
+
+    Keynote LecturesProfessor Bryan Brooks, Distinguished Professor and Director Environmental Health Science Program, Baylor University, USA - ‘Future Horizons for Pharmaceutical Bioaccumulation and Effects Research in Aquatic Systems’
+
+    Dr Kathrin Fenner, Group Leader, Department Environmental Chemistry, EAWAG, Switzerland - ‘Microbial biotransformation of contaminants: The role of bioavailability and community traits’
+
+    Dr Caroline Moermond, Senior Adviser Pharmaceuticals and the Environment, RIVM, the Netherlands – ‘The draft environmental risk assessment guideline for human pharmaceuticals: changes and new approaches’
+
+    Dr Issa Nafo, Advisor for Strategic Affairs at EMSCHERGENOSSENSCHAFT and LIPPEVERBAND, Germany - ‘Stakeholder engagement and water management measures for the reduction of pharmaceuticals in the aquatic environment’
+
+    Dr Bengt Mattson, Head of CSR and Environmental Affairs, Pfizer, Sweden – The Frank Mastrocco Memorial Lecture ‘Ecopharmacostewardship and environmental sustainable use of pharmaceuticals.’
+  url: https://www.eventbrite.co.uk/e/ipie-conference-free-entry-ticket-for-members-tickets-56402949741?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/56665456/225199386643/1/original.20190212-105932?h=200&w=450&auto=compress&rect=0,0,800,400&s=b867505a0e1d542afb720230730dbde7
+  starts: 2019-06-24T09:30:00.0000000
+  ends: 2019-06-25T16:00:00.0000000
+  venue: Spring Lane Building
 - name: 'PS1: Photoshop Essentials inc. for website editors (Wed 27th Mar 10:00-11:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -1115,24 +1117,3 @@
   starts: 2019-06-20T09:45:00.0000000
   ends: 2019-06-20T16:00:00.0000000
   venue: Department of Physics
-- name: iPiE Conference- FREE entry ticket for members
-  description: >-
-    New Approaches for Prioritisation and Assessment of the Risks of Pharmaceuticals in the Environment
-
-    Over the past 4.5 years, the IMI, a public-private partnership between the European Commission and EFPIA, has funded the iPiE project to develop frameworks that utilize information from toxicological studies, pharmacological mode of action and computational tools to support intelligence-based environmental testing of pharmaceuticals in drug development and to prioritise legacy pharmaceuticals (those authorized prior to the 2006 enactment of Medicines Agency requirements) for targeted environmental risk assessment and/or environmental (bio) monitoring. This two-day international conference, which marks the completion of the iPiE project, will act as a forum to disseminate the results of the project while also providing opportunity to others working on the prioritisation and intelligent assessment of pharmaceuticals, to present their work.
-
-    Keynote LecturesProfessor Bryan Brooks, Distinguished Professor and Director Environmental Health Science Program, Baylor University, USA - ‘Future Horizons for Pharmaceutical Bioaccumulation and Effects Research in Aquatic Systems’
-
-    Dr Kathrin Fenner, Group Leader, Department Environmental Chemistry, EAWAG, Switzerland - ‘Microbial biotransformation of contaminants: The role of bioavailability and community traits’
-
-    Dr Caroline Moermond, Senior Adviser Pharmaceuticals and the Environment, RIVM, the Netherlands – ‘The draft environmental risk assessment guideline for human pharmaceuticals: changes and new approaches’
-
-    Dr Issa Nafo, Advisor for Strategic Affairs at EMSCHERGENOSSENSCHAFT and LIPPEVERBAND, Germany - ‘Stakeholder engagement and water management measures for the reduction of pharmaceuticals in the aquatic environment’
-
-    Dr Bengt Mattson, Head of CSR and Environmental Affairs, Pfizer, Sweden – The Frank Mastrocco Memorial Lecture ‘Ecopharmacostewardship and environmental sustainable use of pharmaceuticals.’
-  url: https://www.eventbrite.co.uk/e/ipie-conference-free-entry-ticket-for-members-tickets-56402949741?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/56665456/225199386643/1/original.20190212-105932?h=200&w=450&auto=compress&rect=0,0,800,400&s=b867505a0e1d542afb720230730dbde7
-  starts: 2019-06-24T09:30:00.0000000
-  ends: 2019-06-25T16:00:00.0000000
-  venue: Spring Lane Building
