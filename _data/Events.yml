@@ -106,27 +106,6 @@
   starts: 2019-03-27T09:15:00.0000000
   ends: 2019-03-27T14:45:00.0000000
   venue: Dante & Nunthorpe Suite
-- name: 'Air pollution: Local contexts, universal effects'
-  description: >-
-    Speaker: Dr Cressida Bowyer, University of Portsmouth
-
-    Global Health Histories Seminar 119
-
-    Air pollution represents a global problem, contributing to chronic illness and mortality. This seminar will examine the cultural drivers of increased air pollution and state and community-based responses to the problem.
-
-    Please note that this event will be recorded. 
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/air-pollution-local-contexts-universal-effects-tickets-55761676676?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/56090833/22468345120/1/original.20190201-134049?h=200&w=450&auto=compress&rect=0,0,800,400&s=cc0d3e1b0c8a1804edd53a90d686f0d0
-  starts: 2019-03-06T12:30:00.0000000
-  ends: 2019-03-06T13:30:00.0000000
-  venue: Room RCH/017, Ron Cooke Hub
 - name: Women in Tech York - I am Remarkable
   description: >-
     Welcome to Women in Tech York's February event!
@@ -222,6 +201,27 @@
   starts: 2019-02-21T18:00:00.0000000
   ends: 2019-02-21T21:00:00.0000000
   venue: Pitcher & Piano
+- name: 'Air pollution: Local contexts, universal effects'
+  description: >-
+    Speaker: Dr Cressida Bowyer, University of Portsmouth
+
+    Global Health Histories Seminar 119
+
+    Air pollution represents a global problem, contributing to chronic illness and mortality. This seminar will examine the cultural drivers of increased air pollution and state and community-based responses to the problem.
+
+    Please note that this event will be recorded. 
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 5 tickets, please contact the Events Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/air-pollution-local-contexts-universal-effects-tickets-55761676676?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/56090833/22468345120/1/original.20190201-134049?h=200&w=450&auto=compress&rect=0,0,800,400&s=cc0d3e1b0c8a1804edd53a90d686f0d0
+  starts: 2019-03-06T12:30:00.0000000
+  ends: 2019-03-06T13:30:00.0000000
+  venue: Room RCH/017, Ron Cooke Hub
 - name: Studying Cancer, One Cell at a Time
   description: Studying Cancer, One Cell at a Time
   url: https://www.eventbrite.co.uk/e/studying-cancer-one-cell-at-a-time-tickets-54640532303?aff=ebapi
@@ -264,14 +264,6 @@
   starts: 2019-02-22T10:00:00.0000000
   ends: 2019-02-22T11:30:00.0000000
   venue: FT113
-- name: York 'Raspberry Pi' Big Birthday Weekend Jam 2019
-  description: "We will be taking part in the 2019 Big Birthday Weekend on the 2nd of March 2019. \nCome and celebrate with us by getting your free ticket, learning how to code and make some new projects. \nPlus, every birthday party needs birthday cake (donation welcome).\nWe also will have tea and coffee avaliable, please try to bring your own reusable cup though.\nAgain, our Jam’s are open to everyone, young or old, beginners or experts, basically come down and celebrate with us. \nYou can read the Raspberry Pi Foundation's safeguarding policy here (http://rpf.io/safeguarding), in addition we also have the safeguarding policy on our website here (https://yorkpijam.com/index.php/safeguarding)\nWorkshops:\nTraffic Light Coding – Learn to code in Python and control traffic lights on the Raspberry Pi. Quite a challenging workshop and people may need to buddy up with others as we only have a limited amount of traffic lights.\nCoding For Beginners – Learn the basics of coding and code in Scratch, a child friendly programming language. This workshop is great for beginners and people who are unsure on what coding is.\nMake your own Cookie Clicker game in Scratch – Learn how to make your own “cookie clicker” style incremental game in Scratch 3.0. Cookie clicker games involve pressing something repeatedly and then buying upgrades to increase your clicking power. They all have no ending. We’ll have various scratch based examples ready for you to look at and learn from as well as code snippets and explanations at the start of the workshop.\n \nOne More Workshop To Be Confirmed\nTalk:\nLuke, from York Pi Jam, will be talking about the benefits of learning Scratch. This talk is perfect for parents/guardians who want to know why we should be encouraging children to learn to code. This talk is ticketed but it is free. When you sign in at the venue on the day ask for a talk ticket.\n\nFAQs\n \nWhat are my transport/parking options for getting to and from the event?\nThere is a small, free on site carpark at Acomb Explore Library. \nHow can I contact the organiser with any questions?\nComplete the contact form on the home page of our website (yorkpijam.com).\nDo I have to bring my printed ticket to the event?\nIt can help, we can easily scan it. You can also show your tickets on your phone. If you can't bring a ticket, let us know your name and we can sign you in that way.\nWhat if I can't make the 11:30am start?\nDon't panic, turn up when you can.\n"
-  url: https://www.eventbrite.co.uk/e/york-raspberry-pi-big-birthday-weekend-jam-2019-tickets-52179108117?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/52230559/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=89a0be6c9ebb5823f65eac410a229341
-  starts: 2019-03-02T11:30:00.0000000
-  ends: 2019-03-02T14:30:00.0000000
-  venue: Acomb Explore Library
 - name: Astrocampus Open Evenings
   description: >-
     Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
@@ -286,6 +278,14 @@
   logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
   starts: 2019-02-28T18:30:00.0000000
   ends: 2019-02-28T19:30:00.0000000
+- name: York 'Raspberry Pi' Big Birthday Weekend Jam 2019
+  description: "We will be taking part in the 2019 Big Birthday Weekend on the 2nd of March 2019. \nCome and celebrate with us by getting your free ticket, learning how to code and make some new projects. \nPlus, every birthday party needs birthday cake (donation welcome).\nWe also will have tea and coffee avaliable, please try to bring your own reusable cup though.\nAgain, our Jam’s are open to everyone, young or old, beginners or experts, basically come down and celebrate with us. \nYou can read the Raspberry Pi Foundation's safeguarding policy here (http://rpf.io/safeguarding), in addition we also have the safeguarding policy on our website here (https://yorkpijam.com/index.php/safeguarding)\nWorkshops:\nTraffic Light Coding – Learn to code in Python and control traffic lights on the Raspberry Pi. Quite a challenging workshop and people may need to buddy up with others as we only have a limited amount of traffic lights.\nCoding For Beginners – Learn the basics of coding and code in Scratch, a child friendly programming language. This workshop is great for beginners and people who are unsure on what coding is.\nMake your own Cookie Clicker game in Scratch – Learn how to make your own “cookie clicker” style incremental game in Scratch 3.0. Cookie clicker games involve pressing something repeatedly and then buying upgrades to increase your clicking power. They all have no ending. We’ll have various scratch based examples ready for you to look at and learn from as well as code snippets and explanations at the start of the workshop.\n \nOne More Workshop To Be Confirmed\nTalk:\nLuke, from York Pi Jam, will be talking about the benefits of learning Scratch. This talk is perfect for parents/guardians who want to know why we should be encouraging children to learn to code. This talk is ticketed but it is free. When you sign in at the venue on the day ask for a talk ticket.\n\nFAQs\n \nWhat are my transport/parking options for getting to and from the event?\nThere is a small, free on site carpark at Acomb Explore Library. \nHow can I contact the organiser with any questions?\nComplete the contact form on the home page of our website (yorkpijam.com).\nDo I have to bring my printed ticket to the event?\nIt can help, we can easily scan it. You can also show your tickets on your phone. If you can't bring a ticket, let us know your name and we can sign you in that way.\nWhat if I can't make the 11:30am start?\nDon't panic, turn up when you can.\n"
+  url: https://www.eventbrite.co.uk/e/york-raspberry-pi-big-birthday-weekend-jam-2019-tickets-52179108117?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/52230559/211617790341/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=89a0be6c9ebb5823f65eac410a229341
+  starts: 2019-03-02T11:30:00.0000000
+  ends: 2019-03-02T14:30:00.0000000
+  venue: Acomb Explore Library
 - name: 'STEMsational Women '
   description: >-
     In advance of International Women's Day join York St John University and Two Ridings Community Foundation for an inspirational, all-female panel discussion on the opportunities and challenges for women working within Science, Technology, Engineering and Maths (STEM) industries.
@@ -315,6 +315,13 @@
   starts: 2019-03-07T18:00:00.0000000
   ends: 2019-03-07T20:30:00.0000000
   venue: Temple Hall
+- name: 'Tech York '
+  description: "WHO ARE WE? \nWe are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.  This event is kindly sponsored by Piksel keeping the cost for you to attend low!\nWHAT WILL WE DO?\nWe will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.\nAnyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech York events.\nPROGRAMME\n1730     Drinks & Networking\n1800     Welcome - Heather Niven Science CIty York\n1810     Piksel (Mark Harrison)\n1830     The Distance (Jessica Mowatt)\n1850     AP16 (Colin SInclair)\n1910     Women in Tech  (Rebecca Rafferty)\n1930    Food and Networking\n2030    Close"
+  url: https://www.eventbrite.co.uk/e/tech-york-tickets-31123957595?aff=ebapi
+  logo: https://cdn.evbuc.com/images/56483058/2762975383/1/original.20190208-133123?h=200&w=450&auto=compress&rect=0,0,1600,800&s=cfea3ac703933d8e7f8f5eaa3a0421c5
+  starts: 2019-02-27T17:30:00.0000000
+  ends: 2019-02-27T20:30:00.0000000
+  venue: Kennedy's Bar
 - name: Global pollution in urban environments
   description: "During this lunchtime seminar, researchers at the University of York will discuss their research into global pollution in urban environments. Confirmed speakers include Dr. Harry Vallack from the Stockholm Environment Institute and Dr. Adam Vaughan from the Wolfson Atmospheric Chemistry Laboratories (WACL).\nDr. Harry Vallack, Senior Research Asoociate for Stockholm Environment Institute in York (SEI-Y)\nHarry Vallack is an ecologist specialising in air pollutant emissions inventories, carbon dynamics of plant/soil systems, ambient dust pollution monitoring and issues relating to persistent organic pollutants (POPs).\nHarry has over 25 years experience working on various aspects of air pollution at scales ranging from local to global. This has included capacity building within non-OECD countries (including developing of suitable manuals/software) for the preparation of air pollutant emissions inventories, producing air pollution emission scenario projections for developing country regions.\nHarry’s current research interests concern short-lived climate pollutants (SLCPs), global change ecology, soil carbon dynamics and capacity building for emissions inventory preparation in developing countries. In the process of this research, he has developed software tools to enable developing countries to compile air pollutant emission inventories. More recently he has helped develop a tool to assist countries prioritise alternative SLCP mitigation strategies, going from emissions estimates through to likely impacts on human health crop production and climate.\nDr. Adam Vaughan, Postdoctoral Researcher at the Wolfson Atmospheric Chemistry Laboratories (WACL)\nAdam is a postdoctoral researcher at the Wolfson Atmospheric Chemistry Laboratories (WACL) since 2017, specialising in urban emission measurements. WACL is the UK’s first dedicated laboratory building for atmospheric chemistry research. Adam obtained his Master’s in Chemistry from the University of Hull in 2013, and his PhD in Chemistry from the University of York in 2017, working with Prof. James Lee and Prof. Lucy Carpenter. His PhD focused on assessing UK emissions from a low flying aircraft. His work led to the first direct assessment of Greater London emissions from an aircraft through eddy-covariance, highlighting that London’s NOx emissions were being underestimated in the National Inventory. Since completing his PhD, Adam has developed a range of techniques for assessing urban emissions through enhanced eddy-covariance methodologies. He has made air quality measurements on multiple global field campaigns and more recently led research in New Delhi measuring vehicle emissions through remote sensing techniques.\nHealth in Urban Environments Event Series\nThe event forms part of the Health in Urban Environments Series where the York Environmental Sustainability Institute (YESI), Stockholm Environment Institute (SEI), Interdisciplinary Global Development Centre (IGDC), Wolfson Atmospheric Chemistry Laboratories (WACL) and several Research Champions are joining forces to host an event series to explore Urban Living-related research and innovation at the University of York.\nThrough a series of workshops, lunchtime seminar, full day events and discussion sessions, we will gain insight into the historical development of the world’s cities and the social and environmental consequences of urbanisation.\nBy bringing together the social, physical and life sciences we will be able to explore this topic from many angles and celebrate the interdisciplinary nature of research at the University of York.\nThe series, which will begin in January and conclude in June in alignment with Clean Air Day, will be open to researchers, staff and students at the University of York. \nEvents in the series:\nExploring transport in an African city context: 12:00-14:00, 22nd January 2019\nGlobal pollution in urban environments: 12:00-13:30, 27th March 2019\nTransforming urban infrastructure: the role of religion and communities in urbanisation in Africa: 12:00-13:30, 11th April 2019\nMental health in urban environments: 9:30-12:30, 2nd May 2019\nClean Air Day- air pollution and York: 9:00-17:00, 13th June 2019"
   url: https://www.eventbrite.co.uk/e/global-pollution-in-urban-environments-tickets-53815418365?aff=ebapi
@@ -380,13 +387,6 @@
   starts: 2019-03-07T10:00:00.0000000
   ends: 2019-03-07T11:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'Tech York '
-  description: "WHO ARE WE? \nWe are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.  This event is kindly sponsored by Piksel keeping the cost for you to attend low!\nWHAT WILL WE DO?\nWe will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.\nAnyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech York events.\nPROGRAMME\n1730     Drinks & Networking\n1800     Welcome - Heather Niven Science CIty York\n1810     Piksel (Mark Harrison)\n1830     The Distance (Jessica Mowatt)\n1850     AP16 (Colin SInclair)\n1910     Women in Tech  (Rebecca Rafferty)\n1930    Food and Networking\n2030    Close"
-  url: https://www.eventbrite.co.uk/e/tech-york-tickets-31123957595?aff=ebapi
-  logo: https://cdn.evbuc.com/images/56483058/2762975383/1/original.20190208-133123?h=200&w=450&auto=compress&rect=0,0,1600,800&s=cfea3ac703933d8e7f8f5eaa3a0421c5
-  starts: 2019-02-27T17:30:00.0000000
-  ends: 2019-02-27T20:30:00.0000000
-  venue: Kennedy's Bar
 - name: Looking for Aliens in a Galaxy Far Far Away...
   description: "Join us at the Astrocampus as we discuss the likelihood of life existing around the planet Tatooine: The childhood home of Luke Skywalker in Star Wars. This fictional planet is noted for having not one, but two Sun's in its sky. Could such a planet exist in real life? PLUS try hands-on activities, take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes."
   url: https://www.eventbrite.co.uk/e/looking-for-aliens-in-a-galaxy-far-far-away-tickets-55974927515?aff=ebapi
@@ -514,6 +514,38 @@
   starts: 2019-02-22T14:00:00.0000000
   ends: 2019-02-22T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Clean Air Day- air pollution and York
+  description: >-
+    This event will consist of a series of talks exploring research at the University of York into air pollution. This will be followed by interactive sessions, allowing the audience to ask the researchers their burning questions and gain ideas about what they can do for Clean Air Day on the 20th June 2019. This event is open to the public and University of York staff and students.
+
+
+    Health in Urban Environments Event Series
+
+    The event forms part of the Health in Urban Environments Series where the York Environmental Sustainability Institute (YESI), Stockholm Environment Institute (SEI), Interdisciplinary Global Development Centre (IGDC), Wolfson Atmospheric Chemistry Laboratories (WACL) and several Research Champions are joining forces to host an event series to explore Urban Living-related research and innovation at the University of York.
+
+    Through a series of workshops, lunchtime seminar, full day events and discussion sessions, we will gain insight into the historical development of the world’s cities and the social and environmental consequences of urbanisation.
+
+    By bringing together the social, physical and life sciences we will be able to explore this topic from many angles and celebrate the interdisciplinary nature of research at the University of York.
+
+    The series, which will begin in January and conclude in June in alignment with Clean Air Day, will be open to researchers, staff and students at the University of York.
+
+    Events in the series:
+
+    Exploring transport in an African city context: 12:00-14:00, 22nd January 2019
+
+    Global pollution in urban environments: 12:00-13:30, 27th March 2019
+
+    Transforming urban infrastructure: the role of religion and communities in urbanisation in Africa: 12:00-13:30, 11th April 2019
+
+    Mental health in urban environments: 9:30-12:30, 2nd May 2019
+
+    Clean Air Day- air pollution and York: 9:00-17:00, 13th June 2019
+  url: https://www.eventbrite.co.uk/e/clean-air-day-air-pollution-and-york-tickets-53815756376?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55084961/225199386643/1/original.20190114-094711?h=200&w=450&auto=compress&rect=0,0,800,400&s=2a050f836f43e8ed19f6a541302c0514
+  starts: 2019-06-13T18:00:00.0000000
+  ends: 2019-06-14T19:30:00.0000000
+  venue: ARC/014 Alan Maynard Auditorium
 - name: The 7th International Cardiovascular Genomic Medicine Conference
   description: >2
 
@@ -549,38 +581,6 @@
   starts: 2019-12-04T08:00:00.0000000
   ends: 2019-12-05T17:00:00.0000000
   venue: Park Inn by Radisson York City Centre
-- name: Clean Air Day- air pollution and York
-  description: >-
-    This event will consist of a series of talks exploring research at the University of York into air pollution. This will be followed by interactive sessions, allowing the audience to ask the researchers their burning questions and gain ideas about what they can do for Clean Air Day on the 20th June 2019. This event is open to the public and University of York staff and students.
-
-
-    Health in Urban Environments Event Series
-
-    The event forms part of the Health in Urban Environments Series where the York Environmental Sustainability Institute (YESI), Stockholm Environment Institute (SEI), Interdisciplinary Global Development Centre (IGDC), Wolfson Atmospheric Chemistry Laboratories (WACL) and several Research Champions are joining forces to host an event series to explore Urban Living-related research and innovation at the University of York.
-
-    Through a series of workshops, lunchtime seminar, full day events and discussion sessions, we will gain insight into the historical development of the world’s cities and the social and environmental consequences of urbanisation.
-
-    By bringing together the social, physical and life sciences we will be able to explore this topic from many angles and celebrate the interdisciplinary nature of research at the University of York.
-
-    The series, which will begin in January and conclude in June in alignment with Clean Air Day, will be open to researchers, staff and students at the University of York.
-
-    Events in the series:
-
-    Exploring transport in an African city context: 12:00-14:00, 22nd January 2019
-
-    Global pollution in urban environments: 12:00-13:30, 27th March 2019
-
-    Transforming urban infrastructure: the role of religion and communities in urbanisation in Africa: 12:00-13:30, 11th April 2019
-
-    Mental health in urban environments: 9:30-12:30, 2nd May 2019
-
-    Clean Air Day- air pollution and York: 9:00-17:00, 13th June 2019
-  url: https://www.eventbrite.co.uk/e/clean-air-day-air-pollution-and-york-tickets-53815756376?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/55084961/225199386643/1/original.20190114-094711?h=200&w=450&auto=compress&rect=0,0,800,400&s=2a050f836f43e8ed19f6a541302c0514
-  starts: 2019-06-13T18:00:00.0000000
-  ends: 2019-06-14T19:30:00.0000000
-  venue: ARC/014 Alan Maynard Auditorium
 - name: 'PS1: Photoshop Essentials inc. for website editors (Tue 5th Mar 10:00-11:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -788,6 +788,85 @@
   starts: 2019-04-03T14:00:00.0000000
   ends: 2019-04-03T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Nuclear Masterclass 2019
+  description: >
+    Join the Department of Physics at the University of York for a Nuclear Masterclass: open to all students studying A level Physics (or equivalent).  
+
+    There will be two different streams running during the day: 
+
+    A: Nuclear Astrophysics
+
+    Workshop 1: The Hot CNO Cycle in Supernovae 
+
+    Discover the nuclear reactions happening in stars during stellar explosions in an activity demonstrating half-lives and the random nature of radioactive decay.  
+
+    Workshop 2: Neutron Stars and Fundamental Forces
+
+    Investigate a computer simulation of the liquid drop model of neutron stars and learn about the influence of the fundamental forces at the nuclear scale.
+
+    Workshop 3/4: Binding Blocks: Building the Universe one Nucleaus at a Time
+
+    Explore the concept and applications of binding energy through building a LEGO nuclear chart.  Follow nuclear decay chains and research the uses of different isotopes.  
+
+    B: Applications of Nuclear Physics
+
+    Workshop 1: Medical Physics
+
+    Find out how nuclear physics is used in medicine, with a medical physicist.  
+
+    Workshop 2: Fusion technology 
+
+    Visit the University's Tokomak Control Room and find out about methods of creating nuclear fusion as a power source.  
+
+    Workshop 3/4: Binding Blocks: Building the Universe one Nucleaus at a Time
+
+    Explore the concept and applications of binding energy through building a LEGO nuclear chart.  Follow nuclear decay chains and research the uses of different isotopes.  
+
+    Programme:
+
+    09.45 - 10.00  Arrival
+
+    10.00 - 10.10  Welcome 
+
+    10.10 - 10.40  Lecture: An introduction to Nuclear Physics
+
+    10.40 - 10.55  Tea/Coffee
+
+    11.05 - 11.50  Workshop 1
+
+    11.55 - 12.40  Workshop 2
+
+    12.50 - 13.20  Lunch
+
+    13.30 - 14.15  Workshop 3
+
+    14.20 - 15.05  Workshop 4
+
+    15.15 - 15.45  Lecture: Cutting-Edge Nuclear Physics
+
+    15.45 - 16.00  Evaluation
+
+    Further information
+
+    Groups of less than 5 students from any one school may attend without a teacher.  However, they must have consent from both their school and parents.  
+
+    A maximum of 40 students may attend from any one school: 20 in each strand. If you require a larger number of places, please contact physics-outreach@york.ac.uk.   
+
+    Students are not required to be in school uniform.  
+
+    Tea/coffee/water will be available at breaks, but all attendees will need to bring a packed lunch.  
+
+    For further information about the day, please see: www.york.ac.uk/physics/public-and-schools/secondary/nuclear-masterclass/ 
+
+    For more information about the Binding Blocks project, please see: www.york.ac.uk/physics/bindingblocks
+
+    For more information about Nuclear Physics at the Unviversity of York, please see www.york.ac.uk/physics/research/nuclear/ 
+  url: https://www.eventbrite.co.uk/e/nuclear-masterclass-2019-tickets-56334101815?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/56597759/70544580407/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,5112,2556&s=df5a3c1a794224c7417021728f5c6d7f
+  starts: 2019-06-20T09:45:00.0000000
+  ends: 2019-06-20T16:00:00.0000000
+  venue: Department of Physics
 - name: iPiE Conference- FREE entry ticket for members
   description: >-
     New Approaches for Prioritisation and Assessment of the Risks of Pharmaceuticals in the Environment
@@ -1038,92 +1117,6 @@
   starts: 2019-06-13T16:00:00.0000000
   ends: 2019-06-13T19:30:00.0000000
   venue: York Medical Society
-- name: Nuclear Masterclass 2019
-  description: >
-    Join the Department of Physics at the University of York for a Nuclear Masterclass: open to all students studying A level Physics (or equivalent).  
-
-    There will be two different streams running during the day: 
-
-    A: Nuclear Astrophysics
-
-    Workshop 1: The Hot CNO Cycle in Supernovae 
-
-    Discover the nuclear reactions happening in stars during stellar explosions in an activity demonstrating half-lives and the random nature of radioactive decay.  
-
-    Workshop 2: Neutron Stars and Fundamental Forces
-
-    Investigate a computer simulation of the liquid drop model of neutron stars and learn about the influence of the fundamental forces at the nuclear scale.
-
-    Workshop 3/4: Binding Blocks: Building the Universe one Nucleaus at a Time
-
-    Explore the concept and applications of binding energy through building a LEGO nuclear chart.  Follow nuclear decay chains and research the uses of different isotopes.  
-
-    B: Applications of Nuclear Physics
-
-    Workshop 1: Medical Physics
-
-    Find out how nuclear physics is used in medicine, with a medical physicist.  
-
-    Workshop 2: Fusion technology 
-
-    Visit the University's Tokomak Control Room and find out about methods of creating nuclear fusion as a power source.  
-
-    Workshop 3/4: Binding Blocks: Building the Universe one Nucleaus at a Time
-
-    Explore the concept and applications of binding energy through building a LEGO nuclear chart.  Follow nuclear decay chains and research the uses of different isotopes.  
-
-    Programme:
-
-    09.45 - 10.00  Arrival
-
-    10.00 - 10.10  Welcome 
-
-    10.10 - 10.40  Lecture: An introduction to Nuclear Physics
-
-    10.40 - 10.55  Tea/Coffee
-
-    11.05 - 11.50  Workshop 1
-
-    11.55 - 12.40  Workshop 2
-
-    12.50 - 13.20  Lunch
-
-    13.30 - 14.15  Workshop 3
-
-    14.20 - 15.05  Workshop 4
-
-    15.15 - 15.45  Lecture: Cutting-Edge Nuclear Physics
-
-    15.45 - 16.00  Evaluation
-
-    Further information
-
-    Groups of less than 5 students from any one school may attend without a teacher.  However, they must have consent from both their school and parents.  
-
-    A maximum of 40 students may attend from any one school: 20 in each strand. If you require a larger number of places, please contact physics-outreach@york.ac.uk.   
-
-    Students are not required to be in school uniform.  
-
-    Tea/coffee/water will be available at breaks, but all attendees will need to bring a packed lunch.  
-
-    For further information about the day, please see: www.york.ac.uk/physics/public-and-schools/secondary/nuclear-masterclass/ 
-
-    For more information about the Binding Blocks project, please see: www.york.ac.uk/physics/bindingblocks
-
-    For more information about Nuclear Physics at the Unviversity of York, please see www.york.ac.uk/physics/research/nuclear/ 
-  url: https://www.eventbrite.co.uk/e/nuclear-masterclass-2019-tickets-56334101815?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/56597759/70544580407/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,5112,2556&s=df5a3c1a794224c7417021728f5c6d7f
-  starts: 2019-06-20T09:45:00.0000000
-  ends: 2019-06-20T16:00:00.0000000
-  venue: Department of Physics
-- name: Geek Lunch at Circles Cafe
-  description: "<p>Circles Cafe (<a href=\"http://circlescafe.co.uk/\" class=\"linkified\">http://circlescafe.co.uk/</a>) is a quaint family run coffee shop, with a garden area (which might be a little cold) over the river Ouse and great views of York.</p> <p>Menu: <a href=\"https://circlescafe.co.uk/index.php/our-menu\" class=\"linkified\">https://circlescafe.co.uk/index.php/our-menu</a></p> <p>We'll be meeting for lunch at 12:15 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>This will be our first official meetup scheduled event however we normally chat on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>)</p> "
-  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/258893858/
-  is-free: true
-  starts: 2019-02-15T12:15:00.0000000
-  ends: 2019-02-15T13:45:00.0000000
-  venue: Coffee Culture
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbxb/
