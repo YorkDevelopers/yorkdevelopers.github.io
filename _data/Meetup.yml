@@ -1,11 +1,3 @@
-- name: 'YorkSwift  #008 - Codable Basics & Core Data Codable with Alex Logan'
-  description: "<p>This month we are trying again to look at the very useful Codable protocol. It can be used for decoding API JSON and mapping to your classes, or encoding for view data in templates files.</p> <p><a href=\"https://developer.apple.com/documentation/swift/codable\" class=\"linkified\">https://developer.apple.com/documentation/swift/codable</a></p> <p>## Agenda</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic 1. - Codable Basics, Encodable &amp; Decodable</p> <p>Lets run through some example playgrounds, learn how to manipulate your data in some basic use case scenarios.</p> <p>### \U0001F680 Topic 2. - Core Data Codable with Alex Logan</p> <p>A further dive into Codable protocol and how to use it with Core Data.</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
-  url: https://www.meetup.com/YorkSwift/events/258882365/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/7/9/c/thumb_472007004.jpeg
-  starts: 2019-02-19T19:00:00.0000000
-  ends: 2019-02-19T21:00:00.0000000
-  venue: The Coffee Bureau
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbbc/
@@ -23,6 +15,13 @@
   starts: 2019-02-20T08:00:00.0000000
   ends: 2019-02-20T11:00:00.0000000
   venue: La Bottega Milanese
+- name: Geek Lunch at Hartley's
+  description: "<p>Hartleys (<a href=\"https://www.facebook.com/pages/Hartleys-Fine-Sandwiches-York/200552753322777\" class=\"linkified\">https://www.facebook.com/pages/Hartleys-Fine-Sandwiches-York/200552753322777</a>).</p> <p>We'll be meeting for lunch at 12:15 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>This will be our first official meetup scheduled event however we normally chat on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>)</p> "
+  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/259091061/
+  is-free: true
+  starts: 2019-02-20T12:15:00.0000000
+  ends: 2019-02-20T13:45:00.0000000
+  venue: Hartleys
 - name: Using Security Headers to Help Secure Your Site & Why Developers Need a Pentest
   description: '<p>This month we have a security special! Security is an important consideration for any developer so this meetup should be packed full of valuable information.</p> <p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided. We will have vegetarian food, if you have any other dietary requirements or questions please send us a message.</p> <p>_______________________________</p> <p>★ The talks</p> <p>✩ Using Security Headers to Help Secure Your Site - Tim Nash (@tnash)</p> <p>From HSTS through to CSP and almost every acronym in between security headers, are simple HTTP Headers, sent with requests from your server to the browser but they can be a valuable piece in hardening sites if implemented correctly what’s more for most of them it’s simple to do. In this talk Tim going to go through various security headers explaining how and when to use them and some of the pitfalls. It’s a journey that will take us through HTTPS and into a world where we need to consider carefully what third party content is being used.</p> <p>✩ Why Developers Need a Pentest - Jason Bruce-Halliwel (@JasonBruce88)</p> <p>With data breaches happening so often it’s important to make sure your applications are secure.<br/>_______________________________</p> <p>★ Timings</p> <p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – Why Developers Need a Pentest - Jason Bruce-Halliwel<br/>19:30 – A little break<br/>19:35 – Using Security Headers to Help Secure Your Site - Tim Nash<br/>20:10ish – Pop over to the pub for a chat and a drink</p> <p>_______________________________</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform (<a href="https://bruntwood.co.uk/our-locations/leeds/platform/" class="linkified">https://bruntwood.co.uk/our-locations/leeds/platform/</a>) – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Infinity Works (<a href="https://www.infinityworks.com/" class="linkified">https://www.infinityworks.com/</a>) - Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href="https://twitter.com/InfinityWorks" class="linkified">https://twitter.com/InfinityWorks</a>)</p> <p>• Searchability (<a href="https://searchability.co.uk/" class="linkified">https://searchability.co.uk/</a>) - Searchability are a recruitment marketing company that help companies secure hard to find candidates either indirectly or directly via our award winning JobHoller platform. There are few sectors more challenged by skill-shortage than digital tech, we specialise in sourcing unique opportunities &amp; engaging relevant candidate audiences across the IT &amp; eCommerce sectors by fusing traditional methods with a twist of social magic, with particular focus &amp; expertise within Software Development in Yorkshire, where it all started for us in 2012. @SearchabilityUK (<a href="https://twitter.com/SearchabilityUK" class="linkified">https://twitter.com/SearchabilityUK</a>)</p> '
   url: https://www.meetup.com/leedsphp/events/258416537/
@@ -113,13 +112,6 @@
   starts: 2019-02-28T19:00:00.0000000
   ends: 2019-02-28T21:00:00.0000000
   venue: Platform
-- name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are sometimes one or two short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
-  url: https://www.meetup.com/LeedsRubyThing/events/qfxdtpyzdblc/
-  is-free: true
-  starts: 2019-02-28T19:30:00.0000000
-  ends: 2019-02-28T23:30:00.0000000
-  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbgb/
@@ -129,6 +121,21 @@
   ends: 2019-03-04T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: 'Meetup #2: Securing the cloud'
+  description: "<p>It's time for the second York meetup! We're looking forward to meeting you all there.</p> <p>Agenda:</p> <p>6:30 - Arrive, coffee/tea and networking<br/>6:45 - Welcome<br/>7:00 - Container Security on AWS (Rohit Singh, AWS SA)<br/>7:30 - Coffee/tea and networking<br/>7:45 - Practical access control, configuration and audit for your AWS accounts (Doug Winter, Isotoma)<br/>8:15 - To the bar for more networking!</p> "
+  url: https://www.meetup.com/York-Amazon-Web-Services-User-Group/events/258727002/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/2/4/3/4/thumb_475149268.jpeg
+  starts: 2019-03-05T18:30:00.0000000
+  ends: 2019-03-05T20:30:00.0000000
+  venue: Middletons Hotel
+- name: 'PowerApps, Flow & State of Records Management in Office 365 '
+  description: "<p>Welcome to our new home!<br/>We have two great sessions for March.</p> <p>Luke will be showing us how you can enhancing your business with his expertise delivering Microsoft PowerApps and Flow driven applications.</p> <p>Paul will then be using his knowledge gained at delivering a records management project for a big bank to tell you all about the latest compliance and records management features in Office 365.</p> <p>We will of course be providing food and their will be the SharePint afterwards so please stay and continue the conversation.</p> <p>We look forward to seeing you there.</p> <p>Agenda<br/>-----------<br/>18:00 - Welcome<br/>18:30 - News<br/>18:45 - Session One<br/>19:45 - Food<br/>20:15 - Session Two<br/>21:15 - Finish</p> <p>Session One: Microsoft PowerApps &amp; Flow: Your business in the palm of your hand (Luke Hollinshead - Point Solutions)</p> <p>With Microsoft’s PowerPlatform becoming more feature rich than ever, has IT finally taken the turn where development is not as convoluted as once was? The following presentation will delve into how MS PowerApps and the use of Flow can revolutionise one’s business processes - all of which are developed with the strength of the applications themselves to perform the heavy technical lifting, thus allowing IT teams to focus on enhancing the overall User Experience (UX).</p> <p>The discussion will focus on a real world example highlighting the business problems faced, the hurdles and complexities that were overcome and the overall solution that MS PowerPlatform provided to streamline the business and its operations.</p> <p>The talk will show the processing of taking a business process from data capture using a sophisticated MS PowerApp, a range of automation and background processes using the power of MS Flow and lastly the use of PowerBI to gain an understanding of the companies big data.</p> <p>Session Two : The State of Compliance and Records Management in SharePoint Online &amp; Office365 - Paul Gallagher (Independent Consultant)</p> <p>In this session, we will take a tour of the tools in SharePoint Online and Office 365 to help organisations develop and implement an information governance strategy across archiving, retention, disposition, supervision and records management and why your organisation might want to use them. We'll also look at some of the new cross-service functionality recently added to Office365 such as content search improvements, SEC17-a4 labels, Microsoft Information Protection and the File Plan tool that enables enterprises to define and maintain a File Plan in the Cloud and publish retention labels to the Advanced Data Governance Service in the Security and Compliance Center.</p> "
+  url: https://www.meetup.com/Yorkshire-Office-365-User-Group/events/258866101/
+  is-free: true
+  starts: 2019-03-05T18:30:00.0000000
+  ends: 2019-03-05T21:00:00.0000000
+  venue: The Adelphi
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbjb/
@@ -630,4 +637,12 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2020-01-16T19:00:00.0000000
   ends: 2020-01-16T22:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmybcdbbc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-02-20T19:00:00.0000000
+  ends: 2020-02-20T22:00:00.0000000
   endorsed: true
