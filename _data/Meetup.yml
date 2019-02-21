@@ -1,35 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbbc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-02-20T07:00:00.0000000
-  ends: 2019-02-20T10:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzdbbc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-02-20T08:00:00.0000000
-  ends: 2019-02-20T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: Geek Lunch at Hartley's
-  description: "<p>Hartleys (<a href=\"https://www.facebook.com/pages/Hartleys-Fine-Sandwiches-York/200552753322777\" class=\"linkified\">https://www.facebook.com/pages/Hartleys-Fine-Sandwiches-York/200552753322777</a>).</p> <p>We'll be meeting for lunch at 12:15 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>This will be our first official meetup scheduled event however we normally chat on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>)</p> "
-  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/259091061/
-  is-free: true
-  starts: 2019-02-20T12:15:00.0000000
-  ends: 2019-02-20T13:45:00.0000000
-  venue: Hartleys
-- name: Using Security Headers to Help Secure Your Site & Why Developers Need a Pentest
-  description: '<p>This month we have a security special! Security is an important consideration for any developer so this meetup should be packed full of valuable information.</p> <p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided. We will have vegetarian food, if you have any other dietary requirements or questions please send us a message.</p> <p>_______________________________</p> <p>★ The talks</p> <p>✩ Using Security Headers to Help Secure Your Site - Tim Nash (@tnash)</p> <p>From HSTS through to CSP and almost every acronym in between security headers, are simple HTTP Headers, sent with requests from your server to the browser but they can be a valuable piece in hardening sites if implemented correctly what’s more for most of them it’s simple to do. In this talk Tim going to go through various security headers explaining how and when to use them and some of the pitfalls. It’s a journey that will take us through HTTPS and into a world where we need to consider carefully what third party content is being used.</p> <p>✩ Why Developers Need a Pentest - Jason Bruce-Halliwel (@JasonBruce88)</p> <p>With data breaches happening so often it’s important to make sure your applications are secure.<br/>_______________________________</p> <p>★ Timings</p> <p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – Why Developers Need a Pentest - Jason Bruce-Halliwel<br/>19:30 – A little break<br/>19:35 – Using Security Headers to Help Secure Your Site - Tim Nash<br/>20:10ish – Pop over to the pub for a chat and a drink</p> <p>_______________________________</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform (<a href="https://bruntwood.co.uk/our-locations/leeds/platform/" class="linkified">https://bruntwood.co.uk/our-locations/leeds/platform/</a>) – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Infinity Works (<a href="https://www.infinityworks.com/" class="linkified">https://www.infinityworks.com/</a>) - Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href="https://twitter.com/InfinityWorks" class="linkified">https://twitter.com/InfinityWorks</a>)</p> <p>• Searchability (<a href="https://searchability.co.uk/" class="linkified">https://searchability.co.uk/</a>) - Searchability are a recruitment marketing company that help companies secure hard to find candidates either indirectly or directly via our award winning JobHoller platform. There are few sectors more challenged by skill-shortage than digital tech, we specialise in sourcing unique opportunities &amp; engaging relevant candidate audiences across the IT &amp; eCommerce sectors by fusing traditional methods with a twist of social magic, with particular focus &amp; expertise within Software Development in Yorkshire, where it all started for us in 2012. @SearchabilityUK (<a href="https://twitter.com/SearchabilityUK" class="linkified">https://twitter.com/SearchabilityUK</a>)</p> '
-  url: https://www.meetup.com/leedsphp/events/258416537/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
-  starts: 2019-02-20T18:30:00.0000000
-  ends: 2019-02-20T20:30:00.0000000
-  venue: Platform
 - name: ACCU York [Feb 2019]
   description: '<p>Talk #1 from Robin Stafford - Back to the Future: Developing in the eighties</p> <p>I started as a full time developer in 1986. The first versions of Windows and C++ had just been released. There was no Java, Linux or World Wide Web.<br/>This talk describes what developing was like then, what has changed, and what hasn’t. By looking at where we have come from we might get some pointers to where we are going.</p> <p>Talk #2 from Vishal Soomaney Vijaykumar - A technical introduction to Blockchain</p> <p>Interested in Blockchain as a technology but tired of all the hype surrounding it? This is a technical talk by the President of the York Blockchain Development and Research society explaining Blockchain and consensus algorithms as implemented in Bitcoin followed by an explanation of Smart Contracts as implemented in Ethereum.</p> <p>Many thanks to York Science Park (yorksciencepark.co.uk) for providing us a place to meet and the support of YorkDevelopers (yorkdevelopers.org)</p> '
   url: https://www.meetup.com/ACCU-York/events/257704849/
@@ -112,6 +80,13 @@
   starts: 2019-02-28T19:00:00.0000000
   ends: 2019-02-28T21:00:00.0000000
   venue: Platform
+- name: Leeds Ruby Thing meetup
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are sometimes one or two short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  url: https://www.meetup.com/LeedsRubyThing/events/qfxdtpyzdblc/
+  is-free: true
+  starts: 2019-02-28T19:30:00.0000000
+  ends: 2019-02-28T23:30:00.0000000
+  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbgb/
@@ -145,6 +120,14 @@
   ends: 2019-03-06T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzfbjb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-03-06T08:00:00.0000000
+  ends: 2019-03-06T11:00:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbpb/
@@ -588,6 +571,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-08-12T06:00:00.0000000
   ends: 2019-08-12T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbsb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-08-14T06:00:00.0000000
+  ends: 2019-08-14T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
