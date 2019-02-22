@@ -1,27 +1,3 @@
-- name: ACCU York [Feb 2019]
-  description: '<p>Talk #1 from Robin Stafford - Back to the Future: Developing in the eighties</p> <p>I started as a full time developer in 1986. The first versions of Windows and C++ had just been released. There was no Java, Linux or World Wide Web.<br/>This talk describes what developing was like then, what has changed, and what hasn’t. By looking at where we have come from we might get some pointers to where we are going.</p> <p>Talk #2 from Vishal Soomaney Vijaykumar - A technical introduction to Blockchain</p> <p>Interested in Blockchain as a technology but tired of all the hype surrounding it? This is a technical talk by the President of the York Blockchain Development and Research society explaining Blockchain and consensus algorithms as implemented in Bitcoin followed by an explanation of Smart Contracts as implemented in Ethereum.</p> <p>Many thanks to York Science Park (yorksciencepark.co.uk) for providing us a place to meet and the support of YorkDevelopers (yorkdevelopers.org)</p> '
-  url: https://www.meetup.com/ACCU-York/events/257704849/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/3/6/f/thumb_475438223.jpeg
-  starts: 2019-02-21T18:30:00.0000000
-  ends: 2019-02-21T20:00:00.0000000
-  venue: The Catalyst
-- name: CodeUp Leeds Meetup
-  description: "<p>FEBRUARY AGENDA</p> <p>* Web Development for Beginners: we will cover HTML and CSS, the two fundamental languages you need to build any website. PREREQUISITES: None.<br/>* The Developer's Toolset: what are the tools that a software or web developer uses to accomplish their day-to-day job? In this talk we'll give a whirlwind introduction to the command line, text editors, IDEs, debugging tools, version control and more. PREREQUISITES: None.<br/>* Learner-led 1-to-1 sessions as always!</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
-  url: https://www.meetup.com/CodeUp-Leeds/events/lfkxkqyzdbcc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
-  starts: 2019-02-21T18:45:00.0000000
-  ends: 2019-02-21T21:00:00.0000000
-  venue: 3rd Floor, Apsley House
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzdbcc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-02-21T19:00:00.0000000
-  ends: 2019-02-21T22:00:00.0000000
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbhc/
@@ -128,6 +104,14 @@
   starts: 2019-03-06T08:00:00.0000000
   ends: 2019-03-06T11:00:00.0000000
   venue: La Bottega Milanese
+- name: Hack Yourself First
+  description: "<p>This will be a hands-on session where you will learn about, and explore, various types of web app vulnerability. There will be discussions about what causes the vulnerability, what impact it can have on a site and ways to fix it.</p> <p>This session is not directly related to .NET or anyone who has any knowledge of web security, the idea is to explore and learn and feedback to the rest of the group of our findings.</p> <p>If you have a laptop then please bring it along, it doesn't need to be high spec, just as long as you've got a decent browser installed.</p> <p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Example Hack<br/>- \U0001F431‍\U0001F4BB Pair-up and start hacking!<br/>- \U0001F64B Showtime<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> "
+  url: https://www.meetup.com/dotnetYork/events/258960764/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
+  starts: 2019-03-07T18:30:00.0000000
+  ends: 2019-03-07T20:30:00.0000000
+  venue: Trailight Boardroom
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbpb/
