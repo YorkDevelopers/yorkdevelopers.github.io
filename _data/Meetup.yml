@@ -41,13 +41,13 @@
   ends: 2019-02-27T21:00:00.0000000
   venue: Platform
 - name: 'Laravel York Monthly Meetup #002 - Horizon & Nova'
-  description: "<p>Welcome to our second Meetup! Out topics this week are about two features of Laravel, Horizon &amp; Nova. Both of these features are very powerful out of the box and easy to setup. Lets have a look at whats entailed in setup and what use cases they have.</p> <p>Horizon provides a beautiful dashboard and code-driven configuration for your Laravel powered Redis queues.<br/><a href=\"https://laravel.com/docs/5.7/horizon\" class=\"linkified\">https://laravel.com/docs/5.7/horizon</a></p> <p>Nova is a beautifully designed administration panel for Laravel.<br/><a href=\"https://nova.laravel.com/\" class=\"linkified\">https://nova.laravel.com/</a></p> <p>Agenda<br/>\U0001F596 Introductions<br/>A quick roundtable hello and what you would like to achieve out of coming to this Meetup.</p> <p>\U0001F4E2 News &amp; \U0001F393 Resources for learning<br/>Newsletters, blogs and feeds to keep an eye on.</p> <p>\U0001F64B Questions<br/>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>\U0001F37B Laravel York Social<br/>Let's migrate a few doors down for refreshments and banter.</p> "
+  description: "<p>Welcome to our second Meetup! Our topics this month are about two features of Laravel, Horizon &amp; Nova. Both of these features are very powerful out of the box. Lets have a look at whats entailed in setup and what use cases they have.</p> <p>Horizon provides a beautiful dashboard and code-driven configuration for your Laravel powered Redis queues.<br/><a href=\"https://laravel.com/docs/5.7/horizon\" class=\"linkified\">https://laravel.com/docs/5.7/horizon</a></p> <p>Nova is a beautifully designed administration panel for Laravel.<br/><a href=\"https://nova.laravel.com/\" class=\"linkified\">https://nova.laravel.com/</a></p> <p>Agenda<br/>\U0001F596 Introductions<br/>A quick roundtable hello and what you would like to achieve out of coming to this Meetup.</p> <p>\U0001F4E2 News &amp; \U0001F393 Resources for learning<br/>Newsletters, blogs and feeds to keep an eye on.</p> <p>\U0001F64B Questions<br/>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>\U0001F37B Laravel York Social<br/>Let's migrate a few doors down for refreshments and banter.</p> "
   url: https://www.meetup.com/LaravelYork/events/258870492/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/e/9/7/4/thumb_477839764.jpeg
   starts: 2019-02-27T19:00:00.0000000
   ends: 2019-02-27T21:00:00.0000000
-  venue: Divine Coffee Roasters
+  venue: Stonegate Yard Bar & Brasserie
 - name: Logging, Metrics and Events in ASP.NET Core
   description: "<p>Providing decent monitoring of your applications has always been considered the boring part of development, with tons of boilerplate code, and making upfront decisions around how it will be done, or retrofit afterwards. However, with dotnet core, things have changed, it's never been easier to implement effective visibility into how your application is performing in production.</p> <p>In this session I will cover the fundamental differences between Metrics and Logs, and Events and look at where one is useful over the other.</p> <p>We’ll look at some of the things Microsoft has done in dotnet core to make logging easier, and some of the third-party libraries and tools that aim to make it easier to navigate.</p> <p>We’ll cover tools like Serilog and Log4Net, along with AppMetrics for capturing application information. We’ll then take a quick look at Grafana, and see how we can make some sense of that information. Finally, we'll look at Honeycomb.io and how they're providing actionable insights for distributed systems using events, enabling testing in production.</p> <p>Martin Thwaites<br/>VP Engineering @ MAG-O</p> <p>Martin is the VP of Engineering @ MAG-O, the Online arm of Manchester Airport Group. He runs the engineering function, delivering applications that serve over 25 million users a year. Avid follower of open source, and clean coding principles, with a passion for dashboarding and data visualisation. Pushing DevOps (as a culture, not a role) wherever he goes.</p> <p><a href=\"https://twitter.com/MartinDotNet\" class=\"linkified\">https://twitter.com/MartinDotNet</a></p> "
   url: https://www.meetup.com/Leeds-Sharp/events/258058582/
@@ -112,6 +112,13 @@
   starts: 2019-03-07T18:30:00.0000000
   ends: 2019-03-07T20:30:00.0000000
   venue: Trailight Boardroom
+- name: Crypto catchup (Friday)
+  description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
+  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyzfblb/
+  is-free: true
+  starts: 2019-03-08T12:30:00.0000000
+  ends: 2019-03-08T13:30:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbpb/
