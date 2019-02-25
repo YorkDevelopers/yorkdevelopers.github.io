@@ -72,6 +72,13 @@
   starts: 2019-05-18T10:00:00.0000000
   ends: 2019-05-18T15:00:00.0000000
   venue: Sports Hall, Foss Building
+- name: 'Tech York '
+  description: "WHO ARE WE? \nWe are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.  This event is kindly sponsored by Piksel keeping the cost for you to attend low!\nWHAT WILL WE DO?\nWe will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.\nAnyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech York events.\nPROGRAMME\n1730     Drinks & Networking\n1800     Welcome - Heather Niven Science CIty York\n1810     Piksel Foundry (Ben Whittaker) \n“Helping innovative tech businesses make smart decisions about how to accelerate growth”\n1830     The Distance (Jessica Mowatt)\nTalking about Serverless!\n1850     AP16 (Colin SInclair)\n1910     Women in Tech  York (Rebecca Rafferty) \nRebecca will be talking about the relatively new meetup Women in Tech York, which she runs alongside her co-founder and two other committee members. She'll cover how it got started, the purpose of the event itself and how they measure success, to ensure each event is better than the last. \n1930    Invite to Blockchain event by the University of York Blockchain Society\n1935  Food and Networking\n2030    Close"
+  url: https://www.eventbrite.co.uk/e/tech-york-tickets-31123957595?aff=ebapi
+  logo: https://cdn.evbuc.com/images/56483058/2762975383/1/original.20190208-133123?h=200&w=450&auto=compress&rect=0,0,1600,800&s=cfea3ac703933d8e7f8f5eaa3a0421c5
+  starts: 2019-02-27T17:30:00.0000000
+  ends: 2019-02-27T20:30:00.0000000
+  venue: Kennedy's Bar
 - name: 'Hagge Woods Trust Spring Lecture: Simon King OBE'
   description: "Hagge Woods Trust inaugural Spring Lecture, Talk to the animals, will be given by Simon King OBE, Naturalist, Conservationist, Author, Artist and Broadcaster.  The talk is held in aid of Hagge Woods Trust, the pioneering charity taking practical action for nature and people by creating wood-meadows and inspiring others to plant and look after these exceptional habitats.\nKnown to millions as a face of Sringwatch and Big Cat Diary, Simon King is the real life Dr Doolittle.  In this fully illustrated talk, Simon will take you on a journey of discovery, showing you how you too can talk to the animals in your neighbourhood and get first class views of wildlife as a result.  This talk is suitable for wildlife enthusiasts for all ages.  Learn to grunt like a fallow deer, hoot like an owl and cuckoo like a cuckoo amongst many others.  Discover stories of filming creastures as diverse as killer whales (for the landmark series Blue Planet), Great White Sharks (Planet Earth) and lions, leopards and cheetahs (Big Cat Diary). This is an exciting opportunity to hear Simon speak about ask him questions about his work.  \nHagge Woods Trust was founded in 2013 with the creation of its flagship site Three Hagges Wood-Meadow near York.  The ecosystem and the wood-meadow community of volunteers and Friends are flourishing.  Without the invaluable support of many individuals, Trusts and Foundations, and businesses in the community, Hagge Woods Trust would be unable to sustain its ground-breaking work in restoring nature through the creation of wood-meadows and educating children and families about native nature and wildlife.  \nDrinks reception is included in the ticket price.\nSponsored by Andrew Jackson Solicitors LLP, CGA Accountants and Wrapped Brand and Digital Agency."
   url: https://www.eventbrite.co.uk/e/hagge-woods-trust-spring-lecture-simon-king-obe-tickets-54979222334?aff=ebapi
@@ -117,13 +124,6 @@
   starts: 2019-03-02T11:30:00.0000000
   ends: 2019-03-02T14:30:00.0000000
   venue: Acomb Explore Library
-- name: 'Tech York '
-  description: "WHO ARE WE? \nWe are a group of professionals from local business, universities, and Science City York, committed to growing and stimulating digital technology development and business in the York area.  This event is kindly sponsored by Piksel keeping the cost for you to attend low!\nWHAT WILL WE DO?\nWe will hang out and share information, find out what opportunities are coming up and maybe even learn a bit over drinks and networking.\nAnyone with an interest in developing and stimulating digital technology in the York area is welcome to participate in Tech York events.\nPROGRAMME\n1730     Drinks & Networking\n1800     Welcome - Heather Niven Science CIty York\n1810     Piksel Foundry (Ben Whittaker) \n“Helping innovative tech businesses make smart decisions about how to accelerate growth”\n1830     The Distance (Jessica Mowatt)\nTalking about Serverless!\n1850     AP16 (Colin SInclair)\n1910     Women in Tech  York (Rebecca Rafferty) \nRebecca will be talking about the relatively new meetup Women in Tech York, which she runs alongside her co-founder and two other committee members. She'll cover how it got started, the purpose of the event itself and how they measure success, to ensure each event is better than the last. \n1930    Invite to Blockchain event by the University of York Blockchain Society\n1935  Food and Networking\n2030    Close"
-  url: https://www.eventbrite.co.uk/e/tech-york-tickets-31123957595?aff=ebapi
-  logo: https://cdn.evbuc.com/images/56483058/2762975383/1/original.20190208-133123?h=200&w=450&auto=compress&rect=0,0,1600,800&s=cfea3ac703933d8e7f8f5eaa3a0421c5
-  starts: 2019-02-27T17:30:00.0000000
-  ends: 2019-02-27T20:30:00.0000000
-  venue: Kennedy's Bar
 - name: 'STEMsational Women '
   description: >-
     In advance of International Women's Day join York St John University and Two Ridings Community Foundation for an inspirational, all-female panel discussion on the opportunities and challenges for women working within Science, Technology, Engineering and Maths (STEM) industries.
@@ -821,6 +821,16 @@
   starts: 2019-06-13T16:00:00.0000000
   ends: 2019-06-13T19:30:00.0000000
   venue: York Medical Society
+- name: Communications and Connections
+  description: >-
+    As part of this year's workshop series on Sustainable Manufacturing for the Chemical Industry, Alice North and Elspeth Bartlett from BioVale will be delivering this workshop on communication and networking; vital skills for developing your future career.  
+
+    BioVale is an innovation cluster for the bioeconomy, with over 400 members including representatives of over 200 companies.  At this workshop, you will be given the tools you need to communicate strategically about your research. Participants will develop a set of key messages to describe their research to a non-scientific audience. They will also work in teams to develop a communication campaign to publicise a research finding. Participants will also learn the secrets of effective networking, with some practical exercises.
+  url: https://www.eventbrite.co.uk/e/communications-and-connections-tickets-56895844001?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/57044430/30757136331/1/original.20190219-123236?h=200&w=450&auto=compress&rect=0,119,4000,2000&s=9e7590f53999e646189af69fc22e0226
+  starts: 2019-06-12T14:00:00.0000000
+  ends: 2019-06-12T16:00:00.0000000
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbhc/
