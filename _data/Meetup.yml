@@ -47,6 +47,13 @@
   starts: 2019-02-28T19:00:00.0000000
   ends: 2019-02-28T21:00:00.0000000
   venue: Platform
+- name: Geek Lunch at Dyls Cafe Bar
+  description: "<p>Dyls Cafe Bar - <a href=\"https://www.dylsyork.co.uk\" class=\"linkified\">https://www.dylsyork.co.uk</a></p> <p>We'll be meeting for lunch at 12:15 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>We normally chat beforehand on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>), if you want an invite - send us a DM.</p> "
+  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/259298366/
+  is-free: true
+  starts: 2019-02-28T12:15:00.0000000
+  ends: 2019-02-28T13:45:00.0000000
+  venue: Dyls
 - name: Leeds Ruby Thing meetup
   description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are sometimes one or two short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
   url: https://www.meetup.com/LeedsRubyThing/events/qfxdtpyzdblc/
@@ -119,6 +126,13 @@
   ends: 2019-03-11T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: The Clean Architecture by Ian Cooper
+  description: "<p>Ian Cooper - The Clean Architecture</p> <p>What is the clean architecture and how you would build one in .NET? Recently Bob Martin has categorized a set of architectures, including hexagonal architecture, onion architecture and screaming architecture as 'the clean architecture' - a layered architecture of concentric circles with a strong emphasis on separation of concerns. This architecture has become popular because of its amenability to modification as an evolutionary architecture and its support for practices such as TDD.</p> <p>In this presentation, we will discuss the clean architecture and its benefits. More than that, in the bulk of the presentation, we will show you how to implement a clean architecture in .NET. From first steps to working code, we will show you the moves required to embrace this approach, and introduce you to some of the OSS libraries that can help you get there. All examples will be in .NET Core</p> <p>Twitter: @icooper</p> "
+  url: https://www.meetup.com/HaintonDotNetYorkshire/events/257859388/
+  is-free: true
+  starts: 2019-03-12T18:00:00.0000000
+  ends: 2019-03-12T20:00:00.0000000
+  venue: Duke Studios
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbrb/
