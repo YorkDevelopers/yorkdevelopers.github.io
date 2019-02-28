@@ -1,44 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzdbkc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-02-27T07:00:00.0000000
-  ends: 2019-02-27T10:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzdbkc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-02-27T08:00:00.0000000
-  ends: 2019-02-27T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: Tales From The Cloud
-  description: '<p>Javascript has broken free from the confines of web browsers!</p> <p>Now it’s a compelling fullstack language choice; thanks to its lightweight and efficient runtime, huge developer community and wealth of tooling and libraries.</p> <p>In this talk, we’ll discuss the journey so far, what’s so good about it, and how you can successfully ride this wave all the way to production.</p> <p>The issue of security runs deep in many organisations. Covered in this topic are pentesting and the staged approach to this plus some ‘real life’ examples of companies (and consumers) that have been fooled and the tactics used. Also covering what you can do to stay safe and keep on the right side of the law!</p> <p>This event is free, no ticket required.</p> <p><a href="https://www.eventbrite.co.uk/e/tales-from-the-cloud-tickets-54693694312?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=esli&amp;utm-source=li&amp;utm-term=listing" class="linkified">https://www.eventbrite.co.uk/e/tales-from-the-cloud-tickets-54693694312?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=esli&amp;utm-source=li&amp;utm-term=listing</a></p> '
-  url: https://www.meetup.com/Harrogate-Cloud-Technology/events/258496153/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/9/5/9/thumb_478235161.jpeg
-  starts: 2019-02-27T18:30:00.0000000
-  ends: 2019-02-27T20:30:00.0000000
-  venue: 2 Cardale Park
-- name: February - Luke Bonaccorsi & Wade Penistone
-  description: "<p>PLEASE NOTE: RSVPs will be opened on the 20th!</p> <p>Join us to hear from Luke Bonaccorsi and Wade Penistone, as well as a chance to win a code for a year subscription for a Jetbrains toolbox product of your choice and a chance to win a ticket for the FrontendNE 2019 conference!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 7:20: Luke Bonaccorsi (@CodeFoodPixels) - Coding Is Serious Business<br/>7:20 - 7:35: Break with food and chat<br/>7:35 - 8:20: Wade Penistone (@PenistoneWade) - Mindstack<br/>8:20 - 9:00: Social &amp; point that people can leave<br/>--------------<br/>Talks:</p> <p>Luke Bonaccorsi (@CodeFoodPixels) - Coding Is Serious Business<br/>Coding is serious business. Except it isn't. Code gives us the power to unleash our creative potential in new and interesting ways, whether that’s making interactive art, creating live music and visualisations, building games or even adding joyful flourishes on a web app.</p> <p>In this talk, I’ll show that our code doesn’t just have to be for building boring applications. Using real examples, I’ll talk about some ways that we can bring creativity into our coding projects, as well as ways for us to share our knowledge and why it’s important that we do. By the end, I hope to have inspired you to bring creativity into your projects and given you the enthusiasm to share your knowledge.</p> <p>Wade Penistone (@PenistoneWade) - Mindstack<br/>Bots, machine learning and AI are hot topics in the industry at the moment. The skillsets are in demand and there is plenty of resources for learning. Lots of people now also use voice assistants and helpdesk automated facilities.</p> <p>However developing for these is still a very vague and improvised strategy, with tools and frameworks only offering a limited scope and most of us as web developers unaware on the layers of compexity involved in creating an effective AI.</p> <p>Join me for what I believe is a solution to this problem, aimed at simplifying and consolidating the code needed in an nice and easy to use package/ecosystem.</p> <p>--------------<br/>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no recruitment policy.<br/>Code of conduct - <a href=\"https://leedsjs.github.io/code-of-conduct/\" class=\"linkified\">https://leedsjs.github.io/code-of-conduct/</a></p> "
-  url: https://www.meetup.com/LeedsJS/events/258788292/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2019-02-27T18:45:00.0000000
-  ends: 2019-02-27T21:00:00.0000000
-  venue: Platform
-- name: 'Laravel York Monthly Meetup #002 - Horizon & Nova'
-  description: "<p>Welcome to our second Meetup! Our topics this month are about two features of Laravel, Horizon &amp; Nova. Both of these features are very powerful out of the box. Lets have a look at whats entailed in setup and what use cases they have.</p> <p>Horizon provides a beautiful dashboard and code-driven configuration for your Laravel powered Redis queues.<br/><a href=\"https://laravel.com/docs/5.7/horizon\" class=\"linkified\">https://laravel.com/docs/5.7/horizon</a></p> <p>Nova is a beautifully designed administration panel for Laravel.<br/><a href=\"https://nova.laravel.com/\" class=\"linkified\">https://nova.laravel.com/</a></p> <p>Agenda<br/>\U0001F596 Introductions<br/>A quick roundtable hello and what you would like to achieve out of coming to this Meetup.</p> <p>\U0001F4E2 News &amp; \U0001F393 Resources for learning<br/>Newsletters, blogs and feeds to keep an eye on.</p> <p>\U0001F64B Questions<br/>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>\U0001F37B Laravel York Social<br/>Let's migrate a few doors down for refreshments and banter.</p> "
-  url: https://www.meetup.com/LaravelYork/events/258870492/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/9/7/4/thumb_477839764.jpeg
-  starts: 2019-02-27T19:00:00.0000000
-  ends: 2019-02-27T21:00:00.0000000
-  venue: Stonegate Yard Bar & Brasserie
 - name: Logging, Metrics and Events in ASP.NET Core
   description: "<p>Providing decent monitoring of your applications has always been considered the boring part of development, with tons of boilerplate code, and making upfront decisions around how it will be done, or retrofit afterwards. However, with dotnet core, things have changed, it's never been easier to implement effective visibility into how your application is performing in production.</p> <p>In this session I will cover the fundamental differences between Metrics and Logs, and Events and look at where one is useful over the other.</p> <p>We’ll look at some of the things Microsoft has done in dotnet core to make logging easier, and some of the third-party libraries and tools that aim to make it easier to navigate.</p> <p>We’ll cover tools like Serilog and Log4Net, along with AppMetrics for capturing application information. We’ll then take a quick look at Grafana, and see how we can make some sense of that information. Finally, we'll look at Honeycomb.io and how they're providing actionable insights for distributed systems using events, enabling testing in production.</p> <p>Martin Thwaites<br/>VP Engineering @ MAG-O</p> <p>Martin is the VP of Engineering @ MAG-O, the Online arm of Manchester Airport Group. He runs the engineering function, delivering applications that serve over 25 million users a year. Avid follower of open source, and clean coding principles, with a passion for dashboarding and data visualisation. Pushing DevOps (as a culture, not a role) wherever he goes.</p> <p><a href=\"https://twitter.com/MartinDotNet\" class=\"linkified\">https://twitter.com/MartinDotNet</a></p> "
   url: https://www.meetup.com/Leeds-Sharp/events/258058582/
@@ -102,6 +61,14 @@
   starts: 2019-03-06T08:00:00.0000000
   ends: 2019-03-06T11:00:00.0000000
   venue: La Bottega Milanese
+- name: Umbraco v8 Special
+  description: "<p>It's finally out! v8 is here and to celebrate we'll have a talk and then we'll play around and discuss the latest and greatest version of Umbraco. Bring your laptop!</p> <p>Talks:<br/>Phil Whittaker - ViewModel Centred Development</p> "
+  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzfbkb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
+  starts: 2019-03-07T17:30:00.0000000
+  ends: 2019-03-07T20:30:00.0000000
+  venue: twentysix
 - name: Hack Yourself First
   description: "<p>This will be a hands-on session where you will learn about, and explore, various types of web app vulnerability. There will be discussions about what causes the vulnerability, what impact it can have on a site and ways to fix it.</p> <p>This session is not directly related to .NET or anyone who has any knowledge of web security, the idea is to explore and learn and feedback to the rest of the group of our findings.</p> <p>If you have a laptop then please bring it along, it doesn't need to be high spec, just as long as you've got a decent browser installed.</p> <p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Example Hack<br/>- \U0001F431‍\U0001F4BB Pair-up and start hacking!<br/>- \U0001F64B Showtime<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> "
   url: https://www.meetup.com/dotnetYork/events/258960764/
@@ -142,6 +109,14 @@
   ends: 2019-03-13T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzfbrb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-03-13T08:00:00.0000000
+  ends: 2019-03-13T11:00:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbxb/
@@ -593,6 +568,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-08-19T06:00:00.0000000
   ends: 2019-08-19T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbcc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-08-21T06:00:00.0000000
+  ends: 2019-08-21T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
