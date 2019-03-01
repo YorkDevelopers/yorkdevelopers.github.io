@@ -1,25 +1,3 @@
-- name: Logging, Metrics and Events in ASP.NET Core
-  description: "<p>Providing decent monitoring of your applications has always been considered the boring part of development, with tons of boilerplate code, and making upfront decisions around how it will be done, or retrofit afterwards. However, with dotnet core, things have changed, it's never been easier to implement effective visibility into how your application is performing in production.</p> <p>In this session I will cover the fundamental differences between Metrics and Logs, and Events and look at where one is useful over the other.</p> <p>We’ll look at some of the things Microsoft has done in dotnet core to make logging easier, and some of the third-party libraries and tools that aim to make it easier to navigate.</p> <p>We’ll cover tools like Serilog and Log4Net, along with AppMetrics for capturing application information. We’ll then take a quick look at Grafana, and see how we can make some sense of that information. Finally, we'll look at Honeycomb.io and how they're providing actionable insights for distributed systems using events, enabling testing in production.</p> <p>Martin Thwaites<br/>VP Engineering @ MAG-O</p> <p>Martin is the VP of Engineering @ MAG-O, the Online arm of Manchester Airport Group. He runs the engineering function, delivering applications that serve over 25 million users a year. Avid follower of open source, and clean coding principles, with a passion for dashboarding and data visualisation. Pushing DevOps (as a culture, not a role) wherever he goes.</p> <p><a href=\"https://twitter.com/MartinDotNet\" class=\"linkified\">https://twitter.com/MartinDotNet</a></p> "
-  url: https://www.meetup.com/Leeds-Sharp/events/258058582/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2019-02-28T19:00:00.0000000
-  ends: 2019-02-28T21:00:00.0000000
-  venue: Platform
-- name: Geek Lunch at Dyls Cafe Bar
-  description: "<p>Dyls Cafe Bar - <a href=\"https://www.dylsyork.co.uk\" class=\"linkified\">https://www.dylsyork.co.uk</a></p> <p>We'll be meeting for lunch at 12:15 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>We normally chat beforehand on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>), if you want an invite - send us a DM.</p> "
-  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/259298366/
-  is-free: true
-  starts: 2019-02-28T12:15:00.0000000
-  ends: 2019-02-28T13:45:00.0000000
-  venue: Dyls
-- name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>There are sometimes one or two short 5 minutes talks at the start of each meeting. Anyone is welcome to talk about any subject that they think would be interesting to an audience of Ruby developers. See our \"Lightning talks\" page for more details:</p> <p><a href=\"https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/\" class=\"linkified\">https://www.meetup.com/LeedsRubyThing/pages/Lightning_talks/</a></p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
-  url: https://www.meetup.com/LeedsRubyThing/events/qfxdtpyzdblc/
-  is-free: true
-  starts: 2019-02-28T19:30:00.0000000
-  ends: 2019-02-28T23:30:00.0000000
-  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbgb/
@@ -29,6 +7,13 @@
   ends: 2019-03-04T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Our first ever agile breakfast
+  description: "<p>Please join us for our first ever agile breakfast event! This is a low key event for people to share thoughts and ideas around the world of agile whilst enjoying the most important meal of the day.</p> <p>We'll be using one or two liberating structures techniques to decide and prioritise the agile/lean topics we want to discuss for the next few meetups.</p> <p>Tea and coffee will be provided and you'll be able to buy a breakfast pastry at the cafe should you wish to do so.</p> <p>Thanks to HippoDigital for their sponsorship.</p> "
+  url: https://www.meetup.com/Agile-Breakfast-Leeds/events/257027913/
+  is-free: true
+  starts: 2019-03-04T09:00:00.0000000
+  ends: 2019-03-04T11:00:00.0000000
+  venue: The Brew Society
 - name: 'Meetup #2: Securing the cloud'
   description: "<p>It's time for the second York meetup! We're looking forward to meeting you all there.</p> <p>Agenda:</p> <p>6:30 - Arrive, coffee/tea and networking<br/>6:45 - Welcome<br/>7:00 - Container Security on AWS (Rohit Singh, AWS SA)<br/>7:30 - Coffee/tea and networking<br/>7:45 - Practical access control, configuration and audit for your AWS accounts (Doug Winter, Isotoma)<br/>8:15 - To the bar for more networking!</p> "
   url: https://www.meetup.com/York-Amazon-Web-Services-User-Group/events/258727002/
@@ -62,12 +47,12 @@
   ends: 2019-03-06T11:00:00.0000000
   venue: La Bottega Milanese
 - name: Umbraco v8 Special
-  description: "<p>It's finally out! v8 is here and to celebrate we'll have a talk and then we'll play around and discuss the latest and greatest version of Umbraco. Bring your laptop!</p> <p>Talks:<br/>Phil Whittaker - ViewModel Centred Development</p> "
+  description: "<p>It's finally out! v8 is here and to celebrate we'll have a talk and then we'll play around and discuss the latest and greatest version of Umbraco. Bring your laptop!</p> <p>Talks:<br/>Phil Whittaker - ViewModel Centred Development</p> <p>Feel free to join us since 17:30, or a bit later than the official 18:00!</p> "
   url: https://www.meetup.com/umbLeeds/events/ltvqhqyzfbkb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2019-03-07T17:30:00.0000000
-  ends: 2019-03-07T20:30:00.0000000
+  starts: 2019-03-07T18:00:00.0000000
+  ends: 2019-03-07T21:00:00.0000000
   venue: twentysix
 - name: Hack Yourself First
   description: "<p>This will be a hands-on session where you will learn about, and explore, various types of web app vulnerability. There will be discussions about what causes the vulnerability, what impact it can have on a site and ways to fix it.</p> <p>This session is not directly related to .NET or anyone who has any knowledge of web security, the idea is to explore and learn and feedback to the rest of the group of our findings.</p> <p>If you have a laptop then please bring it along, it doesn't need to be high spec, just as long as you've got a decent browser installed.</p> <p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Example Hack<br/>- \U0001F431‍\U0001F4BB Pair-up and start hacking!<br/>- \U0001F64B Showtime<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> "
@@ -117,6 +102,13 @@
   starts: 2019-03-13T08:00:00.0000000
   ends: 2019-03-13T11:00:00.0000000
   venue: La Bottega Milanese
+- name: Data Platform User Group (SQL Server)
+  description: '<p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – David Alcock | Guillotines, Sat-Nav and the Query Optimiser<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 –<br/>20:20 – 20:30 – Off t’pub.</p> <p>David Alcock | Guillotines, Sat-Nav and the Query Optimiser<br/>What have guillotines and satellite navigation got to do with querying SQL Server? Well, in this session you’re going to find out! We’ll be looking into query performance and that means reading query plans, but in order to do that we also need some background knowledge of how the query optimiser works. With that in mind we’ll be jumping right into optimisation stages, hints and rules. We’ll also learn how to keep track and influence how the engine optimises our queries, and we’ll see if it’s a good idea or not.</p> <p>Bio:<br/>David Alcock is a Developer turned DBA turned Data Professional and is the Principal Consultant for DTA IT Consultancy, a company he started to help people build and grow their data platforms</p> '
+  url: https://www.meetup.com/dataleeds/events/255664587/
+  is-free: true
+  starts: 2019-03-14T17:30:00.0000000
+  ends: 2019-03-14T20:30:00.0000000
+  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbxb/
