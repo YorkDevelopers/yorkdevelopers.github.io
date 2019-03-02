@@ -46,14 +46,6 @@
   starts: 2019-03-06T08:00:00.0000000
   ends: 2019-03-06T11:00:00.0000000
   venue: La Bottega Milanese
-- name: Umbraco v8 Special
-  description: "<p>It's finally out! v8 is here and to celebrate we'll have a talk and then we'll play around and discuss the latest and greatest version of Umbraco. Bring your laptop!</p> <p>Talks:<br/>Phil Whittaker - ViewModel Centred Development</p> <p>Feel free to join us since 17:30, or a bit later than the official 18:00!</p> "
-  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzfbkb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2019-03-07T18:00:00.0000000
-  ends: 2019-03-07T21:00:00.0000000
-  venue: twentysix
 - name: Hack Yourself First
   description: "<p>This will be a hands-on session where you will learn about, and explore, various types of web app vulnerability. There will be discussions about what causes the vulnerability, what impact it can have on a site and ways to fix it.</p> <p>This session is not directly related to .NET or anyone who has any knowledge of web security, the idea is to explore and learn and feedback to the rest of the group of our findings.</p> <p>If you have a laptop then please bring it along, it doesn't need to be high spec, just as long as you've got a decent browser installed.</p> <p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Example Hack<br/>- \U0001F431‍\U0001F4BB Pair-up and start hacking!<br/>- \U0001F64B Showtime<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> "
   url: https://www.meetup.com/dotnetYork/events/258960764/
@@ -62,6 +54,14 @@
   starts: 2019-03-07T18:30:00.0000000
   ends: 2019-03-07T20:30:00.0000000
   venue: Trailight Boardroom
+- name: Umbraco v8 Special
+  description: "<p>It's finally out! v8 is here and to celebrate we'll have a talk and then we'll play around and discuss the latest and greatest version of Umbraco. Bring your laptop!</p> <p>Talks:<br/>Phil Whittaker - ViewModel Centred Development</p> <p>Feel free to join us since 17:30, or a bit later than the official 18:00!</p> "
+  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzfbkb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
+  starts: 2019-03-07T18:00:00.0000000
+  ends: 2019-03-07T21:00:00.0000000
+  venue: twentysix
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyzfblb/
@@ -152,6 +152,15 @@
   starts: 2019-03-27T07:00:00.0000000
   ends: 2019-03-27T10:00:00.0000000
   venue: Cafe Nero
+  endorsed: true
+- name: Dinner with Tech Leaders York
+  description: '<p>Join us for Dinner and professional networking aimed at Senior Leaders in Tech</p> <p>We aim to be a group of tech professionals who would like to meet every quarter to enjoy dinner together. We would like to share experiences of leadership in tech businesses and research.</p> <p>This group is aimed at senior level roles - but all are welcome. This will suit CTOs, CIOs, Technical Managers, Chief Architects and similar roles.</p> <p>Tickets are limited to 10 for each event since we aim to have one round table. The bill will be split equal ways on the evening between everyone attending.</p> <p>Endorsed by York Developers . Your ticket fee will be donation to YorkDevelopers to fund the organisation to assist in their activities to meet their organisational goals.</p> <p>Buy your tickets here:</p> <p><a href="https://www.eventbrite.co.uk/e/dinner-with-tech-leaders-york-tickets-56641765044" class="linkified">https://www.eventbrite.co.uk/e/dinner-with-tech-leaders-york-tickets-56641765044</a></p> '
+  url: https://www.meetup.com/YorkDevelopers/events/259398169/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-03-27T18:30:00.0000000
+  ends: 2019-03-27T20:30:00.0000000
+  venue: 'The Mumbai Lounge '
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
