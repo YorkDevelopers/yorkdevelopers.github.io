@@ -7,13 +7,6 @@
   ends: 2019-03-04T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
-- name: Our first ever agile breakfast
-  description: "<p>Please join us for our first ever agile breakfast event! This is a low key event for people to share thoughts and ideas around the world of agile whilst enjoying the most important meal of the day.</p> <p>We'll be using one or two liberating structures techniques to decide and prioritise the agile/lean topics we want to discuss for the next few meetups.</p> <p>Tea and coffee will be provided and you'll be able to buy a breakfast pastry at the cafe should you wish to do so.</p> <p>Thanks to HippoDigital for their sponsorship.</p> "
-  url: https://www.meetup.com/Agile-Breakfast-Leeds/events/257027913/
-  is-free: true
-  starts: 2019-03-04T09:00:00.0000000
-  ends: 2019-03-04T11:00:00.0000000
-  venue: The Brew Society
 - name: 'Meetup #2: Securing the cloud'
   description: "<p>It's time for the second York meetup! We're looking forward to meeting you all there.</p> <p>Agenda:</p> <p>6:30 - Arrive, coffee/tea and networking<br/>6:45 - Welcome<br/>7:00 - Container Security on AWS (Rohit Singh, AWS SA)<br/>7:30 - Coffee/tea and networking<br/>7:45 - Practical access control, configuration and audit for your AWS accounts (Doug Winter, Isotoma)<br/>8:15 - To the bar for more networking!</p> "
   url: https://www.meetup.com/York-Amazon-Web-Services-User-Group/events/258727002/
