@@ -1,18 +1,3 @@
-- name: 'Meetup #2: Securing the cloud'
-  description: "<p>It's time for the second York meetup! We're looking forward to meeting you all there.</p> <p>Agenda:</p> <p>6:30 - Arrive, coffee/tea and networking<br/>6:45 - Welcome<br/>7:00 - Container Security on AWS (Rohit Singh, AWS SA)<br/>7:30 - Coffee/tea and networking<br/>7:45 - Practical access control, configuration and audit for your AWS accounts (Doug Winter, Isotoma)<br/>8:15 - To the bar for more networking!</p> "
-  url: https://www.meetup.com/York-Amazon-Web-Services-User-Group/events/258727002/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/2/4/3/4/thumb_475149268.jpeg
-  starts: 2019-03-05T18:30:00.0000000
-  ends: 2019-03-05T20:30:00.0000000
-  venue: Middletons Hotel
-- name: 'PowerApps, Flow & State of Records Management in Office 365 '
-  description: "<p>Welcome to our new home!<br/>We have two great sessions for March.</p> <p>Luke will be showing us how you can enhancing your business with his expertise delivering Microsoft PowerApps and Flow driven applications.</p> <p>Paul will then be using his knowledge gained at delivering a records management project for a big bank to tell you all about the latest compliance and records management features in Office 365.</p> <p>We will of course be providing food and their will be the SharePint afterwards so please stay and continue the conversation.</p> <p>We look forward to seeing you there.</p> <p>Agenda<br/>-----------<br/>18:00 - Welcome<br/>18:30 - News<br/>18:45 - Session One<br/>19:45 - Food<br/>20:15 - Session Two<br/>21:15 - Finish</p> <p>Session One: Microsoft PowerApps &amp; Flow: Your business in the palm of your hand (Luke Hollinshead - Point Solutions)</p> <p>With Microsoft’s PowerPlatform becoming more feature rich than ever, has IT finally taken the turn where development is not as convoluted as once was? The following presentation will delve into how MS PowerApps and the use of Flow can revolutionise one’s business processes - all of which are developed with the strength of the applications themselves to perform the heavy technical lifting, thus allowing IT teams to focus on enhancing the overall User Experience (UX).</p> <p>The discussion will focus on a real world example highlighting the business problems faced, the hurdles and complexities that were overcome and the overall solution that MS PowerPlatform provided to streamline the business and its operations.</p> <p>The talk will show the processing of taking a business process from data capture using a sophisticated MS PowerApp, a range of automation and background processes using the power of MS Flow and lastly the use of PowerBI to gain an understanding of the companies big data.</p> <p>Session Two : The State of Compliance and Records Management in SharePoint Online &amp; Office365 - Paul Gallagher (Independent Consultant)</p> <p>In this session, we will take a tour of the tools in SharePoint Online and Office 365 to help organisations develop and implement an information governance strategy across archiving, retention, disposition, supervision and records management and why your organisation might want to use them. We'll also look at some of the new cross-service functionality recently added to Office365 such as content search improvements, SEC17-a4 labels, Microsoft Information Protection and the File Plan tool that enables enterprises to define and maintain a File Plan in the Cloud and publish retention labels to the Advanced Data Governance Service in the Security and Compliance Center.</p> "
-  url: https://www.meetup.com/Yorkshire-Office-365-User-Group/events/258866101/
-  is-free: true
-  starts: 2019-03-05T18:30:00.0000000
-  ends: 2019-03-05T21:00:00.0000000
-  venue: The Adelphi
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbjb/
@@ -63,12 +48,21 @@
   venue: Cafe Nero
   endorsed: true
 - name: The Clean Architecture by Ian Cooper
-  description: "<p>Ian Cooper - The Clean Architecture</p> <p>What is the clean architecture and how you would build one in .NET? Recently Bob Martin has categorized a set of architectures, including hexagonal architecture, onion architecture and screaming architecture as 'the clean architecture' - a layered architecture of concentric circles with a strong emphasis on separation of concerns. This architecture has become popular because of its amenability to modification as an evolutionary architecture and its support for practices such as TDD.</p> <p>In this presentation, we will discuss the clean architecture and its benefits. More than that, in the bulk of the presentation, we will show you how to implement a clean architecture in .NET. From first steps to working code, we will show you the moves required to embrace this approach, and introduce you to some of the OSS libraries that can help you get there. All examples will be in .NET Core</p> <p>Twitter: @icooper</p> "
+  description: "<p>Ian Cooper - The Clean Architecture</p> <p>What is 'the clean architecture' and how would you build one in .NET?</p> <p>Recently Bob Martin has categorized a set of architectures, including hexagonal architecture, onion architecture and screaming architecture as 'the clean architecture' - a layered architecture of concentric circles with a strong emphasis on separation of concerns. This architecture has become popular because of its amenability to modification as an evolutionary architecture and its support for practices such as TDD.</p> <p>In this presentation, we will discuss the clean architecture and its benefits. More than that, in the bulk of the presentation, we will show you how to implement a clean architecture in .NET.</p> <p>From first steps to working code, we will show you the moves required to embrace this approach, and introduce you to some of the OSS libraries that can help you get there. All examples will be in .NET Core</p> <p>Twitter: @icooper</p> "
   url: https://www.meetup.com/HaintonDotNetYorkshire/events/257859388/
   is-free: true
   starts: 2019-03-12T18:00:00.0000000
   ends: 2019-03-12T20:00:00.0000000
   venue: Duke Studios
+- name: York Code Dojo March Meetup - Esoteric Languages
+  description: '<p>This month we work in pairs looking at some Esoteric programming languages. The session will be suitable for people of any ability. If possible please bring a laptop with your programming languages of choice already installed. NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/259496561/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2019-03-13T18:30:00.0000000
+  ends: 2019-03-13T21:00:00.0000000
+  venue: Room FT/210 York St John University
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbrb/
@@ -102,6 +96,13 @@
   ends: 2019-03-18T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: 'Tech Contractor Networking: Leeds'
+  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
+  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyzfbzb/
+  is-free: true
+  starts: 2019-03-19T12:15:00.0000000
+  ends: 2019-03-19T12:45:00.0000000
+  venue: Banyan Bar Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbbc/
