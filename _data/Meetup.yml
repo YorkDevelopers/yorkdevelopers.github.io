@@ -1,20 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbjb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-03-06T07:00:00.0000000
-  ends: 2019-03-06T10:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzfbjb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-03-06T08:00:00.0000000
-  ends: 2019-03-06T11:00:00.0000000
-  venue: La Bottega Milanese
 - name: Hack Yourself First
   description: "<p>This will be a hands-on session where you will learn about, and explore, various types of web app vulnerability. There will be discussions about what causes the vulnerability, what impact it can have on a site and ways to fix it.</p> <p>This session is not directly related to .NET or anyone who has any knowledge of web security, the idea is to explore and learn and feedback to the rest of the group of our findings.</p> <p>If you have a laptop then please bring it along, it doesn't need to be high spec, just as long as you've got a decent browser installed.</p> <p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Example Hack<br/>- \U0001F431‍\U0001F4BB Pair-up and start hacking!<br/>- \U0001F64B Showtime<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> "
   url: https://www.meetup.com/dotnetYork/events/258960764/
@@ -81,7 +64,7 @@
   ends: 2019-03-13T11:00:00.0000000
   venue: La Bottega Milanese
 - name: Data Platform User Group (SQL Server)
-  description: '<p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – David Alcock | Guillotines, Sat-Nav and the Query Optimiser<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 –<br/>20:20 – 20:30 – Off t’pub.</p> <p>David Alcock | Guillotines, Sat-Nav and the Query Optimiser<br/>What have guillotines and satellite navigation got to do with querying SQL Server? Well, in this session you’re going to find out! We’ll be looking into query performance and that means reading query plans, but in order to do that we also need some background knowledge of how the query optimiser works. With that in mind we’ll be jumping right into optimisation stages, hints and rules. We’ll also learn how to keep track and influence how the engine optimises our queries, and we’ll see if it’s a good idea or not.</p> <p>Bio:<br/>David Alcock is a Developer turned DBA turned Data Professional and is the Principal Consultant for DTA IT Consultancy, a company he started to help people build and grow their data platforms</p> '
+  description: '<p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – David Alcock | Guillotines, Sat-Nav and the Query Optimiser<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – Lightening Talks - Jet2 Data Platform Team<br/>20:20 – 20:30 – Off t’pub.</p> <p>David Alcock | Guillotines, Sat-Nav and the Query Optimiser<br/>What have guillotines and satellite navigation got to do with querying SQL Server? Well, in this session you’re going to find out! We’ll be looking into query performance and that means reading query plans, but in order to do that we also need some background knowledge of how the query optimiser works. With that in mind we’ll be jumping right into optimisation stages, hints and rules. We’ll also learn how to keep track and influence how the engine optimises our queries, and we’ll see if it’s a good idea or not.</p> <p>Bio:<br/>David Alcock is a Developer turned DBA turned Data Professional and is the Principal Consultant for DTA IT Consultancy, a company he started to help people build and grow their data platforms</p> <p>-Second Session-<br/>Lightening talks by the Jet2 Data Platform Team<br/>7-30-8-30</p> <p>A quick introduction to what we do at Jet2 - Dan Thompson (@LeedsDBA)</p> <p>Followed by 3x lightening talks to cover the following topics:</p> <p>- Multi-Server Job Administration (with MSX/TSX) - Michal Bronowski (@MikeyBronowski)<br/>- Query Store (SQL 2017) - Simon Gilks<br/>- Auto-tuning (SQL 2017) - Ben Ritson (@BenaldoDBA)</p> '
   url: https://www.meetup.com/dataleeds/events/255664587/
   is-free: true
   starts: 2019-03-14T17:30:00.0000000
@@ -103,6 +86,14 @@
   starts: 2019-03-19T12:15:00.0000000
   ends: 2019-03-19T12:45:00.0000000
   venue: Banyan Bar Leeds
+- name: LeedsDevops - March 2019 Meetup
+  description: "<p>** RSVPs open Monday 11th March 9am **</p> <p>We’re back at the ODI Node in Leeds on Tuesday 19th March 2019 for our Devops meetup, here's what we have in store for you:</p> <p>6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>7:15 - 7:25 : Group updates/news/announcements<br/>7:25 - 8:05 : Devoperability: Putting the Ops back into DevOps<br/>8:05 - 8:20 : Intermission<br/>8:20 - 9:00 : Reliability Engineering for Humans<br/>9:00 - late : Social</p> <p>Our first speaker of the night is Alexandra Carter. Alex has worked in IT, Marketing/Web design, Software Support and Software Delivery before moving into her current System Build (DevOps) role within TransUnion (formerly Callcredit). She spends her days making stuff better and says that a day without Metal and motor racing is a dull one.</p> <p>Alex has had rave reviewers from her 3 Ways of Devops talk at Leeds Testing Atelier and DevOpsDays London, using the idea of Gods, Reporters and Geniuses to spread the DevOps goodness to everyone. But tonight Alex will bring us her new talk \"Devoperability: Putting the Ops back into DevOps\" one we are very much looking forward to see.</p> <p>Our headline speaker sees the welcome return of Hannah Foxwell. Hannah is delivery manager at Pivotal, where she helps teams transform how they deliver software. A HumanOps champion, a HugOps evangelist, and a DevOps believer,</p> <p>Her Talk \"Reliability Engineering for Humans\" discusses how the concepts and practices of site reliability engineering are changing the way we build and operate our platforms, enabling us to have more meaningful conversations about availability, service-level objectives, and cost. But what are the benefits for the engineer holding the pager? Can we add a human element to our error budgets?</p> <p>First Time Attendees</p> <p>Here at LeedsDevops we understand that coming along to your first meetup can be an anxious experience, walking into a large room full of people can be daunting. So when you arrive at the meetup we'll have an additional small room for new attendees to make friends with other first time attendees. Then shortly before the start we'll show you into the main room helping make the whole experience less intimidating (but honestly there's nothing to worry about the LeedsDevops crowd is a friendly bunch)</p> <p>Refreshments</p> <p>We're continuing to expand the range of refreshments on offer, there will be a wide range range of quality soft drinks, teas and coffees - a massive thanks to our sponsors Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) for their continued support and sponsorship.</p> <p>Code Of Conduct</p> <p>Please note that we have an anti harassment policy and code of conduct <a href=\"http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in\" class=\"linkified\">http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in</a> order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street opposite Leeds Bus Station. If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on twitter @leedsdevops (<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>For more details see the event page on leedsdevops.org.uk (<a href=\"http://www.leedsdevops.org.uk/post/2019-03-19-tuesday-19th-march-2019-at-the-odi-node-in-leeds/\" class=\"linkified\">http://www.leedsdevops.org.uk/post/2019-03-19-tuesday-19th-march-2019-at-the-odi-node-in-leeds/</a>)</p> "
+  url: https://www.meetup.com/LeedsDevops/events/259541203/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/2/d/2/6/thumb_477851558.jpeg
+  starts: 2019-03-19T18:45:00.0000000
+  ends: 2019-03-19T20:45:00.0000000
+  venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbbc/
@@ -112,6 +103,22 @@
   ends: 2019-03-20T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzfbbc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-03-20T08:00:00.0000000
+  ends: 2019-03-20T11:00:00.0000000
+  venue: La Bottega Milanese
+- name: Agile Lean Coffee
+  description: '<p>Join us at AgileYork for an informal event - "Agile Lean Coffee".</p> <p>At the beginning, people write on notes what they want to discuss about (you can suggest 0, 1 or more topics). Then people vote for the one they find the most interesting. We start by talking, discussing, debating about the chosen subject.</p> <p>If we have enough people we can have more than 1 group and people can move from one to the other at any time.</p> <p>At the end, we gather and we do a little summary of the topic.</p> '
+  url: https://www.meetup.com/agileYork/events/259541442/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2019-03-20T18:30:00.0000000
+  ends: 2019-03-20T20:30:00.0000000
+  venue: Stonegate Yard Bar & Brasserie
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzfbcc/
@@ -572,6 +579,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-08-26T06:00:00.0000000
   ends: 2019-08-26T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlblc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-08-28T06:00:00.0000000
+  ends: 2019-08-28T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
