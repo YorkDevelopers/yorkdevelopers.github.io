@@ -1,19 +1,3 @@
-- name: Hack Yourself First
-  description: "<p>This will be a hands-on session where you will learn about, and explore, various types of web app vulnerability. There will be discussions about what causes the vulnerability, what impact it can have on a site and ways to fix it.</p> <p>This session is not directly related to .NET or anyone who has any knowledge of web security, the idea is to explore and learn and feedback to the rest of the group of our findings.</p> <p>If you have a laptop then please bring it along, it doesn't need to be high spec, just as long as you've got a decent browser installed.</p> <p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Example Hack<br/>- \U0001F431‍\U0001F4BB Pair-up and start hacking!<br/>- \U0001F64B Showtime<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> "
-  url: https://www.meetup.com/dotnetYork/events/258960764/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2019-03-07T18:30:00.0000000
-  ends: 2019-03-07T20:30:00.0000000
-  venue: Trailight Boardroom
-- name: Umbraco v8 Special
-  description: "<p>It's finally out! v8 is here and to celebrate we'll have a talk and then we'll play around and discuss the latest and greatest version of Umbraco. Bring your laptop!</p> <p>Talks:<br/>Phil Whittaker - ViewModel Centred Development</p> <p>Feel free to join us since 17:30, or a bit later than the official 18:00!</p> "
-  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzfbkb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2019-03-07T18:00:00.0000000
-  ends: 2019-03-07T21:00:00.0000000
-  venue: twentysix
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyzfblb/
@@ -119,6 +103,30 @@
   starts: 2019-03-20T18:30:00.0000000
   ends: 2019-03-20T20:30:00.0000000
   venue: Stonegate Yard Bar & Brasserie
+- name: Save The Date
+  description: '<p>This month we have a security special! Security is an important consideration for any developer so this meetup should be packed full of valuable information.</p> <p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided. We will have vegetarian food, if you have any other dietary requirements or questions please send us a message.</p> <p>_______________________________</p> <p>★ The talks</p> <p>✩ Talk 1 - TBA</p> <p>✩ Talk 2 - TBA<br/>_______________________________</p> <p>★ Timings</p> <p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – Talk 1 - TBA<br/>19:30 – A little break<br/>19:35 – Talk 2 - TBA<br/>20:10ish – Pop over to the pub for a chat and a drink</p> <p>_______________________________</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform (<a href="https://bruntwood.co.uk/our-locations/leeds/platform/" class="linkified">https://bruntwood.co.uk/our-locations/leeds/platform/</a>) – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Infinity Works (<a href="https://www.infinityworks.com/" class="linkified">https://www.infinityworks.com/</a>) - Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href="https://twitter.com/InfinityWorks" class="linkified">https://twitter.com/InfinityWorks</a>)</p> <p>• Searchability (<a href="https://searchability.co.uk/" class="linkified">https://searchability.co.uk/</a>) - Searchability are a recruitment marketing company that help companies secure hard to find candidates either indirectly or directly via our award winning JobHoller platform. There are few sectors more challenged by skill-shortage than digital tech, we specialise in sourcing unique opportunities &amp; engaging relevant candidate audiences across the IT &amp; eCommerce sectors by fusing traditional methods with a twist of social magic, with particular focus &amp; expertise within Software Development in Yorkshire, where it all started for us in 2012. @SearchabilityUK (<a href="https://twitter.com/SearchabilityUK" class="linkified">https://twitter.com/SearchabilityUK</a>)</p> '
+  url: https://www.meetup.com/leedsphp/events/259557179/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
+  starts: 2019-03-20T18:30:00.0000000
+  ends: 2019-03-20T20:30:00.0000000
+  venue: Platform
+- name: ACCU York [Mar 2019] - Building a GraphQL API in seconds with Postgraphile
+  description: '<p>This month Joe Abell will give a talk on "Building a GraphQL API in seconds with Postgraphile"</p> <p>Using a Postgres schema to generate a secure, powerful and performant GraphQL API</p> <p>----<br/>Thank you York Science Park for providing us a place to meet<br/>Supported by YorkDevelopers<br/>ACCU York is an ACCU local group</p> '
+  url: https://www.meetup.com/ACCU-York/events/258399696/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/3/6/f/thumb_475438223.jpeg
+  starts: 2019-03-21T18:30:00.0000000
+  ends: 2019-03-21T20:00:00.0000000
+  venue: The Catalyst
+- name: CodeUp Leeds Meetup
+  description: "<p>MARCH AGENDA</p> <p>* Introduction to JavaScript: one of our most requested session topics! We will teach you the fundamentals of the de facto programming language of the Web. Are you into web development? JavaScript allows you to turn static websites into dynamic, engaging experiences for your visitors. Do you prefer to build more traditional applications, like desktop apps? JavaScript can do that and much more! Join us in this month's session to find out what this flexible language has to offer!<br/>* Introduction to Collaborative Coding and Open Source: discover how software is built out in the open, both by professionals and amateurs who want to share their craft with the world. Learn to harness the power of open source to develop your own software thanks to platforms like GitHub. Remember, don't reinvent the wheel!</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
+  url: https://www.meetup.com/CodeUp-Leeds/events/lfkxkqyzfbcc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
+  starts: 2019-03-21T18:45:00.0000000
+  ends: 2019-03-21T21:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzfbcc/
