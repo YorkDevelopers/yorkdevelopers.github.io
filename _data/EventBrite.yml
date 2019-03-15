@@ -25,94 +25,6 @@
   starts: 2019-05-18T10:00:00.0000000
   ends: 2019-05-18T15:00:00.0000000
   venue: Sports Hall, Foss Building
-- name: Women in Tech York - Innovative Tech
-  description: >-
-    Welcome to Women in Tech York's Innovative Tech event!
-
-    Who are we?
-
-    We are a community of like-minded people studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.
-
-    We also welcome all students who are interested in learning more about Tech, and the careers it entails.
-
-
-    This month...
-
-    We will be learning about Innovative tech with two incredibly interesting talks, details of which are below.
-
-    As always, there will be a free buffet (vegetarian and vegan options avaliable) thanks to our sponsors Isotoma, Mitrefinch and Netsells.
-
-
-    Event Timings:
-
-    18:00: Registration Opens
-
-    18:30: Introduction
-
-    18:40: How to build an innovation culture - Bethan Vincent
-
-    Innovation doesn't happen by accident, it's a product of good design.
-
-    Bethan's talk will explore some of the conditions organisations can create that allow teams to think of, and most importantly deliver on, market changing ideas.
-
-    She will also present the innovation hierarchy - a methodology for thinking about innovation at different scales, from internal to market altering.
-
-    Bethan is Head of Marketing at Netsells. With experience leading and contributing to cross-functional Marketing and Product teams, Bethan is used to bringing ideas to market at speed.
-
-    19:10: Buffet and networking
-
-    19:50: Connected York - Melissa Magson - Graphic & Web Designer and Andrew Stark - Marketing Consultant from We Are Connected
-
-    Melissa and Andrew will take us through the rollercoaster of emotions and challenges in envisioning, developing, funding and promoting an App which they believe will help York (and any other city’s) visitors and residents and retailers. From the initial spark of an idea, scoping it’s functionality and keeping sight of the opportunity, the We Are Connected story will make many nod in recognition and, we hope, encourage others to keep going with their ideas.
-
-    Andrew is a marketing consultant with over 20 years’ experience working with large corporates and small agencies in the financial, beverage, utilities, manufacturing, charity and telecoms markets. Although this often led to work for overseas territories such as UAE, India, USA and Iberia, it came as a relief when the commuting came to an end in 2017. Deciding to go freelance and work on a consultancy capacity, Andrew takes a great pleasure in working with clients and people where they share a passion for the product or service. www.starkenstein.co.uk
-
-    Melissa has worked in tech for over 15 years beginning with software testing for a multinational logistics firm through to project management and assisting with SAP training & implementation for a large construction company, then moving on to York-based tech firm Merisis Technology based at the York Science Park.  Merisis develop web and mobile applications for a range of SMEs to large multi-national corporations. Melissa initially took on the role of business development manager, maintaining relationships with current clients and bringing in new business. Being part of this small firm brought the opportunity to work in many different areas of the business and here Melissa was able to explore and develop her design skill-set. Working on web and mobile application designs for the likes of Moores Furniture Group, comparethemarket.com, Glenmorangie, Touchright Software and NYK Logistics. More recently Melissa founded her own business Melissa Magson Design Studio, working on a part-time consultancy basis with Merisis Technology to continue to develop and design their web and mobile applications. Melissa has grown her client base and supports many local start-up businesses - developing their brand identities, web designs and marketing collateral. She proudly continues to design for many local SMEs such as Ainsty Ales, Sock Club UK, Thora & the Prince, Imagine Projects, Scotts Fish & Chips, The Little Balloon Co and many more.  www.melissamagson.co.uk
-
-    20:20: Closing remarks and networking
-
-    21:00: Event close
-
-
-    Giveaway!
-
-    To be confirmed.
-
-
-
-    Nervous about attending?
-
-    A WiT York ambassador will be outside Pitcher & Piano to greet you on the night, direct you to our upstairs bar and answer any questions you may have.
-
-    You can also join our Slack and LinkedIn community beforehand or contact us directly via Twitter or email.
-
-
-
-    Slack: https://wit-york.slack.com
-
-
-
-    LinkedIn: Women in Tech York
-
-
-
-    Twitter: @WiT_York
-
-
-
-    Email: WomenInTechYork@gmail.com
-
-
-
-    Code of Conduct
-
-    The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack channel.
-  url: https://www.eventbrite.co.uk/e/women-in-tech-york-innovative-tech-tickets-57345090710?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/57624870/235318357053/1/original.20190228-182623?h=200&w=450&auto=compress&rect=0,250,3496,1748&s=a392c40cf615deb2092663273846e000
-  starts: 2019-03-14T18:00:00.0000000
-  ends: 2019-03-14T21:00:00.0000000
-  venue: Pitcher & Piano
 - name: Studying Cancer, One Cell at a Time
   description: Studying Cancer, One Cell at a Time
   url: https://www.eventbrite.co.uk/e/studying-cancer-one-cell-at-a-time-tickets-54640532303?aff=ebapi
@@ -121,14 +33,6 @@
   starts: 2019-05-08T13:00:00.0000000
   ends: 2019-05-08T14:00:00.0000000
   venue: University of York
-- name: Looking for Aliens in a Galaxy Far Far Away...
-  description: "Join us at the Astrocampus as we discuss the likelihood of life existing around the planet Tatooine: The childhood home of Luke Skywalker in Star Wars. This fictional planet is noted for having not one, but two Sun's in its sky. Could such a planet exist in real life? PLUS try hands-on activities, take the opportunity to look round the observatory and, weather permitting, discover the wonders of space through our top of the range telescopes."
-  url: https://www.eventbrite.co.uk/e/looking-for-aliens-in-a-galaxy-far-far-away-tickets-55974927515?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/56282868/133368849299/1/original.20190205-160054?h=200&w=450&auto=compress&rect=0,100,800,400&s=ca5dbc49bf2c643e6078c67777a3290d
-  starts: 2019-03-14T18:30:00.0000000
-  ends: 2019-03-14T19:30:00.0000000
-  venue: Astrocampus
 - name: 'Test York: Experience Automation and Pizza!'
   description: Experience Automation and Pizza!
   url: https://www.eventbrite.co.uk/e/test-york-experience-automation-and-pizza-tickets-58272053280?aff=ebapi
