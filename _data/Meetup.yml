@@ -1,12 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbxb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-03-18T07:00:00.0000000
-  ends: 2019-03-18T10:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
 - name: LeedsDevops - March 2019 Meetup
   description: "<p>We’re back at the ODI Node in Leeds on Tuesday 19th March 2019 for our Devops meetup, here's what we have in store for you:</p> <p>6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>7:15 - 7:25 : Group updates/news/announcements<br/>7:25 - 8:05 : Devoperability: Putting the Ops back into DevOps<br/>8:05 - 8:20 : Intermission<br/>8:20 - 9:00 : Reliability Engineering for Humans<br/>9:00 - late : Social</p> <p>Our first speaker of the night is Alexandra Moore. Alex has worked in IT, Marketing/Web design, Software Support and Software Delivery before moving into her current System Build (DevOps) role within TransUnion (formerly Callcredit). She spends her days making stuff better and says that a day without Metal and motor racing is a dull one.</p> <p>We do \"DevDev\" really well, but are Ops people sufficiently engaged in 'DevOps' efforts and do we know what Operability means? We seem to have moved the wall between Dev and Ops a little bit further to the right, instead of destroying it!</p> <p>Many larger organisations are guilty of this and TransUnion are not immune. One of our greatest challenges is to encourage product teams to look not just at deploy-and-run-ability but also at long term operability of solutions. I'll talk a bit about what operability means for us and how we can embed the right concepts early - with particular emphasis on understanding, testing and deployment.</p> <p>Our headline speaker sees the welcome return of Hannah Foxwell. Hannah is delivery manager at Pivotal, where she helps teams transform how they deliver software. A HumanOps champion, a HugOps evangelist, and a DevOps believer,</p> <p>Her Talk \"Reliability Engineering for Humans\" discusses how the concepts and practices of site reliability engineering are changing the way we build and operate our platforms, enabling us to have more meaningful conversations about availability, service-level objectives, and cost. But what are the benefits for the engineer holding the pager? Can we add a human element to our error budgets?</p> <p>First Time Attendees</p> <p>Here at LeedsDevops we understand that coming along to your first meetup can be an anxious experience, walking into a large room full of people can be daunting. So when you arrive at the meetup we'll have an additional small room for new attendees to make friends with other first time attendees. Then shortly before the start we'll show you into the main room helping make the whole experience less intimidating (but honestly there's nothing to worry about the LeedsDevops crowd is a friendly bunch)</p> <p>Refreshments</p> <p>We're continuing to expand the range of refreshments on offer, there will be a wide range range of quality soft drinks, teas and coffees - a massive thanks to our sponsors Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) for their continued support and sponsorship.</p> <p>Code Of Conduct</p> <p>Please note that we have an anti harassment policy and code of conduct <a href=\"http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in\" class=\"linkified\">http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in</a> order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street opposite Leeds Bus Station. If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on twitter @leedsdevops (<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>For more details see the event page on leedsdevops.org.uk (<a href=\"http://www.leedsdevops.org.uk/post/2019-03-19-tuesday-19th-march-2019-at-the-odi-node-in-leeds/\" class=\"linkified\">http://www.leedsdevops.org.uk/post/2019-03-19-tuesday-19th-march-2019-at-the-odi-node-in-leeds/</a>)</p> "
   url: https://www.meetup.com/LeedsDevops/events/259541203/
@@ -56,14 +47,6 @@
   starts: 2019-03-21T18:30:00.0000000
   ends: 2019-03-21T20:00:00.0000000
   venue: The Catalyst
-- name: CodeUp Leeds Meetup
-  description: "<p>MARCH AGENDA</p> <p>* Introduction to JavaScript: one of our most requested session topics! We will teach you the fundamentals of the de facto programming language of the Web. Are you into web development? JavaScript allows you to turn static websites into dynamic, engaging experiences for your visitors. Do you prefer to build more traditional applications, like desktop apps? JavaScript can do that and much more! Join us in this month's session to find out what this flexible language has to offer!<br/>* Introduction to Collaborative Coding and Open Source: discover how software is built out in the open, both by professionals and amateurs who want to share their craft with the world. Learn to harness the power of open source to develop your own software thanks to platforms like GitHub. Remember, don't reinvent the wheel!</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. To discuss any additional accessibility requirements you may have, please contact [masked].</p> "
-  url: https://www.meetup.com/CodeUp-Leeds/events/lfkxkqyzfbcc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
-  starts: 2019-03-21T18:45:00.0000000
-  ends: 2019-03-21T21:00:00.0000000
-  venue: 3rd Floor, Apsley House
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzfbcc/
@@ -602,6 +585,15 @@
   ends: 2019-09-04T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzmbmb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-09-09T06:00:00.0000000
+  ends: 2019-09-09T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzmbzb/
@@ -649,4 +641,12 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2020-02-20T19:00:00.0000000
   ends: 2020-02-20T22:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmybcfbzb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-03-19T19:00:00.0000000
+  ends: 2020-03-19T22:00:00.0000000
   endorsed: true
