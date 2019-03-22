@@ -305,14 +305,6 @@
   starts: 2019-03-25T15:00:00.0000000
   ends: 2019-03-25T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: IRSE Younger Member Technical Visit and AGM 2019
-  description: "The IRSE Younger Members’ section are pleased to announce that the 2019 AGM will be held at the York Rail Operating Centre (YROC) in York on Thursday 21st March. \nAs well as the AGM we will be holding two technical visits, one on the operating floor at YROC and the other at Siemens Transportation Transpennine Express Rolling Stock maintenance Depot in York.\nRegistration for the afternoon will be at 13:00 for a 13:20 start, the event will close at 16:30.\nThe programme for the afternoon is:\n\n13:00-13:20 - Registration and refreshments\n13:20-13:30 - Introductions\n13:30-14:30 - Presentation/tour of the ROC followed by Q&A\n14:30-15:30 - AGM\n15:30-15:45 - Walk over to Siemens Transportation Depot\n15:45-16:15 - Tour of Siemens Transportation Depot\n16:15-16:30 - Head back to YROC\n19:00 - York Section Annual Dinner\n\nAs well as this exciting opportunity, we are also offering half price tickets to the York section annual IRSE dinner to those who attend the afternoon session. The dinner is taking place on the 21st March at the National Railway Museum at 19:00. The cost to attend the dinner is normally £50 but we can offer the chance to attend for £25. Numbers are limited to 20 so it will be done on a first come first served basis.\n\nPrevious events have provided excellent opportunities to learn and network with colleagues from across the industry.\nThanks to the kind support from Siemens Rail Automation in York, the event will be free of charge. This will include tea, coffee and cakes.\nIf you would like to attend the IRSE York Section Annual dinner there will be a charge of £25. I highly recomend you take this fantastic opportunity to network and listen to the keynote speaker Rob McIntosh, Network Rail's Route Managing Director LNE and Scotland. Further details on the dinner are here: https://irse.info/yorkdinner\nDue to the nature of the visits we have had to limit numbers to 20. Respond as soon as possible to avoid disappointment and we look forward to seeing you all there.\n\n\n\n"
-  url: https://www.eventbrite.co.uk/e/irse-younger-member-technical-visit-and-agm-2019-tickets-58018697486?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/57837482/266717834516/1/original.jpg?h=200&w=450&auto=compress&rect=156,226,1490,745&s=cd770be70a74090d5a42307c16e8fa49
-  starts: 2019-03-21T13:00:00.0000000
-  ends: 2019-03-21T16:30:00.0000000
-  venue: York Rail Operating Centre (York ROC)
 - name: The 7th International Cardiovascular Genomic Medicine Conference
   description: >2+
 
@@ -542,6 +534,21 @@
   starts: 2019-04-16T15:00:00.0000000
   ends: 2019-04-16T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'Alex Bellos: The World’s Favourite Number'
+  description: >-
+    Maths writer Alex Bellos was so sick of being asked for his favourite number that he started to ask everyone else the same question. More than 40,000 responses later he had a treasure trove of data. In a talk that includes mathematics, psychology and the history of science, Bellos reveals the curious patterns behind our emotional responses to numbers - what they say about us, and what’s important about them.
+
+    About the Author
+
+    Alex Bellos is an author and broadcaster who specialises in mathematics and Brazil. When he was the Guardian's correspondent in South America he wrote Futebol: The Brazilian Way of Life, a look at contemporary Brazil seen through football.
+
+    He is also the author of the popular math books Alex's Adventures in Numberland and Alex Through the Looking-Glass, which were both bestsellers in the UK. Alex writes a maths blog and a puzzle blog for the Guardian and frequently speaks on maths at conferences, festivals, in schools and in companies.
+  url: https://www.eventbrite.co.uk/e/alex-bellos-the-worlds-favourite-number-tickets-59101154143?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/58797565/87497926893/1/original.20190320-093252?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=61a3313ee9b3dcfabd2f66338c83bbf9
+  starts: 2019-06-06T19:00:00.0000000
+  ends: 2019-06-06T21:00:00.0000000
+  venue: St Peter's School
 - name: 'PS1: Photoshop Essentials inc. for website editors (Wed 27th Mar 10:00-11:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -638,21 +645,6 @@
   starts: 2019-04-17T10:00:00.0000000
   ends: 2019-04-17T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'Alex Bellos: The World’s Favourite Number'
-  description: >-
-    Maths writer Alex Bellos was so sick of being asked for his favourite number that he started to ask everyone else the same question. More than 40,000 responses later he had a treasure trove of data. In a talk that includes mathematics, psychology and the history of science, Bellos reveals the curious patterns behind our emotional responses to numbers - what they say about us, and what’s important about them.
-
-    About the Author
-
-    Alex Bellos is an author and broadcaster who specialises in mathematics and Brazil. When he was the Guardian's correspondent in South America he wrote Futebol: The Brazilian Way of Life, a look at contemporary Brazil seen through football.
-
-    He is also the author of the popular math books Alex's Adventures in Numberland and Alex Through the Looking-Glass, which were both bestsellers in the UK. Alex writes a maths blog and a puzzle blog for the Guardian and frequently speaks on maths at conferences, festivals, in schools and in companies.
-  url: https://www.eventbrite.co.uk/e/alex-bellos-the-worlds-favourite-number-tickets-59101154143?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/58797565/87497926893/1/original.20190320-093252?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=61a3313ee9b3dcfabd2f66338c83bbf9
-  starts: 2019-06-06T19:00:00.0000000
-  ends: 2019-06-06T21:00:00.0000000
-  venue: St Peter's School
 - name: Inflammatory Bowel Disease Researchers Northern Networking Event
   description: >-
     This is an exciting opportunity for researchers with an interest in Inflammatory Bowel Disease to come together for a networking afternoon.  PhD and MD students with be given the opportunity to give presentations on their work and receive feedback from clinicians and senior researchers in the field. 
