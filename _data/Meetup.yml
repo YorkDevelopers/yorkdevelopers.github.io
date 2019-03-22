@@ -1,26 +1,3 @@
-- name: ACCU York [Mar 2019] - Building a GraphQL API in seconds with Postgraphile
-  description: '<p>This month Joe Abell will give a talk on "Building a GraphQL API in seconds with Postgraphile"</p> <p>Using a Postgres schema to generate a secure, powerful and performant GraphQL API</p> <p>----<br/>Thank you York Science Park for providing us a place to meet<br/>Supported by YorkDevelopers<br/>ACCU York is an ACCU local group</p> '
-  url: https://www.meetup.com/ACCU-York/events/258399696/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/3/6/f/thumb_475438223.jpeg
-  starts: 2019-03-21T18:30:00.0000000
-  ends: 2019-03-21T20:00:00.0000000
-  venue: The Catalyst
-- name: A Northern Tech SecOps Special Event
-  description: "<p>BOOKING VIA EVENTBRITE IS ESSENTIAL: <a href=\"https://www.eventbrite.co.uk/e/a-northern-tech-secops-special-event-tickets-57383317046\" class=\"linkified\">https://www.eventbrite.co.uk/e/a-northern-tech-secops-special-event-tickets-57383317046</a></p> <p>Security is an ever evolving concern. NTE presents two talks around the challenges of maintaining a secure technical environment. Nigel from BAE Systems discusses the issues faced and solutions found whilst working on a high-volume eCommerce platform. Tom Gray from Infinity Works focuses on back-end security, and will talk about the things he has seen and the tools he has put in place to create a secure environment for his clients.</p> <p>TALK 1</p> <p>“Secure Engineering in The Digital World”</p> <p>NIGEL ABRAHAM Agile Delivery Manager, BAE Systems</p> <p>Agile approaches; modern JavaScript Frameworks (React/Angular); and tooling like Docker, Kubernetes and the cloud in general, make it easier and quicker than ever to build, deploy, and manage applications. Equally Continuous Improvement/Deployment has now become broadly accepted wisdom. What considerations are needed in order to ensure that our rapidly evolving applications remain secure? This talk investigates the behaviours that we’ve seen, and the approaches and technology that can be used to help limit risk.</p> <p>TALK 2</p> <p>“People near you didn't believe what happened when we ran this cloud security tool”</p> <p>TOM GRAY Principal Consultant, Infinity Works</p> <p>Modern cloud security is a brand new security landscape that opens up old wounds with new words and new paradigms. This talk aims to cover the basics of some security, with some recent experience in securing applications in the cloud. In terms of technology, Tom will be covering a tool called \"ScoutSuite\" created by NCC Group, and walking the attendees through some best practice on AWS, and how ScoutSuite can help you do that</p> <p>BOOKING VIA EVENTBRITE IS ESSENTIAL: <a href=\"https://www.eventbrite.co.uk/e/a-northern-tech-secops-special-event-tickets-57383317046\" class=\"linkified\">https://www.eventbrite.co.uk/e/a-northern-tech-secops-special-event-tickets-57383317046</a></p> "
-  url: https://www.meetup.com/Northern-Tech-Events/events/259261396/
-  is-free: true
-  starts: 2019-03-21T17:30:00.0000000
-  ends: 2019-03-21T21:00:00.0000000
-  venue: Revolucion de Cuba Leeds
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzfbcc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-03-21T19:00:00.0000000
-  ends: 2019-03-21T22:00:00.0000000
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbhc/
@@ -97,8 +74,8 @@
   ends: 2019-04-01T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
-- name: Brexit Breakfast for April Fools
-  description: "<p>What could be better than an agile breakfast on April Fools' day? Perhaps agile breakfast on the first working day after brexit?! If you wish to drown your brexit woes in excellent coffee/tea and perhaps the odd croissant then please join the rest of us for agile/lean discussions!</p> <p>All welcome irrespective of agile/lean experience.</p> "
+- name: Breakfast for April Fools
+  description: "<p>What could be better than an agile breakfast on April Fools' day? Perhaps agile breakfast on what would have been the first working day after brexit?! If you wish to drown your brexit woes in excellent coffee/tea and perhaps the odd croissant then please join the rest of us for agile/lean discussions!</p> <p>All welcome irrespective of agile/lean experience.</p> "
   url: https://www.meetup.com/Agile-Breakfast-Leeds/events/259921766/
   is-free: true
   starts: 2019-04-01T07:00:00.0000000
@@ -130,6 +107,14 @@
   ends: 2019-04-03T20:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
+- name: Visual Studio 2019 Launch Party
+  description: "<p>Microsoft is launching Visual Studio 2019 on Tuesday, April 2nd, 2019.</p> <p>Let's get together and watch the keynote and some of the sessions from the live event based on participants interests.</p> <p>SWAG will be provided by Microsoft.</p> <p><a href=\"https://visualstudio.microsoft.com/vs2019-launch/\" class=\"linkified\">https://visualstudio.microsoft.com/vs2019-launch/</a></p> "
+  url: https://www.meetup.com/dotnetYork/events/259024771/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
+  starts: 2019-04-04T17:30:00.0000000
+  ends: 2019-04-04T19:30:00.0000000
+  venue: Trailight Boardroom
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgblb/
