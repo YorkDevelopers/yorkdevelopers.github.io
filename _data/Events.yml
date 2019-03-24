@@ -793,6 +793,13 @@
   ends: 2019-04-01T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Breakfast for April Fools
+  description: "<p>What could be better than an agile breakfast on April Fools' day? Perhaps agile breakfast on what would have been the first working day after brexit?! If you wish to drown your brexit woes in excellent coffee/tea and perhaps the odd croissant then please join the rest of us for agile/lean discussions!</p> <p>All welcome irrespective of agile/lean experience.</p> "
+  url: https://www.meetup.com/Agile-Breakfast-Leeds/events/259921766/
+  is-free: true
+  starts: 2019-04-01T07:00:00.0000000
+  ends: 2019-04-01T09:00:00.0000000
+  venue: The Brew Society
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbfb/
