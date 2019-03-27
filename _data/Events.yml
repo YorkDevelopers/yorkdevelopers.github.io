@@ -659,14 +659,6 @@
   starts: 2019-09-11T09:30:00.0000000
   ends: 2019-09-11T16:00:00.0000000
   venue: Green Chemistry Centre of Excellence
-- name: 'YorkSwift Monthly Meetup  #009 - The Peak Framework'
-  description: "<p>This month we are looking at The Peak Framework with the creators Luke Stringer &amp; Sam Oakley. The Peak Framework is a collection of open source, 100% Swift microframeworks providing a standardised approach to building iOS apps.</p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - The Peak Framework with Luke Stringer &amp; Sam Oakley</p> <p>This talk will cover the how and why the mobile team at 3Squared created The Peak Framework, their progress in updating legacy projects to use more and more Swift.</p> <p>### \U0001F680 Topic - The Peak Framework Demo</p> <p>Lets step through a demo of how the frameworks can be used in building a simple app talking to a web api.</p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
-  url: https://www.meetup.com/YorkSwift/events/259538769/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/7/9/c/thumb_472007004.jpeg
-  starts: 2019-03-26T19:00:00.0000000
-  ends: 2019-03-26T21:00:00.0000000
-  venue: The Coffee Bureau
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbkc/
@@ -733,6 +725,13 @@
   ends: 2019-04-01T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Breakfast for April Fools
+  description: "<p>What could be better than an agile breakfast on April Fools' day? Perhaps agile breakfast on what would have been the first working day after brexit?! If you wish to drown your brexit woes in excellent coffee/tea and perhaps the odd croissant then please join the rest of us for agile/lean discussions!</p> <p>All welcome irrespective of agile/lean experience.</p> "
+  url: https://www.meetup.com/Agile-Breakfast-Leeds/events/259921766/
+  is-free: true
+  starts: 2019-04-01T07:00:00.0000000
+  ends: 2019-04-01T09:00:00.0000000
+  venue: The Brew Society
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbfb/
@@ -759,6 +758,14 @@
   ends: 2019-04-03T20:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
+- name: Umbraco Meetup
+  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>More details to come!</p> "
+  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzgbgb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
+  starts: 2019-04-04T16:30:00.0000000
+  ends: 2019-04-04T19:30:00.0000000
+  venue: twentysix
 - name: Visual Studio 2019 Launch Party
   description: "<p>Microsoft is launching Visual Studio 2019 on Tuesday, April 2nd, 2019.</p> <p>Let's get together and watch the keynote and some of the sessions from the live event based on participants interests.</p> <p>SWAG will be provided by Microsoft.</p> <p><a href=\"https://visualstudio.microsoft.com/vs2019-launch/\" class=\"linkified\">https://visualstudio.microsoft.com/vs2019-launch/</a></p> "
   url: https://www.meetup.com/dotnetYork/events/259024771/
@@ -776,6 +783,13 @@
   ends: 2019-04-08T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Blazor
+  description: '<p>Front end development has never had so much attention as it does at the moment, but what if you could use your favourite back end language instead of having to task switch between different languages?</p> <p>Well, the folks that do JavaScript have been able to do that for a long time now, thanks to NodeJS, but now there’s something new on the scene, something that’s be growing quietly but slowly in the background, and you’ve probably heard all about it.</p> <p>It’s called “Web Assembly”, and it’s allowed many Language providers to start re-imagining how we might want to do front end development in the future.</p> <p>One very good case of this is “BLAZOR”, blazor is to put it simply “C# Programming that allows you to code directly in the browser”, you can now ditch Angular, React, Vue and all those complex JavaScript hooligans, and write your browser based applications directly in C# using the power of the .NET API.</p> <p>It’s still in very early stages, but making exceptionally good headway, so come join me for a 60 minute session and I’ll show you what’s happening and where we currently are with this fast moving target so far, this could change your view of browser programming for ever.</p> '
+  url: https://www.meetup.com/HaintonDotNetYorkshire/events/259706741/
+  is-free: true
+  starts: 2019-04-09T17:00:00.0000000
+  ends: 2019-04-09T19:00:00.0000000
+  venue: Duke Studios
 - name: York Code Dojo April Meetup - Web Assembly
   description: '<p>Until recently the only language we could use in web browsers was JavaScript. With the main four browsers now supporting WebAssembly we thought now would be a good time to take a look. The session will be suitable for people of any ability as most of us will be starting with no knowledge of WebAssembly :-) If possible please bring a laptop, ideally with the very latest version of Visual Studio 2019, or Visual Studio Code installed. (other editors can also be used) NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/260048146/
