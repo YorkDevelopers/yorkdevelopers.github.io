@@ -1,45 +1,10 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzfbkc/
+- name: Feature request forum/roadmap
+  description: '<p>This event is for looking at the codebase as it stands and from a community perspective seeing what people want to achieve with it and how we can move forward on that by creating a roadmap</p> '
+  url: https://www.meetup.com/Bot-framework-development-meetup/events/259355082/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-03-27T07:00:00.0000000
-  ends: 2019-03-27T10:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzfbkc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-03-27T08:00:00.0000000
-  ends: 2019-03-27T11:00:00.0000000
-  venue: La Bottega Milanese
-- name: Dinner with Tech Leaders York
-  description: '<p>Join us for Dinner and professional networking aimed at Senior Leaders in Tech</p> <p>We aim to be a group of tech professionals who would like to meet every quarter to enjoy dinner together. We would like to share experiences of leadership in tech businesses and research.</p> <p>This group is aimed at senior level roles - but all are welcome. This will suit CTOs, CIOs, Technical Managers, Chief Architects and similar roles.</p> <p>Tickets are limited to 10 for each event since we aim to have one round table. The bill will be split equal ways on the evening between everyone attending.</p> <p>Endorsed by York Developers . Your ticket fee will be donation to YorkDevelopers to fund the organisation to assist in their activities to meet their organisational goals.</p> <p>Buy your tickets here:</p> <p><a href="https://www.eventbrite.co.uk/e/dinner-with-tech-leaders-york-tickets-56641765044" class="linkified">https://www.eventbrite.co.uk/e/dinner-with-tech-leaders-york-tickets-56641765044</a></p> '
-  url: https://www.meetup.com/YorkDevelopers/events/259398169/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-03-27T18:30:00.0000000
-  ends: 2019-03-27T20:30:00.0000000
-  venue: 'The Mumbai Lounge '
-  endorsed: true
-- name: March - Steve Hobbs & Luke Oliff
-  description: "<p>PLEASE NOTE: RSVPs will be opened on the 20th!</p> <p>Join us to hear from Steve Hobbs and Luke Oliff, as well as a chance to win a code for a year subscription for a Jetbrains toolbox product of your choice.</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 6:55: Job Pitches - Give a shout out for any jobs you have<br/>6:55 - 7:25: Steve Hobbs (@elkdanger) - An Introduction to OIDC for JavaScript Developers<br/>7:25 - 7:35: Break with food and chat<br/>7:35 - 8:20: Luke Oliff (@lukeocodes) - Building a Deployable React Client and Express Backend-For-Frontend<br/>8:20 - 8:30: Prize draw and closing remarks<br/>--------------<br/>Talks:</p> <p>Steve Hobbs (@elkdanger) - An Introduction to OIDC for JavaScript Developers<br/>A whirlwind tour through OAuth2, OpenID Connect, and JSON Web Tokens, and how all this is relevant for JavaScript applications. We'll cover how OIDC builds on top of OAuth, the basics of the OAuth Implicit flow, what JSON Web Tokens are, and some recent changes in the guidance around securing SPAs</p> <p>Luke Oliff (@lukeocodes) - Building a Deployable React Client and Express Backend-For-Frontend<br/>A backend-for-frontend is a service specifically built to be consumed by a frontend application. General purpose backends are typically built alongside clients for their needs. As more clients with more features need access, your originally focussed backend can become more monolithic in size and design. One way to avoid this runaway design is to introduce a backend for each client with only relevant features. I'll show you how to produce a backend-for-frontend Express application that hosts it's own React client, so the entire stack can be built and deployed together.</p> <p>--------------<br/>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no active recruitment policy, outside of the job pitches at the start of the event.<br/>Code of conduct - <a href=\"https://leedsjs.github.io/code-of-conduct/\" class=\"linkified\">https://leedsjs.github.io/code-of-conduct/</a></p> "
-  url: https://www.meetup.com/LeedsJS/events/259497590/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/c/5/9/thumb_433591833.jpeg
-  starts: 2019-03-27T18:30:00.0000000
-  ends: 2019-03-27T20:30:00.0000000
-  venue: Platform
-- name: MagentoYork - March Meetup - Lightning Talks
-  description: '<p>In a series of short talks we discuss the latest happenings of Magento 2.</p> '
-  url: https://www.meetup.com/Magento-York/events/258539531/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/2/3/thumb_444120291.jpeg
-  starts: 2019-03-27T19:00:00.0000000
-  ends: 2019-03-27T21:00:00.0000000
-  venue: The Cross Keys
+  starts: 2019-03-28T18:30:00.0000000
+  ends: 2019-03-28T20:30:00.0000000
+  venue: ONLINE
 - name: Air Quality, Lora and Azure Functions.
   description: "<p>Good quality air is important. After all, everyone breathes. But dig a little deeper into the subject and most of what you find is what we don't know. Is air pollution produced by local traffic? Does it waft in on the breeze? Are there times when I really shouldn't go out for a run?</p> <p>In this talk I'll describe how you can build your own connected air quality sensor and get data from it. I'll touch on embedded devices (including the IoT DevKit) the MQTT protocol, LoRa networking, Azure IoT Hub and Azure Functions, along with the Connected Humber effort to spread sensors over Humberside.</p> <p>Rob Miles</p> <p>Rob Miles spent over 30 years teaching programming to a succession of students at the University of Hull in the UK. He’s a Microsoft MVP with a passion for programming, C# and creating new things.</p> <p>He's written books about embedded development, game creation and programming and is the author of the world famous \"C# Yellow Book\".</p> <p>He is presently working with Connected Humber to create a network of air quality sensors as an exemplar of community based technology development as part of of an open Smart Cities initiative.<br/><a href=\"https://www.connectedhumber.org/\" class=\"linkified\">https://www.connectedhumber.org/</a><br/><a href=\"https://www.robmiles.com/\" class=\"linkified\">https://www.robmiles.com/</a><br/>@robmiles</p> "
   url: https://www.meetup.com/Leeds-Sharp/events/259496744/
@@ -48,13 +13,6 @@
   starts: 2019-03-28T18:30:00.0000000
   ends: 2019-03-28T20:30:00.0000000
   venue: Platform
-- name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
-  url: https://www.meetup.com/LeedsRubyThing/events/tvfcvqyzfblc/
-  is-free: true
-  starts: 2019-03-28T19:30:00.0000000
-  ends: 2019-03-28T23:30:00.0000000
-  venue: Veritas Ale & Wine Bar
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbcb/
@@ -88,6 +46,14 @@
   starts: 2019-04-03T07:00:00.0000000
   ends: 2019-04-03T10:00:00.0000000
   venue: La Bottega Milanese
+- name: '"Resurrect" GDG Leeds'
+  description: "<p>Let's meet and discuss a plan to restart GDG Leeds activities. In an open and democratic way you, the members, of this group can become co-organisers of the future activities. We aim to meet after 17:30 and start formally at 18:00.</p> "
+  url: https://www.meetup.com/GDG-Leeds/events/260080755/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
+  starts: 2019-04-03T17:00:00.0000000
+  ends: 2019-04-03T18:00:00.0000000
+  venue: The Black Prince
 - name: Front End York - April Event
   description: '<p>Front End York - April Event</p> <p>Daniel Woolfson - How to organise a Tech Conference</p> <p>Dee Vincent-Day - TBC</p> '
   url: https://www.meetup.com/YorkDevelopers/events/259742226/
@@ -98,15 +64,15 @@
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
 - name: Umbraco Meetup
-  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>More details to come!</p> "
+  description: "<p>This month's event will be held at Enjoy Digital and we'll be having 2 talks:</p> <p>Phil \"The unstoppable talk machine\" Whittaker - I used to run Headless Umbraco before it was cool<br/>Stefano Chiodino - Static Site Generators</p> <p>Feel free to come from 17:30, or any time later than the starting time!</p> "
   url: https://www.meetup.com/umbLeeds/events/ltvqhqyzgbgb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2019-04-04T16:30:00.0000000
-  ends: 2019-04-04T19:30:00.0000000
-  venue: twentysix
+  starts: 2019-04-04T17:00:00.0000000
+  ends: 2019-04-04T20:00:00.0000000
+  venue: Enjoy Digital
 - name: Visual Studio 2019 Launch Party
-  description: "<p>Microsoft is launching Visual Studio 2019 on Tuesday, April 2nd, 2019.</p> <p>Let's get together and watch the keynote and some of the sessions from the live event based on participants interests.</p> <p>SWAG will be provided by Microsoft.</p> <p><a href=\"https://visualstudio.microsoft.com/vs2019-launch/\" class=\"linkified\">https://visualstudio.microsoft.com/vs2019-launch/</a></p> "
+  description: "<p>Microsoft is launching Visual Studio 2019 on Tuesday, April 2nd, 2019. We'll be hosting a delayed Visual Studio 2019 Launch Party 2 days afterward.</p> <p>Let's get together and watch the keynote and some of the sessions from the live event based on participants interests.</p> <p>SWAG will be provided by Microsoft.</p> <p><a href=\"https://visualstudio.microsoft.com/vs2019-launch/\" class=\"linkified\">https://visualstudio.microsoft.com/vs2019-launch/</a></p> "
   url: https://www.meetup.com/dotnetYork/events/259024771/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
@@ -122,8 +88,8 @@
   ends: 2019-04-08T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
-- name: Blazor
-  description: '<p>Front end development has never had so much attention as it does at the moment, but what if you could use your favourite back end language instead of having to task switch between different languages?</p> <p>Well, the folks that do JavaScript have been able to do that for a long time now, thanks to NodeJS, but now there’s something new on the scene, something that’s be growing quietly but slowly in the background, and you’ve probably heard all about it.</p> <p>It’s called “Web Assembly”, and it’s allowed many Language providers to start re-imagining how we might want to do front end development in the future.</p> <p>One very good case of this is “BLAZOR”, blazor is to put it simply “C# Programming that allows you to code directly in the browser”, you can now ditch Angular, React, Vue and all those complex JavaScript hooligans, and write your browser based applications directly in C# using the power of the .NET API.</p> <p>It’s still in very early stages, but making exceptionally good headway, so come join me for a 60 minute session and I’ll show you what’s happening and where we currently are with this fast moving target so far, this could change your view of browser programming for ever.</p> '
+- name: "'Blazor' by Peter Shaw"
+  description: '<p>Front end development has never had so much attention as it does at the moment, but what if you could use your favourite back end language instead of having to task switch between different languages?</p> <p>Well, the folks that do JavaScript have been able to do that for a long time now, thanks to NodeJS, but now there’s something new on the scene, something that’s be growing quietly but slowly in the background, and you’ve probably heard all about it.</p> <p>It’s called “Web Assembly”, and it’s allowed many Language providers to start re-imagining how we might want to do front end development in the future.</p> <p>One very good case of this is “BLAZOR”, blazor is to put it simply “C# Programming that allows you to code directly in the browser”, you can now ditch Angular, React, Vue and all those complex JavaScript hooligans, and write your browser based applications directly in C# using the power of the .NET API.</p> <p>It’s still in very early stages, but making exceptionally good headway, so come join me for a 60 minute session and I’ll show you what’s happening and where we currently are with this fast moving target so far, this could change your view of browser programming for ever.</p> <p>Peter Shaw is a freelance developer / IT consultant, Pluralsight Author and General Manager of LIDNUG (the #1 users group for C# professionals on the internet)</p> '
   url: https://www.meetup.com/HaintonDotNetYorkshire/events/259706741/
   is-free: true
   starts: 2019-04-09T17:00:00.0000000
@@ -147,6 +113,14 @@
   ends: 2019-04-10T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzgbnb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-04-10T07:00:00.0000000
+  ends: 2019-04-10T10:00:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbtb/
@@ -590,6 +564,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-09-16T06:00:00.0000000
   ends: 2019-09-16T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzmbxb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-09-18T06:00:00.0000000
+  ends: 2019-09-18T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
