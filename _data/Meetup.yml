@@ -1,18 +1,3 @@
-- name: Feature request forum/roadmap
-  description: '<p>This event is for looking at the codebase as it stands and from a community perspective seeing what people want to achieve with it and how we can move forward on that by creating a roadmap</p> '
-  url: https://www.meetup.com/Bot-framework-development-meetup/events/259355082/
-  is-free: true
-  starts: 2019-03-28T18:30:00.0000000
-  ends: 2019-03-28T20:30:00.0000000
-  venue: ONLINE
-- name: Air Quality, Lora and Azure Functions.
-  description: "<p>Good quality air is important. After all, everyone breathes. But dig a little deeper into the subject and most of what you find is what we don't know. Is air pollution produced by local traffic? Does it waft in on the breeze? Are there times when I really shouldn't go out for a run?</p> <p>In this talk I'll describe how you can build your own connected air quality sensor and get data from it. I'll touch on embedded devices (including the IoT DevKit) the MQTT protocol, LoRa networking, Azure IoT Hub and Azure Functions, along with the Connected Humber effort to spread sensors over Humberside.</p> <p>Rob Miles</p> <p>Rob Miles spent over 30 years teaching programming to a succession of students at the University of Hull in the UK. He’s a Microsoft MVP with a passion for programming, C# and creating new things.</p> <p>He's written books about embedded development, game creation and programming and is the author of the world famous \"C# Yellow Book\".</p> <p>He is presently working with Connected Humber to create a network of air quality sensors as an exemplar of community based technology development as part of of an open Smart Cities initiative.<br/><a href=\"https://www.connectedhumber.org/\" class=\"linkified\">https://www.connectedhumber.org/</a><br/><a href=\"https://www.robmiles.com/\" class=\"linkified\">https://www.robmiles.com/</a><br/>@robmiles</p> "
-  url: https://www.meetup.com/Leeds-Sharp/events/259496744/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2019-03-28T18:30:00.0000000
-  ends: 2019-03-28T20:30:00.0000000
-  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbcb/
@@ -54,8 +39,8 @@
   starts: 2019-04-03T17:00:00.0000000
   ends: 2019-04-03T18:00:00.0000000
   venue: The Black Prince
-- name: Front End York - April Event
-  description: '<p>Front End York - April Event</p> <p>Daniel Woolfson - How to organise a Tech Conference</p> <p>Dee Vincent-Day - TBC</p> '
+- name: Front End York - April Event - "How to organise a Tech Conference" & TBC
+  description: '<p>2 talks at our Front End York - April Event!!</p> <p>"How to organise a Tech Conference" - Daniel Woolfson</p> <p>YorkTechFest 2018 event was themed “A Showcase Of Tech Non-Profit Communities” was delivered on the evening of November 13th 2018. Over 80 people attended City of Council West Offices to listen to 10 speakers on tech topics. You may have been there :-)</p> <p>The YorkTechFest event is aimed at providing representation of the growing tech non-profit community in the City of York. This annual event is aimed at members of existing tech communities and to promote cross pollination of innovation between existing groups.</p> <p>This is the story of how YorkDevelopers did it with the help of key partners and of course the tech community....</p> <p>About Daniel (@DanielWoolfson)</p> <p>Daniel Woolfson is Chair of YorkDevelopers (www.yorkdevelopers.org), a registered Charity which supports, develops and encourages communities of Software Developers and IT professionals in and around the City of York. Daniel is also Head of Development and Test at PureNet (www.purenet.co.uk) developing ecommerce solutions to B2C and B2B businesses throughout the UK.</p> <p>Dee Vincent-Day - TBC</p> '
   url: https://www.meetup.com/YorkDevelopers/events/259742226/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -64,7 +49,7 @@
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
 - name: Umbraco Meetup
-  description: "<p>This month's event will be held at Enjoy Digital and we'll be having 2 talks:</p> <p>Phil \"The unstoppable talk machine\" Whittaker - I used to run Headless Umbraco before it was cool<br/>Stefano Chiodino - Static Site Generators</p> <p>Feel free to come from 17:30, or any time later than the starting time!</p> "
+  description: "<p>This month's event will be held at Enjoy Digital and we'll be having 1 talk:</p> <p>Phil \"The unstoppable talk machine\" Whittaker - I used to run Headless Umbraco before it was cool</p> <p>We'll then join the Umbraco community video call to discuss Umbraco Backoffice accessibility! (<a href=\"https://trello.com/b/MwD8xuz3/umbraco-accessibility\" class=\"linkified\">https://trello.com/b/MwD8xuz3/umbraco-accessibility</a>)</p> <p>Feel free to come from 17:30, or any time later than the starting time!</p> "
   url: https://www.meetup.com/umbLeeds/events/ltvqhqyzgbgb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
