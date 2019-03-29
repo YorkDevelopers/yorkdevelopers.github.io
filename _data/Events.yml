@@ -18,20 +18,6 @@
   starts: 2019-05-08T13:00:00.0000000
   ends: 2019-05-08T14:00:00.0000000
   venue: University of York
-- name: Astrocampus Open Evenings
-  description: >-
-    Join us for a tour of the Astrocampus: Explore our observatories and discover the wonders of the night sky - whatever the weather! With clear skies, enjoy using our telescopes, and if the weather lets us down investigate how telescopes work and find out more about our Universe.  
-
-    These events go ahead whatever the weather, so please ensure that you wrap up warm for those not so pleasant nights!  The events are designed to be suitable for all ages.   
-
-    Please meet at the Astrocampus of the University of York. Parking is available in the Campus West car park (pay and display until 6pm). A map is available here.  Access is from the cycle path behind the sports centre and the Astrocampus can be contacted on the night on 01904 322249 and prior to the evening on 01904 322209.    
-
-    If you would like to be added to our mailing list to be informed when new dates become available, please visit http://www.york.ac.uk/astrocampus.
-  url: https://www.eventbrite.co.uk/e/astrocampus-open-evenings-tickets-53431638469?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/12124608/133368849299/1/original.jpg?h=200&w=450&auto=compress&s=c0fbc959f488ae8ca041518b198b88f6
-  starts: 2019-03-28T18:30:00.0000000
-  ends: 2019-03-28T19:30:00.0000000
 - name: Women in Tech York Learn Something New
   description: >-
     Welcome to Women in Tech York's April event!
@@ -156,6 +142,21 @@
   starts: 2019-04-25T09:30:00.0000000
   ends: 2019-04-25T15:30:00.0000000
   venue: Ron Cooke Hub
+- name: 'Alex Bellos: The World’s Favourite Number'
+  description: >-
+    Maths writer Alex Bellos was so sick of being asked for his favourite number that he started to ask everyone else the same question. More than 40,000 responses later he had a treasure trove of data. In a talk that includes mathematics, psychology and the history of science, Bellos reveals the curious patterns behind our emotional responses to numbers - what they say about us, and what’s important about them.
+
+    About the Author
+
+    Alex Bellos is an author and broadcaster who specialises in mathematics and Brazil. When he was the Guardian's correspondent in South America he wrote Futebol: The Brazilian Way of Life, a look at contemporary Brazil seen through football.
+
+    He is also the author of the popular math books Alex's Adventures in Numberland and Alex Through the Looking-Glass, which were both bestsellers in the UK. Alex writes a maths blog and a puzzle blog for the Guardian and frequently speaks on maths at conferences, festivals, in schools and in companies.
+  url: https://www.eventbrite.co.uk/e/alex-bellos-the-worlds-favourite-number-tickets-59101154143?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/58797565/87497926893/1/original.20190320-093252?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=61a3313ee9b3dcfabd2f66338c83bbf9
+  starts: 2019-06-06T19:00:00.0000000
+  ends: 2019-06-06T21:00:00.0000000
+  venue: St Peter's School
 - name: Clean Air Day- air pollution and York
   description: "Air pollution, its all over the news and all over our cities, but what do you really want to know about it?  Come along to find out about air quality research at the University of York, how it relates to this beautiful city and where it impacts on our everyday lives. Take the opportunity to quiz experts from the University and York City Council on all things air pollution, and consider the simple things that can be done to help improve the air we breathe.\nHosted by the Wolfson Atmospheric Chemistry Laboratories at the University of York, this event aims to raise awareness of air pollution issues - particularly in York - ahead of Clean Air Day (20th June), the UK’s largest air pollution campaign.\nAbout the speakers\nDr David Carslaw is a Reader in the Department of Chemistry at the University of York. His research is focussed on developing a better understanding of urban air pollution, particularly around emissions of nitrogen dioxide (NO2). Much of his work is aimed at better quantifying vehicle emissions under urban driving conditions. Another area of focus is the development of receptor modelling approaches to improve understanding of the influence of different emission sources on ambient concentrations. \nAlastair Lewis is Professor of Atmospheric Chemistry at the University of York working within the Wolfson Atmospheric Chemistry Laboratories. He is also currently Deputy Director of, and Director for atmospheric composition, at the National Centre for Atmospheric Science (NCAS). He has participated in over 30 major atmospheric science field projects, from polar regions to tropical oceans, city centres to remote forests. He is a member of a number of expert advisory groups including for Defra, the World Meteorological Organisation and United Nations Environment Programme (UNEP).\nLiz Bates is a University of York alumni employed as a specialist air quality officer at City of York Council and City of Bradford MDC. She helped develop the Air Quality Action Plan (AQAP) and Low Emission Strategy (LES) for York and has a specialist interest in low emission planning. She helps to co-ordinate Clean Air Day activities in York.\nHealth in Urban Environments Event Series\nThe event forms part of the Health in Urban Environments Series where the York Environmental Sustainability Institute (YESI), Stockholm Environment Institute (SEI), Interdisciplinary Global Development Centre (IGDC), Wolfson Atmospheric Chemistry Laboratories (WACL) and several Research Champions are joining forces to host an event series to explore Urban Living-related research and innovation at the University of York.\nThrough a series of workshops, lunchtime seminar, full day events and discussion sessions, we will gain insight into the historical development of the world’s cities and the social and environmental consequences of urbanisation.\nBy bringing together the social, physical and life sciences we will be able to explore this topic from many angles and celebrate the interdisciplinary nature of research at the University of York.\nThe series, which will begin in January and conclude in June in alignment with Clean Air Day, will be open to researchers, staff and students at the University of York."
   url: https://www.eventbrite.co.uk/e/clean-air-day-air-pollution-and-york-tickets-53815756376?aff=ebapi
@@ -442,21 +443,6 @@
   starts: 2019-05-02T09:30:00.0000000
   ends: 2019-05-02T15:30:00.0000000
   venue: (Venue TBC)
-- name: 'Alex Bellos: The World’s Favourite Number'
-  description: >-
-    Maths writer Alex Bellos was so sick of being asked for his favourite number that he started to ask everyone else the same question. More than 40,000 responses later he had a treasure trove of data. In a talk that includes mathematics, psychology and the history of science, Bellos reveals the curious patterns behind our emotional responses to numbers - what they say about us, and what’s important about them.
-
-    About the Author
-
-    Alex Bellos is an author and broadcaster who specialises in mathematics and Brazil. When he was the Guardian's correspondent in South America he wrote Futebol: The Brazilian Way of Life, a look at contemporary Brazil seen through football.
-
-    He is also the author of the popular math books Alex's Adventures in Numberland and Alex Through the Looking-Glass, which were both bestsellers in the UK. Alex writes a maths blog and a puzzle blog for the Guardian and frequently speaks on maths at conferences, festivals, in schools and in companies.
-  url: https://www.eventbrite.co.uk/e/alex-bellos-the-worlds-favourite-number-tickets-59101154143?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/58797565/87497926893/1/original.20190320-093252?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=61a3313ee9b3dcfabd2f66338c83bbf9
-  starts: 2019-06-06T19:00:00.0000000
-  ends: 2019-06-06T21:00:00.0000000
-  venue: St Peter's School
 - name: Osprey Approach Spring Roadshow 2019 - Swansea
   description: We have finalised the dates and locations for our 2019 Spring Roadshows. During our seminars we will be covering: - All you Need to Know About Making Tax Digital - How and Why to Use Social Media- Benefits of an Online Quote Calculator - Our New Focused Apps
   url: https://www.eventbrite.co.uk/e/osprey-approach-spring-roadshow-2019-swansea-tickets-55576551963?aff=ebapi
@@ -744,21 +730,6 @@
   starts: 2019-06-04T16:00:00.0000000
   ends: 2019-06-04T17:45:00.0000000
   venue: National STEM Learning Centre
-- name: Feature request forum/roadmap
-  description: '<p>This event is for looking at the codebase as it stands and from a community perspective seeing what people want to achieve with it and how we can move forward on that by creating a roadmap</p> '
-  url: https://www.meetup.com/Bot-framework-development-meetup/events/259355082/
-  is-free: true
-  starts: 2019-03-28T18:30:00.0000000
-  ends: 2019-03-28T20:30:00.0000000
-  venue: ONLINE
-- name: Air Quality, Lora and Azure Functions.
-  description: "<p>Good quality air is important. After all, everyone breathes. But dig a little deeper into the subject and most of what you find is what we don't know. Is air pollution produced by local traffic? Does it waft in on the breeze? Are there times when I really shouldn't go out for a run?</p> <p>In this talk I'll describe how you can build your own connected air quality sensor and get data from it. I'll touch on embedded devices (including the IoT DevKit) the MQTT protocol, LoRa networking, Azure IoT Hub and Azure Functions, along with the Connected Humber effort to spread sensors over Humberside.</p> <p>Rob Miles</p> <p>Rob Miles spent over 30 years teaching programming to a succession of students at the University of Hull in the UK. He’s a Microsoft MVP with a passion for programming, C# and creating new things.</p> <p>He's written books about embedded development, game creation and programming and is the author of the world famous \"C# Yellow Book\".</p> <p>He is presently working with Connected Humber to create a network of air quality sensors as an exemplar of community based technology development as part of of an open Smart Cities initiative.<br/><a href=\"https://www.connectedhumber.org/\" class=\"linkified\">https://www.connectedhumber.org/</a><br/><a href=\"https://www.robmiles.com/\" class=\"linkified\">https://www.robmiles.com/</a><br/>@robmiles</p> "
-  url: https://www.meetup.com/Leeds-Sharp/events/259496744/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2019-03-28T18:30:00.0000000
-  ends: 2019-03-28T20:30:00.0000000
-  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbcb/
@@ -800,8 +771,8 @@
   starts: 2019-04-03T17:00:00.0000000
   ends: 2019-04-03T18:00:00.0000000
   venue: The Black Prince
-- name: Front End York - April Event
-  description: '<p>Front End York - April Event</p> <p>Daniel Woolfson - How to organise a Tech Conference</p> <p>Dee Vincent-Day - TBC</p> '
+- name: Front End York - April Event - "How to organise a Tech Conference" & TBC
+  description: '<p>2 talks at our Front End York - April Event!!</p> <p>"How to organise a Tech Conference" - Daniel Woolfson</p> <p>YorkTechFest 2018 event was themed “A Showcase Of Tech Non-Profit Communities” was delivered on the evening of November 13th 2018. Over 80 people attended City of Council West Offices to listen to 10 speakers on tech topics. You may have been there :-)</p> <p>The YorkTechFest event is aimed at providing representation of the growing tech non-profit community in the City of York. This annual event is aimed at members of existing tech communities and to promote cross pollination of innovation between existing groups.</p> <p>This is the story of how YorkDevelopers did it with the help of key partners and of course the tech community....</p> <p>About Daniel (@DanielWoolfson)</p> <p>Daniel Woolfson is Chair of YorkDevelopers (www.yorkdevelopers.org), a registered Charity which supports, develops and encourages communities of Software Developers and IT professionals in and around the City of York. Daniel is also Head of Development and Test at PureNet (www.purenet.co.uk) developing ecommerce solutions to B2C and B2B businesses throughout the UK.</p> <p>Dee Vincent-Day - TBC</p> '
   url: https://www.meetup.com/YorkDevelopers/events/259742226/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -810,7 +781,7 @@
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
 - name: Umbraco Meetup
-  description: "<p>This month's event will be held at Enjoy Digital and we'll be having 2 talks:</p> <p>Phil \"The unstoppable talk machine\" Whittaker - I used to run Headless Umbraco before it was cool<br/>Stefano Chiodino - Static Site Generators</p> <p>Feel free to come from 17:30, or any time later than the starting time!</p> "
+  description: "<p>This month's event will be held at Enjoy Digital and we'll be having 1 talk:</p> <p>Phil \"The unstoppable talk machine\" Whittaker - I used to run Headless Umbraco before it was cool</p> <p>We'll then join the Umbraco community video call to discuss Umbraco Backoffice accessibility! (<a href=\"https://trello.com/b/MwD8xuz3/umbraco-accessibility\" class=\"linkified\">https://trello.com/b/MwD8xuz3/umbraco-accessibility</a>)</p> <p>Feel free to come from 17:30, or any time later than the starting time!</p> "
   url: https://www.meetup.com/umbLeeds/events/ltvqhqyzgbgb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
