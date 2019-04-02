@@ -443,14 +443,6 @@
   starts: 2019-05-02T09:30:00.0000000
   ends: 2019-05-02T15:30:00.0000000
   venue: (Venue TBC)
-- name: Osprey Approach Spring Roadshow 2019 - Swansea
-  description: We have finalised the dates and locations for our 2019 Spring Roadshows. During our seminars we will be covering: - All you Need to Know About Making Tax Digital - How and Why to Use Social Media- Benefits of an Online Quote Calculator - Our New Focused Apps
-  url: https://www.eventbrite.co.uk/e/osprey-approach-spring-roadshow-2019-swansea-tickets-55576551963?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/55897909/268167050510/1/original.20190129-144730?h=200&w=450&auto=compress&rect=0,27,1650,825&s=02ab107f5e62b8d162f7a20f0242c280
-  starts: 2019-05-08T09:30:00.0000000
-  ends: 2019-05-08T15:30:00.0000000
-  venue: (Venue TBC)
 - name: Exploring the Primary Computing and Science Curriculum with LEGO® Education WeDo 2.0
   description: >-
     Join us for this free teacher workshop and get hands-on with LEGO® Education WeDo 2.0!
@@ -492,6 +484,51 @@
   starts: 2019-05-08T16:00:00.0000000
   ends: 2019-05-08T17:45:00.0000000
   venue: National STEM Learning Centre
+- name: Osprey Approach Spring Roadshow 2019 - Swansea
+  description: We have finalised the dates and locations for our 2019 Spring Roadshows. During our seminars we will be covering: - All you Need to Know About Making Tax Digital - How and Why to Use Social Media- Benefits of an Online Quote Calculator - Our New Focused Apps
+  url: https://www.eventbrite.co.uk/e/osprey-approach-spring-roadshow-2019-swansea-tickets-55576551963?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55897909/268167050510/1/original.20190129-144730?h=200&w=450&auto=compress&rect=0,27,1650,825&s=02ab107f5e62b8d162f7a20f0242c280
+  starts: 2019-05-08T09:30:00.0000000
+  ends: 2019-05-08T15:30:00.0000000
+  venue: (Venue TBC)
+- name: 'WE1: Website CMS Basic training (Wed 17th Apr 10:00-12:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-wed-17th-apr-1000-1200-tickets-55517261624?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/55830240/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=55f115e493a2a2a0fb315b8ca52f24ed
+  starts: 2019-04-17T10:00:00.0000000
+  ends: 2019-04-17T12:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: Exploring the Secondary Computing and Science Curriculum with LEGO® MINDSTORMS® Education EV3
   description: >+
     This Secondary STEM Workshop utilises the inspiring LEGO® MINDSTORMS® Education EV3 resource to engage and inspire pupils in STEM learning.
@@ -520,6 +557,59 @@
   starts: 2019-05-01T16:00:00.0000000
   ends: 2019-05-01T17:45:00.0000000
   venue: National STEM Learning Centre
+- name: OF2:Office 365 including collaborative working with Teams (Tue 9th April 14:00-15:00)
+  description: >
+    These courses are for students and staff at York St John University. 
+
+
+    Office 365 including collaborative working with Teams
+
+    Prior knowledge: none
+
+    Office 365 offers many ways to work collaboratively.  Files stored in OneDrive can be accessed from anywhere online and can be shared and simultaneously worked on. Microsoft Teams provides an easy way to work collaboratively with other staff and students. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Getting into Office 365
+
+    Using Office online apps
+
+    Working with OneDrive to store documents
+
+    Sharing personal documents and collaborative editing
+
+    Creating and managing Microsoft Teams
+
+    Managing Team files in OneDrive
+
+    Key apps for Team based collaborative working including Planner and OneNote
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/of2office-365-including-collaborative-working-with-teams-tue-9th-april-1400-1500-tickets-59336937377?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59076494/47610739467/1/original.20190225-162818?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=dd789cc618ab21ef5dafd5177160bd82
+  starts: 2019-04-09T14:00:00.0000000
+  ends: 2019-04-09T15:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'PS1: Photoshop Essentials inc. for website editors (Tue 16th Apr 15:00-16:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -579,70 +669,111 @@
   starts: 2019-04-16T15:00:00.0000000
   ends: 2019-04-16T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'WE1: Website CMS Basic training (Wed 17th Apr 10:00-12:00)'
-  description: >-
-    These courses are for staff who have been approved by the website team only
+- name: MOS Test (Tue 16th April 11:00-12:00)
+  description: >
+    These sessions are for students, staff and alumni of York St John University. 
 
 
-    WE1: Website CMS basics
+    MOS: MOS Test
 
-    Prior knowledge: None
+    Microsoft Office Specialist training and certification MOS tests are only available to staff and students at York St John University. We can also offer tests for free to Alumni, please email for details.
 
-    Introduction to the York St John University website content management system
+    These sessions are for people who have practised and are ready to take a test.
 
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+    Microsoft Office Specialist (MOS) tests are internationally recognised and are often listed in the desirable column of job specifications. They demonstrate a very good understanding of the workings of Office software such as Word or Excel. The GMetrix software allows you to work towards taking Microsoft Office Specialist (MOS) tests at your own pace. This service is free to staff and students and alumni. If you need a GMetrix code to practise or more information on tests for individuals with disabilities please conact us.
 
 
     FAQ
 
-    Is this course open to anyone?
+    Is this session open to anyone?
 
-    This course is only available to students and staff from York St John University.
+    This course is only available to alumni, students and staff from York St John University.
 
      
 
     How can I contact the organiser with any questions?
 
-    Email digitaltraining@yorksj.ac.uk 
+    Email digitaltraining@yorksj.ac.uk 
 
      
 
     Do I have to bring my printed ticket to the event?
 
     No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-wed-17th-apr-1000-1200-tickets-55517261624?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/mos-test-tue-16th-april-1100-1200-tickets-59691379523?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/55830240/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=55f115e493a2a2a0fb315b8ca52f24ed
-  starts: 2019-04-17T10:00:00.0000000
-  ends: 2019-04-17T12:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
-- name: OF2:Office 365 including collaborative working with Teams (Tue 9th April 14:00-15:00)
+  logo: https://cdn.evbuc.com/images/59455521/47610739467/1/original.20190329-131929?h=200&w=450&auto=compress&rect=0,12,400,200&s=f84e56c41da2847eeb49b87d4f8808ab
+  starts: 2019-04-15T11:00:00.0000000
+  ends: 2019-04-15T12:00:00.0000000
+  venue: FT/208
+- name: MOS Test (Wed 10th April 12:00-13:00)
   description: >
+    These sessions are for students, staff and alumni of York St John University. 
+
+
+    MOS: MOS Test
+
+    Microsoft Office Specialist training and certification MOS tests are only available to staff and students at York St John University. We can also offer tests for free to Alumni, please email for details.
+
+    These sessions are for people who have practised and are ready to take a test.
+
+    Microsoft Office Specialist (MOS) tests are internationally recognised and are often listed in the desirable column of job specifications. They demonstrate a very good understanding of the workings of Office software such as Word or Excel. The GMetrix software allows you to work towards taking Microsoft Office Specialist (MOS) tests at your own pace. This service is free to staff and students and alumni. If you need a GMetrix code to practise or more information on tests for individuals with disabilities please conact us.
+
+
+    FAQ
+
+    Is this session open to anyone?
+
+    This course is only available to alumni, students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/mos-test-wed-10th-april-1200-1300-tickets-59699560994?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59464341/47610739467/1/original.20190329-131929?h=200&w=450&auto=compress&rect=0,12,400,200&s=57b1e76f4324ec642f24b42c491fd737
+  starts: 2019-04-10T12:00:00.0000000
+  ends: 2019-04-10T13:00:00.0000000
+  venue: FT/208
+- name: 'AD1: Making accessible documents (Thur 25th April 14:00-15:00)'
+  description: >+
     These courses are for students and staff at York St John University. 
 
 
-    Office 365 including collaborative working with Teams
+    AD1: Making accessible documents
 
     Prior knowledge: none
 
-    Office 365 offers many ways to work collaboratively.  Files stored in OneDrive can be accessed from anywhere online and can be shared and simultaneously worked on. Microsoft Teams provides an easy way to work collaboratively with other staff and students. This course can be customised for different teams or delivered to student groups.
+    Making documents accessible is important for everyone, not just those with visual impairments, hearing impairments and mobility limitations. As well as being best practise, new regulations are coming into force for all websites. Learn how to make PowerPoint presentations, Word documents, Excel Spreadsheets and PDFs accessible in a few easy steps. This course can be customised for different teams or delivered to student groups.
 
     This course includes:
 
 
-    Getting into Office 365
+    Adding captions to images
 
-    Using Office online apps
+    Controlling the order in which screen readers navigate documents
 
-    Working with OneDrive to store documents
+    Creating accessible tables
 
-    Sharing personal documents and collaborative editing
+    Using colour in documents
 
-    Creating and managing Microsoft Teams
+    Adding meta-data to documents
 
-    Managing Team files in OneDrive
+    Creating accessible hyperlinks
 
-    Key apps for Team based collaborative working including Planner and OneNote
+    Using the built-in accessibility checkers
+
+    Discussion of different formats for accessible documents
+
+    Brief discussion of other YSJ systems
 
 
 
@@ -663,11 +794,12 @@
     Do I have to bring my printed ticket to the event?
 
     No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/of2office-365-including-collaborative-working-with-teams-tue-9th-april-1400-1500-tickets-59336937377?aff=ebapi
+
+  url: https://www.eventbrite.co.uk/e/ad1-making-accessible-documents-thur-25th-april-1400-1500-tickets-59700588066?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/59076494/47610739467/1/original.20190225-162818?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=dd789cc618ab21ef5dafd5177160bd82
-  starts: 2019-04-09T14:00:00.0000000
-  ends: 2019-04-09T15:00:00.0000000
+  logo: https://cdn.evbuc.com/images/59465685/47610739467/1/original.20190225-131255?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=f714fa144f9c230b226244fbb7596a07
+  starts: 2019-04-25T14:00:00.0000000
+  ends: 2019-04-25T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: Inflammatory Bowel Disease Researchers Northern Networking Event
   description: >-
@@ -730,23 +862,25 @@
   starts: 2019-06-04T16:00:00.0000000
   ends: 2019-06-04T17:45:00.0000000
   venue: National STEM Learning Centre
-- name: MOS TestFest (Wed 1st May 10:00-11:00)
+- name: MOS Test (Wed 1st May 10:00-11:00)
   description: >
-    These sessions are for students and staff at York St John University. 
+    These sessions are for students, staff and alumni of York St John University. 
 
 
-    MOS: MOS TestFest
+    MOS: MOS Test
 
     Microsoft Office Specialist training and certification MOS tests are only available to staff and students at York St John University. We can also offer tests for free to Alumni, please email for details.
 
-    Microsoft Office Specialist (MOS) tests are internationally recognised and are often listed in the desirable column of job specifications. They demonstrate a very good understanding of the workings of Office software such as Word or Excel. The GMetrix software allows you to work towards taking Microsoft Office Specialist (MOS) tests at your own pace. This service is free to staff and students. For more information on individuals with disabilities please conact us for further information.
+    These sessions are for people who have practised and are ready to take a test.
+
+    Microsoft Office Specialist (MOS) tests are internationally recognised and are often listed in the desirable column of job specifications. They demonstrate a very good understanding of the workings of Office software such as Word or Excel. The GMetrix software allows you to work towards taking Microsoft Office Specialist (MOS) tests at your own pace. This service is free to staff and students and alumni. If you need a GMetrix code to practise or more information on tests for individuals with disabilities please conact us.
 
 
     FAQ
 
     Is this session open to anyone?
 
-    This course is only available to students and staff from York St John University.
+    This course is only available to alumni, students and staff from York St John University.
 
      
 
@@ -759,29 +893,31 @@
     Do I have to bring my printed ticket to the event?
 
     No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/mos-testfest-wed-1st-may-1000-1100-tickets-59578397591?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/mos-test-wed-1st-may-1000-1100-tickets-59578397591?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/59345950/47610739467/1/original.20190329-131929?h=200&w=450&auto=compress&rect=0,12,400,200&s=97dde55f44cb6650ed72aa5b75bc562c
   starts: 2019-05-01T10:00:00.0000000
   ends: 2019-05-01T11:00:00.0000000
   venue: FT/208
-- name: MOS TestFest (Wed 1st May 14:00-15:00)
+- name: MOS Test (Wed 1st May 14:00-15:00)
   description: >
-    These sessions are for students and staff at York St John University. 
+    These sessions are for students, staff and alumni of York St John University. 
 
 
-    MOS: MOS TestFest
+    MOS: MOS Test
 
     Microsoft Office Specialist training and certification MOS tests are only available to staff and students at York St John University. We can also offer tests for free to Alumni, please email for details.
 
-    Microsoft Office Specialist (MOS) tests are internationally recognised and are often listed in the desirable column of job specifications. They demonstrate a very good understanding of the workings of Office software such as Word or Excel. The GMetrix software allows you to work towards taking Microsoft Office Specialist (MOS) tests at your own pace. This service is free to staff and students. For more information on individuals with disabilities please conact us for further information.
+    These sessions are for people who have practised and are ready to take a test.
+
+    Microsoft Office Specialist (MOS) tests are internationally recognised and are often listed in the desirable column of job specifications. They demonstrate a very good understanding of the workings of Office software such as Word or Excel. The GMetrix software allows you to work towards taking Microsoft Office Specialist (MOS) tests at your own pace. This service is free to staff and students and alumni. If you need a GMetrix code to practise or more information on tests for individuals with disabilities please conact us.
 
 
     FAQ
 
     Is this session open to anyone?
 
-    This course is only available to students and staff from York St John University.
+    This course is only available to alumni, students and staff from York St John University.
 
      
 
@@ -794,9 +930,158 @@
     Do I have to bring my printed ticket to the event?
 
     No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/mos-testfest-wed-1st-may-1400-1500-tickets-59578644329?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/mos-test-wed-1st-may-1400-1500-tickets-59578644329?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/59346109/47610739467/1/original.20190329-131929?h=200&w=450&auto=compress&rect=0,12,400,200&s=c6df62c96eeb04947f815fbfb4be8b2f
   starts: 2019-05-01T14:00:00.0000000
   ends: 2019-05-01T15:00:00.0000000
   venue: FT/208
+- name: 'WE1: Website CMS Basic training (Tue 14th May 14:00-16:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-tue-14th-may-1400-1600-tickets-59699968212?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59464903/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=dd549efc4db064f32f10f9b3c8d0367e
+  starts: 2019-05-14T14:00:00.0000000
+  ends: 2019-05-14T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'PS1: Photoshop Essentials inc. for website editors (Mon 13th May 15:00-16:00)'
+  description: >-
+    These courses are for students and staff at York St John University
+
+
+    PS1: Photoshop Essentials
+
+    Prior knowledge: None
+
+    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
+
+
+    Understanding the workspace
+
+    Cropping existing images
+
+    Resizing images
+
+    Saving for the Web
+
+    Understanding image formats
+
+    Using filters and corrections
+
+    Using the text tool
+
+    Handling difficult shaped images
+
+    Compositing multiple images
+
+    Saving for different uses
+
+    Adding a background
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-mon-13th-may-1500-1600-tickets-59700100608?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59465106/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=e03b7aab0de4629b1dc489941bee9f76
+  starts: 2019-05-13T15:00:00.0000000
+  ends: 2019-05-13T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: OF2:Office 365 including collaborative working with Teams (Mon 29th April 11:00-12:00)
+  description: >
+    These courses are for students and staff at York St John University. 
+
+
+    Office 365 including collaborative working with Teams
+
+    Prior knowledge: none
+
+    Office 365 offers many ways to work collaboratively.  Files stored in OneDrive can be accessed from anywhere online and can be shared and simultaneously worked on. Microsoft Teams provides an easy way to work collaboratively with other staff and students. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Getting into Office 365
+
+    Using Office online apps
+
+    Working with OneDrive to store documents
+
+    Sharing personal documents and collaborative editing
+
+    Creating and managing Microsoft Teams
+
+    Managing Team files in OneDrive
+
+    Key apps for Team based collaborative working including Planner and OneNote
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/of2office-365-including-collaborative-working-with-teams-mon-29th-april-1100-1200-tickets-59700773621?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59465899/47610739467/1/original.20190225-162818?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=ad1c3d15facf60f0a35535f2cd7ebfec
+  starts: 2019-04-29T11:00:00.0000000
+  ends: 2019-04-29T12:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
