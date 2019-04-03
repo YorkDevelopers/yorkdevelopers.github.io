@@ -32,14 +32,6 @@
   ends: 2019-04-03T20:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
-- name: Umbraco Meetup
-  description: "<p>This month's event will be held at Enjoy Digital and we'll be having 1 talk:</p> <p>Phil \"The unstoppable talk machine\" Whittaker - I used to run Headless Umbraco before it was cool</p> <p>We'll then join the Umbraco community video call to discuss Umbraco Backoffice accessibility! (<a href=\"https://trello.com/b/MwD8xuz3/umbraco-accessibility\" class=\"linkified\">https://trello.com/b/MwD8xuz3/umbraco-accessibility</a>)</p> <p>Feel free to come from 17:30, or any time later than the starting time!</p> "
-  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzgbgb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2019-04-04T17:00:00.0000000
-  ends: 2019-04-04T20:00:00.0000000
-  venue: Enjoy Digital
 - name: Visual Studio 2019 Launch Party
   description: "<p>Microsoft is launching Visual Studio 2019 on Tuesday, April 2nd, 2019. We'll be hosting a delayed Visual Studio 2019 Launch Party 2 days afterward.</p> <p>Let's get together and watch the keynote and some of the sessions from the live event based on participants interests.</p> <p>SWAG will be provided by Microsoft.</p> <p><a href=\"https://visualstudio.microsoft.com/vs2019-launch/\" class=\"linkified\">https://visualstudio.microsoft.com/vs2019-launch/</a></p> "
   url: https://www.meetup.com/dotnetYork/events/259024771/
@@ -48,6 +40,14 @@
   starts: 2019-04-04T17:30:00.0000000
   ends: 2019-04-04T19:30:00.0000000
   venue: Trailight Boardroom
+- name: Umbraco Meetup
+  description: "<p>This month's event will be held at Enjoy Digital and we'll be having 1 talk:</p> <p>Phil \"The unstoppable talk machine\" Whittaker - I used to run Headless Umbraco before it was cool</p> <p>We'll then join the Umbraco community video call to discuss Umbraco Backoffice accessibility! (<a href=\"https://trello.com/b/MwD8xuz3/umbraco-accessibility\" class=\"linkified\">https://trello.com/b/MwD8xuz3/umbraco-accessibility</a>)</p> <p>Feel free to come from 17:30, or any time later than the starting time!</p> "
+  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzgbgb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
+  starts: 2019-04-04T17:00:00.0000000
+  ends: 2019-04-04T20:00:00.0000000
+  venue: Enjoy Digital
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgblb/
@@ -106,6 +106,13 @@
   ends: 2019-04-15T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: 'Tech Contractor Networking: Leeds'
+  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
+  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyzgbvb/
+  is-free: true
+  starts: 2019-04-16T11:15:00.0000000
+  ends: 2019-04-16T11:45:00.0000000
+  venue: Banyan Bar Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbwb/
