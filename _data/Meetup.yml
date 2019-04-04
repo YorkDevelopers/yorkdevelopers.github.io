@@ -1,45 +1,18 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbfb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-03T06:00:00.0000000
-  ends: 2019-04-03T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzgbfb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-04-03T07:00:00.0000000
-  ends: 2019-04-03T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: '"Resurrect" GDG Leeds'
-  description: "<p>Let's meet and discuss a plan to restart GDG Leeds activities. In an open and democratic way you, the members, of this group can become co-organisers of the future activities. We aim to meet after 17:30 and start formally at 18:00.</p> "
-  url: https://www.meetup.com/GDG-Leeds/events/260080755/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/6/a/7/4/thumb_457467252.jpeg
-  starts: 2019-04-03T17:00:00.0000000
-  ends: 2019-04-03T18:00:00.0000000
-  venue: The Black Prince
-- name: Front End York - April Event - "How to organise a Tech Conference" & More
-  description: "<p>2 talks at our Front End York - April Event!!</p> <p>\"How to organise a Tech Conference\" - Daniel Woolfson</p> <p>YorkTechFest 2018 event was themed “A Showcase Of Tech Non-Profit Communities” was delivered on the evening of November 13th 2018. Over 80 people attended City of York Council West Offices to listen to 10 speakers on tech topics. You may have been there :-)</p> <p>The YorkTechFest event is aimed at providing representation of the growing tech non-profit community in the City of York. This annual event is aimed at members of existing tech communities and to promote cross pollination of innovation between existing groups.</p> <p>This is the story of how YorkDevelopers did it with the help of key partners and of course the tech community....</p> <p>About Daniel (@DanielWoolfson)</p> <p>Daniel Woolfson is Chair of YorkDevelopers (www.yorkdevelopers.org), a registered Charity which supports, develops and encourages communities of Software Developers and IT professionals in and around the City of York. Daniel is also Head of Development and Test at PureNet (www.purenet.co.uk) developing ecommerce solutions to B2C and B2B businesses throughout the UK.</p> <p>\"So you think you can think?\" - Dee Vincent-Day</p> <p>An introduction to Edward de Bono's Six Hats thinking methodology. This talk is aimed at anyone who needs to solve complex problems</p> "
-  url: https://www.meetup.com/YorkDevelopers/events/259742226/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-03T18:00:00.0000000
-  ends: 2019-04-03T20:00:00.0000000
-  venue: Stonegate Yard Bar & Brasserie
-  endorsed: true
 - name: Visual Studio 2019 Launch Party
-  description: "<p>Microsoft is launching Visual Studio 2019 on Tuesday, April 2nd, 2019. We'll be hosting a delayed Visual Studio 2019 Launch Party 2 days afterward.</p> <p>Let's get together and watch the keynote and some of the sessions from the live event based on participants interests.</p> <p>SWAG will be provided by Microsoft.</p> <p><a href=\"https://visualstudio.microsoft.com/vs2019-launch/\" class=\"linkified\">https://visualstudio.microsoft.com/vs2019-launch/</a></p> "
+  description: "<p>Microsoft is launching Visual Studio 2019 on Tuesday, April 2nd, 2019. We'll be hosting a delayed Visual Studio 2019 Launch Party 2 days afterward.</p> <p>Let's get together and watch the keynote and some of the sessions from the live event based on participants interests.</p> <p>SWAG will be provided by Oz Code.</p> <p><a href=\"https://visualstudio.microsoft.com/vs2019-launch/\" class=\"linkified\">https://visualstudio.microsoft.com/vs2019-launch/</a></p> "
   url: https://www.meetup.com/dotnetYork/events/259024771/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
   starts: 2019-04-04T17:30:00.0000000
   ends: 2019-04-04T19:30:00.0000000
   venue: Trailight Boardroom
+- name: Geek Lunch at Zill’s
+  description: "<p>Zill’s - Tapas, Mezze &amp; Lava Rock Grills - <a href=\"http://zillsmediterranean.co.uk/\" class=\"linkified\">http://zillsmediterranean.co.uk/</a></p> <p>We'll be meeting for lunch at 12:00 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>We normally chat beforehand on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>), if you want an invite - send us a DM.</p> "
+  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/260310403/
+  is-free: true
+  starts: 2019-04-04T11:00:00.0000000
+  ends: 2019-04-04T12:30:00.0000000
+  venue: Zills - Tapas, Mezze & Lava Rock Grills
 - name: Umbraco Meetup
   description: "<p>This month's event will be held at Enjoy Digital and we'll be having 1 talk:</p> <p>Phil \"The unstoppable talk machine\" Whittaker - I used to run Headless Umbraco before it was cool</p> <p>We'll then join the Umbraco community video call to discuss Umbraco Backoffice accessibility! (<a href=\"https://trello.com/b/MwD8xuz3/umbraco-accessibility\" class=\"linkified\">https://trello.com/b/MwD8xuz3/umbraco-accessibility</a>)</p> <p>Feel free to come from 17:30, or any time later than the starting time!</p> "
   url: https://www.meetup.com/umbLeeds/events/ltvqhqyzgbgb/
@@ -122,6 +95,21 @@
   ends: 2019-04-17T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzgbwb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-04-17T07:00:00.0000000
+  ends: 2019-04-17T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Data Platform User Group (BI, Azure)
+  description: "<p>** This event is at a new location - Wizu Workspace - The Leeming Building<br/>[<a href=\"https://wizuworkspace.com/the-leeming-building/\" class=\"linkified\">https://wizuworkspace.com/the-leeming-building/</a>] **</p> <p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Robin Lester (Microsoft)<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – Simon Whitely (Adatis)<br/>20:20 – 20:30 – Off t’pub.</p> <p>** Robin Lester (Microsoft) **<br/>Robin Lester is a Cloud Solutions Architect (CSA) at Microsoft in One Commercial Partner (OCP). Working in the industry for over 20 years, focusing on Data tools such as SQL Server and AI technologies. Having worked as both a Premier Field Engineer and a Cloud Solution Architect at Microsoft Robin has a deep technical background in everything related to Data and AI.</p> <p>Azure Cloud Databases Roadmap and Discovery</p> <p>In this session we will discuss recent announcements and releases in the SQL Azure space. Including but not limited to Azure SQL Datawarehouse improvements; Azure SQL Database Hyperscale; Machine Learning Services in Azure SQL Database and Power BI; data masking strategies and pricing improvements. We will talk about why the services work the way they do and why you would use them in different architectures.</p> <p>** Simon Whitely (Adatis) **<br/>Bio:<br/>As Chief Architect with Adatis Consulting, Simon has been working with the Microsoft BI Stack for a decade, starting off building traditional warehouses with SSIS, SSRS and SSAS. He has since turned his head to the cloud and now spends his time advocating new methods of getting insight to the right people using Microsoft Azure’s advanced analytics platform. Whether it's automating file ingestion into Azure Data Lakes, applying massive compute via SQLDW &amp; Azure Databricks or orchestrating these pipelines via Data Factory, he can help.</p> <p>Simon is a strong advocate of the use of modern development practices in the data world (we actually are developers, whether we like it or not) and runs the Surrey Data Platform Group &amp; co-organises the London PASS Chapter.</p> <p>Abstract:<br/>Azure Databricks brings a PaaS offering of Apache Spark, which allows for blazing fast data processing, interactive querying and hosting of ML models all in one place! Most of the buzz is around Data Science &amp; AI - what about the humble data engineer who wants to harness the in-memory processing power within their ETL pipelines?</p> <p>This session focuses on Azure Databricks as your data ingestion, transformation and curation tool of choice.</p> <p>We will:<br/>Introduce the Databricks service &amp; language options available<br/>Discuss the hosting &amp; compute options available<br/>Demonstrate a sample data processing task</p> <p>Demonstrate pipeline management &amp; orchestration<br/>Review the wider architectures and extension patterns</p> <p>The session is aimed at Data Engineers seeking to put the Azure Databricks technology in the right context and learn how to use the service.</p> <p>We will not be covering the python programming language in detail.</p> "
+  url: https://www.meetup.com/dataleeds/events/255664594/
+  is-free: true
+  starts: 2019-04-17T18:00:00.0000000
+  ends: 2019-04-17T20:00:00.0000000
+  venue: Platform
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzgbxb/
@@ -165,6 +153,15 @@
   starts: 2019-05-01T06:00:00.0000000
   ends: 2019-05-01T09:00:00.0000000
   venue: Cafe Nero
+  endorsed: true
+- name: Front End York - April Event - "How to organise a Tech Conference" & More
+  description: '<p>2 talks at our Front End York - April Event!!</p> <p>"How to organise a Tech Conference" - Daniel Woolfson</p> <p>YorkTechFest 2018 event was themed “A Showcase Of Tech Non-Profit Communities” was delivered on the evening of November 13th 2018. Over 80 people attended City of York Council West Offices to listen to 10 speakers on tech topics. You may have been there :-)</p> <p>The YorkTechFest event is aimed at providing representation of the growing tech non-profit community in the City of York. This annual event is aimed at members of existing tech communities and to promote cross pollination of innovation between existing groups.</p> <p>This is the story of how YorkDevelopers did it with the help of key partners and of course the tech community....</p> <p>About Daniel (@DanielWoolfson)</p> <p>Daniel Woolfson is Chair of YorkDevelopers (www.yorkdevelopers.org), a registered Charity which supports, develops and encourages communities of Software Developers and IT professionals in and around the City of York. Daniel is also Head of Development and Test at PureNet (www.purenet.co.uk) developing ecommerce solutions to B2C and B2B businesses throughout the UK.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/259742226/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-05-01T18:00:00.0000000
+  ends: 2019-05-01T20:00:00.0000000
+  venue: Stonegate Yard Bar & Brasserie
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
@@ -573,6 +570,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-09-23T06:00:00.0000000
   ends: 2019-09-23T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzmbhc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-09-25T06:00:00.0000000
+  ends: 2019-09-25T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
