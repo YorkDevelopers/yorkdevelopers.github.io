@@ -1,3 +1,90 @@
+- name: Nuclear Masterclass 2019
+  description: >
+    Join the Department of Physics at the University of York for a Nuclear Masterclass: open to all students studying A level Physics (or equivalent).  
+
+    There will be two different streams running during the day: 
+
+    A: Nuclear Astrophysics
+
+    Workshop 1: The Hot CNO Cycle in Supernovae 
+
+    Discover the nuclear reactions happening in stars during stellar explosions in an activity demonstrating half-lives and the random nature of radioactive decay.  
+
+    Workshop 2: Neutron Stars and Fundamental Forces
+
+    Investigate a computer simulation of the liquid drop model of neutron stars and learn about the influence of the fundamental forces at the nuclear scale.
+
+    Workshop 3/4: Binding Blocks: Building the Universe one Nucleaus at a Time
+
+    Explore the concept and applications of binding energy through building a LEGO nuclear chart.  Follow nuclear decay chains and research the uses of different isotopes.  
+
+    B: Applications of Nuclear Physics
+
+    Workshop 1: Medical Physics
+
+    Find out how nuclear physics is used in medicine, with a medical physicist.  
+
+    Workshop 2: Fusion technology 
+
+    Visit the University's Tokomak Control Room and find out about methods of creating nuclear fusion as a power source.  
+
+    Workshop 3/4: Binding Blocks: Building the Universe one Nucleaus at a Time
+
+    Explore the concept and applications of binding energy through building a LEGO nuclear chart.  Follow nuclear decay chains and research the uses of different isotopes.  
+
+    Programme:
+
+    09.45 - 10.00  Arrival
+
+    10.00 - 10.10  Welcome 
+
+    10.10 - 10.40  Lecture: An introduction to Nuclear Physics
+
+    10.40 - 10.55  Tea/Coffee
+
+    11.05 - 11.50  Workshop 1
+
+    11.55 - 12.40  Workshop 2
+
+    12.50 - 13.20  Lunch
+
+    13.30 - 14.15  Workshop 3
+
+    14.20 - 15.05  Workshop 4
+
+    15.15 - 15.45  Lecture: Cutting-Edge Nuclear Physics
+
+    15.45 - 16.00  Evaluation
+
+    Further information
+
+    Groups of less than 5 students from any one school may attend without a teacher.  However, they must have consent from both their school and parents.  
+
+    A maximum of 40 students may attend from any one school: 20 in each strand. If you require a larger number of places, please contact physics-outreach@york.ac.uk.   
+
+    Students are not required to be in school uniform.  
+
+    Tea/coffee/water will be available at breaks, but all attendees will need to bring a packed lunch.  
+
+    For further information about the day, please see: www.york.ac.uk/physics/public-and-schools/secondary/nuclear-masterclass/ 
+
+    For more information about the Binding Blocks project, please see: www.york.ac.uk/physics/bindingblocks
+
+    For more information about Nuclear Physics at the Unviversity of York, please see www.york.ac.uk/physics/research/nuclear/ 
+  url: https://www.eventbrite.co.uk/e/nuclear-masterclass-2019-tickets-56334101815?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/56597759/70544580407/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,5112,2556&s=df5a3c1a794224c7417021728f5c6d7f
+  starts: 2019-06-20T09:45:00.0000000
+  ends: 2019-06-20T16:00:00.0000000
+  venue: Department of Physics
+- name: Studying Cancer, One Cell at a Time
+  description: Studying Cancer, One Cell at a Time
+  url: https://www.eventbrite.co.uk/e/studying-cancer-one-cell-at-a-time-tickets-54640532303?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/54859878/287847590648/1/original.20190109-143743?h=200&w=450&auto=compress&rect=0,103,800,400&s=8323cd95e9fb6766bfb52119bda05436
+  starts: 2019-05-08T13:00:00.0000000
+  ends: 2019-05-08T14:00:00.0000000
+  venue: University of York
 - name: The VIVIT Experience | Enhanced Undergraduate Post Mortem | York 18/05/19
   description: >-
     The VIVIT Experience is a nationally award winning academic experience offering you the chance to participate in a recreated post mortem experience conducted on VIVIT -the worlds only semi-synthetic human cadaver. During this special 5 hour experience you will be taken on a scientifically accurate recreated human body dissection learning in-depth anatomy and physiology relevant to your academic studies. The course is interactive and designed to support those students currently at York St John University and the surrounding areas studying in the biosciences, health, sports or associated degree pathways that require an understanding of advanced anatomy and physiology or indeed the associated clinical pathologies. The procedure will be lead by Samuel Piri & team who will first set out the basics of anatomical dissection before systematically working their way through the anatomical cavities comparing normal specimens with various states of pathology. You will also be taught a variety of important clinical skills including interpreting X-rays and linking symptoms to clinical diagnosis. There will be the opportunity to ask questions and at the same time handle the anatomical samples and even the chance to undertake some dissection for yourself.
@@ -10,14 +97,6 @@
   starts: 2019-05-18T10:00:00.0000000
   ends: 2019-05-18T15:00:00.0000000
   venue: Sports Hall, Foss Building
-- name: Studying Cancer, One Cell at a Time
-  description: Studying Cancer, One Cell at a Time
-  url: https://www.eventbrite.co.uk/e/studying-cancer-one-cell-at-a-time-tickets-54640532303?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/54859878/287847590648/1/original.20190109-143743?h=200&w=450&auto=compress&rect=0,103,800,400&s=8323cd95e9fb6766bfb52119bda05436
-  starts: 2019-05-08T13:00:00.0000000
-  ends: 2019-05-08T14:00:00.0000000
-  venue: University of York
 - name: 'Wired for sound: Engineering future audio experiences and new sound worlds through creative digital technology'
   description: >-
     Speaker: Professor Damian Murphy, Department of Electronic Engineering
@@ -125,85 +204,6 @@
   starts: 2019-04-11T18:00:00.0000000
   ends: 2019-04-11T21:00:00.0000000
   venue: Pitcher & Piano
-- name: Nuclear Masterclass 2019
-  description: >
-    Join the Department of Physics at the University of York for a Nuclear Masterclass: open to all students studying A level Physics (or equivalent).  
-
-    There will be two different streams running during the day: 
-
-    A: Nuclear Astrophysics
-
-    Workshop 1: The Hot CNO Cycle in Supernovae 
-
-    Discover the nuclear reactions happening in stars during stellar explosions in an activity demonstrating half-lives and the random nature of radioactive decay.  
-
-    Workshop 2: Neutron Stars and Fundamental Forces
-
-    Investigate a computer simulation of the liquid drop model of neutron stars and learn about the influence of the fundamental forces at the nuclear scale.
-
-    Workshop 3/4: Binding Blocks: Building the Universe one Nucleaus at a Time
-
-    Explore the concept and applications of binding energy through building a LEGO nuclear chart.  Follow nuclear decay chains and research the uses of different isotopes.  
-
-    B: Applications of Nuclear Physics
-
-    Workshop 1: Medical Physics
-
-    Find out how nuclear physics is used in medicine, with a medical physicist.  
-
-    Workshop 2: Fusion technology 
-
-    Visit the University's Tokomak Control Room and find out about methods of creating nuclear fusion as a power source.  
-
-    Workshop 3/4: Binding Blocks: Building the Universe one Nucleaus at a Time
-
-    Explore the concept and applications of binding energy through building a LEGO nuclear chart.  Follow nuclear decay chains and research the uses of different isotopes.  
-
-    Programme:
-
-    09.45 - 10.00  Arrival
-
-    10.00 - 10.10  Welcome 
-
-    10.10 - 10.40  Lecture: An introduction to Nuclear Physics
-
-    10.40 - 10.55  Tea/Coffee
-
-    11.05 - 11.50  Workshop 1
-
-    11.55 - 12.40  Workshop 2
-
-    12.50 - 13.20  Lunch
-
-    13.30 - 14.15  Workshop 3
-
-    14.20 - 15.05  Workshop 4
-
-    15.15 - 15.45  Lecture: Cutting-Edge Nuclear Physics
-
-    15.45 - 16.00  Evaluation
-
-    Further information
-
-    Groups of less than 5 students from any one school may attend without a teacher.  However, they must have consent from both their school and parents.  
-
-    A maximum of 40 students may attend from any one school: 20 in each strand. If you require a larger number of places, please contact physics-outreach@york.ac.uk.   
-
-    Students are not required to be in school uniform.  
-
-    Tea/coffee/water will be available at breaks, but all attendees will need to bring a packed lunch.  
-
-    For further information about the day, please see: www.york.ac.uk/physics/public-and-schools/secondary/nuclear-masterclass/ 
-
-    For more information about the Binding Blocks project, please see: www.york.ac.uk/physics/bindingblocks
-
-    For more information about Nuclear Physics at the Unviversity of York, please see www.york.ac.uk/physics/research/nuclear/ 
-  url: https://www.eventbrite.co.uk/e/nuclear-masterclass-2019-tickets-56334101815?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/56597759/70544580407/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,5112,2556&s=df5a3c1a794224c7417021728f5c6d7f
-  starts: 2019-06-20T09:45:00.0000000
-  ends: 2019-06-20T16:00:00.0000000
-  venue: Department of Physics
 - name: Becoming a digital citizen
   description: >-
     Speakers: Susan Halfpenny and Stephanie Jesper, Information Services
@@ -239,6 +239,21 @@
   starts: 2019-05-23T18:30:00.0000000
   ends: 2019-05-23T19:30:00.0000000
   venue: Bowland Auditorium
+- name: 'Alex Bellos: The World’s Favourite Number'
+  description: >-
+    Maths writer Alex Bellos was so sick of being asked for his favourite number that he started to ask everyone else the same question. More than 40,000 responses later he had a treasure trove of data. In a talk that includes mathematics, psychology and the history of science, Bellos reveals the curious patterns behind our emotional responses to numbers - what they say about us, and what’s important about them.
+
+    About the Author
+
+    Alex Bellos is an author and broadcaster who specialises in mathematics and Brazil. When he was the Guardian's correspondent in South America he wrote Futebol: The Brazilian Way of Life, a look at contemporary Brazil seen through football.
+
+    He is also the author of the popular math books Alex's Adventures in Numberland and Alex Through the Looking-Glass, which were both bestsellers in the UK. Alex writes a maths blog and a puzzle blog for the Guardian and frequently speaks on maths at conferences, festivals, in schools and in companies.
+  url: https://www.eventbrite.co.uk/e/alex-bellos-the-worlds-favourite-number-tickets-59101154143?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/58797565/87497926893/1/original.20190320-093252?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=61a3313ee9b3dcfabd2f66338c83bbf9
+  starts: 2019-06-06T19:00:00.0000000
+  ends: 2019-06-06T21:00:00.0000000
+  venue: St Peter's School
 - name: Type 1 Technology Discovery Evening, York
   description: >
     Come along to our FREE Type 1 Technology Discovery Evening in York where you can find out more about the latest progress in Type 1 Diabetes research and technology, listen to inspirational talks, and meet others affected by the condition.
@@ -275,21 +290,6 @@
   starts: 2019-07-04T18:00:00.0000000
   ends: 2019-07-04T21:00:00.0000000
   venue: York High School
-- name: 'Alex Bellos: The World’s Favourite Number'
-  description: >-
-    Maths writer Alex Bellos was so sick of being asked for his favourite number that he started to ask everyone else the same question. More than 40,000 responses later he had a treasure trove of data. In a talk that includes mathematics, psychology and the history of science, Bellos reveals the curious patterns behind our emotional responses to numbers - what they say about us, and what’s important about them.
-
-    About the Author
-
-    Alex Bellos is an author and broadcaster who specialises in mathematics and Brazil. When he was the Guardian's correspondent in South America he wrote Futebol: The Brazilian Way of Life, a look at contemporary Brazil seen through football.
-
-    He is also the author of the popular math books Alex's Adventures in Numberland and Alex Through the Looking-Glass, which were both bestsellers in the UK. Alex writes a maths blog and a puzzle blog for the Guardian and frequently speaks on maths at conferences, festivals, in schools and in companies.
-  url: https://www.eventbrite.co.uk/e/alex-bellos-the-worlds-favourite-number-tickets-59101154143?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/58797565/87497926893/1/original.20190320-093252?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=61a3313ee9b3dcfabd2f66338c83bbf9
-  starts: 2019-06-06T19:00:00.0000000
-  ends: 2019-06-06T21:00:00.0000000
-  venue: St Peter's School
 - name: Osprey Approach Spring Roadshow 2019 - York
   description: We have finalised the dates and locations for our 2019 Spring Roadshows. During our seminars we will be covering: - All you Need to Know About Making Tax Digital - How and Why to Use Social Media- Benefits of an Online Quote Calculator - Our New Focused Apps
   url: https://www.eventbrite.co.uk/e/osprey-approach-spring-roadshow-2019-york-tickets-55576239027?aff=ebapi
@@ -306,6 +306,55 @@
   starts: 2019-06-13T18:00:00.0000000
   ends: 2019-06-13T19:30:00.0000000
   venue: ARC/014 Alan Maynard Auditorium
+- name: Automating your test infrastructure with Kubernetes
+  description: Welcome to our April Event!
+  url: https://www.eventbrite.co.uk/e/automating-your-test-infrastructure-with-kubernetes-tickets-59875723902?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59681791/287207511238/1/original.20190404-064049?h=200&w=450&auto=compress&rect=0,2,1170,585&s=5f4514f4fad96b192295232d25a97782
+  starts: 2019-04-24T18:00:00.0000000
+  ends: 2019-04-24T20:30:00.0000000
+  venue: Isotoma
+- name: Exploring the Primary Computing and Science Curriculum with LEGO® Education WeDo 2.0
+  description: >-
+    Join us for this free teacher workshop and get hands-on with LEGO® Education WeDo 2.0!
+
+    If you attend this workshop you should expect:
+
+
+
+    to get hands-on with LEGO Education WeDo 2.0
+
+
+
+    to explore how WeDo 2.0 is used to meet curriculum objectives at Key Stages 1 and 2
+
+
+
+    to explore how EV3 can support the development of 21st Century Skills, including Creativity, Critical Thinking, Collaboration, andCommunication
+
+
+
+    to receive top tips on classroom management
+
+
+
+    to get access to a wealth of free resources and curriculum materials
+
+
+
+    to have a truly fun and playful learning experience
+
+
+
+    Each participant will also receive a free Mini Milo LEGO® set!
+
+    This workshop is perfect for teachers and curriculum leaders of Computing, Science and Maths.
+  url: https://www.eventbrite.co.uk/e/exploring-the-primary-computing-and-science-curriculum-with-lego-education-wedo-20-tickets-59326597450?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59350667/30520787389/1/original.20190329-143410?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c60aed9bbefe0ef516d819d7a65c280
+  starts: 2019-05-08T16:00:00.0000000
+  ends: 2019-05-08T17:45:00.0000000
+  venue: National STEM Learning Centre
 - name: The 7th International Cardiovascular Genomic Medicine Conference
   description: >2+
 
@@ -447,47 +496,6 @@
   starts: 2019-05-02T09:30:00.0000000
   ends: 2019-05-02T15:30:00.0000000
   venue: (Venue TBC)
-- name: Exploring the Primary Computing and Science Curriculum with LEGO® Education WeDo 2.0
-  description: >-
-    Join us for this free teacher workshop and get hands-on with LEGO® Education WeDo 2.0!
-
-    If you attend this workshop you should expect:
-
-
-
-    to get hands-on with LEGO Education WeDo 2.0
-
-
-
-    to explore how WeDo 2.0 is used to meet curriculum objectives at Key Stages 1 and 2
-
-
-
-    to explore how EV3 can support the development of 21st Century Skills, including Creativity, Critical Thinking, Collaboration, andCommunication
-
-
-
-    to receive top tips on classroom management
-
-
-
-    to get access to a wealth of free resources and curriculum materials
-
-
-
-    to have a truly fun and playful learning experience
-
-
-
-    Each participant will also receive a free Mini Milo LEGO® set!
-
-    This workshop is perfect for teachers and curriculum leaders of Computing, Science and Maths.
-  url: https://www.eventbrite.co.uk/e/exploring-the-primary-computing-and-science-curriculum-with-lego-education-wedo-20-tickets-59326597450?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/59350667/30520787389/1/original.20190329-143410?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=0c60aed9bbefe0ef516d819d7a65c280
-  starts: 2019-05-08T16:00:00.0000000
-  ends: 2019-05-08T17:45:00.0000000
-  venue: National STEM Learning Centre
 - name: MOS Test (Wed 1st May 10:00-11:00)
   description: >
     These sessions are for students, staff and alumni of York St John University. 
@@ -1032,7 +1040,7 @@
     Join us on 4th June for your free Introduction to Sphero BOLT for Primary and Secondary Teachers.
   url: https://www.eventbrite.co.uk/e/an-introduction-to-sphero-bolt-for-primary-and-secondary-teachers-tickets-59326927437?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/59196943/30520787389/1/original.20190327-094549?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=09cb3e59c07a1d9b1fc705b98cd7521b
+  logo: https://cdn.evbuc.com/images/59688518/30520787389/1/original.20190404-102153?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=f78b950ebe7ecf07b238b863565a7d40
   starts: 2019-06-04T16:00:00.0000000
   ends: 2019-06-04T17:45:00.0000000
   venue: National STEM Learning Centre
@@ -1089,29 +1097,6 @@
   starts: 2019-04-29T11:00:00.0000000
   ends: 2019-04-29T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Visual Studio 2019 Launch Party
-  description: "<p>Microsoft is launching Visual Studio 2019 on Tuesday, April 2nd, 2019. We'll be hosting a delayed Visual Studio 2019 Launch Party 2 days afterward.</p> <p>Let's get together and watch the keynote and some of the sessions from the live event based on participants interests.</p> <p>SWAG will be provided by Oz Code.</p> <p><a href=\"https://visualstudio.microsoft.com/vs2019-launch/\" class=\"linkified\">https://visualstudio.microsoft.com/vs2019-launch/</a></p> "
-  url: https://www.meetup.com/dotnetYork/events/259024771/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2019-04-04T17:30:00.0000000
-  ends: 2019-04-04T19:30:00.0000000
-  venue: Trailight Boardroom
-- name: Geek Lunch at Zill’s
-  description: "<p>Zill’s - Tapas, Mezze &amp; Lava Rock Grills - <a href=\"http://zillsmediterranean.co.uk/\" class=\"linkified\">http://zillsmediterranean.co.uk/</a></p> <p>We'll be meeting for lunch at 12:00 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>We normally chat beforehand on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>), if you want an invite - send us a DM.</p> "
-  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/260310403/
-  is-free: true
-  starts: 2019-04-04T11:00:00.0000000
-  ends: 2019-04-04T12:30:00.0000000
-  venue: Zills - Tapas, Mezze & Lava Rock Grills
-- name: Umbraco Meetup
-  description: "<p>This month's event will be held at Enjoy Digital and we'll be having 1 talk:</p> <p>Phil \"The unstoppable talk machine\" Whittaker - I used to run Headless Umbraco before it was cool</p> <p>We'll then join the Umbraco community video call to discuss Umbraco Backoffice accessibility! (<a href=\"https://trello.com/b/MwD8xuz3/umbraco-accessibility\" class=\"linkified\">https://trello.com/b/MwD8xuz3/umbraco-accessibility</a>)</p> <p>Feel free to come from 17:30, or any time later than the starting time!</p> "
-  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzgbgb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2019-04-04T17:00:00.0000000
-  ends: 2019-04-04T20:00:00.0000000
-  venue: Enjoy Digital
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgblb/
@@ -1154,6 +1139,14 @@
   starts: 2019-04-10T07:00:00.0000000
   ends: 2019-04-10T10:00:00.0000000
   venue: La Bottega Milanese
+- name: The first Elementor Leeds meetup!
+  description: "<p>As this is the first meetup, I thought it'd be great to have an informal gathering.</p> <p>We can all get to know our fellow northern Elementor users, as well as get a feel for the kind of time, location and format everyone would prefer for future meetups.</p> <p>By all means, bring a laptop if you fancy showing and sharing your work, ask Elementor advice, or anything else.</p> <p>Can't wait to meet you all.</p> "
+  url: https://www.meetup.com/Elementor-Leeds/events/259734500/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/6/a/5/thumb_477874469.jpeg
+  starts: 2019-04-10T13:00:00.0000000
+  ends: 2019-04-10T14:30:00.0000000
+  venue: Laynes Espresso
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyzgbqb/
@@ -1195,12 +1188,20 @@
   ends: 2019-04-17T10:00:00.0000000
   venue: La Bottega Milanese
 - name: Data Platform User Group (BI, Azure)
-  description: "<p>** This event is at a new location - Wizu Workspace - The Leeming Building<br/>[<a href=\"https://wizuworkspace.com/the-leeming-building/\" class=\"linkified\">https://wizuworkspace.com/the-leeming-building/</a>] **</p> <p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Robin Lester (Microsoft)<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – Simon Whitely (Adatis)<br/>20:20 – 20:30 – Off t’pub.</p> <p>** Robin Lester (Microsoft) **<br/>Robin Lester is a Cloud Solutions Architect (CSA) at Microsoft in One Commercial Partner (OCP). Working in the industry for over 20 years, focusing on Data tools such as SQL Server and AI technologies. Having worked as both a Premier Field Engineer and a Cloud Solution Architect at Microsoft Robin has a deep technical background in everything related to Data and AI.</p> <p>Azure Cloud Databases Roadmap and Discovery</p> <p>In this session we will discuss recent announcements and releases in the SQL Azure space. Including but not limited to Azure SQL Datawarehouse improvements; Azure SQL Database Hyperscale; Machine Learning Services in Azure SQL Database and Power BI; data masking strategies and pricing improvements. We will talk about why the services work the way they do and why you would use them in different architectures.</p> <p>** Simon Whitely (Adatis) **<br/>Bio:<br/>As Chief Architect with Adatis Consulting, Simon has been working with the Microsoft BI Stack for a decade, starting off building traditional warehouses with SSIS, SSRS and SSAS. He has since turned his head to the cloud and now spends his time advocating new methods of getting insight to the right people using Microsoft Azure’s advanced analytics platform. Whether it's automating file ingestion into Azure Data Lakes, applying massive compute via SQLDW &amp; Azure Databricks or orchestrating these pipelines via Data Factory, he can help.</p> <p>Simon is a strong advocate of the use of modern development practices in the data world (we actually are developers, whether we like it or not) and runs the Surrey Data Platform Group &amp; co-organises the London PASS Chapter.</p> <p>Abstract:<br/>Azure Databricks brings a PaaS offering of Apache Spark, which allows for blazing fast data processing, interactive querying and hosting of ML models all in one place! Most of the buzz is around Data Science &amp; AI - what about the humble data engineer who wants to harness the in-memory processing power within their ETL pipelines?</p> <p>This session focuses on Azure Databricks as your data ingestion, transformation and curation tool of choice.</p> <p>We will:<br/>Introduce the Databricks service &amp; language options available<br/>Discuss the hosting &amp; compute options available<br/>Demonstrate a sample data processing task</p> <p>Demonstrate pipeline management &amp; orchestration<br/>Review the wider architectures and extension patterns</p> <p>The session is aimed at Data Engineers seeking to put the Azure Databricks technology in the right context and learn how to use the service.</p> <p>We will not be covering the python programming language in detail.</p> "
+  description: "<p>** This event is at a new location - Wizu Workspace - The Leeming Building<br/>[ <a href=\"https://wizuworkspace.com/the-leeming-building/\" class=\"linkified\">https://wizuworkspace.com/the-leeming-building/</a> ] **</p> <p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Robin Lester (Microsoft)<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – Simon Whitely (Adatis)<br/>20:20 – 20:30 – Off t’pub.</p> <p>** Robin Lester (Microsoft) **<br/>Robin Lester is a Cloud Solutions Architect (CSA) at Microsoft in One Commercial Partner (OCP). Working in the industry for over 20 years, focusing on Data tools such as SQL Server and AI technologies. Having worked as both a Premier Field Engineer and a Cloud Solution Architect at Microsoft Robin has a deep technical background in everything related to Data and AI.</p> <p>Azure Cloud Databases Roadmap and Discovery</p> <p>In this session we will discuss recent announcements and releases in the SQL Azure space. Including but not limited to Azure SQL Datawarehouse improvements; Azure SQL Database Hyperscale; Machine Learning Services in Azure SQL Database and Power BI; data masking strategies and pricing improvements. We will talk about why the services work the way they do and why you would use them in different architectures.</p> <p>** Simon Whitely (Adatis) **<br/>Bio:<br/>As Chief Architect with Adatis Consulting, Simon has been working with the Microsoft BI Stack for a decade, starting off building traditional warehouses with SSIS, SSRS and SSAS. He has since turned his head to the cloud and now spends his time advocating new methods of getting insight to the right people using Microsoft Azure’s advanced analytics platform. Whether it's automating file ingestion into Azure Data Lakes, applying massive compute via SQLDW &amp; Azure Databricks or orchestrating these pipelines via Data Factory, he can help.</p> <p>Simon is a strong advocate of the use of modern development practices in the data world (we actually are developers, whether we like it or not) and runs the Surrey Data Platform Group &amp; co-organises the London PASS Chapter.</p> <p>Abstract:<br/>Azure Databricks brings a PaaS offering of Apache Spark, which allows for blazing fast data processing, interactive querying and hosting of ML models all in one place! Most of the buzz is around Data Science &amp; AI - what about the humble data engineer who wants to harness the in-memory processing power within their ETL pipelines?</p> <p>This session focuses on Azure Databricks as your data ingestion, transformation and curation tool of choice.</p> <p>We will:<br/>Introduce the Databricks service &amp; language options available<br/>Discuss the hosting &amp; compute options available<br/>Demonstrate a sample data processing task</p> <p>Demonstrate pipeline management &amp; orchestration<br/>Review the wider architectures and extension patterns</p> <p>The session is aimed at Data Engineers seeking to put the Azure Databricks technology in the right context and learn how to use the service.</p> <p>We will not be covering the python programming language in detail.</p> "
   url: https://www.meetup.com/dataleeds/events/255664594/
   is-free: true
   starts: 2019-04-17T18:00:00.0000000
   ends: 2019-04-17T20:00:00.0000000
-  venue: Platform
+  venue: The Leeming Building
+- name: CodeUp Leeds Meetup
+  description: "<p>THE SIGN-UP PERIOD WILL START 2 WEEKS BEFORE THE EVENT. Please come back soon to reserve your spot!</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. To discuss any additional accessibility requirements you may have, please contact [masked].</p> "
+  url: https://www.meetup.com/CodeUp-Leeds/events/dbcjtqyzgbxb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
+  starts: 2019-04-18T17:45:00.0000000
+  ends: 2019-04-18T20:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzgbxb/
