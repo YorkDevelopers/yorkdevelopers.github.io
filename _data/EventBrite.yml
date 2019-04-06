@@ -254,6 +254,14 @@
   starts: 2019-06-06T19:00:00.0000000
   ends: 2019-06-06T21:00:00.0000000
   venue: St Peter's School
+- name: Automating your test infrastructure with Kubernetes
+  description: Welcome to our April Event!
+  url: https://www.eventbrite.co.uk/e/automating-your-test-infrastructure-with-kubernetes-tickets-59875723902?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59681791/287207511238/1/original.20190404-064049?h=200&w=450&auto=compress&rect=0,2,1170,585&s=5f4514f4fad96b192295232d25a97782
+  starts: 2019-04-24T18:00:00.0000000
+  ends: 2019-04-24T20:30:00.0000000
+  venue: Isotoma
 - name: Type 1 Technology Discovery Evening, York
   description: >
     Come along to our FREE Type 1 Technology Discovery Evening in York where you can find out more about the latest progress in Type 1 Diabetes research and technology, listen to inspirational talks, and meet others affected by the condition.
@@ -306,14 +314,6 @@
   starts: 2019-06-13T18:00:00.0000000
   ends: 2019-06-13T19:30:00.0000000
   venue: ARC/014 Alan Maynard Auditorium
-- name: Automating your test infrastructure with Kubernetes
-  description: Welcome to our April Event!
-  url: https://www.eventbrite.co.uk/e/automating-your-test-infrastructure-with-kubernetes-tickets-59875723902?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/59681791/287207511238/1/original.20190404-064049?h=200&w=450&auto=compress&rect=0,2,1170,585&s=5f4514f4fad96b192295232d25a97782
-  starts: 2019-04-24T18:00:00.0000000
-  ends: 2019-04-24T20:30:00.0000000
-  venue: Isotoma
 - name: Exploring the Primary Computing and Science Curriculum with LEGO® Education WeDo 2.0
   description: >-
     Join us for this free teacher workshop and get hands-on with LEGO® Education WeDo 2.0!
@@ -696,6 +696,102 @@
   starts: 2019-04-09T14:00:00.0000000
   ends: 2019-04-09T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'WE1: Website CMS Basic training (Tue 14th May 14:00-16:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-tue-14th-may-1400-1600-tickets-59699968212?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59464903/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=dd549efc4db064f32f10f9b3c8d0367e
+  starts: 2019-05-14T14:00:00.0000000
+  ends: 2019-05-14T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'PS1: Photoshop Essentials inc. for website editors (Mon 13th May 15:00-16:00)'
+  description: >-
+    These courses are for students and staff at York St John University
+
+
+    PS1: Photoshop Essentials
+
+    Prior knowledge: None
+
+    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
+
+
+    Understanding the workspace
+
+    Cropping existing images
+
+    Resizing images
+
+    Saving for the Web
+
+    Understanding image formats
+
+    Using filters and corrections
+
+    Using the text tool
+
+    Handling difficult shaped images
+
+    Compositing multiple images
+
+    Saving for different uses
+
+    Adding a background
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-mon-13th-may-1500-1600-tickets-59700100608?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59465106/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=e03b7aab0de4629b1dc489941bee9f76
+  starts: 2019-05-13T15:00:00.0000000
+  ends: 2019-05-13T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'AD1: Making accessible documents (Thur 25th April 14:00-15:00)'
   description: >+
     These courses are for students and staff at York St John University. 
@@ -887,102 +983,6 @@
   starts: 2019-04-15T11:00:00.0000000
   ends: 2019-04-15T12:00:00.0000000
   venue: FT/208
-- name: 'WE1: Website CMS Basic training (Tue 14th May 14:00-16:00)'
-  description: >-
-    These courses are for staff who have been approved by the website team only
-
-
-    WE1: Website CMS basics
-
-    Prior knowledge: None
-
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-tue-14th-may-1400-1600-tickets-59699968212?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/59464903/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=dd549efc4db064f32f10f9b3c8d0367e
-  starts: 2019-05-14T14:00:00.0000000
-  ends: 2019-05-14T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'PS1: Photoshop Essentials inc. for website editors (Mon 13th May 15:00-16:00)'
-  description: >-
-    These courses are for students and staff at York St John University
-
-
-    PS1: Photoshop Essentials
-
-    Prior knowledge: None
-
-    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
-
-
-    Understanding the workspace
-
-    Cropping existing images
-
-    Resizing images
-
-    Saving for the Web
-
-    Understanding image formats
-
-    Using filters and corrections
-
-    Using the text tool
-
-    Handling difficult shaped images
-
-    Compositing multiple images
-
-    Saving for different uses
-
-    Adding a background
-
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-mon-13th-may-1500-1600-tickets-59700100608?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/59465106/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=e03b7aab0de4629b1dc489941bee9f76
-  starts: 2019-05-13T15:00:00.0000000
-  ends: 2019-05-13T16:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: Inflammatory Bowel Disease Researchers Northern Networking Event
   description: >-
     This is an exciting opportunity for researchers with an interest in Inflammatory Bowel Disease to come together for a networking afternoon.  PhD and MD students with be given the opportunity to give presentations on their work and receive feedback from clinicians and senior researchers in the field. 
@@ -1097,3 +1097,11 @@
   starts: 2019-04-29T11:00:00.0000000
   ends: 2019-04-29T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Self-Configuring Modular Robotics for Earth and Space
+  description: A one day workshop for researchers, space industry and robotics industry.  This event is supported by the University of York.
+  url: https://www.eventbrite.co.uk/e/self-configuring-modular-robotics-for-earth-and-space-tickets-59883607482?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59692480/290039093531/1/original.20190404-120310?h=200&w=450&auto=compress&rect=1,172,1122,561&s=494d29bc67a664f9282c9eb58f6cacd6
+  starts: 2019-07-15T09:30:00.0000000
+  ends: 2019-07-15T17:00:00.0000000
+  venue: University of York
