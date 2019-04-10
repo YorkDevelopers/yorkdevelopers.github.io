@@ -204,6 +204,21 @@
   starts: 2019-04-11T18:00:00.0000000
   ends: 2019-04-11T21:00:00.0000000
   venue: Pitcher & Piano
+- name: 'Alex Bellos: The World’s Favourite Number'
+  description: >-
+    Maths writer Alex Bellos was so sick of being asked for his favourite number that he started to ask everyone else the same question. More than 40,000 responses later he had a treasure trove of data. In a talk that includes mathematics, psychology and the history of science, Bellos reveals the curious patterns behind our emotional responses to numbers - what they say about us, and what’s important about them.
+
+    About the Author
+
+    Alex Bellos is an author and broadcaster who specialises in mathematics and Brazil. When he was the Guardian's correspondent in South America he wrote Futebol: The Brazilian Way of Life, a look at contemporary Brazil seen through football.
+
+    He is also the author of the popular math books Alex's Adventures in Numberland and Alex Through the Looking-Glass, which were both bestsellers in the UK. Alex writes a maths blog and a puzzle blog for the Guardian and frequently speaks on maths at conferences, festivals, in schools and in companies.
+  url: https://www.eventbrite.co.uk/e/alex-bellos-the-worlds-favourite-number-tickets-59101154143?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/58797565/87497926893/1/original.20190320-093252?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=61a3313ee9b3dcfabd2f66338c83bbf9
+  starts: 2019-06-06T19:00:00.0000000
+  ends: 2019-06-06T21:00:00.0000000
+  venue: St Peter's School
 - name: Becoming a digital citizen
   description: >-
     Speakers: Susan Halfpenny and Stephanie Jesper, Information Services
@@ -239,21 +254,6 @@
   starts: 2019-05-23T18:30:00.0000000
   ends: 2019-05-23T19:30:00.0000000
   venue: Bowland Auditorium
-- name: 'Alex Bellos: The World’s Favourite Number'
-  description: >-
-    Maths writer Alex Bellos was so sick of being asked for his favourite number that he started to ask everyone else the same question. More than 40,000 responses later he had a treasure trove of data. In a talk that includes mathematics, psychology and the history of science, Bellos reveals the curious patterns behind our emotional responses to numbers - what they say about us, and what’s important about them.
-
-    About the Author
-
-    Alex Bellos is an author and broadcaster who specialises in mathematics and Brazil. When he was the Guardian's correspondent in South America he wrote Futebol: The Brazilian Way of Life, a look at contemporary Brazil seen through football.
-
-    He is also the author of the popular math books Alex's Adventures in Numberland and Alex Through the Looking-Glass, which were both bestsellers in the UK. Alex writes a maths blog and a puzzle blog for the Guardian and frequently speaks on maths at conferences, festivals, in schools and in companies.
-  url: https://www.eventbrite.co.uk/e/alex-bellos-the-worlds-favourite-number-tickets-59101154143?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/58797565/87497926893/1/original.20190320-093252?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=61a3313ee9b3dcfabd2f66338c83bbf9
-  starts: 2019-06-06T19:00:00.0000000
-  ends: 2019-06-06T21:00:00.0000000
-  venue: St Peter's School
 - name: Automating your test infrastructure with Kubernetes
   description: Welcome to our April Event!
   url: https://www.eventbrite.co.uk/e/automating-your-test-infrastructure-with-kubernetes-tickets-59875723902?aff=ebapi
@@ -927,8 +927,8 @@
   url: https://www.eventbrite.co.uk/e/mos-test-tue-16th-april-1100-1200-tickets-59691379523?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/59455521/47610739467/1/original.20190329-131929?h=200&w=450&auto=compress&rect=0,12,400,200&s=f84e56c41da2847eeb49b87d4f8808ab
-  starts: 2019-04-15T11:00:00.0000000
-  ends: 2019-04-15T12:00:00.0000000
+  starts: 2019-04-16T11:00:00.0000000
+  ends: 2019-04-16T12:00:00.0000000
   venue: FT/208
 - name: Self-Configuring Modular Robotics for Earth and Space
   description: A one day workshop for researchers, space industry and robotics industry.  This event is supported by the University of York.
