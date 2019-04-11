@@ -204,21 +204,6 @@
   starts: 2019-04-11T18:00:00.0000000
   ends: 2019-04-11T21:00:00.0000000
   venue: Pitcher & Piano
-- name: 'Alex Bellos: The World’s Favourite Number'
-  description: >-
-    Maths writer Alex Bellos was so sick of being asked for his favourite number that he started to ask everyone else the same question. More than 40,000 responses later he had a treasure trove of data. In a talk that includes mathematics, psychology and the history of science, Bellos reveals the curious patterns behind our emotional responses to numbers - what they say about us, and what’s important about them.
-
-    About the Author
-
-    Alex Bellos is an author and broadcaster who specialises in mathematics and Brazil. When he was the Guardian's correspondent in South America he wrote Futebol: The Brazilian Way of Life, a look at contemporary Brazil seen through football.
-
-    He is also the author of the popular math books Alex's Adventures in Numberland and Alex Through the Looking-Glass, which were both bestsellers in the UK. Alex writes a maths blog and a puzzle blog for the Guardian and frequently speaks on maths at conferences, festivals, in schools and in companies.
-  url: https://www.eventbrite.co.uk/e/alex-bellos-the-worlds-favourite-number-tickets-59101154143?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/58797565/87497926893/1/original.20190320-093252?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=61a3313ee9b3dcfabd2f66338c83bbf9
-  starts: 2019-06-06T19:00:00.0000000
-  ends: 2019-06-06T21:00:00.0000000
-  venue: St Peter's School
 - name: Becoming a digital citizen
   description: >-
     Speakers: Susan Halfpenny and Stephanie Jesper, Information Services
@@ -254,6 +239,21 @@
   starts: 2019-05-23T18:30:00.0000000
   ends: 2019-05-23T19:30:00.0000000
   venue: Bowland Auditorium
+- name: 'Alex Bellos: The World’s Favourite Number'
+  description: >-
+    Maths writer Alex Bellos was so sick of being asked for his favourite number that he started to ask everyone else the same question. More than 40,000 responses later he had a treasure trove of data. In a talk that includes mathematics, psychology and the history of science, Bellos reveals the curious patterns behind our emotional responses to numbers - what they say about us, and what’s important about them.
+
+    About the Author
+
+    Alex Bellos is an author and broadcaster who specialises in mathematics and Brazil. When he was the Guardian's correspondent in South America he wrote Futebol: The Brazilian Way of Life, a look at contemporary Brazil seen through football.
+
+    He is also the author of the popular math books Alex's Adventures in Numberland and Alex Through the Looking-Glass, which were both bestsellers in the UK. Alex writes a maths blog and a puzzle blog for the Guardian and frequently speaks on maths at conferences, festivals, in schools and in companies.
+  url: https://www.eventbrite.co.uk/e/alex-bellos-the-worlds-favourite-number-tickets-59101154143?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/58797565/87497926893/1/original.20190320-093252?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=61a3313ee9b3dcfabd2f66338c83bbf9
+  starts: 2019-06-06T19:00:00.0000000
+  ends: 2019-06-06T21:00:00.0000000
+  venue: St Peter's School
 - name: Automating your test infrastructure with Kubernetes
   description: Welcome to our April Event!
   url: https://www.eventbrite.co.uk/e/automating-your-test-infrastructure-with-kubernetes-tickets-59875723902?aff=ebapi
@@ -533,15 +533,35 @@
   starts: 2019-05-01T10:00:00.0000000
   ends: 2019-05-01T11:00:00.0000000
   venue: FT/208
-- name: Osprey Approach Spring Roadshow 2019 - Swansea
-  description: We have finalised the dates and locations for our 2019 Spring Roadshows. During our seminars we will be covering: - All you Need to Know About Making Tax Digital - How and Why to Use Social Media- Benefits of an Online Quote Calculator - Our New Focused Apps
-  url: https://www.eventbrite.co.uk/e/osprey-approach-spring-roadshow-2019-swansea-tickets-55576551963?aff=ebapi
+- name: Exploring the Secondary Computing and Science Curriculum with LEGO® MINDSTORMS® Education EV3
+  description: >+
+    This Secondary STEM Workshop utilises the inspiring LEGO® MINDSTORMS® Education EV3 resource to engage and inspire pupils in STEM learning.
+
+    What to expect if you attend this workshop:
+
+
+
+    A free hands-on session, designed to show you how to use the resources to engage your pupils and meet National Curriculum objectives 
+
+
+
+    Classroom management tips
+
+
+
+    Free resources
+
+
+
+    Fun! Fun! Fun!
+
+  url: https://www.eventbrite.co.uk/e/exploring-the-secondary-computing-and-science-curriculum-with-lego-mindstorms-education-ev3-tickets-59326748903?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/55897909/268167050510/1/original.20190129-144730?h=200&w=450&auto=compress&rect=0,27,1650,825&s=02ab107f5e62b8d162f7a20f0242c280
-  starts: 2019-05-08T09:30:00.0000000
-  ends: 2019-05-08T15:30:00.0000000
-  venue: (Venue TBC)
-- name: MOS Test (Wed 10th April 12:00-13:00)
+  logo: https://cdn.evbuc.com/images/59072712/30520787389/1/original.20190325-160130?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=25cd437df1a445ada26db6e3974f86de
+  starts: 2019-05-01T16:00:00.0000000
+  ends: 2019-05-01T17:45:00.0000000
+  venue: National STEM Learning Centre
+- name: MOS Test (Tue 16th April 11:00-12:00)
   description: >
     These sessions are for students, staff and alumni of York St John University. 
 
@@ -572,11 +592,11 @@
     Do I have to bring my printed ticket to the event?
 
     No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/mos-test-wed-10th-april-1200-1300-tickets-59699560994?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/mos-test-tue-16th-april-1100-1200-tickets-59691379523?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/59464341/47610739467/1/original.20190329-131929?h=200&w=450&auto=compress&rect=0,12,400,200&s=57b1e76f4324ec642f24b42c491fd737
-  starts: 2019-04-10T12:00:00.0000000
-  ends: 2019-04-10T13:00:00.0000000
+  logo: https://cdn.evbuc.com/images/59455521/47610739467/1/original.20190329-131929?h=200&w=450&auto=compress&rect=0,12,400,200&s=f84e56c41da2847eeb49b87d4f8808ab
+  starts: 2019-04-16T11:00:00.0000000
+  ends: 2019-04-16T12:00:00.0000000
   venue: FT/208
 - name: 'WE1: Website CMS Basic training (Tue 14th May 14:00-16:00)'
   description: >-
@@ -711,34 +731,19 @@
   starts: 2019-04-17T10:00:00.0000000
   ends: 2019-04-17T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Exploring the Secondary Computing and Science Curriculum with LEGO® MINDSTORMS® Education EV3
-  description: >+
-    This Secondary STEM Workshop utilises the inspiring LEGO® MINDSTORMS® Education EV3 resource to engage and inspire pupils in STEM learning.
+- name: 'Sustainability Metrics: Tracking, Measuring and Reporting Responsible Innovation II'
+  description: >-
+    Aim of the workshop
 
-    What to expect if you attend this workshop:
+    Measure and monitor your supply chain’s performance with appropriate and easy-to-use sustainability metrics. Existing industrial sustainability metrics primarily focus on the chemical process, although the need to consider the performance of a “bigger picture” is prevalent and growing. This workshop is dedicated to demonstrating current trends and practices in applying qualitative and quantitative sustainability evaluation practices, through use of LCA and other industrial best procedures.
 
-
-
-    A free hands-on session, designed to show you how to use the resources to engage your pupils and meet National Curriculum objectives 
-
-
-
-    Classroom management tips
-
-
-
-    Free resources
-
-
-
-    Fun! Fun! Fun!
-
-  url: https://www.eventbrite.co.uk/e/exploring-the-secondary-computing-and-science-curriculum-with-lego-mindstorms-education-ev3-tickets-59326748903?aff=ebapi
+    Context There is a current need for innovative business models that are sustainable and resource efficient to meet with fast-approaching and stricter environmental targets. Reducing, neutralising or going negative with carbon emissions in any process is a challenge, regardless of the sector. Creating a circular economy could be the ideal solution to overcome this challenge. Undertaking these responsibilities to the highest accuracy, extensiveness of this reporting and transparency among stakeholders are currently some of the major hurdles. Some enterprises have, however, been successful. With a view to creating a dialogue and awareness of the various methods of tracking and reporting these sustainability characteristics, in portfolio management, systems thinking to end of life management strategies, the Green Chemistry Centre of Excellence is organising a “Tracking, Measuring and Reporting Responsible Innovation II” event.
+  url: https://www.eventbrite.co.uk/e/sustainability-metrics-tracking-measuring-and-reporting-responsible-innovation-ii-tickets-58993573366?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/59072712/30520787389/1/original.20190325-160130?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=25cd437df1a445ada26db6e3974f86de
-  starts: 2019-05-01T16:00:00.0000000
-  ends: 2019-05-01T17:45:00.0000000
-  venue: National STEM Learning Centre
+  logo: https://cdn.evbuc.com/images/58666462/147695442327/1/original.20190318-142415?h=200&w=450&auto=compress&rect=2,0,476,238&s=a4fc3a7c4c43e59dc3214471a2d01f09
+  starts: 2019-09-11T09:30:00.0000000
+  ends: 2019-09-11T16:00:00.0000000
+  venue: Green Chemistry Centre of Excellence
 - name: 'AD1: Making accessible documents (Thur 25th April 14:00-15:00)'
   description: >+
     These courses are for students and staff at York St John University. 
@@ -893,43 +898,6 @@
   starts: 2019-05-01T14:00:00.0000000
   ends: 2019-05-01T15:00:00.0000000
   venue: FT/208
-- name: MOS Test (Tue 16th April 11:00-12:00)
-  description: >
-    These sessions are for students, staff and alumni of York St John University. 
-
-
-    MOS: MOS Test
-
-    Microsoft Office Specialist training and certification MOS tests are only available to staff and students at York St John University. We can also offer tests for free to Alumni, please email for details.
-
-    These sessions are for people who have practised and are ready to take a test.
-
-    Microsoft Office Specialist (MOS) tests are internationally recognised and are often listed in the desirable column of job specifications. They demonstrate a very good understanding of the workings of Office software such as Word or Excel. The GMetrix software allows you to work towards taking Microsoft Office Specialist (MOS) tests at your own pace. This service is free to staff and students and alumni. If you need a GMetrix code to practise or more information on tests for individuals with disabilities please conact us.
-
-
-    FAQ
-
-    Is this session open to anyone?
-
-    This course is only available to alumni, students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/mos-test-tue-16th-april-1100-1200-tickets-59691379523?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/59455521/47610739467/1/original.20190329-131929?h=200&w=450&auto=compress&rect=0,12,400,200&s=f84e56c41da2847eeb49b87d4f8808ab
-  starts: 2019-04-16T11:00:00.0000000
-  ends: 2019-04-16T12:00:00.0000000
-  venue: FT/208
 - name: Self-Configuring Modular Robotics for Earth and Space
   description: A one day workshop for researchers, space industry and robotics industry.  This event is supported by the University of York.
   url: https://www.eventbrite.co.uk/e/self-configuring-modular-robotics-for-earth-and-space-tickets-59883607482?aff=ebapi
@@ -938,19 +906,20 @@
   starts: 2019-07-15T09:30:00.0000000
   ends: 2019-07-15T17:00:00.0000000
   venue: University of York
-- name: 'Sustainability Metrics: Tracking, Measuring and Reporting Responsible Innovation II'
+- name: '"Fantastic Planets and How to Find Them" '
   description: >-
-    Aim of the workshop
+    Imagine living in a world with three Suns, red jungles or endless night. These ideas have moved from fiction to reality as we discover more and more fantastic planets in our galaxy. This talk explains how we find such amazing worlds, how we know what they might be like and what we are still searching for out there.
 
-    Measure and monitor your supply chain’s performance with appropriate and easy-to-use sustainability metrics. Existing industrial sustainability metrics primarily focus on the chemical process, although the need to consider the performance of a “bigger picture” is prevalent and growing. This workshop is dedicated to demonstrating current trends and practices in applying qualitative and quantitative sustainability evaluation practices, through use of LCA and other industrial best procedures.
+     Dr Emily Brunsdenis a Lecturer in the Department of Physics at York University.
 
-    Context There is a current need for innovative business models that are sustainable and resource efficient to meet with fast-approaching and stricter environmental targets. Reducing, neutralising or going negative with carbon emissions in any process is a challenge, regardless of the sector. Creating a circular economy could be the ideal solution to overcome this challenge. Undertaking these responsibilities to the highest accuracy, extensiveness of this reporting and transparency among stakeholders are currently some of the major hurdles. Some enterprises have, however, been successful. With a view to creating a dialogue and awareness of the various methods of tracking and reporting these sustainability characteristics, in portfolio management, systems thinking to end of life management strategies, the Green Chemistry Centre of Excellence is organising a “Tracking, Measuring and Reporting Responsible Innovation II” event.
-  url: https://www.eventbrite.co.uk/e/sustainability-metrics-tracking-measuring-and-reporting-responsible-innovation-ii-tickets-58993573366?aff=ebapi
+    She specialises in Astrophysics and is the Director of Astrocampus - a teaching and outreach observatory at the University. 
+
+    Emily’s research interests include the spectroscopy of pulsating stars and higher education in physics and astrophysics. 
+  url: https://www.eventbrite.co.uk/e/fantastic-planets-and-how-to-find-them-tickets-60182816424?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/58666462/147695442327/1/original.20190318-142415?h=200&w=450&auto=compress&rect=2,0,476,238&s=a4fc3a7c4c43e59dc3214471a2d01f09
-  starts: 2019-09-11T09:30:00.0000000
-  ends: 2019-09-11T16:00:00.0000000
-  venue: Green Chemistry Centre of Excellence
+  logo: https://cdn.evbuc.com/images/60119985/237754649552/1/original.20190410-090919?h=200&w=450&auto=compress&rect=0,39,1920,960&s=902c9093d09a72bb1495e8154fbf5872
+  starts: 2019-05-07T19:30:00.0000000
+  ends: 2019-05-07T21:00:00.0000000
 - name: Inflammatory Bowel Disease Researchers Northern Networking Event
   description: >-
     This is an exciting opportunity for researchers with an interest in Inflammatory Bowel Disease to come together for a networking afternoon.  PhD and MD students with be given the opportunity to give presentations on their work and receive feedback from clinicians and senior researchers in the field. 
