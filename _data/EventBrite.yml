@@ -614,6 +614,14 @@
   starts: 2019-05-13T15:00:00.0000000
   ends: 2019-05-13T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Self-Configuring Modular Robotics for Earth and Space
+  description: A one day workshop for researchers, space industry and robotics industry.  This event is supported by the University of York.
+  url: https://www.eventbrite.co.uk/e/self-configuring-modular-robotics-for-earth-and-space-tickets-59883607482?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59692480/290039093531/1/original.20190404-120310?h=200&w=450&auto=compress&rect=1,172,1122,561&s=494d29bc67a664f9282c9eb58f6cacd6
+  starts: 2019-07-15T09:30:00.0000000
+  ends: 2019-07-15T17:00:00.0000000
+  venue: University of York
 - name: 'PS1: Photoshop Essentials inc. for website editors (Tue 16th Apr 15:00-16:00)'
   description: >-
     These courses are for students and staff at York St John University
@@ -818,14 +826,6 @@
   starts: 2019-05-01T14:00:00.0000000
   ends: 2019-05-01T15:00:00.0000000
   venue: FT/208
-- name: Self-Configuring Modular Robotics for Earth and Space
-  description: A one day workshop for researchers, space industry and robotics industry.  This event is supported by the University of York.
-  url: https://www.eventbrite.co.uk/e/self-configuring-modular-robotics-for-earth-and-space-tickets-59883607482?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/59692480/290039093531/1/original.20190404-120310?h=200&w=450&auto=compress&rect=1,172,1122,561&s=494d29bc67a664f9282c9eb58f6cacd6
-  starts: 2019-07-15T09:30:00.0000000
-  ends: 2019-07-15T17:00:00.0000000
-  venue: University of York
 - name: '"Fantastic Planets and How to Find Them" '
   description: >-
     Imagine living in a world with three Suns, red jungles or endless night. These ideas have moved from fiction to reality as we discover more and more fantastic planets in our galaxy. This talk explains how we find such amazing worlds, how we know what they might be like and what we are still searching for out there.
