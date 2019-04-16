@@ -941,17 +941,37 @@
   starts: 2019-04-29T11:00:00.0000000
   ends: 2019-04-29T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbtb/
+- name: Plastid Preview 2019
+  description: >-
+    Plastid Preview is an annual meeting for Early Career Researchers (ECRs), including Masters by Research, PhD students and post-doctoral researchers, working in any area of chloroplast biology. The meeting provides an excellent opportunity for ECRs to meet and foster networks with their peer ECRs and some senior scientists.
+
+    Topics include photosynthesis, algal biofuels, food security and biotechnology, as well as fundamental research on plastid biology and biochemistry.
+
+    The two-day conference is FREE TO ATTEND and is aimed specifically at providing a welcoming environment for ECRs to present their work. There are typically 40-65 attendees and the quality of the talks is extremely high. Everyone is welcome to present either a talk or a poster, with talks being selected from the Abstracts. Please note, those who submit abstracts will be given priority in attendance should places be limited. Details on submission van be found below. 
+
+    This year’s Plastid Preview is being hosted by the Mackinder Lab, University of York at the beginning of September 2019. The meeting will start Monday, 2nd Sept (followed by Conference Dinner) and finish Tuesday, 3rd Sept in the afternoon. 
+
+    Abstract Submission:
+
+    Please submit your abstracts (250 words max) to charlotte.walker@york.ac.uk and specify whether you would like to do an oral or poster presentation. 
+
+    Accommodation and catering: 
+
+    Accommodation is available on site at the University of York. On confirmation of your place from organisers we shall contact you to enquire whether you require accommodation and any dietary requirements. Acommodation and catering are also free to attendees. 
+  url: https://www.eventbrite.co.uk/e/plastid-preview-2019-tickets-59753417079?aff=ebapi
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-15T06:00:00.0000000
-  ends: 2019-04-15T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: 'Laravel York Monthly Meetup #003'
-  description: "<p>Topics this month TBA</p> <p>Agenda<br/>\U0001F596 Introductions<br/>A quick roundtable hello and what you would like to achieve out of coming to this Meetup.</p> <p>\U0001F4E2 News &amp; \U0001F393 Resources for learning<br/>Newsletters, blogs and feeds to keep an eye on.</p> <p>\U0001F64B Questions<br/>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>\U0001F37B Laravel York Social<br/>Refreshments and banter.</p> "
+  starts: 2019-09-02T12:00:00.0000000
+  ends: 2019-09-03T17:00:00.0000000
+  venue: Department of Biology
+- name: Impacts of extreme climatic events on ecosystems
+  description: "Extreme events such as droughts, heatwaves, floods and fires can have profound effects on ecosystems and biodiversity. Projections indicate that climate change is likely to increase the incidence and / or magnitude of such extreme events in many places. The summer of 2018 was remarkable for hot, dry weather in many areas of the world and for a large number of wildfires. \nThis two-day conference on the ecological consequences of extreme climatic events will 1) present recent results, 2) provide a forum for discussion and 3) explore options to build resilience of ecosystems. The conference will consist of a mixture of invited and offered papers, with opportunities for discussion. We envisage the audience will largely be composed of researchers, with a smaller number of conservation practitioners / policy makers, with attendees from Europe and elsewhere, as well as the UK. The event will help to synthesise recent findings in an important area of science with application to real world problems, with the potential for attendees to contribute to a publication and/or special issue in this area. \nAcross the two days, we will have four sessions of scientific presentations, with two invited speakers (tbc) per session, and discussion after each. The first evening will be an informal dinner with a poster session. \n1. Quantifying extreme events – frequency & severity \n2. Impacts of extreme events on biodiversity (to include extreme versus long-term changes)\n3. Impacts of extreme events on different ecosystems, local versus global impacts\n4. Policy recommendations & adaptation/management for extreme events \n15-minute talks and posters are welcomed on any of the above topics. This meeting will take a broad approach and monitoring, modelling and experimental studies are all welcomed."
+  url: https://www.eventbrite.co.uk/e/impacts-of-extreme-climatic-events-on-ecosystems-tickets-60400242752?aff=ebapi
+  logo: https://cdn.evbuc.com/images/60383766/129933076069/1/original.20190415-124509?h=200&w=450&auto=compress&rect=0,86,1024,512&s=1cbed1ffa06f066c630ff8fe6d15a453
+  starts: 2019-09-10T09:00:00.0000000
+  ends: 2019-09-11T17:00:00.0000000
+  venue: University of York
+- name: 'Laravel York Monthly Meetup #003  Database Optimisation Techniques'
+  description: "<p>This month we are looking at how we can leverage Laravel's database features to help us interact with the database with ease and precision.</p> <p>Agenda<br/>\U0001F596 Introductions<br/>A quick roundtable hello and what you would like to achieve out of coming to this Meetup.</p> <p>\U0001F4E2 News &amp; \U0001F393 Resources for learning<br/>Newsletters, blogs and feeds to keep an eye on.</p> <p>\U0001F64B Questions<br/>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>\U0001F37B Laravel York Social<br/>Refreshments and banter.</p> "
   url: https://www.meetup.com/LaravelYork/events/260449832/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/e/9/7/4/thumb_477839764.jpeg
@@ -983,14 +1003,6 @@
   starts: 2019-04-17T17:30:00.0000000
   ends: 2019-04-17T19:30:00.0000000
   venue: Platform
-- name: Ball Runner
-  description: "<p>Greetings agileYorkers! This being our first event with our new host Hiscox is likely to be a highly interactive evening.</p> <p>Ball Runner</p> <p>In this game teams are challenged to achieve a series of simple tasks as quickly as possible. The game will quickly introduce bottlenecks, which in turn will generate a high amount of work in progress.</p> <p>Teams are given the opportunity to make several attempts, each time taking the opportunity to inspect and adapt. It covers the key agile principles of continuous improvement, self organising teams, challenging process, while touching on ideas from theory of constraints and kanban.</p> <p>About the games creator</p> <p>Lloyd Jones (@l0p3zj0n3s) originally created Ball Runner at the #play14 unconference in London in September 2015. He was toying with the idea of a game around work in progress (WIP), which can be incredibly stressful for teams, and for individuals on these teams. He imagined a team playing a game in which one individual was bombarded with balls while trying to do something with them.</p> <p>At the unconference, a small group broke out to explore this idea. The result covered much more than his original intentions, but he believes the result is more useful.</p> <p>** Special thanks to our host Hiscox (@HiscoxUK) for their generosity and support **</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
-  url: https://www.meetup.com/agileYork/events/260478599/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
-  starts: 2019-04-17T17:30:00.0000000
-  ends: 2019-04-17T19:30:00.0000000
-  venue: The Hiscox Building
 - name: Data Platform User Group (BI, Azure)
   description: "<p>** This event is at a new location - Wizu Workspace - The Leeming Building<br/>[ <a href=\"https://wizuworkspace.com/the-leeming-building/\" class=\"linkified\">https://wizuworkspace.com/the-leeming-building/</a> ] **</p> <p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Robin Lester (Microsoft)<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – Simon Whitely (Adatis)<br/>20:20 – 20:30 – Off t’pub.</p> <p>** Robin Lester (Microsoft) **<br/>Robin Lester is a Cloud Solutions Architect (CSA) at Microsoft in One Commercial Partner (OCP). Working in the industry for over 20 years, focusing on Data tools such as SQL Server and AI technologies. Having worked as both a Premier Field Engineer and a Cloud Solution Architect at Microsoft Robin has a deep technical background in everything related to Data and AI.</p> <p>Azure Cloud Databases Roadmap and Discovery</p> <p>In this session we will discuss recent announcements and releases in the SQL Azure space. Including but not limited to Azure SQL Datawarehouse improvements; Azure SQL Database Hyperscale; Machine Learning Services in Azure SQL Database and Power BI; data masking strategies and pricing improvements. We will talk about why the services work the way they do and why you would use them in different architectures.</p> <p>** Simon Whitely (Adatis) **<br/>Bio:<br/>As Chief Architect with Adatis Consulting, Simon has been working with the Microsoft BI Stack for a decade, starting off building traditional warehouses with SSIS, SSRS and SSAS. He has since turned his head to the cloud and now spends his time advocating new methods of getting insight to the right people using Microsoft Azure’s advanced analytics platform. Whether it's automating file ingestion into Azure Data Lakes, applying massive compute via SQLDW &amp; Azure Databricks or orchestrating these pipelines via Data Factory, he can help.</p> <p>Simon is a strong advocate of the use of modern development practices in the data world (we actually are developers, whether we like it or not) and runs the Surrey Data Platform Group &amp; co-organises the London PASS Chapter.</p> <p>Abstract:<br/>Azure Databricks brings a PaaS offering of Apache Spark, which allows for blazing fast data processing, interactive querying and hosting of ML models all in one place! Most of the buzz is around Data Science &amp; AI - what about the humble data engineer who wants to harness the in-memory processing power within their ETL pipelines?</p> <p>This session focuses on Azure Databricks as your data ingestion, transformation and curation tool of choice.</p> <p>We will:<br/>Introduce the Databricks service &amp; language options available<br/>Discuss the hosting &amp; compute options available<br/>Demonstrate a sample data processing task</p> <p>Demonstrate pipeline management &amp; orchestration<br/>Review the wider architectures and extension patterns</p> <p>The session is aimed at Data Engineers seeking to put the Azure Databricks technology in the right context and learn how to use the service.</p> <p>We will not be covering the python programming language in detail.</p> "
   url: https://www.meetup.com/dataleeds/events/255664594/
@@ -998,6 +1010,14 @@
   starts: 2019-04-17T18:00:00.0000000
   ends: 2019-04-17T20:00:00.0000000
   venue: The Leeming Building
+- name: Ball Runner
+  description: "<p>*** Please note that we will be starting at 7pm on Wednesday 17th April ***</p> <p>Greetings agileYorkers! This being our first event with our new host Hiscox is likely to be a highly interactive evening.</p> <p>Ball Runner</p> <p>In this game teams are challenged to achieve a series of simple tasks as quickly as possible. The game will quickly introduce bottlenecks, which in turn will generate a high amount of work in progress.</p> <p>Teams are given the opportunity to make several attempts, each time taking the opportunity to inspect and adapt. It covers the key agile principles of continuous improvement, self organising teams, challenging process, while touching on ideas from theory of constraints and kanban.</p> <p>About the games creator</p> <p>Lloyd Jones (@l0p3zj0n3s) originally created Ball Runner at the #play14 unconference in London in September 2015. He was toying with the idea of a game around work in progress (WIP), which can be incredibly stressful for teams, and for individuals on these teams. He imagined a team playing a game in which one individual was bombarded with balls while trying to do something with them.</p> <p>At the unconference, a small group broke out to explore this idea. The result covered much more than his original intentions, but he believes the result is more useful.</p> <p>** Special thanks to our host Hiscox (@HiscoxUK) for their generosity and support **</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
+  url: https://www.meetup.com/agileYork/events/260478599/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
+  starts: 2019-04-17T18:00:00.0000000
+  ends: 2019-04-17T19:30:00.0000000
+  venue: The Hiscox Building
 - name: CodeUp Leeds Meetup
   description: "<p>APRIL AGENDA</p> <p>* Introduction to Object-Oriented Programming with Python: this is a beginners course in Python programming from a different angle, as we'll be teaching you how to write Python applications using object orientation, the de facto programming style of the last few decades. This introduction should help you understand the key concepts behind industry-standard languages such as Java, C# or C++ (and Python, of course!). PREREQUISITES: None, although having the PyCharm IDE installed would be ideal. You can download it here: <a href=\"https://www.jetbrains.com/pycharm/\" class=\"linkified\">https://www.jetbrains.com/pycharm/</a><br/>* Android Mobile App Development in Kotlin: do you fancy dabbling in the world of modern Android mobile app development? We will teach how to write your first Android mobile app in Kotlin, the newest Android programming language! PREREQUISITES: Basic programming fundamentals. If you've attended one of our JavaScript or Python programming courses you should be able to follow along. Android Studio +3.0 IDE pre-installed and ready to go. Android Studio requires a computer with a minimum 4GB RAM, 4GB Disk Space, see full requirement list at the bottom of this page: <a href=\"https://developer.android.com/studio\" class=\"linkified\">https://developer.android.com/studio</a></p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. To discuss any additional accessibility requirements you may have, please contact [masked].</p> "
   url: https://www.meetup.com/CodeUp-Leeds/events/dbcjtqyzgbxb/
@@ -1094,6 +1114,13 @@
   starts: 2019-04-25T18:00:00.0000000
   ends: 2019-04-25T20:30:00.0000000
   venue: 3rd Floor, Apsley House
+- name: Leeds Ruby Thing meetup
+  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
+  url: https://www.meetup.com/LeedsRubyThing/events/tvfcvqyzgbhc/
+  is-free: true
+  starts: 2019-04-25T18:30:00.0000000
+  ends: 2019-04-25T22:30:00.0000000
+  venue: Veritas Ale & Wine Bar
 - name: Data n' Gravy (Leeds Digital Festival)
   description: "<p>A mini conference on all things relating to the Microsoft Data Platform plus we'll be serving up food with gravy (Yorkshire Puddings &amp; Chips etc.).</p> <p>For the full agenda, visit <a href=\"https://dataleeds.com/datangravy/schedule-2019/\" class=\"linkified\">https://dataleeds.com/datangravy/schedule-2019/</a></p> <p>Sessions include:</p> <p>Driven by the 9s - I need a highly available Microsoft Data Platform – what features should I use?<br/>Gethyn Ellis, SQL Server Consultant and Trainer</p> <p>How to create Custom Visuals for Power BI<br/>James Dales, Director at Altius</p> <p>How to screw up your ability to deliver database updates in 16 simple steps<br/>Alex Yates</p> <p>Data &amp; AI – What’s Possible?<br/>Andy Readman, Cloud Solution Architect at Wirehive</p> <p>Continuous Integration With SQL Server Containers and Open Source<br/>Chris Adkin, SQL Server Solutions Architect</p> "
   url: https://www.meetup.com/dataleeds/events/254522513/
@@ -1564,6 +1591,15 @@
   ends: 2019-10-02T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyznbkb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-10-07T06:00:00.0000000
+  ends: 2019-10-07T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyznbwb/
@@ -1611,6 +1647,14 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2020-03-19T19:00:00.0000000
   ends: 2020-03-19T22:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmybcgbvb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-04-16T18:00:00.0000000
+  ends: 2020-04-16T21:00:00.0000000
   endorsed: true
 - name: 'Refugee Week: Public lecture by Gulwali Passarlay'
   description: >
