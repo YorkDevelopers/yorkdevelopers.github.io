@@ -680,43 +680,6 @@
   starts: 2019-04-25T14:00:00.0000000
   ends: 2019-04-25T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'WE1: Website CMS Basic training (Wed 17th Apr 10:00-12:00)'
-  description: >-
-    These courses are for staff who have been approved by the website team only
-
-
-    WE1: Website CMS basics
-
-    Prior knowledge: None
-
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-wed-17th-apr-1000-1200-tickets-55517261624?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/55830240/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=55f115e493a2a2a0fb315b8ca52f24ed
-  starts: 2019-04-17T10:00:00.0000000
-  ends: 2019-04-17T12:00:00.0000000
-  venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'Sustainability Metrics: Tracking, Measuring and Reporting Responsible Innovation II'
   description: >-
     Aim of the workshop
@@ -874,46 +837,13 @@
   starts: 2019-09-10T09:00:00.0000000
   ends: 2019-09-11T17:00:00.0000000
   venue: University of York
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbwb/
+- name: Geek Lunch at Once Across the Garden
+  description: "<p>Once Across the Garden - <a href=\"https://www.onceacrossthegarden.co.uk/\" class=\"linkified\">https://www.onceacrossthegarden.co.uk/</a></p> <p>We'll be meeting for lunch at 12:15 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>We normally chat beforehand on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>), if you want an invite - send us a DM.</p> "
+  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/260694352/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-17T06:00:00.0000000
-  ends: 2019-04-17T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzgbwb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-04-17T07:00:00.0000000
-  ends: 2019-04-17T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Data Platform User Group (BI, Azure)
-  description: "<p>** This event is at a new location - Wizu Workspace - The Leeming Building<br/>[ <a href=\"https://wizuworkspace.com/the-leeming-building/\" class=\"linkified\">https://wizuworkspace.com/the-leeming-building/</a> ] **</p> <p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Robin Lester (Microsoft)<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – Simon Whitely (Adatis)<br/>20:20 – 20:30 – Off t’pub.</p> <p>** Robin Lester (Microsoft) **<br/>Robin Lester is a Cloud Solutions Architect (CSA) at Microsoft in One Commercial Partner (OCP). Working in the industry for over 20 years, focusing on Data tools such as SQL Server and AI technologies. Having worked as both a Premier Field Engineer and a Cloud Solution Architect at Microsoft Robin has a deep technical background in everything related to Data and AI.</p> <p>Azure Cloud Databases Roadmap and Discovery</p> <p>In this session we will discuss recent announcements and releases in the SQL Azure space. Including but not limited to Azure SQL Datawarehouse improvements; Azure SQL Database Hyperscale; Machine Learning Services in Azure SQL Database and Power BI; data masking strategies and pricing improvements. We will talk about why the services work the way they do and why you would use them in different architectures.</p> <p>** Simon Whitely (Adatis) **<br/>Bio:<br/>As Chief Architect with Adatis Consulting, Simon has been working with the Microsoft BI Stack for a decade, starting off building traditional warehouses with SSIS, SSRS and SSAS. He has since turned his head to the cloud and now spends his time advocating new methods of getting insight to the right people using Microsoft Azure’s advanced analytics platform. Whether it's automating file ingestion into Azure Data Lakes, applying massive compute via SQLDW &amp; Azure Databricks or orchestrating these pipelines via Data Factory, he can help.</p> <p>Simon is a strong advocate of the use of modern development practices in the data world (we actually are developers, whether we like it or not) and runs the Surrey Data Platform Group &amp; co-organises the London PASS Chapter.</p> <p>Abstract:<br/>Azure Databricks brings a PaaS offering of Apache Spark, which allows for blazing fast data processing, interactive querying and hosting of ML models all in one place! Most of the buzz is around Data Science &amp; AI - what about the humble data engineer who wants to harness the in-memory processing power within their ETL pipelines?</p> <p>This session focuses on Azure Databricks as your data ingestion, transformation and curation tool of choice.</p> <p>We will:<br/>Introduce the Databricks service &amp; language options available<br/>Discuss the hosting &amp; compute options available<br/>Demonstrate a sample data processing task</p> <p>Demonstrate pipeline management &amp; orchestration<br/>Review the wider architectures and extension patterns</p> <p>The session is aimed at Data Engineers seeking to put the Azure Databricks technology in the right context and learn how to use the service.</p> <p>We will not be covering the python programming language in detail.</p> "
-  url: https://www.meetup.com/dataleeds/events/255664594/
-  is-free: true
-  starts: 2019-04-17T16:30:00.0000000
-  ends: 2019-04-17T20:00:00.0000000
-  venue: The Leeming Building
-- name: Get Some REST & Another Talk / Panel TBC
-  description: '<p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided. We will have vegetarian food, if you have any other dietary requirements or questions please send us a message.</p> <p>_______________________________</p> <p>★ The talks</p> <p>✩ Talk 1 - Get Some REST - Hugh Noble</p> <p>Designing good APIs is hard work and REST is a term which is thrown around as much as it is misunderstood. In this talk we’ll break down the constraints that make an API RESTful and explore what each one means.</p> <p>✩ Talk 2 - TBA<br/>_______________________________</p> <p>★ Timings</p> <p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – Talk 1 - Get Some REST - Hugh Noble<br/>19:20 – A little break<br/>19:25 – Talk 2 - TBA<br/>20:10ish – Pop over to the pub for a chat and a drink</p> <p>_______________________________</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform (<a href="https://bruntwood.co.uk/our-locations/leeds/platform/" class="linkified">https://bruntwood.co.uk/our-locations/leeds/platform/</a>) – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Infinity Works (<a href="https://www.infinityworks.com/" class="linkified">https://www.infinityworks.com/</a>) - Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href="https://twitter.com/InfinityWorks" class="linkified">https://twitter.com/InfinityWorks</a>)</p> <p>• Searchability (<a href="https://searchability.co.uk/" class="linkified">https://searchability.co.uk/</a>) - Searchability are a recruitment marketing company that help companies secure hard to find candidates either indirectly or directly via our award winning JobHoller platform. There are few sectors more challenged by skill-shortage than digital tech, we specialise in sourcing unique opportunities &amp; engaging relevant candidate audiences across the IT &amp; eCommerce sectors by fusing traditional methods with a twist of social magic, with particular focus &amp; expertise within Software Development in Yorkshire, where it all started for us in 2012. @SearchabilityUK (<a href="https://twitter.com/SearchabilityUK" class="linkified">https://twitter.com/SearchabilityUK</a>)</p> '
-  url: https://www.meetup.com/leedsphp/events/260418114/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
-  starts: 2019-04-17T17:30:00.0000000
-  ends: 2019-04-17T19:30:00.0000000
-  venue: Platform
-- name: Ball Runner
-  description: "<p>*** Please note that we will be starting at 7pm on Wednesday 17th April ***</p> <p>Greetings agileYorkers! This being our first event with our new host Hiscox is likely to be a highly interactive evening.</p> <p>Ball Runner</p> <p>In this game teams are challenged to achieve a series of simple tasks as quickly as possible. The game will quickly introduce bottlenecks, which in turn will generate a high amount of work in progress.</p> <p>Teams are given the opportunity to make several attempts, each time taking the opportunity to inspect and adapt. It covers the key agile principles of continuous improvement, self organising teams, challenging process, while touching on ideas from theory of constraints and kanban.</p> <p>About the games creator</p> <p>Lloyd Jones (@l0p3zj0n3s) originally created Ball Runner at the #play14 unconference in London in September 2015. He was toying with the idea of a game around work in progress (WIP), which can be incredibly stressful for teams, and for individuals on these teams. He imagined a team playing a game in which one individual was bombarded with balls while trying to do something with them.</p> <p>At the unconference, a small group broke out to explore this idea. The result covered much more than his original intentions, but he believes the result is more useful.</p> <p>** Special thanks to our host Hiscox (@HiscoxUK) for their generosity and support **</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
-  url: https://www.meetup.com/agileYork/events/260478599/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/8/c/1/a/thumb_462995866.jpeg
-  starts: 2019-04-17T18:00:00.0000000
-  ends: 2019-04-17T19:30:00.0000000
-  venue: The Hiscox Building
+  starts: 2019-04-18T11:15:00.0000000
+  ends: 2019-04-18T12:45:00.0000000
+  venue: Once Across the Garden
 - name: CodeUp Leeds Meetup
   description: "<p>APRIL AGENDA</p> <p>* Introduction to Object-Oriented Programming with Python: this is a beginners course in Python programming from a different angle, as we'll be teaching you how to write Python applications using object orientation, the de facto programming style of the last few decades. This introduction should help you understand the key concepts behind industry-standard languages such as Java, C# or C++ (and Python, of course!). PREREQUISITES: None, although having the PyCharm IDE installed would be ideal. You can download it here: <a href=\"https://www.jetbrains.com/pycharm/\" class=\"linkified\">https://www.jetbrains.com/pycharm/</a><br/>* Android Mobile App Development in Kotlin: do you fancy dabbling in the world of modern Android mobile app development? We will teach how to write your first Android mobile app in Kotlin, the newest Android programming language! PREREQUISITES: Basic programming fundamentals. If you've attended one of our JavaScript or Python programming courses you should be able to follow along. Android Studio +3.0 IDE pre-installed and ready to go. Android Studio requires a computer with a minimum 4GB RAM, 4GB Disk Space, see full requirement list at the bottom of this page: <a href=\"https://developer.android.com/studio\" class=\"linkified\">https://developer.android.com/studio</a></p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. To discuss any additional accessibility requirements you may have, please contact [masked].</p> "
   url: https://www.meetup.com/CodeUp-Leeds/events/dbcjtqyzgbxb/
@@ -964,6 +894,14 @@
   starts: 2019-04-24T12:00:00.0000000
   ends: 2019-04-24T13:00:00.0000000
   venue: Lamberts yard,
+- name: Leeds Digital Festival - Platform Engineering and how to be Agile with Big Data
+  description: '<p>Leeds Digital Festival - Platform Engineering and how to be Agile with Big Data</p> <p>Equal Experts is running an all day Rubber Duck clinic as part of the Leeds Digital Festival.</p> <p>What exactly is a Rubber Duck clinic? Explaining your problem to someone else, in this case Machine Learning, DevOps, Delivery, Product and Transformation specialists, can help you to debug a problem.</p> <p>What sort of problems can I talk about? If you can verbalise it, then you can talk about it! Our specialists are happy to talk over issues from any part of agile software delivery/development (e.g. product strategy, architecture, development practices, delivery process, organisational politics) - to try and help you find solutions… or at least hypotheses to test!</p> <p>Just come along between 10am and 5pm or email [masked] to reserve a specific time.</p> <p>We will also be holding the following talk at 5pm.</p> <p>Platform Engineering and how to be agile with Big Data<br/>How a platform team can tackle introducing agile principles to enterprise datawarehousing tools. The talk covers the basics of cloud based big data tools, hadoop distributions and how you can use DevOps tools and processes to deploy these data platforms.<br/>Ali Farooqui, Equal Experts</p> <p>Drinks and light refreshments will be provided</p> '
+  url: https://www.meetup.com/ExpertTalks-Leeds/events/260475819/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2019-04-24T16:00:00.0000000
+  ends: 2019-04-24T18:00:00.0000000
+  venue: Lamberts yard,
 - name: April - PWAs, JAM and Headless CMS
   description: "<p>PLEASE NOTE: RSVPs will be opened on the 17th!</p> <p>This month we have Jamie Bradley and Sam Beckham with us for an acronym packed event! We'll also be giving away 2 codes for a year subscription for a Jetbrains toolbox product of your choice and a ticket for the Amsterdam JSNation conference!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 6:55: Job Pitches - Give a shout out for any jobs you have<br/>6:55 - 7:25: Jamie Bradley (@jamiebradley234) - Finding My Sanity<br/>7:25 - 7:35: Break with food and chat<br/>7:35 - 8:20: Sam Beckham (@samdbeckham) - Making GitLab a PWA<br/>8:20 - 8:30: Prize draw and closing remarks<br/>--------------<br/>Talks:</p> <p>Jamie Bradley (@jamiebradley234) - Finding My Sanity<br/>Following my previous talk \"What the JAMstack\" my talk will revise the basics of JAMstack i.e. what it is, why it’s becoming so popular and also some of the potential drawbacks with using JAMstack. I will then follow up with a demonstration of a project using Gatsby along with a Headless CMS solution called Sanity. I will showcase how this fits into the JAMstack and why it is proving to be a success.</p> <p>Sam Beckham (@samdbeckham) - Making GitLab a PWA<br/>This is not your typical PWA talk. We're not going to make a dummy application that's perfectly tailored for use with a PWA, then show you just how easy it is to turn it into one. We're not going to talk about how much faster, or how much more useful our website is now that it's a PWA. We're not even going to make anything particularly useful.</p> <p>I'm going to show you how to use the concept of \"the boring solution\" to make small changes to a big application. Small changes that, over time, turn in to large ones. Specifically, my process of turning GitLab into a \"PWA\" in less than 100 lines of code.</p> <p>This is a real story of GitLab's journey to a fully fledged PWA. One small step at a time.</p> <p>--------------<br/>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no active recruitment policy, outside of the job pitches at the start of the event.<br/>Code of conduct - <a href=\"https://leedsjs.github.io/code-of-conduct/\" class=\"linkified\">https://leedsjs.github.io/code-of-conduct/</a></p> "
   url: https://www.meetup.com/LeedsJS/events/260242386/
@@ -973,7 +911,7 @@
   ends: 2019-04-24T19:30:00.0000000
   venue: Platform
 - name: ACCU York [Apr 2019] - Quickly testing legacy code
-  description: "<p>This month we welcome Clare Macrae to ACCU York.</p> <p>Talk Detail:<br/>You've inherited some legacy code: it's valuable, but it doesn't have tests, and it wasn't designed to be testable, so you need to start refactoring! But you can't refactor safely until the code has tests, and you can't add tests without refactoring. How can you ever break out of this painful loop?</p> <p>Clare will present a powerful approach to solve exactly this problem, in both legacy and green-field systems: Llewellyn Falco's \"Approval Tests\". In addition to its existing implementations for Python, .NET, Java, NodeJS, Swift and others, there is now a C++ version.</p> <p>She will describe the use of Approval Tests in some real-world situations, including how to quickly lock down the behaviour of legacy code. She will show how to rapidly achieve good test coverage, even for very large sets of inputs. Finally, she will also describe some general techniques I learned along the way.</p> <p>About Clare Macrae:<br/>Clare has worked in technology for over 30 years, and is a Principal Scientific Software Engineer at Cambridge Crystallographic Data Centre. When not thinking about supporting teams to streamline development and releases, she spends time with family and friends, and more recently, also contributes C++ code to the CycleStreets journey planner.</p> <p>----<br/>Thank you York Science Park for providing us a place to meet<br/>Supported by YorkDevelopers<br/>ACCU York is an ACCU local group</p> "
+  description: "<p>This month we welcome Clare Macrae to ACCU York.</p> <p>Talk Detail:<br/>You've inherited some legacy code: it's valuable, but it doesn't have tests, and it wasn't designed to be testable, so you need to start refactoring! But you can't refactor safely until the code has tests, and you can't add tests without refactoring. How can you ever break out of this painful loop?</p> <p>Clare will present a powerful approach to solve exactly this problem, in both legacy and green-field systems: Llewellyn Falco's \"Approval Tests\". In addition to its existing implementations for Python, .NET, Java, NodeJS, Swift and others, there is now a C++ version.</p> <p>She will describe the use of Approval Tests in some real-world situations, including how to quickly lock down the behaviour of legacy code. She will show how to rapidly achieve good test coverage, even for very large sets of inputs. Finally, she will also describe some general techniques I learned along the way.</p> <p>About Clare Macrae:<br/>Clare has worked in software development for over 30 years. She is a Principal Scientific Software Engineer at Cambridge Crystallographic Data Centre, which releases data and powerful software for scientific education, research, and streamlining the design and manufacture of new medicines.</p> <p>From 2016 to 2018, she lead the team that replaced their 30 year old database format and Fortran code. She has now returned to C++ and Qt, working on the popular 3D crystal structure visualisation program Mercury, which she was the original author of.</p> <p>Since 2017, Clare has used her spare time to work remotely with Llewellyn Falco on ApprovalTests.cpp, to radically simplify testing of legacy code.</p> <p>When not thinking about supporting teams to streamline development, testing and releases, she spends time with family and friends, and enjoys the Raspberry Pi, folk music and cinema</p> <p>----<br/>Thank you York Science Park for providing us a place to meet<br/>Supported by YorkDevelopers<br/>ACCU York is an ACCU local group</p> "
   url: https://www.meetup.com/ACCU-York/events/259156413/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/e/3/6/f/thumb_475438223.jpeg
@@ -1050,6 +988,14 @@
   ends: 2019-05-01T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzhbcb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-05-01T07:00:00.0000000
+  ends: 2019-05-01T10:00:00.0000000
+  venue: La Bottega Milanese
 - name: Front End York - "#YorkTechFest - Creation of a Tech Conference" & More
   description: '<p>2 talks at our Front End York - April Event!!</p> <p>"#YorkTechFest - Creation of a Tech Conference" - Daniel Woolfson</p> <p>YorkTechFest 2018 event, themed “A Showcase Of Tech Non-Profit Communities” was delivered on the evening of November 13th 2018. Over 80 people attended City of York Council West Offices to listen to 10 speakers on tech topics. You may have been there :-)</p> <p>The YorkTechFest event is aimed at providing representation of the growing tech non-profit community in the City of York. This annual event is aimed at members of existing tech communities and to promote cross pollination of innovation between existing groups.</p> <p>This is the story of how YorkDevelopers did it with the help of key partners and of course the tech community.... and maybe what YorkTechFest 2019 could be... with your help.</p> <p>About Daniel (@DanielWoolfson)</p> <p>Daniel Woolfson is Chair of YorkDevelopers (www.yorkdevelopers.org), a registered Charity which supports, develops and encourages communities of Software Developers and IT professionals in and around the City of York. Daniel is also Head of Development and Test at PureNet (www.purenet.co.uk) developing ecommerce solutions to B2C and B2B businesses throughout the UK.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/259742226/
@@ -1502,6 +1448,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-10-07T06:00:00.0000000
   ends: 2019-10-07T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyznbmb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-10-09T06:00:00.0000000
+  ends: 2019-10-09T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
