@@ -682,8 +682,6 @@
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'Sustainability Metrics: Tracking, Measuring and Reporting Responsible Innovation II'
   description: >-
-    Aim of the workshop
-
     Measure and monitor your supply chain’s performance with appropriate and easy-to-use sustainability metrics. Existing industrial sustainability metrics primarily focus on the chemical process, although the need to consider the performance of a “bigger picture” is prevalent and growing. This workshop is dedicated to demonstrating current trends and practices in applying qualitative and quantitative sustainability evaluation practices, through use of LCA and other industrial best procedures.
 
     Context There is a current need for innovative business models that are sustainable and resource efficient to meet with fast-approaching and stricter environmental targets. Reducing, neutralising or going negative with carbon emissions in any process is a challenge, regardless of the sector. Creating a circular economy could be the ideal solution to overcome this challenge. Undertaking these responsibilities to the highest accuracy, extensiveness of this reporting and transparency among stakeholders are currently some of the major hurdles. Some enterprises have, however, been successful. With a view to creating a dialogue and awareness of the various methods of tracking and reporting these sustainability characteristics, in portfolio management, systems thinking to end of life management strategies, the Green Chemistry Centre of Excellence is organising a “Tracking, Measuring and Reporting Responsible Innovation II” event.
@@ -837,29 +835,21 @@
   starts: 2019-09-10T09:00:00.0000000
   ends: 2019-09-11T17:00:00.0000000
   venue: University of York
-- name: Geek Lunch at Once Across the Garden
-  description: "<p>Once Across the Garden - <a href=\"https://www.onceacrossthegarden.co.uk/\" class=\"linkified\">https://www.onceacrossthegarden.co.uk/</a></p> <p>We'll be meeting for lunch at 12:15 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>We normally chat beforehand on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>), if you want an invite - send us a DM.</p> "
-  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/260694352/
+- name: Marvellous Microbes
+  description: >-
+    Learn about the wonderful world of ‘marvellous microbes’ with our family-friendly interactive demonstrations. Explore how microbes could stop the spread of tropical diseases and reduce our dependence on fossil fuels. Discover how York researchers are targeting specific body molecules inside the ‘smelly’ microbes to prevent body odour, and get to know your own microbes.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/marvellous-microbes-tickets-60522526506?aff=ebapi
   is-free: true
-  starts: 2019-04-18T11:15:00.0000000
-  ends: 2019-04-18T12:45:00.0000000
-  venue: Once Across the Garden
-- name: CodeUp Leeds Meetup
-  description: "<p>APRIL AGENDA</p> <p>* Introduction to Object-Oriented Programming with Python: this is a beginners course in Python programming from a different angle, as we'll be teaching you how to write Python applications using object orientation, the de facto programming style of the last few decades. This introduction should help you understand the key concepts behind industry-standard languages such as Java, C# or C++ (and Python, of course!). PREREQUISITES: None, although having the PyCharm IDE installed would be ideal. You can download it here: <a href=\"https://www.jetbrains.com/pycharm/\" class=\"linkified\">https://www.jetbrains.com/pycharm/</a><br/>* Android Mobile App Development in Kotlin: do you fancy dabbling in the world of modern Android mobile app development? We will teach how to write your first Android mobile app in Kotlin, the newest Android programming language! PREREQUISITES: Basic programming fundamentals. If you've attended one of our JavaScript or Python programming courses you should be able to follow along. Android Studio +3.0 IDE pre-installed and ready to go. Android Studio requires a computer with a minimum 4GB RAM, 4GB Disk Space, see full requirement list at the bottom of this page: <a href=\"https://developer.android.com/studio\" class=\"linkified\">https://developer.android.com/studio</a></p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. To discuss any additional accessibility requirements you may have, please contact [masked].</p> "
-  url: https://www.meetup.com/CodeUp-Leeds/events/dbcjtqyzgbxb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
-  starts: 2019-04-18T17:45:00.0000000
-  ends: 2019-04-18T20:00:00.0000000
-  venue: 3rd Floor, Apsley House
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzgbxb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-18T18:00:00.0000000
-  ends: 2019-04-18T21:00:00.0000000
-  endorsed: true
+  logo: https://cdn.evbuc.com/images/60533884/22468345120/1/original.20190417-121432?h=200&w=450&auto=compress&rect=0,0,800,400&s=c06ca276e52c3485b35be77ef97a3c59
+  starts: 2019-06-11T16:00:00.0000000
+  ends: 2019-06-11T18:00:00.0000000
+  venue: Department of Biology
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbdc/
@@ -932,6 +922,13 @@
   starts: 2019-04-25T16:30:00.0000000
   ends: 2019-04-25T18:30:00.0000000
   venue: Sky Betting and Gaming
+- name: 'Diversity by Default: Digital Leeds'
+  description: '<p>**Please register via the Eventbrite link below **</p> <p>Diversity by Default is part of a series of events where we convene experts and influencers in the inclusion and diversity space. We will be hosting an event in central Leeds focussing on what it means to be ‘Digital’ in a city region like Leeds.</p> <p>Is there a north and south divide when it comes to tech recruitment and roles? Is there a class divide when we consider who does what in a digital world? How can we change perceptions by using the language and positive change around the Northern Powerhouse to create a silicon city?</p> <p>Come along to our event on 25th April – there will be brilliant speakers and plenty of time to network after the event.</p> <p>Please arrive at Leeds Town Hall from 5:00pm for a 5:30pm start. The event will finish at 8pm with the opportunity for networking afterwards.</p> <p>As usual, registration is via Eventbrite: <a href="https://www.eventbrite.co.uk/e/diversity-by-default-digital-leeds-tickets-59824859766" class="linkified">https://www.eventbrite.co.uk/e/diversity-by-default-digital-leeds-tickets-59824859766</a></p> '
+  url: https://www.meetup.com/Digital-Transformation-Leeds/events/260368029/
+  is-free: true
+  starts: 2019-04-25T16:30:00.0000000
+  ends: 2019-04-25T19:00:00.0000000
+  venue: Leeds Town Hall
 - name: Augmented Reality in Ecommerce (Leeds Digital Festival)
   description: '<p>Matt Ross is a .NET developer and ecommerce consultant at Tronik. In this talk will have a look at why AR in the browser is a game changer and what technologies are available or coming soon to get started as a web developer in 2019.</p> <p>Agenda:<br/>18:30 Pizza, drinks &amp; chat<br/>19:00 Leeds Sharp introduction and industry news<br/>19:15 Kaizen Bits - The Habit Loop and how to refactor your brain<br/>19:30 Design Pattern Recognition - The Entity component system. An architectural design pattern used in game and XR development<br/>19:45 Break<br/>20:00 Main talk - AR in Ecommerce<br/>21:00 The Brewery Tap for drinks and chats</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/259188924/
@@ -1005,6 +1002,14 @@
   ends: 2019-05-01T20:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
   endorsed: true
+- name: Umbraco Meetup
+  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>More details to come!</p> "
+  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzhbdb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
+  starts: 2019-05-02T16:30:00.0000000
+  ends: 2019-05-02T19:30:00.0000000
+  venue: twentysix
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbjb/
