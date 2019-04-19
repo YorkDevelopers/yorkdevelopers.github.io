@@ -682,8 +682,6 @@
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: 'Sustainability Metrics: Tracking, Measuring and Reporting Responsible Innovation II'
   description: >-
-    Aim of the workshop
-
     Measure and monitor your supply chain’s performance with appropriate and easy-to-use sustainability metrics. Existing industrial sustainability metrics primarily focus on the chemical process, although the need to consider the performance of a “bigger picture” is prevalent and growing. This workshop is dedicated to demonstrating current trends and practices in applying qualitative and quantitative sustainability evaluation practices, through use of LCA and other industrial best procedures.
 
     Context There is a current need for innovative business models that are sustainable and resource efficient to meet with fast-approaching and stricter environmental targets. Reducing, neutralising or going negative with carbon emissions in any process is a challenge, regardless of the sector. Creating a circular economy could be the ideal solution to overcome this challenge. Undertaking these responsibilities to the highest accuracy, extensiveness of this reporting and transparency among stakeholders are currently some of the major hurdles. Some enterprises have, however, been successful. With a view to creating a dialogue and awareness of the various methods of tracking and reporting these sustainability characteristics, in portfolio management, systems thinking to end of life management strategies, the Green Chemistry Centre of Excellence is organising a “Tracking, Measuring and Reporting Responsible Innovation II” event.
@@ -837,3 +835,18 @@
   starts: 2019-09-10T09:00:00.0000000
   ends: 2019-09-11T17:00:00.0000000
   venue: University of York
+- name: Marvellous Microbes
+  description: >-
+    Learn about the wonderful world of ‘marvellous microbes’ with our family-friendly interactive demonstrations. Explore how microbes could stop the spread of tropical diseases and reduce our dependence on fossil fuels. Discover how York researchers are targeting specific body molecules inside the ‘smelly’ microbes to prevent body odour, and get to know your own microbes.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/marvellous-microbes-tickets-60522526506?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60533884/22468345120/1/original.20190417-121432?h=200&w=450&auto=compress&rect=0,0,800,400&s=c06ca276e52c3485b35be77ef97a3c59
+  starts: 2019-06-11T16:00:00.0000000
+  ends: 2019-06-11T18:00:00.0000000
+  venue: Department of Biology
