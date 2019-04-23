@@ -852,15 +852,6 @@
   venue: Department of Biology
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbdc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-04-22T06:00:00.0000000
-  ends: 2019-04-22T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbgc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -883,14 +874,6 @@
   logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
   starts: 2019-04-24T12:00:00.0000000
   ends: 2019-04-24T13:00:00.0000000
-  venue: Lamberts yard,
-- name: Leeds Digital Festival - Platform Engineering and how to be Agile with Big Data
-  description: '<p>Leeds Digital Festival - Platform Engineering and how to be Agile with Big Data</p> <p>Equal Experts is running an all day Rubber Duck clinic as part of the Leeds Digital Festival.</p> <p>What exactly is a Rubber Duck clinic? Explaining your problem to someone else, in this case Machine Learning, DevOps, Delivery, Product and Transformation specialists, can help you to debug a problem.</p> <p>What sort of problems can I talk about? If you can verbalise it, then you can talk about it! Our specialists are happy to talk over issues from any part of agile software delivery/development (e.g. product strategy, architecture, development practices, delivery process, organisational politics) - to try and help you find solutions… or at least hypotheses to test!</p> <p>Just come along between 10am and 5pm or email [masked] to reserve a specific time.</p> <p>We will also be holding the following talk at 5pm.</p> <p>Platform Engineering and how to be agile with Big Data<br/>How a platform team can tackle introducing agile principles to enterprise datawarehousing tools. The talk covers the basics of cloud based big data tools, hadoop distributions and how you can use DevOps tools and processes to deploy these data platforms.<br/>Ali Farooqui, Equal Experts</p> <p>Drinks and light refreshments will be provided</p> '
-  url: https://www.meetup.com/ExpertTalks-Leeds/events/260475819/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
-  starts: 2019-04-24T16:00:00.0000000
-  ends: 2019-04-24T18:00:00.0000000
   venue: Lamberts yard,
 - name: April - PWAs, JAM and Headless CMS
   description: "<p>PLEASE NOTE: RSVPs will be opened on the 17th!</p> <p>This month we have Jamie Bradley and Sam Beckham with us for an acronym packed event! We'll also be giving away 2 codes for a year subscription for a Jetbrains toolbox product of your choice and a ticket for the Amsterdam JSNation conference!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 6:55: Job Pitches - Give a shout out for any jobs you have<br/>6:55 - 7:25: Jamie Bradley (@jamiebradley234) - Finding My Sanity<br/>7:25 - 7:35: Break with food and chat<br/>7:35 - 8:20: Sam Beckham (@samdbeckham) - Making GitLab a PWA<br/>8:20 - 8:30: Prize draw and closing remarks<br/>--------------<br/>Talks:</p> <p>Jamie Bradley (@jamiebradley234) - Finding My Sanity<br/>Following my previous talk \"What the JAMstack\" my talk will revise the basics of JAMstack i.e. what it is, why it’s becoming so popular and also some of the potential drawbacks with using JAMstack. I will then follow up with a demonstration of a project using Gatsby along with a Headless CMS solution called Sanity. I will showcase how this fits into the JAMstack and why it is proving to be a success.</p> <p>Sam Beckham (@samdbeckham) - Making GitLab a PWA<br/>This is not your typical PWA talk. We're not going to make a dummy application that's perfectly tailored for use with a PWA, then show you just how easy it is to turn it into one. We're not going to talk about how much faster, or how much more useful our website is now that it's a PWA. We're not even going to make anything particularly useful.</p> <p>I'm going to show you how to use the concept of \"the boring solution\" to make small changes to a big application. Small changes that, over time, turn in to large ones. Specifically, my process of turning GitLab into a \"PWA\" in less than 100 lines of code.</p> <p>This is a real story of GitLab's journey to a fully fledged PWA. One small step at a time.</p> <p>--------------<br/>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no active recruitment policy, outside of the job pitches at the start of the event.<br/>Code of conduct - <a href=\"https://leedsjs.github.io/code-of-conduct/\" class=\"linkified\">https://leedsjs.github.io/code-of-conduct/</a></p> "
@@ -1455,6 +1438,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-10-09T06:00:00.0000000
   ends: 2019-10-09T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyznbsb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-10-14T06:00:00.0000000
+  ends: 2019-10-14T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
