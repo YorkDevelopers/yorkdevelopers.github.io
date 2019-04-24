@@ -174,9 +174,9 @@
   starts: 2019-05-23T18:30:00.0000000
   ends: 2019-05-23T19:30:00.0000000
   venue: Bowland Auditorium
-- name: Automating your test infrastructure with Kubernetes
+- name: Testers Discuss
   description: Welcome to our April Event!
-  url: https://www.eventbrite.co.uk/e/automating-your-test-infrastructure-with-kubernetes-tickets-59875723902?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/testers-discuss-tickets-59875723902?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/59681791/287207511238/1/original.20190404-064049?h=200&w=450&auto=compress&rect=0,2,1170,585&s=5f4514f4fad96b192295232d25a97782
   starts: 2019-04-24T18:00:00.0000000
@@ -275,6 +275,97 @@
   starts: 2019-05-08T16:00:00.0000000
   ends: 2019-05-08T17:45:00.0000000
   venue: National STEM Learning Centre
+- name: Women in Tech York talk Mental Health
+  description: >-
+    Welcome to Women in Tech York's Mental Health Awareness event!
+
+    Who are we?
+
+    We are a community of like-minded people studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.
+
+    We also welcome all students who are interested in learning more about Tech, and the careers it entails.
+
+
+
+    This month...
+
+    To coincide with Mental Health awareness week on Monday 13th May 2019, we're focusing on Mental Health this month.
+
+    We'll have some general mental health leaflets and documents available on the evening courtesy of York Mind, should anyone want more information. There will also be a charity bucket for donations to York Mind, to help support the amazing work they do in the York community.As always, there will be a free buffet (vegetarian and vegan options avaliable) thanks to our sponsors Isotoma, Mitrefinch, Netsells and Piksel.
+
+
+
+    Event Timings:
+
+    18:00: Registration Opens
+
+    18:30: Introduction
+
+    18:40: Talk title TBC - Alyson Scott, CEO of York Mind
+
+    19:10: Buffet and networking
+
+    19:50: Talk title TBC - Josie Tulip, PhD student, Speech and Language Sciences, Newcastle University
+
+    20:30: Closing remarks and networking
+
+    21:00: Event close
+
+
+
+    Giveaway!
+
+    TBC
+
+    To win, tweet us on the night and make sure to include #WiTYork!
+
+
+
+
+
+    Nervous about attending?
+
+    A WiT York ambassador will be outside Pitcher & Piano to greet you on the night, direct you to our upstairs bar and answer any questions you may have.
+
+    You can also join our Slack and LinkedIn community beforehand or contact us directly via Twitter or email.
+
+
+
+
+
+    Slack: https://wit-york.slack.com
+
+
+
+
+
+    LinkedIn: Women in Tech York
+
+
+
+
+
+    Twitter: @WiT_York
+
+
+
+
+
+    Email: WomenInTechYork@gmail.com
+
+
+
+
+
+    Code of Conduct
+
+    The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack channel.
+  url: https://www.eventbrite.co.uk/e/women-in-tech-york-talk-mental-health-tickets-60373936068?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60353441/235318357053/1/original.20190414-185429?h=200&w=450&auto=compress&rect=0,125,1748,874&s=3d43f415e2a6f4fa22ee47fc51b9d09a
+  starts: 2019-05-09T18:00:00.0000000
+  ends: 2019-05-09T21:00:00.0000000
+  venue: Pitcher & Piano
 - name: MOS Test (Wed 1st May 10:00-11:00)
   description: >
     These sessions are for students, staff and alumni of York St John University. 
@@ -453,14 +544,17 @@
   starts: 2019-05-02T09:30:00.0000000
   ends: 2019-05-02T15:30:00.0000000
   venue: (Venue TBC)
-- name: Self-Configuring Modular Robotics for Earth and Space
-  description: A one day workshop for researchers, space industry and robotics industry.  This event is supported by the University of York.
-  url: https://www.eventbrite.co.uk/e/self-configuring-modular-robotics-for-earth-and-space-tickets-59883607482?aff=ebapi
+- name: 'Sustainability Metrics: Tracking, Measuring and Reporting Responsible Innovation II'
+  description: >-
+    Measure and monitor your supply chain’s performance with appropriate and easy-to-use sustainability metrics. Existing industrial sustainability metrics primarily focus on the chemical process, although the need to consider the performance of a “bigger picture” is prevalent and growing. This workshop is dedicated to demonstrating current trends and practices in applying qualitative and quantitative sustainability evaluation practices, through use of LCA and other industrial best procedures.
+
+    Context There is a current need for innovative business models that are sustainable and resource efficient to meet with fast-approaching and stricter environmental targets. Reducing, neutralising or going negative with carbon emissions in any process is a challenge, regardless of the sector. Creating a circular economy could be the ideal solution to overcome this challenge. Undertaking these responsibilities to the highest accuracy, extensiveness of this reporting and transparency among stakeholders are currently some of the major hurdles. Some enterprises have, however, been successful. With a view to creating a dialogue and awareness of the various methods of tracking and reporting these sustainability characteristics, in portfolio management, systems thinking to end of life management strategies, the Green Chemistry Centre of Excellence is organising a “Tracking, Measuring and Reporting Responsible Innovation II” event.
+  url: https://www.eventbrite.co.uk/e/sustainability-metrics-tracking-measuring-and-reporting-responsible-innovation-ii-tickets-58993573366?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/59692480/290039093531/1/original.20190404-120310?h=200&w=450&auto=compress&rect=1,172,1122,561&s=494d29bc67a664f9282c9eb58f6cacd6
-  starts: 2019-07-15T09:30:00.0000000
-  ends: 2019-07-15T17:00:00.0000000
-  venue: University of York
+  logo: https://cdn.evbuc.com/images/58666462/147695442327/1/original.20190318-142415?h=200&w=450&auto=compress&rect=2,0,476,238&s=a4fc3a7c4c43e59dc3214471a2d01f09
+  starts: 2019-09-11T09:30:00.0000000
+  ends: 2019-09-11T16:00:00.0000000
+  venue: Green Chemistry Centre of Excellence
 - name: Exploring the Secondary Computing and Science Curriculum with LEGO® MINDSTORMS® Education EV3
   description: >+
     This Secondary STEM Workshop utilises the inspiring LEGO® MINDSTORMS® Education EV3 resource to engage and inspire pupils in STEM learning.
@@ -489,6 +583,14 @@
   starts: 2019-05-01T16:00:00.0000000
   ends: 2019-05-01T17:45:00.0000000
   venue: National STEM Learning Centre
+- name: Self-Configuring Modular Robotics for Earth and Space
+  description: A one day workshop for researchers, space industry and robotics industry.  This event is supported by the University of York.
+  url: https://www.eventbrite.co.uk/e/self-configuring-modular-robotics-for-earth-and-space-tickets-59883607482?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59692480/290039093531/1/original.20190404-120310?h=200&w=450&auto=compress&rect=1,172,1122,561&s=494d29bc67a664f9282c9eb58f6cacd6
+  starts: 2019-07-15T09:30:00.0000000
+  ends: 2019-07-15T17:00:00.0000000
+  venue: University of York
 - name: 'WE1: Website CMS Basic training (Tue 14th May 14:00-16:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -585,17 +687,6 @@
   starts: 2019-05-13T15:00:00.0000000
   ends: 2019-05-13T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'Sustainability Metrics: Tracking, Measuring and Reporting Responsible Innovation II'
-  description: >-
-    Measure and monitor your supply chain’s performance with appropriate and easy-to-use sustainability metrics. Existing industrial sustainability metrics primarily focus on the chemical process, although the need to consider the performance of a “bigger picture” is prevalent and growing. This workshop is dedicated to demonstrating current trends and practices in applying qualitative and quantitative sustainability evaluation practices, through use of LCA and other industrial best procedures.
-
-    Context There is a current need for innovative business models that are sustainable and resource efficient to meet with fast-approaching and stricter environmental targets. Reducing, neutralising or going negative with carbon emissions in any process is a challenge, regardless of the sector. Creating a circular economy could be the ideal solution to overcome this challenge. Undertaking these responsibilities to the highest accuracy, extensiveness of this reporting and transparency among stakeholders are currently some of the major hurdles. Some enterprises have, however, been successful. With a view to creating a dialogue and awareness of the various methods of tracking and reporting these sustainability characteristics, in portfolio management, systems thinking to end of life management strategies, the Green Chemistry Centre of Excellence is organising a “Tracking, Measuring and Reporting Responsible Innovation II” event.
-  url: https://www.eventbrite.co.uk/e/sustainability-metrics-tracking-measuring-and-reporting-responsible-innovation-ii-tickets-58993573366?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/58666462/147695442327/1/original.20190318-142415?h=200&w=450&auto=compress&rect=2,0,476,238&s=a4fc3a7c4c43e59dc3214471a2d01f09
-  starts: 2019-09-11T09:30:00.0000000
-  ends: 2019-09-11T16:00:00.0000000
-  venue: Green Chemistry Centre of Excellence
 - name: MOS Test (Wed 1st May 14:00-15:00)
   description: >
     These sessions are for students, staff and alumni of York St John University. 
@@ -691,6 +782,28 @@
   starts: 2019-04-25T14:00:00.0000000
   ends: 2019-04-25T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Plastid Preview 2019
+  description: >-
+    Plastid Preview is an annual meeting for Early Career Researchers (ECRs), including Masters by Research, PhD students and post-doctoral researchers, working in any area of chloroplast biology. The meeting provides an excellent opportunity for ECRs to meet and foster networks with their peer ECRs and some senior scientists.
+
+    Topics include photosynthesis, algal biofuels, food security and biotechnology, as well as fundamental research on plastid biology and biochemistry.
+
+    The two-day conference is FREE TO ATTEND and is aimed specifically at providing a welcoming environment for ECRs to present their work. There are typically 40-65 attendees and the quality of the talks is extremely high. Everyone is welcome to present either a talk or a poster, with talks being selected from the Abstracts. Please note, those who submit abstracts will be given priority in attendance should places be limited. Details on submission can be found below. 
+
+    This year’s Plastid Preview is being hosted by the Mackinder Lab, University of York at the beginning of September 2019. The meeting will start Monday, 2nd Sept (followed by Conference Dinner) and finish Tuesday, 3rd Sept in the afternoon. 
+
+    Abstract Submission:
+
+    Please submit your abstracts (250 words max) to charlotte.walker@york.ac.uk and specify whether you would like to do an oral or poster presentation. 
+
+    Accommodation and catering: 
+
+    Accommodation is available on site at the University of York. On confirmation of your place from organisers we shall contact you to enquire whether you require accommodation and any dietary requirements. We are in the process of securing funding so that acommodation and catering are also free to attendees. 
+  url: https://www.eventbrite.co.uk/e/plastid-preview-2019-tickets-59753417079?aff=ebapi
+  is-free: true
+  starts: 2019-09-02T12:00:00.0000000
+  ends: 2019-09-03T17:00:00.0000000
+  venue: Department of Biology
 - name: '"Fantastic Planets and How to Find Them" '
   description: >-
     Imagine living in a world with three Suns, red jungles or endless night. These ideas have moved from fiction to reality as we discover more and more fantastic planets in our galaxy. This talk explains how we find such amazing worlds, how we know what they might be like and what we are still searching for out there.
@@ -806,28 +919,6 @@
   starts: 2019-04-29T11:00:00.0000000
   ends: 2019-04-29T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Plastid Preview 2019
-  description: >-
-    Plastid Preview is an annual meeting for Early Career Researchers (ECRs), including Masters by Research, PhD students and post-doctoral researchers, working in any area of chloroplast biology. The meeting provides an excellent opportunity for ECRs to meet and foster networks with their peer ECRs and some senior scientists.
-
-    Topics include photosynthesis, algal biofuels, food security and biotechnology, as well as fundamental research on plastid biology and biochemistry.
-
-    The two-day conference is FREE TO ATTEND and is aimed specifically at providing a welcoming environment for ECRs to present their work. There are typically 40-65 attendees and the quality of the talks is extremely high. Everyone is welcome to present either a talk or a poster, with talks being selected from the Abstracts. Please note, those who submit abstracts will be given priority in attendance should places be limited. Details on submission can be found below. 
-
-    This year’s Plastid Preview is being hosted by the Mackinder Lab, University of York at the beginning of September 2019. The meeting will start Monday, 2nd Sept (followed by Conference Dinner) and finish Tuesday, 3rd Sept in the afternoon. 
-
-    Abstract Submission:
-
-    Please submit your abstracts (250 words max) to charlotte.walker@york.ac.uk and specify whether you would like to do an oral or poster presentation. 
-
-    Accommodation and catering: 
-
-    Accommodation is available on site at the University of York. On confirmation of your place from organisers we shall contact you to enquire whether you require accommodation and any dietary requirements. We are in the process of securing funding so that acommodation and catering are also free to attendees. 
-  url: https://www.eventbrite.co.uk/e/plastid-preview-2019-tickets-59753417079?aff=ebapi
-  is-free: true
-  starts: 2019-09-02T12:00:00.0000000
-  ends: 2019-09-03T17:00:00.0000000
-  venue: Department of Biology
 - name: Impacts of extreme climatic events on ecosystems
   description: "Extreme events such as droughts, heatwaves, floods and fires can have profound effects on ecosystems and biodiversity. Projections indicate that climate change is likely to increase the incidence and / or magnitude of such extreme events in many places. The summer of 2018 was remarkable for hot, dry weather in many areas of the world and for a large number of wildfires. \nThis two-day conference on the ecological consequences of extreme climatic events will 1) present recent results, 2) provide a forum for discussion and 3) explore options to build resilience of ecosystems. The conference will consist of a mixture of invited and offered papers, with opportunities for discussion. We envisage the audience will largely be composed of researchers, with a smaller number of conservation practitioners / policy makers, with attendees from Europe and elsewhere, as well as the UK. The event will help to synthesise recent findings in an important area of science with application to real world problems, with the potential for attendees to contribute to a publication and/or special issue in this area. \nAcross the two days, we will have four sessions of scientific presentations, with two invited speakers (tbc) per session, and discussion after each. The first evening will be an informal dinner with a poster session. \n1. Quantifying extreme events – frequency & severity \n2. Impacts of extreme events on biodiversity (to include extreme versus long-term changes)\n3. Impacts of extreme events on different ecosystems, local versus global impacts\n4. Policy recommendations & adaptation/management for extreme events \n15-minute talks and posters are welcomed on any of the above topics. This meeting will take a broad approach and monitoring, modelling and experimental studies are all welcomed."
   url: https://www.eventbrite.co.uk/e/impacts-of-extreme-climatic-events-on-ecosystems-tickets-60400242752?aff=ebapi
@@ -850,3 +941,342 @@
   starts: 2019-06-11T16:00:00.0000000
   ends: 2019-06-11T18:00:00.0000000
   venue: Department of Biology
+- name: 'WE1: Website CMS Basic training (Thur 13th June 14:00-16:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-thur-13th-june-1400-1600-tickets-60745686985?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60813952/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=78cc5e904264cca9c6b1cb91f6495732
+  starts: 2019-06-13T14:00:00.0000000
+  ends: 2019-06-13T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'PS1: Photoshop Essentials inc. for website editors (Thur 13th June 11:00-12:00)'
+  description: >-
+    These courses are for students and staff at York St John University
+
+
+    PS1: Photoshop Essentials
+
+    Prior knowledge: None
+
+    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
+
+
+    Understanding the workspace
+
+    Cropping existing images
+
+    Resizing images
+
+    Saving for the Web
+
+    Understanding image formats
+
+    Using filters and corrections
+
+    Using the text tool
+
+    Handling difficult shaped images
+
+    Compositing multiple images
+
+    Saving for different uses
+
+    Adding a background
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-thur-13th-june-1100-1200-tickets-60745782270?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60814097/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=5d2844e8b1c02eb17bd9556b24f34b90
+  starts: 2019-06-13T11:00:00.0000000
+  ends: 2019-06-13T12:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: MOS Test (Wed 15th May 14:00-15:00)
+  description: >
+    These sessions are for students, staff and alumni of York St John University. 
+
+
+    MOS: MOS Test
+
+    Microsoft Office Specialist training and certification MOS tests are only available to staff and students at York St John University. We can also offer tests for free to Alumni, please email for details.
+
+    These sessions are for people who have practised and are ready to take a test.
+
+    Microsoft Office Specialist (MOS) tests are internationally recognised and are often listed in the desirable column of job specifications. They demonstrate a very good understanding of the workings of Office software such as Word or Excel. The GMetrix software allows you to work towards taking Microsoft Office Specialist (MOS) tests at your own pace. This service is free to staff and students and alumni. If you need a GMetrix code to practise or more information on tests for individuals with disabilities please conact us.
+
+
+    FAQ
+
+    Is this session open to anyone?
+
+    This course is only available to alumni, students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/mos-test-wed-15th-may-1400-1500-tickets-60745934726?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60814250/47610739467/1/original.20190329-131929?h=200&w=450&auto=compress&rect=0,12,400,200&s=5298aa94af7a7672e05efbd22c8f1ebd
+  starts: 2019-05-15T14:00:00.0000000
+  ends: 2019-05-15T15:00:00.0000000
+  venue: FT/208
+- name: MOS Test (Wed 29th May 11:00-12:00)
+  description: >
+    These sessions are for students, staff and alumni of York St John University. 
+
+
+    MOS: MOS Test
+
+    Microsoft Office Specialist training and certification MOS tests are only available to staff and students at York St John University. We can also offer tests for free to Alumni, please email for details.
+
+    These sessions are for people who have practised and are ready to take a test.
+
+    Microsoft Office Specialist (MOS) tests are internationally recognised and are often listed in the desirable column of job specifications. They demonstrate a very good understanding of the workings of Office software such as Word or Excel. The GMetrix software allows you to work towards taking Microsoft Office Specialist (MOS) tests at your own pace. This service is free to staff and students and alumni. If you need a GMetrix code to practise or more information on tests for individuals with disabilities please conact us.
+
+
+    FAQ
+
+    Is this session open to anyone?
+
+    This course is only available to alumni, students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/mos-test-wed-29th-may-1100-1200-tickets-60746011957?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60814347/47610739467/1/original.20190329-131929?h=200&w=450&auto=compress&rect=0,12,400,200&s=31aa07d911f86d393abaf68a9befea9b
+  starts: 2019-05-29T11:00:00.0000000
+  ends: 2019-05-29T12:00:00.0000000
+  venue: FT/208
+- name: 'AD1: Making accessible documents (Tue 21st May 2019 11:00-12:00)'
+  description: >+
+    These courses are for students and staff at York St John University. 
+
+
+    AD1: Making accessible documents
+
+    Prior knowledge: none
+
+    Making documents accessible is important for everyone, not just those with visual impairments, hearing impairments and mobility limitations. As well as being best practise, new regulations are coming into force for all websites. Learn how to make PowerPoint presentations, Word documents, Excel Spreadsheets and PDFs accessible in a few easy steps. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Adding captions to images
+
+    Controlling the order in which screen readers navigate documents
+
+    Creating accessible tables
+
+    Using colour in documents
+
+    Adding meta-data to documents
+
+    Creating accessible hyperlinks
+
+    Using the built-in accessibility checkers
+
+    Discussion of different formats for accessible documents
+
+    Brief discussion of other YSJ systems
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+
+  url: https://www.eventbrite.co.uk/e/ad1-making-accessible-documents-tue-21st-may-2019-1100-1200-tickets-60746075146?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60814431/47610739467/1/original.20190225-131255?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=3ae698b65e528440f1e2c1ccd6743a58
+  starts: 2019-05-21T11:00:00.0000000
+  ends: 2019-05-21T12:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'Copy of AD1: Making accessible documents (Mon 10th June 2019 15:00-16:00)'
+  description: >+
+    These courses are for students and staff at York St John University. 
+
+
+    AD1: Making accessible documents
+
+    Prior knowledge: none
+
+    Making documents accessible is important for everyone, not just those with visual impairments, hearing impairments and mobility limitations. As well as being best practise, new regulations are coming into force for all websites. Learn how to make PowerPoint presentations, Word documents, Excel Spreadsheets and PDFs accessible in a few easy steps. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Adding captions to images
+
+    Controlling the order in which screen readers navigate documents
+
+    Creating accessible tables
+
+    Using colour in documents
+
+    Adding meta-data to documents
+
+    Creating accessible hyperlinks
+
+    Using the built-in accessibility checkers
+
+    Discussion of different formats for accessible documents
+
+    Brief discussion of other YSJ systems
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+
+  url: https://www.eventbrite.co.uk/e/copy-of-ad1-making-accessible-documents-mon-10th-june-2019-1500-1600-tickets-60746257692?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60814564/47610739467/1/original.20190225-131255?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=855f2857a7b61e2969195881377325da
+  starts: 2019-06-10T15:00:00.0000000
+  ends: 2019-06-10T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: OF2:Office 365 including collaborative working with Teams (Mon 20th May 2019 14:00-15:00)
+  description: >
+    These courses are for students and staff at York St John University. 
+
+
+    Office 365 including collaborative working with Teams
+
+    Prior knowledge: none
+
+    Office 365 offers many ways to work collaboratively.  Files stored in OneDrive can be accessed from anywhere online and can be shared and simultaneously worked on. Microsoft Teams provides an easy way to work collaboratively with other staff and students. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Getting into Office 365
+
+    Using Office online apps
+
+    Working with OneDrive to store documents
+
+    Sharing personal documents and collaborative editing
+
+    Creating and managing Microsoft Teams
+
+    Managing Team files in OneDrive
+
+    Key apps for Team based collaborative working including Planner and OneNote
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/of2office-365-including-collaborative-working-with-teams-mon-20th-may-2019-1400-1500-tickets-60746297812?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60814661/47610739467/1/original.20190225-162818?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=978e864b73c700079d151a07dd12dc9b
+  starts: 2019-05-20T14:00:00.0000000
+  ends: 2019-05-20T15:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
