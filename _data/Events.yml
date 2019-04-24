@@ -174,9 +174,9 @@
   starts: 2019-05-23T18:30:00.0000000
   ends: 2019-05-23T19:30:00.0000000
   venue: Bowland Auditorium
-- name: Automating your test infrastructure with Kubernetes
+- name: Testers Discuss
   description: Welcome to our April Event!
-  url: https://www.eventbrite.co.uk/e/automating-your-test-infrastructure-with-kubernetes-tickets-59875723902?aff=ebapi
+  url: https://www.eventbrite.co.uk/e/testers-discuss-tickets-59875723902?aff=ebapi
   is-free: true
   logo: https://cdn.evbuc.com/images/59681791/287207511238/1/original.20190404-064049?h=200&w=450&auto=compress&rect=0,2,1170,585&s=5f4514f4fad96b192295232d25a97782
   starts: 2019-04-24T18:00:00.0000000
@@ -275,6 +275,97 @@
   starts: 2019-05-08T16:00:00.0000000
   ends: 2019-05-08T17:45:00.0000000
   venue: National STEM Learning Centre
+- name: Women in Tech York talk Mental Health
+  description: >-
+    Welcome to Women in Tech York's Mental Health Awareness event!
+
+    Who are we?
+
+    We are a community of like-minded people studying, working or interested in technology. Our goal is to run events in which we can share our knowledge and interests as well as encourage and empower one another. This event is not exclusive to women; we welcome anyone passionate about tech and increasing diversity in the field.
+
+    We also welcome all students who are interested in learning more about Tech, and the careers it entails.
+
+
+
+    This month...
+
+    To coincide with Mental Health awareness week on Monday 13th May 2019, we're focusing on Mental Health this month.
+
+    We'll have some general mental health leaflets and documents available on the evening courtesy of York Mind, should anyone want more information. There will also be a charity bucket for donations to York Mind, to help support the amazing work they do in the York community.As always, there will be a free buffet (vegetarian and vegan options avaliable) thanks to our sponsors Isotoma, Mitrefinch, Netsells and Piksel.
+
+
+
+    Event Timings:
+
+    18:00: Registration Opens
+
+    18:30: Introduction
+
+    18:40: Talk title TBC - Alyson Scott, CEO of York Mind
+
+    19:10: Buffet and networking
+
+    19:50: Talk title TBC - Josie Tulip, PhD student, Speech and Language Sciences, Newcastle University
+
+    20:30: Closing remarks and networking
+
+    21:00: Event close
+
+
+
+    Giveaway!
+
+    TBC
+
+    To win, tweet us on the night and make sure to include #WiTYork!
+
+
+
+
+
+    Nervous about attending?
+
+    A WiT York ambassador will be outside Pitcher & Piano to greet you on the night, direct you to our upstairs bar and answer any questions you may have.
+
+    You can also join our Slack and LinkedIn community beforehand or contact us directly via Twitter or email.
+
+
+
+
+
+    Slack: https://wit-york.slack.com
+
+
+
+
+
+    LinkedIn: Women in Tech York
+
+
+
+
+
+    Twitter: @WiT_York
+
+
+
+
+
+    Email: WomenInTechYork@gmail.com
+
+
+
+
+
+    Code of Conduct
+
+    The short version of our code of conduct is be respectful. Everyone here is part of our community. We do not tolerate any form of harassment or abuse. If you'd like to see the full code of conduct, please email WomenInTechYork@gmail.com or view it on our Slack channel.
+  url: https://www.eventbrite.co.uk/e/women-in-tech-york-talk-mental-health-tickets-60373936068?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60353441/235318357053/1/original.20190414-185429?h=200&w=450&auto=compress&rect=0,125,1748,874&s=3d43f415e2a6f4fa22ee47fc51b9d09a
+  starts: 2019-05-09T18:00:00.0000000
+  ends: 2019-05-09T21:00:00.0000000
+  venue: Pitcher & Piano
 - name: MOS Test (Wed 1st May 10:00-11:00)
   description: >
     These sessions are for students, staff and alumni of York St John University. 
@@ -453,14 +544,17 @@
   starts: 2019-05-02T09:30:00.0000000
   ends: 2019-05-02T15:30:00.0000000
   venue: (Venue TBC)
-- name: Self-Configuring Modular Robotics for Earth and Space
-  description: A one day workshop for researchers, space industry and robotics industry.  This event is supported by the University of York.
-  url: https://www.eventbrite.co.uk/e/self-configuring-modular-robotics-for-earth-and-space-tickets-59883607482?aff=ebapi
+- name: 'Sustainability Metrics: Tracking, Measuring and Reporting Responsible Innovation II'
+  description: >-
+    Measure and monitor your supply chain’s performance with appropriate and easy-to-use sustainability metrics. Existing industrial sustainability metrics primarily focus on the chemical process, although the need to consider the performance of a “bigger picture” is prevalent and growing. This workshop is dedicated to demonstrating current trends and practices in applying qualitative and quantitative sustainability evaluation practices, through use of LCA and other industrial best procedures.
+
+    Context There is a current need for innovative business models that are sustainable and resource efficient to meet with fast-approaching and stricter environmental targets. Reducing, neutralising or going negative with carbon emissions in any process is a challenge, regardless of the sector. Creating a circular economy could be the ideal solution to overcome this challenge. Undertaking these responsibilities to the highest accuracy, extensiveness of this reporting and transparency among stakeholders are currently some of the major hurdles. Some enterprises have, however, been successful. With a view to creating a dialogue and awareness of the various methods of tracking and reporting these sustainability characteristics, in portfolio management, systems thinking to end of life management strategies, the Green Chemistry Centre of Excellence is organising a “Tracking, Measuring and Reporting Responsible Innovation II” event.
+  url: https://www.eventbrite.co.uk/e/sustainability-metrics-tracking-measuring-and-reporting-responsible-innovation-ii-tickets-58993573366?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/59692480/290039093531/1/original.20190404-120310?h=200&w=450&auto=compress&rect=1,172,1122,561&s=494d29bc67a664f9282c9eb58f6cacd6
-  starts: 2019-07-15T09:30:00.0000000
-  ends: 2019-07-15T17:00:00.0000000
-  venue: University of York
+  logo: https://cdn.evbuc.com/images/58666462/147695442327/1/original.20190318-142415?h=200&w=450&auto=compress&rect=2,0,476,238&s=a4fc3a7c4c43e59dc3214471a2d01f09
+  starts: 2019-09-11T09:30:00.0000000
+  ends: 2019-09-11T16:00:00.0000000
+  venue: Green Chemistry Centre of Excellence
 - name: Exploring the Secondary Computing and Science Curriculum with LEGO® MINDSTORMS® Education EV3
   description: >+
     This Secondary STEM Workshop utilises the inspiring LEGO® MINDSTORMS® Education EV3 resource to engage and inspire pupils in STEM learning.
@@ -489,6 +583,14 @@
   starts: 2019-05-01T16:00:00.0000000
   ends: 2019-05-01T17:45:00.0000000
   venue: National STEM Learning Centre
+- name: Self-Configuring Modular Robotics for Earth and Space
+  description: A one day workshop for researchers, space industry and robotics industry.  This event is supported by the University of York.
+  url: https://www.eventbrite.co.uk/e/self-configuring-modular-robotics-for-earth-and-space-tickets-59883607482?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/59692480/290039093531/1/original.20190404-120310?h=200&w=450&auto=compress&rect=1,172,1122,561&s=494d29bc67a664f9282c9eb58f6cacd6
+  starts: 2019-07-15T09:30:00.0000000
+  ends: 2019-07-15T17:00:00.0000000
+  venue: University of York
 - name: 'WE1: Website CMS Basic training (Tue 14th May 14:00-16:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -585,17 +687,6 @@
   starts: 2019-05-13T15:00:00.0000000
   ends: 2019-05-13T16:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: 'Sustainability Metrics: Tracking, Measuring and Reporting Responsible Innovation II'
-  description: >-
-    Measure and monitor your supply chain’s performance with appropriate and easy-to-use sustainability metrics. Existing industrial sustainability metrics primarily focus on the chemical process, although the need to consider the performance of a “bigger picture” is prevalent and growing. This workshop is dedicated to demonstrating current trends and practices in applying qualitative and quantitative sustainability evaluation practices, through use of LCA and other industrial best procedures.
-
-    Context There is a current need for innovative business models that are sustainable and resource efficient to meet with fast-approaching and stricter environmental targets. Reducing, neutralising or going negative with carbon emissions in any process is a challenge, regardless of the sector. Creating a circular economy could be the ideal solution to overcome this challenge. Undertaking these responsibilities to the highest accuracy, extensiveness of this reporting and transparency among stakeholders are currently some of the major hurdles. Some enterprises have, however, been successful. With a view to creating a dialogue and awareness of the various methods of tracking and reporting these sustainability characteristics, in portfolio management, systems thinking to end of life management strategies, the Green Chemistry Centre of Excellence is organising a “Tracking, Measuring and Reporting Responsible Innovation II” event.
-  url: https://www.eventbrite.co.uk/e/sustainability-metrics-tracking-measuring-and-reporting-responsible-innovation-ii-tickets-58993573366?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/58666462/147695442327/1/original.20190318-142415?h=200&w=450&auto=compress&rect=2,0,476,238&s=a4fc3a7c4c43e59dc3214471a2d01f09
-  starts: 2019-09-11T09:30:00.0000000
-  ends: 2019-09-11T16:00:00.0000000
-  venue: Green Chemistry Centre of Excellence
 - name: MOS Test (Wed 1st May 14:00-15:00)
   description: >
     These sessions are for students, staff and alumni of York St John University. 
@@ -691,6 +782,28 @@
   starts: 2019-04-25T14:00:00.0000000
   ends: 2019-04-25T15:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
+- name: Plastid Preview 2019
+  description: >-
+    Plastid Preview is an annual meeting for Early Career Researchers (ECRs), including Masters by Research, PhD students and post-doctoral researchers, working in any area of chloroplast biology. The meeting provides an excellent opportunity for ECRs to meet and foster networks with their peer ECRs and some senior scientists.
+
+    Topics include photosynthesis, algal biofuels, food security and biotechnology, as well as fundamental research on plastid biology and biochemistry.
+
+    The two-day conference is FREE TO ATTEND and is aimed specifically at providing a welcoming environment for ECRs to present their work. There are typically 40-65 attendees and the quality of the talks is extremely high. Everyone is welcome to present either a talk or a poster, with talks being selected from the Abstracts. Please note, those who submit abstracts will be given priority in attendance should places be limited. Details on submission can be found below. 
+
+    This year’s Plastid Preview is being hosted by the Mackinder Lab, University of York at the beginning of September 2019. The meeting will start Monday, 2nd Sept (followed by Conference Dinner) and finish Tuesday, 3rd Sept in the afternoon. 
+
+    Abstract Submission:
+
+    Please submit your abstracts (250 words max) to charlotte.walker@york.ac.uk and specify whether you would like to do an oral or poster presentation. 
+
+    Accommodation and catering: 
+
+    Accommodation is available on site at the University of York. On confirmation of your place from organisers we shall contact you to enquire whether you require accommodation and any dietary requirements. We are in the process of securing funding so that acommodation and catering are also free to attendees. 
+  url: https://www.eventbrite.co.uk/e/plastid-preview-2019-tickets-59753417079?aff=ebapi
+  is-free: true
+  starts: 2019-09-02T12:00:00.0000000
+  ends: 2019-09-03T17:00:00.0000000
+  venue: Department of Biology
 - name: '"Fantastic Planets and How to Find Them" '
   description: >-
     Imagine living in a world with three Suns, red jungles or endless night. These ideas have moved from fiction to reality as we discover more and more fantastic planets in our galaxy. This talk explains how we find such amazing worlds, how we know what they might be like and what we are still searching for out there.
@@ -806,28 +919,6 @@
   starts: 2019-04-29T11:00:00.0000000
   ends: 2019-04-29T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Plastid Preview 2019
-  description: >-
-    Plastid Preview is an annual meeting for Early Career Researchers (ECRs), including Masters by Research, PhD students and post-doctoral researchers, working in any area of chloroplast biology. The meeting provides an excellent opportunity for ECRs to meet and foster networks with their peer ECRs and some senior scientists.
-
-    Topics include photosynthesis, algal biofuels, food security and biotechnology, as well as fundamental research on plastid biology and biochemistry.
-
-    The two-day conference is FREE TO ATTEND and is aimed specifically at providing a welcoming environment for ECRs to present their work. There are typically 40-65 attendees and the quality of the talks is extremely high. Everyone is welcome to present either a talk or a poster, with talks being selected from the Abstracts. Please note, those who submit abstracts will be given priority in attendance should places be limited. Details on submission can be found below. 
-
-    This year’s Plastid Preview is being hosted by the Mackinder Lab, University of York at the beginning of September 2019. The meeting will start Monday, 2nd Sept (followed by Conference Dinner) and finish Tuesday, 3rd Sept in the afternoon. 
-
-    Abstract Submission:
-
-    Please submit your abstracts (250 words max) to charlotte.walker@york.ac.uk and specify whether you would like to do an oral or poster presentation. 
-
-    Accommodation and catering: 
-
-    Accommodation is available on site at the University of York. On confirmation of your place from organisers we shall contact you to enquire whether you require accommodation and any dietary requirements. We are in the process of securing funding so that acommodation and catering are also free to attendees. 
-  url: https://www.eventbrite.co.uk/e/plastid-preview-2019-tickets-59753417079?aff=ebapi
-  is-free: true
-  starts: 2019-09-02T12:00:00.0000000
-  ends: 2019-09-03T17:00:00.0000000
-  venue: Department of Biology
 - name: Impacts of extreme climatic events on ecosystems
   description: "Extreme events such as droughts, heatwaves, floods and fires can have profound effects on ecosystems and biodiversity. Projections indicate that climate change is likely to increase the incidence and / or magnitude of such extreme events in many places. The summer of 2018 was remarkable for hot, dry weather in many areas of the world and for a large number of wildfires. \nThis two-day conference on the ecological consequences of extreme climatic events will 1) present recent results, 2) provide a forum for discussion and 3) explore options to build resilience of ecosystems. The conference will consist of a mixture of invited and offered papers, with opportunities for discussion. We envisage the audience will largely be composed of researchers, with a smaller number of conservation practitioners / policy makers, with attendees from Europe and elsewhere, as well as the UK. The event will help to synthesise recent findings in an important area of science with application to real world problems, with the potential for attendees to contribute to a publication and/or special issue in this area. \nAcross the two days, we will have four sessions of scientific presentations, with two invited speakers (tbc) per session, and discussion after each. The first evening will be an informal dinner with a poster session. \n1. Quantifying extreme events – frequency & severity \n2. Impacts of extreme events on biodiversity (to include extreme versus long-term changes)\n3. Impacts of extreme events on different ecosystems, local versus global impacts\n4. Policy recommendations & adaptation/management for extreme events \n15-minute talks and posters are welcomed on any of the above topics. This meeting will take a broad approach and monitoring, modelling and experimental studies are all welcomed."
   url: https://www.eventbrite.co.uk/e/impacts-of-extreme-climatic-events-on-ecosystems-tickets-60400242752?aff=ebapi
@@ -850,6 +941,345 @@
   starts: 2019-06-11T16:00:00.0000000
   ends: 2019-06-11T18:00:00.0000000
   venue: Department of Biology
+- name: 'WE1: Website CMS Basic training (Thur 13th June 14:00-16:00)'
+  description: >-
+    These courses are for staff who have been approved by the website team only
+
+
+    WE1: Website CMS basics
+
+    Prior knowledge: None
+
+    Introduction to the York St John University website content management system
+
+    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-thur-13th-june-1400-1600-tickets-60745686985?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60813952/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=78cc5e904264cca9c6b1cb91f6495732
+  starts: 2019-06-13T14:00:00.0000000
+  ends: 2019-06-13T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'PS1: Photoshop Essentials inc. for website editors (Thur 13th June 11:00-12:00)'
+  description: >-
+    These courses are for students and staff at York St John University
+
+
+    PS1: Photoshop Essentials
+
+    Prior knowledge: None
+
+    Adobe Photoshop is excellent at manipulating bitmap images. It can be used to scale and prepare existing images for web and print use as well as having the tools to create from scratch. This introductory course will suit people getting started with Photoshop and preparing images for uses such as the York St John website.
+
+
+    Understanding the workspace
+
+    Cropping existing images
+
+    Resizing images
+
+    Saving for the Web
+
+    Understanding image formats
+
+    Using filters and corrections
+
+    Using the text tool
+
+    Handling difficult shaped images
+
+    Compositing multiple images
+
+    Saving for different uses
+
+    Adding a background
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/ps1-photoshop-essentials-inc-for-website-editors-thur-13th-june-1100-1200-tickets-60745782270?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60814097/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=5d2844e8b1c02eb17bd9556b24f34b90
+  starts: 2019-06-13T11:00:00.0000000
+  ends: 2019-06-13T12:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: MOS Test (Wed 15th May 14:00-15:00)
+  description: >
+    These sessions are for students, staff and alumni of York St John University. 
+
+
+    MOS: MOS Test
+
+    Microsoft Office Specialist training and certification MOS tests are only available to staff and students at York St John University. We can also offer tests for free to Alumni, please email for details.
+
+    These sessions are for people who have practised and are ready to take a test.
+
+    Microsoft Office Specialist (MOS) tests are internationally recognised and are often listed in the desirable column of job specifications. They demonstrate a very good understanding of the workings of Office software such as Word or Excel. The GMetrix software allows you to work towards taking Microsoft Office Specialist (MOS) tests at your own pace. This service is free to staff and students and alumni. If you need a GMetrix code to practise or more information on tests for individuals with disabilities please conact us.
+
+
+    FAQ
+
+    Is this session open to anyone?
+
+    This course is only available to alumni, students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/mos-test-wed-15th-may-1400-1500-tickets-60745934726?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60814250/47610739467/1/original.20190329-131929?h=200&w=450&auto=compress&rect=0,12,400,200&s=5298aa94af7a7672e05efbd22c8f1ebd
+  starts: 2019-05-15T14:00:00.0000000
+  ends: 2019-05-15T15:00:00.0000000
+  venue: FT/208
+- name: MOS Test (Wed 29th May 11:00-12:00)
+  description: >
+    These sessions are for students, staff and alumni of York St John University. 
+
+
+    MOS: MOS Test
+
+    Microsoft Office Specialist training and certification MOS tests are only available to staff and students at York St John University. We can also offer tests for free to Alumni, please email for details.
+
+    These sessions are for people who have practised and are ready to take a test.
+
+    Microsoft Office Specialist (MOS) tests are internationally recognised and are often listed in the desirable column of job specifications. They demonstrate a very good understanding of the workings of Office software such as Word or Excel. The GMetrix software allows you to work towards taking Microsoft Office Specialist (MOS) tests at your own pace. This service is free to staff and students and alumni. If you need a GMetrix code to practise or more information on tests for individuals with disabilities please conact us.
+
+
+    FAQ
+
+    Is this session open to anyone?
+
+    This course is only available to alumni, students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/mos-test-wed-29th-may-1100-1200-tickets-60746011957?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60814347/47610739467/1/original.20190329-131929?h=200&w=450&auto=compress&rect=0,12,400,200&s=31aa07d911f86d393abaf68a9befea9b
+  starts: 2019-05-29T11:00:00.0000000
+  ends: 2019-05-29T12:00:00.0000000
+  venue: FT/208
+- name: 'AD1: Making accessible documents (Tue 21st May 2019 11:00-12:00)'
+  description: >+
+    These courses are for students and staff at York St John University. 
+
+
+    AD1: Making accessible documents
+
+    Prior knowledge: none
+
+    Making documents accessible is important for everyone, not just those with visual impairments, hearing impairments and mobility limitations. As well as being best practise, new regulations are coming into force for all websites. Learn how to make PowerPoint presentations, Word documents, Excel Spreadsheets and PDFs accessible in a few easy steps. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Adding captions to images
+
+    Controlling the order in which screen readers navigate documents
+
+    Creating accessible tables
+
+    Using colour in documents
+
+    Adding meta-data to documents
+
+    Creating accessible hyperlinks
+
+    Using the built-in accessibility checkers
+
+    Discussion of different formats for accessible documents
+
+    Brief discussion of other YSJ systems
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+
+  url: https://www.eventbrite.co.uk/e/ad1-making-accessible-documents-tue-21st-may-2019-1100-1200-tickets-60746075146?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60814431/47610739467/1/original.20190225-131255?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=3ae698b65e528440f1e2c1ccd6743a58
+  starts: 2019-05-21T11:00:00.0000000
+  ends: 2019-05-21T12:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: 'Copy of AD1: Making accessible documents (Mon 10th June 2019 15:00-16:00)'
+  description: >+
+    These courses are for students and staff at York St John University. 
+
+
+    AD1: Making accessible documents
+
+    Prior knowledge: none
+
+    Making documents accessible is important for everyone, not just those with visual impairments, hearing impairments and mobility limitations. As well as being best practise, new regulations are coming into force for all websites. Learn how to make PowerPoint presentations, Word documents, Excel Spreadsheets and PDFs accessible in a few easy steps. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Adding captions to images
+
+    Controlling the order in which screen readers navigate documents
+
+    Creating accessible tables
+
+    Using colour in documents
+
+    Adding meta-data to documents
+
+    Creating accessible hyperlinks
+
+    Using the built-in accessibility checkers
+
+    Discussion of different formats for accessible documents
+
+    Brief discussion of other YSJ systems
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+
+  url: https://www.eventbrite.co.uk/e/copy-of-ad1-making-accessible-documents-mon-10th-june-2019-1500-1600-tickets-60746257692?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60814564/47610739467/1/original.20190225-131255?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=855f2857a7b61e2969195881377325da
+  starts: 2019-06-10T15:00:00.0000000
+  ends: 2019-06-10T16:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
+- name: OF2:Office 365 including collaborative working with Teams (Mon 20th May 2019 14:00-15:00)
+  description: >
+    These courses are for students and staff at York St John University. 
+
+
+    Office 365 including collaborative working with Teams
+
+    Prior knowledge: none
+
+    Office 365 offers many ways to work collaboratively.  Files stored in OneDrive can be accessed from anywhere online and can be shared and simultaneously worked on. Microsoft Teams provides an easy way to work collaboratively with other staff and students. This course can be customised for different teams or delivered to student groups.
+
+    This course includes:
+
+
+    Getting into Office 365
+
+    Using Office online apps
+
+    Working with OneDrive to store documents
+
+    Sharing personal documents and collaborative editing
+
+    Creating and managing Microsoft Teams
+
+    Managing Team files in OneDrive
+
+    Key apps for Team based collaborative working including Planner and OneNote
+
+
+
+    FAQ
+
+    Is this course open to anyone?
+
+    This course is only available to students and staff from York St John University.
+
+     
+
+    How can I contact the organiser with any questions?
+
+    Email digitaltraining@yorksj.ac.uk 
+
+     
+
+    Do I have to bring my printed ticket to the event?
+
+    No, we have a list of bookings
+  url: https://www.eventbrite.co.uk/e/of2office-365-including-collaborative-working-with-teams-mon-20th-may-2019-1400-1500-tickets-60746297812?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60814661/47610739467/1/original.20190225-162818?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=978e864b73c700079d151a07dd12dc9b
+  starts: 2019-05-20T14:00:00.0000000
+  ends: 2019-05-20T15:00:00.0000000
+  venue: FT/208, library 2nd Floor,other end from the lift
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbgc/
@@ -875,6 +1305,14 @@
   starts: 2019-04-24T12:00:00.0000000
   ends: 2019-04-24T13:00:00.0000000
   venue: Lamberts yard,
+- name: Leeds Digital Festival - Platform Engineering and how to be Agile with Big Data
+  description: '<p>Leeds Digital Festival - Platform Engineering and how to be Agile with Big Data</p> <p>Equal Experts is running an all day Rubber Duck clinic as part of the Leeds Digital Festival.</p> <p>What exactly is a Rubber Duck clinic? Explaining your problem to someone else, in this case Machine Learning, DevOps, Delivery, Product and Transformation specialists, can help you to debug a problem.</p> <p>What sort of problems can I talk about? If you can verbalise it, then you can talk about it! Our specialists are happy to talk over issues from any part of agile software delivery/development (e.g. product strategy, architecture, development practices, delivery process, organisational politics) - to try and help you find solutions… or at least hypotheses to test!</p> <p>Just come along between 10am and 5pm or email [masked] to reserve a specific time.</p> <p>We will also be holding the following talk at 5pm.</p> <p>Platform Engineering and how to be agile with Big Data<br/>How a platform team can tackle introducing agile principles to enterprise datawarehousing tools. The talk covers the basics of cloud based big data tools, hadoop distributions and how you can use DevOps tools and processes to deploy these data platforms.<br/>Ali Farooqui, Equal Experts</p> <p>Drinks and light refreshments will be provided</p> '
+  url: https://www.meetup.com/ExpertTalks-Leeds/events/260475819/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2019-04-24T16:00:00.0000000
+  ends: 2019-04-24T18:00:00.0000000
+  venue: Lamberts yard,
 - name: April - PWAs, JAM and Headless CMS
   description: "<p>PLEASE NOTE: RSVPs will be opened on the 17th!</p> <p>This month we have Jamie Bradley and Sam Beckham with us for an acronym packed event! We'll also be giving away 2 codes for a year subscription for a Jetbrains toolbox product of your choice and a ticket for the Amsterdam JSNation conference!</p> <p>Agenda:<br/>6:30 - 6:45: People start arriving<br/>6:45 - 6:50: Introductions<br/>6:50 - 6:55: Job Pitches - Give a shout out for any jobs you have<br/>6:55 - 7:25: Jamie Bradley (@jamiebradley234) - Finding My Sanity<br/>7:25 - 7:35: Break with food and chat<br/>7:35 - 8:20: Sam Beckham (@samdbeckham) - Making GitLab a PWA<br/>8:20 - 8:30: Prize draw and closing remarks<br/>--------------<br/>Talks:</p> <p>Jamie Bradley (@jamiebradley234) - Finding My Sanity<br/>Following my previous talk \"What the JAMstack\" my talk will revise the basics of JAMstack i.e. what it is, why it’s becoming so popular and also some of the potential drawbacks with using JAMstack. I will then follow up with a demonstration of a project using Gatsby along with a Headless CMS solution called Sanity. I will showcase how this fits into the JAMstack and why it is proving to be a success.</p> <p>Sam Beckham (@samdbeckham) - Making GitLab a PWA<br/>This is not your typical PWA talk. We're not going to make a dummy application that's perfectly tailored for use with a PWA, then show you just how easy it is to turn it into one. We're not going to talk about how much faster, or how much more useful our website is now that it's a PWA. We're not even going to make anything particularly useful.</p> <p>I'm going to show you how to use the concept of \"the boring solution\" to make small changes to a big application. Small changes that, over time, turn in to large ones. Specifically, my process of turning GitLab into a \"PWA\" in less than 100 lines of code.</p> <p>This is a real story of GitLab's journey to a fully fledged PWA. One small step at a time.</p> <p>--------------<br/>Please note the group is intended for people looking to expand their knowledge. While recruiters are welcome to come and learn, we operate a strict no active recruitment policy, outside of the job pitches at the start of the event.<br/>Code of conduct - <a href=\"https://leedsjs.github.io/code-of-conduct/\" class=\"linkified\">https://leedsjs.github.io/code-of-conduct/</a></p> "
   url: https://www.meetup.com/LeedsJS/events/260242386/
@@ -899,7 +1337,7 @@
   ends: 2019-04-25T17:00:00.0000000
   venue: St George's Conference Centre
 - name: The JVM Thing, Leeds Digital Festival - Java Vs Kotlin
-  description: '<p>The JVM Thing, Leeds Digital Festival</p> <p>Thursday 25th April 2019</p> <p>Java Vs Kotlin, speakers from Sky Betting &amp; Gaming and BJSS</p> <p>Location – Sky Betting &amp; Gaming, 6 Wellington Place, Leeds, LS1 4AP</p> <p>Free food &amp; drinks!</p> <p>Arrive – 5.30pm</p> <p>Start – 6pm</p> <p>Finish – 8pm</p> <p>Drinks afterwards</p> <p>Follow us on Twitter @The_JVM_Thing</p> <p>The JVM Thing is a tech networking group for the JVM language community, bringing together Software enthusiasts to show, tell, share knowledge and discuss key topics related to the JVM ecosystem.</p> '
+  description: '<p>The JVM Thing, Leeds Digital Festival</p> <p>Thursday 25th April 2019</p> <p>Java Vs Kotlin, speakers from Hermes, Sky Betting &amp; Gaming and BJSS</p> <p>Location – Sky Betting &amp; Gaming, 6 Wellington Place, Leeds, LS1 4AP</p> <p>Free food &amp; drinks!</p> <p>Arrive – 5.30pm</p> <p>Start – 6pm</p> <p>Finish – 8pm</p> <p>Drinks afterwards</p> <p>Follow us on Twitter @The_JVM_Thing</p> <p>The JVM Thing is a tech networking group for the JVM language community, bringing together Software enthusiasts to show, tell, share knowledge and discuss key topics related to the JVM ecosystem.</p> '
   url: https://www.meetup.com/Leeds-JVMThing/events/259863494/
   is-free: true
   starts: 2019-04-25T16:30:00.0000000
@@ -921,13 +1359,14 @@
   starts: 2019-04-25T18:00:00.0000000
   ends: 2019-04-25T20:30:00.0000000
   venue: 3rd Floor, Apsley House
-- name: Leeds Ruby Thing meetup
-  description: "<p>An small informal event for anyone interested in the Ruby programming language. All skill levels welcome, come along with your newbie questions or tell us about your advanced Rails core contributions.</p> <p>We were originally brought together by our interest in the Ruby programming language but many other languages get discussed (recently Go and Elixir are quite common), along with lots of other mostly, but not exclusively tech stuff.</p> <p>A bit of business networking goes on (many of us are contractors and sometimes work together) but that's not too common.</p> "
-  url: https://www.meetup.com/LeedsRubyThing/events/tvfcvqyzgbhc/
+- name: Ministry of Testing Leeds - April 2019
+  description: "<p>After taking a break for March, Ministry of Test Leeds is back in April on the 25th! This month we're looking at Session Based testing which is a technique that's been around for a while but vital as a tool in a tester's toolkit. We'll also be looking at web accessibility in our lightning talk.</p> <p>This month is part of the excellent Leeds Digital Festival celebrating all things digital happening in Leeds!</p> <p>6.30pm - 7pm: Networking and food</p> <p>7pm - 7.45pm: TALK: Exploratory Testing Using the Session Based Testing Technique - Danny Horan (details below)</p> <p>7.45pm - 8pm: Break</p> <p>8pm - 8.25pm: Lightning talk - Web Accessibility: Risks and Opportunities - James Sheasby-Thomas (details below)</p> <p>Here are the speaker and talk details:</p> <p>DANNY HORAN:<br/>Danny is the Product Owner for the Testing Service at FDM Group. He has 10 years’ experience in the testing industry working across a variety of roles including Test Automation Engineer, Test Manager, and Test Transformation Lead. He enjoys films, comics and spending time with his young family.</p> <p>Exploratory Testing Using the Session-Based Testing Technique<br/>Exploratory testing is an approach to testing that teams will often take and often implement in an ad-hoc and ineffective way. The process will not be recorded or tracked appropriately which can make measuring the value added difficult.</p> <p>This talk will help provide an insight into the session based testing technique which can provide structure to exploratory testing. This framework should help overcome any challenges with the documentation and reporting of exploratory testing that you may face.</p> <p>JAMES SHEASBY THOMAS:<br/>James Sheasby Thomas (@rightsaidjames) is an agile testing and accessibility advocate at Inviqa, a team of 200+ strategists, designers, and technologists in the UK and Europe. James specialises in cross-browser/device testing and exploratory integration testing​ and has a burning passion for usability, accessibility, tool-assisted testing and agile methodology (particularly Lean Kanban). As a tester, he works closely with developers, PMs, AMs, and clients to help facilitate a move towards Continuous Delivery and a truly collaborative QA process.</p> <p>Web Accessibility: Risks and Opportunities<br/>Accessibility is a fundamental building block of the web, enshrined in law and the way that we work. In a mobile-first digital-by-default world, how can we harness accessibility guidelines to build products and services that work for everyone?</p> <p>In this talk, James will give an overview of accessibility guidelines and laws that have developed over the past 20 years, analyse the web accessibility status quo, and give his predictions for the future of web accessibility</p> <p>Thank you to our hosts Infinity Works and our sponsors Fruition IT, FDM Group and Computershare.</p> "
+  url: https://www.meetup.com/Ministry-of-Testing-Leeds/events/260698319/
   is-free: true
-  starts: 2019-04-25T18:30:00.0000000
-  ends: 2019-04-25T22:30:00.0000000
-  venue: Veritas Ale & Wine Bar
+  logo: https://secure.meetupstatic.com/photos/event/7/b/0/f/thumb_470671503.jpeg
+  starts: 2019-04-25T18:00:00.0000000
+  ends: 2019-04-25T20:00:00.0000000
+  venue: Infinity Works Consulting
 - name: Data n' Gravy (Leeds Digital Festival)
   description: "<p>A mini conference on all things relating to the Microsoft Data Platform plus we'll be serving up food with gravy (Yorkshire Puddings &amp; Chips etc.).</p> <p>For the full agenda, visit <a href=\"https://dataleeds.com/datangravy/schedule-2019/\" class=\"linkified\">https://dataleeds.com/datangravy/schedule-2019/</a></p> <p>Sessions include:</p> <p>Driven by the 9s - I need a highly available Microsoft Data Platform – what features should I use?<br/>Gethyn Ellis, SQL Server Consultant and Trainer</p> <p>How to create Custom Visuals for Power BI<br/>James Dales, Director at Altius</p> <p>How to screw up your ability to deliver database updates in 16 simple steps<br/>Alex Yates</p> <p>Data &amp; AI – What’s Possible?<br/>Andy Readman, Cloud Solution Architect at Wirehive</p> <p>Continuous Integration With SQL Server Containers and Open Source<br/>Chris Adkin, SQL Server Solutions Architect</p> "
   url: https://www.meetup.com/dataleeds/events/254522513/
@@ -986,6 +1425,14 @@
   starts: 2019-05-02T16:30:00.0000000
   ends: 2019-05-02T19:30:00.0000000
   venue: twentysix
+- name: Learn ASP.NET Core
+  description: "<p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Learn ASP.NET Core with Kevin Smith<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> <p>\U0001F449 **ASP.NET Core**</p> <p>This is intended for people who want to learn ASP.NET Core.</p> <p>All you need is a laptop. (Windows, Linux or iOS - any operating system is fine)</p> <p>More details TBC.</p> <p>We will have food and drink to keep you going!</p> "
+  url: https://www.meetup.com/dotnetYork/events/260847149/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
+  starts: 2019-05-02T17:30:00.0000000
+  ends: 2019-05-02T19:30:00.0000000
+  venue: Trailight Boardroom
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbjb/
@@ -995,6 +1442,21 @@
   ends: 2019-05-06T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: 'Infinite Streams, Hot Fluxes, Live Queries and Tailable Cursor '
+  description: '<p>BOOK SEATS AT: <a href="https://ti.to/leeds-java-user-group/may-Brian-Matthews-Infinite-Streams-Hot-Fluxes-Live-Queries-Tailable-Cursor/" class="linkified">https://ti.to/leeds-java-user-group/may-Brian-Matthews-Infinite-Streams-Hot-Fluxes-Live-Queries-Tailable-Cursor/</a> On the 7th May 2019, we welcome Brian Matthews who is chief architect at Synchronoss Technologies, an Irish based company providing software development solutions to third parties. Brian lives in Rostov-on-Don, Russia. Check out the full talk abstracts here. . . <a href="https://ti.to/leeds-java-user-group/may-Brian-Matthews-Infinite-Streams-Hot-Fluxes-Live-Queries-Tailable-Cursor/" class="linkified">https://ti.to/leeds-java-user-group/may-Brian-Matthews-Infinite-Streams-Hot-Fluxes-Live-Queries-Tailable-Cursor/</a></p> '
+  url: https://www.meetup.com/Leeds-Java-User-Group/events/260336585/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/6/e/thumb_476481358.jpeg
+  starts: 2019-05-07T17:15:00.0000000
+  ends: 2019-05-07T20:15:00.0000000
+  venue: Leeds Central
+- name: 'May 2019 : Simplify provisioning with Azure Automation/Flow and PowerBI/Security'
+  description: '<p>Session One<br/>Simplify your provisioning with Azure Automation, PnP PowerShell and Flow (Garry Trinder - ID Live)</p> <p>This session will give you an overview of what Azure Automation is, what it is designed for, why you should consider using it instead of using Azure Functions and how you can easily orchestrate your provisioning in Microsoft Flow.</p> <p>If you are stuck with the headache of replacing your HTTP actions that call an Azure Function and want to know of a “non-premium” alternative, then this session is for you.</p> <p>Session Two<br/>Using PowerBI to monitor your cloud security perimeter (Andy Boylan - Brighter Connections)</p> <p>This session will introduce you to useful PowerBI Apps that are available to you as part of an Office 365 subscription.</p> <p>Andy will discuss the dashboards that are available. He will talk you through how to install them and make them available in your tenant.</p> <p>Finally, he will go through a case study using PowerBI to secure you an Azure / Office 365 tenant. Explaining the process and motivation taken to secure the cloud environment.</p> <p>This session will be useful to anyone that wants to get their Azure / Office 365 security under control.</p> '
+  url: https://www.meetup.com/Yorkshire-Office-365-User-Group/events/258866426/
+  is-free: true
+  starts: 2019-05-07T17:30:00.0000000
+  ends: 2019-05-07T19:30:00.0000000
+  venue: The Adelphi
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhblb/
