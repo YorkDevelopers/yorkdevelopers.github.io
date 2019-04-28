@@ -1,10 +1,3 @@
-- name: Data n' Gravy (Leeds Digital Festival)
-  description: "<p>A mini conference on all things relating to the Microsoft Data Platform plus we'll be serving up food with gravy (Yorkshire Puddings &amp; Chips etc.).</p> <p>For the full agenda, visit <a href=\"https://dataleeds.com/datangravy/schedule-2019/\" class=\"linkified\">https://dataleeds.com/datangravy/schedule-2019/</a></p> <p>Sessions include:</p> <p>Driven by the 9s - I need a highly available Microsoft Data Platform – what features should I use?<br/>Gethyn Ellis, SQL Server Consultant and Trainer</p> <p>How to create Custom Visuals for Power BI<br/>James Dales, Director at Altius</p> <p>How to screw up your ability to deliver database updates in 16 simple steps<br/>Alex Yates</p> <p>Data &amp; AI – What’s Possible?<br/>Andy Readman, Cloud Solution Architect at Wirehive</p> <p>Continuous Integration With SQL Server Containers and Open Source<br/>Chris Adkin, SQL Server Solutions Architect</p> "
-  url: https://www.meetup.com/dataleeds/events/254522513/
-  is-free: true
-  starts: 2019-04-27T08:00:00.0000000
-  ends: 2019-04-27T15:30:00.0000000
-  venue: Wizu Workspace
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzgbmc/
@@ -95,6 +88,15 @@
   starts: 2019-05-07T17:30:00.0000000
   ends: 2019-05-07T19:30:00.0000000
   venue: The Adelphi
+- name: York Code Dojo May Meetup - Mastermind Game
+  description: '<p>This month we will writing programs based around the Mastermind board game. See <a href="https://en.wikipedia.org/wiki/Mastermind_(board_game" class="linkified">https://en.wikipedia.org/wiki/Mastermind_(board_game</a>). There will be tasks suitable for both beginners and advanced coders. If possible please bring a laptop with your programming language of choice installed. NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/260976603/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2019-05-08T17:30:00.0000000
+  ends: 2019-05-08T20:30:00.0000000
+  venue: Room FT/207
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhblb/
