@@ -1,11 +1,3 @@
-- name: LeedsDevops - April 2019 Meetup
-  description: "<p>It’s time for our Leeds Digital Festival event, we’re bringing you two big names in the DevOps and Cloud Native ecosystems…</p> <p>* 6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>* 7:15 - 7:25 : Group updates/news/announcements<br/>* 7:25 - 8:05 : How DevOps Evolution Happens<br/>* 8:05 - 8:20 : Intermission<br/>* 8:20 - 9:00 : OpenSource security tools for Cloud Native Environments<br/>* 9:00 - late : Social</p> <p>The team here at LeedsDevops is delighted to welcome one of the most respected names in the UK DevOps community as our first speaker. Helen Beal describes herself as a DevOpsologist as her main role in her working life is to study the inputs and outputs of the thinking systems that make up DevOps.</p> <p>Her talk “How DevOps Evolution Happens” looks at how organizations of all types and sizes globally are adopting DevOps ways of working. In this session, Helen will share her observations on where DevOps starts, how to maintain momentum, the steps a typical DevOps evolution takes and the kind of things that stymie progress and frustrate vision. Helen will share success patterns, tactics and highlight common challenges. She will look at culture and climate and how to use psychology and neuroscience to drive behavioural change, advise on techniques to optimise the value stream from idea to value realisation and show how a DevOps toolchain overlays, accelerates and supports end to end flow.</p> <p>Our second speaker Steve Giguere is Senior Solution Architect at Aqua Security. Steve started his cyber security life by being kicked out of his high school computing class for privilege escalation on the school linux system. Since then he has spent time in the aero industry writing software to ensure planes didn’t crash, the telecom industry ensuring that calls got connected and the automotive industry making sure your car would start.</p> <p>Securing production used to be the responsibility of security specialists. In a DevOps culture, security becomes everyone’s responsibility as security shifts left. In Steve’s talk “OpenSource security tools for Cloud Native Environments”, he will look at the cloud native threat landscape. Review how security can be embedded at every stage of the CI/CD pipeline, and show opensource tools to assess the security posture of your kubernetes cluster and container images.</p> <p>First Time Attendees</p> <p>We understand that attending your first meetup can be an anxious experience, walking into a large room full of people can be daunting. As you arrive we’ll have an additional room for new attendees to make friends with other first time attendees. Shortly before the start we’ll show you into the main room helping make the whole experience less intimidating (but don't worry the LeedsDevops crowd is a friendly bunch). We’ll also use this room as a quiet space between the talk for those that don’t want to join the discussion.</p> <p>Refreshments</p> <p>We have a range of refreshments on offer, there will be a wide range of quality soft drinks, teas and coffees, craft beer, cider and wine - big thanks to our sponsors Infinity Works (<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) for their support and sponsorship.</p> <p>Code Of Conduct</p> <p>Please note that we have an anti harassment policy and code of conduct <a href=\"http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in\" class=\"linkified\">http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct)in</a> order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street opposite Leeds Bus Station. If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on twitter @leedsdevops (<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>For more details see the event page on leedsdevops.org.uk (<a href=\"http://www.leedsdevops.org.uk/post/2019-04-30-tuesday-30-april-2019-leeds-digital-festival-meetup/\" class=\"linkified\">http://www.leedsdevops.org.uk/post/2019-04-30-tuesday-30-april-2019-leeds-digital-festival-meetup/</a>)</p> "
-  url: https://www.meetup.com/LeedsDevops/events/260456381/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/2/d/2/6/thumb_477851558.jpeg
-  starts: 2019-04-30T17:45:00.0000000
-  ends: 2019-04-30T19:45:00.0000000
-  venue: ODI Leeds Node
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbcb/
@@ -23,15 +15,20 @@
   starts: 2019-05-01T07:00:00.0000000
   ends: 2019-05-01T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Front End York - "#YorkTechFest - Creation of a Tech Conference" & More
-  description: '<p>2 talks at our Front End York - April Event!!</p> <p>"#YorkTechFest - Creation of a Tech Conference" - Daniel Woolfson</p> <p>YorkTechFest 2018 event, themed “A Showcase Of Tech Non-Profit Communities” was delivered on the evening of November 13th 2018. Over 80 people attended City of York Council West Offices to listen to 10 speakers on tech topics. You may have been there :-)</p> <p>The YorkTechFest event is aimed at providing representation of the growing tech non-profit community in the City of York. This annual event is aimed at members of existing tech communities and to promote cross pollination of innovation between existing groups.</p> <p>This is the story of how YorkDevelopers did it with the help of key partners and of course the tech community.... and maybe what YorkTechFest 2019 could be... with your help.</p> <p>About Daniel (@DanielWoolfson)</p> <p>Daniel Woolfson is Chair of YorkDevelopers (www.yorkdevelopers.org), a registered Charity which supports, develops and encourages communities of Software Developers and IT professionals in and around the City of York. Daniel is also Head of Development and Test at PureNet (www.purenet.co.uk) developing ecommerce solutions to B2C and B2B businesses throughout the UK.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/259742226/
+- name: Optimise the delivery pipeline with the LEGO® Star Wars™ Game
+  description: '<p>The Dark Side of the Force is a pathway to many abilities some consider to be... more Agile. The Studio, Riverside West, Whitehall Rd, Leeds, LS1 4AW Agile teams can enhance their delivery capability by improving how they monitor and optimise flow along the delivery pipeline. At IndigoBlue, we take a unique approach to training teams in these skills: The LEGO® Star Wars™ Game! Come to our January meetup – facilitated by our very own Sith Lord, [Darth] Alan de Ste Croix – to build in LEGO® a range of products that meet the objective of galactic enslavement – all while emulating the delivery pipeline from planning through to deployment. You’ll gain a vivid sense of the importance of close collaboration, well-defined and prioritised user stories, and the importance of establishing a clear path to production. All this, along with a (not-quite) fully operational Death Star. Give yourself to the Dark Side on 16 Jan. It is your destiny.</p> '
+  url: https://www.meetup.com/Future-Scrum-Masters-North-UK/events/260512701/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-05-01T18:00:00.0000000
+  starts: 2019-05-01T17:00:00.0000000
   ends: 2019-05-01T20:00:00.0000000
-  venue: Stonegate Yard Bar & Brasserie
-  endorsed: true
+  venue: Riverside West
+- name: Geek Lunch at Shambles Market
+  description: "<p>Shambles Market - <a href=\"http://www.shamblesmarket.com/\" class=\"linkified\">http://www.shamblesmarket.com/</a></p> <p>It might be a little hard to meet as the food stalls are all open in the Shambles Market, so if you can't find us just send us a message on here!</p> <p>We'll be meeting for lunch at 12:00 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>We normally chat beforehand on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>), if you want an invite - send us a DM.</p> "
+  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/261040004/
+  is-free: true
+  starts: 2019-05-02T11:00:00.0000000
+  ends: 2019-05-02T12:30:00.0000000
+  venue: Shambles Market
 - name: Umbraco Meetup
   description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>More details to come!</p> "
   url: https://www.meetup.com/umbLeeds/events/ltvqhqyzhbdb/
@@ -40,6 +37,13 @@
   starts: 2019-05-02T16:30:00.0000000
   ends: 2019-05-02T19:30:00.0000000
   venue: twentysix
+- name: Scrum Mastery For All (Not Just Scrum Masters)
+  description: '<p>We’re delighted to announce that our very first AND Chat in Leeds will be held on Thursday 2nd May, during the city’s busy Digital Festival.</p> <p>The topic we’ll be looking at in closer detail is the Scrum methodology - one of the most popular and well-known of the many practices that comprise Agile. So if you’ve heard the term, and you want to know more about Scrum, then this event serves as a great introduction. Focused on real-world lessons, hiccups and successes, we’ll explore how Scrum - when used correctly - can change the way you work for the better. And if you’re using Scrum already, and finding it a challenge, this is the perfect refresher.</p> <p>Whether you’re a Scrum Master or not, by the end of this talk we’ll prove that while it won’t solve all your problems, your working life can be just that little bit better with Scrum.</p> <p>-----</p> <p>About Mark Faulkner</p> <p>From humble beginnings in business analysis, right through to his current role as an Agile coach at AND Digital, Mark has a wealth of experience in the practical implementation of the Scrum methodology. Sharing his insights, and the odd funny story, Mark will tell you why Scrum might just be the best way for you to get stuff done on your next project.</p> <p>Mark has worked on large-scale transformation and relocation projects, in cross-functional Agile software delivery teams and in a number of different industries, including vehicle retail, HR consultancy, online gambling and gaming, manufacturing and finance.</p> <p>-----</p> <p>Everything You Need To Know About The Event</p> <p>17:30 Doors Open</p> <p>18:00 Welcome to AND Chat</p> <p>18:15 Scrum Mastery For All (Not Just Scrum Masters) With Mark Faulkner</p> <p>20:30 Close</p> <p>A selection of refreshments will be provided.</p> <p>-----</p> <p>We look forward to seeing you at this evening of learning and discussion.</p> <p>Mel<br/>Marketing &amp; Events Coordinator, AND Digital</p> '
+  url: https://www.meetup.com/AND-Chat-Leeds-Halifax/events/260567418/
+  is-free: true
+  starts: 2019-05-02T16:30:00.0000000
+  ends: 2019-05-02T19:30:00.0000000
+  venue: Elmwood (Leeds)
 - name: Learn ASP.NET Core
   description: "<p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Learn ASP.NET Core with Kevin Smith<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> <p>\U0001F449 **ASP.NET Core**</p> <p>This is intended for people who want to learn ASP.NET Core.</p> <p>All you need is a laptop. (Windows, Linux or iOS - any operating system is fine)</p> <p>More details TBC.</p> <p>We will have food and drink to keep you going!</p> "
   url: https://www.meetup.com/dotnetYork/events/260847149/
@@ -128,6 +132,13 @@
   starts: 2019-05-13T07:00:00.0000000
   ends: 2019-05-13T09:00:00.0000000
   venue: The Brew Society
+- name: Appsolutely Fabulous - A Functional First Approach Using F#
+  description: '<p>Whilst there is a very good cross platform client application (app) development story for .NET, its also very much built on OO patterns.</p> <p>Fabulous is a functional first approach using F# - built on Xamarin forms - that does away with the view model.</p> <p>This talk aims to show just enough Fabulous to be dangerous - with a little bit of background and a little bit of live code to illustrate the possibilities - in the hope of inspiring further investigation.</p> '
+  url: https://www.meetup.com/HaintonDotNetYorkshire/events/260563232/
+  is-free: true
+  starts: 2019-05-14T17:00:00.0000000
+  ends: 2019-05-14T19:00:00.0000000
+  venue: Duke Studios
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbtb/
@@ -198,6 +209,15 @@
   starts: 2019-06-05T06:00:00.0000000
   ends: 2019-06-05T09:00:00.0000000
   venue: Cafe Nero
+  endorsed: true
+- name: Front End York - "#YorkTechFest - Creation of a Tech Conference" & More
+  description: '<p>"#YorkTechFest - Creation of a Tech Conference" - Daniel Woolfson</p> <p>YorkTechFest 2018 event, themed “A Showcase Of Tech Non-Profit Communities” was delivered on the evening of November 13th 2018. Over 80 people attended City of York Council West Offices to listen to 10 speakers on tech topics. You may have been there :-)</p> <p>The YorkTechFest event is aimed at providing representation of the growing tech non-profit community in the City of York. This annual event is aimed at members of existing tech communities and to promote cross pollination of innovation between existing groups.</p> <p>This is the story of how YorkDevelopers did it with the help of key partners and of course the tech community.... and maybe what YorkTechFest 2019 could be... with your help.</p> <p>About Daniel (@DanielWoolfson)</p> <p>Daniel Woolfson is Chair of YorkDevelopers (www.yorkdevelopers.org), a registered Charity which supports, develops and encourages communities of Software Developers and IT professionals in and around the City of York. Daniel is also Head of Development and Test at PureNet (www.purenet.co.uk) developing ecommerce solutions to B2C and B2B businesses throughout the UK.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/259742226/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-05T18:00:00.0000000
+  ends: 2019-06-05T20:00:00.0000000
+  venue: Stonegate Yard Bar & Brasserie
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
