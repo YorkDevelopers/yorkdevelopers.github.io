@@ -1,27 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbcb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-05-01T06:00:00.0000000
-  ends: 2019-05-01T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzhbcb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-05-01T07:00:00.0000000
-  ends: 2019-05-01T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Optimise the delivery pipeline with the LEGO® Star Wars™ Game
-  description: '<p>The Dark Side of the Force is a pathway to many abilities some consider to be... more Agile. The Studio, Riverside West, Whitehall Rd, Leeds, LS1 4AW Agile teams can enhance their delivery capability by improving how they monitor and optimise flow along the delivery pipeline. At IndigoBlue, we take a unique approach to training teams in these skills: The LEGO® Star Wars™ Game! Come to our January meetup – facilitated by our very own Sith Lord, [Darth] Alan de Ste Croix – to build in LEGO® a range of products that meet the objective of galactic enslavement – all while emulating the delivery pipeline from planning through to deployment. You’ll gain a vivid sense of the importance of close collaboration, well-defined and prioritised user stories, and the importance of establishing a clear path to production. All this, along with a (not-quite) fully operational Death Star. Give yourself to the Dark Side on 16 Jan. It is your destiny.</p> '
-  url: https://www.meetup.com/Future-Scrum-Masters-North-UK/events/260512701/
-  is-free: true
-  starts: 2019-05-01T17:00:00.0000000
-  ends: 2019-05-01T20:00:00.0000000
-  venue: Riverside West
 - name: Geek Lunch at Shambles Market
   description: "<p>Shambles Market - <a href=\"http://www.shamblesmarket.com/\" class=\"linkified\">http://www.shamblesmarket.com/</a></p> <p>It might be a little hard to meet as the food stalls are all open in the Shambles Market, so if you can't find us just send us a message on here!</p> <p>We'll be meeting for lunch at 12:00 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>We normally chat beforehand on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>), if you want an invite - send us a DM.</p> "
   url: https://www.meetup.com/York-Geeks-Lunch-Club/events/261040004/
@@ -29,21 +5,14 @@
   starts: 2019-05-02T11:00:00.0000000
   ends: 2019-05-02T12:30:00.0000000
   venue: Shambles Market
-- name: Umbraco Meetup
+- name: Umbraco Meetup - Social
   description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>More details to come!</p> "
   url: https://www.meetup.com/umbLeeds/events/ltvqhqyzhbdb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2019-05-02T16:30:00.0000000
-  ends: 2019-05-02T19:30:00.0000000
-  venue: twentysix
-- name: Scrum Mastery For All (Not Just Scrum Masters)
-  description: '<p>We’re delighted to announce that our very first AND Chat in Leeds will be held on Thursday 2nd May, during the city’s busy Digital Festival.</p> <p>The topic we’ll be looking at in closer detail is the Scrum methodology - one of the most popular and well-known of the many practices that comprise Agile. So if you’ve heard the term, and you want to know more about Scrum, then this event serves as a great introduction. Focused on real-world lessons, hiccups and successes, we’ll explore how Scrum - when used correctly - can change the way you work for the better. And if you’re using Scrum already, and finding it a challenge, this is the perfect refresher.</p> <p>Whether you’re a Scrum Master or not, by the end of this talk we’ll prove that while it won’t solve all your problems, your working life can be just that little bit better with Scrum.</p> <p>-----</p> <p>About Mark Faulkner</p> <p>From humble beginnings in business analysis, right through to his current role as an Agile coach at AND Digital, Mark has a wealth of experience in the practical implementation of the Scrum methodology. Sharing his insights, and the odd funny story, Mark will tell you why Scrum might just be the best way for you to get stuff done on your next project.</p> <p>Mark has worked on large-scale transformation and relocation projects, in cross-functional Agile software delivery teams and in a number of different industries, including vehicle retail, HR consultancy, online gambling and gaming, manufacturing and finance.</p> <p>-----</p> <p>Everything You Need To Know About The Event</p> <p>17:30 Doors Open</p> <p>18:00 Welcome to AND Chat</p> <p>18:15 Scrum Mastery For All (Not Just Scrum Masters) With Mark Faulkner</p> <p>20:30 Close</p> <p>A selection of refreshments will be provided.</p> <p>-----</p> <p>We look forward to seeing you at this evening of learning and discussion.</p> <p>Mel<br/>Marketing &amp; Events Coordinator, AND Digital</p> '
-  url: https://www.meetup.com/AND-Chat-Leeds-Halifax/events/260567418/
-  is-free: true
-  starts: 2019-05-02T16:30:00.0000000
-  ends: 2019-05-02T19:30:00.0000000
-  venue: Elmwood (Leeds)
+  starts: 2019-05-02T17:01:00.0000000
+  ends: 2019-05-02T20:01:00.0000000
+  venue: The Adelphi
 - name: Learn ASP.NET Core
   description: "<p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Learn ASP.NET Core with Kevin Smith<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> <p>\U0001F449 **ASP.NET Core**</p> <p>This is intended for people who want to learn ASP.NET Core.</p> <p>All you need is a laptop. (Windows, Linux or iOS - any operating system is fine)</p> <p>More details TBC.</p> <p>We will have food and drink to keep you going!</p> "
   url: https://www.meetup.com/dotnetYork/events/260847149/
@@ -139,6 +108,13 @@
   starts: 2019-05-14T17:00:00.0000000
   ends: 2019-05-14T19:00:00.0000000
   venue: Duke Studios
+- name: Splunk User Group - Start-up
+  description: "<p>On the 14th of May we invite you to attend the first session to have your say on how the group will function and what you would like to see in upcoming meetups</p> <p>After a quick introduction, we will have a talk from Thomas West who will give us a first-look at a new app to make identifying problems with your Splunk searches a lot easier! This will be the first time the app has been presented in any public forum and will be something you won't want to miss!</p> <p>Agenda<br/>06:00 PM Introduction<br/>06:15 PM Thomas West: Check-Out SPL Rehab<br/>07:00 PM Break<br/>07:30 PM Discussion</p> <p>Please RSVP here on the official User Group webpage: <a href=\"https://usergroups.splunk.com/group/yorkshire-user-group/c2f8da59-290a-4105-ae6f-834e1ad61745.html\" class=\"linkified\">https://usergroups.splunk.com/group/yorkshire-user-group/c2f8da59-290a-4105-ae6f-834e1ad61745.html</a></p> <p>Following the presentation we will pause for a quick break before reconvening to discuss:</p> <p>What we want our community to be?<br/>How do we want it to operate?<br/>What subjects do we thing would be most useful to discuss?<br/>How often do we want to meet?<br/>Do we want to know about other user groups?<br/>How should it be led?<br/>3 Attendees<br/>Are You Coming?</p> "
+  url: https://www.meetup.com/Splunk-User-Group-Start-up/events/261042681/
+  is-free: true
+  starts: 2019-05-14T17:30:00.0000000
+  ends: 2019-05-14T19:30:00.0000000
+  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbtb/
@@ -148,6 +124,14 @@
   ends: 2019-05-15T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzhbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-05-15T07:00:00.0000000
+  ends: 2019-05-15T10:00:00.0000000
+  venue: La Bottega Milanese
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzhbvb/
@@ -210,8 +194,8 @@
   ends: 2019-06-05T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
-- name: Front End York - "#YorkTechFest - Creation of a Tech Conference" & More
-  description: '<p>"#YorkTechFest - Creation of a Tech Conference" - Daniel Woolfson</p> <p>YorkTechFest 2018 event, themed “A Showcase Of Tech Non-Profit Communities” was delivered on the evening of November 13th 2018. Over 80 people attended City of York Council West Offices to listen to 10 speakers on tech topics. You may have been there :-)</p> <p>The YorkTechFest event is aimed at providing representation of the growing tech non-profit community in the City of York. This annual event is aimed at members of existing tech communities and to promote cross pollination of innovation between existing groups.</p> <p>This is the story of how YorkDevelopers did it with the help of key partners and of course the tech community.... and maybe what YorkTechFest 2019 could be... with your help.</p> <p>About Daniel (@DanielWoolfson)</p> <p>Daniel Woolfson is Chair of YorkDevelopers (www.yorkdevelopers.org), a registered Charity which supports, develops and encourages communities of Software Developers and IT professionals in and around the City of York. Daniel is also Head of Development and Test at PureNet (www.purenet.co.uk) developing ecommerce solutions to B2C and B2B businesses throughout the UK.</p> '
+- name: Front End York - June event
+  description: '<p>Talks TBC</p> '
   url: https://www.meetup.com/YorkDevelopers/events/259742226/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -608,6 +592,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-10-21T06:00:00.0000000
   ends: 2019-10-21T09:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyznbfc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-10-23T06:00:00.0000000
+  ends: 2019-10-23T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
