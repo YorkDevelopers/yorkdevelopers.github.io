@@ -1,26 +1,3 @@
-- name: Geek Lunch at Shambles Market
-  description: "<p>Shambles Market - <a href=\"http://www.shamblesmarket.com/\" class=\"linkified\">http://www.shamblesmarket.com/</a></p> <p>It might be a little hard to meet as the food stalls are all open in the Shambles Market, so if you can't find us just send us a message on here!</p> <p>We'll be meeting for lunch at 12:00 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>We normally chat beforehand on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>), if you want an invite - send us a DM.</p> "
-  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/261040004/
-  is-free: true
-  starts: 2019-05-02T11:00:00.0000000
-  ends: 2019-05-02T12:30:00.0000000
-  venue: Shambles Market
-- name: Umbraco Meetup - Social
-  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>More details to come!</p> "
-  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzhbdb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2019-05-02T17:01:00.0000000
-  ends: 2019-05-02T20:01:00.0000000
-  venue: The Adelphi
-- name: Learn ASP.NET Core
-  description: "<p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Learn ASP.NET Core with Kevin Smith<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> <p>\U0001F449 **ASP.NET Core**</p> <p>This is intended for people who want to learn ASP.NET Core.</p> <p>All you need is a laptop. (Windows, Linux or iOS - any operating system is fine)</p> <p>More details TBC.</p> <p>We will have food and drink to keep you going!</p> "
-  url: https://www.meetup.com/dotnetYork/events/260847149/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2019-05-02T17:30:00.0000000
-  ends: 2019-05-02T19:30:00.0000000
-  venue: Trailight Boardroom
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbjb/
@@ -108,13 +85,6 @@
   starts: 2019-05-14T17:00:00.0000000
   ends: 2019-05-14T19:00:00.0000000
   venue: Duke Studios
-- name: Splunk User Group - Start-up
-  description: "<p>On the 14th of May we invite you to attend the first session to have your say on how the group will function and what you would like to see in upcoming meetups</p> <p>After a quick introduction, we will have a talk from Thomas West who will give us a first-look at a new app to make identifying problems with your Splunk searches a lot easier! This will be the first time the app has been presented in any public forum and will be something you won't want to miss!</p> <p>Agenda<br/>06:00 PM Introduction<br/>06:15 PM Thomas West: Check-Out SPL Rehab<br/>07:00 PM Break<br/>07:30 PM Discussion</p> <p>Please RSVP here on the official User Group webpage: <a href=\"https://usergroups.splunk.com/group/yorkshire-user-group/c2f8da59-290a-4105-ae6f-834e1ad61745.html\" class=\"linkified\">https://usergroups.splunk.com/group/yorkshire-user-group/c2f8da59-290a-4105-ae6f-834e1ad61745.html</a></p> <p>Following the presentation we will pause for a quick break before reconvening to discuss:</p> <p>What we want our community to be?<br/>How do we want it to operate?<br/>What subjects do we thing would be most useful to discuss?<br/>How often do we want to meet?<br/>Do we want to know about other user groups?<br/>How should it be led?<br/>3 Attendees<br/>Are You Coming?</p> "
-  url: https://www.meetup.com/Splunk-User-Group-Start-up/events/261042681/
-  is-free: true
-  starts: 2019-05-14T17:30:00.0000000
-  ends: 2019-05-14T19:30:00.0000000
-  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbtb/
@@ -132,6 +102,14 @@
   starts: 2019-05-15T07:00:00.0000000
   ends: 2019-05-15T10:00:00.0000000
   venue: La Bottega Milanese
+- name: CodeUp Leeds Meetup
+  description: "<p>THE SIGN-UP PERIOD WILL START 2 WEEKS BEFORE THE EVENT. Please come back soon to reserve your spot!</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. To discuss any additional accessibility requirements you may have, please contact [masked].</p> "
+  url: https://www.meetup.com/CodeUp-Leeds/events/dbcjtqyzhbvb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
+  starts: 2019-05-16T17:45:00.0000000
+  ends: 2019-05-16T20:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzhbvb/
