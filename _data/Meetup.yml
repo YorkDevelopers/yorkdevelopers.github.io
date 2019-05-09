@@ -1,29 +1,3 @@
-- name: York Code Dojo May Meetup - Mastermind Game
-  description: '<p>This month we will writing programs based around the Mastermind board game. See <a href="https://en.wikipedia.org/wiki/Mastermind_(board_game" class="linkified">https://en.wikipedia.org/wiki/Mastermind_(board_game</a>). There will be tasks suitable for both beginners and advanced coders. If possible please bring a laptop with your programming language of choice installed. NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/260976603/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2019-05-08T17:30:00.0000000
-  ends: 2019-05-08T20:30:00.0000000
-  venue: Room FT/207
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhblb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-05-08T06:00:00.0000000
-  ends: 2019-05-08T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzhblb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-05-08T07:00:00.0000000
-  ends: 2019-05-08T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: Mobile Python Code Dojo
   description: '<p>Mobile devices are an exciting platform, but can we develop for them with Python?</p> <p>This months WYPy will be a coding session exploring ways to create mobile applications using Python. We will have a look at Kivy and BeeWare and then work in teams to try making some simple apps, learn and have fun doing it.</p> <p><a href="https://kivy.org/" class="linkified">https://kivy.org/</a><br/><a href="https://beeware.org/" class="linkified">https://beeware.org/</a></p> <p>Agenda</p> <p>Introduction and Ideas Discussion - 10 mins<br/>Coding - 60 to 90 mins<br/>Review - 20 mins</p> <p>Equipment</p> <p>Bring a laptop if you want to code or you can colaborate with others. Android or IPhones in development mode and connecting cables might also be useful.</p> <p>Doors at 6:30pm start around 7:00pm - Pub afterwards</p> <p><a href="http://wypy.org.uk/2019-05" class="linkified">http://wypy.org.uk/2019-05</a></p> '
   url: https://www.meetup.com/West-Yorkshire-Python-User-Group-WYPy/events/260918408/
@@ -127,6 +101,14 @@
   ends: 2019-05-22T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzhbdc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-05-22T07:00:00.0000000
+  ends: 2019-05-22T10:00:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbkc/
@@ -579,6 +561,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-10-28T07:00:00.0000000
   ends: 2019-10-28T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyznbnc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-10-30T07:00:00.0000000
+  ends: 2019-10-30T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
