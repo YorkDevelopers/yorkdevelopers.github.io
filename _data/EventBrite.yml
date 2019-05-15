@@ -155,6 +155,21 @@
   starts: 2019-06-07T18:00:00.0000000
   ends: 2019-06-07T19:00:00.0000000
   venue: Ron Cooke Hub
+- name: Marvellous Microbes
+  description: >-
+    Learn about the wonderful world of ‘marvellous microbes’ with our family-friendly interactive demonstrations. Explore how microbes could stop the spread of tropical diseases and reduce our dependence on fossil fuels. Discover how York researchers are targeting specific body molecules inside the ‘smelly’ microbes to prevent body odour, and get to know your own microbes.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/marvellous-microbes-tickets-60522526506?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/60533884/22468345120/1/original.20190417-121432?h=200&w=450&auto=compress&rect=0,0,800,400&s=c06ca276e52c3485b35be77ef97a3c59
+  starts: 2019-06-11T16:00:00.0000000
+  ends: 2019-06-11T18:00:00.0000000
+  venue: Department of Biology
 - name: All These Worlds
   description: >-
     What other wondrous worlds lie beyond our own? Join James Lees, a postgraduate researcher with the University of York’s Department of Physics, for an exploration of real, fictional and hypothetical planets. How do they work (or not) and what might they be like to visit? From sci-fi to science fact, Tatooine to the last habitable planets in the Universe, discover some of the weird and wonderful worlds that could be out there.
@@ -273,21 +288,6 @@
   starts: 2019-06-09T16:30:00.0000000
   ends: 2019-06-09T18:00:00.0000000
   venue: Ron Cooke Hub
-- name: Marvellous Microbes
-  description: >-
-    Learn about the wonderful world of ‘marvellous microbes’ with our family-friendly interactive demonstrations. Explore how microbes could stop the spread of tropical diseases and reduce our dependence on fossil fuels. Discover how York researchers are targeting specific body molecules inside the ‘smelly’ microbes to prevent body odour, and get to know your own microbes.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/marvellous-microbes-tickets-60522526506?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/60533884/22468345120/1/original.20190417-121432?h=200&w=450&auto=compress&rect=0,0,800,400&s=c06ca276e52c3485b35be77ef97a3c59
-  starts: 2019-06-11T16:00:00.0000000
-  ends: 2019-06-11T18:00:00.0000000
-  venue: Department of Biology
 - name: The Art of Visual Imagination
   description: >-
     FESTIVAL FOCUS - The Poetry and Music of Science
@@ -462,23 +462,6 @@
   starts: 2019-06-16T11:30:00.0000000
   ends: 2019-06-16T12:30:00.0000000
   venue: Bootham School
-- name: Zombies in York - 10 June
-  description: >-
-    Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie, and then help us save the city through hands-on activities – examine zombie blood, play with brains and more. 
-
-    Suitable for children aged eight to 12.
-
-    * * * * * * * * * * * * * * * * * * * * * * * *
-
-    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
-
-    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
-  url: https://www.eventbrite.co.uk/e/zombies-in-york-10-june-tickets-60521904646?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/61108783/22468345120/1/original.20190424-135329?h=200&w=450&auto=compress&rect=0,0,800,400&s=8fff592013fb865f4aa11486be67ab83
-  starts: 2019-06-10T17:30:00.0000000
-  ends: 2019-06-10T19:00:00.0000000
-  venue: York Explore Library
 - name: Towards Sustainable Plastics
   description: >
     A free symposium on the challenges and solutions to the global issue of plastic waste pollution
@@ -501,6 +484,31 @@
   starts: 2019-06-11T09:00:00.0000000
   ends: 2019-06-11T18:00:00.0000000
   venue: Kings Manor
+- name: Zombies in York - 10 June
+  description: >-
+    Zombies have taken over York and brought the city to a standstill – but we were quick enough to catch one! Come along and watch as University of York scientists dissect the captured zombie, and then help us save the city through hands-on activities – examine zombie blood, play with brains and more. 
+
+    Suitable for children aged eight to 12.
+
+    * * * * * * * * * * * * * * * * * * * * * * * *
+
+    If you require more than 3 tickets, please contact the Festival Team who will be happy to help.
+
+    Please ensure you use the correct email address as this is where your ticket will be sent. If you do not provide the correct address, you will not receive the acknowledgement email or ticket.
+  url: https://www.eventbrite.co.uk/e/zombies-in-york-10-june-tickets-60521904646?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/61108783/22468345120/1/original.20190424-135329?h=200&w=450&auto=compress&rect=0,0,800,400&s=8fff592013fb865f4aa11486be67ab83
+  starts: 2019-06-10T17:30:00.0000000
+  ends: 2019-06-10T19:00:00.0000000
+  venue: York Explore Library
+- name: SMART Transport showcase –  the possibilities, policies and practicalities
+  description: "“This is an extraordinary moment in roads history...we’re looking at many new technologies. They could be technologies for improving roads, for generating energy from roads or new technology for connected and autonomous vehicles. York is a very compact city, has very advanced transport policy, lots of very good ideas, a spirit of enterprise and has a real energy about the place.”\nJesse Norman, Roads Minister (York November 2017)\nThis event will help any local authority meet the challenges of the coming transport revolution, bringing  together the expertise of pioneering authorities and the Department for Transport to give you a complete picture of the immense possibilities, the many practicalities and the policy landscape. \nCity of York Council will share all the lessons learned as a pioneer of a range of transport technologies, from electric buses to the £2.85m DfT-funded programme which will make it the first connected and autonomous vehicle-ready city in the country.\nThrough a mixture of expert panel and table discussions, led by local authorities and DfT representatives, delegates will get the opportunity to:\n1) Explore the detail of the industrial strategy \n2) Understand the legal frameworks around electronic vehicles\n3) Get a local authority’s perspective on what capacity you’ll need to deliver SMART transformation – the essential skills, resources and internal connections. \n4) Hear more from other local authorities about their SMART innovations, like Oxfordshire County Council’s intelligent procurement.\n5) Network and explore collaboration with other local authorities\nArrive 10:00am for a 10:30 start.\nThe event includes lunch - please advise us of any dietary requirements when ordering your ticket."
+  url: https://www.eventbrite.co.uk/e/smart-transport-showcase-the-possibilities-policies-and-practicalities-tickets-61486501782?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/61817159/133201531214/1/original.20190507-102958?h=200&w=450&auto=compress&rect=0,42,796,398&s=3d7a32026898e9d756031fe211784bdb
+  starts: 2019-06-21T10:00:00.0000000
+  ends: 2019-06-21T15:00:00.0000000
+  venue: National Railway Museum York
 - name: Clean Air Day- air pollution and York
   description: "Air pollution, its all over the news and all over our cities, but what do you really want to know about it?  Come along to find out about air quality research at the University of York, how it relates to this beautiful city and where it impacts on our everyday lives. Take the opportunity to quiz experts from the University and York City Council on all things air pollution, and consider the simple things that can be done to help improve the air we breathe.\nHosted by the Wolfson Atmospheric Chemistry Laboratories at the University of York, this event aims to raise awareness of air pollution issues - particularly in York - ahead of Clean Air Day (20th June), the UK’s largest air pollution campaign.\nAbout the speakers\nDr David Carslaw is a Reader in the Department of Chemistry at the University of York. His research is focussed on developing a better understanding of urban air pollution, particularly around emissions of nitrogen dioxide (NO2). Much of his work is aimed at better quantifying vehicle emissions under urban driving conditions. Another area of focus is the development of receptor modelling approaches to improve understanding of the influence of different emission sources on ambient concentrations. \nAlastair Lewis is Professor of Atmospheric Chemistry at the University of York working within the Wolfson Atmospheric Chemistry Laboratories. He is also currently Deputy Director of, and Director for atmospheric composition, at the National Centre for Atmospheric Science (NCAS). He has participated in over 30 major atmospheric science field projects, from polar regions to tropical oceans, city centres to remote forests. He is a member of a number of expert advisory groups including for Defra, the World Meteorological Organisation and United Nations Environment Programme (UNEP).\nLiz Bates is a University of York alumni employed as a specialist air quality officer at City of York Council and City of Bradford MDC. She helped develop the Air Quality Action Plan (AQAP) and Low Emission Strategy (LES) for York and has a specialist interest in low emission planning. She helps to co-ordinate Clean Air Day activities in York.\nHealth in Urban Environments Event Series\nThe event forms part of the Health in Urban Environments Series where the York Environmental Sustainability Institute (YESI), Stockholm Environment Institute (SEI), Interdisciplinary Global Development Centre (IGDC), Wolfson Atmospheric Chemistry Laboratories (WACL) and several Research Champions are joining forces to host an event series to explore Urban Living-related research and innovation at the University of York.\nThrough a series of workshops, lunchtime seminar, full day events and discussion sessions, we will gain insight into the historical development of the world’s cities and the social and environmental consequences of urbanisation.\nBy bringing together the social, physical and life sciences we will be able to explore this topic from many angles and celebrate the interdisciplinary nature of research at the University of York.\nThe series, which will begin in January and conclude in June in alignment with Clean Air Day, will be open to researchers, staff and students at the University of York."
   url: https://www.eventbrite.co.uk/e/clean-air-day-air-pollution-and-york-tickets-53815756376?aff=ebapi
@@ -526,14 +534,6 @@
   starts: 2019-06-16T13:30:00.0000000
   ends: 2019-06-16T14:30:00.0000000
   venue: Bootham School
-- name: SMART Transport showcase –  the possibilities, policies and practicalities
-  description: "“This is an extraordinary moment in roads history...we’re looking at many new technologies. They could be technologies for improving roads, for generating energy from roads or new technology for connected and autonomous vehicles. York is a very compact city, has very advanced transport policy, lots of very good ideas, a spirit of enterprise and has a real energy about the place.”\nJesse Norman, Roads Minister (York November 2017)\nThis event will help any local authority meet the challenges of the coming transport revolution, bringing  together the expertise of pioneering authorities and the Department for Transport to give you a complete picture of the immense possibilities, the many practicalities and the policy landscape. \nCity of York Council will share all the lessons learned as a pioneer of a range of transport technologies, from electric buses to the £2.85m DfT-funded programme which will make it the first connected and autonomous vehicle-ready city in the country.\nThrough a mixture of expert panel and table discussions, led by local authorities and DfT representatives, delegates will get the opportunity to:\n1) Explore the detail of the industrial strategy \n2) Understand the legal frameworks around electronic vehicles\n3) Get a local authority’s perspective on what capacity you’ll need to deliver SMART transformation – the essential skills, resources and internal connections. \n4) Hear more from other local authorities about their SMART innovations, like Oxfordshire County Council’s intelligent procurement.\n5) Network and explore collaboration with other local authorities\nArrive 10:00am for a 10:30 start.\nThe event includes lunch - please advise us of any dietary requirements when ordering your ticket."
-  url: https://www.eventbrite.co.uk/e/smart-transport-showcase-the-possibilities-policies-and-practicalities-tickets-61486501782?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/61817159/133201531214/1/original.20190507-102958?h=200&w=450&auto=compress&rect=0,42,796,398&s=3d7a32026898e9d756031fe211784bdb
-  starts: 2019-06-21T10:00:00.0000000
-  ends: 2019-06-21T15:00:00.0000000
-  venue: National Railway Museum York
 - name: 'It’s a Wonderful Digital Life (talk) '
   description: >-
     Discover the wonders of technology as University of York Library, IT and Archives staff showcase the transforming and exciting opportunities offered by the digital world. Hear about different aspects of digital, from augmented reality to digital archives, take part in hands-on activities and enjoy a digitally immersive experience.
@@ -570,20 +570,6 @@
   starts: 2019-06-11T17:30:00.0000000
   ends: 2019-06-11T19:00:00.0000000
   venue: York Explore Library
-- name: Process Intensification
-  description: >-
-    As part of this year's workshop series on Sustainable Manufacturing for the Chemical Industry, Professor Adam Harvey of the Process Intensification Group, Newcastle University, will be delivering this workshop on Process Intensification.
-
-    Process intensification means making process technologies orders of magnitude smaller. This typically leads to reductions in waste, capital cost and running costs, improved product quality and safer operation. In many ways process intensification is the chemical engineering analogue of green chemistry, as it often uses novel process technologies/approaches to achieve green chemistry ends. For example, intensified reactors, with enhanced mixing and heat transfer can be used to (safely) operate reactions without solvent, one of the aims of green chemistry. This leads to reductions in the size of the reactor not just because of the lack of solvent per se, but also due to the increased rates of reaction: for the same production rate doubling the rate, halves the reactor volume.
-
-    Another key aim is to ensure all products have the same processing history, via improved control, heat transfer and mass transfer, such that product quality is more uniform. This reduces by-product formation, thereby reducing waste, and the load on downstream processing – perhaps eliminating downstream steps altogether.
-
-    Prof Harvey will explain how “PI” can be achieved in general, including various case studies from his own work.
-  url: https://www.eventbrite.co.uk/e/process-intensification-tickets-61091213464?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/61416474/61443779641/1/original.20190430-101024?h=200&w=450&auto=compress&rect=0,293,4256,2128&s=5e3a1dc0f65b05893f2a2124a085b4fc
-  starts: 2019-05-15T14:00:00.0000000
-  ends: 2019-05-15T16:00:00.0000000
 - name: 'Sustainability Metrics: Tracking, Measuring and Reporting Responsible Innovation II'
   description: >-
     Measure and monitor your supply chain’s performance with appropriate and easy-to-use sustainability metrics. Existing industrial sustainability metrics primarily focus on the chemical process, although the need to consider the performance of a “bigger picture” is prevalent and growing. This workshop is dedicated to demonstrating current trends and practices in applying qualitative and quantitative sustainability evaluation practices, through use of LCA and other industrial best procedures.
@@ -736,43 +722,19 @@
   starts: 2019-12-04T08:00:00.0000000
   ends: 2019-12-05T17:00:00.0000000
   venue: Park Inn by Radisson York City Centre
-- name: 'WE1: Website CMS Basic training (Tue 14th May 14:00-16:00)'
+- name: Running a Sustainable Chemical Company
   description: >-
-    These courses are for staff who have been approved by the website team only
+    The second in this year's series of workshops covering Sustainable Manufacturing for the Chemical Industry from a number of multidisciplinary viewpoints, this interactive workshop aims to provide an insight into the workings and complexities of running a successful chemical SME with a circular economy ethos.
 
+    Groups will be tasked with taking real world waste feedstocks, processing methodologies and by-product streams and subjecting them to analysis from an industrial view point. Data based on real industrial examples will be provided to the groups. Once the groups have cemented their findings, they will hear the real scenario from Dr Brian Dobson of Brocklesby Ltd, in the form of an informal talk containing insights, anecdotes, questions and answers from his experiences at Brocklesby Ltd, a food waste valorisation company, as well as his experiences that span all the way from day to day plant management to produce 250,000 ton per annum ethylene oxide and glycol,  to commercial development of  new catalyst technology, oleochemical technical management, development of skid mounted biodiesel plants, and his experiences as an expert witness to support claims of unsatisfactory chemical engineering design.
 
-    WE1: Website CMS basics
-
-    Prior knowledge: None
-
-    Introduction to the York St John University website content management system
-
-    For full editing rights, attendance our PS1:Photoshop Essentials course is also required. Ths includes preparing images to be optimised for use on the website.
-
-
-    FAQ
-
-    Is this course open to anyone?
-
-    This course is only available to students and staff from York St John University.
-
-     
-
-    How can I contact the organiser with any questions?
-
-    Email digitaltraining@yorksj.ac.uk 
-
-     
-
-    Do I have to bring my printed ticket to the event?
-
-    No, we have a list of bookings
-  url: https://www.eventbrite.co.uk/e/we1-website-cms-basic-training-tue-14th-may-1400-1600-tickets-59699968212?aff=ebapi
+    The workshop will also be facilitated by Dr Rob McElroy of the Department of Chemistry, University of York.
+  url: https://www.eventbrite.co.uk/e/running-a-sustainable-chemical-company-tickets-61800267263?aff=ebapi
   is-free: true
-  logo: https://cdn.evbuc.com/images/59464903/47610739467/1/original.jpg?h=200&w=450&auto=compress&rect=0,0,2160,1080&s=dd549efc4db064f32f10f9b3c8d0367e
-  starts: 2019-05-14T14:00:00.0000000
-  ends: 2019-05-14T16:00:00.0000000
-  venue: FT/114
+  logo: https://cdn.evbuc.com/images/62176452/30757136331/1/original.jpg?h=200&w=450&auto=compress&rect=67,0,1366,683&s=b807e0963069d9c8e73e8e639b4ea369
+  starts: 2019-05-22T14:00:00.0000000
+  ends: 2019-05-22T16:00:00.0000000
+  venue: Green Chemistry Seminar room, C/F/106
 - name: 'AD1: Making accessible documents (Tue 21st May 2019 11:00-12:00)'
   description: >+
     These courses are for students and staff at York St John University. 
@@ -833,7 +795,9 @@
   venue: FT/208, library 2nd Floor,other end from the lift
 - name: Syzgy Live! The Great Syzygy Space Off
   description: >-
-    A special live recording of the Syzygy podcast on the Pint Of Science festival fringe. Astronomer Emily & Science Nerd Chris compete for fame and glory in the first ever Great Syzygy Space Off, bringing their A-game in astronomical amazements for audience acclamation and alliterative approval — all of which really just means two space nuts trying to see who can amuse the crowd the most with their cosmic witterings.
+    Come to an evening of cosmic chat and astronomical absurdity — a special live recording of the Syzygy podcast on the Pint Of Science festival fringe.
+
+    Astronomer Emily & Science Nerd Chris compete for fame and glory in the first ever Great Syzygy Space Off, bringing their A-game in astronomical amazements for audience acclamation and alliterative approval — all of which really just means two space nuts trying to see who can amuse the crowd the most with their cosmic witterings.
 
     Live voting gives you, the audience, a chance to choose the Space Off winner on the night — and stick around afterwards for a drink and a chat about all things astronomical.
   url: https://www.eventbrite.co.uk/e/syzgy-live-the-great-syzygy-space-off-tickets-61584587158?aff=ebapi
@@ -879,6 +843,14 @@
   starts: 2019-05-15T14:00:00.0000000
   ends: 2019-05-15T15:00:00.0000000
   venue: FT/208
+- name: Metadata is all around you
+  description: Metadata is all around you!
+  url: https://www.eventbrite.co.uk/e/metadata-is-all-around-you-tickets-61862309834?aff=ebapi
+  is-free: true
+  logo: https://cdn.evbuc.com/images/62229393/287207511238/1/original.20190514-090914?h=200&w=450&auto=compress&rect=0,2,1170,585&s=a58fdc65c1f6885a167a785e4d7e21fb
+  starts: 2019-05-29T18:00:00.0000000
+  ends: 2019-05-29T20:30:00.0000000
+  venue: Isotoma
 - name: 'WE1: Website CMS Basic training (Thur 13th June 14:00-16:00)'
   description: >-
     These courses are for staff who have been approved by the website team only
@@ -1012,19 +984,6 @@
   starts: 2019-05-20T10:00:00.0000000
   ends: 2019-05-20T12:00:00.0000000
   venue: FT/208, library 2nd Floor,other end from the lift
-- name: Running a Sustainable Chemical Company
-  description: >-
-    The second in this year's series of workshops covering Sustainable Manufacturing for the Chemical Industry from a number of multidisciplinary viewpoints, this interactive workshop aims to provide an insight into the workings and complexities of running a successful chemical SME with a circular economy ethos.
-
-    Groups will be tasked with taking real world waste feedstocks, processing methodologies and by-product streams and subjecting them to analysis from an industrial view point. Data based on real industrial examples will be provided to the groups. Once the groups have cemented their findings, they will hear the real scenario from Dr Brian Dobson of Brocklesby Ltd, in the form of an informal talk containing insights, anecdotes, questions and answers from his experiences at Brocklesby Ltd, a food waste valorisation company, as well as his experiences that span all the way from day to day plant management to produce 250,000 ton per annum ethylene oxide and glycol,  to commercial development of  new catalyst technology, oleochemical technical management, development of skid mounted biodiesel plants, and his experiences as an expert witness to support claims of unsatisfactory chemical engineering design.
-
-    The workshop will also be facilitated by Dr Rob McElroy of the Department of Chemistry, University of York.
-  url: https://www.eventbrite.co.uk/e/running-a-sustainable-chemical-company-tickets-61800267263?aff=ebapi
-  is-free: true
-  logo: https://cdn.evbuc.com/images/62176452/30757136331/1/original.jpg?h=200&w=450&auto=compress&rect=67,0,1366,683&s=b807e0963069d9c8e73e8e639b4ea369
-  starts: 2019-05-22T14:00:00.0000000
-  ends: 2019-05-22T16:00:00.0000000
-  venue: Green Chemistry Seminar room, C/F/106
 - name: Plastid Preview 2019
   description: >-
     Plastid Preview is an annual meeting for Early Career Researchers (ECRs), including Masters by Research, PhD students and post-doctoral researchers, working in any area of chloroplast biology. The meeting provides an excellent opportunity for ECRs to meet and foster networks with their peer ECRs and some senior scientists.
