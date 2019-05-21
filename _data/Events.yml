@@ -1,21 +1,5 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbbc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-05-20T06:00:00.0000000
-  ends: 2019-05-20T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: 'Tech Contractor Networking: Leeds'
-  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
-  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyzhbcc/
-  is-free: true
-  starts: 2019-05-21T11:15:00.0000000
-  ends: 2019-05-21T11:45:00.0000000
-  venue: Banyan Bar Leeds
 - name: LeedsDevops - May 2019 Meetup
-  description: "<p>**RSVPs will re open on Monday 20th **</p> <p>Spring is well and truly here and on Tuesday 21st May 2019 so are we at the ODI Node in Leeds for fresh devops thoughts.</p> <p>* 6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>* 7:15 - 7:25 : Group updates/news/announcements<br/>* 7:25 - 8:05 : Non Toxic Work Environments<br/>* 8:05 - 8:20 : Intermission<br/>* 8:20 - 9:00 : Serverless Chaos<br/>* 9:00 - late : Social</p> <p>We start this meetup with a different knid of talk, as we know a large part of devops is about creating a culture of trust, callaboration and empathy with our fellow colleagues. Alex Stanhope – Cloud Architect &amp; DevOps Consultant from Lightenna in our first talk of the evening \"Non Toxic Work Environments\" describes that stress can be a fantastic healthy way to experience new challenges, grow and learn but without the right context, support and respite it can do real harm. In this session he'll look at the things we can all do to keep our workplaces happy and productive.</p> <p>Our second talk of the night is a duo from DAZN, Mick Roper and Tom Lloyd. Mick is a Software engineer and architect with 10 years experience. Worked in businesses of all shapes and sizes and is the un-crowned king of the summer bbq. Tom is a engineer at Dazn with a background in functional Scala microservices and modular React apps. He has previously worked for Sky on their Sky Mobile launch, as well as their identity services. In his spare time, you’ll often find him on a mountain or watching old films.</p> <p>Their talk \"Serverless Chaos\" discusses how chaos engineering is becoming a core competency required by teams to ensure that their users get the best experience of the product, but how do you apply chaos engineering approaches to Serverless architecture? In this talk they will explain the problem and demonstrate the solution to Serverless Chaos.</p> <p>First Time Attendees</p> <p>Here at LeedsDevops we understand that coming along to your first meetup can be an anxious experience, walking into a large room full of people can be daunting. So when you arrive at the meetup we'll have an additional small room for new attendees to make friends with other first time attendees. Then shortly before the start we'll show you into the main room helping make the whole experience less intimidating (but honestly there's nothing to worry about the LeedsDevops crowd is a friendly bunch). We'll also use this room as a quiet space between the talk for those that don't want to join the discussion.</p> <p>Refreshments</p> <p>We're continuing to expand the range of refreshments on offer, there will be a wide range of quality soft drinks, teas and coffees, water, craft beer, cider and wine - big thanks to our sponsors [Infinity Works](<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) for their support and sponsorship.</p> <p>Code Of Conduct</p> <p>Please note that we have an [anti harassment policy and code of conduct] (<a href=\"http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct\" class=\"linkified\">http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct</a>) in order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street opposite Leeds Bus Station. If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on [twitter @leedsdevops](<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>For more details see the event page on [leedsdevops.org.uk](<a href=\"http://www.leedsdevops.org.uk/post/2019-05-13-tuesday-21st-may-2019-at-the-odi-node-in-leeds/\" class=\"linkified\">http://www.leedsdevops.org.uk/post/2019-05-13-tuesday-21st-may-2019-at-the-odi-node-in-leeds/</a>)</p> "
+  description: "<p>Spring is well and truly here and on Tuesday 21st May 2019 so are we at the ODI Node in Leeds for fresh devops thoughts.</p> <p>* 6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>* 7:15 - 7:25 : Group updates/news/announcements<br/>* 7:25 - 8:05 : Non Toxic Work Environments<br/>* 8:05 - 8:20 : Intermission<br/>* 8:20 - 9:00 : Serverless Chaos<br/>* 9:00 - late : Social</p> <p>We start this meetup with a different knid of talk, as we know a large part of devops is about creating a culture of trust, callaboration and empathy with our fellow colleagues. Alex Stanhope – Cloud Architect &amp; DevOps Consultant from Lightenna in our first talk of the evening \"Non Toxic Work Environments\" describes that stress can be a fantastic healthy way to experience new challenges, grow and learn but without the right context, support and respite it can do real harm. In this session he'll look at the things we can all do to keep our workplaces happy and productive.</p> <p>Our second talk of the night is a duo from DAZN, Mick Roper and Tom Lloyd. Mick is a Software engineer and architect with 10 years experience. Worked in businesses of all shapes and sizes and is the un-crowned king of the summer bbq. Tom is a engineer at Dazn with a background in functional Scala microservices and modular React apps. He has previously worked for Sky on their Sky Mobile launch, as well as their identity services. In his spare time, you’ll often find him on a mountain or watching old films.</p> <p>Their talk \"Serverless Chaos\" discusses how chaos engineering is becoming a core competency required by teams to ensure that their users get the best experience of the product, but how do you apply chaos engineering approaches to Serverless architecture? In this talk they will explain the problem and demonstrate the solution to Serverless Chaos.</p> <p>First Time Attendees</p> <p>Here at LeedsDevops we understand that coming along to your first meetup can be an anxious experience, walking into a large room full of people can be daunting. So when you arrive at the meetup we'll have an additional small room for new attendees to make friends with other first time attendees. Then shortly before the start we'll show you into the main room helping make the whole experience less intimidating (but honestly there's nothing to worry about the LeedsDevops crowd is a friendly bunch). We'll also use this room as a quiet space between the talk for those that don't want to join the discussion.</p> <p>Refreshments</p> <p>We're continuing to expand the range of refreshments on offer, there will be a wide range of quality soft drinks, teas and coffees, water, craft beer, cider and wine - big thanks to our sponsors [Infinity Works](<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) for their support and sponsorship.</p> <p>Code Of Conduct</p> <p>Please note that we have an [anti harassment policy and code of conduct] (<a href=\"http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct\" class=\"linkified\">http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct</a>) in order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street opposite Leeds Bus Station. If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on [twitter @leedsdevops](<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>For more details see the event page on [leedsdevops.org.uk](<a href=\"http://www.leedsdevops.org.uk/post/2019-05-13-tuesday-21st-may-2019-at-the-odi-node-in-leeds/\" class=\"linkified\">http://www.leedsdevops.org.uk/post/2019-05-13-tuesday-21st-may-2019-at-the-odi-node-in-leeds/</a>)</p> "
   url: https://www.meetup.com/LeedsDevops/events/261431828/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/2/d/2/6/thumb_477851558.jpeg
@@ -71,6 +55,13 @@
   starts: 2019-05-23T18:00:00.0000000
   ends: 2019-05-23T20:00:00.0000000
   venue: The Coffee Bureau
+- name: Welcome One and All
+  description: "<p>Our first event :-). We'll be hanging, hang some drinks and talking some Swift/iOS for the first time. All ability levels and suggestions welcome.</p> "
+  url: https://www.meetup.com/Leeds-Sw-Meetup/events/261335922/
+  is-free: true
+  starts: 2019-05-25T13:00:00.0000000
+  ends: 2019-05-25T15:00:00.0000000
+  venue: Dock 29
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzhbkc/
@@ -122,6 +113,13 @@
   ends: 2019-06-03T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Keep the date
+  description: '<p>Details to come</p> '
+  url: https://www.meetup.com/Agile-Breakfast-Leeds/events/259921919/
+  is-free: true
+  starts: 2019-06-03T07:00:00.0000000
+  ends: 2019-06-03T09:00:00.0000000
+  venue: The Brew Society
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbhb/
@@ -585,6 +583,15 @@
   ends: 2019-11-06T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzpbpb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-11-11T07:00:00.0000000
+  ends: 2019-11-11T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzpbcc/
@@ -632,6 +639,14 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2020-04-16T18:00:00.0000000
   ends: 2020-04-16T21:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmybchbcc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-05-21T18:00:00.0000000
+  ends: 2020-05-21T21:00:00.0000000
   endorsed: true
 - name: 'Refugee Week: Public lecture by Gulwali Passarlay'
   description: >
