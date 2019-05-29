@@ -72,15 +72,6 @@
   starts: 2019-06-05T07:00:00.0000000
   ends: 2019-06-05T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Front End York - June event
-  description: '<p>Talks TBC</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/259742226/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-06-05T18:00:00.0000000
-  ends: 2019-06-05T20:00:00.0000000
-  venue: Stonegate Yard Bar & Brasserie
-  endorsed: true
 - name: Data Platform User Group (Performance Tuning, Kubernetes, DBA, SQL)
   description: '<p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Deadlocking for mere mortals (Jonathan Kehayias)<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – Kubernetes For The Microsoft Data Platform Professional (Chris Adkin)<br/>20:20 – 20:30 – Off t’pub.</p> <p>Deadlocking for mere mortals<br/>While troubleshooting deadlocking in SQL Server has gotten easier in SQL Server, it continues to be a constant source of questions in the forums online. This session will look at the most common deadlocks asked about on the forums, and how to troubleshoot them using the various methods available to DBA’s in SQL Server; including Trace Flags, SQL Trace, Event Notifications, and Extended Events</p> <p>About Jonathan Kehayias<br/>Jonathan is a SQL Server MVP and Microsoft Certified Master. He has presented at multiple conferences including PASS, SQLIntersection, SQLRally, SQLBits, and VMware Open Forum. In addition Jonathan teaches part of the SQLskills Immersion Events on Performance Tuning and on High Availability, and used to teach the SQL Server portion of the Microsoft Certified Master – SharePoint certification for Microsoft. Jonathan is also a Drill Sergeant in the U.S. Army Reserves, and did a tour of duty in Iraq in 2004. He’s married with two young children who he can often be found goofing off with.</p> <p>Email: Jonathan@SQLskills.com<br/>Website: <a href="http://www.SQLskills.com" class="linkified">http://www.SQLskills.com</a><br/>Full Bio: <a href="http://www.sqlskills.com/about/jonathan-kehayias/" class="linkified">http://www.sqlskills.com/about/jonathan-kehayias/</a><br/>Blog: <a href="http://www.SQLskills.com/blogs/Jonathan" class="linkified">http://www.SQLskills.com/blogs/Jonathan</a><br/>Twitter: <a href="http://twitter.com/SQLPoolBoy" class="linkified">http://twitter.com/SQLPoolBoy</a><br/>Microsoft MVP since 2007</p> <p>Chris Adkin | Kubernetes For The Microsoft Data Platform Professional</p> <p>With the announcement of SQL Server 2019 Big Data Clusters, Kubernetes is entering the world of the Microsoft data platform professional. This is a container orchestration framework, but what does this mean, why do you need this and what do you need to be aware of when using this new platform, attend this session to find all of this out.</p> '
   url: https://www.meetup.com/dataleeds/events/255664606/
@@ -88,14 +79,6 @@
   starts: 2019-06-06T16:30:00.0000000
   ends: 2019-06-06T19:30:00.0000000
   venue: Wizu Workspace
-- name: Codegarden debrief
-  description: '<p>Join us to discuss Codegarden 2019!</p> '
-  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzjbjb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2019-06-06T16:30:00.0000000
-  ends: 2019-06-06T19:30:00.0000000
-  venue: twentysix
 - name: C# for complete beginners / GitHub and Git for beginners
   description: "<p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Learn to Code with Layla Porter / Kevin Smith<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> <p>\U0001F449 **Learn to Code**</p> <p>This is intended for absolute beginners with a willingness to learn a new skill.</p> <p>This session will cover the fundamentals of Git and GitHub, but people can still hack on C# and get help from mentors.</p> <p>All you need is a laptop. (Windows, Linux or iOS - any operating system is fine)</p> <p>We will have food and drink to keep you going!</p> <p>If you would like to know some more about why learning C# is a good thing, here are some blogs :-)</p> <p><a href=\"http://www.bestprogramminglanguagefor.me/why-learn-c-sharp\" class=\"linkified\">http://www.bestprogramminglanguagefor.me/why-learn-c-sharp</a></p> <p><a href=\"https://mashable.com/2018/03/17/coding-course-class-bootcamp/?europe=true#pPzU2Cs4XGqF\" class=\"linkified\">https://mashable.com/2018/03/17/coding-course-class-bootcamp/?europe=true#pPzU2Cs4XGqF</a></p> "
   url: https://www.meetup.com/dotnetYork/events/260724506/
@@ -112,6 +95,14 @@
   starts: 2019-06-06T17:30:00.0000000
   ends: 2019-06-06T19:40:00.0000000
   venue: Pitcher & Piano
+- name: Codegarden debrief
+  description: "<p>Join us to discuss Codegarden 2019!</p> <p>Ali Graham - Why Danish salty liquorice is superior to the sweet one<br/>Tim Payne - How I won a robot hoover at the bingo. Oh and the new RFC process as well.</p> <p>We'll be there since 17:30 but feel free to join us at any time!</p> "
+  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzjbjb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
+  starts: 2019-06-06T17:59:00.0000000
+  ends: 2019-06-06T20:59:00.0000000
+  venue: twentysix
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbnb/
@@ -121,6 +112,21 @@
   ends: 2019-06-10T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: 'Avoiding The Security Brick & Embracing Collaborative Chaos '
+  description: '<p>SESSION ONE : Avoiding The Security Brick<br/>An exploration of some common scenarios when security teams and processes seriously impact product delivery and result in questionable security benefits, and some battle-proven techniques on how to work more effectively with security while delivering at pace</p> <p>SPEAKER: Chris Rutter.<br/>A Security Engineer / Transformation specialist who cut his teeth writing Java in Agile environments, then moved into Security Architecture and now helps teams secure their systems by making security technical rather than a tick box.</p> <p>SESSION TWO ; Embracing Collaborative Chaos</p> <p>Today’s systems are inherently complex, with some component parts often operating in or close to suboptimal or failure modes. Left unchecked, as complexity increases, the compounding of failure modes will inevitably lead to catastrophic system failure. Chaos Days help us address this risk by spending time deliberately inducing failures, then analysing the response.</p> <p>This session summarises our experience of running Chaos Days on a large scale platform. We’ll explore the what, why, how and when of running a Chaos Day.</p> <p>SPEAKER : Lyndsay Prewer Technical Delivery Manager at Equal Experts</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;<br/>Food and drink will be provided - we look forward to seeing you there!<br/>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> '
+  url: https://www.meetup.com/ExpertTalks-Leeds/events/254265577/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
+  starts: 2019-06-11T17:00:00.0000000
+  ends: 2019-06-11T20:00:00.0000000
+  venue: Lamberts yard,
+- name: Spotify for C# Developers
+  description: "<p>Peter Bull - Spotify for C# Developers</p> <p>With a broad range of platform development experience from WinForms, WPF, Silverlight, Windows Phone and Universal Windows Platform for his own work through to <a href=\"http://ASP.NET\" class=\"linkified\">http://ASP.NET</a> MVC as a web developer for tombola. Peter also has a breadth of experience working as a hobby with music service APIs including Microsoft's former music platforms and now Spotify.</p> <p>In this presentation he will talk about how to use the Spotify API as a C# Developer. Showing how to sign up, get credentials to browse music content with an access token and authenticate to view your own Spotify music library with a user token. He will demonstrate how to use the Spotify API directly or more easily using platform SDKs for .NET Standard and the Universal Windows Platform.</p> <p>Twitter: @rogueplanetoid</p> "
+  url: https://www.meetup.com/HaintonDotNetYorkshire/events/261481713/
+  is-free: true
+  starts: 2019-06-11T17:00:00.0000000
+  ends: 2019-06-11T19:00:00.0000000
+  venue: Duke Studios
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbqb/
@@ -200,6 +206,15 @@
   starts: 2019-07-03T06:00:00.0000000
   ends: 2019-07-03T09:00:00.0000000
   venue: Cafe Nero
+  endorsed: true
+- name: Front End York - July event
+  description: '<p>Talks TBC</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/259742226/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-07-03T18:00:00.0000000
+  ends: 2019-07-03T20:00:00.0000000
+  venue: Stonegate Yard Bar & Brasserie
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
