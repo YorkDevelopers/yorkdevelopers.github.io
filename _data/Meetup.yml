@@ -7,13 +7,6 @@
   ends: 2019-06-03T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
-- name: Keep the date
-  description: '<p>Details to come</p> '
-  url: https://www.meetup.com/Agile-Breakfast-Leeds/events/259921919/
-  is-free: true
-  starts: 2019-06-03T07:00:00.0000000
-  ends: 2019-06-03T09:00:00.0000000
-  venue: The Brew Society
 - name: Mastermind coding kata
   description: "<p>PLEASE NOTE No. 1: CHANGE OF LOCATION!<br/>Sky Betting and Gaming (Floor 3),<br/>6 Wellington Place, Leeds, LS1 4AP</p> <p>PLEASE NOTE No. 2: It's a TUESDAY not a Wednesday</p> <p>This month we will writing programs based around the Mastermind board game. See <a href=\"https://en.wikipedia.org/wiki/Mastermind_(board_game\" class=\"linkified\">https://en.wikipedia.org/wiki/Mastermind_(board_game</a>). There will be tasks suitable for both beginners and advanced coders. If possible please bring a laptop with your programming language of choice installed.</p> <p>NOTE: Food and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>Thanks in advance to David Betteridge (@da_betteridge) who will be our Magnus Magnusson for the evening. He'll be introducing the challenge and making sure we don't cheat!</p> <p>Please note: due to the event being held in a betting company we cannot allow anyone that is under 18 into the event. Apologies.</p> "
   url: https://www.meetup.com/Leeds-Code-Dojo/events/261511495/
@@ -118,6 +111,13 @@
   starts: 2019-06-13T17:30:00.0000000
   ends: 2019-06-13T19:30:00.0000000
   venue: Sky
+- name: Bitcoin & Crypto-currency discussion with drinks
+  description: '<p>Details<br/>We are meeting up for another informal discussion about bitcoin and other crypto-currencies.<br/>Meet like minded people and learn from others who are interested in crypto-currency.<br/>Arrive and leave when is convenient to you.<br/>For those of you who are only available in the early evening, you can come along before 7pm, as some of us will be there early.</p> <p>Do Feel free to bring drinks and the lovely food from the bar into the upper function room.</p> <p>Look forward to seeing you there!</p> '
+  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/261977364/
+  is-free: true
+  starts: 2019-06-13T18:00:00.0000000
+  ends: 2019-06-13T20:00:00.0000000
+  venue: Royal Oak
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyzjbsb/
