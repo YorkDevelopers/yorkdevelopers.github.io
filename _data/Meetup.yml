@@ -1,12 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbfb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-06-03T06:00:00.0000000
-  ends: 2019-06-03T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
 - name: Mastermind coding kata
   description: "<p>PLEASE NOTE No. 1: CHANGE OF LOCATION!<br/>Sky Betting and Gaming (Floor 3),<br/>6 Wellington Place, Leeds, LS1 4AP</p> <p>PLEASE NOTE No. 2: It's a TUESDAY not a Wednesday</p> <p>This month we will writing programs based around the Mastermind board game. See <a href=\"https://en.wikipedia.org/wiki/Mastermind_(board_game\" class=\"linkified\">https://en.wikipedia.org/wiki/Mastermind_(board_game</a>). There will be tasks suitable for both beginners and advanced coders. If possible please bring a laptop with your programming language of choice installed.</p> <p>NOTE: Food and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance.</p> <p>Thanks in advance to David Betteridge (@da_betteridge) who will be our Magnus Magnusson for the evening. He'll be introducing the challenge and making sure we don't cheat!</p> <p>Please note: due to the event being held in a betting company we cannot allow anyone that is under 18 into the event. Apologies.</p> "
   url: https://www.meetup.com/Leeds-Code-Dojo/events/261511495/
@@ -87,6 +78,15 @@
   starts: 2019-06-11T17:00:00.0000000
   ends: 2019-06-11T19:00:00.0000000
   venue: Duke Studios
+- name: York Code Dojo June Meetup - Regular Expressions
+  description: '<p>"I had a problem which I solved with regular expressions, I now have two problems!" This month will be writing a regular expression engine TDD style. There will be tasks suitable for both beginners and advanced coders. If possible please bring a laptop with your programming language of choice installed. NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/261996153/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2019-06-12T17:30:00.0000000
+  ends: 2019-06-12T19:30:00.0000000
+  venue: Room FT/112 York St John University
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbqb/
@@ -104,13 +104,6 @@
   starts: 2019-06-12T07:00:00.0000000
   ends: 2019-06-12T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Workshop on Machine Learning and Text
-  description: '<p>Dr Aaron Ecay will be leading a workshop on Machine Learning and text processing with Hidden Markov Model and possibly Neural Networks in Python.</p> <p>You will be able to work at your own pace on with others in a group.</p> <p>A laptop is recommended.</p> '
-  url: https://www.meetup.com/West-Yorkshire-Python-User-Group-WYPy/events/261734927/
-  is-free: true
-  starts: 2019-06-13T17:30:00.0000000
-  ends: 2019-06-13T19:30:00.0000000
-  venue: Sky
 - name: Bitcoin & Crypto-currency discussion with drinks
   description: '<p>Details<br/>We are meeting up for another informal discussion about bitcoin and other crypto-currencies.<br/>Meet like minded people and learn from others who are interested in crypto-currency.<br/>Arrive and leave when is convenient to you.<br/>For those of you who are only available in the early evening, you can come along before 7pm, as some of us will be there early.</p> <p>Do Feel free to bring drinks and the lovely food from the bar into the upper function room.</p> <p>Look forward to seeing you there!</p> '
   url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/261977364/
@@ -125,15 +118,6 @@
   starts: 2019-06-14T11:30:00.0000000
   ends: 2019-06-14T12:30:00.0000000
   venue: La Bottega Milanese
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbwb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-06-17T06:00:00.0000000
-  ends: 2019-06-17T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
 - name: YorkTechFest 2019 - Be involved in the next event!
   description: '<p>The first YorkTechFest 2018 event themed “A Showcase Of Tech Non-Profit Communities” was delivered on the evening of November 13th 2018. Over 80 people attended to listen to 10 speakers on tech topics.</p> <p>The YorkTechFest event is aimed at providing representation of the growing tech non-profit community in the City of York. This annual event is aimed at members of existing communities, new members and to promote cross pollination of innovation between existing groups.</p> <p>There was representation of many non-profit tech groups, including York Code Dojo, Agile York, Front End York, York Game Developers, Explore Labs, York Guild of Media Arts, York Hack Space and more…</p> <p>Were you there and would you like to influence and be part of the next community event?</p> <p>Come along to this informal gathering to see what we can do as a team. All welcome!</p> '
   url: https://www.meetup.com/YorkDevelopers/events/261416764/
@@ -142,6 +126,15 @@
   starts: 2019-06-17T18:00:00.0000000
   ends: 2019-06-17T20:00:00.0000000
   venue: Stonegate Yard Bar & Brasserie
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbwb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-06-17T06:00:00.0000000
+  ends: 2019-06-17T09:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
@@ -604,6 +597,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-11-21T19:00:00.0000000
   ends: 2019-11-21T22:00:00.0000000
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzpbhc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-11-25T07:00:00.0000000
+  ends: 2019-11-25T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
