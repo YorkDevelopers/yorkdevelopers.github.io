@@ -1,20 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbhb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-06-05T06:00:00.0000000
-  ends: 2019-06-05T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzjbhb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-06-05T07:00:00.0000000
-  ends: 2019-06-05T10:00:00.0000000
-  venue: La Bottega Milanese
 - name: Data Platform User Group (Performance Tuning, Kubernetes, DBA, SQL)
   description: '<p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Deadlocking for mere mortals (Jonathan Kehayias)<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – Kubernetes For The Microsoft Data Platform Professional (Chris Adkin)<br/>20:20 – 20:30 – Off t’pub.</p> <p>Deadlocking for mere mortals<br/>While troubleshooting deadlocking in SQL Server has gotten easier in SQL Server, it continues to be a constant source of questions in the forums online. This session will look at the most common deadlocks asked about on the forums, and how to troubleshoot them using the various methods available to DBA’s in SQL Server; including Trace Flags, SQL Trace, Event Notifications, and Extended Events</p> <p>About Jonathan Kehayias<br/>Jonathan is a SQL Server MVP and Microsoft Certified Master. He has presented at multiple conferences including PASS, SQLIntersection, SQLRally, SQLBits, and VMware Open Forum. In addition Jonathan teaches part of the SQLskills Immersion Events on Performance Tuning and on High Availability, and used to teach the SQL Server portion of the Microsoft Certified Master – SharePoint certification for Microsoft. Jonathan is also a Drill Sergeant in the U.S. Army Reserves, and did a tour of duty in Iraq in 2004. He’s married with two young children who he can often be found goofing off with.</p> <p>Email: Jonathan@SQLskills.com<br/>Website: <a href="http://www.SQLskills.com" class="linkified">http://www.SQLskills.com</a><br/>Full Bio: <a href="http://www.sqlskills.com/about/jonathan-kehayias/" class="linkified">http://www.sqlskills.com/about/jonathan-kehayias/</a><br/>Blog: <a href="http://www.SQLskills.com/blogs/Jonathan" class="linkified">http://www.SQLskills.com/blogs/Jonathan</a><br/>Twitter: <a href="http://twitter.com/SQLPoolBoy" class="linkified">http://twitter.com/SQLPoolBoy</a><br/>Microsoft MVP since 2007</p> <p>Chris Adkin | Kubernetes For The Microsoft Data Platform Professional</p> <p>With the announcement of SQL Server 2019 Big Data Clusters, Kubernetes is entering the world of the Microsoft data platform professional. This is a container orchestration framework, but what does this mean, why do you need this and what do you need to be aware of when using this new platform, attend this session to find all of this out.</p> '
   url: https://www.meetup.com/dataleeds/events/255664606/
@@ -151,6 +134,22 @@
   ends: 2019-06-19T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzjbzb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-06-19T07:00:00.0000000
+  ends: 2019-06-19T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Save The Date
+  description: '<p>This is a free event, open to all. There will be some beers, tea, coffee, soft drinks, and food provided. We will have vegetarian food, if you have any other dietary requirements or questions please send us a message.</p> <p>_______________________________</p> <p>★ The talks</p> <p>✩ Talk 1 - TBC</p> <p>✩ Talk 2 - TBC</p> <p>_______________________________</p> <p>★ Timings</p> <p>18:30 – Turn up, have a drink, a snack, and a chat (food, soft drinks, beer, coffee)<br/>19:00 – Talk 1 - TBC<br/>19:30 – A little break<br/>19:35 – Talk 2 - TBC<br/>20:10ish – Pop over to the pub for a chat and a drink</p> <p>_______________________________</p> <p>★ Sponsors</p> <p>Our sponsors make this monthly event possible, so please take the time to check them out, and thank them for their support.</p> <p>• Bruntwood - Platform (<a href="https://bruntwood.co.uk/our-locations/leeds/platform/" class="linkified">https://bruntwood.co.uk/our-locations/leeds/platform/</a>) – Platform is a reinvention of a Leeds landmark offering workspace for businesses of all sizes, right at the heart of the city. With a range of co-working desks, serviced offices and full floor plates, get the space that works for you. Join a new community of communicators, cultivators and collaborators.</p> <p>• Infinity Works (<a href="https://www.infinityworks.com/" class="linkified">https://www.infinityworks.com/</a>) - Infinity Works offer an unparalleled skillset across a broad range of engineering disciplines and business specialisms, making them capable of helping to deliver any project and overcome any challenge. Some areas of work are project &amp; product delivery, Managed Services, Organisational Optimisation, Consulting, and Training. They also offer great careers for leading Engineers and Technologists. @InfinityWorks (<a href="https://twitter.com/InfinityWorks" class="linkified">https://twitter.com/InfinityWorks</a>)</p> <p>• Searchability (<a href="https://searchability.co.uk/" class="linkified">https://searchability.co.uk/</a>) - Searchability are a recruitment marketing company that help companies secure hard to find candidates either indirectly or directly via our award winning JobHoller platform. There are few sectors more challenged by skill-shortage than digital tech, we specialise in sourcing unique opportunities &amp; engaging relevant candidate audiences across the IT &amp; eCommerce sectors by fusing traditional methods with a twist of social magic, with particular focus &amp; expertise within Software Development in Yorkshire, where it all started for us in 2012. @SearchabilityUK (<a href="https://twitter.com/SearchabilityUK" class="linkified">https://twitter.com/SearchabilityUK</a>)</p> '
+  url: https://www.meetup.com/leedsphp/events/262072446/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/3/c/e/thumb_464113262.jpeg
+  starts: 2019-06-19T17:30:00.0000000
+  ends: 2019-06-19T19:30:00.0000000
+  venue: Platform
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzjbbc/
@@ -611,6 +610,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-11-25T07:00:00.0000000
   ends: 2019-11-25T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzpbkc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-11-27T07:00:00.0000000
+  ends: 2019-11-27T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
