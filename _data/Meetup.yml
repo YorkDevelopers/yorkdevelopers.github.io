@@ -48,6 +48,13 @@
   starts: 2019-06-12T07:00:00.0000000
   ends: 2019-06-12T10:00:00.0000000
   venue: La Bottega Milanese
+- name: Workshop on Machine Learning and Text
+  description: '<p>Dr Aaron Ecay will be leading a workshop on Machine Learning and text processing with Hidden Markov Model and possibly Neural Networks in Python.</p> <p>You will be able to work at your own pace on with others in a group.</p> <p>A laptop is recommended.</p> '
+  url: https://www.meetup.com/West-Yorkshire-Python-User-Group-WYPy/events/261734927/
+  is-free: true
+  starts: 2019-06-13T17:30:00.0000000
+  ends: 2019-06-13T19:30:00.0000000
+  venue: Sky
 - name: Bitcoin & Crypto-currency discussion with drinks
   description: '<p>Details<br/>We are meeting up for another informal discussion about bitcoin and other crypto-currencies.<br/>Meet like minded people and learn from others who are interested in crypto-currency.<br/>Arrive and leave when is convenient to you.<br/>For those of you who are only available in the early evening, you can come along before 7pm, as some of us will be there early.</p> <p>Do Feel free to bring drinks and the lovely food from the bar into the upper function room.</p> <p>Look forward to seeing you there!</p> '
   url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/261977364/
@@ -87,6 +94,13 @@
   ends: 2019-06-17T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: 'Tech Contractor Networking: Leeds'
+  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
+  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyzjbxb/
+  is-free: true
+  starts: 2019-06-18T11:15:00.0000000
+  ends: 2019-06-18T11:45:00.0000000
+  venue: Banyan Bar Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbzb/
