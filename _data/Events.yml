@@ -431,15 +431,6 @@
   starts: 2019-07-08T21:30:00.0000000
   ends: 2019-07-08T23:30:00.0000000
   venue: Entirety Technologies
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbnb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-06-10T06:00:00.0000000
-  ends: 2019-06-10T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
 - name: 'Avoiding The Security Brick & Embracing Collaborative Chaos '
   description: '<p>SESSION ONE : Avoiding The Security Brick<br/>An exploration of some common scenarios when security teams and processes seriously impact product delivery and result in questionable security benefits, and some battle-proven techniques on how to work more effectively with security while delivering at pace</p> <p>SPEAKER: Chris Rutter.<br/>A Security Engineer / Transformation specialist who cut his teeth writing Java in Agile environments, then moved into Security Architecture and now helps teams secure their systems by making security technical rather than a tick box.</p> <p>SESSION TWO ; Embracing Collaborative Chaos</p> <p>Today’s systems are inherently complex, with some component parts often operating in or close to suboptimal or failure modes. Left unchecked, as complexity increases, the compounding of failure modes will inevitably lead to catastrophic system failure. Chaos Days help us address this risk by spending time deliberately inducing failures, then analysing the response.</p> <p>This session summarises our experience of running Chaos Days on a large scale platform. We’ll explore the what, why, how and when of running a Chaos Day.</p> <p>SPEAKER : Lyndsay Prewer Technical Delivery Manager at Equal Experts</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;<br/>Food and drink will be provided - we look forward to seeing you there!<br/>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> '
   url: https://www.meetup.com/ExpertTalks-Leeds/events/254265577/
@@ -481,13 +472,6 @@
   starts: 2019-06-12T07:00:00.0000000
   ends: 2019-06-12T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Workshop on Machine Learning and Text
-  description: '<p>Dr Aaron Ecay will be leading a workshop on Machine Learning and text processing with Hidden Markov Model and possibly Neural Networks in Python.</p> <p>You will be able to work at your own pace on with others in a group.</p> <p>A laptop is recommended.</p> '
-  url: https://www.meetup.com/West-Yorkshire-Python-User-Group-WYPy/events/261734927/
-  is-free: true
-  starts: 2019-06-13T17:30:00.0000000
-  ends: 2019-06-13T19:30:00.0000000
-  venue: Sky
 - name: Bitcoin & Crypto-currency discussion with drinks
   description: '<p>Details<br/>We are meeting up for another informal discussion about bitcoin and other crypto-currencies.<br/>Meet like minded people and learn from others who are interested in crypto-currency.<br/>Arrive and leave when is convenient to you.<br/>For those of you who are only available in the early evening, you can come along before 7pm, as some of us will be there early.</p> <p>Do Feel free to bring drinks and the lovely food from the bar into the upper function room.</p> <p>Look forward to seeing you there!</p> '
   url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/261977364/
@@ -510,7 +494,7 @@
   ends: 2019-06-14T12:30:00.0000000
   venue: La Bottega Milanese
 - name: YorkTechFest 2019 - Be involved in the next event!
-  description: '<p>The first YorkTechFest 2018 event themed “A Showcase Of Tech Non-Profit Communities” was delivered on the evening of November 13th 2018. Over 80 people attended to listen to 10 speakers on tech topics.</p> <p>The YorkTechFest event is aimed at providing representation of the growing tech non-profit community in the City of York. This annual event is aimed at members of existing communities, new members and to promote cross pollination of innovation between existing groups.</p> <p>There was representation of many non-profit tech groups, including York Code Dojo, Agile York, Front End York, York Game Developers, Explore Labs, York Guild of Media Arts, York Hack Space and more…</p> <p>Were you there and would you like to influence and be part of the next community event?</p> <p>Come along to this informal gathering to see what we can do as a team. All welcome!</p> '
+  description: '<p>The first YorkTechFest 2018 event themed “A Showcase Of Tech Non-Profit Communities” was delivered on the evening of November 13th 2018.</p> <p>The YorkTechFest event is aimed at providing representation of the growing tech non-profit communities in the City of York. This annual event is aimed at members of existing communities, new members and to promote cross pollination of innovation between existing groups.</p> <p>Over 80 people attended to listen to 10 speakers on tech topics - each speaker representing a tech non-profit community in York. There was representation of many non-profit tech groups, including York Code Dojo, Agile York, Front End York, York Game Developers, Explore Labs, York Guild of Media Arts, York Hack Space and more…</p> <p>Were you there and would you like to influence and be part of YorkTechFest 2019?</p> <p>Come along to this informal gathering to see what we can do together. We will have a retrospective on last years event and see what we can learn to deliver our next major tech community event in the City of York.</p> <p>See you there!</p> '
   url: https://www.meetup.com/YorkDevelopers/events/261416764/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -528,12 +512,12 @@
   venue: Cafe Nero
   endorsed: true
 - name: 'Tech Contractor Networking: Leeds'
-  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
+  description: '<p>*** WE HAVE MOVED ***</p> <p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>We will be hosting this onsite at 7th Floor Gallery House, The Headrow, Leeds, LS1 8DX</p> <p>Come along - we have cake!</p> '
   url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyzjbxb/
   is-free: true
   starts: 2019-06-18T11:15:00.0000000
   ends: 2019-06-18T11:45:00.0000000
-  venue: Banyan Bar Leeds
+  venue: Real Staffing
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbzb/
@@ -559,6 +543,12 @@
   starts: 2019-06-19T17:30:00.0000000
   ends: 2019-06-19T19:30:00.0000000
   venue: Platform
+- name: Digital North 14 - AI’m havin' a meet up in Yorkshire
+  url: https://www.meetup.com/Digital_North_/events/261132299/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/c/8/6/2/thumb_479031298.jpeg
+  starts: 2019-06-20T17:30:00.0000000
+  ends: 2019-06-20T19:30:00.0000000
 - name: CodeUp Leeds Meetup
   description: "<p>THE SIGN-UP PERIOD WILL START 2 WEEKS BEFORE THE EVENT. Please come back soon to reserve your spot!</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. To discuss any additional accessibility requirements you may have, please contact [masked].</p> "
   url: https://www.meetup.com/CodeUp-Leeds/events/dbcjtqyzjbbc/
@@ -575,12 +565,6 @@
   starts: 2019-06-20T18:00:00.0000000
   ends: 2019-06-20T21:00:00.0000000
   endorsed: true
-- name: Digital North 14 - AI’m havin' a meet up in Yorkshire
-  url: https://www.meetup.com/Digital_North_/events/261132299/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/c/8/6/2/thumb_479031298.jpeg
-  starts: 2019-06-20T18:30:00.0000000
-  ends: 2019-06-20T20:30:00.0000000
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbgc/
@@ -1042,6 +1026,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-11-27T07:00:00.0000000
   ends: 2019-11-27T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzqbdb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-12-02T07:00:00.0000000
+  ends: 2019-12-02T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
