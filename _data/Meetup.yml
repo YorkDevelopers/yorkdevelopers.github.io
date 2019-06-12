@@ -1,18 +1,3 @@
-- name: 'Avoiding The Security Brick & Embracing Collaborative Chaos '
-  description: '<p>SESSION ONE : Avoiding The Security Brick<br/>An exploration of some common scenarios when security teams and processes seriously impact product delivery and result in questionable security benefits, and some battle-proven techniques on how to work more effectively with security while delivering at pace</p> <p>SPEAKER: Chris Rutter.<br/>A Security Engineer / Transformation specialist who cut his teeth writing Java in Agile environments, then moved into Security Architecture and now helps teams secure their systems by making security technical rather than a tick box.</p> <p>SESSION TWO ; Embracing Collaborative Chaos</p> <p>Today’s systems are inherently complex, with some component parts often operating in or close to suboptimal or failure modes. Left unchecked, as complexity increases, the compounding of failure modes will inevitably lead to catastrophic system failure. Chaos Days help us address this risk by spending time deliberately inducing failures, then analysing the response.</p> <p>This session summarises our experience of running Chaos Days on a large scale platform. We’ll explore the what, why, how and when of running a Chaos Day.</p> <p>SPEAKER : Lyndsay Prewer Technical Delivery Manager at Equal Experts</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;<br/>Food and drink will be provided - we look forward to seeing you there!<br/>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> '
-  url: https://www.meetup.com/ExpertTalks-Leeds/events/254265577/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/0/3/thumb_455181251.jpeg
-  starts: 2019-06-11T17:00:00.0000000
-  ends: 2019-06-11T20:00:00.0000000
-  venue: Lamberts yard,
-- name: Spotify for C# Developers
-  description: "<p>Peter Bull - Spotify for C# Developers</p> <p>With a broad range of platform development experience from WinForms, WPF, Silverlight, Windows Phone and Universal Windows Platform for his own work through to <a href=\"http://ASP.NET\" class=\"linkified\">http://ASP.NET</a> MVC as a web developer for tombola. Peter also has a breadth of experience working as a hobby with music service APIs including Microsoft's former music platforms and now Spotify.</p> <p>In this presentation he will talk about how to use the Spotify API as a C# Developer. Showing how to sign up, get credentials to browse music content with an access token and authenticate to view your own Spotify music library with a user token. He will demonstrate how to use the Spotify API directly or more easily using platform SDKs for .NET Standard and the Universal Windows Platform.</p> <p>Twitter: @rogueplanetoid</p> "
-  url: https://www.meetup.com/HaintonDotNetYorkshire/events/261481713/
-  is-free: true
-  starts: 2019-06-11T17:00:00.0000000
-  ends: 2019-06-11T19:00:00.0000000
-  venue: Duke Studios
 - name: York Code Dojo June Meetup - Regular Expressions
   description: '<p>"I had a problem which I solved with regular expressions, I now have two problems!" This month will be writing a regular expression engine TDD style. There will be tasks suitable for both beginners and advanced coders. If possible please bring a laptop with your programming language of choice installed. NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/261996153/
@@ -39,6 +24,14 @@
   starts: 2019-06-12T07:00:00.0000000
   ends: 2019-06-12T10:00:00.0000000
   venue: La Bottega Milanese
+- name: Leeds Sharp Code Dojo
+  description: "<p>This a practical, fun, coding session. We'll be using the excellent codingame.com to practice and compete in a few coding puzzles.<br/>We'll start off with an easy puzzle and gradually move up.<br/>LS#ers are invited to bring their laptop, but you can also team up with other LS#ers. All skill levels welcome. Either you'll learn something new or can teach others how it's done.</p> <p>We'll do four 25 minute stints and head off for beers and chats after that.</p> <p>I will help if you register on codingame before hand so we can compete against eachother.</p> <p>First puzzle will be: <a href=\"https://www.codingame.com/training/easy/ascii-art\" class=\"linkified\">https://www.codingame.com/training/easy/ascii-art</a></p> <p>The other puzzle will be announced shortly.</p> "
+  url: https://www.meetup.com/Leeds-Sharp/events/262229013/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2019-06-12T17:30:00.0000000
+  ends: 2019-06-12T19:30:00.0000000
+  venue: Platform
 - name: Bitcoin & Crypto-currency discussion with drinks
   description: '<p>Details<br/>We are meeting up for another informal discussion about bitcoin and other crypto-currencies.<br/>Meet like minded people and learn from others who are interested in crypto-currency.<br/>Arrive and leave when is convenient to you.<br/>For those of you who are only available in the early evening, you can come along before 7pm, as some of us will be there early.</p> <p>Do Feel free to bring drinks and the lovely food from the bar into the upper function room.</p> <p>Look forward to seeing you there!</p> '
   url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/261977364/
@@ -78,13 +71,6 @@
   ends: 2019-06-17T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
-- name: 'Tech Contractor Networking: Leeds'
-  description: '<p>*** WE HAVE MOVED ***</p> <p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>We will be hosting this onsite at 7th Floor Gallery House, The Headrow, Leeds, LS1 8DX</p> <p>Come along - we have cake!</p> '
-  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyzjbxb/
-  is-free: true
-  starts: 2019-06-18T11:15:00.0000000
-  ends: 2019-06-18T11:45:00.0000000
-  venue: Real Staffing
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbzb/
