@@ -751,40 +751,6 @@
   starts: 2019-07-15T21:30:00.0000000
   ends: 2019-07-15T23:30:00.0000000
   venue: Entirety Technologies
-- name: York Code Dojo June Meetup - Regular Expressions
-  description: '<p>"I had a problem which I solved with regular expressions, I now have two problems!" This month will be writing a regular expression engine TDD style. There will be tasks suitable for both beginners and advanced coders. If possible please bring a laptop with your programming language of choice installed. NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/261996153/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2019-06-12T17:30:00.0000000
-  ends: 2019-06-12T19:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbqb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-06-12T06:00:00.0000000
-  ends: 2019-06-12T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzjbqb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-06-12T07:00:00.0000000
-  ends: 2019-06-12T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Leeds Sharp Code Dojo
-  description: "<p>This a practical, fun, coding session. We'll be using the excellent codingame.com to practice and compete in a few coding puzzles.<br/>We'll start off with an easy puzzle and gradually move up.<br/>LS#ers are invited to bring their laptop, but you can also team up with other LS#ers. All skill levels welcome. Either you'll learn something new or can teach others how it's done.</p> <p>We'll do four 25 minute stints and head off for beers and chats after that.</p> <p>I will help if you register on codingame before hand so we can compete against eachother.</p> <p>First puzzle will be: <a href=\"https://www.codingame.com/training/easy/ascii-art\" class=\"linkified\">https://www.codingame.com/training/easy/ascii-art</a></p> <p>The other puzzle will be announced shortly.</p> "
-  url: https://www.meetup.com/Leeds-Sharp/events/262229013/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
-  starts: 2019-06-12T17:30:00.0000000
-  ends: 2019-06-12T19:30:00.0000000
-  venue: Platform
 - name: Bitcoin & Crypto-currency discussion with drinks
   description: '<p>Details<br/>We are meeting up for another informal discussion about bitcoin and other crypto-currencies.<br/>Meet like minded people and learn from others who are interested in crypto-currency.<br/>Arrive and leave when is convenient to you.<br/>For those of you who are only available in the early evening, you can come along before 7pm, as some of us will be there early.</p> <p>Do Feel free to bring drinks and the lovely food from the bar into the upper function room.</p> <p>Look forward to seeing you there!</p> '
   url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/261977364/
@@ -824,6 +790,13 @@
   ends: 2019-06-17T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: 'Tech Contractor Networking: Leeds'
+  description: '<p>*** WE HAVE MOVED ***</p> <p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>We will be hosting this onsite at 7th Floor Gallery House, The Headrow, Leeds, LS1 8DX</p> <p>Come along - we have cake!</p> '
+  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyzjbxb/
+  is-free: true
+  starts: 2019-06-18T11:15:00.0000000
+  ends: 2019-06-18T11:45:00.0000000
+  venue: Real Staffing
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbzb/
@@ -856,7 +829,7 @@
   starts: 2019-06-20T17:30:00.0000000
   ends: 2019-06-20T19:30:00.0000000
 - name: CodeUp Leeds Meetup
-  description: "<p>THE SIGN-UP PERIOD WILL START 2 WEEKS BEFORE THE EVENT. Please come back soon to reserve your spot!</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. To discuss any additional accessibility requirements you may have, please contact [masked].</p> "
+  description: "<p>JUNE AGENDA</p> <p>* What is Cloud Computing and Why Should I Care? An Overview for the Uninitiated: in this introduction we will explore the what's and why's of cloud computing. What is it exactly? Why has it become such a big deal over the last decade? We will present an overview of cloud computing, introduce the key players in this space and how the cloud is employed by countless organisations to drive the modern IT industry at faster pace than ever before. Laptops will not be required.</p> <p>Join us on Slack if you want to chat with us or get any help outside of our regular meetups. Just follow the link below!</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. Please, make sure you've read our Code of Conduct: <a href=\"https://codeupleeds.github.io/codeofconduct\" class=\"linkified\">https://codeupleeds.github.io/codeofconduct</a>.</p> <p>To discuss any additional accessibility requirements you may have, please contact [masked].</p> <p>What is CodeUp?</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or on Slack.</p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
   url: https://www.meetup.com/CodeUp-Leeds/events/dbcjtqyzjbbc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
@@ -889,6 +862,14 @@
   ends: 2019-06-26T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzjbjc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-06-26T07:00:00.0000000
+  ends: 2019-06-26T10:00:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbcb/
@@ -1341,6 +1322,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-12-02T07:00:00.0000000
   ends: 2019-12-02T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzqbgb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-12-04T07:00:00.0000000
+  ends: 2019-12-04T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
