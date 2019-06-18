@@ -1,21 +1,3 @@
-- name: YorkTechFest 2019 - Be involved in the next event!
-  description: '<p>The first YorkTechFest 2018 event themed “A Showcase Of Tech Non-Profit Communities” was delivered on the evening of November 13th 2018.</p> <p>The YorkTechFest event is aimed at providing representation of the growing tech non-profit communities in the City of York. This annual event is aimed at members of existing communities, new members and to promote cross pollination of innovation between existing groups.</p> <p>Over 80 people attended to listen to 10 speakers on tech topics - each speaker representing a tech non-profit community in York. There was representation of many non-profit tech groups, including York Code Dojo, Agile York, Front End York, York Game Developers, Explore Labs, York Guild of Media Arts, York Hack Space and more…</p> <p>Were you there and would you like to influence and be part of YorkTechFest 2019?</p> <p>Come along to this informal gathering to see what we can do together. We will have a retrospective on last years event and see what we can learn to deliver our next major tech community event in the City of York.</p> <p>See you there!</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/261416764/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-06-17T18:00:00.0000000
-  ends: 2019-06-17T20:00:00.0000000
-  venue: Stonegate Yard Bar & Brasserie
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbwb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-06-17T06:00:00.0000000
-  ends: 2019-06-17T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
 - name: 'Tech Contractor Networking: Leeds'
   description: '<p>*** WE HAVE MOVED ***</p> <p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>We will be hosting this onsite at 7th Floor Gallery House, The Headrow, Leeds, LS1 8DX</p> <p>Come along - we have cake!</p> '
   url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyzjbxb/
@@ -104,8 +86,8 @@
   starts: 2019-06-26T17:30:00.0000000
   ends: 2019-06-26T19:30:00.0000000
   venue: The Hiscox Building
-- name: Mike James - TBA
-  description: '<p>Mikes James, Microsoft Cloud advocat from Microsoft: <a href="https://www.linkedin.com/in/micjames/" class="linkified">https://www.linkedin.com/in/micjames/</a> will be coming to speak with us about the recently announced Mobile backend as a service offerings in App Center. He will augment this with Logic Apps to power a Xamarin Forms app. The app itself has some new features from the latest 4.0 release, including the new CollectionView.</p> <p>NB: Mike is currently travelling. This description will be updated when he returns to the Uk</p> '
+- name: Mike James - Build global scale mobile apps with C#
+  description: '<p>Mikes James, Microsoft Cloud advocate from Microsoft: <a href="https://www.linkedin.com/in/micjames/" class="linkified">https://www.linkedin.com/in/micjames/</a> will be coming to speak with us about the recently announced Mobile backend as a service offerings in App Center. He will augment this with Logic Apps to power a Xamarin Forms app. The app itself has some new features from the latest 4.0 release, including the new CollectionView.</p> <p>Visual Studio App Center allows developers to ship better apps through a suit of functions including automated builds, testing, crash and analytics reporting as well as push notifications. I’ll quickly cover these existing features before moving onto to showing two new preview features released earlier this year; authentication and data.</p> <p>The addition of Authentication and Data to App Center takes it from a DevOps tool to a fully fledge Mobile Backend as a Service! This session has been created to help you understand you can get started with the new features in the context of Xamarin.Forms. I’ll also show how you can extend the functionality through Azure Logic Apps to create a global scale backend with zero lines of code.</p> <p>As experts, I’d love to hear your feedback as we look to add new features and functionality to App Center</p> <p>Agenda:<br/>18:30 Pizza, drinks &amp; chat<br/>19:00 Leeds Sharp introduction and industry news<br/>19:15 Kaizen Bits<br/>19:30 Design Pattern Recognition<br/>19:45 Break<br/>20:00 Main talk - Build global scale mobile apps with C#<br/>21:00 The Brewery Tap for drinks and chats</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/262169054/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
@@ -120,6 +102,14 @@
   starts: 2019-06-27T17:30:00.0000000
   ends: 2019-06-27T19:00:00.0000000
   venue: Piazza Building, University of York
+- name: Ministry of Testing Leeds - June 2019
+  description: "<p>Further details to follow but we can promise great food, talks and discussions as usual. Want to speak or need help to develop a topic? Would you like some feedback on an idea? Get in touch and we can help.</p> <p>6.00pm - 6.30pm: Networking and food</p> <p>6.30pm - 7.15pm: Talk: Cynicism Doesn’t Build Products (Gwen Diagram)</p> <p>7.15pm - 7.30pm: Break</p> <p>7.30pm - 8.15pm: Talk;</p> <p>8.30pm - Pub (Editor's Draft)</p> <p>Talk: Cynicism Doesn’t Build Products (Gwen Diagram):</p> <p>How many software products have you worked on that have been ruined by cynicism? Not just scepticism but downright cynicism. As a software tester, a large part of my role is to be a skeptic but sometimes this crosses over to cynicism. Identifying risks in code, architecture and products is helpful, dismissing ideas is not, especially as this behaviour can rapidly spread. What if the team becomes cynical? How can we break out of the cycle and actually start building software?</p> <p>It’s very common for a team to pick up a piece of software and look at what has been written and decide, it’s simply trash. People believe that it can be built better. That the tools that the seemingly legacy software was built in have been superseded and the product is no longer fit for purpose. Cynicism for what is deemed as legacy but optimism for the brave new world.</p> <p>Gwen will look at cynicism, scepticism, optimism and more as attitudes to building products, legacy and green field. She will identify some attitudes that help build, strong, long lasting products. If cynicism isn’t cool anymore, then what is?</p> <p>Gwen Diagram:</p> <p>Gwen Diagram is a technology professional from Leeds who specialises in testing. She is an avid automation evangelist with a focus on testing complemented by repeatable build processes with monitoring. She has had varied roles throughout her career including Scrum Master at a Start Up and DevOps kid at a large Financial Services organisation. She is the Lead Product Tester at Monzo, a challenger bank focusing on building a product with known quality, fast.</p> <p>As a strong believer in making the tech industry as open and punk as possible, she co-organises a twice yearly free day long testing conference called the Leeds Testing Atelier. She speaks regularly at local meet-up groups, Agile Yorkshire and Leeds DevOps, duels with creative types at events like the Tech Off, speaks internationally at conferences such as Nordic Testing Days in Tallinn and was the closing keynote at Agile on the Beach in Falmouth, UK in 2018.</p> <p>Outside of work, you will usually find her hanging around a Natural History Museum somewhere in the world marvelling at how incredibly excellent dinosaurs are, feeding pigeons or ducks or researching the latest thing she has decided she is obsessed with.</p> "
+  url: https://www.meetup.com/Ministry-of-Testing-Leeds/events/262237678/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/b/0/f/thumb_470671503.jpeg
+  starts: 2019-06-27T18:00:00.0000000
+  ends: 2019-06-27T20:00:00.0000000
+  venue: Infinity Works Consulting
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbcb/
@@ -129,6 +119,13 @@
   ends: 2019-07-01T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Keep the date
+  description: '<p>Details to come</p> '
+  url: https://www.meetup.com/Agile-Breakfast-Leeds/events/259921932/
+  is-free: true
+  starts: 2019-07-01T07:00:00.0000000
+  ends: 2019-07-01T09:00:00.0000000
+  venue: The Brew Society
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbfb/
@@ -583,6 +580,15 @@
   ends: 2019-12-04T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzqbmb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-12-09T07:00:00.0000000
+  ends: 2019-12-09T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzqbzb/
@@ -630,4 +636,12 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2020-05-21T18:00:00.0000000
   ends: 2020-05-21T21:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmybcjbxb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-06-18T18:00:00.0000000
+  ends: 2020-06-18T21:00:00.0000000
   endorsed: true
