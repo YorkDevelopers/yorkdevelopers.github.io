@@ -680,13 +680,383 @@
   starts: 2019-07-16T21:30:00.0000000
   ends: 2019-07-16T23:30:00.0000000
   venue: Entirety Technologies
-- name: 'Tech Contractor Networking: Leeds'
-  description: '<p>*** WE HAVE MOVED ***</p> <p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>We will be hosting this onsite at 7th Floor Gallery House, The Headrow, Leeds, LS1 8DX</p> <p>Come along - we have cake!</p> '
-  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyzjbxb/
-  is-free: true
-  starts: 2019-06-18T11:15:00.0000000
-  ends: 2019-06-18T11:45:00.0000000
-  venue: Real Staffing
+- name: Introduction to Apache Spark training for beginners in York, PA | End to End Spark Implementation training | Deploying Spark Applications, RDD, Spark Machine Learning Libraries (Spark MLib) Training | Spark Core, Spark SQL Training
+  description: >+
+    In this course we start at foundational level with Apache Spark technical essentials where you can learn the foundations of Apache Spark, master real-time data processing using Spark streaming, Spark SQL, Spark Machine Learning Libraries (Spark MLib) 
+
+
+    Course Schedule
+
+
+    This is a weekend course that will be held July 20 - August 11, 2019 US Pacific Time
+
+    The class sessions will be held-Saturday, Sunday every weekend for 4 weekends
+
+    9:00-11:00 AM US Pacific time, each day.
+
+    Please check your local date and time for first session.
+
+
+
+    Prerequisites
+
+
+    Exposure to knowledge of databases, SQL (Structured query language).
+
+    Basic knowledge of object-oriented programming.
+
+    Knowledge of Scala.
+
+
+
+    Course Features
+
+
+    4 weeks, 8 sessions, 16 hours of total LIVE Instruction
+
+    Training material, instructor handouts and access to useful resources on the cloud provided
+
+    Practical Hands on Lab exercises on cloud workstations provided
+
+    Actual code and scripts provided
+
+    Real-life Scenarios
+
+
+
+    Course Outline
+
+
+    Introduction to Spark
+
+    Spark Vs MapReduce
+
+    Spark Vs Hadoop
+
+    Spark Installation, Configuration, Shell
+
+    Spark and Resilient Distributed Datasets (RDD)
+
+    Batch and Real-Time Analytics with Apache Spark
+
+    Functional Programming
+
+    Spark Architecture
+
+    Collections
+
+    Object-Oriented Programming
+
+    Integrations
+
+    Spark Core
+
+    Persistence
+
+    Cassandra (NoSQL database)
+
+    Spark Integration with NoSQL (Cassandra) and Amazon EC2
+
+    Spark Streaming
+
+    Spark SQL
+
+    Spark MLLib
+
+    How to write and deploy Spark Applications
+
+    Spark Parallel Processing
+
+    Kafka
+
+    Spark performance
+
+    Scheduling and Partitioning
+
+
+
+    Refund Policy
+
+
+    100% refund can be applied if request is initiated 24 hours before the 1st course session.
+
+    If a class is rescheduled/cancelled by the organizer, registered students will be offered a credit towards any future course or a 100% refund.
+
+
+
+
+
+
+
+
+
+  url: https://www.eventbrite.com/e/introduction-to-apache-spark-training-for-beginners-in-york-pa-end-to-end-spark-implementation-tickets-63628068265?aff=ebapi
+  logo: https://cdn.evbuc.com/images/63963562/253710638063/1/original.20190615-232818?h=200&w=450&auto=compress&rect=0,11,954,477&s=d6f3c455a6b39007e26e71d8e2d5b322
+  starts: 2019-07-20T12:00:00.0000000
+  ends: 2019-07-20T14:00:00.0000000
+  venue: Entirety Technology
+- name: Introduction to MapReduce training for beginners in York, PA | Map Reduce Training for Beginners | Advanced MapReduce Training
+  description: >+
+    In this course we will introduce you to distributed data processing, how to use MapReduce to process large amounts of data. This course is focused on providing practical hands-on exercises. Students will learn to write MapReduce programs. Advanced Features of MapReduce will be covered as well. 
+
+
+    Course Schedule
+
+
+    This is a weekend course that will be held July 20 - August 11, 2019 US Pacific Time
+
+    The class sessions will be held-Saturday, Sunday every weekend
+
+    9:00-11:00 AM US Pacific time, each day.
+
+    Please check your local date and time for first session.
+
+
+
+    Prerequisite
+
+    Desired but not required - Exposure to, Working proficiency of Java, sql.
+
+     
+
+    Course Features
+
+
+    4 weeks, 8 sessions, 16 hours of total LIVE Instruction
+
+    Training material, instructor handouts and access to useful resources on the cloud provided
+
+    Practical Hands on Lab exercises on cloud workstations provided
+
+    Actual code and scripts provided
+
+    Real-life Scenarios
+
+
+
+    Course Outline
+
+
+    1. Introduction to MapReduce
+
+
+    MapReduce Overview
+
+    MapReduce in Hadoop
+
+    History of MapReduce
+
+    MapReduce applications
+
+    Data Flow in MapReduce
+
+    Map and Reduce operations
+
+    Job submission flow of MapReduce
+
+    Map Operation
+
+    Job Initialization
+
+    Task Assignment
+
+    Job Completion
+
+    Job Scheduling
+
+    Job Failures
+
+    Shuffle and sort
+
+    Word Count Problem, Flow and Solution
+
+    MapReduce Algorithms
+
+
+    2. Map Reduce Types and Formats
+
+
+    Data Types
+
+    File Formats
+
+    Input Formats
+
+    Output Formats
+
+    Explain the Driver, Mapper and Reducer code
+
+    Configuring development environment - Eclipse
+
+    Writing Unit Test
+
+    Running locally
+
+    Running on Cluster
+
+
+    3. Understanding MapReduce
+
+
+    Data Flow in MapReduce
+
+    MapReduce example
+
+    MapReduce Daemons
+
+    Job tracker
+
+    Task Tracker
+
+    Other phases in MapReduce
+
+    Data Flow in single, multiple and no reduce task
+
+
+    4. MapReduce with YARN
+
+
+    Hadoop Architecture
+
+    Problem with Hadoop 1.x, Hadoop 2.x features,
+
+    YARN MapReduce Application Execution Flow
+
+    YARN Workflow
+
+    Anatomy of MapReduce Program
+
+
+    5. Advanced MapReduce
+
+
+    Counters
+
+    Sorting
+
+    Input Splits in MapReduce
+
+    MapReduce Combiner
+
+    MapReduce Partitioner
+
+    MapReduce Distributed Cache
+
+    MRunit
+
+    Reduce Join
+
+    Joins - Map Side and Reduce Side
+
+    Custom Input Format
+
+    Sequence Input Format
+
+    Side Data Distribution
+
+
+
+    Refund Policy
+
+
+    100% refund can be applied if request is initiated 24 hours before the 1st course session.
+
+    If a class is rescheduled/cancelled by the organizer, registered students will be offered a credit towards any future course or a 100% refund.
+
+
+
+
+
+
+
+
+
+  url: https://www.eventbrite.com/e/introduction-to-mapreduce-training-for-beginners-in-york-pa-map-reduce-training-for-beginners-tickets-63670882323?aff=ebapi
+  logo: https://cdn.evbuc.com/images/64055388/253710638063/1/original.20190618-033554?h=200&w=450&auto=compress&rect=26,0,410,205&s=ae4bf0613abca67fa7fe102e082837ca
+  starts: 2019-07-20T12:00:00.0000000
+  ends: 2019-07-20T14:00:00.0000000
+  venue: Entirety Technology
+- name: Introduction to Android mobile app development Training in York, PA for Beginners | Android mobile app developer training | android programming training for beginners | android training bootcamp course
+  description: >+
+    This course is meant for beginners who have no experience with Android or Java. You will learn the basics of Android programming from scratch. You will be able to start building Android apps by the end of the course.
+
+
+    Weekends Only Class Schedule
+
+    This class will be held on weekends (Saturday and Sunday every week) from 9:00-11:00 am US Pacific time (PST) and/or local time each day beginning July 20 and ending on August 11, 2019. 
+
+    Please check your local date and time for first session
+
+
+    Total no. of training sessions - 8
+
+    2 sessions per weekend
+
+    4 weekends
+
+    2 hours per session
+
+
+
+    Course Overview
+
+    In this course you will learn basic Android development and programming concepts including Android mobile operating system and basic skills required to become a proficient mobile application developer by using Android development platform. You will also learn Android SDK, Android studion, app creation, main android components, android life cycle and debugging.
+
+
+    Who should attend
+
+    This class can be taken by professionals such as those who are interested in becoming android developers. It's helpful if you have at least some Java programming experience. Any inspiring mobile apps developer can also take this course. New application developers can also take this course.
+
+    However any one who has no programming background or mobile apps development background will also be able to get a lot of value out of this course. 
+
+
+    Course Outline
+
+    Unit 1: Get started
+
+    Lesson 1: Build your first app
+
+    1.1: Android Studio and Hello World1.2 Part A: Your first interactive UI1.2 Part B: The layout editor1.3: Text and scrolling views1.4: Learn to help yourself
+
+    Lesson 2: Activities and intents2.1: Activities and intents2.2: Activity lifecycle and state2.3: Implicit intents
+
+    Lesson 3: Testing, debugging, and using support libraries3.1: The debugger3.2: Unit tests3.3: Support libraries
+
+    Unit 2: User experience
+
+    Lesson 4: User interaction4.1: Clickable images4.2: Input controls4.3: Menus and pickers4.4: User navigation4.5: RecyclerView
+
+    Lesson 5: Delightful user experience5.1: Drawables, styles, and themes5.2: Cards and colors5.3: Adaptive layouts
+
+    Lesson 6:Testing your UI6.1: Espresso for UI testing
+
+    Unit 3: Working in the background
+
+    Lesson 7: Background tasks7.1: AsyncTask7.2: AsyncTask and AsyncTaskLoader7.3: Broadcast receivers
+
+    Lesson 8: Alarms and schedulers8.1: Notifications8.2: The alarm manager8.3: JobScheduler
+
+    Unit 4: Saving user data
+
+    Lesson 9: Preferences and settings9.1: Shared preferences9.2: App settings
+
+    Lesson 10: Storing data with Room10.1 Part A: Room, LiveData, and ViewModel10.1 Part B: Deleting data from a Room database
+
+
+    Refund Policy
+
+
+    100% refund can be applied if request is initiated 24 before the 1st course session
+
+    If a class is rescheduled/cancelled by the organizer, registered students will be offered a credit towards any future course or a 100% refund.
+
+
+
+  url: https://www.eventbrite.com/e/introduction-to-android-mobile-app-development-training-in-york-pa-for-beginners-android-mobile-app-tickets-63672538276?aff=ebapi
+  logo: https://cdn.evbuc.com/images/64058191/253710638063/1/original.20190507-012058?h=200&w=450&auto=compress&rect=0,13,1200,600&s=844b860230c110cf2a26b2467944215c
+  starts: 2019-07-20T12:00:00.0000000
+  ends: 2019-07-20T14:00:00.0000000
+  venue: Entirety Technology
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbzb/
@@ -712,12 +1082,6 @@
   starts: 2019-06-19T17:30:00.0000000
   ends: 2019-06-19T19:30:00.0000000
   venue: Platform
-- name: Digital North 14 - AI’m havin' a meet up in Yorkshire
-  url: https://www.meetup.com/Digital_North_/events/261132299/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/c/8/6/2/thumb_479031298.jpeg
-  starts: 2019-06-20T17:30:00.0000000
-  ends: 2019-06-20T19:30:00.0000000
 - name: CodeUp Leeds Meetup
   description: "<p>JUNE AGENDA</p> <p>* What is Cloud Computing and Why Should I Care? An Overview for the Uninitiated: in this introduction we will explore the what's and why's of cloud computing. What is it exactly? Why has it become such a big deal over the last decade? We will present an overview of cloud computing, introduce the key players in this space and how the cloud is employed by countless organisations to drive the modern IT industry at a faster pace than ever before. Laptops will not be required.</p> <p>Join us on Slack if you want to chat with us or get any help outside of our regular meetups. Just follow the link below!</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. Please, make sure you've read our Code of Conduct: <a href=\"https://codeupleeds.github.io/codeofconduct\" class=\"linkified\">https://codeupleeds.github.io/codeofconduct</a> .</p> <p>To discuss any additional accessibility requirements you may have, please contact [masked].</p> <p>What is CodeUp?</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or on Slack.</p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
   url: https://www.meetup.com/CodeUp-Leeds/events/dbcjtqyzjbbc/
@@ -768,6 +1132,14 @@
   starts: 2019-06-26T17:30:00.0000000
   ends: 2019-06-26T19:30:00.0000000
   venue: The Hiscox Building
+- name: Ministry of Testing Leeds - June 2019
+  description: "<p>We can promise great food, talks and discussions as usual. Want to speak or need help to develop a topic? Would you like some feedback on an idea? Get in touch and we can help. We can cover travel and accommodation if you have to travel to speak at our meetup.</p> <p>6.00pm - 630pm: Networking and food</p> <p>6.30pm - 715pm: Talk: Cynicism Doesn’t Build Products (Gwen Diagram)</p> <p>7.15pm - 730pm: Break</p> <p>7.30pm - 815pm: Autistic Accessibility (Matthew Parker)</p> <p>8.30pm - Pub (Editor's Draft)</p> <p>Talk: Cynicism Doesn’t Build Products (Gwen Diagram):</p> <p>How many software products have you worked on that have been ruined by cynicism? Not just scepticism but downright cynicism. As a software tester, a large part of my role is to be a skeptic but sometimes this crosses over to cynicism. Identifying risks in code, architecture and products is helpful, dismissing ideas is not, especially as this behaviour can rapidly spread. What if the team becomes cynical? How can we break out of the cycle and actually start building software?</p> <p>It’s very common for a team to pick up a piece of software and look at what has been written and decide, it’s simply trash. People believe that it can be built better. That the tools that the seemingly legacy software was built in have been superseded and the product is no longer fit for purpose. Cynicism for what is deemed as legacy but optimism for the brave new world.</p> <p>Gwen will look at cynicism, scepticism, optimism and more as attitudes to building products, legacy and green field. She will identify some attitudes that help build, strong, long lasting products. If cynicism isn’t cool anymore, then what is?</p> <p>Gwen Diagram:</p> <p>Gwen Diagram is a technology professional from Leeds who specialises in testing. She is an avid automation evangelist with a focus on testing complemented by repeatable build processes with monitoring. She has had varied roles throughout her career including Scrum Master at a Start Up and DevOps kid at a large Financial Services organisation. She is the Lead Product Tester at Monzo, a challenger bank focusing on building a product with known quality, fast.</p> <p>As a strong believer in making the tech industry as open and punk as possible, she co-organises a twice yearly free day long testing conference called the Leeds Testing Atelier. She speaks regularly at local meet-up groups, Agile Yorkshire and Leeds DevOps, duels with creative types at events like the Tech Off, speaks internationally at conferences such as Nordic Testing Days in Tallinn and was the closing keynote at Agile on the Beach in Falmouth, UK in 2018.</p> <p>Outside of work, you will usually find her hanging around a Natural History Museum somewhere in the world marvelling at how incredibly excellent dinosaurs are, feeding pigeons or ducks or researching the latest thing she has decided she is obsessed with.</p> <p>Talk: Autistic Accessibility (Matthew Parker)</p> <p>Description: Accessibility Testing is often looked at from the perspective of physical disabilities like vision impairment, motor skills etc. Whilst there is some overlap, considering accessibility for Autistic people requires thought and understanding of the challenges. It’s not a perfect science but is important if you genuinely want an inclusive product. This is an introduction to understanding and including consideration for Autistic Accessibility in your Accessibility approach.</p> <p>Matthew is a senior tester and coach currently in a contract at Bet365. Alongside our own Ady Stokes, he recently co-hosted a Ministry of Testing Power Hour on the Club.</p> <p>A dynamic tester, consultant and coach with over 17 years software experience, 15 of which spent working in testing roles including management he is dedicated to being an accessibility advocate and his focus on making a difference to the Autistic Community is inspired by his Autistic son.</p> "
+  url: https://www.meetup.com/Ministry-of-Testing-Leeds/events/262237678/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/b/0/f/thumb_470671503.jpeg
+  starts: 2019-06-27T17:00:00.0000000
+  ends: 2019-06-27T19:00:00.0000000
+  venue: Infinity Works Consulting
 - name: Mike James - Build global scale mobile apps with C#
   description: '<p>Mikes James, Microsoft Cloud advocate from Microsoft: <a href="https://www.linkedin.com/in/micjames/" class="linkified">https://www.linkedin.com/in/micjames/</a> will be coming to speak with us about the recently announced Mobile backend as a service offerings in App Center. He will augment this with Logic Apps to power a Xamarin Forms app. The app itself has some new features from the latest 4.0 release, including the new CollectionView.</p> <p>Visual Studio App Center allows developers to ship better apps through a suit of functions including automated builds, testing, crash and analytics reporting as well as push notifications. I’ll quickly cover these existing features before moving onto to showing two new preview features released earlier this year; authentication and data.</p> <p>The addition of Authentication and Data to App Center takes it from a DevOps tool to a fully fledge Mobile Backend as a Service! This session has been created to help you understand you can get started with the new features in the context of Xamarin.Forms. I’ll also show how you can extend the functionality through Azure Logic Apps to create a global scale backend with zero lines of code.</p> <p>As experts, I’d love to hear your feedback as we look to add new features and functionality to App Center</p> <p>Agenda:<br/>18:30 Pizza, drinks &amp; chat<br/>19:00 Leeds Sharp introduction and industry news<br/>19:15 Kaizen Bits<br/>19:30 Design Pattern Recognition<br/>19:45 Break<br/>20:00 Main talk - Build global scale mobile apps with C#<br/>21:00 The Brewery Tap for drinks and chats</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/262169054/
@@ -784,14 +1156,6 @@
   starts: 2019-06-27T17:30:00.0000000
   ends: 2019-06-27T19:00:00.0000000
   venue: Piazza Building, University of York
-- name: Ministry of Testing Leeds - June 2019
-  description: "<p>Further details to follow but we can promise great food, talks and discussions as usual. Want to speak or need help to develop a topic? Would you like some feedback on an idea? Get in touch and we can help.</p> <p>6.00pm - 6.30pm: Networking and food</p> <p>6.30pm - 7.15pm: Talk: Cynicism Doesn’t Build Products (Gwen Diagram)</p> <p>7.15pm - 7.30pm: Break</p> <p>7.30pm - 8.15pm: Talk;</p> <p>8.30pm - Pub (Editor's Draft)</p> <p>Talk: Cynicism Doesn’t Build Products (Gwen Diagram):</p> <p>How many software products have you worked on that have been ruined by cynicism? Not just scepticism but downright cynicism. As a software tester, a large part of my role is to be a skeptic but sometimes this crosses over to cynicism. Identifying risks in code, architecture and products is helpful, dismissing ideas is not, especially as this behaviour can rapidly spread. What if the team becomes cynical? How can we break out of the cycle and actually start building software?</p> <p>It’s very common for a team to pick up a piece of software and look at what has been written and decide, it’s simply trash. People believe that it can be built better. That the tools that the seemingly legacy software was built in have been superseded and the product is no longer fit for purpose. Cynicism for what is deemed as legacy but optimism for the brave new world.</p> <p>Gwen will look at cynicism, scepticism, optimism and more as attitudes to building products, legacy and green field. She will identify some attitudes that help build, strong, long lasting products. If cynicism isn’t cool anymore, then what is?</p> <p>Gwen Diagram:</p> <p>Gwen Diagram is a technology professional from Leeds who specialises in testing. She is an avid automation evangelist with a focus on testing complemented by repeatable build processes with monitoring. She has had varied roles throughout her career including Scrum Master at a Start Up and DevOps kid at a large Financial Services organisation. She is the Lead Product Tester at Monzo, a challenger bank focusing on building a product with known quality, fast.</p> <p>As a strong believer in making the tech industry as open and punk as possible, she co-organises a twice yearly free day long testing conference called the Leeds Testing Atelier. She speaks regularly at local meet-up groups, Agile Yorkshire and Leeds DevOps, duels with creative types at events like the Tech Off, speaks internationally at conferences such as Nordic Testing Days in Tallinn and was the closing keynote at Agile on the Beach in Falmouth, UK in 2018.</p> <p>Outside of work, you will usually find her hanging around a Natural History Museum somewhere in the world marvelling at how incredibly excellent dinosaurs are, feeding pigeons or ducks or researching the latest thing she has decided she is obsessed with.</p> "
-  url: https://www.meetup.com/Ministry-of-Testing-Leeds/events/262237678/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/b/0/f/thumb_470671503.jpeg
-  starts: 2019-06-27T18:00:00.0000000
-  ends: 2019-06-27T20:00:00.0000000
-  venue: Infinity Works Consulting
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbcb/
