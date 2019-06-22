@@ -1132,6 +1132,356 @@
   starts: 2019-08-06T15:00:00.0000000
   ends: 2019-08-29T16:00:00.0000000
   venue: Entirety Technology
+- name: Microsoft Dynamics (365) CRM Customization and Configuration Training in York, PA | Microsoft Dynamics CRM Training course bootcamp | MB-716 Certification Exam Preparation | Microsoft Dynamics CRM 2015 | 2016 | Online | On-premise | dynamics 365 sales
+  description: >
+    This course will teach you everything you need to know regarding customizing and configuring the Dynamics (365) CRM  system which meets the requirements of a Dynamics 365/CRM Project implementation for a company.
+
+    You will learn about the tools and techniques used to customize and configure Dynamics 365/CRM online and on-premise editions.
+
+    This course will also prepare you to pass the Dynamics 365/CRM MB-716 Customization and Configuration Certification exam.
+
+
+    Weekly Class Schedule
+
+    This class will be held on weekday evenings from 6:30-8:30 pm US Pacific time (PST) each day on Monday, Tuesday, Wednesday of every week beginning July 22 and ending on April August 7, 2019. 
+
+    Check your Local Date and Time for First Session
+
+
+    Course Outline
+
+    1. Introduction to Customizing and Configuring Microsoft Dynamics CRM
+
+
+    Course Introduction
+
+    Module Overview
+
+    CRM Overview
+
+    What is Dynamics CRM Customization and Configuration?
+
+    CRM Architecture
+
+    Customization Methodology
+
+    Module review
+
+    Obtaining a Dynamics CRM Trial
+
+
+    2. Manage Microsoft Dynamics CRM Online Subscriptions
+
+
+    Module Overview
+
+    Configuring CRM
+
+    Overview of CRM Security
+
+    User Administration
+
+    Mailboxes
+
+    Teams
+
+    Module Review
+
+    Configuring Dynamics CRM
+
+    Configure Business Units, Users, and Teams
+
+
+    3. Dynamics CRM Security Model
+
+
+    Module Overview
+
+    Purpose of the CCRM Security Model
+
+    Privileges
+
+    Access Levels
+
+    Security Roles
+
+    Hierarchy Security
+
+    Hierarchy Types
+
+    Module review
+
+    Configure Dynamics CRM Security
+
+
+    4. Introduction to Solutions
+
+
+    Module Overview
+
+    Solutions Overview
+
+    Solution Detail
+
+    Creating and Working with Solutions
+
+    Working with Solution Assets
+
+    Exporting Solutions
+
+    Importing Solutions
+
+    Module review
+
+
+    5. Entity and Customizations
+
+
+    Module Overview
+
+    Types Entities
+
+    Entity Ownership
+
+    Entity Properties
+
+    System vs Custom Entities
+
+    Custom Entities and Security Roles
+
+    Overview of Fields
+
+    Field Properties
+
+    Module review
+
+
+    6. Additional Field Customizations
+
+
+    Module Overview
+
+    Creating Fields to Meet Client Needs
+
+    Calculated Fields
+
+    Rollup Fields
+
+    CRM Option Sets
+
+    Alternate Keys
+
+    Field Level Security
+
+    State and Status Reason Transitions
+
+    Module Review
+
+
+    7. Configure Mobile Devices
+
+
+    Module Overview
+
+    Types of Relationships
+
+    How and where they are created
+
+    Many to Many Relationships
+
+    Hierarchical Data
+
+    Entity Mapping
+
+    Connection and Connection Roles
+
+    Module Review
+
+    Configure entities for mobile apps
+
+    Scenario
+
+    Connect to the CRM Online instance
+
+    Navigate to the default solution
+
+    Hide the fax field in CRM for Phones
+
+    Add the city field to CRM for Phones Express
+
+    Make the account entity read-only
+
+    Publish changes
+
+    Test the change to CRM for Phones Express
+
+    Test the changes to CRM for Phones and CRM for Tablets
+
+
+    8. Customizing Forms
+
+
+    Module Overview
+
+    Form types
+
+    Qualities of a good form
+
+    Building a Form
+
+    Specialized Form Components
+
+    Access Teams and Sub Grids
+
+    Working with Navigation
+
+    Additional Form Types
+
+    Multiple Forms
+
+    Form customizations and Mobile Clients
+
+    Module Review
+
+    Set default synchronization method
+
+    Scenario
+
+    Connect to the CRM Online instance
+
+    Navigate to the Email tab on System Settings
+
+    Change the default synchronization methods
+
+    Apply the defaults to existing mailboxes
+
+    Review approval settings
+
+    Scenario
+
+    Connect to the CRM Online instance
+
+    Navigate to the default solution
+
+    Review the approval settings
+
+
+    9. Business Rules
+
+
+    Module Overview
+
+    Business Rules
+
+    Business Rule Scope
+
+    Trigger Rules
+
+    Condition and Actions
+
+    Else Conditions and Actions Occur When Conditions Are True
+
+    Module review
+
+    Configure forward mailbox record
+
+    Scenario
+
+    Connect to the CRM Online instance
+
+    Navigate to mailboxes
+
+    Create the forward mailbox record
+
+    Review alerts
+
+    Scenario
+
+    Connect to the CRM Online instance
+
+    Navigate to a mailbox record and review alerts
+
+    Reject the email address
+
+    Approve the email address
+
+    Review alerts in the Sales area
+
+
+    10. Views and Visualizations
+
+
+    Module Overview
+
+    Using Views
+
+    View Customization
+
+    System View Types Quick Find
+
+    Customization Charts
+
+    Customizing Dashboard
+
+    Themes
+
+    Module Review
+
+
+    11. Introduction to Processes
+
+
+    Module Overview
+
+    Processes and Automation
+
+    Workflow Basics
+
+    Module review
+
+
+    12. Business Process Flows
+
+
+    What are CRM Business Process Flows
+
+    Enabling Business Process Flows
+
+    Steps Stages and Categories
+
+    Conditional Branching
+
+    Module Review
+
+
+    13. Bringing it all together
+
+
+    Module Overview
+
+    Review of Customization Topics Covered
+
+    Senario
+
+    Packaging in a Solution
+
+    Module review
+
+    Course Review
+
+
+
+    Refund Policy
+
+
+    100% refund can be applied if request is initiated 24 hours before the 1st course session.
+
+    If a class is rescheduled/cancelled by the organizer, registered students will be offered a credit towards any future course or a 100% refund.
+  url: https://www.eventbrite.com/e/microsoft-dynamics-365-crm-customization-and-configuration-training-in-york-pa-microsoft-dynamics-tickets-64033294307?aff=ebapi
+  logo: https://cdn.evbuc.com/images/64287021/253710638063/1/original.20190621-234527?h=200&w=450&auto=compress&rect=0,0,800,400&s=a0c78549ca29f41c6f455b126993c945
+  starts: 2019-07-22T21:30:00.0000000
+  ends: 2019-07-22T23:30:00.0000000
+  venue: Entirety Technology
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzjbgc/
@@ -1166,14 +1516,6 @@
   starts: 2019-06-26T17:30:00.0000000
   ends: 2019-06-26T19:30:00.0000000
   venue: The Hiscox Building
-- name: Ministry of Testing Leeds - June 2019
-  description: "<p>We can promise great food, talks and discussions as usual. Want to speak or need help to develop a topic? Would you like some feedback on an idea? Get in touch and we can help. We can cover travel and accommodation if you have to travel to speak at our meetup.</p> <p>6.00pm - 630pm: Networking and food</p> <p>6.30pm - 715pm: Talk: Cynicism Doesn’t Build Products (Gwen Diagram)</p> <p>7.15pm - 730pm: Break</p> <p>7.30pm - 815pm: Autistic Accessibility (Matthew Parker)</p> <p>8.30pm - Pub (Editor's Draft)</p> <p>Talk: Cynicism Doesn’t Build Products (Gwen Diagram):</p> <p>How many software products have you worked on that have been ruined by cynicism? Not just scepticism but downright cynicism. As a software tester, a large part of my role is to be a skeptic but sometimes this crosses over to cynicism. Identifying risks in code, architecture and products is helpful, dismissing ideas is not, especially as this behaviour can rapidly spread. What if the team becomes cynical? How can we break out of the cycle and actually start building software?</p> <p>It’s very common for a team to pick up a piece of software and look at what has been written and decide, it’s simply trash. People believe that it can be built better. That the tools that the seemingly legacy software was built in have been superseded and the product is no longer fit for purpose. Cynicism for what is deemed as legacy but optimism for the brave new world.</p> <p>Gwen will look at cynicism, scepticism, optimism and more as attitudes to building products, legacy and green field. She will identify some attitudes that help build, strong, long lasting products. If cynicism isn’t cool anymore, then what is?</p> <p>Gwen Diagram:</p> <p>Gwen Diagram is a technology professional from Leeds who specialises in testing. She is an avid automation evangelist with a focus on testing complemented by repeatable build processes with monitoring. She has had varied roles throughout her career including Scrum Master at a Start Up and DevOps kid at a large Financial Services organisation. She is the Lead Product Tester at Monzo, a challenger bank focusing on building a product with known quality, fast.</p> <p>As a strong believer in making the tech industry as open and punk as possible, she co-organises a twice yearly free day long testing conference called the Leeds Testing Atelier. She speaks regularly at local meet-up groups, Agile Yorkshire and Leeds DevOps, duels with creative types at events like the Tech Off, speaks internationally at conferences such as Nordic Testing Days in Tallinn and was the closing keynote at Agile on the Beach in Falmouth, UK in 2018.</p> <p>Outside of work, you will usually find her hanging around a Natural History Museum somewhere in the world marvelling at how incredibly excellent dinosaurs are, feeding pigeons or ducks or researching the latest thing she has decided she is obsessed with.</p> <p>Talk: Autistic Accessibility (Matthew Parker)</p> <p>Description: Accessibility Testing is often looked at from the perspective of physical disabilities like vision impairment, motor skills etc. Whilst there is some overlap, considering accessibility for Autistic people requires thought and understanding of the challenges. It’s not a perfect science but is important if you genuinely want an inclusive product. This is an introduction to understanding and including consideration for Autistic Accessibility in your Accessibility approach.</p> <p>Matthew is a senior tester and coach currently in a contract at Bet365. Alongside our own Ady Stokes, he recently co-hosted a Ministry of Testing Power Hour on the Club.</p> <p>A dynamic tester, consultant and coach with over 17 years software experience, 15 of which spent working in testing roles including management he is dedicated to being an accessibility advocate and his focus on making a difference to the Autistic Community is inspired by his Autistic son.</p> "
-  url: https://www.meetup.com/Ministry-of-Testing-Leeds/events/262237678/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/b/0/f/thumb_470671503.jpeg
-  starts: 2019-06-27T17:00:00.0000000
-  ends: 2019-06-27T19:00:00.0000000
-  venue: Infinity Works Consulting
 - name: Mike James - Build global scale mobile apps with C#
   description: '<p>Mikes James, Microsoft Cloud advocate from Microsoft: <a href="https://www.linkedin.com/in/micjames/" class="linkified">https://www.linkedin.com/in/micjames/</a> will be coming to speak with us about the recently announced Mobile backend as a service offerings in App Center. He will augment this with Logic Apps to power a Xamarin Forms app. The app itself has some new features from the latest 4.0 release, including the new CollectionView.</p> <p>Visual Studio App Center allows developers to ship better apps through a suit of functions including automated builds, testing, crash and analytics reporting as well as push notifications. I’ll quickly cover these existing features before moving onto to showing two new preview features released earlier this year; authentication and data.</p> <p>The addition of Authentication and Data to App Center takes it from a DevOps tool to a fully fledge Mobile Backend as a Service! This session has been created to help you understand you can get started with the new features in the context of Xamarin.Forms. I’ll also show how you can extend the functionality through Azure Logic Apps to create a global scale backend with zero lines of code.</p> <p>As experts, I’d love to hear your feedback as we look to add new features and functionality to App Center</p> <p>Agenda:<br/>18:30 Pizza, drinks &amp; chat<br/>19:00 Leeds Sharp introduction and industry news<br/>19:15 Kaizen Bits<br/>19:30 Design Pattern Recognition<br/>19:45 Break<br/>20:00 Main talk - Build global scale mobile apps with C#<br/>21:00 The Brewery Tap for drinks and chats</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/262169054/
