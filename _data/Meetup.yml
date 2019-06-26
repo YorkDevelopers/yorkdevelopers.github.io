@@ -31,14 +31,6 @@
   starts: 2019-06-27T17:30:00.0000000
   ends: 2019-06-27T19:30:00.0000000
   venue: Platform
-- name: ACCU York [June 2019] - Making a Regex engine (in C++)
-  description: "<p>At York Code Dojo this month we made a regex matcher. So for this months ACCU York I, Gareth Lloyd, will expand on the implementation that was made in those couple of hours. I'll go into the theory, design descissions and showcase some C++11/14/17....maybe even C++20.</p> <p>Come along, learn, critique and explore.</p> <p>**Please note the change in the room location.**</p> <p>----<br/>Thank you to University of York Computer Science department for finding us a place to meet<br/>Supported by YorkDevelopers<br/>ACCU York is an ACCU local group</p> "
-  url: https://www.meetup.com/ACCU-York/events/262284604/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/3/6/f/thumb_475438223.jpeg
-  starts: 2019-06-27T17:30:00.0000000
-  ends: 2019-06-27T19:00:00.0000000
-  venue: Piazza Building, University of York
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbcb/
@@ -48,6 +40,21 @@
   ends: 2019-07-01T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Keep the date
+  description: '<p>Details to come</p> '
+  url: https://www.meetup.com/Agile-Breakfast-Leeds/events/259921932/
+  is-free: true
+  starts: 2019-07-01T07:00:00.0000000
+  ends: 2019-07-01T09:00:00.0000000
+  venue: The Brew Society
+- name: Promiscuous Pairing
+  description: "<p>This July we'll be back at TransUnion (formerly Callcredit), doing an exercise based on Promiscuous Pairing. This is a kind of pair programming where you change partners regularly to promote learning and knowledge sharing by staying in the 'beginner's mindset'.</p> <p>We'll pick a fairly simple problem to work on, and have a go at it with three different partners. Maybe you'll try a new IDE, unit testing (or not), a new style of coding, even a new language!*</p> <p>As usual bring a laptop if you have one with your favorite development environment(s) set up. If you don't have one that's fine, there will be plenty between us.</p> <p>The night is suitable for any level of experience, but you'll need to know some programming if you want to get properly involved.</p> <p>There will be pizza from 6pm, and we're aiming for an early start so try and be here by 6:15pm.</p> <p>* Unfortunately we can't guarantee you partner will agree with where to put the curly braces. &gt;:-/ We'll have security on hand in case any serious arguments break out..</p> <p>Hope to see you then!</p> "
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/262611520/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2019-07-03T17:00:00.0000000
+  ends: 2019-07-03T20:00:00.0000000
+  venue: TransUnion
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbfb/
@@ -115,6 +122,20 @@
   ends: 2019-07-08T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Angular & Typescript For .NET Developers by Martin Randall
+  description: "<p>Angular is a Typescript-based open-source web application platform led by the Angular Team at Google that grew out of its predecessor, AngularJS. It is constantly being built upon and improved with a non-breaking, major release cadence of around 6 months.</p> <p>The presentation will be a quick tour around the Angular platform, using it to build a small sample application, along with a demonstration of some of the features of Typescript.</p> <p>Martin Randall -<br/>I've been a C# .Net developer for over 17 years, and I've found Angular to be a natural choice for a .Net developer over alternative application platforms such as React because it forms a framework that offers many features 'out-of-the-box' such as routing, a web API client library, form validation, and a powerful CLI tool for quickly scaffolding new applications and components. The MVC pattern used by the Component architecture will be very familiar to Asp.Net developers and Typescript brings a welcome addition to those that found Javascript frustrating in the past.</p> <p>I've been a developer for over 25 years, working in a variety of industries. I've spent the last 12 years as a freelance contract developer that has given me experience of working within many different teams on a wide range of projects. I've used Angular on a number of projects over the last 4 years.</p> "
+  url: https://www.meetup.com/HaintonDotNetYorkshire/events/261610745/
+  is-free: true
+  starts: 2019-07-09T17:00:00.0000000
+  ends: 2019-07-09T19:00:00.0000000
+  venue: Duke Studios
+- name: Bitcoin & Crypto-currency discussion with drinks
+  description: '<p>Details<br/>We are meeting up for another informal discussion about bitcoin and other crypto-currencies.<br/>Meet like minded people and learn from others who are interested in crypto-currency.<br/>Arrive and leave when is convenient to you.<br/>For those of you who are only available in the early evening, you can come along before 7pm, as some of us will be there early.</p> <p>Do Feel free to bring drinks and the lovely food from the bar into the upper function room.</p> <p>Look forward to seeing you there!</p> '
+  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/262388395/
+  is-free: true
+  starts: 2019-07-09T18:00:00.0000000
+  ends: 2019-07-09T20:00:00.0000000
+  venue: Royal Oak
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbnb/
