@@ -7,13 +7,6 @@
   ends: 2019-07-01T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
-- name: Agile, Coffee and Conversation
-  description: "<p>Conversation about anything agile and lean!</p> <p>Free hot drink - just tell the barista that you're with us. We meet in the back room. You can leave whenever you need to.</p> "
-  url: https://www.meetup.com/Agile-Breakfast-Leeds/events/259921932/
-  is-free: true
-  starts: 2019-07-01T07:00:00.0000000
-  ends: 2019-07-01T09:00:00.0000000
-  venue: The Brew Society
 - name: Promiscuous Pairing
   description: "<p>This July we'll be back at TransUnion (formerly Callcredit), doing an exercise based on Promiscuous Pairing. This is a kind of pair programming where you change partners regularly to promote learning and knowledge sharing by staying in the 'beginner's mindset'.</p> <p>We'll pick a fairly simple problem to work on, and have a go at it with three different partners. Maybe you'll try a new IDE, unit testing (or not), a new style of coding, even a new language!*</p> <p>As usual bring a laptop if you have one with your favorite development environment(s) set up. If you don't have one that's fine, there will be plenty between us.</p> <p>The night is suitable for any level of experience, but you'll need to know some programming if you want to get properly involved.</p> <p>There will be pizza from 6pm, and we're aiming for an early start so try and be here by 6:15pm.</p> <p>* Unfortunately we can't guarantee you partner will agree with where to put the curly braces. &gt;:-/ We'll have security on hand in case any serious arguments break out..</p> <p>Hope to see you then!</p> "
   url: https://www.meetup.com/Leeds-Code-Dojo/events/262611520/
@@ -55,14 +48,6 @@
   starts: 2019-07-03T18:00:00.0000000
   ends: 2019-07-03T20:00:00.0000000
   venue: Royal Oak
-- name: Umbraco Meetup
-  description: "<p>We have a monthly meetup for all things Umbraco related though you're welcome to talk about anything that takes your fancy that night.</p> <p>More details to come!</p> "
-  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzkbgb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2019-07-04T16:30:00.0000000
-  ends: 2019-07-04T19:30:00.0000000
-  venue: twentysix
 - name: Learn MongoDB
   description: "<p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Learn MongoDB with Kevin Smith<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> <p>\U0001F449 **Learn MongoDB**</p> <p>This is intended for people who want to learn MongoDB.</p> <p>All you need is a laptop. (Windows, Linux or iOS - any operating system is fine)</p> <p>More details TBC.</p> <p>We will have food and drink to keep you going!</p> "
   url: https://www.meetup.com/dotnetYork/events/260847232/
@@ -71,6 +56,14 @@
   starts: 2019-07-04T17:30:00.0000000
   ends: 2019-07-04T19:30:00.0000000
   venue: Trailight Boardroom
+- name: Umbraco Meetup - July Talks
+  description: "<p>July will be an evening of talks not strictly related to Umbraco but there is always time to talk Umbraco before and afterwards.</p> <p>Agenda:<br/>1800 - If you're super early, feel free to come and say hi.<br/>1830 - Open for social and mingling (+ food/drink)<br/>1900 - Talks<br/>2000 - Open social, venue TBC</p> <p>Suggested Icebreaker Question: \"Hey, so what do you think about 8.1?\"</p> <p>The Talks:<br/>Andy - Google Tag Manager<br/>Phil - The Yuzu Framework update.</p> <p>Other Info:<br/>Refreshments will be kindly provided by Enjoy. There's usually a mix of meat and veggie pizza plus assorted alcoholic and non-alcoholic drinks.</p> "
+  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzkbgb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
+  starts: 2019-07-04T17:30:00.0000000
+  ends: 2019-07-04T19:00:00.0000000
+  venue: Enjoy Digital
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkblb/
@@ -125,6 +118,13 @@
   starts: 2019-07-11T18:00:00.0000000
   ends: 2019-07-11T20:00:00.0000000
   venue: Sky
+- name: Crypto catchup (Friday)
+  description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
+  url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyzkbqb/
+  is-free: true
+  starts: 2019-07-12T11:30:00.0000000
+  ends: 2019-07-12T12:30:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbtb/
