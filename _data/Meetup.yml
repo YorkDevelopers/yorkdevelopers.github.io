@@ -1,12 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbcb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-07-01T06:00:00.0000000
-  ends: 2019-07-01T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
 - name: Promiscuous Pairing
   description: "<p>This July we'll be back at TransUnion (formerly Callcredit), doing an exercise based on Promiscuous Pairing. This is a kind of pair programming where you change partners regularly to promote learning and knowledge sharing by staying in the 'beginner's mindset'.</p> <p>We'll pick a fairly simple problem to work on, and have a go at it with three different partners. Maybe you'll try a new IDE, unit testing (or not), a new style of coding, even a new language!*</p> <p>As usual bring a laptop if you have one with your favorite development environment(s) set up. If you don't have one that's fine, there will be plenty between us.</p> <p>The night is suitable for any level of experience, but you'll need to know some programming if you want to get properly involved.</p> <p>There will be pizza from 6pm, and we're aiming for an early start so try and be here by 6:15pm.</p> <p>* Unfortunately we can't guarantee you partner will agree with where to put the curly braces. &gt;:-/ We'll have security on hand in case any serious arguments break out..</p> <p>Hope to see you then!</p> "
   url: https://www.meetup.com/Leeds-Code-Dojo/events/262611520/
@@ -33,7 +24,7 @@
   ends: 2019-07-03T10:00:00.0000000
   venue: La Bottega Milanese
 - name: UK Oracle APEX Meetup - Leeds - All Welcome
-  description: '<p>We are excited to be announcing our next Leeds APEX Meetup event and entry to this is FREE!</p> <p>This event will take place on:</p> <p>Wednesday 3rd July between 6.30 pm and 9.30 pm.</p> <p>Whether you have never used APEX before, are a seasoned developer or a student, come join us for the evening.</p> <p>This event will be held at The Adelphi Leeds.</p> <p>Presentations</p> <p>John Scott - Oracle XE 18c for APEX Developers</p> <p>Matt Mulvaney - Solutions to common APEX challenges</p> <p>Agenda</p> <p>6:30 - 7:00pm - Networking</p> <p>7:00 - 7:10pm - Welcome</p> <p>7:10 - 8:00pm - Presentation 1</p> <p>8:00 - 8:10pm - Break</p> <p>8:10 - 9:00pm - Presentation 2</p> <p>9:00 - 9:30pm - Networking and Close</p> <p>Are You Interested in Presenting?</p> <p>If you are interested in demonstrating some of your work at this or future Meetup events, please get in touch!</p> <p>Information</p> <p>You will find cheap parking opposite the venue after 6pm. The venue is only a few minutes walk from Leeds train station so hopefully this a great location for all.</p> <p>Food will not be provided so please grab something before you come.</p> <p>Space is limited so please make sure you RSVP.</p> <p>Unfortunately, your beer bill will be your own!</p> '
+  description: '<p>We are excited to be announcing our next Leeds APEX Meetup event and entry to this is FREE!</p> <p>This event will take place on:</p> <p>Wednesday 3rd July between 6.30 pm and 9.30 pm.</p> <p>Whether you have never used APEX before, are a seasoned developer or a student, come join us for the evening.</p> <p>This event will be held at The Adelphi Leeds.</p> <p>Presentations</p> <p>John Scott - Building Command Line Tools to Boost APEX and Database Development</p> <p>Matt Mulvaney - Solutions to common APEX challenges</p> <p>Agenda</p> <p>6:30 - 7:00pm - Networking</p> <p>7:00 - 7:10pm - Welcome</p> <p>7:10 - 8:00pm - Presentation 1</p> <p>8:00 - 8:10pm - Break</p> <p>8:10 - 9:00pm - Presentation 2</p> <p>9:00 - 9:30pm - Networking and Close</p> <p>Are You Interested in Presenting?</p> <p>If you are interested in demonstrating some of your work at this or future Meetup events, please get in touch!</p> <p>Information</p> <p>You will find cheap parking opposite the venue after 6pm. The venue is only a few minutes walk from Leeds train station so hopefully this a great location for all.</p> <p>Food will not be provided so please grab something before you come.</p> <p>Space is limited so please make sure you RSVP.</p> <p>Unfortunately, your beer bill will be your own!</p> '
   url: https://www.meetup.com/orclapex_uk/events/262066165/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/8/9/9/d/thumb_466355229.jpeg
@@ -87,6 +78,15 @@
   starts: 2019-07-09T18:00:00.0000000
   ends: 2019-07-09T20:00:00.0000000
   venue: Royal Oak
+- name: York Code Dojo July Meetup - TDD Kata
+  description: '<p>This month we will continue with our return to core "Code Dojo Values" theme by working on a classic Kata - TDD / pair programming style. There will be tasks suitable for both beginners and advanced coders. If possible please bring a laptop with your programming language of choice installed. NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/262774918/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2019-07-10T17:30:00.0000000
+  ends: 2019-07-10T20:30:00.0000000
+  venue: Room FT/112 York St John University
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbnb/
@@ -595,6 +595,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-12-19T19:00:00.0000000
   ends: 2019-12-19T22:00:00.0000000
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzqbfc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-12-23T07:00:00.0000000
+  ends: 2019-12-23T10:00:00.0000000
+  venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
