@@ -1,11 +1,11 @@
-- name: Promiscuous Pairing
-  description: "<p>This July we'll be back at TransUnion (formerly Callcredit), doing an exercise based on Promiscuous Pairing. This is a kind of pair programming where you change partners regularly to promote learning and knowledge sharing by staying in the 'beginner's mindset'.</p> <p>We'll pick a fairly simple problem to work on, and have a go at it with three different partners. Maybe you'll try a new IDE, unit testing (or not), a new style of coding, even a new language!*</p> <p>As usual bring a laptop if you have one with your favorite development environment(s) set up. If you don't have one that's fine, there will be plenty between us.</p> <p>The night is suitable for any level of experience, but you'll need to know some programming if you want to get properly involved.</p> <p>There will be pizza from 6pm, and we're aiming for an early start so try and be here by 6:15pm.</p> <p>* Unfortunately we can't guarantee you partner will agree with where to put the curly braces. &gt;:-/ We'll have security on hand in case any serious arguments break out..</p> <p>Hope to see you then!</p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/262611520/
+- name: Umbraco York User Group - First Meetup
+  description: '<p>We aim to be the social gathering of like-minded Umbracians for the City of York. The Umbraco York User Group is group which meets regularly to discuss all matters Umbraco. (<a href="https://umbraco.com/" class="linkified">https://umbraco.com/</a>)</p> <p>There will be presentations, hands-on sessions and just plain simple chat about the CMS platform we all love. If you are a Freelancer, Designer, Developer, Business Analyst, Software Tester, Content Editor or anyone who uses Umbraco and wants to learn more – you are very welcome to attend.</p> <p>In our first event we will be gathering together to see who is who and determine what our next meetup could be.</p> '
+  url: https://www.meetup.com/Umbraco-York-User-Group/events/262250099/
   is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2019-07-03T17:00:00.0000000
+  logo: https://secure.meetupstatic.com/photos/event/c/8/9/8/thumb_482151352.jpeg
+  starts: 2019-07-03T18:00:00.0000000
   ends: 2019-07-03T20:00:00.0000000
-  venue: TransUnion
+  venue: Royal Oak
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbfb/
@@ -23,6 +23,14 @@
   starts: 2019-07-03T07:00:00.0000000
   ends: 2019-07-03T10:00:00.0000000
   venue: La Bottega Milanese
+- name: Promiscuous Pairing
+  description: "<p>This July we'll be back at TransUnion (formerly Callcredit), doing an exercise based on Promiscuous Pairing. This is a kind of pair programming where you change partners regularly to promote learning and knowledge sharing by staying in the 'beginner's mindset'.</p> <p>We'll pick a fairly simple problem to work on, and have a go at it with three different partners. Maybe you'll try a new IDE, unit testing (or not), a new style of coding, even a new language!*</p> <p>As usual bring a laptop if you have one with your favorite development environment(s) set up. If you don't have one that's fine, there will be plenty between us.</p> <p>The night is suitable for any level of experience, but you'll need to know some programming if you want to get properly involved.</p> <p>There will be pizza from 6pm, and we're aiming for an early start so try and be here by 6:15pm.</p> <p>* Unfortunately we can't guarantee you partner will agree with where to put the curly braces. &gt;:-/ We'll have security on hand in case any serious arguments break out..</p> <p>Hope to see you then!</p> "
+  url: https://www.meetup.com/Leeds-Code-Dojo/events/262611520/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
+  starts: 2019-07-03T17:00:00.0000000
+  ends: 2019-07-03T20:00:00.0000000
+  venue: TransUnion
 - name: UK Oracle APEX Meetup - Leeds - All Welcome
   description: '<p>We are excited to be announcing our next Leeds APEX Meetup event and entry to this is FREE!</p> <p>This event will take place on:</p> <p>Wednesday 3rd July between 6.30 pm and 9.30 pm.</p> <p>Whether you have never used APEX before, are a seasoned developer or a student, come join us for the evening.</p> <p>This event will be held at The Adelphi Leeds.</p> <p>Presentations</p> <p>John Scott - Building Command Line Tools to Boost APEX and Database Development</p> <p>Matt Mulvaney - Solutions to common APEX challenges</p> <p>Agenda</p> <p>6:30 - 7:00pm - Networking</p> <p>7:00 - 7:10pm - Welcome</p> <p>7:10 - 8:00pm - Presentation 1</p> <p>8:00 - 8:10pm - Break</p> <p>8:10 - 9:00pm - Presentation 2</p> <p>9:00 - 9:30pm - Networking and Close</p> <p>Are You Interested in Presenting?</p> <p>If you are interested in demonstrating some of your work at this or future Meetup events, please get in touch!</p> <p>Information</p> <p>You will find cheap parking opposite the venue after 6pm. The venue is only a few minutes walk from Leeds train station so hopefully this a great location for all.</p> <p>Food will not be provided so please grab something before you come.</p> <p>Space is limited so please make sure you RSVP.</p> <p>Unfortunately, your beer bill will be your own!</p> '
   url: https://www.meetup.com/orclapex_uk/events/262066165/
@@ -31,22 +39,14 @@
   starts: 2019-07-03T17:30:00.0000000
   ends: 2019-07-03T20:30:00.0000000
   venue: Adelphi Hotel
-- name: Umbraco York User Group - First Meetup
-  description: '<p>We aim to be the social gathering of like-minded Umbracians for the City of York. The Umbraco York User Group is group which meets regularly to discuss all matters Umbraco. (<a href="https://umbraco.com/" class="linkified">https://umbraco.com/</a>)</p> <p>There will be presentations, hands-on sessions and just plain simple chat about the CMS platform we all love. If you are a Freelancer, Designer, Developer, Business Analyst, Software Tester, Content Editor or anyone who uses Umbraco and wants to learn more – you are very welcome to attend.</p> <p>In our first event we will be gathering together to see who is who and determine what our next meetup could be.</p> '
-  url: https://www.meetup.com/Umbraco-York-User-Group/events/262250099/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/c/8/9/8/thumb_482151352.jpeg
-  starts: 2019-07-03T18:00:00.0000000
-  ends: 2019-07-03T20:00:00.0000000
-  venue: Royal Oak
 - name: Learn MongoDB
-  description: "<p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Learn MongoDB with Kevin Smith<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> <p>\U0001F449 **Learn MongoDB**</p> <p>This is intended for people who want to learn MongoDB.</p> <p>All you need is a laptop. (Windows, Linux or iOS - any operating system is fine)</p> <p>More details TBC.</p> <p>We will have food and drink to keep you going!</p> "
+  description: "<p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Learn MongoDB with Kevin Smith<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> <p>\U0001F449 **Learn MongoDB**</p> <p>This is intended for people who want to learn MongoDB.</p> <p>All you need is a laptop. (Windows, Linux or iOS - any operating system is fine)</p> <p>We will have food and drink to keep you going!</p> "
   url: https://www.meetup.com/dotnetYork/events/260847232/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
   starts: 2019-07-04T17:30:00.0000000
   ends: 2019-07-04T19:30:00.0000000
-  venue: Trailight Boardroom
+  venue: Langleys Solicitors
 - name: Umbraco Meetup - July Talks
   description: "<p>July will be an evening of talks not strictly related to Umbraco but there is always time to talk Umbraco before and afterwards.</p> <p>Agenda:<br/>1800 - If you're super early, feel free to come and say hi.<br/>1830 - Open for social and mingling (+ food/drink)<br/>1900 - Talks<br/>2000 - Open social, venue TBC</p> <p>Suggested Icebreaker Question: \"Hey, so what do you think about 8.1?\"</p> <p>The Talks:<br/>Andy - Google Tag Manager<br/>Phil - The Yuzu Framework update.</p> <p>Other Info:<br/>Refreshments will be kindly provided by Enjoy. There's usually a mix of meat and veggie pizza plus assorted alcoholic and non-alcoholic drinks.</p> "
   url: https://www.meetup.com/umbLeeds/events/ltvqhqyzkbgb/
@@ -134,6 +134,14 @@
   ends: 2019-07-15T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: 'YorkSwift Monthly Meetup  #011 - WWDC 2019 Roundup'
+  description: "<p>WWDC 2019 was a busy event, there are lots of things to talk about! Come share your favourite announcements and sessions.</p> <p><a href=\"https://developer.apple.com/videos/wwdc2019/\" class=\"linkified\">https://developer.apple.com/videos/wwdc2019/</a></p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - WWDC</p> <p>Baring the obvious SwiftUI announcement, let's look at some other things which were announced this year at WWDC.</p> <p><a href=\"https://developer.apple.com/videos/wwdc2019/\" class=\"linkified\">https://developer.apple.com/videos/wwdc2019/</a></p> <p>### \U0001F680 Topic - SwiftUI</p> <p>Lets have a play together with some live coding examples and discuss how SwiftUI will affect your future of app development.</p> <p><a href=\"https://developer.apple.com/xcode/swiftui/\" class=\"linkified\">https://developer.apple.com/xcode/swiftui/</a></p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
+  url: https://www.meetup.com/YorkSwift/events/262773592/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/7/9/c/thumb_472007004.jpeg
+  starts: 2019-07-16T18:00:00.0000000
+  ends: 2019-07-16T20:00:00.0000000
+  venue: The Coffee Bureau
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbwb/
