@@ -1,19 +1,3 @@
-- name: Learn MongoDB
-  description: "<p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Learn MongoDB with Kevin Smith<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> <p>\U0001F449 **Learn MongoDB**</p> <p>This is intended for people who want to learn MongoDB.</p> <p>All you need is a laptop. (Windows, Linux or iOS - any operating system is fine)</p> <p>We will have food and drink to keep you going!</p> "
-  url: https://www.meetup.com/dotnetYork/events/260847232/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/1/9/4/thumb_464880404.jpeg
-  starts: 2019-07-04T17:30:00.0000000
-  ends: 2019-07-04T19:30:00.0000000
-  venue: Langleys Solicitors
-- name: Umbraco Meetup - July Talks
-  description: "<p>July will be an evening of talks not strictly related to Umbraco but there is always time to talk Umbraco before and afterwards.</p> <p>Agenda:<br/>1800 - If you're super early, feel free to come and say hi.<br/>1830 - Open for social and mingling (+ food/drink)<br/>1900 - Talks<br/>2000 - Open social, venue TBC</p> <p>Suggested Icebreaker Question: \"Hey, so what do you think about 8.1?\"</p> <p>The Talks:<br/>Andy - Google Tag Manager<br/>Phil - The Yuzu Framework update.</p> <p>Other Info:<br/>Refreshments will be kindly provided by Enjoy. There's usually a mix of meat and veggie pizza plus assorted alcoholic and non-alcoholic drinks.</p> "
-  url: https://www.meetup.com/umbLeeds/events/ltvqhqyzkbgb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/7/0/d/3/thumb_472408883.jpeg
-  starts: 2019-07-04T17:30:00.0000000
-  ends: 2019-07-04T19:00:00.0000000
-  venue: Enjoy Digital
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkblb/
@@ -71,7 +55,7 @@
   ends: 2019-07-10T20:00:00.0000000
   venue: Wizu Workspace
 - name: 'Sitegeist: Open source twitter sentiment analysis within a geofence.'
-  description: "<p>This is a project started by Code for Lancaster, a civic technology meetup from the other side of the pennines. It provides a simple, live sentiment analysis dashboard of tweets drawn from within a fixed geographic area. There will be a brief talk about sentiment analysis and how the project works, and the remainder of the session will be a workshop where we will break into teams to try and tackle some of the project's open issues on github.</p> <p>Currently the project is in it's infancy and very simple. There will be opportunities for very small contributions, or even non-python contributions (e.g. HTML, CSS, JS).</p> <p>** IF YOU WANT TO CONTRIBUTE PLEASE SIGN UP FOR A TWITTER DEVELOPER ACCOUNT, AND CREATE AN APP AT <a href=\"https://developer.twitter.com/en/apps\" class=\"linkified\">https://developer.twitter.com/en/apps</a> TO GET SOME API KEYS. THIS MUST BE DONE IN ADVANCE BECAUSE TWITTER TAKES A COUPLE OF DAYS TO PROCESS THESE REQUESTS **</p> <p>Doors open at 18:30 and event starts at 19:00.</p> "
+  description: "<p>This is a project started by Code for Lancaster, a civic technology meetup from the other side of the pennines. It provides a simple, live sentiment analysis dashboard of tweets drawn from within a fixed geographic area. There will be a brief talk about sentiment analysis and how the project works, and the remainder of the session will be a workshop where we will break into teams to try and tackle some of the project's open issues on github.</p> <p>Currently the project is in it's infancy and very simple. There will be opportunities for very small contributions, or even non-python contributions (e.g. HTML, CSS, JS).</p> <p>** IF YOU WANT TO CONTRIBUTE PLEASE SIGN UP FOR A TWITTER DEVELOPER ACCOUNT, AND CREATE AN APP AT <a href=\"https://developer.twitter.com/en/apps\" class=\"linkified\">https://developer.twitter.com/en/apps</a> TO GET SOME API KEYS. THIS MUST BE DONE IN ADVANCE BECAUSE TWITTER TAKES A COUPLE OF DAYS TO PROCESS THESE REQUESTS **</p> <p>Code base <a href=\"https://github.com/CodeforLancaster/sitegeist\" class=\"linkified\">https://github.com/CodeforLancaster/sitegeist</a></p> <p>Doors open at 18:30 and event starts at 19:00.</p> "
   url: https://www.meetup.com/West-Yorkshire-Python-User-Group-WYPy/events/262680188/
   is-free: true
   starts: 2019-07-11T18:00:00.0000000
@@ -118,6 +102,14 @@
   starts: 2019-07-17T07:00:00.0000000
   ends: 2019-07-17T10:00:00.0000000
   venue: La Bottega Milanese
+- name: CodeUp Leeds Meetup
+  description: "<p>THE SIGN-UP PERIOD WILL START 2 WEEKS BEFORE THE EVENT. Please come back soon to reserve your spot!</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. To discuss any additional accessibility requirements you may have, please contact [masked].</p> "
+  url: https://www.meetup.com/CodeUp-Leeds/events/dbcjtqyzkbxb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
+  starts: 2019-07-18T17:45:00.0000000
+  ends: 2019-07-18T20:00:00.0000000
+  venue: 3rd Floor, Apsley House
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzkbxb/
