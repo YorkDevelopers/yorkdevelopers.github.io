@@ -3180,6 +3180,529 @@
   starts: 2019-08-06T21:30:00.0000000
   ends: 2019-08-06T23:30:00.0000000
   venue: Entirety Technology
+- name: IoT Training in York | internet of things training | Introduction to IoT training for beginners | Getting started with IoT | What is IoT? Why IoT? Smart Devices Training, Smart homes, Smart homes, Smart cities
+  description: >
+    This training begins with an Introduction to IoT (Internet of Things), where and how IoT is being implemented today, IoT potential to transform the world as we know it, IoT architecture, different devices and technologies which can be part of an IoT solution and more. 
+
+
+    What is IoT?
+
+    IoT (Internet of Things) is a system of interconnected devices and things such as computing machines, mechanical, digital machines, objects, animals that are connected over the internet. These devices and things can transfer data over a network without requiring human-to-human or human-to-computer interaction. The built-in technology in the objects helps them interact with internal states or the external environment, which in turn affects the decisions taken.
+
+
+    What are the Course Objectives?
+
+
+    Complete knowledge of IoT technology.
+
+    Learn features, benefits, core concepts, background technologies of IoT.
+
+    Understand sensors, communication interfaces microcontrollers to design and build IoT devices.
+
+    Understand how to construct prevalent computing architectures.
+
+
+
+    Who should take this Course?
+
+    • Working Professionals who are interested in learning IoT.• Solution Architects, Technical Architects, Software Developers and those who are seeking IoT knowledge
+
+
+    Prerequisites
+
+    • Familiarity with Computer concepts, basics of Linux and Python
+
+
+    Course Outline
+
+    1. Introduction
+
+
+    What is IoT?
+
+    How is IoT applied in various domains?
+
+    Use cases ranging from Smart Cities to IoT
+
+    How large is the IoT Market in various domains?
+
+
+    2. IoT Architecture
+
+
+    IoT Technology Stack
+
+    Sensors and Actuators
+
+    Hardware Platforms
+
+    Wireless Communication Protocols
+
+    Network Communication Protocols
+
+    Cloud, its components and IoT
+
+    Data Streaming in IoT
+
+    Data Store and IoT
+
+    Analytics & Visualization for IoT
+
+
+    3. Sensor and Actuator
+
+
+    What is Sensor, what is Actuator?
+
+    What is a suitable sensor?
+
+    Properties of Sensors and their classifications
+
+    Types of Sensors and Actuators
+
+    How do typical Sensors and Actuators work?
+
+    Categories of sensors - Commercial, Industrial, Military, Medical, Food grade sensors
+
+    Selecting a sensor for your use case
+
+    IoT Hardware Platform & comparison
+
+    Criteria for choosing a Hardware platform
+
+
+    4. Overview of Raspberry pi and Arduino Hardware
+
+
+    Introduction to Raspberry Pi
+
+    Introduction to Arduino Open Source Microcontroller Platform
+
+    Schematics, PCB Design Tools and prototyping steps
+
+    Raspberry Pi and Arduino Board Layout & Architecture
+
+    Why Raspberry Pi?
+
+    Why Arduino?
+
+
+    5. Fundamentals of Programming with Arduino
+
+
+    Learn to program Arduino with Arduino IDE
+
+    Learn to make your Arduino respond to sensors and actuators
+
+    Reading data from analog and Digital Sensors
+
+    Writing data to analog (PWM)
+
+    How to write data to Digital Actuators
+
+
+    6. How to Interface Sensors and Actuators with Hardware
+
+
+    How to connect sensors to Arduino to read data from sensors and display data such as Temperature, Humidity, Distance, Light, Moisture, Gas (Methane and Alcohol), Proximity, Motion) on the serial monitor.
+
+    Connecting actuator to Arduino and controlling Actuator via LED, Relay, Push button, Buzzer
+
+    Controlling a motor (actuator) by sensing Temperature
+
+    Controlling a buzzer using Ultrasonic ranger
+
+    PIR (Human presence) - (Combining sensors to avoid false alarms)
+
+    Using moisture sensor to control sprinklers using relay by sensing moisture in the soil.
+
+
+    7. How to Program Raspberry Pi board
+
+
+    How to work with Raspberry Pi 3 Model
+
+    How to install OS and design Systems using Raspberry pi
+
+    How to configure Raspberry Pi for VNC Connection
+
+
+    8. Introduction to Linux Operating System
+
+
+    Linux commands and uses
+
+
+    9. How to get started with Python
+
+
+    Variables, Functions, Control Structure
+
+    File Handling in Python and Importing or Exporting Data
+
+
+    10. Interface sensor and Actuator with Raspberry Pi
+
+    11. IoT Communication Protocol
+
+    12. IoT Wireless Protocols
+
+
+    RFID, NFC, Blue Tooth, BLE, ZigBee, and Zwave Mesh network
+
+    Comparison between Wireless Protocols
+
+    How to select wireless Protocol based on the use case
+
+
+    13. IoT Communication Channels
+
+
+    Wi-Fi, GSM/GPRS, 2G, 3G, LTE
+
+    Comparison of Communication Channels
+
+    How to select communication channels based on use case
+
+
+    14. Network Protocols in IoT
+
+
+    MQTT, MQTTS, CoAP, 6LoWPAN, TCP, UDP, HTTP, HTTPS
+
+
+    15. Comparison of the Network protocols
+
+
+    Selection of Network Protocol based on Use Case
+
+
+    16. Introduction to IPv4 and IPv6
+
+
+    Issues with IPv4 in IoT
+
+    How IPv6 resolves the problems with IPv4
+
+    RF protocol Application issues
+
+    Power consumption, LOS, reliability, Security aspects
+
+
+    17. TCP/UDP Transport Layer Protocol
+
+
+    Introduction to TCP and UDP
+
+    Difference between TCP/UDP Transport layer protocol
+
+    How to test TCP v/s UDP by python socket programming
+
+
+    18. HTTP Application layer IOT Protocol
+
+
+    Introduction to the HTTP protocol
+
+    Structure of HTTP Protocol
+
+    Start with HTTP protocol GET/POST Method
+
+    How to work on python Flask library design web page
+
+    Control thing from the webpage using the HTTP protocol
+
+    Publish sensor data over the web server
+
+
+    19. MQTT IOT Protocol
+
+
+    Introduction to MQTT
+
+    Why MQTT?
+
+    Features of MQTT
+
+    MQTT Subscribe/Publish
+
+    MQTT Broker
+
+    MQTT QoS
+
+    MQTT Security
+
+
+    20. MQTT and Raspberry Pi
+
+
+    How to install Mosquito MQTT broker
+
+    How to Publish and Subscribe test on local server broker
+
+    Start with Paho MQTT
+
+    Publish and subscribe on iot.eclipse platform
+
+
+    21. CoAP IOT Protocol
+
+
+    Introduction to CoAP
+
+    CoAP IOT protocol Architecture
+
+    Difference between HTTP & COAP
+
+    Implement of CoAP using CoAPthon Python library
+
+    Design server and client using Python
+
+
+    22. IoT Cloud Platform (Ubidot)
+
+
+    Read data from sensors,
+
+    Create a JSON Object
+
+    Establish HTTPS connection using Wi-Fi
+
+    How to send JSON data to Ubidot Rest API over HTTPS
+
+    Create business rules in Ubidot for alarms
+
+    Send Data to Ubidot platform
+
+    How to create rules and configure Alarm with SMS and Email for your device
+
+    How to send data to Ubidot which will trigger the alarm
+
+    How to create and configure Chart/Graph for visualization
+
+    How to Control the actuator from Ubidot using polling technique
+
+
+    23. Introduction to Big Data and Big data technologies
+
+    24. Cloud Computing
+
+
+    What is cloud?
+
+    What is cloud computing?
+
+    Benefits of the cloud.
+
+    Deployment Models.
+
+    Top cloud providers.
+
+    Service Models
+
+    Service Catalogue
+
+    Advantages for different offerings
+
+    Introduction to AWS
+
+    Service provided by AWS E2C, SimpleDB RDS, Dynamo DB, Elastic Beanstalk, SNS, Cloud Watch, Route 53, VPC, Elastic Load Balancing, S3, EBS, IAM
+
+
+    25. BigData
+
+
+    Cloud data storage
+
+    Introduction to Big Data
+
+    Big Data Definition and Characteristics
+
+    How is Big Data being generated?
+
+    Big Data Analytics
+
+    Why Big Data Analytics
+
+    Applications of Big Data Analytics
+
+    Different Data Stores
+
+    Big Data Technologies CouchDB, MongoDB, Node4J
+
+
+    26. AWS IoT Setup for Application Development
+
+
+    Introduction to AWS IoT
+
+    Downloading SDK and configuring RaspberryPi
+
+
+    27. How to prepare Raspberry Pi to connect to AWS IoT
+
+
+    Downloading Certificates from AWS IoT console
+
+    Installing certificate in RaspberryPi
+
+    Connecting Sensors to RaspberryPi II.
+
+
+    28. Connecting to AWS IoT
+
+
+    Configuring RaspberryPi sketch to connect to AWS IoT through Wi-Fi
+
+    Establishing MQTT Connection
+
+    Publishing Sensor data to AWS IoT Shadow
+
+    Subscribing MQTT Topic and controlling actuator from the shadow
+
+
+    29. How to send Data from raspberry Pi to AWS IoT
+
+
+    Run Ultrasonic ranger sketch in RaspberryPi and check
+
+    Updating of data from Raspberry Pi to AWS Shadow
+
+
+    30. Dynamo DB
+
+
+    Configuration of Dynamo DB
+
+    Create a table in Dynamo DB
+
+    Create a rule to link dynamo DB with AWS IOT
+
+    Store sensor data From AWS IOT in Dynamo DB
+
+
+    31. SNS
+
+
+    Set up SNS service
+
+    Test SNS service by publish and subscribe
+
+    Create a rule and link with AWS IOT
+
+    Notify through mail when Publisher publish data
+  url: https://www.eventbrite.com/e/iot-training-in-york-internet-of-things-training-introduction-to-iot-training-for-beginners-getting-tickets-64935563017?aff=ebapi
+  logo: https://cdn.evbuc.com/images/64956818/310161865775/1/original.20190706-134727?h=200&w=450&auto=compress&rect=0,39,1092,546&s=a615bbd42eb5f8408b988a133efc225a
+  starts: 2019-08-07T22:00:00.0000000
+  ends: 2019-08-08T00:00:00.0000000
+  venue: TruVs
+- name: Introduction to Robotic Process Automation (RPA) Training in York, PA for Beginners | Automation Anywhere, Blue Prism, Pega OpenSpan, UiPath, Nice, WorkFusion (RPA) Robotic Process Automation Training Course Bootcamp
+  description: >-
+    Robotic process automation (or RPA) is an emerging form of business process automation technology based on the notion of software robots or artificial intelligence (AI) workers.
+
+    This course is meant for beginners who would like to learn everything about RPA and how to implement RPA. 
+
+
+    Weekdays Only Weekly Class Schedule
+
+    This class will be held beginning August 12 and ending on September 9, 2019 US Pacific time on weekdays (Monday and Wednesday every week) from 6:30-8:30 pm each day US Pacific time (PST) depending upon your location.
+
+    Please check your local date and time for the first session
+
+
+    August 12 - September 9, 2019 US Pacific Time
+
+    Monday and Wednesday US Pacific time every week
+
+    6:30-8:30 PM each day US Pacific time depending upon your Location
+
+
+    View Detailed Weekly Schedule for the entire class
+
+
+    Features and Benefits
+
+
+    2 hours per session
+
+    2 sessions per week
+
+    8 sessions spread across 4 weeks (August 12-September 9, 2019)
+
+    16 hours of total Instructor Led Training
+
+    Training material along with instructor handouts, Practical Hands-on Lab exercises
+
+
+
+    Course Overview
+
+    This class will cover basic concepts of Robotic Process Automation including UI Automation concepts, building workflows using RPA, several types of data inside a workflow, Desktop, Web Automation, debugging a workflow, Reusing automation that invokes workflow and templates, how to organize a real-world workflow automation project.
+
+
+    Who should attend
+
+    This class can be taken by professionals such as those who are interested in automating UI workflows for their day to day work, IT professionals, accounting, operations, IT staff and consultants supporting client using RPA
+
+
+    Course Outline
+
+
+    Introduction
+
+    Past and Present Overview of process automation
+
+    Robotic Process Automation Concepts
+
+    UI Automation and System Activities
+
+    User Events, Recorder and Scraping
+
+    Workflow and Data Manipulation
+
+    Programming and Troubleshooting
+
+    Existing RPA solutions and vendors Landscape - Automation Anywhere, Blue Prism, Pega OpenSpan, UiPath, Nice and WorkFusion
+
+    Front office vs back office robots
+
+    How to evaluate a good process to automate
+
+    Hands on labs - Reviewing your existing systems and processes, web scraping, web automation, desktop automation
+
+    Workflow branching
+
+    Tools and techniques for debugging  workflow
+
+    Deploying RPA in production
+
+    RPA best practices
+
+    Collecting data generated by robots
+
+    RPA Roles
+
+    Scalability and Security aspects of RPA
+
+
+
+                                                              Learn about our Training Philosophy                           
+
+                                         View RPA Training Details on Entriety Technology website
+
+                                                                             Training FAQs
+  url: https://www.eventbrite.com/e/introduction-to-robotic-process-automation-rpa-training-in-york-pa-for-beginners-automation-tickets-64943902962?aff=ebapi
+  logo: https://cdn.evbuc.com/images/64992424/253710638063/1/original.20190318-071503?h=200&w=450&auto=compress&rect=0,0,1200,600&s=e7928d964e6d4f7fd6fb9a0676c06bfc
+  starts: 2019-08-12T21:30:00.0000000
+  ends: 2019-08-12T23:30:00.0000000
+  venue: Entirety Technologies
+- name: Python training course bootcamp for Beginners in York, PA | Learn Python programming | Learn programming in python | Learn to code with python | Learn coding in python
+  description: "Are you brand new to coding? Want to see how fun and easy it can be? This introduction to programming with Python course offers a step-by-step walk-through, from a basic idea to translating that idea into code, and everything in between.\nDon't worry about making mistakes! Python uses simple syntax, has an easy learning curve, and is a very forgiving language. Gain a new skill or complete a task by the end of each module, and, by the end of the course, you will be programming in Python! You will also learn basic principles which can make it easier for you to learn other programming languages in the future. \n\nCourse Schedule\n\nCourse Duration: 4 weeks (8 sessions)\nMondays and Wednesdays US Pacific Time every week. \n6:30pm - 8:30pm US Pacific Time each day\nAugust 12 - September 9, 2019 US Pacific time\nThere will be no class on September 2, 2019 due to Memorial Day Holiday in US.\nCheck local date and time for 1st session\n\n\nWhat are the prerequisites? \n\nNo prerequisite is required. \nEven if you do not have programming background you will be able to take this course and learn Python.\n\n\nCourse Outline\nIntroduction.\nPart I: Getting Started.\n\nChapter 1: Introducing Python.\nChapter 2: Getting Your Hands on the Keyboard: Using Help, Interactive Mode, and IDLE.\nChapter 3: Basic Elements and Syntax.\nChapter 4: Grand Tour of the Python Language.\nChapter 5: Working Like a Programmer.\n\nPart II: Building Blocks.\n\nChapter 6: So This String Walks into a Bar.\nChapter 7: Counting Your Way to Fun and Profit.\nChapter 8: Processing Lists and Tuples.\nChapter 9: Diving into Dictionaries.\n\nPart III: Structures.\n\nChapter 10: Staying in Control.\nChapter 11: Fun with Functions.\nChapter 12: Building Applications with Modules and Packages.\nChapter 13: Getting Classy.\nChapter 14: Introducing New-Style Classes.\nChapter 15: Feeling Exceptional.\nChapter 16: Tackling Some Advanced Features.\n\nPart IV: Libraries.\n\nChapter 17: Using Python’s Primary Services.\nChapter 18: Processing Text.\nChapter 19: Digging into Disk Data.\nChapter 20: Accessing the Internet.\n\nPart V: The Part of Tens.\n\nChapter 21: Ten Critical Python Idioms.\nChapter 22: Ten Great Resources.\n\n\nLearning Objectives\n\nPython Introduction\nPython History\nPython Keywords, Variables, And Data Types\nPython Operators\nPython Programming: Flow Control+\nPython If Else Statement\nPython For Loop\nPython While Loop\nPython Break And Continue Statements\nPython Programming: Functions+\nPython Functions\nPython Function Arguments\nPython Recursive Functions\nPython Modules\nPython Packages\nPython Programming: Native Data Types+\nPython Numbers\nPython Lists\nPython Tuples\nPython Strings\nPython Sets\nPython Dictionary\nPython Programming: OOP+\nPython Object And Class\nPython Inheritance\nPython Multiple Inheritance\nPython Operator Overloading\nPython Programming: File Handling+\nPython Files I/O\nPython Directory Management\nPython Exception Handling\nPython Programming: Advanced Topics+\nPython Iterators\nPython Generators\nPython Closures\nPython Decorators\nPython @Property\n"
+  url: https://www.eventbrite.com/e/python-training-course-bootcamp-for-beginners-in-york-pa-learn-python-programming-learn-programming-tickets-64945940055?aff=ebapi
+  logo: https://cdn.evbuc.com/images/64991440/275032691922/1/original.20190707-223235?h=200&w=450&auto=compress&rect=15,0,736,368&s=414bfa854d08c11ab07505bc4eb71409
+  starts: 2019-08-12T21:30:00.0000000
+  ends: 2019-08-12T23:30:00.0000000
+  venue: Zinnia Mind
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkblb/
@@ -3300,6 +3823,14 @@
   starts: 2019-07-18T18:00:00.0000000
   ends: 2019-07-18T21:00:00.0000000
   endorsed: true
+- name: AI Tech North 2019 (Leeds) - Discount off on business and professional tickets
+  description: '<p>We are pleased to invite you to our first AI Tech North conference.</p> <p>To secure a seat please sign-up on <a href="https://www.aitechnorth.uk/ai-tech-north-2019" class="linkified">https://www.aitechnorth.uk/ai-tech-north-2019</a> (Please note MEETUP TICKET WILL NOT BE VALID! Meetup ticket will only give access to the AI exhibition)</p> <p>AI Tech North Conference 2019 is the first Artificial Intelligence conference in the North of England where AI leaders, practitioners and enthusiasts are coming together! Join us on the 20th of July at the Queens Hotel in Leeds City Centre for 5 Keynote Sessions, 18 Tech Sessions, AI Demos and plenty of networking opportunities.</p> <p>A platform for innovators, leaders, entrepreneurs, and enthusiasts to share knowledge and collaborate to make a difference. Ultimately, bringing innovations of tomorrow, today!</p> <p>Find out about how Artificial Intelligence and a well thought through AI strategy enhance businesses by increasing sales, improving customer experience, automating work processes and providing predictive analysis.</p> <p>Learn more about Machine Learning, Deep Learning, RNN, DevOps, TensorFlow 2.0, Applied AI with IoT, Blockchain Technology, Robotics, and many more fascinating topics with 30+ industry experts.</p> <p>The schedule: <a href="https://www.aitechnorth.uk/schedule" class="linkified">https://www.aitechnorth.uk/schedule</a></p> <p>Please redeem a special exclusive discount for our cCottish community using the discount below.</p> <p>Discount coupon: AI4MBNSCOTLAND gives 40% off on business and professional tickets.</p> <p>Please sign-up on <a href="https://www.aitechnorth.uk/ai-tech-north-2019" class="linkified">https://www.aitechnorth.uk/ai-tech-north-2019</a><br/>Looking forward to seeing you at the conference</p> <p>NOTE: Meetup ticket will NOT be valid. Meetup ticket will only give access to the AI exhibition for Free.</p> '
+  url: https://www.meetup.com/Scotland-Data-Science-Technology-Meetup/events/261997083/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/6/5/d/6/thumb_458366070.jpeg
+  starts: 2019-07-20T07:00:00.0000000
+  ends: 2019-07-20T16:00:00.0000000
+  venue: The Queens
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbdc/
