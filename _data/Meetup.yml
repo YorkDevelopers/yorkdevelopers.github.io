@@ -1,12 +1,3 @@
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkblb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-07-08T06:00:00.0000000
-  ends: 2019-07-08T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
 - name: Angular & Typescript For .NET Developers by Martin Randall
   description: "<p>Angular is a Typescript-based open-source web application platform led by the Angular Team at Google that grew out of its predecessor, AngularJS. It is constantly being built upon and improved with a non-breaking, major release cadence of around 6 months.</p> <p>The presentation will be a quick tour around the Angular platform, using it to build a small sample application, along with a demonstration of some of the features of Typescript.</p> <p>Martin Randall -<br/>I've been a C# .Net developer for over 17 years, and I've found Angular to be a natural choice for a .Net developer over alternative application platforms such as React because it forms a framework that offers many features 'out-of-the-box' such as routing, a web API client library, form validation, and a powerful CLI tool for quickly scaffolding new applications and components. The MVC pattern used by the Component architecture will be very familiar to Asp.Net developers and Typescript brings a welcome addition to those that found Javascript frustrating in the past.</p> <p>I've been a developer for over 25 years, working in a variety of industries. I've spent the last 12 years as a freelance contract developer that has given me experience of working within many different teams on a wide range of projects. I've used Angular on a number of projects over the last 4 years.</p> "
   url: https://www.meetup.com/HaintonDotNetYorkshire/events/261610745/
@@ -51,7 +42,7 @@
   description: "<p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Martin Croft | The Productive Data Professional<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – Paul Andrew | ETL in Azure made easy with Data Factory Data Flow<br/>20:20 – 20:30 – Off t’pub.</p> <p>** Martin Croft **<br/>[The Productive Data Professional]</p> <p>Martin is a big advocate of making his life simple (or he might just be lazy) with a demo-rich session in how to be more productive<br/>with the tools available, shortcuts to the everyday mundane tasks and time-saving. Utilising things that combine the DBA world with BI (Power BI), PowerShell, Azure Data Studio,<br/>(there’s nothing like cramming in loads in such a small window)<br/>showing how they can it can be used for saving money on licences, helping with upgrade projects, troubleshoot server issues or the day to day mundane</p> <p>Martin Croft is a time served SQL developer / DBA contractor / consultant who has worked with SQL Server since SQL 6.5, having attending the user groups for many years he wanted to (try) and give something back for all the things he's have picked up from the sessions he’s seen and share things people find useful (hopefully). Martin is a co-organiser of the Manchester Data platform PASS user group and SQL Saturday Manchester, SQL bits helper and regular nice all-round nice guy (his mum said).</p> <p>** Paul Andrew **<br/>[ETL in Azure made easy with Data Factory Data Flow]</p> <p>What happens when you combine a cloud orchestration service with a Spark cluster?! The answer is a feature rich, graphical, scalable data flow environment to rival any ETL tech we’ve previously had available in Azure. In this session we’ll look at Azure Data Factory and how it integrates with Azure Databricks to produce a powerful abstraction over the Apache Spark analytics ecosystem. Both through mapping transformations and wrangling capabilities. These new features mean we can now transform our data in Azure with scale out processing using Databricks and also without the need to write a single line of Scala or Python! SSIS developers – you’re going to love this. For new comers, if you haven’t used either service yet, don’t worry, you’ll get a quick introduction to both before we go deeper into the new data factory data flow features.</p> <p>Paul is a Microsoft Data Platform MVP with 10+ years’ experience working with the complete on premises SQL Server stack in a variety of roles and industries. Now as Data Analytics Consultant has turned his keyboard to big data solutions on the Microsoft cloud platform. Specialising in Data Factory, Data Bricks, Data Lake and Stream Analytics. Paul is also a STEM Ambassador for the networking education in schools’ programme, PASS chapter leader, a member of the Data Relay committee, SQL Bits, SQL Saturday, SQL Day, SQLGLA, PASS Summit speaker and helper. Currently the Stack Overflow top user for Azure Data Factory. As well as very active member of the technical community.</p> "
   url: https://www.meetup.com/dataleeds/events/255664611/
   is-free: true
-  starts: 2019-07-10T18:00:00.0000000
+  starts: 2019-07-10T16:30:00.0000000
   ends: 2019-07-10T20:00:00.0000000
   venue: Wizu Workspace
 - name: 'Sitegeist: Open source twitter sentiment analysis within a geofence.'
@@ -77,6 +68,13 @@
   ends: 2019-07-15T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: 'Tech Contractor Networking: Leeds'
+  description: "<p>This is an quick informal networking event designed to fit into your busy day.</p> <p>The idea is to bring together contractors from Yorkshire together once a month to meet new people, grow your network and ultimately help each other find new roles which always seem to land when you are not looking.</p> <p>The session will be broken down into three 10 minute slots:<br/>- Networking<br/>- A talk (IR35 in April)<br/>- More networking.</p> <p>It's a free event with a bar where you can purchase drink if you desire.</p> <p>This is the first event which we hope to grow and refine as go.</p> "
+  url: https://www.meetup.com/Tech-Contractor-Networking-Leeds/events/wxjhppyzkbvb/
+  is-free: true
+  starts: 2019-07-16T11:15:00.0000000
+  ends: 2019-07-16T11:45:00.0000000
+  venue: Banyan Bar Leeds
 - name: 'YorkSwift Monthly Meetup  #011 - WWDC 2019 Roundup'
   description: "<p>WWDC 2019 was a busy event, there are lots of things to talk about! Come share your favourite announcements and sessions.</p> <p><a href=\"https://developer.apple.com/videos/wwdc2019/\" class=\"linkified\">https://developer.apple.com/videos/wwdc2019/</a></p> <p>### \U0001F596 Introductions</p> <p>A quick roundtable hello and what you would like to achieve out of coming to this meetup.</p> <p>### \U0001F4E2 News &amp; \U0001F393 Resources for learning</p> <p>Newsletters, blogs and feeds to keep an eye on.</p> <p>### \U0001F680 Topic - WWDC</p> <p>Baring the obvious SwiftUI announcement, let's look at some other things which were announced this year at WWDC.</p> <p><a href=\"https://developer.apple.com/videos/wwdc2019/\" class=\"linkified\">https://developer.apple.com/videos/wwdc2019/</a></p> <p>### \U0001F680 Topic - SwiftUI</p> <p>Lets have a play together with some live coding examples and discuss how SwiftUI will affect your future of app development.</p> <p><a href=\"https://developer.apple.com/xcode/swiftui/\" class=\"linkified\">https://developer.apple.com/xcode/swiftui/</a></p> <p>### \U0001F64B Questions</p> <p>Bring your issues &amp; queries to share with the group; bugs welcome!</p> <p>### \U0001F37B York Swift Social</p> <p>Let's migrate a few doors down for refreshments and banter.</p> "
   url: https://www.meetup.com/YorkSwift/events/262773592/
@@ -587,6 +585,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-12-25T07:00:00.0000000
   ends: 2019-12-25T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzqbnc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-12-30T07:00:00.0000000
+  ends: 2019-12-30T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
