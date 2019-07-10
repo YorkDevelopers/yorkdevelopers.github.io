@@ -1,17 +1,3 @@
-- name: Angular & Typescript For .NET Developers by Martin Randall
-  description: "<p>Angular is a Typescript-based open-source web application platform led by the Angular Team at Google that grew out of its predecessor, AngularJS. It is constantly being built upon and improved with a non-breaking, major release cadence of around 6 months.</p> <p>The presentation will be a quick tour around the Angular platform, using it to build a small sample application, along with a demonstration of some of the features of Typescript.</p> <p>Martin Randall -<br/>I've been a C# .Net developer for over 17 years, and I've found Angular to be a natural choice for a .Net developer over alternative application platforms such as React because it forms a framework that offers many features 'out-of-the-box' such as routing, a web API client library, form validation, and a powerful CLI tool for quickly scaffolding new applications and components. The MVC pattern used by the Component architecture will be very familiar to Asp.Net developers and Typescript brings a welcome addition to those that found Javascript frustrating in the past.</p> <p>I've been a developer for over 25 years, working in a variety of industries. I've spent the last 12 years as a freelance contract developer that has given me experience of working within many different teams on a wide range of projects. I've used Angular on a number of projects over the last 4 years.</p> "
-  url: https://www.meetup.com/HaintonDotNetYorkshire/events/261610745/
-  is-free: true
-  starts: 2019-07-09T17:00:00.0000000
-  ends: 2019-07-09T19:00:00.0000000
-  venue: Duke Studios
-- name: Bitcoin & Crypto-currency discussion with drinks
-  description: '<p>Details<br/>We are meeting up for another informal discussion about bitcoin and other crypto-currencies.<br/>Meet like minded people and learn from others who are interested in crypto-currency.<br/>Arrive and leave when is convenient to you.<br/>For those of you who are only available in the early evening, you can come along before 7pm, as some of us will be there early.</p> <p>Do Feel free to bring drinks and the lovely food from the bar into the upper function room.</p> <p>Look forward to seeing you there!</p> '
-  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/262388395/
-  is-free: true
-  starts: 2019-07-09T18:00:00.0000000
-  ends: 2019-07-09T20:00:00.0000000
-  venue: Royal Oak
 - name: York Code Dojo July Meetup - TDD Kata
   description: '<p>This month we will continue with our return to core "Code Dojo Values" theme by working on a classic Kata - TDD / pair programming style. There will be tasks suitable for both beginners and advanced coders. If possible please bring a laptop with your programming language of choice installed. NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
   url: https://www.meetup.com/York-Code-Dojo/events/262774918/
@@ -133,6 +119,14 @@
   ends: 2019-07-22T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Mage Dev York - Talk About Magento Development
+  description: '<p>We have a new name, a new venue, and a new Format! Mage Dev York Meetup. Everyone is welcome for an evening talking about Magento Development!</p> <p>Date: Tuesday 23rd July 2019<br/>Time: 19:00 to 21:30 (and later if you like!)<br/>Venue: Stonegate Yard, York<br/>Room: No 10 (in the courtyard)</p> <p>Part 1: Magento 2 Indexing Demystified (speaker @gareth_e_james)<br/>Part 2: Lightning Talk / Discussion (host @ByteCreation)<br/>Part 3: Magento Community News Roundup (speaker @processeight)</p> '
+  url: https://www.meetup.com/Magento-York/events/262109947/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/6/9/0/b/thumb_482006891.jpeg
+  starts: 2019-07-23T18:00:00.0000000
+  ends: 2019-07-23T20:00:00.0000000
+  venue: Stonegate Yard Bar & Brasserie
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbgc/
