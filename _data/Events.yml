@@ -3493,39 +3493,6 @@
   starts: 2019-08-13T21:00:00.0000000
   ends: 2019-08-13T23:00:00.0000000
   venue: Zinnia Mind
-- name: York Code Dojo July Meetup - TDD Kata
-  description: '<p>This month we will continue with our return to core "Code Dojo Values" theme by working on a classic Kata - TDD / pair programming style. There will be tasks suitable for both beginners and advanced coders. If possible please bring a laptop with your programming language of choice installed. NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/262774918/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2019-07-10T17:30:00.0000000
-  ends: 2019-07-10T20:30:00.0000000
-  venue: Room FT/112 York St John University
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbnb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-07-10T06:00:00.0000000
-  ends: 2019-07-10T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzkbnb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-07-10T07:00:00.0000000
-  ends: 2019-07-10T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Data Platform User Group (DBA, Power BI, PowerShell, Azure Data Factory ETL)
-  description: "<p>Join fellow IT Professionals for an evening of knowledge sharing and networking in an open, friendly environment.</p> <p>17:30 – 18:00 – Networking (drinks)<br/>18:00 – 19:00 – Martin Croft | The Productive Data Professional<br/>19:00 – 19:20 – Break (pizza / top up)<br/>19:20 – 20:20 – Paul Andrew | ETL in Azure made easy with Data Factory Data Flow<br/>20:20 – 20:30 – Off t’pub.</p> <p>** Martin Croft **<br/>[The Productive Data Professional]</p> <p>Martin is a big advocate of making his life simple (or he might just be lazy) with a demo-rich session in how to be more productive<br/>with the tools available, shortcuts to the everyday mundane tasks and time-saving. Utilising things that combine the DBA world with BI (Power BI), PowerShell, Azure Data Studio,<br/>(there’s nothing like cramming in loads in such a small window)<br/>showing how they can it can be used for saving money on licences, helping with upgrade projects, troubleshoot server issues or the day to day mundane</p> <p>Martin Croft is a time served SQL developer / DBA contractor / consultant who has worked with SQL Server since SQL 6.5, having attending the user groups for many years he wanted to (try) and give something back for all the things he's have picked up from the sessions he’s seen and share things people find useful (hopefully). Martin is a co-organiser of the Manchester Data platform PASS user group and SQL Saturday Manchester, SQL bits helper and regular nice all-round nice guy (his mum said).</p> <p>** Paul Andrew **<br/>[ETL in Azure made easy with Data Factory Data Flow]</p> <p>What happens when you combine a cloud orchestration service with a Spark cluster?! The answer is a feature rich, graphical, scalable data flow environment to rival any ETL tech we’ve previously had available in Azure. In this session we’ll look at Azure Data Factory and how it integrates with Azure Databricks to produce a powerful abstraction over the Apache Spark analytics ecosystem. Both through mapping transformations and wrangling capabilities. These new features mean we can now transform our data in Azure with scale out processing using Databricks and also without the need to write a single line of Scala or Python! SSIS developers – you’re going to love this. For new comers, if you haven’t used either service yet, don’t worry, you’ll get a quick introduction to both before we go deeper into the new data factory data flow features.</p> <p>Paul is a Microsoft Data Platform MVP with 10+ years’ experience working with the complete on premises SQL Server stack in a variety of roles and industries. Now as Data Analytics Consultant has turned his keyboard to big data solutions on the Microsoft cloud platform. Specialising in Data Factory, Data Bricks, Data Lake and Stream Analytics. Paul is also a STEM Ambassador for the networking education in schools’ programme, PASS chapter leader, a member of the Data Relay committee, SQL Bits, SQL Saturday, SQL Day, SQLGLA, PASS Summit speaker and helper. Currently the Stack Overflow top user for Azure Data Factory. As well as very active member of the technical community.</p> "
-  url: https://www.meetup.com/dataleeds/events/255664611/
-  is-free: true
-  starts: 2019-07-10T16:30:00.0000000
-  ends: 2019-07-10T20:00:00.0000000
-  venue: Wizu Workspace
 - name: 'Sitegeist: Open source twitter sentiment analysis within a geofence.'
   description: "<p>This is a project started by Code for Lancaster, a civic technology meetup from the other side of the pennines. It provides a simple, live sentiment analysis dashboard of tweets drawn from within a fixed geographic area. There will be a brief talk about sentiment analysis and how the project works, and the remainder of the session will be a workshop where we will break into teams to try and tackle some of the project's open issues on github.</p> <p>Currently the project is in it's infancy and very simple. There will be opportunities for very small contributions, or even non-python contributions (e.g. HTML, CSS, JS).</p> <p>** IF YOU WANT TO CONTRIBUTE PLEASE SIGN UP FOR A TWITTER DEVELOPER ACCOUNT, AND CREATE AN APP AT <a href=\"https://developer.twitter.com/en/apps\" class=\"linkified\">https://developer.twitter.com/en/apps</a> TO GET SOME API KEYS. THIS MUST BE DONE IN ADVANCE BECAUSE TWITTER TAKES A COUPLE OF DAYS TO PROCESS THESE REQUESTS **</p> <p>Code base <a href=\"https://github.com/CodeforLancaster/sitegeist\" class=\"linkified\">https://github.com/CodeforLancaster/sitegeist</a></p> <p>Sky is kindly providing Pizza and soft drinks. Thanks Sky!</p> <p>Doors open at 18:30 and event starts at 19:00.</p> "
   url: https://www.meetup.com/West-Yorkshire-Python-User-Group-WYPy/events/262680188/
@@ -3582,8 +3549,8 @@
   ends: 2019-07-17T10:00:00.0000000
   venue: La Bottega Milanese
 - name: CodeUp Leeds Meetup
-  description: "<p>THE SIGN-UP PERIOD WILL START 2 WEEKS BEFORE THE EVENT. Please come back soon to reserve your spot!</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>Remember to bring a laptop in order to participate in the session!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. To discuss any additional accessibility requirements you may have, please contact [masked].</p> "
-  url: https://www.meetup.com/CodeUp-Leeds/events/dbcjtqyzkbxb/
+  description: "<p>THE SIGN-UP PERIOD WILL START 2 WEEKS BEFORE THE EVENT. Please come back soon to reserve your spot!</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. To discuss any additional accessibility requirements you may have, please contact [masked]</p> <p>Remember to bring a laptop in order to participate in the sessions!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
+  url: https://www.meetup.com/CodeUp-Leeds/events/nbtsdryzkbxb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
   starts: 2019-07-18T17:45:00.0000000
@@ -3631,6 +3598,22 @@
   ends: 2019-07-24T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzkbgc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-07-24T07:00:00.0000000
+  ends: 2019-07-24T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: AgileYork - Lightning Talks from the Community (you)
+  description: "<p>About the session</p> <p>In an annual event we turn to our own community for knowledge, wisdom and lessons learnt. In a series of short (10 minute max) talks loosely around an agile theme - we will hear from those who wish to add to our teaching on the evening.</p> <p>Any volunteers? Please message us on our social channels to book your slot. Talks will be added to the agenda below as they are confirmed.</p> <p>Agenda for the evening:</p> <p>● 18:30 - Networking, food and drinks<br/>● 19:00 - Lightning talks begin<br/>● 20:30 - Departure</p> <p>*agileYork supports <a href=\"http://diversitycharter.org\" class=\"linkified\">http://diversitycharter.org</a> *</p> <p>** Special thanks to our host Hiscox (@HiscoxUK) for their generosity and support **</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
+  url: https://www.meetup.com/agileYork/events/263006751/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/1/3/5/thumb_481212597.jpeg
+  starts: 2019-07-24T17:30:00.0000000
+  ends: 2019-07-24T19:30:00.0000000
+  venue: The Hiscox Building
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbmc/
@@ -4083,6 +4066,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2019-12-30T07:00:00.0000000
   ends: 2019-12-30T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqybccbcb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-01-01T07:00:00.0000000
+  ends: 2020-01-01T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
