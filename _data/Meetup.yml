@@ -1,10 +1,3 @@
-- name: 'Sitegeist: Open source twitter sentiment analysis within a geofence.'
-  description: "<p>This is a project started by Code for Lancaster, a civic technology meetup from the other side of the pennines. It provides a simple, live sentiment analysis dashboard of tweets drawn from within a fixed geographic area. There will be a brief talk about sentiment analysis and how the project works, and the remainder of the session will be a workshop where we will break into teams to try and tackle some of the project's open issues on github.</p> <p>Currently the project is in it's infancy and very simple. There will be opportunities for very small contributions, or even non-python contributions (e.g. HTML, CSS, JS).</p> <p>** IF YOU WANT TO CONTRIBUTE PLEASE SIGN UP FOR A TWITTER DEVELOPER ACCOUNT, AND CREATE AN APP AT <a href=\"https://developer.twitter.com/en/apps\" class=\"linkified\">https://developer.twitter.com/en/apps</a> TO GET SOME API KEYS. THIS MUST BE DONE IN ADVANCE BECAUSE TWITTER TAKES A COUPLE OF DAYS TO PROCESS THESE REQUESTS **</p> <p>Code base <a href=\"https://github.com/CodeforLancaster/sitegeist\" class=\"linkified\">https://github.com/CodeforLancaster/sitegeist</a></p> <p>Sky is kindly providing Pizza and soft drinks. Thanks Sky!</p> <p>Doors open at 18:30 and event starts at 19:00.</p> "
-  url: https://www.meetup.com/West-Yorkshire-Python-User-Group-WYPy/events/262680188/
-  is-free: true
-  starts: 2019-07-11T18:00:00.0000000
-  ends: 2019-07-11T20:00:00.0000000
-  venue: Sky
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyzkbqb/
@@ -119,6 +112,22 @@
   starts: 2019-07-24T17:30:00.0000000
   ends: 2019-07-24T19:30:00.0000000
   venue: The Hiscox Building
+- name: Time traveller's guide to accessibility mechanics
+  description: '<p>For a long time, HTML gave us all the semantics and other goodies we<br/>needed to make things work properly on the web. Then we started<br/>inventing new UI components, and now we use ARIA and Javascript to<br/>polyfill the missing bits. As we move towards a future of Web<br/>Components, the time has come to invent another solution that will let<br/>us encapsulate accessibility in the shadow DOM - and its called the<br/>Accessibility Object Model (AOM).</p> <p>Léonie is Director of TetraLogical; a member of the W3C Advisory Board; co-Chair of the W3C Web Platform Working Group; and a member of the Accelerated Mobile Pages (AMP) Advisory Committee.</p> <p>Amongst other things, Léonie is co-organiser of the Inclusive Design 24 (#id24) conference; co-author of the Inclusive Design Principles; and mentor to young people interested in the fields of accessibility and inclusive design. She is also a Microsoft Most Valued Professional (MVP).</p> <p>Léonie is often found at conferences, talking about web standards, accessibility mechanics, and pushing the boundaries of inclusive design (with existing technologies like SVG, HTML, ARIA, and JavaScript, as well as new technologies like AI and WebVR). She has also written about these things for Smashing magazine, SitePoint.com, and Net magazine, as well as on her own site Tink.UK.</p> '
+  url: https://www.meetup.com/Leeds-Sharp/events/259863683/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2019-07-25T17:30:00.0000000
+  ends: 2019-07-25T19:30:00.0000000
+  venue: Platform
+- name: ACCU York [July 2019] - Developing Elasticsearch
+  description: "<p>If you've ever searched Wikipedia, bought something on eBay, caught an Uber, or flown out of Stansted Airport you've used a system called Elasticsearch. Elasticsearch is a versatile open-source distributed search engine with a decade of history, thousands of contributors, and the responsibility for an extraordinary amount of data around the world. You might also be using it yourself to analyse your own system's logs and metrics and to hunt for security threats and performance issues.</p> <p>Like any other long-running software project, Elasticsearch has a mature development process and a substantial test suite, but when you look at the details you discover that no two such projects are alike. David is a full-time contributor to Elasticsearch and is continually impressed by how the team approaches the challenges of developing and maintaining such a large and ubiquitous piece of software. Join us for a tour of the development process and the test suite that sits behind each new release of Elasticsearch, and maybe take away some ideas for your own software projects too.</p> <p>**Please note the change in the room location, this may change.**</p> <p>----<br/>Thank you to University of York Computer Science department for finding us a place to meet<br/>Supported by YorkDevelopers<br/>ACCU York is an ACCU local group</p> "
+  url: https://www.meetup.com/ACCU-York/events/263063530/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/3/6/f/thumb_475438223.jpeg
+  starts: 2019-07-25T17:30:00.0000000
+  ends: 2019-07-25T19:30:00.0000000
+  venue: Department of Computer Science, University of York
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbmc/
