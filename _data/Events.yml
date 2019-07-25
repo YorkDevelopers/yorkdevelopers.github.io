@@ -2442,31 +2442,327 @@
   starts: 2019-08-26T21:30:00.0000000
   ends: 2019-09-23T23:30:00.0000000
   venue: Entirety Technology
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbgc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-07-24T06:00:00.0000000
-  ends: 2019-07-24T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzkbgc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-07-24T07:00:00.0000000
-  ends: 2019-07-24T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: AgileYork - Lightning Talks from the Community (you)
-  description: "<p>About the session</p> <p>In an annual event we turn to our own community for knowledge, wisdom and lessons learnt. In a series of short (10 minute max) talks loosely around an agile theme - we will hear from those who wish to add to our teaching on the evening.</p> <p>Any volunteers? Please message us on our social channels to book your slot. Talks will be added to the agenda below as they are confirmed.</p> <p>Agenda for the evening:</p> <p>● 18:30 - Networking, food and drinks</p> <p>● 19:00 - Lightning talks begin</p> <p>- \"Dual Track Agile\" from Jarryd Addinall</p> <p>- \"Advice is Autobiographical\" from Steve Carter</p> <p>- \"Scrum Master as a personal coach\" from Daniel Woolfson</p> <p>- \"Running a Marketing Team using Agile\" from Bethan Vincent</p> <p>● 20:00 - Departure</p> <p>*agileYork supports <a href=\"http://diversitycharter.org\" class=\"linkified\">http://diversitycharter.org</a> *</p> <p>** Special thanks to our host Hiscox (@HiscoxUK) for their generosity and support **</p> <p>*** We're a Scrum Alliance Endorsed Group! You can earn SEUs by attending our events. ***</p> "
-  url: https://www.meetup.com/agileYork/events/263006751/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/3/1/3/5/thumb_481212597.jpeg
-  starts: 2019-07-24T17:30:00.0000000
-  ends: 2019-07-24T19:30:00.0000000
-  venue: The Hiscox Building
+- name: '10 Hours Blockchain Training in York, PA for Beginners-Bitcoin training-introduction to cryptocurrency-ico-ethereum-hyperledger-smart contracts training '
+  description: >+
+    Blockchain training for beginners is 10 hours introductory course delivered over 2 weeks via Instructor led training. Students will learn the history and evolution of bitcoin, digital currency, blockchain, ethereum, hyperledger, cryptocurrencies. They will get Practical Hands on experience with Smart contracts, learn about blockchain use cases and it's potential for disruption. 
+
+
+     
+
+    Schedule
+
+    Please click on each of the links below to find your local date and time for each of the 5 sessions. All sessions will follow the schedule below:
+
+
+    September 7, 2019 | 9:00-11:00 AM US Pacific Time
+
+    September 8, 2019 | 9:00-11:00 AM US Pacific Time
+
+    September 14, 2019 | 9:00-11:00 AM US Pacific Time
+
+    September 15, 2019 | 9:00-11:00 AM US Pacific Time
+
+    September 21, 2019 | 9:00-11:00 AM US Pacific Time
+
+
+
+
+    Course Overview
+
+    The course provides an overview of the Blockchain technology including its history, evolution and the future. Students learn about bitcoin, which is powered by blockchain technology, bitcoin mining, other cryptocurrencies such as Ethereum, Block, Hash, cryptography, how to develop a simple blockchain application.
+
+
+
+    Who can take this course
+
+    Anyone aspiring to learn new technology can take this the course. Students and professionals interested in a career in the blockchain technology should opt for the course. 
+
+
+
+    Prerequisites
+
+    Programming knowledge is desired but not required. It would be nice if you already have knowledge of Python, JavaScript, NodeJS and ReactJS.Those who have no programming knowledge will still get a lot of value from taking this course just as a beginner would learn a lot from watching someone cooking a meal or changing a flat tire.
+
+
+
+    Course Objectives
+
+    After completing this Training, you should be able to:
+
+
+    Understand the importance of Blockchain technology
+
+    Perceive, how bitcoin transactions are validated by miners
+
+    Create and use bitcoin account effectively
+
+    Have a deep insight into bitcoin and its network
+
+    Understand Ethereum blockchain
+
+    Comprehend the cryptography and cryptocurrency concepts
+
+    Learn Solidity: Prominent language to develop smart contracts
+
+    Deploy your private blockchain on web where you can visually see your chains
+
+    Develop private Blockchain in MultiChain
+
+    Discuss the compelling use-cases of the blockchain
+
+    Interpret the prospects of blockchain
+
+    Assess, how blockchain can improve your business standards
+
+
+
+  url: https://www.eventbrite.com/e/10-hours-blockchain-training-in-york-pa-for-beginners-bitcoin-training-introduction-to-tickets-66442267611?aff=ebapi
+  logo: https://cdn.evbuc.com/images/66369989/253710638063/1/original.jpg?h=200&w=450&auto=compress&rect=0,1012,8000,4000&s=f258c7be2675fd2f091ea31b9261a269
+  starts: 2019-09-07T12:00:00.0000000
+  ends: 2019-09-21T14:00:00.0000000
+  venue: Entirety Technologies
+- name: 4 weeks DevOps training for beginners in York, PA | devops bootcamp | Build Tools - git and jenkins, build and test automation, chef, ansible, containerization using docker, puppet,continuous integration,continuous development,ci,cd training
+  description: >+
+    This is a 4 weeks Comprehensive Practical Hands-on DevOps training with a total of 16 hours of Instructor led training that covers the most important devops practitioner fundamentals and concepts including Build Tools - git and jenkins, build and test automation, chef, ansible, containerization using docker, puppet,continuous integration,continuous development and more. 
+
+
+
+    Weekly Schedule
+
+
+    This is a week day course that will be held August 26 - September 23, 2019 US Pacific Time
+
+    The class sessions will be held-Monday, Wednesday every week
+
+    6:30-8:30 PM US Pacific time, each day.
+
+    Please check your local date and time for first session.
+
+
+    Please see at the bottom for Detailed Weekly Schedule.
+
+
+
+    What is DevOps?
+
+    DevOps is a set of software development practices that combines software development (Dev) and information technology operations (Ops) to shorten the systems development life cycle while delivering features, fixes, and updates frequently in close alignment with business objectives
+
+     
+
+
+    Who can take this course
+
+    This course is meant for IT professionals who are Systems Admins, Developers, Testers, Solutions Architect, Release Engineers, Cloud Professionals and others who want to build a career in DevOps.
+
+
+
+    Prerequisite
+
+    There are no specific prerequisites to become a DevOps Practitioner. Anyone with basic knowledge of Linux and Networking can take up this DevOps course.
+
+
+     
+
+    Course Features
+
+
+    Training material, instructor handouts and access to useful devops resources on the cloud provided
+
+    Practical Hands on Lab exercises on cloud workstations provided
+
+    Actual code and scripts provided
+
+    Real-life Scenarios
+
+
+
+
+    Course Outline
+
+    1. Basics of DevOps
+
+
+    Why DevOps
+
+    What is DevOps,
+
+    DevOps Market Trends
+
+    DevOps Engineer Skills
+
+    DevOps delivery pipeline
+
+    DevOps ecosystem.
+
+
+    2. Build tools - GIT and Jenkins
+
+
+    Automatic Source Code Management using GIT and Continuous Integration using Jenkins.
+
+    Introduction to VCS and GIT
+
+    GIT File workflow
+
+    Important GIT Commands
+
+    Introduction to Continuous Integration and Jenkins
+
+    Plugin Management in Jenkins
+
+    Various scenarios of Building Delivery Pipeline.
+
+
+    3. Build and Test Automation
+
+
+    How to build an appropriate delivery pipeline and perform test automation on it.
+
+    You can also understand the various security options and notification management in Jenkins.
+
+    Build Setup in Jenkins
+
+    Test Automation
+
+    Security in Jenkins
+
+    Notification System.
+
+
+    4. Containerization using Docker
+
+
+    Identify the difference between containers and VMs.
+
+    Virtualization using Docker
+
+    Deep dive into image and containers concept in Docker.
+
+    What and Why of Containers
+
+    Introduction to Docker
+
+    Docker Fundamentals
+
+    Image Distribution
+
+    Docker Containers.
+
+
+    5. Docker Commands and Use-cases
+
+
+    Networking concepts in Docker
+
+    Best way to use the Docker Volume
+
+    Creating a Docker file.
+
+    Docker Networking
+
+    Docker Volumes
+
+    Docker Files.
+
+
+    6. Puppet
+
+
+    "Infrastructure -as-Code"
+
+    Master-agent architecture and catalog compilation in Puppet
+
+    Write a Puppet program using Puppet DSL
+
+    Puppet Introduction
+
+    Puppet Architecture
+
+    Basic Puppet Terminologies
+
+    Puppet Language Constructs.
+
+    Install modules from a third-party tool
+
+    Node classification using hiera and ENC
+
+    Puppet environment structure and configuration
+
+    Various kinds of puppet classes and puppet template.
+
+
+    7. Chef
+
+
+    Introduction to Chef
+
+    Chef – Server Architectures
+
+    Chef Workstation
+
+    Chef – Repo
+
+    Servers and Nodes
+
+    Cookbooks and Recipes
+
+    Installing chef with Knife
+
+    Data – Bags
+
+
+    8. Ansible
+
+
+    Introduction to Ansible
+
+    Setting up Ansbile and Vagrant
+
+    Ansible Foundations
+
+    Playbooks
+
+    Roles
+
+    Variables
+
+    Ansible Command Line Usage
+
+    Ansible Real Time Production Examples- USE CASES
+
+
+
+
+    Detailed Course Schedule
+
+    This course is attended by students from across all time zones in US, Canada and countries around the world including UK, many European and Asian Countries as well as Australia. Please check your Local Date and time for the first session and subsequent sessions as well.
+
+
+    August 26, 2019 | 6:30 PM to 8:30 PM US Pacific Time
+
+    August 28, 2019 | 6:30 PM to 8:30 PM US Pacific Time
+
+    September 2, 2019 - No class due to Labor Day National Holiday in US.
+
+    September 4, 2019 | 6:30 PM to 8:30 PM US Pacific Time
+
+    September 9, 2019 | 6:30 PM to 8:30 PM US Pacific Time
+
+    September 11, 2019 | 6:30 PM to 8:30 PM US Pacific Time
+
+    September 16, 2019 | 6:30 PM to 8:30 PM US Pacific Time
+
+    September 18, 2019 | 6:30 PM to 8:30 PM US Pacific Time
+
+    September 23, 2019 | 6:30 PM to 8:30 PM US Pacific Time
+
+
+
+  url: https://www.eventbrite.com/e/4-weeks-devops-training-for-beginners-in-york-pa-devops-bootcamp-build-tools-git-and-jenkins-build-tickets-66473699625?aff=ebapi
+  logo: https://cdn.evbuc.com/images/66403073/253710638063/1/original.20190724-141234?h=200&w=450&auto=compress&rect=0,0,800,400&s=4f91f73a2732540956f795f15a9a8a28
+  starts: 2019-08-26T21:30:00.0000000
+  ends: 2019-09-23T23:30:00.0000000
+  venue: Entirety Technologies
 - name: ACCU York [July 2019] - Developing Elasticsearch
   description: "<p>If you've ever searched Wikipedia, bought something on eBay, caught an Uber, or flown out of Stansted Airport you've used a system called Elasticsearch. Elasticsearch is a versatile open-source distributed search engine with a decade of history, thousands of contributors, and the responsibility for an extraordinary amount of data around the world. You might also be using it yourself to analyse your own system's logs and metrics and to hunt for security threats and performance issues.</p> <p>Like any other long-running software project, Elasticsearch has a mature development process and a substantial test suite, but when you look at the details you discover that no two such projects are alike. David is a full-time contributor to Elasticsearch and is continually impressed by how the team approaches the challenges of developing and maintaining such a large and ubiquitous piece of software. Join us for a tour of the development process and the test suite that sits behind each new release of Elasticsearch, and maybe take away some ideas for your own software projects too.</p> <p>**Please note the change in the room location, this may change.**</p> <p>----<br/>Thank you to University of York Computer Science department for finding us a place to meet<br/>Supported by YorkDevelopers<br/>ACCU York is an ACCU local group</p> "
   url: https://www.meetup.com/ACCU-York/events/263063530/
@@ -2475,8 +2771,8 @@
   starts: 2019-07-25T17:30:00.0000000
   ends: 2019-07-25T19:30:00.0000000
   venue: Department of Computer Science, University of York
-- name: Time traveller's guide to accessibility mechanics
-  description: '<p>For a long time, HTML gave us all the semantics and other goodies we<br/>needed to make things work properly on the web. Then we started<br/>inventing new UI components, and now we use ARIA and Javascript to<br/>polyfill the missing bits. As we move towards a future of Web<br/>Components, the time has come to invent another solution that will let<br/>us encapsulate accessibility in the shadow DOM - and its called the<br/>Accessibility Object Model (AOM).</p> <p>Léonie is Director of TetraLogical; a member of the W3C Advisory Board; co-Chair of the W3C Web Platform Working Group; and a member of the Accelerated Mobile Pages (AMP) Advisory Committee.</p> <p>Amongst other things, Léonie is co-organiser of the Inclusive Design 24 (#id24) conference; co-author of the Inclusive Design Principles; and mentor to young people interested in the fields of accessibility and inclusive design. She is also a Microsoft Most Valued Professional (MVP).</p> <p>Léonie is often found at conferences, talking about web standards, accessibility mechanics, and pushing the boundaries of inclusive design (with existing technologies like SVG, HTML, ARIA, and JavaScript, as well as new technologies like AI and WebVR). She has also written about these things for Smashing magazine, SitePoint.com, and Net magazine, as well as on her own site Tink.UK.</p> '
+- name: ••• CANCELLED •••
+  description: '<p>••• Due to personal circumstances, the speaker had to cancel. """</p> <p>For a long time, HTML gave us all the semantics and other goodies we<br/>needed to make things work properly on the web. Then we started<br/>inventing new UI components, and now we use ARIA and Javascript to<br/>polyfill the missing bits. As we move towards a future of Web<br/>Components, the time has come to invent another solution that will let<br/>us encapsulate accessibility in the shadow DOM - and its called the<br/>Accessibility Object Model (AOM).</p> <p>Léonie is Director of TetraLogical; a member of the W3C Advisory Board; co-Chair of the W3C Web Platform Working Group; and a member of the Accelerated Mobile Pages (AMP) Advisory Committee.</p> <p>Amongst other things, Léonie is co-organiser of the Inclusive Design 24 (#id24) conference; co-author of the Inclusive Design Principles; and mentor to young people interested in the fields of accessibility and inclusive design. She is also a Microsoft Most Valued Professional (MVP).</p> <p>Léonie is often found at conferences, talking about web standards, accessibility mechanics, and pushing the boundaries of inclusive design (with existing technologies like SVG, HTML, ARIA, and JavaScript, as well as new technologies like AI and WebVR). She has also written about these things for Smashing magazine, SitePoint.com, and Net magazine, as well as on her own site Tink.UK.</p> '
   url: https://www.meetup.com/Leeds-Sharp/events/259863683/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
@@ -2508,13 +2804,6 @@
   ends: 2019-07-29T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
-- name: Rapid, Repeatable, Predictable, Delivery
-  description: '<p>Rapid, Repeatable, Predictable, Delivery, or RRPD gives teams the ability to create a lean but structured IT delivery capability supported by an agile strategic planning framework. This is done by building on Agile and Lean values to rapidly move through stages gaining increasing confidence in the idea. The stages create pivot points where priorities can be re-assessed and effort optimised.</p> <p>Come and Grab a Drink and Snack!</p> '
-  url: https://www.meetup.com/Blended-Agile-Delivery/events/262419202/
-  is-free: true
-  starts: 2019-07-29T17:00:00.0000000
-  ends: 2019-07-29T19:00:00.0000000
-  venue: 10 E Parade
 - name: LeedsDevops - July 2019 Meetup
   description: "<p>Event is now full, RSVPs will re open on the 29th July for any spaces that come available - please check back then if you still want to come along!</p> <p>Summer is upon us, what better way to spend a sunny summers evening than a does of DevOps chatter, on Tuesday 30th July 2019 we are at the ODI Node in Leeds for thought provoking devops ideas.</p> <p>* 6:45 - 7:15 : Doors open, have a chat, make some new devops friends<br/>* 7:15 - 7:25 : Group updates/news/announcements<br/>* 7:25 - 8:05 : Paradigm Shift Left<br/>* 8:05 - 8:20 : Intermission<br/>* 8:20 - 9:00 : ECS, Fargate &amp; the Power of Data MVT<br/>* 9:00 - late : Social</p> <p>Our first speaker of the evening is James Scanlan a tech lead in NHS Digital's Digital Delivery Centre. He has worked in the health sector for more than 20 years, focusing on delivering software systems that support the flow of data across health and care. Through a career that has spanned writing code, designing and architecting systems to technical and delivery leadership, James has a passion for providing high quality user centred solutions that work at scale. James spends most of his time thinking about technology, agile, devops and organisation culture! When not with his family or Dora (the dog) James can be found marching around North Yorkshire with some Explorer Scouts or getting carried away supporting Leeds United.</p> <p>James says his talk \"Paradigm Shift Left\" is a bit of counter-programming for the evening. James is going to focus on the C in CALMS and talk about how culture underpins everything that effective devops teams are looking to achieve.</p> <p>Our second speaker is Tim Edmonds who is a Digital Architect at Accenture, specialising in consumer-facing platforms for media &amp; entertainment clients. With more than 15 years of experience engineering &amp; architecting publishing and video systems around the world.</p> <p>His talk \"ECS, Fargate &amp; the Power of Data MVT\" is about how Accenture have migrated their micro-service estate to ECS using Fargate to help us scale for the peaks and troughs of video demand. Also how they used that same infrastructure to help them experiment and test different types data to improve the video consumption experience.</p> <p>First Time Attendees</p> <p>Here at LeedsDevops we understand that coming along to your first meetup can be an anxious experience, walking into a large room full of people can be daunting. So when you arrive at the meetup we'll have an additional small room for new attendees to make friends with other first time attendees. Then shortly before the start we'll show you into the main room helping make the whole experience less intimidating (but honestly there's nothing to worry about the LeedsDevops crowd is a friendly bunch). We'll also use this room as a quiet space between the talk for those that don't want to join the discussion.</p> <p>Refreshments</p> <p>We're continuing to expand the range of refreshments on offer, there will be a wide range of quality soft drinks, teas and coffees, water, craft beer, cider and wine - big thanks to our sponsors [Infinity Works](<a href=\"https://www.infinityworks.com/\" class=\"linkified\">https://www.infinityworks.com/</a>) for their support and sponsorship.</p> <p>Code Of Conduct</p> <p>Please note that we have an [anti harassment policy and code of conduct] (<a href=\"http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct\" class=\"linkified\">http://www.leedsdevops.org.uk/post/165145559625/code-of-conduct</a>) in order to support the inclusive nature of the meetup. All attendees, speakers, sponsors and volunteers at any LeedsDevops event are required to agree with the code of conduct.</p> <p>Venue</p> <p>The ODI Node Leeds is situated at Munro house, on Duke Street opposite Leeds Bus Station. If you want to find out more about the ODI details can be found at <a href=\"http://theodi.org/nodes/leeds\" class=\"linkified\">http://theodi.org/nodes/leeds</a></p> <p>If you'd like to find out more about leedsDevops then head to <a href=\"http://www.leedsdevops.org.uk/\" class=\"linkified\">http://www.leedsdevops.org.uk/</a> or talk to us on [twitter @leedsdevops](<a href=\"http://twitter.com/leedsDevops/\" class=\"linkified\">http://twitter.com/leedsDevops/</a>).</p> <p>For more details see the event page on [leedsdevops.org.uk](<a href=\"http://www.leedsdevops.org.uk/post/2019-07-10-tuesday-30th-july-2019-at-the-odi-node-in-leeds/\" class=\"linkified\">http://www.leedsdevops.org.uk/post/2019-07-10-tuesday-30th-july-2019-at-the-odi-node-in-leeds/</a>)</p> "
   url: https://www.meetup.com/LeedsDevops/events/263040456/
@@ -2573,6 +2862,22 @@
   ends: 2019-08-07T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzlbkb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-08-07T07:00:00.0000000
+  ends: 2019-08-07T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Microservices challenges on Kubernetes with Shahid Iqbal
+  description: "<p>We'll have a fairly relaxed agenda, but will follow:<br/>- \U0001F44B Introduction / Housekeeping<br/>- \U0001F5E3️ Round table introductions<br/>- \U0001F468‍\U0001F3EB Solving microservices challenges on the Kubernetes platform with Shahid Iqbal<br/>- \U0001F389 Closing<br/>- \U0001F37B Social</p> <p>\U0001F449 **Solving microservices challenges on the Kubernetes platform**</p> <p>Developing microservices based applications is a hot trend in our industry.<br/>However the journey to microservices is fraught with problems, by trying to solve one problem we often introduce a set of new ones.</p> <p>This talk introduces a \"journey\" to microservices and highlights some new problems that are created by adopting such an architecture.</p> <p>We then step through how we can leverage cloud native technologies such as Kubernetes and service meshes such as Istio to try and address some of these new problems.</p> <p>This talk along with demos will cover many topics in an area which is rapidly evolving however we'll try and focus on the fundamental problems, and demonstrate tools that can help make the experience better or simply easier to manage.</p> <p>Attendees will learn:<br/>Why microservices introduce many new challenges.<br/>How cloud native technologies (such as Kubernetes, Azure Dev Spaces, Istio) can try and help address these challenges.<br/>Some general guidance on microservices architecture.</p> <p>Some knowledge of microservices, containers and Kubernetes is useful but not essential we'll cover the basic topics</p> <p>Previously presented at NDC Sydney 2018</p> <p>\U0001F468‍\U0001F3EB About the speaker:<br/>Shahid Iqbal is an Independent Azure consultant, Microsoft MVP<br/>Shahid is an independent consultant and Microsoft MVP based in the UK and operating across the globe.<br/>With over a decade of experience in .NET he works with companies to help migrate their existing applications and processes to the Cloud and Azure in particular.<br/>He is a passionate proponent of Cloud Native approaches and employing technologies such as Azure and Kubernetes to solve modern development problems.<br/>Shahid is also a frequent speaker at both international conferences and local meetups and is a co-organizer of a .NET meetup in the UK.</p> <p>When he's not working he's usually playing around with gadgets or talking about cars.</p> "
+  url: https://www.meetup.com/dotnetYork/events/258898658/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/8/0/7/2/thumb_483212882.jpeg
+  starts: 2019-08-07T17:30:00.0000000
+  ends: 2019-08-07T19:30:00.0000000
+  venue: Trailight Boardroom
 - name: Front End York - August Event
   description: '<p>Dee Vincent-Day: Metadata is all around you</p> <p>In this talk, Dee will introduce you to metadata. It is more than a few tags on a page, it is the basis of many businesses and it is all around you. Dee will explain what metadata is and the purpose of it. Thinking and talking about practical applications of metadata and how business is using it to improve customer experience.</p> <p>Second talk TBC</p> '
   url: https://www.meetup.com/YorkDevelopers/events/259742226/
@@ -3025,6 +3330,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2020-01-13T07:00:00.0000000
   ends: 2020-01-13T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqybccbtb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-01-15T07:00:00.0000000
+  ends: 2020-01-15T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
