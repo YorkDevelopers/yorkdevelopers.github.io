@@ -1,22 +1,5 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzkbpc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-07-31T06:00:00.0000000
-  ends: 2019-07-31T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzkbpc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-07-31T07:00:00.0000000
-  ends: 2019-07-31T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbhb/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -24,13 +7,6 @@
   ends: 2019-08-05T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
-- name: The Application Of Open Source Test Automation Frameworks Into The Retail Sector
-  description: '<p>Andrew Palmer and Deependra Rathore from Mastek provide a behind the scenes insight into how test automation has been used in the retail sector.</p> <p>They explain how using open source tools including Cucumber and TestNG have enable automated testing to pay for itself within 2 sprints.</p> '
-  url: https://www.meetup.com/Haintons-Software-Testing-Meetup/events/262961916/
-  is-free: true
-  starts: 2019-08-06T17:00:00.0000000
-  ends: 2019-08-06T19:00:00.0000000
-  venue: Duke Studios
 - name: When in Rome, do a classic kata!
   description: "<p>This month we'll be at Sky Betting and Gaming, completing the Roman Numeral Kata.</p> <p>It's a classic kata suitable for both beginners and advanced coders. If you feel you may have done it before: don't worry - there's a bit of a twist to keep you busy (and of course the purpose of katas is to deliberately repeat and practice them).</p> <p>If possible please bring a laptop with your programming language of choice installed.</p> <p>Food and soft drinks will be provided, please could we ask you to make us aware of any food allergies prior to your attendance when you RSVP. Please remember to un-register from the event if you are unable to make it (thus ensuring we don't over order food!)</p> <p>Please note: due to the event being held in a betting company we cannot allow anyone that is under 18 into the event. Apologies.</p> "
   url: https://www.meetup.com/Leeds-Code-Dojo/events/263261340/
@@ -126,6 +102,21 @@
   ends: 2019-08-14T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzlbsb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-08-14T07:00:00.0000000
+  ends: 2019-08-14T10:00:00.0000000
+  venue: La Bottega Milanese
+- name: Machine Learning conceptual introduction PART I
+  description: '<p>Dr Suresh Manandhar holds a PhD in Artificial Intelligence from the University of Edinburgh. For the past 23 years he has been an academic at the department of Computer Science at the University of York, UK where he is currently the Head of Artificial Intelligence Research Group. He has a wide range of research interests in machine learning and natural language processing. Some of his current research themes are deep learning models for natural language processing, deep learning for medical image processing, community discovery using content and link analysis, answering complex questions, unsupervised learning of morphology, dialogues systems and mapping natural language to knowledge graphs. He has successfully graduated over 19 PhD students (from the University of York) under his supervision and published over 110 papers in peer reviewed conferences and journals. He currently serves on the editorial boards of the Journal of Natural Language Engineering and Journal of Applied Intelligence. In addition to his academic interests he also has keen industrial interests and currently advises a number of companies.</p> <p>Guide us through the often perilous myths of machine learning</p> <p>• AI as an academic discipline<br/>• Machine learning overview (core problems in ML)<br/>• Core mathematical concepts<br/>• Learning with a single neuron<br/>• Multilayer neural networks<br/>• Feature learning in multilayer networks<br/>• Encoder-decoder architectures<br/>• Issues with deep neural networks<br/>• Deep learning in Computer Vision:<br/>• Some key problems in computer vision<br/>• What is convolution within Convolutional Neural Networks (CNNs)<br/>• Deep CNN architectures (Max pooling, residual networks)<br/>• Attention within CNNs<br/>• Deep learning in Natural Language Processing:<br/>• Distributional semantics<br/>• Word embeddings<br/>• Application: CNN models for sentence processing<br/>• Recurrent neural networks (LSTMs)<br/>• Sequence to Sequence models<br/>• Attention based models for natural language processing<br/>• Application: forecasting stocks using news and time series data<br/>• The future – where the technology is taking us and what skills will we all need<br/>• Q&amp;A 10-15 minutes</p> <p>Come along and Join us at Dunnington Cricket club for the evening, free public event, light refreshments (complimentary tea, coffee, cake and biscuits) will be available , a bar is also open in the adjoining room with open access.</p> <p>Car parking available on site no charge</p> '
+  url: https://www.meetup.com/York-Machine-Learning-An-Introduction/events/263289014/
+  is-free: true
+  starts: 2019-08-14T17:45:00.0000000
+  ends: 2019-08-14T20:15:00.0000000
+  venue: Dunnington & Grimston Sports Club
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzlbtb/
@@ -577,6 +568,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2020-01-20T07:00:00.0000000
   ends: 2020-01-20T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqybccbdc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-01-22T07:00:00.0000000
+  ends: 2020-01-22T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
