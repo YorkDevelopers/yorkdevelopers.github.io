@@ -2445,6 +2445,485 @@
   starts: 2019-09-03T21:30:00.0000000
   ends: 2019-09-26T23:30:00.0000000
   venue: Entirety Technology
+- name: Automation Anywhere Training in York | Automation Anywhere Training | Robotic Process Automation Training | RPA Training
+  description: "This Automation Anywhere training is a LIVE Instructor led training delivered for 16 hours over 4 weeks, 8 sessions, 2 sessions per week, 2 hours per session.\nPlease view the weekly training schedule at the bottom of this event description.\n\nFeatures and Benefits\n\n4 weeks, 8 sessions, 16 hours of total Instructor led LIVE training\nTraining material, instructor handouts and access to useful resources on the cloud provided\nPractical Hands on Lab exercises provided\nActual code and scripts provided\nReal-life Scenarios\n\n\nWhat are the Course Objectives?\n• Practical Hands-on and Complete knowledge of Automation Anywhere.• Create and maintain automated marketing campaigns.• Track customer behavior using analytics.\nWho should take this Course?\n• Working Professionals who are interested in learning Automation Anywhere - the leading RPA product.• Those interested in learning how to automate manual, redundant, repetitive tasks. \n\nPrerequisites\n• Familarity with Computer concepts• Appreciation for Robotic Process Automation Technology\n\nCourse Outline\n1. Introduction to RPA and Automation Anywhere\n\nAutomation Anywhere Architecture\nAutomation Anywhere Editors\nControl Room View\n\n2. Task Editor\n\nTask Editor Features\nDifferent sections in Task Editor\n\n3. Automation Anywhere Commands\n4. Keystrokes and Mouse\n\nInsert Keystrokes, Mouse Click\nInsert Mouse Move, Mouse Scroll\n\n5. Programs / Files / Windows\n\nOpen program/File\nFiles/Folders\nWindow Actions\nLog To File\nManage Windows Controls\nObject Cloning\nSystem\n\n6. Conditions / Loops\n\nIf/Loop\n\n7. Pause / Delays / Wait\n8. Internet\n\nWeb Recorder\nLaunch Website\nSend Email\nInternet Connection\nREST Web Service\nSOAP Web Service\n\n9. Tasks / Scripts\n\nRun Task\nStop Task\n\n10. Applications\n\nRead from CSV and Text\nExcel\nDatabase\nXML\n\n11. Interactive\n\nPrompt\nMessage Box\n\n12. Miscellaneous\n\nComment\nPaly Sound\nVariable Operation\nString Operation\nClip Board Operations\n\n13. System\n\nPrinters\nServices\n\n14. Advanced\n\nError Handling\nImage Recognition\nScreen Capture\n\n15. Integration\n\nApp Integration\nOCR\nEmail Automation\nTerminal Emulator\nPDF Integration\nCitrix Automation\n\n16. Security\n\nPGP\n\n17. Automation Anywhere Advanced Features\n\nMeta Bots\n\n18. Automation Anywhere Control Room\n\nUpload / Deploy Project\nAdd AA Clients\nOperations Room\n\n19. Hands-on Lab Exercises \n\nDeveloping a Bot using decision / loop controls\nDeveloping a Bot using excel operations\nDeveloping a Bot by Object cloning / web recording / smart recording\nDeveloping a Bot with PDF Operations & Email integration\nDeveloping a Bot using Exception Handling\n\n\nTraining Schedule\n\nSeptember 4, 2019 | 7:00 - 9:00 PM US Pacific Time\nSeptember 9, 2019 | 7:00 - 9:00 PM US Pacific Time\nSeptember 11, 2019 | 7:00 - 9:00 PM US Pacific Time\nSeptember 16, 2019 | 7:00 - 9:00 PM US Pacific Time\nSeptember 18, 2019 | 7:00 - 9:00 PM US Pacific Time\nSeptember 23, 2019 | 7:00 - 9:00 PM US Pacific Time\nSeptember 25, 2019 | 7:00 - 9:00 PM US Pacific Time\nSeptember 30, 2019 | 7:00 - 9:00 PM US Pacific Time\n\n\nRefund Policy\n\nThere are No Refunds.There are no exceptions.\n"
+  url: https://www.eventbrite.com/e/automation-anywhere-training-in-york-automation-anywhere-training-robotic-process-automation-tickets-67396973161?aff=ebapi
+  logo: https://cdn.evbuc.com/images/67183011/310161865775/1/original.20190731-234046?h=200&w=450&auto=compress&rect=0,9,930,465&s=32c6375cede0c7be21e50741411a27c8
+  starts: 2019-09-04T22:00:00.0000000
+  ends: 2019-10-01T00:00:00.0000000
+  venue: TruVs
+- name: Introduction to Linux/Unix training for beginners in York, PA | UNIX File System, UNIX Commands, Piping, Communication commands, Networking Commands, Disk Utilities, Shell Scripting, UNIX File System Architecture Training
+  description: "This LIVE training course consists of 8 sessons, 2 sessions per week, 2 hours per session.  This training covers Linux and UNIX Training where students gain skills to manage data, execute commands and customize LINUX and UNIX programming environment. \n\nCOURSE SCHEDULE\n\nThis is a weekdays course that will be held September 3 - September 26, 2019 US Pacific Time\nThe class sessions will be held-tuesday, thursday every week for 4 weeks\n7:00-9:00 PM US Pacific time, each day.\nPlease check your local date and time for first session.\n\n\nPREREQUISITES\n\nBasic knowledge about Operating System and its functionalities. \nFamiliarity with various computer concepts.\n\n\nCOURSE FEATURES\n\n4 weeks, 8 sessions, 16 hours of total LIVE Instruction\nTraining material, instructor handouts and access to useful resources on the cloud provided\nPractical Hands on Lab exercises on cloud workstations provided\nActual code and scripts provided\nReal-life Scenarios\n\n\nCOURSE OUTLINE\n1. UNIX File System Architecture\n\nBoot Block\nSuper Block\nInode Block\nData Block\n\n2. File System of UNIX\n\nOrdinary Files\nDirectory Files\nDevice Files\nThe Structure of UNIX File system\n\n3. Different UNIX Commands\n\npwd, who, whoami\nexit, date, cal, exit, banner\n\n4. Links\n\nHard Link\nSoft link or Symbolic Link\nUnlink\n\n5. Complex Filters\n\ntr, comm., tee, sed, nl\n\n6. Working with Files\n\ncat, touch, rm\ncp, mv, ln, wc\n\n7. Working with Directories\n\nmkdir, cd, rmdir, rm\n\n8. Displaying Files\n\nls, ls with options\n\n9. Simple Filters\n\npg, more, less, head, tail, paste, cut, sort\n\n10. Zip Files\n\ngzip, gunzip, zcat, compress\nUncompress, pack, unpack and Pcat\n\n11. Printing Files\n\nlp, cancel\n\n12. Finding Files\n\nfind, locate etc.,\n\n13. Input and Output Redirection\n\nRedirecting Output\nRedirecting Input\nStandard error\n\n14. Shell Meta Characters\n\nFile substitution\nI/O redirection\nProcess Execution\nQuoting meta characters\nPositional parameters\nSpecial Parameters\n\n15. More Filters\n\ngrep, grep with options\nfgrep, egrep\n\n16. Regular Expressions and Patterns\n\nWhat is Pattern?\nUsage of regular expression\nDifferent types of patterns\n\n17. How C programs are useful for solving problems in UNIX\n18. UNIX Commands\n\nUniq\nDiff\ncmp\n\n19. Backup Utilities\n\ntar, cpio\n\n20. Piping\n\nUsage of piping\nPiping with filters\n\n21. File Permissions\n\nchmod, chown, chgrp, umask\n\n22. Communication Commands\n\nwrite, wall, mail, mail with options\n\n23. Networking commands\n\ntelnet, ftp, rlogin, finger, etc..\n\n24. Disk Utilities\n\ndf, du, mount, unmount\n\n25. Job Control\n\nForeground jobs\nBackground jobs\nKilling jobs\nNohup\n\n26. Prcoess Status\n\nPs\nKill\nPkill\n\n27. Job scheduling\n\nAt\nCrontab\nBatch\n\n28. ed, ex and vi editors\n\nCommand mode\nInsert mode\nEx command mode\n\n29. Shell Scripting\n\nWhat is shell scripting?\nImportance of shell scripting\nDifferent types of shells\nCreating Shell script\nMaking shell script executable\n\n30. Shell Input and Output\n\necho, print, read\n\n31. Backslash character constants aliases and History concept variables\n\nWhat is a variable?\nSystem defined variables\nEnvironment Variables\nUser defined variables\nConstant variables\nLocal and Global variables\nSpecial Variables\nComments\n\n32. Operators\n\nArithmetic Operators\nRelational Operators\nRelational ASCII operators\nLogical Operators\nAssignment Operators\n\n33. Flow Control Structure\n\nIf, if….else\nIf… elif\nCase\n\n34. Looping\n\nwhile, until, for, break, continue\n\n35. Formatted I/O\n36. Namespaces in UNIX\n37. Introduction to Message Queues\n38. Introduction to Different Types of System Calls\n39. Programming Aspects of Berkeley Sockets & Reserved Ports\n40. UNIX Domain Protocol \n41. Socket Addresses\n\n\n\n\n\n\n\n\n\n"
+  url: https://www.eventbrite.com/e/introduction-to-linuxunix-training-for-beginners-in-york-pa-unix-file-system-unix-commands-piping-tickets-67418848591?aff=ebapi
+  logo: https://cdn.evbuc.com/images/67206939/253710638063/1/original.20190622-063212?h=200&w=450&auto=compress&rect=0,13,620,310&s=e789f59d17f09d8c5a9ff915f42b7678
+  starts: 2019-09-03T22:00:00.0000000
+  ends: 2019-09-27T00:00:00.0000000
+  venue: Entirety Technology
+- name: IoT Training in York | internet of things training | Introduction to IoT training for beginners | Getting started with IoT | What is IoT? Why IoT? Smart Devices Training, Smart homes, Smart homes, Smart cities
+  description: >
+    This training begins with an Introduction to IoT (Internet of Things), where and how IoT is being implemented today, IoT potential to transform the world as we know it, IoT architecture, different devices and technologies which can be part of an IoT solution and more. 
+
+    This IoT training is a LIVE Instructor led training delivered for 16 hours over 4 weeks, 8 sessions, 2 sessions per week, 2 hours per session.
+
+    Please view the weekly training schedule at the bottom of this event description. 
+
+
+    Features and Benefits
+
+
+    4 weeks, 8 sessions, 16 hours of total Instructor led LIVE training
+
+    Training material, instructor handouts and access to useful resources on the cloud provided
+
+    Practical Hands on Lab exercises provided
+
+    Actual code and scripts provided
+
+    Real-life Scenarios
+
+
+
+    What is IoT?
+
+    IoT (Internet of Things) is a system of interconnected devices and things such as computing machines, mechanical, digital machines, objects, animals that are connected over the internet. These devices and things can transfer data over a network without requiring human-to-human or human-to-computer interaction. The built-in technology in the objects helps them interact with internal states or the external environment, which in turn affects the decisions taken.
+
+
+    What are the Course Objectives?
+
+
+    Complete knowledge of IoT technology.
+
+    Learn features, benefits, core concepts, background technologies of IoT.
+
+    Understand sensors, communication interfaces microcontrollers to design and build IoT devices.
+
+    Understand how to construct prevalent computing architectures.
+
+
+
+    Who should take this Course?
+
+    • Working Professionals who are interested in learning IoT.• Solution Architects, Technical Architects, Software Developers and those who are seeking IoT knowledge
+
+
+    Prerequisites
+
+    • Familiarity with Computer concepts, basics of Linux and Python
+
+
+    Course Outline
+
+    1. Introduction
+
+
+    What is IoT?
+
+    How is IoT applied in various domains?
+
+    Use cases ranging from Smart Cities to IoT
+
+    How large is the IoT Market in various domains?
+
+
+    2. IoT Architecture
+
+
+    IoT Technology Stack
+
+    Sensors and Actuators
+
+    Hardware Platforms
+
+    Wireless Communication Protocols
+
+    Network Communication Protocols
+
+    Cloud, its components and IoT
+
+    Data Streaming in IoT
+
+    Data Store and IoT
+
+    Analytics & Visualization for IoT
+
+
+    3. Sensor and Actuator
+
+
+    What is Sensor, what is Actuator?
+
+    What is a suitable sensor?
+
+    Properties of Sensors and their classifications
+
+    Types of Sensors and Actuators
+
+    How do typical Sensors and Actuators work?
+
+    Categories of sensors - Commercial, Industrial, Military, Medical, Food grade sensors
+
+    Selecting a sensor for your use case
+
+    IoT Hardware Platform & comparison
+
+    Criteria for choosing a Hardware platform
+
+
+    4. Overview of Raspberry pi and Arduino Hardware
+
+
+    Introduction to Raspberry Pi
+
+    Introduction to Arduino Open Source Microcontroller Platform
+
+    Schematics, PCB Design Tools and prototyping steps
+
+    Raspberry Pi and Arduino Board Layout & Architecture
+
+    Why Raspberry Pi?
+
+    Why Arduino?
+
+
+    5. Fundamentals of Programming with Arduino
+
+
+    Learn to program Arduino with Arduino IDE
+
+    Learn to make your Arduino respond to sensors and actuators
+
+    Reading data from analog and Digital Sensors
+
+    Writing data to analog (PWM)
+
+    How to write data to Digital Actuators
+
+
+    6. How to Interface Sensors and Actuators with Hardware
+
+
+    How to connect sensors to Arduino to read data from sensors and display data such as Temperature, Humidity, Distance, Light, Moisture, Gas (Methane and Alcohol), Proximity, Motion) on the serial monitor.
+
+    Connecting actuator to Arduino and controlling Actuator via LED, Relay, Push button, Buzzer
+
+    Controlling a motor (actuator) by sensing Temperature
+
+    Controlling a buzzer using Ultrasonic ranger
+
+    PIR (Human presence) - (Combining sensors to avoid false alarms)
+
+    Using moisture sensor to control sprinklers using relay by sensing moisture in the soil.
+
+
+    7. How to Program Raspberry Pi board
+
+
+    How to work with Raspberry Pi 3 Model
+
+    How to install OS and design Systems using Raspberry pi
+
+    How to configure Raspberry Pi for VNC Connection
+
+
+    8. Introduction to Linux Operating System
+
+
+    Linux commands and uses
+
+
+    9. How to get started with Python
+
+
+    Variables, Functions, Control Structure
+
+    File Handling in Python and Importing or Exporting Data
+
+
+    10. Interface sensor and Actuator with Raspberry Pi
+
+    11. IoT Communication Protocol
+
+    12. IoT Wireless Protocols
+
+
+    RFID, NFC, Blue Tooth, BLE, ZigBee, and Zwave Mesh network
+
+    Comparison between Wireless Protocols
+
+    How to select wireless Protocol based on the use case
+
+
+    13. IoT Communication Channels
+
+
+    Wi-Fi, GSM/GPRS, 2G, 3G, LTE
+
+    Comparison of Communication Channels
+
+    How to select communication channels based on use case
+
+
+    14. Network Protocols in IoT
+
+
+    MQTT, MQTTS, CoAP, 6LoWPAN, TCP, UDP, HTTP, HTTPS
+
+
+    15. Comparison of the Network protocols
+
+
+    Selection of Network Protocol based on Use Case
+
+
+    16. Introduction to IPv4 and IPv6
+
+
+    Issues with IPv4 in IoT
+
+    How IPv6 resolves the problems with IPv4
+
+    RF protocol Application issues
+
+    Power consumption, LOS, reliability, Security aspects
+
+
+    17. TCP/UDP Transport Layer Protocol
+
+
+    Introduction to TCP and UDP
+
+    Difference between TCP/UDP Transport layer protocol
+
+    How to test TCP v/s UDP by python socket programming
+
+
+    18. HTTP Application layer IOT Protocol
+
+
+    Introduction to the HTTP protocol
+
+    Structure of HTTP Protocol
+
+    Start with HTTP protocol GET/POST Method
+
+    How to work on python Flask library design web page
+
+    Control thing from the webpage using the HTTP protocol
+
+    Publish sensor data over the web server
+
+
+    19. MQTT IOT Protocol
+
+
+    Introduction to MQTT
+
+    Why MQTT?
+
+    Features of MQTT
+
+    MQTT Subscribe/Publish
+
+    MQTT Broker
+
+    MQTT QoS
+
+    MQTT Security
+
+
+    20. MQTT and Raspberry Pi
+
+
+    How to install Mosquito MQTT broker
+
+    How to Publish and Subscribe test on local server broker
+
+    Start with Paho MQTT
+
+    Publish and subscribe on iot.eclipse platform
+
+
+    21. CoAP IOT Protocol
+
+
+    Introduction to CoAP
+
+    CoAP IOT protocol Architecture
+
+    Difference between HTTP & COAP
+
+    Implement of CoAP using CoAPthon Python library
+
+    Design server and client using Python
+
+
+    22. IoT Cloud Platform (Ubidot)
+
+
+    Read data from sensors,
+
+    Create a JSON Object
+
+    Establish HTTPS connection using Wi-Fi
+
+    How to send JSON data to Ubidot Rest API over HTTPS
+
+    Create business rules in Ubidot for alarms
+
+    Send Data to Ubidot platform
+
+    How to create rules and configure Alarm with SMS and Email for your device
+
+    How to send data to Ubidot which will trigger the alarm
+
+    How to create and configure Chart/Graph for visualization
+
+    How to Control the actuator from Ubidot using polling technique
+
+
+    23. Introduction to Big Data and Big data technologies
+
+    24. Cloud Computing
+
+
+    What is cloud?
+
+    What is cloud computing?
+
+    Benefits of the cloud.
+
+    Deployment Models.
+
+    Top cloud providers.
+
+    Service Models
+
+    Service Catalogue
+
+    Advantages for different offerings
+
+    Introduction to AWS
+
+    Service provided by AWS E2C, SimpleDB RDS, Dynamo DB, Elastic Beanstalk, SNS, Cloud Watch, Route 53, VPC, Elastic Load Balancing, S3, EBS, IAM
+
+
+    25. BigData
+
+
+    Cloud data storage
+
+    Introduction to Big Data
+
+    Big Data Definition and Characteristics
+
+    How is Big Data being generated?
+
+    Big Data Analytics
+
+    Why Big Data Analytics
+
+    Applications of Big Data Analytics
+
+    Different Data Stores
+
+    Big Data Technologies CouchDB, MongoDB, Node4J
+
+
+    26. AWS IoT Setup for Application Development
+
+
+    Introduction to AWS IoT
+
+    Downloading SDK and configuring RaspberryPi
+
+
+    27. How to prepare Raspberry Pi to connect to AWS IoT
+
+
+    Downloading Certificates from AWS IoT console
+
+    Installing certificate in RaspberryPi
+
+    Connecting Sensors to RaspberryPi II.
+
+
+    28. Connecting to AWS IoT
+
+
+    Configuring RaspberryPi sketch to connect to AWS IoT through Wi-Fi
+
+    Establishing MQTT Connection
+
+    Publishing Sensor data to AWS IoT Shadow
+
+    Subscribing MQTT Topic and controlling actuator from the shadow
+
+
+    29. How to send Data from raspberry Pi to AWS IoT
+
+
+    Run Ultrasonic ranger sketch in RaspberryPi and check
+
+    Updating of data from Raspberry Pi to AWS Shadow
+
+
+    30. Dynamo DB
+
+
+    Configuration of Dynamo DB
+
+    Create a table in Dynamo DB
+
+    Create a rule to link dynamo DB with AWS IOT
+
+    Store sensor data From AWS IOT in Dynamo DB
+
+
+    31. SNS
+
+
+    Set up SNS service
+
+    Test SNS service by publish and subscribe
+
+    Create a rule and link with AWS IOT
+
+    Notify through mail when Publisher publish data
+
+
+
+    TRAINING SCHEDULE
+
+    Click on the date and time links below to find out your local date and time in your local time zone.
+
+
+    August 7, 2019 | 7:00 - 9:00 PM US Pacific Time
+
+    August 12 , 2019 | 7:00 - 9:00 PM US Pacific Time
+
+    August 14, 2019 | 7:00 - 9:00 PM US Pacific Time
+
+    August 19, 2019 | 7:00 - 9:00 PM US Pacific Time
+
+    August 21, 2019 | 7:00 - 9:00 PM US Pacific Time
+
+    August 26, 2019 | 7:00 - 9:00 PM US Pacific Time
+
+    August 28, 2019 | 7:00 - 9:00 PM US Pacific Time
+
+    September 4, 2019 | 7:00 - 9:00 PM US Pacific Time
+
+
+
+    REFUND POLICY
+
+
+    There are No Refunds.There are no exceptions.
+  url: https://www.eventbrite.com/e/iot-training-in-york-internet-of-things-training-introduction-to-iot-training-for-beginners-getting-tickets-67423965897?aff=ebapi
+  logo: https://cdn.evbuc.com/images/67204607/310161865775/1/original.20190706-134727?h=200&w=450&auto=compress&rect=0,39,1092,546&s=8c2e5fe472546424d0c68a8b45868964
+  starts: 2019-08-07T22:00:00.0000000
+  ends: 2019-09-05T00:00:00.0000000
+  venue: TruVs
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbhb/
