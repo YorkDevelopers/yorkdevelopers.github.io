@@ -1,18 +1,3 @@
-- name: When in Rome, do a classic kata!
-  description: "<p>This month we'll be at Sky Betting and Gaming, completing the Roman Numeral Kata.</p> <p>It's a classic kata suitable for both beginners and advanced coders. If you feel you may have done it before: don't worry - there's a bit of a twist to keep you busy (and of course the purpose of katas is to deliberately repeat and practice them).</p> <p>If possible please bring a laptop with your programming language of choice installed.</p> <p>Food and soft drinks will be provided, please could we ask you to make us aware of any food allergies prior to your attendance when you RSVP. Please remember to un-register from the event if you are unable to make it (thus ensuring we don't over order food!)</p> <p>Please note: due to the event being held in a betting company we cannot allow anyone that is under 18 into the event. Apologies.</p> "
-  url: https://www.meetup.com/Leeds-Code-Dojo/events/263261340/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/e/4/a/e/thumb_385018542.jpeg
-  starts: 2019-08-06T17:00:00.0000000
-  ends: 2019-08-06T20:00:00.0000000
-  venue: 6 Wellington Pl
-- name: Bitcoin & Crypto-currency discussion with drinks
-  description: '<p>Details<br/>We are meeting up for another informal discussion about bitcoin and other crypto-currencies.<br/>Meet like minded people and learn from others who are interested in crypto-currency.<br/>Arrive and leave when is convenient to you.<br/>For those of you who are only available in the early evening, you can come along before 7pm, as some of us will be there early.</p> <p>Do Feel free to bring drinks and the lovely food from the bar into the upper function room.</p> <p>Look forward to seeing you there!</p> '
-  url: https://www.meetup.com/York-Bitcoin-Crowd-Funding-Cafe/events/263026392/
-  is-free: true
-  starts: 2019-08-06T18:00:00.0000000
-  ends: 2019-08-06T20:00:00.0000000
-  venue: Royal Oak
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbkb/
@@ -54,6 +39,13 @@
   starts: 2019-08-08T17:00:00.0000000
   ends: 2019-08-08T20:00:00.0000000
   venue: DoubleTree by Hilton Hotel Leeds City Centre
+- name: Peter Talks About Things (Neo4J, Pywin32)
+  description: "<p>Doors open at 18:30 and event starts at 19:00.</p> <p>Social in the pub afterwards.</p> <p>Peter will be giving two short talks on useful Python techniques he's found:</p> <p>Using Neo4j as a tool for ad-hoc manipulation for graphy data from Python.</p> <p>Neo4j is a graph database management system, which sounds pretty cool, but is it relevant to you if you don't have a graph database that needs managing? I've found that Neo4j can be a useful tool for the sort of ad-hoc data manipulation that I would otherwise have done in the console, and it's really easy to get started with. This talk will follow a worked example.</p> <p>Using ctypes to supplement pywin32.</p> <p>Pywin32 is a widely used Python library for programming Windows computers, with good coverage of the Windows API. I wanted to use PyWin32 to automate a task in Python, but realised that some of the structures that I needed to use weren't present. I thought I was going to have to learn C or Rust until I noticed that I could substitute definitions written using Ctypes instead.</p> "
+  url: https://www.meetup.com/West-Yorkshire-Python-User-Group-WYPy/events/263772526/
+  is-free: true
+  starts: 2019-08-08T18:00:00.0000000
+  ends: 2019-08-08T20:00:00.0000000
+  venue: Sky
 - name: Crypto catchup (Friday)
   description: '<p>Chance for a lunchtime catchup of the latest crypto developments</p> '
   url: https://www.meetup.com/Leeds-Bitcoin-Crypto-Meetup/events/tpfphpyzlbmb/
@@ -70,13 +62,6 @@
   ends: 2019-08-12T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
-- name: Keep the date
-  description: '<p>Details to come</p> '
-  url: https://www.meetup.com/Agile-Breakfast-Leeds/events/259921953/
-  is-free: true
-  starts: 2019-08-12T07:00:00.0000000
-  ends: 2019-08-12T09:00:00.0000000
-  venue: The Brew Society
 - name: DevOps For Humans by Terry Brown - Director of Engineering at GlaxoSmithKline
   description: '<p>About The Talk:<br/>How many different definitions of DevOps have you seen? How many of them focus on tooling and ignore the most important aspects of DevOps? How many tell you if you aren’t doing “X” you’re doing it wrong? This isn’t one of those talks…</p> <p>This talk will bring you DevOps from a different angle. It’ll cover the why behind DevOps, the various models that have become popular when talking about it and implementing system improvements. It’ll highlight some effective practices and anti-patterns, and it’ll deliver insights into the cultural, process, and practice changes that high performing teams adopt in their pursuit of flow of value.</p> <p>You don’t have to be from a tech background to get value from this talk – tooling is barely mentioned. You will leave the talk with clarity on how DevOps could fit into your own organisations, what your first (and future) steps could be, and have the whole topic will be demystified.</p> <p>About The Speaker:<br/>Terry has worked as a software engineer for 25 years, has headed up teams, and is now Director of Software Engineering at GSK helping the organisation on a tech transformation and a move to product focussed thinking. His tech interest is around performance, automation, and resilience in systems. His leadership focus is around focus on the customer, culture, psychological safety, empathy, emotional intelligence, mental health and helping teams bring their best selves to their work.</p> '
   url: https://www.meetup.com/HaintonDotNetYorkshire/events/262584094/
@@ -84,6 +69,15 @@
   starts: 2019-08-13T17:00:00.0000000
   ends: 2019-08-13T19:00:00.0000000
   venue: Duke Studios
+- name: York Code Dojo August - Mob programming
+  description: '<p>This month will we work on a problem using mob programming. This task will be suitable for both beginners and advanced coders. If possible please bring a laptop with your programming language of choice installed. NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
+  url: https://www.meetup.com/York-Code-Dojo/events/263769421/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
+  starts: 2019-08-14T17:30:00.0000000
+  ends: 2019-08-14T20:30:00.0000000
+  venue: Room FT/112 York St John University
+  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbsb/
