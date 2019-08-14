@@ -3,7 +3,7 @@ layout: post
 title:  "YorkDevelopers joins YorkProfessionals"
 date:   2019-02-05 15:08:10 -0500
 img: img/posts/york_professionals_logo.png
-modalID: modalYorkTechFestWeDidIt
+modalID: modalYorkDevelopersJoinsYorkProfessionals
 category: Post
 ---
 YorkDevelopers are proud to announce that we are now member of [York Professionals][yorkprofessionals-site] to represent Charities within the York Business Sector.  

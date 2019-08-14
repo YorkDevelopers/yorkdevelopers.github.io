@@ -6,6 +6,8 @@ img: img/posts/YorkTechFest_logo.png
 modalID: modalYorkTechFestWeDidIt
 category: Post
 ---
-The first YorkTechFest 2018 event was delivered on the evening of November 13th 2018. Over 80 people attended to listen to 10 speakers delivering tech content. [Read more about the event here][yorktechfest2018-event].
+Last year in November 2018, YorkDevelopers successfully delivered the first YorkTechFest event in partnership with City of York Council (York Digital City) in November with over 80 attendees.  The event celebrated the non-profit tech community within York and brought together many tech volunteer groups on one evening to listen to talks on subjects delivered by the communities themselves.    
 
-[yorktechfest2018-event]: https://www.yorkdevelopers.org/yorktechfest2018/
+Read the write up at MakeItYork here for more information on [YorkTechFest 2018][yorktechfest2018-writeup]. 
+
+[yorktechfest2018-writeup]: http://www.makeityork.com/news/york-tech-fest/
