@@ -24,12 +24,6 @@
   starts: 2019-08-14T07:00:00.0000000
   ends: 2019-08-14T10:00:00.0000000
   venue: La Bottega Milanese
-- name: Lean Agile Hull - Challenging Coaching
-  description: "<p>Evening outline</p> <p>18:30 Registration, food, networking</p> <p>19:00 Tony Richards, Agile Coach at Aviva in York will be talking about Challenging Coaching.</p> <p>Tony Richards coaches Agile teams at a large multinational financial services organisation and works with many leaders looking to develop a growth mindset. Having worked in a number of industries, he started his career working with Toyota where he discovered kanban and what would result in a career helping teams practice Agile ways of working.</p> <p>20:00 Tear down - please help us to clear up at the end</p> <p>Doors open at 6.30pm with the talks starting promptly at 7pm.</p> <p>Giacom are providing food and refreshments - served at 6.30pm, once they're gone, they're gone!</p> <p>Please check out our awesome sponsors:</p> <p>Arco - <a href=\"https://www.arco.co.uk\" class=\"linkified\">https://www.arco.co.uk</a><br/>Ian Carroll - <a href=\"https://www.iancarroll.com\" class=\"linkified\">https://www.iancarroll.com</a><br/>Giacom - <a href=\"https://www.giacom.com\" class=\"linkified\">https://www.giacom.com</a><br/>Solutioneers - <a href=\"https://www.solutioneers.co.uk\" class=\"linkified\">https://www.solutioneers.co.uk</a></p> <p>- Event Location:<br/>Giacom,<br/>Priory Tec Park,<br/>Bridge Haven One,<br/>Saxon Way,<br/>Hessle<br/>HU13 9PG</p> "
-  url: https://www.meetup.com/Lean-Agile-Hull/events/263576074/
-  is-free: true
-  starts: 2019-08-14T17:30:00.0000000
-  ends: 2019-08-14T19:00:00.0000000
 - name: Machine Learning conceptual introduction PART I
   description: '<p>Dr Suresh Manandhar holds a PhD in Artificial Intelligence from the University of Edinburgh. For the past 23 years he has been an academic at the department of Computer Science at the University of York, UK where he is currently the Head of Artificial Intelligence Research Group. He has a wide range of research interests in machine learning and natural language processing. Some of his current research themes are deep learning models for natural language processing, deep learning for medical image processing, community discovery using content and link analysis, answering complex questions, unsupervised learning of morphology, dialogues systems and mapping natural language to knowledge graphs. He has successfully graduated over 19 PhD students (from the University of York) under his supervision and published over 110 papers in peer reviewed conferences and journals. He currently serves on the editorial boards of the Journal of Natural Language Engineering and Journal of Applied Intelligence. In addition to his academic interests he also has keen industrial interests and currently advises a number of companies.</p> <p>Guide us through the often perilous myths of machine learning</p> <p>• AI as an academic discipline<br/>• Machine learning overview (core problems in ML)<br/>• Core mathematical concepts<br/>• Learning with a single neuron<br/>• Multilayer neural networks<br/>• Feature learning in multilayer networks<br/>• Encoder-decoder architectures<br/>• Issues with deep neural networks<br/>• Deep learning in Computer Vision:<br/>• Some key problems in computer vision<br/>• What is convolution within Convolutional Neural Networks (CNNs)<br/>• Deep CNN architectures (Max pooling, residual networks)<br/>• Attention within CNNs<br/>• Deep learning in Natural Language Processing:<br/>• Distributional semantics<br/>• Word embeddings<br/>• Application: CNN models for sentence processing<br/>• Recurrent neural networks (LSTMs)<br/>• Sequence to Sequence models<br/>• Attention based models for natural language processing<br/>• Application: forecasting stocks using news and time series data<br/>• The future – where the technology is taking us and what skills will we all need<br/>• Q&amp;A 10-15 minutes</p> <p>Come along and Join us at Dunnington Cricket club for the evening, free public event, light refreshments (complimentary tea, coffee, cake and biscuits) will be available , a bar is also open in the adjoining room with open access.</p> <p>Car parking available on site no charge</p> '
   url: https://www.meetup.com/York-Machine-Learning-An-Introduction/events/263289014/
@@ -129,6 +123,15 @@
   starts: 2019-09-04T06:00:00.0000000
   ends: 2019-09-04T09:00:00.0000000
   venue: Cafe Nero
+  endorsed: true
+- name: Front End York - September Event
+  description: '<p>Speakers TBC</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/263974539/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2019-09-04T18:00:00.0000000
+  ends: 2019-09-04T20:00:00.0000000
+  venue: Stonegate Yard Bar & Brasserie
   endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
