@@ -1,36 +1,3 @@
-- name: York Code Dojo August - Mob programming
-  description: '<p>This month will we work on a problem using mob programming. This task will be suitable for both beginners and advanced coders. If possible please bring a laptop with your programming language of choice installed. NOTE: Pizza and soft drinks will be provided :-) On RSVP please could we ask you to make us aware of any food allergies prior to your attendance. The venue is upstairs in the Fountains learning Centre, go into the library and either take the lift or stairs. It is normally well sign posted. Sponsored by York St John University School of Art, Design and Computer Science. <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/8/6/e/600_458139022.jpeg" /> Steered and supported by YorkDevelopers (www.YorkDevelopers.org) <img src="https://secure.meetupstatic.com/photos/event/9/e/4/event_465122532.jpeg" /></p> '
-  url: https://www.meetup.com/York-Code-Dojo/events/263769421/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/b/4/thumb_447841460.jpeg
-  starts: 2019-08-14T17:30:00.0000000
-  ends: 2019-08-14T20:30:00.0000000
-  venue: Room FT/207
-  endorsed: true
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbsb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-08-14T06:00:00.0000000
-  ends: 2019-08-14T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzlbsb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-08-14T07:00:00.0000000
-  ends: 2019-08-14T10:00:00.0000000
-  venue: La Bottega Milanese
-- name: Machine Learning conceptual introduction PART I
-  description: '<p>Dr Suresh Manandhar holds a PhD in Artificial Intelligence from the University of Edinburgh. For the past 23 years he has been an academic at the department of Computer Science at the University of York, UK where he is currently the Head of Artificial Intelligence Research Group. He has a wide range of research interests in machine learning and natural language processing. Some of his current research themes are deep learning models for natural language processing, deep learning for medical image processing, community discovery using content and link analysis, answering complex questions, unsupervised learning of morphology, dialogues systems and mapping natural language to knowledge graphs. He has successfully graduated over 19 PhD students (from the University of York) under his supervision and published over 110 papers in peer reviewed conferences and journals. He currently serves on the editorial boards of the Journal of Natural Language Engineering and Journal of Applied Intelligence. In addition to his academic interests he also has keen industrial interests and currently advises a number of companies.</p> <p>Guide us through the often perilous myths of machine learning</p> <p>• AI as an academic discipline<br/>• Machine learning overview (core problems in ML)<br/>• Core mathematical concepts<br/>• Learning with a single neuron<br/>• Multilayer neural networks<br/>• Feature learning in multilayer networks<br/>• Encoder-decoder architectures<br/>• Issues with deep neural networks<br/>• Deep learning in Computer Vision:<br/>• Some key problems in computer vision<br/>• What is convolution within Convolutional Neural Networks (CNNs)<br/>• Deep CNN architectures (Max pooling, residual networks)<br/>• Attention within CNNs<br/>• Deep learning in Natural Language Processing:<br/>• Distributional semantics<br/>• Word embeddings<br/>• Application: CNN models for sentence processing<br/>• Recurrent neural networks (LSTMs)<br/>• Sequence to Sequence models<br/>• Attention based models for natural language processing<br/>• Application: forecasting stocks using news and time series data<br/>• The future – where the technology is taking us and what skills will we all need<br/>• Q&amp;A 10-15 minutes</p> <p>Come along and Join us at Dunnington Cricket club for the evening, free public event, light refreshments (complimentary tea, coffee, cake and biscuits) will be available , a bar is also open in the adjoining room with open access.</p> <p>Car parking available on site no charge</p> '
-  url: https://www.meetup.com/York-Machine-Learning-An-Introduction/events/263289014/
-  is-free: true
-  starts: 2019-08-14T17:45:00.0000000
-  ends: 2019-08-14T20:15:00.0000000
-  venue: Dunnington & Grimston Sports Club
 - name: CodeUp Leeds Meetup
   description: "<p>AUGUST AGENDA</p> <p>* Writing a Python Image Classifier: in this workshop we will build a simple but effective image classifier in the Python programming language. We will write a program that will be able to tell apart pictures of bad and ripe strawberries and more! PREREQUISITES: basic programming knowledge (ideally Python but not strictly required). High-school level maths would be helpful but not compulsory.<br/>* Working with the Micronaut Java Framework: we will show you how to write web applications in this powerful framework for the Java programming language. PREREQUISITES: basic knowledge of Java and building web applications.</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. To discuss any additional accessibility requirements you may have, please contact [masked]</p> <p>Remember to bring a laptop in order to participate in the sessions!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
   url: https://www.meetup.com/CodeUp-Leeds/events/jgtwfryzlbtb/
@@ -97,6 +64,13 @@
   ends: 2019-08-26T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Using Supervised ML Methods to augment intelligent dashboards in Healthcare
+  description: "<p>We'll kick off the proceedings with food and soft drinks from 6:00pm - 6:30pm, followed by a talk on classification and regression in healthcare by Draped and Dash (D&amp;D)</p> <p>We at D&amp;D have developed a number of different ML classification and regression algorithms and models with the purpose of allowing healthcare services to plan for the likelihood that a patient will be stranded, to classify whether a patient will be readmitted, to predict LOS and other purposes. Our roadmap and strategy is to build intelligent dashboard that are augmented by predictive analytics and ML methods. This will allow for more effective and timely planning of demand and capacity for the healthcare industry.</p> <p>Our Stranded module is an example of how we have combined supervised ML methods - utilising regression and classification - to effectively risk stratify a patient by the likelihood that the patient will be stranded, to classify whether a patient will be stranded or not and by combining these methods with our BI solutions - this allows users to drill down to undertake descriptive analysis of the components of stranded.</p> <p>The beauty of the current module is that it contains a minimal data set that all other healthcare providers will have, making the transferrability and generalisability more fluid. Augmented dashboarding and predictive analytics is at the heart of what we do.</p> <p>Joe Frost has been working in and with the NHS for over 12 years, having began his career as an information analyst, moving on to hold the role of Head of Business Intelligence at Salford Royal for over 10 years. During his time here, Joe oversaw the trust’s integration to form The Northern Care Alliance, one of the largest healthcare organisations in Greater Manchester. Joe then moved on to become Director of Solutions and Draper &amp; Dash Healthcare, leading the<br/>company’s work around machine learning and data science.</p> <p>If you would like to volunteer for future talks, let us know!</p> <p>## What to bring</p> <p>The only requirement will be some keen listening ears!</p> "
+  url: https://www.meetup.com/Leeds-Data-Science-Meetup/events/263675714/
+  is-free: true
+  starts: 2019-08-27T18:00:00.0000000
+  ends: 2019-08-27T20:00:00.0000000
+  venue: NatWest Accelerator
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlblc/
@@ -106,6 +80,14 @@
   ends: 2019-08-28T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Code & Coffee
+  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
+  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzlblc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
+  starts: 2019-08-28T07:00:00.0000000
+  ends: 2019-08-28T10:00:00.0000000
+  venue: La Bottega Milanese
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzmbdb/
@@ -558,6 +540,15 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2020-02-03T07:00:00.0000000
   ends: 2020-02-03T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqybcdbhb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-02-05T07:00:00.0000000
+  ends: 2020-02-05T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
 - name: Game Developers, Monthly Meeting
