@@ -2071,22 +2071,6 @@
   starts: 2019-09-16T21:30:00.0000000
   ends: 2019-09-16T23:30:00.0000000
   venue: Entirety Technology
-- name: CodeUp Leeds Meetup
-  description: "<p>AUGUST AGENDA</p> <p>* Writing a Python Image Classifier: in this workshop we will build a simple but effective image classifier in the Python programming language. We will write a program that will be able to tell apart pictures of bad and ripe strawberries and more! PREREQUISITES: basic programming knowledge (ideally Python but not strictly required). High-school level maths would be helpful but not compulsory.<br/>* Working with the Micronaut Java Framework: we will show you how to write web applications in this powerful framework for the Java programming language. PREREQUISITES: basic knowledge of Java and building web applications.</p> <p>CodeUp is a learner-led meet-up for adults learning how to code. You tell us what you need support with, and we will do our best to help. With professional developers on hand, don't struggle alone. Let us help you develop your skills, for free!</p> <p>Whether you are a beginner with no prior programming knowledge, a hobbyist looking to get a job in tech or an experienced software engineer who wants to learn a new skill, we run a combination of workshops, talks and learner/mentor pairing to cater to aspiring developers of all levels.</p> <p>If you have a very specific question or problem, please comment with details so we can come prepared and provide the help you need.</p> <p>CodeUp Leeds is committed to providing an inclusive and welcoming environment for all attendees. To discuss any additional accessibility requirements you may have, please contact [masked]</p> <p>Remember to bring a laptop in order to participate in the sessions!</p> <p>You can find more information at <a href=\"https://codeupleeds.github.io/\" class=\"linkified\">https://codeupleeds.github.io/</a> or join us on Slack using the following link:</p> <p><a href=\"https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E\" class=\"linkified\">https://join.slack.com/t/codeupleeds/shared_invite/enQtMzgyODEzODYwODIxLWY1MTZkOTc0MGQ0ZDlhNTkzYmI2YmIxMGJiYzdjZjI5Y2Q1ZTgyMTQyZmZmOTBiZDQzNWQ4NmJlNjc3ZjlhN2E</a></p> <p>Space is limited, please only RSVP if you intend on coming.</p> "
-  url: https://www.meetup.com/CodeUp-Leeds/events/jgtwfryzlbtb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/5/3/e/1/thumb_467781473.jpeg
-  starts: 2019-08-15T17:45:00.0000000
-  ends: 2019-08-15T20:00:00.0000000
-  venue: 3rd Floor, Apsley House
-- name: Game Developers, Monthly Meeting
-  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmyzlbtb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-08-15T18:00:00.0000000
-  ends: 2019-08-15T21:00:00.0000000
-  endorsed: true
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbzb/
@@ -2161,6 +2145,14 @@
   starts: 2019-08-28T07:00:00.0000000
   ends: 2019-08-28T10:00:00.0000000
   venue: La Bottega Milanese
+- name: Leeds Sharp Code Dojo
+  description: "<p>This a practical, fun, coding session. We'll be using the excellent codingame.com to practice and compete in a few coding puzzles.<br/>We'll start off with an easy puzzle and in the second half we'll move on to something more challenging (neural networks!).</p> <p>LS#ers are invited to bring their laptop, but you can also team up with other LS#ers. All skill levels are welcome. Either you'll learn something new or you can teach others how it's done.</p> <p>We'll do four 25 minute stints and head off for beers and chats after that.</p> <p>It would help if you register on codingame before hand so we can compete against each other. We'll try and show a leaderboard on the projector.</p> <p>The first game will be: <a href=\"https://www.codingame.com/training/easy/ascii-art\" class=\"linkified\">https://www.codingame.com/training/easy/ascii-art</a></p> <p>The second game is: <a href=\"https://www.codingame.com/multiplayer/bot-programming/coders-strike-back\" class=\"linkified\">https://www.codingame.com/multiplayer/bot-programming/coders-strike-back</a></p> <p>You are welcome to prepare in advance.</p> <p>We'll have 2x 25 minutes on the first puzzle, stopping for questions and insights. Then move on to the second one.</p> <p>And remember, we're here to have fun. It's not a test, nor a measure of your skills. Sometimes we get stuck on projects in our job that aren't the most fun, and these coding sessions are here to remind us why we love coding :)</p> "
+  url: https://www.meetup.com/Leeds-Sharp/events/262229013/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/3/9/2/3/thumb_455954627.jpeg
+  starts: 2019-08-29T17:30:00.0000000
+  ends: 2019-08-29T19:30:00.0000000
+  venue: Platform
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzmbdb/
