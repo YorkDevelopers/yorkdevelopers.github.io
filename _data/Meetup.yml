@@ -39,6 +39,14 @@
   starts: 2019-08-22T17:00:00.0000000
   ends: 2019-08-22T19:00:00.0000000
   venue: Infinity Works Consulting
+- name: ACCU York [Aug 2019] - A chat about C++ "issues"
+  description: "<p>C++ is used by many industries, but particular members of the gaming industry have been vocal that C++ isn't evolving to solve the problems they face.</p> <p>This talk will be seeded by one such vocal outpour where C++ build times and non optimized performance are not good enough. Are they right? Do solutions exist? Is C++ evolving in the right direction?</p> "
+  url: https://www.meetup.com/ACCU-York/events/264057563/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/3/6/f/thumb_475438223.jpeg
+  starts: 2019-08-22T17:30:00.0000000
+  ends: 2019-08-22T19:00:00.0000000
+  venue: Department of Computer Science, University of York
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbjc/
@@ -48,13 +56,6 @@
   ends: 2019-08-26T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
-- name: Using Supervised ML Methods to augment intelligent dashboards in Healthcare
-  description: "<p>We'll kick off the proceedings with food and soft drinks from 6:00pm - 6:30pm, followed by a talk on classification and regression in healthcare by Draped and Dash (D&amp;D)</p> <p>We at D&amp;D have developed a number of different ML classification and regression algorithms and models with the purpose of allowing healthcare services to plan for the likelihood that a patient will be stranded, to classify whether a patient will be readmitted, to predict LOS and other purposes. Our roadmap and strategy is to build intelligent dashboard that are augmented by predictive analytics and ML methods. This will allow for more effective and timely planning of demand and capacity for the healthcare industry.</p> <p>Our Stranded module is an example of how we have combined supervised ML methods - utilising regression and classification - to effectively risk stratify a patient by the likelihood that the patient will be stranded, to classify whether a patient will be stranded or not and by combining these methods with our BI solutions - this allows users to drill down to undertake descriptive analysis of the components of stranded.</p> <p>The beauty of the current module is that it contains a minimal data set that all other healthcare providers will have, making the transferrability and generalisability more fluid. Augmented dashboarding and predictive analytics is at the heart of what we do.</p> <p>Joe Frost has been working in and with the NHS for over 12 years, having began his career as an information analyst, moving on to hold the role of Head of Business Intelligence at Salford Royal for over 10 years. During his time here, Joe oversaw the trust’s integration to form The Northern Care Alliance, one of the largest healthcare organisations in Greater Manchester. Joe then moved on to become Director of Solutions and Draper &amp; Dash Healthcare, leading the<br/>company’s work around machine learning and data science.</p> <p>If you would like to volunteer for future talks, let us know!</p> <p>## What to bring</p> <p>The only requirement will be some keen listening ears!</p> "
-  url: https://www.meetup.com/Leeds-Data-Science-Meetup/events/263675714/
-  is-free: true
-  starts: 2019-08-27T18:00:00.0000000
-  ends: 2019-08-27T20:00:00.0000000
-  venue: NatWest Accelerator
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlblc/
