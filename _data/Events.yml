@@ -2071,6 +2071,296 @@
   starts: 2019-09-16T21:30:00.0000000
   ends: 2019-09-16T23:30:00.0000000
   venue: Entirety Technology
+- name: Introduction to MapReduce training for beginners in York, PA | Map Reduce Training for Beginners | Advanced MapReduce Training
+  description: >+
+    In this course we will introduce you to distributed data processing, how to use MapReduce to process large amounts of data. This course is focused on providing practical hands-on exercises. Students will learn to write MapReduce programs. Advanced Features of MapReduce will be covered as well. 
+
+
+    Course Schedule
+
+
+    This is a weekdays course that will be held September 17 - October 10, 2019 US Pacific Time
+
+    The class sessions will be held - Tuesday, Thursday every week
+
+    6:30 - 8:30 PM US Pacific time, each day.
+
+    Please check your local date and time for first session.
+
+
+
+    Prerequisite
+
+    Desired but not required - Exposure to, Working proficiency of Java, sql.
+
+     
+
+    Course Features
+
+
+    4 weeks, 8 sessions, 16 hours of total LIVE Instruction
+
+    Training material, instructor handouts and access to useful resources on the cloud provided
+
+    Practical Hands on Lab exercises on cloud workstations provided
+
+    Actual code and scripts provided
+
+    Real-life Scenarios
+
+
+
+    Course Outline
+
+
+    1. Introduction to MapReduce
+
+
+    MapReduce Overview
+
+    MapReduce in Hadoop
+
+    History of MapReduce
+
+    MapReduce applications
+
+    Data Flow in MapReduce
+
+    Map and Reduce operations
+
+    Job submission flow of MapReduce
+
+    Map Operation
+
+    Job Initialization
+
+    Task Assignment
+
+    Job Completion
+
+    Job Scheduling
+
+    Job Failures
+
+    Shuffle and sort
+
+    Word Count Problem, Flow and Solution
+
+    MapReduce Algorithms
+
+
+    2. Map Reduce Types and Formats
+
+
+    Data Types
+
+    File Formats
+
+    Input Formats
+
+    Output Formats
+
+    Explain the Driver, Mapper and Reducer code
+
+    Configuring development environment - Eclipse
+
+    Writing Unit Test
+
+    Running locally
+
+    Running on Cluster
+
+
+    3. Understanding MapReduce
+
+
+    Data Flow in MapReduce
+
+    MapReduce example
+
+    MapReduce Daemons
+
+    Job tracker
+
+    Task Tracker
+
+    Other phases in MapReduce
+
+    Data Flow in single, multiple and no reduce task
+
+
+    4. MapReduce with YARN
+
+
+    Hadoop Architecture
+
+    Problem with Hadoop 1.x, Hadoop 2.x features,
+
+    YARN MapReduce Application Execution Flow
+
+    YARN Workflow
+
+    Anatomy of MapReduce Program
+
+
+    5. Advanced MapReduce
+
+
+    Counters
+
+    Sorting
+
+    Input Splits in MapReduce
+
+    MapReduce Combiner
+
+    MapReduce Partitioner
+
+    MapReduce Distributed Cache
+
+    MRunit
+
+    Reduce Join
+
+    Joins - Map Side and Reduce Side
+
+    Custom Input Format
+
+    Sequence Input Format
+
+    Side Data Distribution
+
+
+
+    Refund Policy
+
+
+    There are no Refunds. All Sales is final.
+
+
+
+
+
+
+
+
+
+  url: https://www.eventbrite.com/e/introduction-to-mapreduce-training-for-beginners-in-york-pa-map-reduce-training-for-beginners-tickets-69483636427?aff=ebapi
+  logo: https://cdn.evbuc.com/images/68813863/253710638063/1/original.20190618-033554?h=200&w=450&auto=compress&rect=26,0,410,205&s=5c64720e19784d3b64da3cd8e33fc707
+  starts: 2019-09-17T21:30:00.0000000
+  ends: 2019-09-17T23:30:00.0000000
+  venue: Entirety Technology
+- name: Blockchain Development Training in York, PA with no programming knowledge - ethereum blockchain developer training for beginners with no programming background, how to develop, build your own, diy ethereum blockchain application, smart contract
+  description: >2+
+
+
+    This is a course for those who have no programming knowledge, yet would like to learn ethereum blockchain development, how to develop a blockchain application, smart contracts on ethereum blockchain application.
+
+     
+
+    By the end of this course, you will have your own SMART CONTRACT running on ethereum blockchain
+
+     
+
+     
+
+    Weekdays Class Schedule
+
+    This class will be held beginning September 17 and ending on October 10, 2019. US Pacific Time Zone on weekdays (Tuesdays and Thursdays) from 6:30 - 8:30 PM each day US Pacific time (PST).
+
+    Please check your local date and time for first session
+
+
+
+    September 17 - October 10, 2019 US Pacific Time Zone
+
+    Tuesdays and Thursdays every week US Pacific Time Zone
+
+    6:30-8:30 PM US Pacific time each of those days.
+
+
+
+      
+
+     
+
+    Features and Benefits
+
+
+
+    16 hours of total Instructor Led Training
+
+    8 sessions spread across 4 weeks (September 17 - October 10, 2019)
+
+    2 sessions per week
+
+    2 hours per session
+
+    Training material along with instructor hand outs, Practical Hands-on Lab exercises
+
+
+
+      
+
+     
+
+    Who can take this course
+
+    Anyone aspiring to learn new technology can take this the course. Students and professionals interested in a career in the blockchain technology should opt for the course. 
+
+     
+
+     
+
+    Prerequisite
+
+    No prior knowledge of programming is required. 
+
+      
+
+     
+
+    Course Outline
+
+
+
+    Blockchain basics
+
+    Blockchain tools - geth, mist, wallets
+
+    Ethereum accounts, Wallets and metamask
+
+    Handling ether and tokens
+
+    Interacting with smart contracts
+
+    Metamask, web wallets, using DApps
+
+    Gnosis and hardware wallets, other crypto currencies & exchanges
+
+    Security and multi signature wallet
+
+    Part 1 - interacting with ICOs
+
+    Part 2 - interacting with ICOs
+
+    Summary
+
+
+
+      
+
+
+
+    Training FAQs
+
+     
+
+  url: https://www.eventbrite.com/e/blockchain-development-training-in-york-pa-with-no-programming-knowledge-ethereum-blockchain-tickets-69515672247?aff=ebapi
+  logo: https://cdn.evbuc.com/images/68939271/253710638063/1/original.jpg?h=200&w=450&auto=compress&rect=0,1012,8000,4000&s=5038c72bda2fa48bcf16810ded37181b
+  starts: 2019-09-17T21:30:00.0000000
+  ends: 2019-09-17T23:30:00.0000000
+  venue: Entirety Technologies
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbzb/
@@ -2112,6 +2402,14 @@
   starts: 2019-08-22T17:00:00.0000000
   ends: 2019-08-22T19:00:00.0000000
   venue: Infinity Works Consulting
+- name: ACCU York [Aug 2019] - A chat about C++ "issues"
+  description: "<p>C++ is used by many industries, but particular members of the gaming industry have been vocal that C++ isn't evolving to solve the problems they face.</p> <p>This talk will be seeded by one such vocal outpour where C++ build times and non optimized performance are not good enough. Are they right? Do solutions exist? Is C++ evolving in the right direction?</p> "
+  url: https://www.meetup.com/ACCU-York/events/264057563/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/e/3/6/f/thumb_475438223.jpeg
+  starts: 2019-08-22T17:30:00.0000000
+  ends: 2019-08-22T19:00:00.0000000
+  venue: Department of Computer Science, University of York
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbjc/
@@ -2121,13 +2419,6 @@
   ends: 2019-08-26T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
-- name: Using Supervised ML Methods to augment intelligent dashboards in Healthcare
-  description: "<p>We'll kick off the proceedings with food and soft drinks from 6:00pm - 6:30pm, followed by a talk on classification and regression in healthcare by Draped and Dash (D&amp;D)</p> <p>We at D&amp;D have developed a number of different ML classification and regression algorithms and models with the purpose of allowing healthcare services to plan for the likelihood that a patient will be stranded, to classify whether a patient will be readmitted, to predict LOS and other purposes. Our roadmap and strategy is to build intelligent dashboard that are augmented by predictive analytics and ML methods. This will allow for more effective and timely planning of demand and capacity for the healthcare industry.</p> <p>Our Stranded module is an example of how we have combined supervised ML methods - utilising regression and classification - to effectively risk stratify a patient by the likelihood that the patient will be stranded, to classify whether a patient will be stranded or not and by combining these methods with our BI solutions - this allows users to drill down to undertake descriptive analysis of the components of stranded.</p> <p>The beauty of the current module is that it contains a minimal data set that all other healthcare providers will have, making the transferrability and generalisability more fluid. Augmented dashboarding and predictive analytics is at the heart of what we do.</p> <p>Joe Frost has been working in and with the NHS for over 12 years, having began his career as an information analyst, moving on to hold the role of Head of Business Intelligence at Salford Royal for over 10 years. During his time here, Joe oversaw the trust’s integration to form The Northern Care Alliance, one of the largest healthcare organisations in Greater Manchester. Joe then moved on to become Director of Solutions and Draper &amp; Dash Healthcare, leading the<br/>company’s work around machine learning and data science.</p> <p>If you would like to volunteer for future talks, let us know!</p> <p>## What to bring</p> <p>The only requirement will be some keen listening ears!</p> "
-  url: https://www.meetup.com/Leeds-Data-Science-Meetup/events/263675714/
-  is-free: true
-  starts: 2019-08-27T18:00:00.0000000
-  ends: 2019-08-27T20:00:00.0000000
-  venue: NatWest Accelerator
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlblc/
