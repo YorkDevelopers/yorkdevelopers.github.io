@@ -2146,3 +2146,293 @@
   starts: 2019-09-16T21:30:00.0000000
   ends: 2019-09-16T23:30:00.0000000
   venue: Entirety Technology
+- name: Introduction to MapReduce training for beginners in York, PA | Map Reduce Training for Beginners | Advanced MapReduce Training
+  description: >+
+    In this course we will introduce you to distributed data processing, how to use MapReduce to process large amounts of data. This course is focused on providing practical hands-on exercises. Students will learn to write MapReduce programs. Advanced Features of MapReduce will be covered as well. 
+
+
+    Course Schedule
+
+
+    This is a weekdays course that will be held September 17 - October 10, 2019 US Pacific Time
+
+    The class sessions will be held - Tuesday, Thursday every week
+
+    6:30 - 8:30 PM US Pacific time, each day.
+
+    Please check your local date and time for first session.
+
+
+
+    Prerequisite
+
+    Desired but not required - Exposure to, Working proficiency of Java, sql.
+
+     
+
+    Course Features
+
+
+    4 weeks, 8 sessions, 16 hours of total LIVE Instruction
+
+    Training material, instructor handouts and access to useful resources on the cloud provided
+
+    Practical Hands on Lab exercises on cloud workstations provided
+
+    Actual code and scripts provided
+
+    Real-life Scenarios
+
+
+
+    Course Outline
+
+
+    1. Introduction to MapReduce
+
+
+    MapReduce Overview
+
+    MapReduce in Hadoop
+
+    History of MapReduce
+
+    MapReduce applications
+
+    Data Flow in MapReduce
+
+    Map and Reduce operations
+
+    Job submission flow of MapReduce
+
+    Map Operation
+
+    Job Initialization
+
+    Task Assignment
+
+    Job Completion
+
+    Job Scheduling
+
+    Job Failures
+
+    Shuffle and sort
+
+    Word Count Problem, Flow and Solution
+
+    MapReduce Algorithms
+
+
+    2. Map Reduce Types and Formats
+
+
+    Data Types
+
+    File Formats
+
+    Input Formats
+
+    Output Formats
+
+    Explain the Driver, Mapper and Reducer code
+
+    Configuring development environment - Eclipse
+
+    Writing Unit Test
+
+    Running locally
+
+    Running on Cluster
+
+
+    3. Understanding MapReduce
+
+
+    Data Flow in MapReduce
+
+    MapReduce example
+
+    MapReduce Daemons
+
+    Job tracker
+
+    Task Tracker
+
+    Other phases in MapReduce
+
+    Data Flow in single, multiple and no reduce task
+
+
+    4. MapReduce with YARN
+
+
+    Hadoop Architecture
+
+    Problem with Hadoop 1.x, Hadoop 2.x features,
+
+    YARN MapReduce Application Execution Flow
+
+    YARN Workflow
+
+    Anatomy of MapReduce Program
+
+
+    5. Advanced MapReduce
+
+
+    Counters
+
+    Sorting
+
+    Input Splits in MapReduce
+
+    MapReduce Combiner
+
+    MapReduce Partitioner
+
+    MapReduce Distributed Cache
+
+    MRunit
+
+    Reduce Join
+
+    Joins - Map Side and Reduce Side
+
+    Custom Input Format
+
+    Sequence Input Format
+
+    Side Data Distribution
+
+
+
+    Refund Policy
+
+
+    There are no Refunds. All Sales is final.
+
+
+
+
+
+
+
+
+
+  url: https://www.eventbrite.com/e/introduction-to-mapreduce-training-for-beginners-in-york-pa-map-reduce-training-for-beginners-tickets-69483636427?aff=ebapi
+  logo: https://cdn.evbuc.com/images/68813863/253710638063/1/original.20190618-033554?h=200&w=450&auto=compress&rect=26,0,410,205&s=5c64720e19784d3b64da3cd8e33fc707
+  starts: 2019-09-17T21:30:00.0000000
+  ends: 2019-09-17T23:30:00.0000000
+  venue: Entirety Technology
+- name: Blockchain Development Training in York, PA with no programming knowledge - ethereum blockchain developer training for beginners with no programming background, how to develop, build your own, diy ethereum blockchain application, smart contract
+  description: >2+
+
+
+    This is a course for those who have no programming knowledge, yet would like to learn ethereum blockchain development, how to develop a blockchain application, smart contracts on ethereum blockchain application.
+
+     
+
+    By the end of this course, you will have your own SMART CONTRACT running on ethereum blockchain
+
+     
+
+     
+
+    Weekdays Class Schedule
+
+    This class will be held beginning September 17 and ending on October 10, 2019. US Pacific Time Zone on weekdays (Tuesdays and Thursdays) from 6:30 - 8:30 PM each day US Pacific time (PST).
+
+    Please check your local date and time for first session
+
+
+
+    September 17 - October 10, 2019 US Pacific Time Zone
+
+    Tuesdays and Thursdays every week US Pacific Time Zone
+
+    6:30-8:30 PM US Pacific time each of those days.
+
+
+
+      
+
+     
+
+    Features and Benefits
+
+
+
+    16 hours of total Instructor Led Training
+
+    8 sessions spread across 4 weeks (September 17 - October 10, 2019)
+
+    2 sessions per week
+
+    2 hours per session
+
+    Training material along with instructor hand outs, Practical Hands-on Lab exercises
+
+
+
+      
+
+     
+
+    Who can take this course
+
+    Anyone aspiring to learn new technology can take this the course. Students and professionals interested in a career in the blockchain technology should opt for the course. 
+
+     
+
+     
+
+    Prerequisite
+
+    No prior knowledge of programming is required. 
+
+      
+
+     
+
+    Course Outline
+
+
+
+    Blockchain basics
+
+    Blockchain tools - geth, mist, wallets
+
+    Ethereum accounts, Wallets and metamask
+
+    Handling ether and tokens
+
+    Interacting with smart contracts
+
+    Metamask, web wallets, using DApps
+
+    Gnosis and hardware wallets, other crypto currencies & exchanges
+
+    Security and multi signature wallet
+
+    Part 1 - interacting with ICOs
+
+    Part 2 - interacting with ICOs
+
+    Summary
+
+
+
+      
+
+
+
+    Training FAQs
+
+     
+
+  url: https://www.eventbrite.com/e/blockchain-development-training-in-york-pa-with-no-programming-knowledge-ethereum-blockchain-tickets-69515672247?aff=ebapi
+  logo: https://cdn.evbuc.com/images/68939271/253710638063/1/original.jpg?h=200&w=450&auto=compress&rect=0,1012,8000,4000&s=5038c72bda2fa48bcf16810ded37181b
+  starts: 2019-09-17T21:30:00.0000000
+  ends: 2019-09-17T23:30:00.0000000
+  venue: Entirety Technologies
