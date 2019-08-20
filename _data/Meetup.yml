@@ -1,21 +1,5 @@
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbzb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-08-19T06:00:00.0000000
-  ends: 2019-08-19T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Geek Lunch at The Nook
-  description: "<p>The Nook - <a href=\"https://www.thenookyork.co.uk/\" class=\"linkified\">https://www.thenookyork.co.uk/</a></p> <p>We'll be meeting for lunch at 12:15 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>We normally chat beforehand on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>), if you want an invite - send us a DM.</p> "
-  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/263945924/
-  is-free: true
-  starts: 2019-08-19T11:15:00.0000000
-  ends: 2019-08-19T13:15:00.0000000
-  venue: The Nook
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbcc/
   is-free: true
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
@@ -97,6 +81,13 @@
   ends: 2019-09-02T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Scrum Master Retrospective (Leeds) - September 2019
+  description: '<p>The meetup focuses on peer-to-peer coaching and the sharing of experiences, lessons learned and useful practices.</p> <p>The purpose is to create a safe space in which attendees can raise &amp; discuss issues with their Scrum implementations, with the group helping to share their experiences.</p> <p>The format is free flowing structured conversations, using Liberating Structures, rather than a central presenter suggesting how to solve issues.</p> <p>All you need to bring is yourself, an open mind, be willing to live &amp; support the Scrum Values (Courage, Openness, Commitment, Respect and Focus) whilst in the group.</p> <p>This group is based and inspired by the one created by The Liberators ( Christian Verwijs &amp; Barry Overeem</p> <p>Logistics<br/>+ Refreshments will be provided.<br/>+ Doors open at 5:30 to mingle and network, and we then expect to start at 6:00pm</p> '
+  url: https://www.meetup.com/Scrum-Master-Retrospective/events/263341019/
+  is-free: true
+  starts: 2019-09-02T16:30:00.0000000
+  ends: 2019-09-02T18:30:00.0000000
+  venue: Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzmbgb/
@@ -551,6 +542,15 @@
   ends: 2020-02-05T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqybcdbnb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-02-10T07:00:00.0000000
+  ends: 2020-02-10T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmybcdbbc/
@@ -598,4 +598,12 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2020-07-16T18:00:00.0000000
   ends: 2020-07-16T21:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmybclbbc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-08-20T18:00:00.0000000
+  ends: 2020-08-20T21:00:00.0000000
   endorsed: true
