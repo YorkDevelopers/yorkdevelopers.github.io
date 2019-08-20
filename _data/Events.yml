@@ -2571,22 +2571,298 @@
   starts: 2019-09-22T22:00:00.0000000
   ends: 2019-09-23T00:00:00.0000000
   venue: TruVs
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbzb/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-08-19T06:00:00.0000000
-  ends: 2019-08-19T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Geek Lunch at The Nook
-  description: "<p>The Nook - <a href=\"https://www.thenookyork.co.uk/\" class=\"linkified\">https://www.thenookyork.co.uk/</a></p> <p>We'll be meeting for lunch at 12:15 and most likely be chatting about some tech-related subject. The lunch is open to anyone who wants to get to know more techy people around York over having a bite to eat. Feel free to bring a laptop if you want to show off any code or product you're working on.</p> <p>We normally chat beforehand on the York Developers Slack group (<a href=\"https://yorkdevelopers.slack.com/messages/C106WK4D9\" class=\"linkified\">https://yorkdevelopers.slack.com/messages/C106WK4D9</a>), if you want an invite - send us a DM.</p> "
-  url: https://www.meetup.com/York-Geeks-Lunch-Club/events/263945924/
-  is-free: true
-  starts: 2019-08-19T11:15:00.0000000
-  ends: 2019-08-19T13:15:00.0000000
-  venue: The Nook
+- name: Business Analyst (BA) Training in York, PA for Beginners | IIBA/CBAP certified business analyst training | business analysis training | BA training with CBAP Certification exam Preparation
+  description: >+
+    This Business Analyst training provided over 4 weeks, including 8 sessions, 2 sessions per week, 2 hours per session covers the most important business analysis topics and concepts. It includes how to gather, analyse and document business requirements.
+
+    Students are taught how to effectively gather, define, business requirements, functional and non-functional requirements.
+
+
+    Weekdays Only Class Schedule
+
+    This class will be held on weekdays (Monday and Wednesday every week) from 6:30-8:30 pm US Pacific time (PST) each day beginning September 23rd and ending on October 16, 2019. 
+
+    Please check your local date and time for the first session
+
+
+    16 hours of LIVE training
+
+    8 sessions | 4 weeks |  2 sessions per week | 2 hours per session
+
+    Monday and Wednesday every week for 4 weeks
+
+    US Pacific time 6:30-8:30 PM each day
+
+
+
+    Course Overview
+
+    This training class follows a very practical approach to requirements gathering, analysis and definition. Students learn specific modern methods, strategies and techniques that can be easily integrated into a company’s existing methodologies and practices (agile or waterfall). 
+
+
+    Who should attend
+
+    This class can be taken by professionals such as Business Analysts, Project Managers, Technical leads and other IT personnel who wish to become more business savvy, Individuals who supervise BA activities and Executives who authorize, sponsor, govern, or provide oversight to IT projects.
+
+
+    Course Outline          
+
+    1. Introduction
+
+
+    Purpose of the BABOK® Guide
+
+    What is Business Analysis?
+
+    Who is a Business Analyst?
+
+    Structure of the BABOK® Guide
+
+
+    2. Business Analysis Key Concepts
+
+
+    The Business Analysis Core Concept Model™
+
+    Key Terms
+
+    Requirements Classification Schema
+
+    Stakeholders
+
+    Requirements and Designs
+
+
+    3: Business Analysis Planning and Monitoring.
+
+
+    Plan Business Analysis Approach
+
+    Plan Stakeholder Engagement
+
+    Plan Business Analysis Governance
+
+    Plan Business Analysis Information Management
+
+    Identify Business Analysis Performance Improvements
+
+
+    4. Elicitation and Collaboration
+
+
+    Prepare for Elicitation
+
+    Conduct Elicitation
+
+    Confirm Elicitation Results
+
+    Communicate Business Analysis Information
+
+    Manage Stakeholder Collaboration
+
+
+    5. Requirements Life Cycle Management
+
+
+    Trace Requirements
+
+    Maintain Requirements
+
+    Prioritize Requirements
+
+    Assess Requirements Changes
+
+    Approve Requirements
+
+
+    6. Strategy Analysis
+
+
+    Analyze Current State
+
+    Define Future State
+
+    Assess Risks
+
+    Define Change Strategy
+
+
+    7. Requirements Analysis and Design Definition
+
+
+    Specify and Model Requirements
+
+    Verify Requirements
+
+    Validate Requirements
+
+    Define Requirements Architecture
+
+    Define Design Options
+
+    Analyze Potential Value and Recommend Solution
+
+
+    8. Solution Evaluation
+
+
+    Measure Solution Performance
+
+    Analyze Performance Measures
+
+    Assess Solution Limitations
+
+    Assess Enterprise Limitations
+
+    Recommend Actions to Increase Solution Value
+
+
+    9. Underlying Competencies
+
+
+    Analytical Thinking and Problem-Solving
+
+    Behavioral Characteristics
+
+    Business Knowledge
+
+    Communication Skills
+
+    Interaction Skills
+
+    Tools and Technology
+
+
+    10. Techniques
+
+
+    Acceptance and Evaluation Criteria
+
+    Backlog Management
+
+    Balanced Scorecard
+
+    Benchmarking and Market Analysis
+
+    Brainstorming
+
+    Business Capability Analysis
+
+    Business Cases
+
+    Business Model Canvas
+
+    Business Rules Analysis
+
+    Collaborative Games
+
+    Concept Modelling
+
+    Data Dictionary
+
+    Data Flow Diagrams
+
+    Data Mining
+
+    Data Modelling
+
+    Decision Analysis
+
+    Decision Modelling
+
+    Document Analysis
+
+    Estimation
+
+    Financial Analysis
+
+    Focus Groups
+
+    Functional Decomposition
+
+    Glossary
+
+    Interface Analysis
+
+    Interviews
+
+    Item Tracking
+
+    Lessons Learned
+
+    Metrics and Key Performance Indicators (KPIs)
+
+    Mind Mapping
+
+    Non-Functional Requirements Analysis
+
+    Observation
+
+    Organizational Modelling
+
+    Prioritization
+
+    Process Analysis
+
+    Process Modelling
+
+    Prototyping
+
+    Reviews
+
+    Risk Analysis and Management
+
+    Roles and Permissions Matrix
+
+    Root Cause Analysis
+
+    Scope Modelling
+
+    Sequence Diagrams
+
+    Stakeholder List, Map, or Personas
+
+    State Modelling
+
+    Survey or Questionnaire
+
+    SWOT Analysis
+
+    Use Cases and Scenarios
+
+    User Stories
+
+    Vendor Assessment
+
+    Workshops
+
+
+    11. Perspectives
+
+
+    The Agile Perspective
+
+    The Business Intelligence Perspective
+
+    The Information Technology Perspective
+
+    The Business Architecture Perspective
+
+    The Business Process Management Perspective
+
+
+  url: https://www.eventbrite.com/e/business-analyst-ba-training-in-york-pa-for-beginners-iibacbap-certified-business-analyst-training-tickets-69687139109?aff=ebapi
+  logo: https://cdn.evbuc.com/images/69029583/253710638063/1/original.20190513-001702?h=200&w=450&auto=compress&rect=0,0,850,425&s=655019120726fee00cd07106f6e4636c
+  starts: 2019-09-23T21:30:00.0000000
+  ends: 2019-09-23T23:30:00.0000000
+  venue: Entirety Technology
+- name: Microsoft PowerShell Training in York, PA for Beginners | PowerShell script and scripting training | Windows PowerShell training | Windows Server Administration, Remote Server Administration and Automation, Datacenter with Powershell training
+  description: "This Instructor led LIVE PowerShell training course will be provided for a total duration of 16 hours spread across 4 weeks, 2 sessions per week, 2 hours per session by our highly professional certified powershell trainers. \nPowerShell is the most powerful scripting based automation tool that Microsoft has to offer, and its both a shell and a scripting language.\nPowerShell is a Windows application that supports enhanced usage for beginners and experts. By the end of this course,  you can gain knowledge of advanced PowerShell techniques.\n\nWeekly Class Schedule\nThis class will be held on week days (Mondays and Wednesdays every week) from 6:30-8:30 pm US Pacific time (PST) each day beginning September 23rd and ending on October 16th, 2019. \nPlease check your local date and time for the first session\n\n16 hours of Instructor Led LIVE training\n8 sessions | 4 weeks |  2 sessions per week | 2 hours per session\nMondays and Wednesdays every week for 4 weeks\nUS Pacific time 6:30 - 8:30 PM each day\n\n\nCourse Overview\nThis training class follows a very practical approach to learning PowerShell. Students learn about Powershell commands, scripts, poweshell based automation, administering and managing remote computers, advanced powershell scripts and techniques and more.\n\nWho should attend\nThis class can be taken by IT professionals such as System Administrators, Server Administrators, Network Administrators, System Engineers, Operations engineers, datacenter engineers, IT Support professionals, those interested in automation of Windows computers and server based tasks.\n\nPrerequisites\n\nBasic knowledge of Command Prompt\nFamiliarity with scripting in general, VB Script\n\n\nCourse Outline          \n1. Windows Powershell\n\nOverview and Background\nFinding and Running Commands\n\n2. Working with the pipeline\n\nSelecting, Sorting, and Measuring Objects\nExporting, Importing, and Converting Data\nFiltering Objects Out of the Pipeline\nEnumerating Objects in the Pipeline\n\n3. How the Pipeline Works\n\nPassing Data in the Pipeline ByValue\nPassing Data in the Pipeline ByPropertyName\n\n4. Using PSProoviders and PSDrives\n\nPSProviders and PSDrives\nUsing PSDrives\n\n5. Formatting Output\n\nUsing Basic Formatting\nUsing Advanced Formatting\nRedirecting Formatted Output\n\n6. Using WMI and CIM\n\nQuerying Data with WMI/CIM\nMaking Changes with WMI/CI\n\n7. Prepare for Scripting\n\nUsing Variables\nScripting Security\n\n8. Automating Administration with PowerShell \n\nMoving From Command to Script\nMoving From Script to Function to Module\nImplementing Basic Error Handling\nUsing Basic Scripting Constructs\nFurther Exploration in Scripting\n\n9. Administering Remote Computers\n\nUsing Basic Remoting\nUsing Remote Sessions\nUsing Advanced Remoting Techniques\n\n10. Putting It All Together\n\nProvisioning a New Server Core Instance\n\n11. Using Background Jobs and Scheduled Jobs\n\nUsing Background Jobs\nUsing Scheduled Jobs\n\n12. Using Advanced PowerShell Techniques and Profiles\n\nUsing Advanced PowerShell Techniques\nCreating Profile Scripts\nWorking with Alternative Credentials\n\n\nRefund Policy\n\nAll Sales and purchase of tickets is final. There are no Refunds issued. \nIf a class is rescheduled/cancelled by the organizer, students who have made the payment and registered for the class will be offered a credit towards any future course.\n\n                                                        \n                                          \n                                                                         Training FAQs"
+  url: https://www.eventbrite.com/e/microsoft-powershell-training-in-york-pa-for-beginners-powershell-script-and-scripting-training-tickets-69821210119?aff=ebapi
+  logo: https://cdn.evbuc.com/images/69182927/253710638063/1/original.20190703-211514?h=200&w=450&auto=compress&rect=0,35,940,470&s=343169f4762e2e13b40e774f51d940a2
+  starts: 2019-09-23T21:30:00.0000000
+  ends: 2019-09-23T23:30:00.0000000
+  venue: Entirety Technology
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlbcc/
@@ -2670,6 +2946,13 @@
   ends: 2019-09-02T09:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Scrum Master Retrospective (Leeds) - September 2019
+  description: '<p>The meetup focuses on peer-to-peer coaching and the sharing of experiences, lessons learned and useful practices.</p> <p>The purpose is to create a safe space in which attendees can raise &amp; discuss issues with their Scrum implementations, with the group helping to share their experiences.</p> <p>The format is free flowing structured conversations, using Liberating Structures, rather than a central presenter suggesting how to solve issues.</p> <p>All you need to bring is yourself, an open mind, be willing to live &amp; support the Scrum Values (Courage, Openness, Commitment, Respect and Focus) whilst in the group.</p> <p>This group is based and inspired by the one created by The Liberators ( Christian Verwijs &amp; Barry Overeem</p> <p>Logistics<br/>+ Refreshments will be provided.<br/>+ Doors open at 5:30 to mingle and network, and we then expect to start at 6:00pm</p> '
+  url: https://www.meetup.com/Scrum-Master-Retrospective/events/263341019/
+  is-free: true
+  starts: 2019-09-02T16:30:00.0000000
+  ends: 2019-09-02T18:30:00.0000000
+  venue: Leeds
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzmbgb/
@@ -3124,6 +3407,15 @@
   ends: 2020-02-05T10:00:00.0000000
   venue: Cafe Nero
   endorsed: true
+- name: Meet for Code and Coffee in York
+  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/vbflnqybcdbnb/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-02-10T07:00:00.0000000
+  ends: 2020-02-10T10:00:00.0000000
+  venue: Cafe Nero
+  endorsed: true
 - name: Game Developers, Monthly Meeting
   description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
   url: https://www.meetup.com/YorkDevelopers/events/bsfhxmybcdbbc/
@@ -3171,4 +3463,12 @@
   logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
   starts: 2020-07-16T18:00:00.0000000
   ends: 2020-07-16T21:00:00.0000000
+  endorsed: true
+- name: Game Developers, Monthly Meeting
+  description: '<p>Please join the game developers group on facebook for location information:</p> <p>&lt;a&gt;<a href="https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt" class="linkified">https://www.facebook.com/groups/YorkGameDevelopers/&lt;/a&gt</a>;</p> '
+  url: https://www.meetup.com/YorkDevelopers/events/bsfhxmybclbbc/
+  is-free: true
+  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
+  starts: 2020-08-20T18:00:00.0000000
+  ends: 2020-08-20T21:00:00.0000000
   endorsed: true
