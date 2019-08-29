@@ -3141,23 +3141,248 @@
   starts: 2019-09-30T21:30:00.0000000
   ends: 2019-10-23T23:30:00.0000000
   venue: Entirety Technology
-- name: Meet for Code and Coffee in York
-  description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
-  url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzlblc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/d/6/f/0/thumb_460195024.jpeg
-  starts: 2019-08-28T06:00:00.0000000
-  ends: 2019-08-28T09:00:00.0000000
-  venue: Cafe Nero
-  endorsed: true
-- name: Code & Coffee
-  description: "<p>Usual deal - come along, write some code, talk about code, drink some coffee!</p> <p>Most people will be there 8-9am, but feel free to come earlier or stay later.</p> <p>We'll be the nerdy-looking ones with laptops..</p> "
-  url: https://www.meetup.com/Code-Coffee-Leeds/events/lbrrtlyzlblc/
-  is-free: true
-  logo: https://secure.meetupstatic.com/photos/event/b/0/6/1/thumb_450405153.jpeg
-  starts: 2019-08-28T07:00:00.0000000
-  ends: 2019-08-28T10:00:00.0000000
-  venue: La Bottega Milanese
+- name: 4 weeks DevOps training for beginners in York, PA | devops bootcamp | Build Tools - git and jenkins, build and test automation, chef, ansible, containerization using docker, puppet,continuous integration,continuous development,ci,cd training
+  description: >+
+    This is a 4 weeks Comprehensive Practical Hands-on DevOps training with a total of 16 hours of Instructor led training that covers the most important devops practitioner fundamentals and concepts including Build Tools - git and jenkins, build and test automation, chef, ansible, containerization using docker, puppet,continuous integration,continuous development and more. 
+
+
+
+    Weekly Schedule
+
+
+    This is a weekdays course that will be held September 30 - October 23, 2019 US Pacific Time
+
+    The class sessions will be held-Monday, Wednesday every week
+
+    6:30-8:30 PM US Pacific time, each day.
+
+    Please check your local date and time for first session.
+
+    Please see at the bottom for more detailed weekly course schedule.
+
+
+
+
+    What is DevOps?
+
+    DevOps is a set of software development practices that combines software development (Dev) and information technology operations (Ops) to shorten the systems development life cycle while delivering features, fixes, and updates frequently in close alignment with business objectives
+
+     
+
+
+    Who can take this course
+
+    This course is meant for IT professionals who are Systems Admins, Developers, Testers, Solutions Architect, Release Engineers, Cloud Professionals and others who want to build a career in DevOps.
+
+
+
+    Prerequisite
+
+    There are no specific prerequisites to become a DevOps Practitioner. Anyone with basic knowledge of Linux and Networking can take up this DevOps course.
+
+
+     
+
+    Course Features
+
+
+    Training material, instructor handouts and access to useful devops resources on the cloud provided
+
+    Practical Hands on Lab exercises on cloud workstations provided
+
+    Actual code and scripts provided
+
+    Real-life Scenarios
+
+
+
+
+    Course Outline
+
+    1. Basics of DevOps
+
+
+    Why DevOps
+
+    What is DevOps,
+
+    DevOps Market Trends
+
+    DevOps Engineer Skills
+
+    DevOps delivery pipeline
+
+    DevOps ecosystem.
+
+
+    2. Build tools - GIT and Jenkins
+
+
+    Automatic Source Code Management using GIT and Continuous Integration using Jenkins.
+
+    Introduction to VCS and GIT
+
+    GIT File workflow
+
+    Important GIT Commands
+
+    Introduction to Continuous Integration and Jenkins
+
+    Plugin Management in Jenkins
+
+    Various scenarios of Building Delivery Pipeline.
+
+
+    3. Build and Test Automation
+
+
+    How to build an appropriate delivery pipeline and perform test automation on it.
+
+    You can also understand the various security options and notification management in Jenkins.
+
+    Build Setup in Jenkins
+
+    Test Automation
+
+    Security in Jenkins
+
+    Notification System.
+
+
+    4. Containerization using Docker
+
+
+    Identify the difference between containers and VMs.
+
+    Virtualization using Docker
+
+    Deep dive into image and containers concept in Docker.
+
+    What and Why of Containers
+
+    Introduction to Docker
+
+    Docker Fundamentals
+
+    Image Distribution
+
+    Docker Containers.
+
+
+    5. Docker Commands and Use-cases
+
+
+    Networking concepts in Docker
+
+    Best way to use the Docker Volume
+
+    Creating a Docker file.
+
+    Docker Networking
+
+    Docker Volumes
+
+    Docker Files.
+
+
+    6. Puppet
+
+
+    "Infrastructure -as-Code"
+
+    Master-agent architecture and catalog compilation in Puppet
+
+    Write a Puppet program using Puppet DSL
+
+    Puppet Introduction
+
+    Puppet Architecture
+
+    Basic Puppet Terminologies
+
+    Puppet Language Constructs.
+
+    Install modules from a third-party tool
+
+    Node classification using hiera and ENC
+
+    Puppet environment structure and configuration
+
+    Various kinds of puppet classes and puppet template.
+
+
+    7. Chef
+
+
+    Introduction to Chef
+
+    Chef – Server Architectures
+
+    Chef Workstation
+
+    Chef – Repo
+
+    Servers and Nodes
+
+    Cookbooks and Recipes
+
+    Installing chef with Knife
+
+    Data – Bags
+
+
+    8. Ansible
+
+
+    Introduction to Ansible
+
+    Setting up Ansbile and Vagrant
+
+    Ansible Foundations
+
+    Playbooks
+
+    Roles
+
+    Variables
+
+    Ansible Command Line Usage
+
+    Ansible Real Time Production Examples- USE CASES
+
+
+
+
+    Detailed Course Schedule
+
+    This course is attended by students from across all time zones in US, Canada and countries around the world including UK, many European and Asian Countries as well as Australia.
+
+    Please check your Local Date and time for the first session and subsequent sessions as well. 
+
+
+    September 30, 2019 from 6:30 PM to 8:30 PM US Pacific Time
+
+    October 2, 2019 from 6:30 PM to 8:30 PM US Pacific Time
+
+    October 7, 2019 from 6:30 PM to 8:30 PM US Pacific Time
+
+    October 9, 2019 from 6:30 PM to 8:30 PM US Pacific Time
+
+    October 14, 2019 from 6:30 PM to 8:30 PM US Pacific Time
+
+    October 16, 2019 from 6:30 PM to 8:30 PM US Pacific Time
+
+    October 21, 2019 from 6:30 PM to 8:30 PM US Pacific Time
+
+    October 23, 2019 from 6:30 PM to 8:30 PM US Pacific Time
+
+
+
+  url: https://www.eventbrite.com/e/4-weeks-devops-training-for-beginners-in-york-pa-devops-bootcamp-build-tools-git-and-jenkins-build-tickets-70739181797?aff=ebapi
+  logo: https://cdn.evbuc.com/images/69997889/253710638063/1/original.20190724-141234?h=200&w=450&auto=compress&rect=0,0,800,400&s=f81cea2d766509274298fc94d484dfdf
+  starts: 2019-09-30T21:30:00.0000000
+  ends: 2019-10-23T23:30:00.0000000
+  venue: Entirety Technologies
 - name: Leeds Sharp Code Dojo
   description: "<p>This a practical, fun, coding session. We'll be using the excellent codingame.com to practice and compete in a few coding puzzles.<br/>We'll start off with an easy puzzle and in the second half we'll move on to something more challenging (neural networks!).</p> <p>LS#ers are invited to bring their laptop, but you can also team up with other LS#ers. All skill levels are welcome. Either you'll learn something new or you can teach others how it's done.</p> <p>We'll do four 25 minute stints and head off for beers and chats after that.</p> <p>It would help if you register on codingame before hand so we can compete against each other. We'll try and show a leaderboard on the projector.</p> <p>The first game will be: <a href=\"https://www.codingame.com/training/easy/ascii-art\" class=\"linkified\">https://www.codingame.com/training/easy/ascii-art</a></p> <p>The second game is: <a href=\"https://www.codingame.com/multiplayer/bot-programming/coders-strike-back\" class=\"linkified\">https://www.codingame.com/multiplayer/bot-programming/coders-strike-back</a></p> <p>You are welcome to prepare in advance.</p> <p>We'll have 2x 25 minutes on the first puzzle, stopping for questions and insights. Then move on to the second one.</p> <p>And remember, we're here to have fun. It's not a test, nor a measure of your skills. Sometimes we get stuck on projects in our job that aren't the most fun, and these coding sessions are here to remind us why we love coding :)</p> "
   url: https://www.meetup.com/Leeds-Sharp/events/262229013/
