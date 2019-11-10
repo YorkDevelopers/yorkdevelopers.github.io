@@ -1995,6 +1995,219 @@
   starts: 2019-12-09T20:30:00.0000000
   ends: 2019-12-09T22:30:00.0000000
   venue: Entirety Technology
+- name: Selenium Automation testing, Software Testing and Test Automation Training in York, PA for Beginners | Automation Testing training | Selenium IDE and Web Driver training | Web Automation testing, mobile automation testing training
+  description: >+
+    This Instructor led LIVE Selenium Automation testing training course will be delivered over 16 hours spread across 4-5 weeks, 2 sessions per week, 2 hours per session by our highly professional Selenium trainers. 
+
+    Selenium is an automatic testing web-based application. In this comprehensive course you will learn writing test cases, use cases, Selenium web driver API, selenium IDE, Usage of selenium and more.
+
+    In this course we will cover Practical hands on training including introduction, overview, foundational aspects of Selenium Automation testing. A refresher to java programming language will be provided. All Selenium automation testing aspects will be covered.
+
+    If you wish to purchase a ticket please send email to trainings@entiretytech.com.
+
+
+    Ticket Prices
+
+
+    Early Bird price until November 30, 2019: $ 550
+
+    Regular Price until December 14, 2019: $ 650
+
+
+
+    Course Schedule
+
+
+    4-5 Weekends | December 14, 2019 - January 5, 2020 US Pacific Time
+
+    The class sessions will be held - Saturday, Sunday every week
+
+    7:30- 9:30 AM US Pacific time, each day.
+
+    Please check your local date and time for first session.
+
+
+
+
+    Course Objectives
+
+
+    Java-based Test Script Development
+
+    Hands-on Selenium IDE, Selenium RC and Selenium Webdriver
+
+    Selenium architecture and Related Components
+
+
+
+    Who should attend
+
+    This class can be taken by Software testing professionals such as manual and automation testers and other IT professionals.
+
+
+    Prerequisites
+
+
+    Basic knowledge of Java, preferred although not required.
+
+    Familiarity with Software Testing
+
+
+
+    Course Outline          
+
+
+    What is Selenium?
+
+    Install FireBug and Firepath Add-on for Firefox
+
+    How to use FireBug and FirePath?
+
+    Install Java JDK and Configure
+
+    Install Eclipse IDE
+
+    How to create projects in Eclipse IDE?
+
+    What are Locators ?
+
+    Different types of Locators to identify UI elements
+
+    Tools in Selenium to find out the Locators
+
+    Locate UI elements by ID,Name,Link
+
+    Locate UI elements by Xpath,CSS
+
+    Why companies are not using recording tools
+
+    How to Run Webdriver in chrome browser?
+
+    How to run webdriver in IE browser?
+
+    Selenium webdriver using Eclipse
+
+    Synchronization in Selenium Webdriver
+
+    Firefox Not Connected Exception in Selenium
+
+    Handle windows popups using Selenium Webdriver
+
+    Working with Frames in Selenium Webdriver
+
+    How to handle javascript alerts, confirmation and prompts?
+
+    Defining Firefox Profile preferences using Selenium Webdriver
+
+    Mouse Hover Actions in Selenium Webdriver
+
+    StaleElementReference Exceptions in Selenium Webdriver
+
+    Difference between Webdriver get() and Webdriver navigate()
+
+    Navigation Methods in Webdriver with Examples
+
+    Handling Cookies in Webdriver
+
+    How to addcookie with Selenium Webdriver
+
+    How to delete Cookies in Selenium Webdriver
+
+    WebDriver Methods
+
+    Taking Screenshot using Webdriver
+
+    Webdriver SELECT Methods to work with Dropdowns
+
+    Webdriver Select with Multiple Attribute
+
+    Handling keyboard events and mouse hover events using Webdriver
+
+    Set browser width and height in Selenium Webdriver
+
+    UI Map or Object Repository using Properties File
+
+    Reporting Structure in Selenium Automation Framework
+
+    Test Configuration File / Executable File
+
+    Uploading a file with Selenium Webdriver
+
+    Upload file using AutoIT
+
+    Uploading a file with sendKeys method
+
+    Read data from Properties file using Java Selenium
+
+    Scrolling web page with Selenium Webdriver using java
+
+    Testing in multiple browsers using selenium and testng
+
+    Working with Checkbox using Resuable Methods
+
+    Working with Select examples
+
+    File upload using Robots
+
+    Download file using selenium webdriver
+
+    Perform operations on new window
+
+    Introduction to Page Object Model Framework
+
+    Mouse hover using javaScript Executor
+
+    Working with Multiple Checkboxes with Safecheck
+
+    Click element using JavaScriptExecutor
+
+    Drag and Drop using Webdriver Action Class
+
+    WebDriver Waits Examples
+
+    Simple Page Object Model example
+
+    Double Click on element using Webdriver
+
+    Right Click Context Menu example
+
+    Working with AutoComplete Text box
+
+    Working with Date Picker Calendar
+
+    Working with Ajax controls using Webdriver
+
+    Get Attribute values using Webdriver
+
+    Get Css values using Webdriver
+
+    Resizing a web element using movebyoffset
+
+    Validate Downloaded file after clicking on downloaded button/ link
+
+    How to verify entries in Exported CSV file
+
+    Element is not clickable at point SeleniumWebdriverException
+
+    Extract PDF text And Verify Text Present in PDF using WebDriver
+
+    Handling Authentication Window with WebDriver (In Firefox, Chrome and IE)
+
+    Find Broken / Invalid Images on a Page
+
+    Find out broken links on website using selenium webdriver and HTTP Client
+
+    How to verify tooltip text with selenium webdriver using java
+
+    Handling Untrusted SSL certificates in Firefox browser
+
+    Handling Security Certificates in Chrome and IE browser using WebDriver
+
+  url: https://www.eventbrite.com/e/selenium-automation-testing-software-testing-and-test-automation-training-in-york-pa-for-beginners-tickets-81097983251?aff=ebapi
+  logo: https://cdn.evbuc.com/images/80155377/253710638063/1/original.20190704-035149?h=200&w=450&auto=compress&rect=0,0,800,400&s=5261d2f5c5e66f8c17584bf944c39d1c
+  starts: 2019-12-14T10:30:00.0000000
+  ends: 2019-12-14T12:30:00.0000000
+  venue: Entirety Technology
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzpbpb/
