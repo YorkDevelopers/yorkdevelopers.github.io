@@ -2347,6 +2347,184 @@
   starts: 2019-12-10T17:30:00.0000000
   ends: 2019-12-10T19:30:00.0000000
   venue: Print-O-Stat, Inc
+- name: Kafka Training in York | Apache Kafka Training | Learn about Kafka and its components and study how to Integrate Kafka with Hadoop, Storm and Spark |  January 11 - January 26, 2020
+  description: >
+    This is a 12 hours long LIVE Instructor led training delivered from January 11 - January 26, 2020 over 3 weekends, 6 sessions, 2 sessions per weekend, 2 hours per session.
+
+    Kafka Training offers an in-depth understanding of Kafka Architecture, configuration, performance tuning, integration with Hadoop, spark & storm, etc., through real-time use cases.
+
+
+    Weekly Schedule
+
+
+    3 weekends | Saturday and Sunday every weekend
+
+    7:30 - 9:30 AM US Pacific time each day
+
+    January 11 - January 26, 2020 US Pacific time
+
+
+    Please check your local date and time for first session
+
+
+    Features and Benefits
+
+
+    3 weeks, 6 sessions, 12 hours of total Instructor led LIVE training
+
+    Training material, instructor handouts and access to useful resources on the cloud provided
+
+    Practical Hands on Lab exercises provided
+
+    Actual code and scripts provided
+
+    Real-life Scenarios
+
+
+
+    What is Kafka?
+
+    Kafka is an open source data streaming system. It is designed to efficiently manage and process messaging system. The messages are produced and checked at the rate of milliseconds. Kafka is used to building a real-time data pipelines. It is a distributed streaming platform which means that it exactly publishes and subscribes to stream of records. Kafka is usually good for building real-time streaming. Also, it helps to build a real-time streaming application. It can be run on one or more server.
+
+
+    What are the Course Objectives?Complete knowledge of Apache Kafka.
+
+
+    Learn how to install and configuration of Kafka.
+
+    Get knowledge of End-to-End architecture.
+
+    Integration with other Application.
+
+    Implementing Kafka as the Single node.
+
+    Implementing on real-time Project.
+
+
+
+    Who should take this Course? 
+
+
+    Any IT experienced Professional who is interested to build their career in Big data Analysts.
+
+    Any B.E/ B.Tech/ BSC/ M.C.A/ M.Sc Computers/ M.Tech/ BCA/ BCom College Students in any stream.
+
+    Fresh Graduates.
+
+
+
+    Prerequisites
+
+    The course can learn from any IT professional having basic knowledge of :
+
+
+    Core Java Programming
+
+    Database  concept
+
+    Unix/Linux
+
+
+
+    Module 1: Introduction to Big Data and Apache Kafka
+
+
+    Introduction to Big Data
+
+    Big Data Customer Scenarios
+
+    What is Kafka?
+
+    Need for Kafka
+
+    Core Concepts of Kafka
+
+    Kafka Architecture
+
+    Where is Kafka Used
+
+
+     
+
+
+    Module 2: More about the Kafka cluster
+
+
+    Understanding the components of Kafka Cluster
+
+    Installation of Kafka Cluster
+
+    Configuring Kafka Cluster
+
+    Producer of Kafka
+
+    Consumer of Kafka
+
+    Producer and Consumer in Action
+
+
+     
+
+
+    Module 3: Kafka Operations and Performance Tuning
+
+
+    Offset
+
+    Design
+
+    Hardware
+
+    Kafka Monitoring and Issues
+
+    Kafka Performance Tuning
+
+    Reading data from Kafka
+
+    Demo-Twitter Kafka Producer
+
+    Introduction to Scala
+
+    Mixed Paradigm-Functional Programming
+
+    Scala Installation & Configuration
+
+    Scala REPL
+
+    Scala Project Using Eclipse
+
+
+     
+
+
+    Module 4: Integration of Kafka with Hadoop and Storm
+
+
+    Understanding the Hadoop Cluster
+
+    Integrating Kafka with Hadoop Cluster
+
+    Understanding Apache Storm
+
+    Implementing Spouts and Bolts
+
+    Kafka with Storm Spout
+
+
+
+    Module 5: Integration of Kafka with Spark
+
+
+    Ecosystem of Spark
+
+    Understanding the Spark Cluster
+
+    Integrating Kafka with Spark
+  url: https://www.eventbrite.com/e/kafka-training-in-york-apache-kafka-training-learn-about-kafka-and-its-components-and-study-how-to-tickets-83498487223?aff=ebapi
+  logo: https://cdn.evbuc.com/images/81003537/310161865775/1/original.20191103-063828?h=200&w=450&auto=compress&rect=0,44,600,300&s=e21264fb3940bdc5254f4e07d7819c29
+  starts: 2020-01-11T10:30:00.0000000
+  ends: 2020-01-11T12:30:00.0000000
+  venue: TruVs
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzpbhc/
