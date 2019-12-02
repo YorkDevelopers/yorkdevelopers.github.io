@@ -3493,6 +3493,306 @@
   starts: 2019-12-07T10:30:00.0000000
   ends: 2019-12-29T12:30:00.0000000
   venue: TruVs
+- name: Cassandra Training in York | Cassandra Training | Introduction to Cassandra Training for Beginners | Getting Started with Cassandra| January 11, 2020 – February 2, 2020
+  description: >+
+    Cassandra training is a 16 hours long LIVE Instructor-led training delivered from January 11 - February 2, 2020 over 4 weekends, 8 sessions, 2 sessions per weekend, 2 hours per session.
+
+
+    Cassandra Training Overview
+
+    Cassandra training course is designed to help you master the key concepts of Apache Cassandra including Architecture, features, Data Model, and its Administration. During this Cassandra course, you will learn how to install, configure, and monitor Cassandra. You will also learn about its integration with other Apache frameworks like Hadoop, Spark, and Kafka.
+
+
+    Weekly Schedule
+
+
+    4 weekends | Saturday and Sunday every weekend
+
+    7:30 - 9:30 AM US Pacific time each day
+
+    January 11 - February 2, 2020 US Pacific time
+
+
+    Please check your local date and time for first session
+
+
+    Features and Benefits
+
+
+    4 weeks, 8 sessions, 16 hours of total Instructor-led LIVE training
+
+    Training material, instructor handouts and access to useful resources on the cloud provided
+
+    Practical Hands on Lab exercises provided
+
+    Actual code and scripts provided
+
+    Real-life Scenarios
+
+
+
+    What are the Objectives of the Course ?
+
+
+    Creating Sample Application in Cassandra
+
+    Configuring, Reading and Writing Data in Cassandra
+
+    Integrating Cassandra with Hadoop
+
+    Cassandra Data Model
+
+    Cassandra Environment
+
+    Understanding Cassandra Architecture
+
+
+
+    Who should take this course?
+
+
+    IT Professionals looking for a career in Cassandra
+
+    IT Developers
+
+    Testing professionals
+
+    Those looking to refresh their Cassandra skills
+
+    Analyst/Researcher
+
+    Project Managers
+
+
+
+    Course Outline 
+
+    1. What is Big Data
+
+
+    Technology Landscape
+
+    Big Data Relevance
+
+    Distributed Systems and Challenges
+
+
+    2. Why NoSQL Databases
+
+
+    Relational DB vs. NoSQL
+
+    Type of NoSQL Databases
+
+    NoSQL Landscape
+
+    CAP Theorem and Eventual Consistency
+
+    Key Characteristics of NoSQL Database systems
+
+    ACID vs BASE
+
+
+    3. Cassandra Fundamentals
+
+
+    Distributed and Decentralized
+
+    Elastic Scalability
+
+    High Availability and Fault Tolerance
+
+    Tuneable Consistency
+
+    Row-Oriented
+
+    Schema-Free
+
+    High Performance
+
+
+    4. The Cassandra Data Model
+
+
+    The Relational Data Model
+
+    A Simple Introduction
+
+    Clusters
+
+    Keyspaces
+
+    Hands-on Session
+
+
+    5. Installation and Setup of Cassandra
+
+
+    Single Node Setup
+
+    Multi-Node Cluster Setup
+
+    Key Configurations for Cassandra
+
+    CLI and Hands-On with Cassandra
+
+
+    6. Cassandra Modeling
+
+
+    Cassandra (Column Family NoSQL DB)
+
+    Key Concepts – Key Space – Column Family – Column Family Options – Wide Rows, Skinny Row – Column Sorting – Super Columns – Counter Column Family – Composite Keys and Columns – Time To Live –
+
+    Secondary Indexes in Cassandra
+
+    Difference between Custom Indexes and Secondary Indexes
+
+    Difference between Relational Modeling and Cassandra Modeling
+
+    Key Points to note while modeling a Cassandra Database
+
+    Patterns and Anit-Patterns in Cassandra Modeling
+
+
+    7. Cassandra Architecture & Intro to CQL
+
+
+    Anatomy of Reading operation in Cassandra
+
+    Anatomy of the Write operation in Cassandra
+
+    How is Deletes handled in Cassandra
+
+    System Keyspace
+
+    Peer to Peer Model Logical Data Model: Keyspace, Column Family/Table, Rows, Columns
+
+    Traditional Ring design vs. VNodes
+
+    Partitioners: Murmer3, Random (md5) and ByteOrdered
+
+    Gossip and Failure Detection
+
+    Anti-Entropy and Read Repair
+
+    Memtables, SSTables and Commit Log
+
+    Compaction fundamentals to reduce SSTable data files
+
+    Hinted Handoff
+
+    Compaction
+
+    Bloom Filters, Tombstones
+
+    Managers and Services
+
+    VNodes
+
+    Indexes and Caches
+
+    Coordinator node
+
+    Seed nodes
+
+    Write/Read consistency levels: Any, One, Two, Three, Quorum
+
+    Snitches: Dynamic snitching, Simple Snitch, Rack Inferring Snitch, Property File Snitch, Gossiping Property File Snitch
+
+    Routing Client requests
+
+    Nodetool commands: gossipinfo, cfstats, describing
+
+    YAML file fundamentals
+
+    Operations management web GUI
+
+    Stress testing Cassandra
+
+    CQL command fundamentals
+
+
+    8. Cassandra API
+
+
+    Key concepts for Reading and Write in Cassandra
+
+    Tunable Consistency
+
+    Simple-Get, Multi-get Slice
+
+    Range and Slice
+
+    Slice Predicate
+
+    Delete
+
+    Hands-on CLI commands
+
+
+    9. Cassandra CQSHL
+
+
+    SQL over Cassandra
+
+    Composite Keys
+
+    Hands-on examples on CQL 3.0
+
+
+    10. Cassandra Clients
+
+
+    How to establish Client Connections
+
+    Thrift Client
+
+    Connection Pooling
+
+    Auto-discovery and Failover in Hector
+
+    Client with CQL
+
+
+    11. Cassandra Monitoring and Administration
+
+
+    Tuning Cassandra
+
+    Backup and Recovery methods
+
+    Balancing
+
+    Bootstrapping
+
+    Node Tools Commands
+
+    Upgrades
+
+    Monitoring critical metrics
+
+    Bulk Loading Data to Cassandra
+
+    Bulk Export of Data from Cassandra
+
+    Hands-on Examples for each of them
+
+
+    12. Cassandra Analytics and Search Clusters
+
+
+    Cassandra Hadoop Integration
+
+    Integration of Solr with Cassandra
+
+    Search Query on Cassandra
+
+  url: https://www.eventbrite.com/e/cassandra-training-in-york-cassandra-training-introduction-to-cassandra-training-for-beginners-tickets-84512911393?aff=ebapi
+  logo: https://cdn.evbuc.com/images/82546965/373142588229/1/original.20191125-162317?h=200&w=450&auto=compress&rect=0,115,762,381&s=2ff96dba1ccedbde1e97d2e247f17968
+  starts: 2020-01-11T10:30:00.0000000
+  ends: 2020-01-11T12:30:00.0000000
+  venue: TruVs
 - name: Meet for Code and Coffee in York
   description: '<p>We are a friendly group of software developers who meet on Monday and Wednesday mornings before work. Come along and start the day with great coffee and chat about various programming topics, or bring a project for discussion.</p> <p>Some of us arrive around 7.15, others up to 8am. We are usually around until 9.30/10.</p> '
   url: https://www.meetup.com/YorkDevelopers/events/vbflnqyzqbdb/
