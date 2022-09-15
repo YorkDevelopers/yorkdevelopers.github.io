@@ -1,10 +1,3 @@
-- name: '&#8220;Starting up a Bio-based small business in Yorkshire&#8221;'
-  description: Clara Challoner Walker, CEO The Cosy Cottage Soap Company
-  url: https://www.ypsyork.org/events/starting-up-a-bio-based-small-business-in-yorkshire/
-  logo: https://www.ypsyork.org/wp-content/uploads/2022/06/YORYM_2021_7-1-scaled-e1656604937460-200x125.jpg
-  starts: 2022-09-14T19:00:00.0000000
-  ends: 2022-09-14T21:00:00.0000000
-  venue: 27 Sep 2022
 - name: Interpreting the Ryedale Hoard
   description: >-
     <strong>Interpreting the Ryedale Hoard<br />
@@ -42,9 +35,16 @@
 
     <strong>Dr John Vogler, Professorial Research Fellow in International Relations, University of Keele</strong>
   url: https://www.ypsyork.org/events/international-climate-politics-after-glasgow/
-  logo: https://www.ypsyork.org/wp-content/uploads/2022/06/IMG_6256a-2-200x125.jpg
+  logo: https://www.ypsyork.org/wp-content/uploads/2022/08/plastic-free-handmade-soap-gift-box_1800x-e1659458032933.webp
   starts: 2022-11-08T19:00:00.0000000
   ends: 2022-11-08T21:00:00.0000000
+  venue: 15 Nov 2022
+- name: '&#8220;Starting up a Bio-based small business in Yorkshire&#8221; Postponed to 15th November 2022'
+  description: Clara Challoner Walker, CEO The Cosy Cottage Soap Company
+  url: https://www.ypsyork.org/events/starting-up-a-bio-based-small-business-in-yorkshire/
+  logo: https://www.ypsyork.org/wp-content/uploads/2022/06/IMG_6256a-2-200x125.jpg
+  starts: 2022-11-15T19:00:00.0000000
+  ends: 2022-11-15T21:00:00.0000000
   venue: 16 Nov 2022
 - name: “Jurassic Giants of Yorkshire and Wyoming&#8221;.  Please note New date now 16th November!
   description: >-
@@ -68,6 +68,23 @@
 
     Martin Carver, Professor Emeritus, University of York, Archaeology Department</strong>
   url: https://www.ypsyork.org/events/flagship-of-early-england-reconstructing-the-sutton-hoo-ship/
-  logo: https://www.ypsyork.org/wp-content/uploads/2022/07/Notching-Simon-Charlesworth-330x240-1-e1657794994156-200x125.jpeg
+  logo: https://www.ypsyork.org/wp-content/uploads/2022/08/mansionhouse-1-200x125.jpg
   starts: 2022-11-22T19:00:00.0000000
   ends: 2022-11-22T21:00:00.0000000
+  venue: 7 Dec 2022
+- name: Bicentenary Dinner 2022
+  description: >-
+    It is our great pleasure to invite you to our Bicentenary Dinner<br />
+
+    on Wednesday 7 December 2022, at The Mansion House, St Helen’s Square, York
+  url: https://www.ypsyork.org/events/bicentenary-dinner-2022/
+  logo: https://www.ypsyork.org/wp-content/uploads/2022/08/mansionhouse-1-200x125.jpg
+  starts: 2022-12-07T18:30:00.0000000
+  ends: 2022-12-07T20:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/mansion-house/">Mansion House</a>
+- name: Visit to Northern Ireland
+  description: 'Departs: Monday 15th May 2023'
+  url: https://www.ypsyork.org/events/visit-to-northern-ireland/
+  logo: https://www.ypsyork.org/wp-content/uploads/2022/08/Giants-causeway-200x125.jpg
+  starts: 2023-05-15T00:00:00.0000000
+  ends: 2023-05-15T23:00:00.0000000
