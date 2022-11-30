@@ -1,10 +1,3 @@
-- name: Two Jewels in the Yorkshire Museum
-  description: This talk &#8211; by archaeologists and twins, Dr Mel Giles (University of Manchester) and Dr Kate Giles (University of York) &#8211; will focus attention on two jewels in the Yorkshire Museum&#8217;s collections.
-  url: https://www.ypsyork.org/events/two-jewels-in-the-yorkshire-museum/
-  logo: https://www.ypsyork.org/wp-content/uploads/2022/10/Jewels-for-web-200x125.jpg
-  starts: 2022-11-29T18:30:00.0000000
-  ends: 2022-11-29T20:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/the-yorkshire-museum/">The Yorkshire Museum</a>
 - name: Bicentenary Dinner 2022
   description: >-
     It is our great pleasure to invite you to our Bicentenary Dinner<br />
@@ -29,6 +22,13 @@
   starts: 2023-01-10T12:00:00.0000000
   ends: 2023-01-10T14:00:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/york-theatre-royal/">York Theatre Royal</a>
+- name: History of the World in 100 Pandemics, Plagues and Epidemics
+  description: <strong>History of the World in 100 Pandemics, Plagues and Epidemics</strong>
+  url: https://www.ypsyork.org/events/history-of-the-world-in-100-pandemics-plagues-and-epidemics/
+  logo: https://www.ypsyork.org/wp-content/uploads/2022/11/Pandemics-e1669764378759.jpg
+  starts: 2023-01-17T14:30:00.0000000
+  ends: 2023-01-17T16:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/the-yorkshire-museum/">The Yorkshire Museum</a>
 - name: Henry VIII and York
   description: <strong>&#8220;Henry VIII and York&#8221;</strong>
   url: https://www.ypsyork.org/events/henry-viii-and-york/
