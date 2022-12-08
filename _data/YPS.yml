@@ -1,13 +1,3 @@
-- name: Bicentenary Dinner 2022
-  description: >-
-    It is our great pleasure to invite you to our Bicentenary Dinner<br />
-
-    on Wednesday 7 December 2022, at The Mansion House, St Helen’s Square, York
-  url: https://www.ypsyork.org/events/bicentenary-dinner-2022/
-  logo: https://www.ypsyork.org/wp-content/uploads/2022/08/mansionhouse-1-200x125.jpg
-  starts: 2022-12-07T18:30:00.0000000
-  ends: 2022-12-07T20:30:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/mansion-house/">Mansion House</a>
 - name: 'Air Quality: A West Yorkshire Perspective'
   description: '<strong>Air Quality: A West Yorkshire Perspective</strong>'
   url: https://www.ypsyork.org/events/air-quality-a-west-yorkshire-perspective/
@@ -29,6 +19,13 @@
   starts: 2023-01-17T14:30:00.0000000
   ends: 2023-01-17T16:30:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/the-yorkshire-museum/">The Yorkshire Museum</a>
+- name: YPS Get-Together Lunch Tuesday 14th February
+  description: Join us for a drop-in monthly lunch thanks to the Theatre Royal Cafe which has agreed to host YPS on the second Tuesday of the month. No need to book.
+  url: https://www.ypsyork.org/events/yps-get-together-lunch-tuesday-14th-february/
+  logo: https://www.ypsyork.org/wp-content/uploads/2015/01/Museum-Gardens-abbey-e1668803083715-200x125.jpg
+  starts: 2023-02-14T12:00:00.0000000
+  ends: 2023-02-14T14:00:00.0000000
+  venue: 5 Apr 2023
 - name: Henry VIII and York
   description: <strong>&#8220;Henry VIII and York&#8221;</strong>
   url: https://www.ypsyork.org/events/henry-viii-and-york/
