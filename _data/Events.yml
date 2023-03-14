@@ -12,9 +12,97 @@
   starts: 2023-04-05T19:00:00.0000000
   ends: 2023-04-05T21:00:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/the-yorkshire-museum/">The Yorkshire Museum</a>
-- name: Visit to Northern Ireland
-  description: 'Departs: Monday 15th May 2023'
-  url: https://www.ypsyork.org/events/visit-to-northern-ireland/
-  logo: https://www.ypsyork.org/wp-content/uploads/2022/08/Giants-causeway-200x125.jpg
-  starts: 2023-05-15T00:00:00.0000000
-  ends: 2023-05-15T23:00:00.0000000
+- name: YPS Get-Together Lunch
+  description: Join us for a drop-in monthly lunch thanks to the Theatre Royal Cafe which has agreed to host YPS on the second Tuesday of the month. No need to book.
+  url: https://www.ypsyork.org/events/yps-get-together-lunch-4/
+  logo: https://www.ypsyork.org/wp-content/uploads/2012/07/red-wine-200x125.jpg
+  starts: 2023-04-11T12:00:00.0000000
+  ends: 2023-04-11T14:00:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/york-theatre-royal/">York Theatre Royal</a>
+- name: Cawood, Stillingfleet and Naburn Locks
+  description: >-
+    <strong>Cawood, Stillingfleet and Naburn Locks &#8211;</strong><strong>with an optional visit to Saturn</strong><br />
+
+    <strong> &#8211; all via the B1222!</strong>
+  url: https://www.ypsyork.org/events/cawood-stillingfleet-and-naburn-locks/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/02/Minster-Precinct-Plan-200x125.jpg
+  starts: 2023-04-20T10:30:00.0000000
+  ends: 2023-04-20T12:30:00.0000000
+  venue: 21 Apr 2023
+- name: Tour the Minster Precinct
+  description: Tour the Minster Precinct and learn about the new Neighbourhood Plan
+  url: https://www.ypsyork.org/events/tour-the-minster-precinct/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/02/Voyager2-e1675328547583.jpg
+  starts: 2023-04-21T14:00:00.0000000
+  ends: 2023-04-21T16:00:00.0000000
+  venue: 25 Apr 2023
+- name: Communicating with the  Voyager Spacecraft
+  description: Communicating with the  Voyager Spacecraft
+  url: https://www.ypsyork.org/events/communicating-with-the-voyager-spacecraft/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/02/Voyager2-e1675328547583.jpg
+  starts: 2023-04-25T19:00:00.0000000
+  ends: 2023-04-25T21:00:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/the-yorkshire-museum/">The Yorkshire Museum</a>
+- name: 'Wentworth Woodhouse: New evidence concerning the design and furnishing of the Yorkshire ‘Palace’'
+  description: '<strong>Wentworth Woodhouse: New evidence concerning the design and furnishing of the Yorkshire ‘Palace’</strong>'
+  url: https://www.ypsyork.org/events/wentworth-woodhouse-new-evidence-concerning-the-design-and-furnishing-of-the-yorkshire-palace/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/01/Beach-at-Danes-Dyke-Image-from-Wikimedia-Commons-200x125.jpg
+  starts: 2023-05-09T14:30:00.0000000
+  ends: 2023-05-09T16:30:00.0000000
+  venue: 10 May 2023
+- name: Rocks, Fossils and Ice Ages at Flamborough
+  description: <strong>Rocks, Fossils and Ice Ages at Flamborough</strong>
+  url: https://www.ypsyork.org/events/rocks-fossils-and-ice-ages-at-flamborough/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/03/Ruth-colour-scaled-e1678286455564-200x125.jpg
+  starts: 2023-05-10T10:30:00.0000000
+  ends: 2023-05-10T12:30:00.0000000
+  venue: 23 May 2023
+- name: 'Pavement, Pots and Pigments: Applied Geology in Cultural Heritage'
+  description: '<strong>‘Pavement, Pots and Pigments: Applied Geology in Cultural Heritage’</strong>'
+  url: https://www.ypsyork.org/events/pavement-pots-and-pigments-applied-geology-in-cultural-heritage/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/03/Ruth-colour-scaled-e1678286455564-200x125.jpg
+  starts: 2023-05-23T19:00:00.0000000
+  ends: 2023-05-23T21:00:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/">Tempest Anderson Hall</a>
+- name: '&#8220;From Cave to Cosmos&#8221; YPS and Science in York'
+  description: <strong>&#8220;From Cave to Cosmos&#8221; YPS and Science in York</strong>
+  url: https://www.ypsyork.org/events/from-cave-to-cosmos-yps-and-science-in-york/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/02/Queues-outside-the-Lodge-e1675332226130-200x125.jpeg
+  starts: 2023-06-05T19:00:00.0000000
+  ends: 2023-06-05T21:00:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/bootham-school-2/">Bootham School</a>
+- name: Science, Gender and Sociability in a Northern City c. 1775-1820 Conference 8-10th June
+  description: <strong>Science, Gender and Sociability in a Northern City c. 1775-1820</strong>
+  url: https://www.ypsyork.org/events/science-gender-and-sociability-in-a-northern-city-c-1775-1820-conference-8-10th-june/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/01/BP2-1-200x125.jpg
+  starts: 2023-06-08T00:00:00.0000000
+  ends: 2023-06-08T23:00:00.0000000
+  venue: 14 Jun 2023
+- name: Tour of Hemp Farm at Hornington Manor and visit to Bolton Percy
+  description: <strong>Tour of Hemp Farm at Hornington Manor and visit to Bolton Percy</strong>
+  url: https://www.ypsyork.org/events/tour-of-hemp-farm-at-hornington-manor-and-visit-to-bolton-percy/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/02/A-Story-in-Stone-2-e1664201597218-367x550-1-e1675330901441.jpg
+  starts: 2023-06-14T10:00:00.0000000
+  ends: 2023-06-14T12:00:00.0000000
+  venue: 14 Jun 2023
+- name: '&#8220;A Story in Stone&#8221; from York to Oxford'
+  description: '&#8220;A Story in Stone&#8221; from York to Oxford'
+  url: https://www.ypsyork.org/events/a-story-in-stone-from-york-to-oxford/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/02/A-Story-in-Stone-2-e1664201597218-367x550-1-e1675330901441.jpg
+  starts: 2023-06-14T19:00:00.0000000
+  ends: 2023-06-14T21:00:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/the-yorkshire-museum/">The Yorkshire Museum</a>
+- name: An Etruscan Lady in York: Investigating Antiquarian Collections in the Yorkshire Museum
+  description: <strong>An Etruscan Lady in York: Investigating Antiquarian Collections in the Yorkshire Museum</strong>
+  url: https://www.ypsyork.org/events/an-etruscan-lady-in-york-investigating-antiquarian-collections-in-the-yorkshire-museum/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/02/YORYM_2010_222-7-scaled-e1677009405206-200x125.jpg
+  starts: 2023-06-21T14:30:00.0000000
+  ends: 2023-06-21T16:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/yorkshire-museum/">Yorkshire Museum</a>
+- name: 'Muddy Bottoms: response of Jurassic seafloors to palaeoenvironmental change'
+  description: '<strong>Muddy Bottoms: response of Jurassic seafloors to palaeoenvironmental change</strong>'
+  url: https://www.ypsyork.org/events/muddy-bottoms-response-of-jurassic-seafloors-to-palaeoenvironmental-change/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/02/Whitby-Mudstone-formation-e1677171118882.jpg
+  starts: 2023-07-18T14:30:00.0000000
+  ends: 2023-07-18T16:30:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/yorkshire-museum/">Yorkshire Museum</a>
