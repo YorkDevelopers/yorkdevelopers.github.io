@@ -1,10 +1,3 @@
-- name: YPS Get-Together Lunch
-  description: Join us for a drop-in monthly lunch thanks to the Theatre Royal Cafe which has agreed to host YPS on the second Tuesday of the month. No need to book.
-  url: https://www.ypsyork.org/events/yps-get-together-lunch-4/
-  logo: https://www.ypsyork.org/wp-content/uploads/2012/07/red-wine-200x125.jpg
-  starts: 2023-04-11T12:00:00.0000000
-  ends: 2023-04-11T14:00:00.0000000
-  venue: <a href="https://www.ypsyork.org/locations/york-theatre-royal/">York Theatre Royal</a>
 - name: 'Blood vessels: it’s what’s on the inside that counts!'
   description: '<strong>Blood vessels: it’s what’s on the inside that counts!</strong>'
   url: https://www.ypsyork.org/events/blood-vessels-its-whats-on-the-inside-that-counts/
@@ -67,10 +60,9 @@
 - name: Science, Gender and Sociability in a Northern City c. 1775-1820 Conference 8-10th June
   description: <strong>Science, Gender and Sociability in a Northern City c. 1775-1820</strong>
   url: https://www.ypsyork.org/events/science-gender-and-sociability-in-a-northern-city-c-1775-1820-conference-8-10th-june/
-  logo: https://www.ypsyork.org/wp-content/uploads/2023/01/BP2-1-200x125.jpg
+  logo: https://www.ypsyork.org/wp-content/uploads/2012/05/TempestAndersonHallInterior1-200x125.jpg
   starts: 2023-06-08T00:00:00.0000000
   ends: 2023-06-08T23:00:00.0000000
-  venue: 14 Jun 2023
 - name: Tour of Hemp Farm at Hornington Manor and visit to Bolton Percy &#8211; Fully booked
   description: <strong>Tour of Hemp Farm at Hornington Manor and visit to Bolton Percy</strong>
   url: https://www.ypsyork.org/events/tour-of-hemp-farm-at-hornington-manor-and-visit-to-bolton-percy/
