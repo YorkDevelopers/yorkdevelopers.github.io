@@ -1,3 +1,10 @@
+- name: YPS Get Together Lunch Tuesday 10 October
+  description: Join us for a drop-in monthly lunch thanks to the Theatre Royal Cafe which has agreed to host YPS on the second Tuesday of the month. No need to book.
+  url: https://www.ypsyork.org/events/yps-get-together-lunch-tuesday-10-october/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/08/Cheddar-e1692022175418.jpg
+  starts: 2023-10-10T12:00:00.0000000
+  ends: 2023-10-10T14:00:00.0000000
+  venue: 10 Oct 2023
 - name: Cheddar Man and the Genetic Prehistory of Britain
   description: ‘<strong>Cheddar Man and the Genetic Prehistory of Britain’</strong>
   url: https://www.ypsyork.org/events/cheddar-man-and-the-genetic-prehistory-of-britain/
@@ -29,9 +36,16 @@
 - name: '&#8220;A Place in History&#8221;.      A YPS Zoom lecture'
   description: <strong>A Place in History</strong>
   url: https://www.ypsyork.org/events/a-place-in-history-a-yps-zoom-lecture/
-  logo: https://www.ypsyork.org/wp-content/uploads/2023/10/GravitationalWaveArtWork-200x125.png
+  logo: https://www.ypsyork.org/wp-content/uploads/2012/07/York-theatre-royal-200x125.jpg
   starts: 2023-11-08T19:30:00.0000000
   ends: 2023-11-08T21:30:00.0000000
+  venue: 14 Nov 2023
+- name: YPS Get Together lunch Tuesday 14th November from 12pm
+  description: Join us for a drop-in monthly lunch thanks to the Theatre Royal Cafe which has agreed to host YPS on the second Tuesday of the month. No need to book.
+  url: https://www.ypsyork.org/events/yps-get-together-lunch-tuesday-14th-november-from-12pm/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/10/GravitationalWaveArtWork-200x125.png
+  starts: 2023-11-14T12:00:00.0000000
+  ends: 2023-11-14T14:00:00.0000000
   venue: 14 Nov 2023
 - name: Listening to the Universe with Gravitational Waves
   description: <strong>Listening to the Universe with Gravitational Waves</strong>
@@ -43,10 +57,9 @@
 - name: '&#8220;Iceland, the land of fire and ice&#8221;.'
   description: <strong>Iceland, the land of Fire and Ice</strong>
   url: https://www.ypsyork.org/events/iceland-the-land-of-fire-and-ice/
-  logo: https://www.ypsyork.org/wp-content/uploads/2023/09/RIMG1450-edit-200x125.jpg
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/08/Meradalir_2022-08-04-200x125.jpg
   starts: 2023-11-21T19:00:00.0000000
   ends: 2023-11-21T21:00:00.0000000
-  venue: 29 Nov 2023
 - name: 'Colourful Chemistry: Christmas Lecture at the University of York'
   description: <strong>Colourful Chemistry</strong>
   url: https://www.ypsyork.org/events/colourful-chemistry-christmas-lecture-at-the-university-of-york/
