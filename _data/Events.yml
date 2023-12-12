@@ -1,3 +1,10 @@
+- name: YPS Get Together Lunch Tuesday 9th January
+  description: Join us for a drop-in monthly lunch thanks to the Theatre Royal Cafe which has agreed to host YPS on the second Tuesday of the month. No need to book.
+  url: https://www.ypsyork.org/events/yps-get-together-lunch-tuesday-9th-january/
+  logo: https://www.ypsyork.org/wp-content/uploads/2012/07/red-wine-200x125.jpg
+  starts: 2024-01-09T12:00:00.0000000
+  ends: 2024-01-09T14:00:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/york-theatre-royal/">York Theatre Royal</a>
 - name: '&#8220;Roman York beneath the Streets&#8221; Project update'
   description: <strong>&#8220;Roman York Beneath the Streets&#8221; Project Update</strong>
   url: https://www.ypsyork.org/events/roman-york-beneath-the-streets-project-update/
@@ -19,6 +26,13 @@
   starts: 2024-01-30T19:00:00.0000000
   ends: 2024-01-30T21:00:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/">Tempest Anderson Hall</a>
+- name: YPS Get Together Lunch Tuesday 13th February
+  description: Join us for a drop-in monthly lunch thanks to the Theatre Royal Cafe which has agreed to host YPS on the second Tuesday of the month. No need to book.
+  url: https://www.ypsyork.org/events/yps-get-together-lunch-tuesday-13th-february/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/10/Archbish-VH-200x125.jpg
+  starts: 2024-02-13T12:00:00.0000000
+  ends: 2024-02-13T14:00:00.0000000
+  venue: 20 Feb 2024
 - name: ARCHBISHOP VERNON-HARCOURT, Archbishop of York 1807-1847
   description: <strong>ARCHBISHOP VERNON-HARCOURT, Archbishop of York 1807-1847</strong>
   url: https://www.ypsyork.org/events/archbishop-vernon-harcourt-archbishop-of-york-1807-1847/
@@ -39,4 +53,11 @@
   logo: https://www.ypsyork.org/wp-content/uploads/2023/11/20221207_142931-200x125.jpg
   starts: 2024-04-23T19:00:00.0000000
   ends: 2024-04-23T21:00:00.0000000
+  venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/">Tempest Anderson Hall</a>
+- name: 'Identifying and Protecting Historic Parks and Gardens in England: Celebrating Forty Years of ‘the Register’'
+  description: '<strong>Identifying and Protecting Historic Parks and Gardens in England: Celebrating Forty Years of ‘the Register’</strong>'
+  url: https://www.ypsyork.org/events/identifying-and-protecting-historic-parks-and-gardens-in-england-celebrating-forty-years-of-the-register/
+  logo: https://www.ypsyork.org/wp-content/uploads/2023/12/Museum-Gardens-200x125.jpeg
+  starts: 2024-05-21T19:00:00.0000000
+  ends: 2024-05-21T21:00:00.0000000
   venue: <a href="https://www.ypsyork.org/locations/tempest-anderson-hall/">Tempest Anderson Hall</a>
