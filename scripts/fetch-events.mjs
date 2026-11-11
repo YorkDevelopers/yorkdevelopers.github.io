@@ -133,11 +133,27 @@ if (sources.size && failed === sources.size) {
 }
 
 const local = s => { const [y, mo, d, h, mi] = String(s).match(/\d+/g).map(Number); return fromZone(y, mo, d, h, mi); };
+const londonDay = new Intl.DateTimeFormat('en-GB', { timeZone: TZ, weekday: 'long', year: 'numeric', month: '2-digit', day: '2-digit' });
+// The next eight dates for a weekly entry such as `every: monday`, leaving out any in `skip`.
+function weekly(e) {
+  const skip = new Set((e.skip ?? []).map(d => new Date(d).toISOString().slice(0, 10)));
+  const dates = [];
+  for (let i = 0; dates.length < 8 && i < 90; i++) {
+    const p = Object.fromEntries(londonDay.formatToParts(now + i * 864e5).map(x => [x.type, x.value]));
+    const date = `${p.year}-${p.month}-${p.day}`;
+    if (p.weekday.toLowerCase() === String(e.every).toLowerCase() && !skip.has(date)) dates.push(date);
+  }
+  return dates;
+}
 for (const e of manual) {
-  events.push({
-    uid: `manual-${e.group}-${e.start}`, feed: 'manual', group: e.group, title: e.title,
-    start: local(e.start), end: local(e.end ?? e.start), url: e.url, venue: e.venue, summary: e.summary ?? '',
-  });
+  const dates = e.every ? weekly(e) : [null];
+  for (const date of dates) {
+    const start = date ? `${date} ${e.start}` : e.start, end = date ? `${date} ${e.end ?? e.start}` : e.end ?? e.start;
+    events.push({
+      uid: `manual-${e.group}-${start}`.replace(/[^a-z0-9]+/gi, '-'), feed: 'manual', group: e.group, title: e.title,
+      start: local(start), end: local(end), url: e.url, venue: e.venue, address: e.address, summary: e.summary ?? '',
+    });
+  }
 }
 
 // Events found by scripts/discover.mjs that somebody approved on the candidates issue.

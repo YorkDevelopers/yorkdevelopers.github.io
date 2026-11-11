@@ -1,12 +1,26 @@
-# Events that are not on a Meetup page listed in groups.yml (Eventbrite, one-offs, conferences).
-# Times are York local time. Past events are ignored, so old entries are harmless.
+# Events that are not on a listing named in groups.yml (one-offs, conferences, regulars that
+# aren't posted anywhere). Times are York local time. Past events are ignored, so old entries are harmless.
+#
+# A one-off:
 #
 # - group: accu                 # an id from groups.yml
 #   title: An evening of talks
 #   start: 2027-01-20 18:30
 #   end: 2027-01-20 21:00
 #   venue: York Explore Library
+#   address: Library Square, York
 #   url: https://example.org/tickets
 #   summary: One line about the event.
+#
+# A weekly regular: give `every` a day of the week, and times without a date.
+# Use `skip` for weeks it isn't running, e.g. skip: [2026-12-28]
 
-[]
+- group: coffee
+  title: Weekly Tech Social - Code and Coffee (Monday)
+  every: monday
+  start: "08:00"
+  end: "10:00"
+  venue: Caffè Nero
+  address: Spurriergate, York
+  url: https://www.meetup.com/yorkdevelopers/
+  summary: The Monday morning Code and Coffee. A sociable group of tech people meeting before the working day to talk software, data, agile and the latest tech news. Just turn up.

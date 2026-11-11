@@ -46,7 +46,7 @@ export const fmt = (iso: string, opts: Intl.DateTimeFormatOptions) =>
 export const dayKey = (iso: string) => fmt(iso, { year: 'numeric', month: '2-digit', day: '2-digit' }).split('/').reverse().join('-');
 
 export const place = (e: Event) => [e.venue, e.address].filter(Boolean).join(', ');
-export const mapLink = (e: Event) => `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place(e) + ', York')}`;
+export const mapLink = (e: Event) => `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(/\bYork\b/.test(place(e)) ? place(e) : place(e) + ', York')}`;
 
 // A file-safe name for one event's own calendar file.
 export const slug = (e: Event) => e.uid.replace(/@.*$/, '').replace(/[^a-z0-9]+/gi, '-').toLowerCase();
