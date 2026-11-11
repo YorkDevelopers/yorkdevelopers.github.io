@@ -18,8 +18,17 @@ const regulars = [...Map.groupBy(events.filter(e => e.series), e => `${e.group}|
 const days = Map.groupBy(events, e => dayKey(e.start));
 const past = previously(8);
 const busy = new Set(events.flatMap(e => groupsOf(e).map(g => g.id)));
-const listed = groups.filter(g => g.id !== 'yorkdevelopers' || busy.has(g.id));
-const status = (g) => g.retired ? 'retired' : busy.has(g.id) ? (g.runs ?? 'events listed') : 'no events scheduled';
+// Each group's next event (events are already in date order).
+const nextFor = new Map<string, string>();
+for (const e of events) for (const g of groupsOf(e)) if (!nextFor.has(g.id)) nextFor.set(g.id, e.start);
+// Groups with events first, soonest at the top; then quiet groups; then retired ones.
+const rank = (g) => g.retired ? 2 : busy.has(g.id) ? 0 : 1;
+const listed = groups.filter(g => g.id !== 'yorkdevelopers' || busy.has(g.id))
+  .map((g, i) => ({ g, i }))
+  .sort((a, b) => rank(a.g) - rank(b.g) || (nextFor.get(a.g.id) ?? '').localeCompare(nextFor.get(b.g.id) ?? '') || a.i - b.i)
+  .map(({ g }) => g);
+const status = (g) => g.retired ? 'retired' : busy.has(g.id)
+  ? `${g.runs ?? 'events listed'}; next ${fmt(nextFor.get(g.id)!, { weekday: 'short', day: 'numeric', month: 'short' })}` : 'no events scheduled';
 const find = (e: Event) => {
   // `group:id` lets a link select exactly one group, where a bare word would also match other text
   const hosts = groupsOf(e).flatMap(g => [g.id, `group:${g.id}`, g.name, g.about, g.tags]);
@@ -68,12 +77,12 @@ const jsonLd = events.map(e => ({
                 <td class="t"><span>{fmt(e.start, { weekday: 'short' })} {time(e.start)}</span><span class="live" hidden>● on now</span></td>
                 <td>
                   <a class="title" href={e.url}>{e.title}</a>
-                  {e.venue
-                    ? <a class="v" href={mapLink(e)} title={`${place(e)} (opens Google Maps)`}>📍 {e.venue}</a>
-                    : <span class="v">📍 Venue on the event page</span>}
-                  <span class="v">🕒 {time(e.start)} to {time(e.end)}, next: <span class="next">{fmt(e.start, { day: 'numeric', month: 'short' })}</span></span>
                   <details>
                     <summary>details</summary>
+                    {e.venue
+                      ? <a class="v" href={mapLink(e)} title="Opens Google Maps">📍 {place(e)}</a>
+                      : <span class="v">📍 Venue on the event page</span>}
+                    <span class="v">🕒 {time(e.start)} to {time(e.end)}, next: <span class="next">{fmt(e.start, { day: 'numeric', month: 'short' })}</span></span>
                     {e.summary && <p>{e.summary}</p>}
                     <p><a class="cal" href={`/events/${slug(e)}.ics`}>add next to calendar</a></p>
                   </details>
@@ -92,11 +101,12 @@ const jsonLd = events.map(e => ({
               <td class="t"><span>{time(e.start)}</span><span class="live" hidden>● on now</span></td>
               <td>
                 <a class="title" href={e.url}>{e.title}</a> <span class="new" hidden>new</span>
-                {e.venue
-                    ? <a class="v" href={mapLink(e)} title={`${place(e)} (opens Google Maps)`}>📍 {e.venue}</a>
-                    : <span class="v">📍 Venue on the event page</span>}
                 <details>
                   <summary>details</summary>
+                  {e.venue
+                    ? <a class="v" href={mapLink(e)} title="Opens Google Maps">📍 {place(e)}</a>
+                    : <span class="v">📍 Venue on the event page</span>}
+                  <span class="v">🕒 {time(e.start)} to {time(e.end)}</span>
                   {e.summary && <p>{e.summary}</p>}
                   <p><a href={`/events/${slug(e)}.ics`}>add to calendar</a> <a href={e.url}>event page</a></p>
                 </details>
@@ -234,6 +244,7 @@ const jsonLd = events.map(e => ({
   details { color: var(--muted); font-size: .92em; }
   summary { cursor: pointer; width: fit-content; }
   details[open] { padding-bottom: 6px; }
+  details .v { margin-top: 4px; }
   details p { margin: 6px 0 0; max-width: 60ch; }
   details p a { margin-right: 2ch; }
   dl.past { grid-template-columns: 14ch 1fr; }
