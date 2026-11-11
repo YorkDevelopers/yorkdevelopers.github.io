@@ -1,0 +1,26 @@
+---
+import { getCollection, render } from 'astro:content';
+import Man from '../../layouts/Man.astro';
+import { fmt } from '../../lib/york';
+
+export async function getStaticPaths() {
+  return (await getCollection('news')).map(post => ({ params: { id: post.id }, props: { post } }));
+}
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+<Man name="news" title={`${post.data.title} - York Developers`}>
+  <section>
+    <h2>NAME</h2>
+    <p><b>{post.data.title}</b></p>
+    <p><i>{fmt(post.data.date.toISOString(), { day: 'numeric', month: 'long', year: 'numeric' })}</i></p>
+  </section>
+  <section class="prose">
+    <h2>DESCRIPTION</h2>
+    <Content />
+  </section>
+  <section>
+    <h2>SEE ALSO</h2>
+    <p><a href="/news/">news</a>(7), <a href="/">york</a>(7)</p>
+  </section>
+</Man>
