@@ -45,21 +45,21 @@ const paths = {
 const icon = (name: keyof typeof paths) =>
   `<svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths[name]}</svg>`;
 
-// The rose window: rings of glass panes, drawn as wedges with a thin gap between them for the lead.
-// The glass keeps to blues and violets, with amber only at the points of the compass.
-const glass = ['oklch(62% .17 262)', 'oklch(70% .14 250)', 'oklch(60% .17 285)', 'oklch(74% .11 225)', 'oklch(56% .16 270)', 'oklch(68% .15 300)'];
-const amber = 'oklch(82% .13 80)';
-const pt = (r: number, a: number) => `${(r * Math.cos(a)).toFixed(1)} ${(r * Math.sin(a)).toFixed(1)}`;
-const ring = (n: number, r1: number, r2: number, step: number, gold: number) => Array.from({ length: n }, (_, i) => {
-  const gap = 1.3 / r2, a0 = (i / n) * 2 * Math.PI + gap, a1 = ((i + 1) / n) * 2 * Math.PI - gap;
-  return {
-    d: `M${pt(r1, a0)}L${pt(r2, a0)}A${r2} ${r2} 0 0 1 ${pt(r2, a1)}L${pt(r1, a1)}A${r1} ${r1} 0 0 0 ${pt(r1, a0)}Z`,
-    fill: gold && i % gold === 0 ? amber : glass[(i * step) % glass.length], delay: ((i * 37) % 23) / 3,
-  };
-});
-const rings = [ring(12, 28, 84, 1, 0), ring(24, 90, 146, 5, 6), ring(24, 152, 204, 1, 0)];
-const studs = Array.from({ length: 24 }, (_, i) => ({ a: ((i + .5) / 24) * 2 * Math.PI, fill: i % 6 === 0 ? amber : glass[(i * 5) % glass.length] }));
-const lancet = (x: number, w: number, top: number, foot: number) => `M${x} ${foot}V${top + 44}Q${x} ${top + 16} ${x + w / 2} ${top}Q${x + w} ${top + 16} ${x + w} ${top + 44}V${foot}Z`;
+// The Minster's west front, drawn as an elevation: two towers, the gable between them,
+// the great west window and the three doors. Everything is built from these two shapes.
+// A pointed (equilateral) arch: the two sides are arcs whose radius is the opening's width.
+const arch = (x: number, w: number, top: number, foot: number) => {
+  const spring = top + w * .866;
+  return `M${x} ${foot}V${spring}A${w} ${w} 0 0 1 ${x + w / 2} ${top}A${w} ${w} 0 0 1 ${x + w} ${spring}V${foot}Z`;
+};
+// A pinnacle: a square base with a tall spirelet, and crockets up its edges.
+const pinnacle = (cx: number, base: number, h: number, w: number) => {
+  const crockets = [.3, .5, .7].map(t => { const y = base - 10 - (h - 10) * t, half = (w / 2) * (1 - t); return `M${cx - half - 3} ${y + 2}l3 -4M${cx + half + 3} ${y + 2}l-3 -4`; }).join('');
+  return { body: `M${cx - w / 2 - 2} ${base}v-10h${w + 4}v10zM${cx - w / 2} ${base - 10}L${cx} ${base - h}L${cx + w / 2} ${base - 10}z`, crockets };
+};
+const stone = { light: '#efe4c6', mid: '#dccca6', dark: '#c3b085', line: '#8e7b56', deep: '#5d4f37' };
+const towerPinnacles = [pinnacle(42, 114, 92, 18), pinnacle(188, 114, 92, 18), pinnacle(90, 114, 56, 11), pinnacle(140, 114, 56, 11)];
+const greatWindow = arch(220, 120, 270, 480);
 ---
 <!doctype html>
 <html lang="en">
@@ -100,50 +100,95 @@ const lancet = (x: number, w: number, top: number, foot: number) => `M${x} ${foo
       </div>
 
       <div class="window" aria-hidden="true">
-        {[true, false].map(bloom => (
-          <svg viewBox="0 0 520 700" class:list={{ bloom }}>
-            <defs>
-              <linearGradient id={`stone${bloom}`} x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2f3542" /><stop offset="1" stop-color="#191c24" /></linearGradient>
-              <pattern id={`courses${bloom}`} width="46" height="24" patternUnits="userSpaceOnUse">
-                <path d="M0 .5H46M0 12.5H46M12 0V12M35 12V24" stroke="#000" stroke-opacity=".3" stroke-width=".8" fill="none" />
-              </pattern>
-            </defs>
-            <g class="stone">
-              <!-- the gable wall, laid in fine courses, with a moulded edge -->
-              <path d="M30 700V300Q30 70 260 12Q490 70 490 300V700Z" fill={`url(#stone${bloom})`} />
-              <path d="M30 700V300Q30 70 260 12Q490 70 490 300V700Z" fill={`url(#courses${bloom})`} />
-              <path d="M30 700V300Q30 70 260 12Q490 70 490 300V700" fill="none" stroke="#6f7a90" stroke-width="2" />
-              <path d="M42 700V302Q42 82 260 27Q478 82 478 302V700" fill="none" stroke="#6f7a90" stroke-opacity=".35" />
-              <!-- the rose's stone ring: three mouldings -->
-              <circle cx="260" cy="232" r="188" fill="#22262f" stroke="#6f7a90" stroke-width="2" />
-              <circle cx="260" cy="232" r="180" fill="none" stroke="#6f7a90" stroke-opacity=".45" />
-              <circle cx="260" cy="232" r="172" fill="#39404d" />
-              <!-- a string course and sill for the lancets -->
-              <path d="M52 438H468M70 676H450" stroke="#6f7a90" stroke-opacity=".5" stroke-width="2" />
+        <svg viewBox="0 0 560 700">
+          <defs>
+            <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color={stone.light} /><stop offset="1" stop-color={stone.dark} /></linearGradient>
+            <linearGradient id="recess" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b9a67c" /><stop offset="1" stop-color="#9c8960" /></linearGradient>
+            <linearGradient id="pane" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#5b7fd6" /><stop offset=".45" stop-color="#3a4a9a" /><stop offset=".75" stop-color="#5a3f8c" /><stop offset="1" stop-color="#27325e" />
+            </linearGradient>
+            <!-- blind panelling: the fine vertical ribs that cover the stonework -->
+            <pattern id="ribs" width="15" height="60" patternUnits="userSpaceOnUse">
+              <path d="M.5 0V60M7.5 6a3.5 5 0 0 1 7 0" stroke={stone.line} stroke-opacity=".28" fill="none" />
+            </pattern>
+            <radialGradient id="flood"><stop offset="0" stop-color="#f1dfae" stop-opacity=".16" /><stop offset="1" stop-color="#f1dfae" stop-opacity="0" /></radialGradient>
+            <clipPath id="great"><path d={greatWindow} /></clipPath>
+
+            <!-- one tower, drawn for the left side and mirrored for the right -->
+            <g id="tower">
+              <rect x="40" y="130" width="150" height="550" fill="url(#stone)" />
+              <rect x="40" y="130" width="150" height="550" fill="url(#ribs)" />
+              <rect x="168" y="130" width="22" height="550" fill={stone.deep} opacity=".12" />
+              <!-- buttresses, wider below each set-off -->
+              <path d="M34 130h16v166h-16zM178 130h16v166h-16zM30 296h22v150h-22zM176 296h22v150h-22zM26 446h28v234h-28zM174 446h28v234h-28z" fill={stone.light} stroke={stone.line} stroke-width="1" />
+              <!-- string courses -->
+              <path d="M26 296h176M24 446h180M22 590h184" stroke={stone.line} stroke-width="3" />
+              <path d="M26 293h176M24 443h180M22 587h184" stroke={stone.light} stroke-width="1.5" />
+              <!-- pierced parapet -->
+              <rect x="34" y="112" width="160" height="20" fill={stone.mid} stroke={stone.line} />
+              <path d="M44 128v-9a4 4 0 0 1 8 0v9M60 128v-9a4 4 0 0 1 8 0v9M76 128v-9a4 4 0 0 1 8 0v9M100 128v-9a4 4 0 0 1 8 0v9M122 128v-9a4 4 0 0 1 8 0v9M146 128v-9a4 4 0 0 1 8 0v9M162 128v-9a4 4 0 0 1 8 0v9M178 128v-9a4 4 0 0 1 8 0v9" fill={stone.deep} opacity=".55" />
+              {towerPinnacles.map(p => <><path d={p.body} fill={stone.light} stroke={stone.line} /><path d={p.crockets} stroke={stone.line} stroke-width="1.6" fill="none" /></>)}
+              <!-- belfry opening with louvres, under a crocketed gable -->
+              <path d={arch(89, 52, 172, 286)} fill="#3a342a" stroke={stone.line} stroke-width="3" />
+              <path d="M91 214h48M91 228h48M91 242h48M91 256h48M91 270h48M115 176V286" stroke={stone.dark} stroke-width="2" opacity=".75" />
+              <path d="M80 190L115 142L150 190" fill="none" stroke={stone.line} stroke-width="2.5" />
+              <path d="M115 142v-12M111 134h8" stroke={stone.line} stroke-width="2" />
+              <!-- two traceried windows -->
+              {[[316, 438], [462, 582]].map(([top, foot]) => (
+                <>
+                  <path d={arch(81, 68, top - 8, foot + 2)} fill="url(#recess)" stroke={stone.line} />
+                  <path class="glassy" d={arch(87, 56, top, foot)} fill="url(#pane)" />
+                  <path d={`M115 ${top + 30}V${foot}M101 ${top + 44}V${foot}M129 ${top + 44}V${foot}M87 ${top + 49}Q101 ${top + 22} 115 ${top + 49}Q129 ${top + 22} 143 ${top + 49}`} fill="none" stroke={stone.mid} stroke-width="2.2" />
+                  <circle cx="115" cy={top + 24} r="8" fill="none" stroke={stone.mid} stroke-width="2.2" />
+                  <path d={arch(87, 56, top, foot)} fill="none" stroke={stone.light} stroke-width="2.5" />
+                </>
+              ))}
+              <!-- side door -->
+              <path d={arch(84, 62, 600, 680)} fill="url(#recess)" stroke={stone.line} />
+              <path d={arch(96, 38, 622, 680)} fill="#2b211a" stroke={stone.deep} stroke-width="2" />
+              <path d="M115 624V680" stroke={stone.deep} stroke-width="1.5" />
             </g>
-            <g transform="translate(260 232) scale(.69)">
-              {rings.map(panes => <g class="panes">{panes.map(p => <path d={p.d} fill={p.fill} style={`animation-delay:-${p.delay}s`} />)}</g>)}
-              {studs.map(s => <circle cx={(226 * Math.cos(s.a)).toFixed(1)} cy={(226 * Math.sin(s.a)).toFixed(1)} r="9" fill={s.fill} />)}
-              <circle r="22" fill={amber} />
-            </g>
-            {[0, 1, 2, 3, 4].map(i => {
-              const x = 88 + i * 72, d = lancet(x, 56, 456, 668);
-              return (
-                <g>
-                  <linearGradient id={`lancet${i}${bloom}`} x1="0" y1="0" x2="0" y2="1">
-                    <stop offset="0" stop-color={glass[(i + 1) % glass.length]} /><stop offset="1" stop-color={glass[(i + 4) % glass.length]} />
-                  </linearGradient>
-                  <path class="panes lancet" d={d} fill={`url(#lancet${i}${bloom})`} style={`animation-delay:-${i * 1.7}s`} />
-                  <g class="stone">
-                    <path d={`M${x + 28} 462V668M${x} 508H${x + 56}M${x} 540H${x + 56}M${x} 572H${x + 56}M${x} 604H${x + 56}M${x} 636H${x + 56}`} stroke="#12151b" stroke-width="1.3" />
-                    <path d={d} fill="none" stroke="#6f7a90" stroke-width="2.5" />
-                    <path d={lancet(x - 6, 68, 446, 668)} fill="none" stroke="#6f7a90" stroke-opacity=".4" />
-                  </g>
-                </g>
-              );
-            })}
-          </svg>
-        ))}
+          </defs>
+
+          <!-- a soft floodlit glow behind the building -->
+          <ellipse cx="280" cy="420" rx="330" ry="360" fill="url(#flood)" />
+
+          <!-- the centre: wall, gable and its finial -->
+          <path d="M190 336L280 210L370 336V680H190Z" fill="url(#stone)" />
+          <path d="M190 336L280 210L370 336V680H190Z" fill="url(#ribs)" />
+          <path d="M186 340L280 208L374 340" fill="none" stroke={stone.line} stroke-width="3" />
+          <path d="M198 340L280 226L362 340" fill="none" stroke={stone.light} stroke-width="1.5" />
+          {[pinnacle(280, 212, 60, 12)].map(p => <><path d={p.body} fill={stone.light} stroke={stone.line} /><path d={p.crockets} stroke={stone.line} stroke-width="1.6" fill="none" /></>)}
+
+          <!-- the great west window, with the Heart of Yorkshire in its tracery -->
+          <path d={arch(208, 144, 254, 486)} fill="url(#recess)" stroke={stone.line} stroke-width="1.5" />
+          <path class="glassy" d={greatWindow} fill="url(#pane)" />
+          <g clip-path="url(#great)" fill="none" stroke={stone.mid} stroke-width="2.4">
+            <path d="M235 372V480M250 364V480M265 356V480M280 336V480M295 356V480M310 364V480M325 372V480" />
+            <path d="M280 352C252 328 250 300 266 297C275 296 280 304 280 310C280 304 285 296 294 297C310 300 308 328 280 352Z" stroke-width="3" />
+            <path d="M220 374Q236 350 250 366Q258 340 280 352Q302 340 310 366Q324 350 340 374M250 366Q240 320 262 296M310 366Q320 320 298 296M280 296V270" />
+          </g>
+          <path d={greatWindow} fill="none" stroke={stone.light} stroke-width="3" />
+
+          <!-- string course and a band of niches under the window -->
+          <path d="M190 492h180" stroke={stone.line} stroke-width="3" />
+          <path d="M200 520v-12a5 5 0 0 1 10 0v12M218 520v-12a5 5 0 0 1 10 0v12M332 520v-12a5 5 0 0 1 10 0v12M350 520v-12a5 5 0 0 1 10 0v12" fill={stone.deep} opacity=".35" />
+
+          <!-- the central portal: a deep arch under a gable, two doors and a small rose -->
+          <path d="M214 566L280 498L346 566" fill={stone.mid} stroke={stone.line} stroke-width="2.5" />
+          <path d={arch(222, 116, 520, 680)} fill="url(#recess)" stroke={stone.line} stroke-width="2" />
+          <path d={arch(232, 96, 538, 680)} fill="none" stroke={stone.dark} stroke-width="2" />
+          <circle class="glassy" cx="280" cy="590" r="17" fill="url(#pane)" stroke={stone.light} stroke-width="2.5" />
+          <path d="M280 573v34M263 590h34M268 578l24 24M292 578l-24 24" stroke={stone.mid} stroke-width="1.6" />
+          <path d={arch(246, 31, 618, 680)} fill="#2b211a" stroke={stone.deep} stroke-width="1.5" />
+          <path d={arch(283, 31, 618, 680)} fill="#2b211a" stroke={stone.deep} stroke-width="1.5" />
+
+          <use href="#tower" />
+          <use href="#tower" transform="translate(560 0) scale(-1 1)" />
+
+          <!-- steps -->
+          <path d="M14 680h532v7H14zM4 687h552v7H4z" fill={stone.dark} stroke={stone.line} stroke-width=".8" />
+        </svg>
       </div>
     </section>
 
@@ -164,7 +209,7 @@ const lancet = (x: number, w: number, top: number, foot: number) => `M${x} ${foo
           </span>
         </div>
         <div class="cal-grid" id="cal-grid"></div>
-        <p class="cal-key"><i class="k has"></i>Event<i class="k dotted"></i>Weekly meetup</p>
+        <p class="cal-key"><i class="k today"></i>Today<i class="k has"></i>Event<i class="k dotted"></i>Weekly</p>
       </aside>
       <div>
       {regulars.length > 0 && (
@@ -283,7 +328,7 @@ const lancet = (x: number, w: number, top: number, foot: number) => `M${x} ${foo
     <p>York Developers is a Charitable Incorporated Organisation, registered charity 1177591. Events checked {fmt(fetchedAt, { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}.</p>
   </footer>
 
-  <script type="application/json" id="data" set:html={JSON.stringify(events.map(e => ({ t: title(e), s: e.start, e: e.end, h: hostName(e), v: e.venue ?? '', r: !!e.series, k: cardFor(e) })))} />
+  <script type="application/json" id="data" set:html={JSON.stringify(events.map(e => ({ t: title(e), s: e.start, e: e.end, h: hostName(e), v: e.venue ?? '', r: !!e.series, k: cardFor(e), g: groupsOf(e).map(x => x.id) })))} />
 </body>
 </html>
 
@@ -293,7 +338,7 @@ const lancet = (x: number, w: number, top: number, foot: number) => `M${x} ${foo
   :root {
     --base: #0a0c10; --raised: #12151b; --line: #232833; --line-hi: #343b49;
     --ink: #f3f5f9; --subtext: #9aa3b3;
-    --accent: oklch(62% .19 264); --accent-hi: oklch(74% .14 264); --green: oklch(76% .14 160);
+    --accent: oklch(62% .19 264); --accent-hi: oklch(74% .14 264); --green: oklch(76% .14 160); --red: oklch(64% .21 25);
     --font: 'Geist', system-ui, sans-serif;
   }
   * { box-sizing: border-box; }
@@ -346,14 +391,11 @@ const lancet = (x: number, w: number, top: number, foot: number) => `M${x} ${foo
   .next strong { font-size: 1.1rem; font-weight: 600; letter-spacing: -.015em; line-height: 1.25; }
   .next > span:last-child { color: var(--subtext); font-size: .93rem; }
 
-  /* the window: a rose set in stone above five lancets */
-  .window { position: relative; aspect-ratio: 52 / 70; max-height: 74vh; justify-self: center; width: min(100%, 440px); }
-  .window svg { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
-  /* a blurred copy of the glass alone, so its colour spills softly past the stone */
-  .window svg.bloom { filter: blur(46px); opacity: .5; }
-  .window svg.bloom .stone { display: none; }
-  .panes path, path.panes { animation: shimmer 7s ease-in-out infinite alternate; }
-  @keyframes shimmer { from { opacity: .78; } to { opacity: 1; } }
+  /* the Minster's west front */
+  .window { aspect-ratio: 56 / 70; max-height: 76vh; justify-self: center; width: min(100%, 470px); }
+  .window svg { display: block; width: 100%; height: 100%; }
+  .glassy { animation: shimmer 6s ease-in-out infinite alternate; }
+  @keyframes shimmer { from { opacity: .82; } to { opacity: 1; } }
 
   /* events */
   .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--c, var(--subtext)); margin-right: 8px; flex: none; }
@@ -399,17 +441,23 @@ const lancet = (x: number, w: number, top: number, foot: number) => `M${x} ${foo
   .cal-grid .wd { color: var(--subtext); font-size: .72rem; padding-bottom: 4px; }
   .cal-grid .d { height: 32px; min-width: 0; display: grid; place-items: center; border-radius: 7px; border: 1px solid transparent; color: var(--subtext); background: none; font: inherit; padding: 0; position: relative; }
   .cal-grid .past { opacity: .35; }
-  .cal-grid .today { border-color: var(--subtext); color: var(--ink); }
   .cal-grid button.d { cursor: pointer; color: var(--ink); }
   .cal-grid .has { background: color-mix(in srgb, var(--accent) 30%, transparent); border-color: color-mix(in srgb, var(--accent) 70%, transparent); font-weight: 600; }
   .cal-grid .has:hover { background: color-mix(in srgb, var(--accent) 50%, transparent); }
   .cal-grid .dotted::after, .k.dotted { content: ''; width: 4px; height: 4px; border-radius: 50%; background: var(--accent-hi); }
   .cal-grid .dotted::after { position: absolute; bottom: 3px; left: calc(50% - 2px); }
   .cal-grid button.dotted:hover { border-color: var(--line-hi); }
+  /* today stands out in red, whether or not anything is on */
+  .cal-grid .today, .k.today { background: color-mix(in srgb, var(--red) 28%, transparent); border: 1px solid color-mix(in srgb, var(--red) 80%, transparent); }
+  .cal-grid .today { color: var(--ink); font-weight: 600; }
+  /* dimmer when nothing is on today */
+  .cal-grid span.today { background: color-mix(in srgb, var(--red) 10%, transparent); border-color: color-mix(in srgb, var(--red) 38%, transparent); color: var(--subtext); font-weight: 400; }
+  .cal-grid button.today:hover { background: color-mix(in srgb, var(--red) 45%, transparent); }
   .cal-key { display: flex; align-items: center; gap: 7px; margin: 12px 0 0; color: var(--subtext); font-size: .78rem; }
   .k { display: inline-block; }
-  .k.has { width: 10px; height: 10px; border-radius: 3px; background: color-mix(in srgb, var(--accent) 30%, transparent); border: 1px solid color-mix(in srgb, var(--accent) 70%, transparent); }
-  .k.dotted { margin-left: 10px; }
+  .k.has, .k.today { width: 10px; height: 10px; border-radius: 3px; }
+  .k.has { background: color-mix(in srgb, var(--accent) 30%, transparent); border: 1px solid color-mix(in srgb, var(--accent) 70%, transparent); }
+  .k.dotted, .k.has { margin-left: 10px; }
   .flash { outline: 2px solid var(--accent-hi); outline-offset: 2px; }
 
   /* groups */
@@ -446,13 +494,13 @@ const lancet = (x: number, w: number, top: number, foot: number) => `M${x} ${foo
     .hero { grid-template-columns: 1fr; gap: 32px; padding-top: 36px; }
     .window { width: min(72vw, 340px); }
     .whatson { grid-template-columns: 1fr; }
-    .whatson > aside { order: 0; position: static; max-width: 340px; }
+    .whatson > aside { display: none; } /* the list is short enough to scan on a phone */
     .event { grid-template-columns: 64px 1fr; } .date b { font-size: 1.45rem; } .body { padding: 14px 16px 16px; }
     section { padding-top: 48px; }
   }
   @media (prefers-reduced-motion: reduce) {
     html { scroll-behavior: auto; }
-    .panes path, path.panes { animation: none; }
+    .glassy { animation: none; }
     .reveal { opacity: 1; transform: none; transition: none; }
   }
 </style>
@@ -495,10 +543,11 @@ const lancet = (x: number, w: number, top: number, foot: number) => `M${x} ${foo
     document.querySelectorAll('.chip').forEach(c => c.classList.toggle('on', c === chip));
     // cards glide to their new places where the browser can do it
     (document as any).startViewTransition ? (document as any).startViewTransition(show) : show();
+    calendar();
   });
 
   // "Starts in 1 h 53 min" for whatever is next
-  const all: { t: string; s: string; e: string; h: string; v: string; r: boolean; k: string }[] = JSON.parse(document.getElementById('data')!.textContent!);
+  const all: { t: string; s: string; e: string; h: string; v: string; r: boolean; k: string; g: string[] }[] = JSON.parse(document.getElementById('data')!.textContent!);
   const $ = (id: string) => document.getElementById(id)!;
   function next() {
     const ev = all.find(e => Date.parse(e.e) > now());
@@ -515,17 +564,22 @@ const lancet = (x: number, w: number, top: number, foot: number) => `M${x} ${foo
   const iso = (t: number) => dayKey.format(t).split('/').reverse().join('-');
   const pad = (n: number) => String(n).padStart(2, '0');
   const today = iso(now());
-  const byDay = new Map<string, { card: string; weekly: boolean; n: number }>();
-  for (const e of all) {
-    if (Date.parse(e.e) <= now()) continue;
-    const d = iso(Date.parse(e.s)), had = byDay.get(d);
-    // a one-off event takes the day over a weekly meetup
-    if (!had || (had.weekly && !e.r)) byDay.set(d, { card: e.k, weekly: e.r, n: (had?.n ?? 0) + 1 });
-    else had.n++;
+  // which days to mark, for the group picked in the filter (or all of them)
+  function daysFor(g: string) {
+    const byDay = new Map<string, { card: string; weekly: boolean; n: number }>();
+    for (const e of all) {
+      if (Date.parse(e.e) <= now() || (g && !e.g.includes(g))) continue;
+      const d = iso(Date.parse(e.s)), had = byDay.get(d);
+      // a one-off event takes the day over a weekly meetup
+      if (!had || (had.weekly && !e.r)) byDay.set(d, { card: e.k, weekly: e.r, n: (had?.n ?? 0) + 1 });
+      else had.n++;
+    }
+    return byDay;
   }
-  const months = [...new Set([today, ...byDay.keys()].map(d => d.slice(0, 7)))].sort();
+  const months = [...new Set([today, ...daysFor('').keys()].map(d => d.slice(0, 7)))].sort();
   let month = 0;
   function calendar() {
+    const byDay = daysFor(group);
     const [y, m] = months[month].split('-').map(Number);
     const first = new Date(Date.UTC(y, m - 1, 1)), count = new Date(Date.UTC(y, m, 0)).getUTCDate();
     $('cal-title').textContent = first.toLocaleDateString('en-GB', { month: 'long', year: 'numeric', timeZone: 'UTC' });
@@ -546,7 +600,6 @@ const lancet = (x: number, w: number, top: number, foot: number) => `M${x} ${foo
   $('cal-grid').addEventListener('click', e => {
     const id = (e.target as HTMLElement).closest<HTMLElement>('[data-go]')?.dataset.go;
     if (!id) return;
-    if (group) document.querySelector<HTMLElement>('.chip[data-g=""]')!.click();
     const card = document.getElementById(id)!;
     card.scrollIntoView({ block: 'center' });
     card.classList.add('flash');
