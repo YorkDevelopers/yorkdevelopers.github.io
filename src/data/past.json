@@ -1,3 +1,20 @@
 {
-  "events": []
+  "events": [
+    {
+      "uid": "event_316908920@meetup.com",
+      "feed": "meetup:accu-york",
+      "group": "accu",
+      "title": "From Writing Code to Making Business-Aligned Decisions",
+      "start": "2026-11-11T18:00:00.000Z",
+      "end": "2026-11-11T21:00:00.000Z",
+      "url": "https://www.meetup.com/accu-york/events/316908920/",
+      "venue": "Patch",
+      "address": "The Bonding Warehouse, Terry Ave, York YO1 6FA, York",
+      "summary": "ACCU York x Slurp n' Learn - \"A joint night with Slurp n' Learn\" 🕡 Doors open 18:00 ACCU York and Slurp n' Learn are running November together: two talks of roughly 45 minutes each, one evening. Doors are at 6pm, and we will confirm the running order nearer the time. All are welcome, whether you have been to an ACCU ...",
+      "with": [
+        "slurp"
+      ],
+      "seen": "2026-11-01T00:00:00.000Z"
+    }
+  ]
 }
