@@ -1,13 +1,14 @@
 ---
 // The polar opposite of the man page: the same information in a modern, polished layout,
 // with the Minster's glass as its one illustration. Served at /pro.
-// Nothing on the default site links here, and search engines are asked not to index it.
+// The default site links here from its top bar. Search engines are asked not to index it,
+// so the two versions of the same listings don't compete.
 import { groups, upcoming, groupById, groupsOf, hostName, news, fetchedAt, fmt, mapLink, slug } from '../lib/york';
 import type { Event, Group } from '../lib/york';
 
-// Six greys for the group dots and badges. In a greyscale page the two-letter badge, not the
-// colour, is what tells groups apart.
-const hues = ['#D4D4D8', '#8E8E93', '#B8B8BC', '#6E6E73', '#E4E4E7', '#A1A1A6'];
+// Six greys for the group dots and badges, defined per theme in the stylesheet. In a greyscale
+// page the two-letter badge, not the colour, is what tells groups apart.
+const hues = ['var(--g1)', 'var(--g2)', 'var(--g3)', 'var(--g4)', 'var(--g5)', 'var(--g6)'];
 const colour = (g: Group) => hues[Math.max(groups.indexOf(g), 0) % hues.length];
 // A two-letter badge per group: "Code and Coffee" is CC, "York Ruby" is RU.
 const skip = new Set(['york', 'and', "n'", 'in', 'of', 'the']);
@@ -37,6 +38,8 @@ const paths = {
   calendar: '<rect x="3.5" y="5" width="17" height="15" rx="2"/><path d="M3.5 10h17M8 3v4M16 3v4"/>',
   arrow: '<path d="M7 17 17 7M9 7h8v8"/>',
   left: '<path d="m14.5 6-6 6 6 6"/>',
+  sun: '<circle cx="12" cy="12" r="4"/><path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.6l1.4 1.4M17 17l1.4 1.4M5.6 18.4 7 17M17 7l1.4-1.4"/>',
+  moon: '<path d="M20 14.5A8 8 0 0 1 9.5 4a7 7 0 1 0 10.5 10.5z"/>',
   right: '<path d="m9.5 6 6 6-6 6"/>',
   mic: '<rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21"/>',
   plus: '<rect x="4" y="4" width="16" height="16" rx="3"/><path d="M12 8v8M8 12h8"/>',
@@ -69,8 +72,13 @@ const greatWindow = arch(220, 120, 270, 480);
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex">
+  <meta name="color-scheme" content="dark light">
   <title>York Developers</title>
   <link rel="icon" href="/img/favicon-32x32.png">
+  <script is:inline>
+    // Apply a saved theme before the page paints. The choice is shared with the default site.
+    try { const t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch {}
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
@@ -80,6 +88,7 @@ const greatWindow = arch(220, 120, 270, 480);
     <nav>
       <a href="#events">Events</a><a href="#groups">Groups</a><a href="#news">News</a><a href="#join">Get involved</a>
     </nav>
+    <button class="mode" id="theme" type="button" hidden></button>
     <a class="plain" href="/">Default site</a>
   </header>
 
@@ -102,7 +111,7 @@ const greatWindow = arch(220, 120, 270, 480);
       </div>
 
       <div class="window" aria-hidden="true">
-        <svg viewBox="0 0 560 700">
+        <svg viewBox="0 0 700 700">
           <defs>
             <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color={stone.light} /><stop offset="1" stop-color={stone.dark} /></linearGradient>
             <linearGradient id="recess" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9A9A9E" /><stop offset="1" stop-color="#7E7E83" /></linearGradient>
@@ -190,6 +199,55 @@ const greatWindow = arch(220, 120, 270, 480);
 
           <!-- steps -->
           <path d="M14 680h532v7H14zM4 687h552v7H4z" fill={stone.dark} stroke={stone.line} stroke-width=".8" />
+
+          <!-- A visitor. A small robot has walked up from the station with a coffee, and has
+               stopped to look up at the Heart of Yorkshire. Its drone has come along too. -->
+          <path d="M556 694H698" stroke={stone.line} stroke-width="1.5" />
+          <ellipse cx="622" cy="694" rx="44" ry="4" fill="#000" opacity=".25" />
+          <g stroke={stone.line} stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+            <!-- backpack, legs mid-stride, feet -->
+            <rect x="646" y="590" width="16" height="42" rx="6" fill={stone.dark} />
+            <path d="M608 642L600 680M634 642L640 680" stroke-width="9" stroke={stone.dark} fill="none" />
+            <path d="M608 642L600 680M634 642L640 680" stroke-width="5" stroke={stone.light} fill="none" />
+            <rect x="584" y="678" width="26" height="12" rx="6" fill={stone.mid} />
+            <rect x="630" y="678" width="26" height="12" rx="6" fill={stone.mid} />
+            <!-- body, with a little heart on its chest that glows when it sees the big one -->
+            <rect x="594" y="580" width="56" height="66" rx="13" fill={stone.light} />
+            <rect x="604" y="592" width="36" height="26" rx="5" fill={stone.deep} stroke-width="1.5" />
+            <path class="glassy" d="M622 613C612 605 613 597 618 597C621 597 622 600 622 601C622 600 623 597 626 597C631 597 632 605 622 613Z" fill="#D9B876" stroke="none" />
+            <path d="M606 628h10M606 635h18" stroke-width="2" />
+            <!-- far arm, holding a takeaway coffee -->
+            <path d="M598 596L574 612" stroke-width="10" stroke={stone.dark} fill="none" />
+            <path d="M598 596L574 612" stroke-width="6" stroke={stone.light} fill="none" />
+            <path d="M562 598h16l-2.5 22h-11z" fill="#F4F4F5" />
+            <path d="M560 598h20M563 607h14" stroke-width="2" />
+            <path class="steam" d="M567 592q-4 -6 0 -11t0 -10M574 592q-4 -6 0 -11t0 -10" stroke="#D4D4D8" stroke-width="1.6" fill="none" opacity=".7" />
+            <!-- near arm, swinging -->
+            <path d="M646 598L656 634" stroke-width="10" stroke={stone.dark} fill="none" />
+            <path d="M646 598L656 634" stroke-width="6" stroke={stone.light} fill="none" />
+            <circle cx="656" cy="637" r="5.5" fill={stone.mid} />
+            <!-- neck and head, tipped right back to take in the towers -->
+            <rect x="615" y="568" width="14" height="14" fill={stone.dark} />
+            <g transform="rotate(-18 622 572)">
+              <rect x="594" y="526" width="56" height="44" rx="12" fill={stone.light} />
+              <rect x="601" y="536" width="42" height="20" rx="10" fill={stone.deep} stroke-width="1.5" />
+              <circle class="glassy" cx="612" cy="546" r="5" fill="#F3DCA6" stroke="none" />
+              <circle class="glassy" cx="632" cy="546" r="5" fill="#F3DCA6" stroke="none" />
+              <path d="M616 562q6 4 12 0" fill="none" />
+              <path d="M622 526V510" />
+              <circle class="blink" cx="622" cy="506" r="4.5" fill="#D9B876" stroke="none" />
+              <path d="M590 542v12M654 542v12" stroke-width="4" />
+            </g>
+          </g>
+          <!-- its drone, hovering by the tower for a better look -->
+          <g class="bob" stroke={stone.line} stroke-width="1.6" stroke-linecap="round">
+            <path d="M606 404h44M612 404v8M644 404v8" fill="none" />
+            <ellipse class="rotor" cx="612" cy="402" rx="13" ry="2.2" fill={stone.light} opacity=".8" />
+            <ellipse class="rotor" cx="644" cy="402" rx="13" ry="2.2" fill={stone.light} opacity=".8" />
+            <rect x="616" y="408" width="24" height="13" rx="6" fill={stone.light} />
+            <circle class="blink" cx="621" cy="414.5" r="2.6" fill="#D9B876" stroke="none" />
+            <path d="M622 421v5M634 421v5" />
+          </g>
         </svg>
       </div>
     </section>
@@ -330,43 +388,63 @@ const greatWindow = arch(220, 120, 270, 480);
     <p>York Developers is a Charitable Incorporated Organisation, registered charity 1177591. Events checked {fmt(fetchedAt, { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}.</p>
   </footer>
 
+  <template id="ico-sun"><Fragment set:html={icon('sun')} /></template>
+  <template id="ico-moon"><Fragment set:html={icon('moon')} /></template>
   <script type="application/json" id="data" set:html={JSON.stringify(events.map(e => ({ t: title(e), s: e.start, e: e.end, h: hostName(e), v: e.venue ?? '', r: !!e.series, k: cardFor(e), g: groupsOf(e).map(x => x.id) })))} />
 </body>
 </html>
 
 <style is:global>
   /* Black, white and greys, with one quiet highlight: a warm candle gold, used only for the
-     light in the Minster's windows, today on the calendar, and small labels. */
+     light in the Minster's windows, today on the calendar, and small labels.
+     Dark is the default; the toggle in the top bar switches to the light set below. */
   :root {
-    --gold: #C9A86A;
+    color-scheme: dark;
+    --gold: #C9A86A; --gold-text: #C9A86A;
     --base: #0C0C0D; --raised: #161617; --line: #29292B; --line-hi: #3F3F42;
     --ink: #F4F4F5; --subtext: #A1A1A6;
-    --accent: var(--ink); --accent-hi: var(--gold); --green: var(--gold); --red: var(--gold);
+    --on-accent: #0C0C0D; --accent-hover: #D4D4D8;
+    --nav: rgba(12, 12, 13, .86); --wash: rgba(255, 255, 255, .07); --glow: rgba(255, 255, 255, .05);
+    --cal-has: #2E2E31; --cal-has-line: #6E6E73; --cal-has-hover: #3F3F42;
+    --g1: #D4D4D8; --g2: #8E8E93; --g3: #B8B8BC; --g4: #6E6E73; --g5: #E4E4E7; --g6: #A1A1A6;
+    --accent: var(--ink); --accent-hi: var(--gold-text); --green: var(--gold-text); --red: var(--gold);
     --font: 'Geist', system-ui, sans-serif;
+  }
+  :root[data-theme="light"] {
+    color-scheme: light;
+    --gold-text: #8A6A2B; /* deeper, so gold labels stay readable on white */
+    --base: #F4F4F5; --raised: #FFFFFF; --line: #E0E0E3; --line-hi: #C4C4C9;
+    --ink: #111113; --subtext: #5C5C63;
+    --on-accent: #FFFFFF; --accent-hover: #3A3A3D;
+    --nav: rgba(244, 244, 245, .88); --wash: rgba(0, 0, 0, .05); --glow: rgba(0, 0, 0, .035);
+    --cal-has: #E4E4E7; --cal-has-line: #9A9AA0; --cal-has-hover: #D4D4D8;
+    --g1: #3A3A3D; --g2: #6E6E73; --g3: #55555A; --g4: #8E8E93; --g5: #1F1F21; --g6: #7C7C82;
   }
   * { box-sizing: border-box; }
   html { scroll-behavior: smooth; scroll-padding-top: 84px; }
   body { margin: 0; color: var(--ink); font: 400 16px/1.55 var(--font); -webkit-font-smoothing: antialiased;
-    background: radial-gradient(1100px 620px at 78% -8%, rgba(255, 255, 255, .07), transparent 70%) no-repeat var(--base); }
+    background: radial-gradient(1100px 620px at 78% -8%, var(--wash), transparent 70%) no-repeat var(--base); }
   a { color: inherit; }
   :focus-visible { outline: 2px solid var(--accent-hi); outline-offset: 3px; border-radius: 4px; }
   .i { width: 1.05em; height: 1.05em; flex: none; vertical-align: -.16em; }
 
   .nav { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; gap: 28px; padding: 14px max(20px, calc(50vw - 570px));
-    background: rgba(12, 12, 13, .86); backdrop-filter: blur(14px); border-bottom: 1px solid var(--line); }
+    background: var(--nav); backdrop-filter: blur(14px); border-bottom: 1px solid var(--line); }
   .brand { font-weight: 600; text-decoration: none; letter-spacing: -.01em; }
   .nav nav { display: flex; gap: 24px; margin-left: auto; }
   .nav a { text-decoration: none; }
   .nav nav a, .plain { color: var(--subtext); font-size: .93rem; transition: color .15s; }
   .nav nav a:hover, .plain:hover { color: var(--ink); }
   .plain { padding-left: 24px; border-left: 1px solid var(--line); }
+  .mode { display: inline-flex; align-items: center; gap: 7px; font: inherit; font-size: .93rem; color: var(--subtext); background: none; border: 0; padding: 0; cursor: pointer; transition: color .15s; }
+  .mode:hover { color: var(--ink); }
 
   main, footer { width: min(1140px, calc(100% - 40px)); margin: 0 auto; }
   section { padding: 64px 0 8px; }
   h2 { font-size: clamp(1.5rem, 2.6vw, 1.95rem); font-weight: 600; letter-spacing: -.025em; margin: 0 0 22px; }
 
   /* hero */
-  .hero { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, .85fr); align-items: center; gap: 48px; padding-top: 56px; }
+  .hero { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: center; gap: 48px; padding-top: 56px; }
   h1 { font-size: clamp(2.6rem, 5.6vw, 4.5rem); font-weight: 700; line-height: 1.02; letter-spacing: -.04em; margin: 0 0 20px; }
   .lede { font-size: 1.18rem; color: var(--subtext); max-width: 40ch; margin: 0 0 14px; }
   .trust { display: flex; gap: 9px; align-items: flex-start; color: var(--subtext); font-size: .93rem; max-width: 46ch; margin: 0 0 28px; }
@@ -374,8 +452,8 @@ const greatWindow = arch(220, 120, 270, 480);
   .cta { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 32px; }
   .btn { display: inline-flex; align-items: center; gap: 8px; text-decoration: none; font-weight: 500; font-size: .95rem; padding: 10px 16px; border-radius: 8px; border: 1px solid var(--line-hi); transition: background .15s, border-color .15s; }
   .btn:hover { background: var(--raised); border-color: var(--subtext); }
-  .btn.solid { background: var(--accent); color: #0C0C0D; border-color: transparent; font-weight: 600; }
-  .btn.solid:hover { background: #D4D4D8; }
+  .btn.solid { background: var(--accent); color: var(--on-accent); border-color: transparent; font-weight: 600; }
+  .btn.solid:hover { background: var(--accent-hover); }
   .btn.small { padding: 7px 12px; font-size: .88rem; }
   .link { display: inline-flex; align-items: center; gap: 7px; color: var(--subtext); font-size: .88rem; text-decoration: none; }
   .link:hover { color: var(--ink); }
@@ -384,7 +462,7 @@ const greatWindow = arch(220, 120, 270, 480);
   .card > * { position: relative; }
   /* a soft pool of light under the pointer */
   .glow::before { content: ''; position: absolute; inset: 0; pointer-events: none; opacity: 0; transition: opacity .25s;
-    background: radial-gradient(360px circle at var(--mx, 50%) var(--my, 50%), rgba(255, 255, 255, .05), transparent 65%); }
+    background: radial-gradient(360px circle at var(--mx, 50%) var(--my, 50%), var(--glow), transparent 65%); }
   .glow:hover::before { opacity: 1; }
   .glow { transition: border-color .2s; }
   .glow:hover { border-color: var(--line-hi); }
@@ -396,9 +474,21 @@ const greatWindow = arch(220, 120, 270, 480);
   .next > span:last-child { color: var(--ink); font-size: .93rem; }
 
   /* the Minster's west front */
-  .window { aspect-ratio: 56 / 70; max-height: 76vh; justify-self: center; width: min(100%, 470px); }
+  .window { aspect-ratio: 1; max-height: 76vh; justify-self: center; width: min(100%, 580px); }
   .window svg { display: block; width: 100%; height: 100%; }
   .glassy { animation: shimmer 6s ease-in-out infinite alternate; }
+  /* the robot's lights blink, its coffee steams and its drone bobs */
+  .blink { animation: blink 2.4s ease-in-out infinite; }
+  @keyframes blink { 50% { opacity: .25; } }
+  .steam { animation: steam 3.2s ease-in-out infinite; }
+  @keyframes steam { from { opacity: .75; transform: translateY(0); } to { opacity: 0; transform: translateY(-7px); } }
+  /* the drone climbs the tower and drifts back down, slowly, with its rotors spinning */
+  .bob { animation: bob 11s ease-in-out infinite alternate; }
+  @keyframes bob { from { transform: translate(4px, 60px); } to { transform: translate(-10px, -170px); } }
+  .rotor { transform-box: fill-box; transform-origin: center; animation: rotor .16s linear infinite alternate; }
+  @keyframes rotor { to { transform: scaleX(.3); } }
+  /* on the light page the pale stone needs a little more weight to stand off the background */
+  :root[data-theme="light"] .window svg { filter: brightness(.9) drop-shadow(0 18px 30px rgba(0, 0, 0, .14)); }
   @keyframes shimmer { from { opacity: .82; } to { opacity: 1; } }
 
   /* events */
@@ -446,8 +536,8 @@ const greatWindow = arch(220, 120, 270, 480);
   .cal-grid .d { height: 32px; min-width: 0; display: grid; place-items: center; border-radius: 7px; border: 1px solid transparent; color: var(--subtext); background: none; font: inherit; padding: 0; position: relative; }
   .cal-grid .past { opacity: .35; }
   .cal-grid button.d { cursor: pointer; color: var(--ink); }
-  .cal-grid .has { background: #2E2E31; border-color: #6E6E73; font-weight: 600; }
-  .cal-grid .has:hover { background: #3F3F42; }
+  .cal-grid .has { background: var(--cal-has); border-color: var(--cal-has-line); font-weight: 600; }
+  .cal-grid .has:hover { background: var(--cal-has-hover); }
   .cal-grid .dotted::after, .k.dotted { content: ''; width: 4px; height: 4px; border-radius: 50%; background: #8E8E93; }
   .cal-grid .dotted::after { position: absolute; bottom: 3px; left: calc(50% - 2px); }
   .cal-grid button.dotted:hover { border-color: var(--line-hi); }
@@ -460,7 +550,7 @@ const greatWindow = arch(220, 120, 270, 480);
   .cal-key { display: flex; align-items: center; gap: 7px; margin: 12px 0 0; color: var(--subtext); font-size: .78rem; }
   .k { display: inline-block; }
   .k.has, .k.today { width: 10px; height: 10px; border-radius: 3px; }
-  .k.has { background: #2E2E31; border: 1px solid #6E6E73; }
+  .k.has { background: var(--cal-has); border: 1px solid var(--cal-has-line); }
   .k.dotted, .k.has { margin-left: 10px; }
   .flash { outline: 2px solid var(--accent-hi); outline-offset: 2px; }
 
@@ -494,9 +584,10 @@ const greatWindow = arch(220, 120, 270, 480);
   ::view-transition-group(*) { animation-duration: .3s; }
 
   @media (max-width: 860px) {
-    .nav nav { display: none; } .plain { margin-left: auto; border: 0; padding: 0; }
+    .nav nav { display: none; } .mode { margin-left: auto; } .mode span { display: none; } .plain { border: 0; padding: 0; }
+    .nav { gap: 18px; } .brand, .plain { white-space: nowrap; }
     .hero { grid-template-columns: 1fr; gap: 32px; padding-top: 36px; }
-    .window { width: min(72vw, 340px); }
+    .window { width: min(88vw, 400px); }
     .whatson { grid-template-columns: 1fr; }
     .whatson > aside { display: none; } /* the list is short enough to scan on a phone */
     .event { grid-template-columns: 64px 1fr; } .date b { font-size: 1.45rem; } .body { padding: 14px 16px 16px; }
@@ -504,7 +595,7 @@ const greatWindow = arch(220, 120, 270, 480);
   }
   @media (prefers-reduced-motion: reduce) {
     html { scroll-behavior: auto; }
-    .glassy { animation: none; }
+    .glassy, .blink, .steam, .bob, .rotor { animation: none; }
     .reveal { opacity: 1; transform: none; transition: none; }
   }
 </style>
@@ -610,6 +701,22 @@ const greatWindow = arch(220, 120, 270, 480);
     setTimeout(() => card.classList.remove('flash'), 1600);
   });
   calendar();
+
+  // light/dark toggle: dark unless the visitor has chosen light, remembered across both sites
+  const toggle = $('theme') as HTMLButtonElement, root = document.documentElement;
+  const theme = () => root.dataset.theme ?? 'dark';
+  const label = () => {
+    const to = theme() === 'dark' ? 'light' : 'dark';
+    toggle.innerHTML = $(to === 'light' ? 'ico-sun' : 'ico-moon').innerHTML + `<span>${to === 'light' ? 'Light mode' : 'Dark mode'}</span>`;
+    toggle.setAttribute('aria-label', to === 'light' ? 'Light mode' : 'Dark mode');
+  };
+  toggle.addEventListener('click', () => {
+    root.dataset.theme = theme() === 'dark' ? 'light' : 'dark';
+    try { localStorage.setItem('theme', root.dataset.theme); } catch {}
+    label();
+  });
+  label();
+  toggle.hidden = false;
 
   const refresh = () => { show(); next(); };
   refresh();

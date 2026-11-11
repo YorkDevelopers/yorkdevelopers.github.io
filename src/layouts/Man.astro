@@ -36,7 +36,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
 </head>
 <body>
   <div class="page">
-    <div class="top"><button id="theme" type="button" hidden></button></div>
+    <div class="top"><a href="/pro/">[ modern version ]</a><button id="theme" type="button" hidden></button></div>
     <div class="hdr"><span>{home ? ref : <a href="/">YORK(7)</a>}</span><span>York Developers Manual</span><span>{ref}</span></div>
     <slot />
     <div class="ftr"><span>yorkdevelopers.org</span><slot name="footer" /><span>{ref}</span></div>
@@ -64,9 +64,9 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
   :root { color-scheme: dark; }
   /* dark is the default for everyone; light only when the visitor picks it with the toggle */
   :root[data-theme="light"] { --bg: #fdfdfb; --ink: #16181d; --muted: #5d646f; --link: #1d3fc4; --mark: #ffe45c; --rule: #d9dbd4; --live: #1a7f37; color-scheme: light; }
-  .top { display: flex; justify-content: flex-end; min-height: 1.6em; margin-bottom: 6px; }
-  .top button { font: inherit; font-size: .9em; color: var(--muted); background: none; border: 0; padding: 0; cursor: pointer; }
-  .top button:hover { color: var(--link); }
+  .top { display: flex; justify-content: flex-end; gap: 2ch; min-height: 1.6em; margin-bottom: 6px; }
+  .top button, .top a { font: inherit; font-size: .9em; color: var(--muted); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: none; }
+  .top button:hover, .top a:hover { color: var(--link); }
   * { box-sizing: border-box; }
   body { margin: 0; background: var(--bg); color: var(--ink); font: 400 15.5px/1.6 'IBM Plex Mono', ui-monospace, monospace; }
   .page { max-width: 86ch; margin: 0 auto; padding: 22px 2ch 70px; }
