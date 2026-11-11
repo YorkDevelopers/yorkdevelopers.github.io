@@ -14,6 +14,9 @@ const oldMeetups = ['ACCUYork', 'CodeAndCoffee', 'DataYork', 'FrontEventYork', '
 
 export default defineConfig({
   site: 'https://www.yorkdevelopers.org',
+  // Never inline a page's JavaScript into its HTML: every script is its own file, so the site
+  // can be served under a content security policy that forbids inline scripts.
+  vite: { build: { assetsInlineLimit: 0 } },
   redirects: {
     ...oldPosts,
     '/CodeOfConduct.html': '/code-of-conduct/',

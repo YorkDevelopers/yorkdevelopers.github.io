@@ -18,6 +18,19 @@ export interface Event {
 }
 
 export const TZ = 'Europe/London';
+
+// The content security policy every page carries. GitHub Pages can't send response headers, so
+// it goes in a <meta> tag. Scripts may only come from this site: nothing inline, nothing remote.
+// Styles still allow inline, for the style attributes on /pro; Google is there for /pro's typeface.
+export const CSP = [
+  "default-src 'self'",
+  "script-src 'self'",
+  "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
+  "font-src 'self' https://fonts.gstatic.com",
+  "img-src 'self' data: https:",
+  "base-uri 'self'",
+  "form-action 'self'",
+].join('; ');
 export const SITE = 'https://www.yorkdevelopers.org';
 export const groups: Group[] = parse(groupsYml);
 export const fetchedAt: string = data.fetchedAt;

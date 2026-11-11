@@ -3,7 +3,7 @@
 // with the Minster's glass as its one illustration. Served at /pro.
 // The default site links here from its top bar. Search engines are asked not to index it,
 // so the two versions of the same listings don't compete.
-import { groups, upcoming, groupById, groupsOf, hostName, news, fetchedAt, fmt, mapLink, slug } from '../lib/york';
+import { groups, upcoming, groupById, groupsOf, hostName, news, fetchedAt, fmt, mapLink, slug, CSP } from '../lib/york';
 import type { Event, Group } from '../lib/york';
 
 // Six greys for the group dots and badges, defined per theme in the stylesheet. In a greyscale
@@ -70,15 +70,15 @@ const greatWindow = arch(220, 120, 270, 480);
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  {/* left out while developing, where the dev server needs inline scripts of its own */}
+  {import.meta.env.PROD && <meta http-equiv="Content-Security-Policy" content={CSP} />}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex">
   <meta name="color-scheme" content="dark light">
   <title>York Developers</title>
   <link rel="icon" href="/img/favicon-32x32.png">
-  <script is:inline>
-    // Apply a saved theme before the page paints. The choice is shared with the default site.
-    try { const t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch {}
-  </script>
+  <!-- applies a saved theme before the page paints; the choice is shared with the default site -->
+  <script is:inline src="/theme.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>

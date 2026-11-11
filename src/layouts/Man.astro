@@ -2,6 +2,7 @@
 import '@fontsource/ibm-plex-mono/400.css';
 import '@fontsource/ibm-plex-mono/400-italic.css';
 import '@fontsource/ibm-plex-mono/600.css';
+import { CSP } from '../lib/york';
 
 interface Props { name: string; section?: number; title: string; description?: string; }
 const { name, section = 7, title, description = 'Developer meetups and tech events in York, UK.' } = Astro.props;
@@ -13,6 +14,8 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  {/* left out while developing, where the dev server needs inline scripts of its own */}
+  {import.meta.env.PROD && <meta http-equiv="Content-Security-Policy" content={CSP} />}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{title}</title>
   <meta name="description" content={description}>
@@ -29,10 +32,8 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
   <meta property="og:image" content={new URL('/og.png', Astro.site)}>
   <meta name="twitter:card" content="summary_large_image">
   <slot name="head" />
-  <script is:inline>
-    // Apply a saved theme before the page paints. Without one, the page is dark.
-    try { const t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch {}
-  </script>
+  <!-- applies a saved theme before the page paints; without one, the page is dark -->
+  <script is:inline src="/theme.js"></script>
 </head>
 <body>
   <div class="page">
