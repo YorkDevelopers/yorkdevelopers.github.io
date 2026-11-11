@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+import Man from '../../layouts/Man.astro';
+import { fmt } from '../../lib/york';
+
+const posts = (await getCollection('news')).sort((a, b) => +b.data.date - +a.data.date);
+---
+<Man name="news" title="news(7): York Developers news archive">
+  <section>
+    <h2>NAME</h2>
+    <p><b>news</b> - announcements and blog posts from York Developers, 2017 to 2019</p>
+  </section>
+  <section>
+    <h2>ARCHIVE</h2>
+    <dl>
+      {posts.map(p => (
+        <>
+          <dt>{fmt(p.data.date.toISOString(), { day: '2-digit', month: 'short', year: 'numeric' })}</dt>
+          <dd><a href={`/news/${p.id}/`}>{p.data.title}</a></dd>
+        </>
+      ))}
+    </dl>
+  </section>
+  <section>
+    <h2>SEE ALSO</h2>
+    <p><a href="/">york</a>(7), <a href="/about/">about</a>(7)</p>
+  </section>
+</Man>
+
+<style>
+  dl { grid-template-columns: 14ch 1fr; }
+</style>

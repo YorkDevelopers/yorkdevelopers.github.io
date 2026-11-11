@@ -1,0 +1,19 @@
+---
+// Layout for markdown pages: set `name` and `title` in the page's front matter.
+import Man from './Man.astro';
+const { frontmatter } = Astro.props;
+---
+<Man name={frontmatter.name} title={`${frontmatter.name}(7): ${frontmatter.title}`} description={frontmatter.description}>
+  <section>
+    <h2>NAME</h2>
+    <p><b>{frontmatter.name}</b> - {frontmatter.title}</p>
+  </section>
+  <section class="prose">
+    <h2>DESCRIPTION</h2>
+    <slot />
+  </section>
+  <section>
+    <h2>SEE ALSO</h2>
+    <p><a href="/">york</a>(7), <a href="/about/">about</a>(7), <a href="/code-of-conduct/">code-of-conduct</a>(7), <a href="/news/">news</a>(7)</p>
+  </section>
+</Man>

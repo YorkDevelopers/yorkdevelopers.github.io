@@ -1,0 +1,12 @@
+# Events that are not on a Meetup page listed in groups.yml (Eventbrite, one-offs, conferences).
+# Times are York local time. Past events are ignored, so old entries are harmless.
+#
+# - group: accu                 # an id from groups.yml
+#   title: An evening of talks
+#   start: 2027-01-20 18:30
+#   end: 2027-01-20 21:00
+#   venue: York Explore Library
+#   url: https://example.org/tickets
+#   summary: One line about the event.
+
+[]

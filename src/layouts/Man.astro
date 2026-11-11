@@ -1,0 +1,65 @@
+---
+import '@fontsource/ibm-plex-mono/400.css';
+import '@fontsource/ibm-plex-mono/400-italic.css';
+import '@fontsource/ibm-plex-mono/600.css';
+
+interface Props { name: string; section?: number; title: string; description?: string; }
+const { name, section = 7, title, description = 'Developer meetups and tech events in York, UK.' } = Astro.props;
+const ref = `${name.toUpperCase()}(${section})`;
+const home = Astro.url.pathname === '/';
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{title}</title>
+  <meta name="description" content={description}>
+  <meta name="color-scheme" content="dark">
+  <link rel="icon" href="/img/favicon-32x32.png">
+  <link rel="alternate" type="text/calendar" title="York tech events" href="/events.ics">
+</head>
+<body>
+  <div class="page">
+    <div class="hdr"><span>{home ? ref : <a href="/">YORK(7)</a>}</span><span>York Developers Manual</span><span>{ref}</span></div>
+    <slot />
+    <div class="ftr"><span>yorkdevelopers.org</span><slot name="footer" /><span>{ref}</span></div>
+  </div>
+</body>
+</html>
+
+<style is:global>
+  :root { --bg: #1b1e27; --ink: #e8e6df; --muted: #9aa0ad; --link: #9db4ff; --mark: #6b5a00; --rule: #343846; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 400 15.5px/1.6 'IBM Plex Mono', ui-monospace, monospace; }
+  .page { max-width: 86ch; margin: 0 auto; padding: 22px 2ch 70px; }
+  a { color: var(--link); text-underline-offset: 3px; }
+  :focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+  .hdr, .ftr { display: flex; justify-content: space-between; gap: 2ch; color: var(--muted); }
+  .hdr a { color: inherit; }
+  .ftr { margin-top: 36px; }
+  pre { font: inherit; margin: 0; }
+  h2 { font-size: 1em; font-weight: 600; margin: 30px 0 4px; }
+  section > :not(h2) { margin-left: 8ch; }
+  p { margin: 0 0 12px; max-width: 68ch; }
+  b, strong { font-weight: 600; }
+  i, em { color: var(--muted); }
+  dl { display: grid; grid-template-columns: 30ch 1fr; margin-top: 0; margin-bottom: 0; }
+  dt, dd { margin: 0; padding: 3px 0; }
+  dd { color: var(--muted); }
+  code { background: color-mix(in srgb, var(--ink) 9%, transparent); padding: 1px .6ch; }
+  kbd { font: inherit; border: 1px solid var(--rule); padding: 0 .6ch; border-radius: 3px; }
+
+  /* long-form pages: news posts, about, code of conduct */
+  .prose :is(h1, h2, h3, h4, h5, h6) { font-size: 1em; font-weight: 600; margin: 22px 0 6px; }
+  .prose img { max-width: 100%; height: auto; display: block; margin: 12px 0; }
+  .prose ul, .prose ol { padding-left: 3ch; max-width: 68ch; }
+  .prose pre { overflow-x: auto; border: 1px solid var(--rule); padding: 8px 1.5ch; margin-bottom: 12px; }
+
+  @media (max-width: 640px) {
+    section > :not(h2) { margin-left: 0; }
+    dl { grid-template-columns: 1fr; }
+    dd { padding-bottom: 8px; }
+    .hdr span:nth-child(2) { display: none; }
+  }
+</style>

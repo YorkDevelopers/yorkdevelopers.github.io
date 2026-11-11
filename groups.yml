@@ -1,0 +1,100 @@
+# The groups listed on yorkdevelopers.org. To add yours, add an entry and open a pull request.
+#
+#   id       short name, also what people type into the filter
+#   name     display name
+#   about    one line on what the group is for
+#   url      where to find the group
+#   meetup   the group's address on meetup.com (the bit after meetup.com/); events are read from it daily
+#   match    only needed when several groups share one Meetup page: words that appear in this group's event titles
+#   runs     how often it meets
+#   retired  true for groups that have closed
+#
+# Whether a group shows as active or "no events scheduled" is worked out from its feed.
+
+- id: accu
+  name: ACCU York
+  about: Professionalism in programming, any language
+  url: https://www.meetup.com/accu-york/
+  meetup: accu-york
+  runs: monthly
+
+- id: coffee
+  name: Code and Coffee
+  about: Tech social before the working day
+  url: https://www.meetup.com/yorkdevelopers/
+  meetup: yorkdevelopers
+  match: code and coffee
+  runs: Wednesdays, 8am
+
+- id: ruby
+  name: York Ruby
+  about: Ruby user group
+  url: https://yorkruby.org/
+  meetup: yorkdevelopers
+  match: ruby
+  runs: monthly
+
+- id: games
+  name: York Game Developers
+  about: Programmers, artists, musicians and designers making games
+  url: https://www.meetup.com/yorkdevelopers/
+  meetup: yorkdevelopers
+  match: game dev
+  runs: third Wednesday
+
+- id: yorkdevelopers
+  name: York Developers
+  about: Everything else on the York Developers Meetup page
+  url: https://www.meetup.com/yorkdevelopers/
+  meetup: yorkdevelopers
+
+- id: dotnet
+  name: dotnetYork
+  about: .NET and Azure
+  url: https://www.meetup.com/dotnetyork/
+  meetup: dotnetyork
+  runs: monthly
+
+- id: agile
+  name: agileYork
+  about: Agile values and practice
+  url: https://www.meetup.com/agileYork/
+  meetup: agileYork
+
+- id: dojo
+  name: York Code Dojo
+  about: Hands-on coding practice, all languages
+  url: https://www.meetup.com/york-code-dojo/
+  meetup: york-code-dojo
+
+- id: data
+  name: York Data Platform User Group
+  about: SQL Server and data (formerly Data York)
+  url: https://www.meetup.com/datayork/
+  meetup: datayork
+
+- id: lunch
+  name: York Geeks Lunch Club
+  about: Lunch, with geeks
+  url: https://www.meetup.com/york-geeks-lunch-club/
+  meetup: york-geeks-lunch-club
+
+- id: mage
+  name: Mage Dev York
+  about: Magento
+  retired: true
+
+- id: swift
+  name: York Swift
+  about: Swift
+  retired: true
+
+- id: umbraco
+  name: Umbraco York
+  about: Umbraco CMS
+  retired: true
+
+- id: frontend
+  name: Front-End-York
+  about: Front end, design and UX
+  retired: true
