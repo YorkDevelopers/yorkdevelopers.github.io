@@ -68,10 +68,12 @@ const jsonLd = events.map(e => ({
                 <td class="t"><span>{fmt(e.start, { weekday: 'short' })} {time(e.start)}</span><span class="live" hidden>● on now</span></td>
                 <td>
                   <a class="title" href={e.url}>{e.title}</a>
-                  <span class="v">{e.venue ?? 'Venue on the event page'}; next: <span class="next">{fmt(e.start, { day: 'numeric', month: 'short' })}</span></span>
+                  <span class="v">📍 {e.venue ?? 'Venue on the event page'}</span>
+                  <span class="v">🕒 {time(e.start)} to {time(e.end)}, next: <span class="next">{fmt(e.start, { day: 'numeric', month: 'short' })}</span></span>
                   <details>
                     <summary>details</summary>
                     {e.summary && <p>{e.summary}</p>}
+                    {e.venue && <p>📍 {place(e)}</p>}
                     <p>{e.venue && <a href={mapLink(e)}>map</a>} <a class="cal" href={`/events/${slug(e)}.ics`}>add next to calendar</a></p>
                   </details>
                 </td>
@@ -89,11 +91,12 @@ const jsonLd = events.map(e => ({
               <td class="t"><span>{time(e.start)}</span><span class="live" hidden>● on now</span></td>
               <td>
                 <a class="title" href={e.url}>{e.title}</a> <span class="new" hidden>new</span>
-                <span class="v">{e.venue ?? 'Venue on the event page'}</span>
+                <span class="v">📍 {e.venue ?? 'Venue on the event page'}</span>
                 <details>
                   <summary>details</summary>
                   {e.summary && <p>{e.summary}</p>}
-                  <p>{time(e.start)} to {time(e.end)}{e.venue && <>, {place(e)}</>}</p>
+                  <p>🕒 {time(e.start)} to {time(e.end)}</p>
+                  {e.venue && <p>📍 {place(e)}</p>}
                   <p>{e.venue && <a href={mapLink(e)}>map</a>} <a href={`/events/${slug(e)}.ics`}>add to calendar</a> <a href={e.url}>event page</a></p>
                 </details>
               </td>
