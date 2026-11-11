@@ -11,7 +11,9 @@ const art = String.raw`      |\    /|                    _   _
 const events = upcoming();
 // Weekly regulars are shown once, with their next date, so they don't bury the one-off talks.
 const regulars = [...Map.groupBy(events.filter(e => e.series), e => `${e.group}|${e.title}`).values()];
-const days = Map.groupBy(events.filter(e => !e.series), e => dayKey(e.start));
+// Every event gets a row under its day. A weekly regular's row stays hidden except on the day itself,
+// so someone scanning "today" doesn't miss it.
+const days = Map.groupBy(events, e => dayKey(e.start));
 const past = previously(8);
 const busy = new Set(events.map(e => e.group));
 const listed = groups.filter(g => g.id !== 'yorkdevelopers' || busy.has(g.id));
@@ -61,7 +63,7 @@ const jsonLd = events.map(e => ({
                 <td class="t"><span>{fmt(e.start, { weekday: 'short' })} {time(e.start)}</span></td>
                 <td>
                   <a class="title" href={e.url}>{e.title}</a>
-                  <span class="v">{e.venue ?? 'Venue on the event page'}; next on <span class="next">{fmt(e.start, { day: 'numeric', month: 'short' })}</span></span>
+                  <span class="v">{e.venue ?? 'Venue on the event page'}; next: <span class="next">{fmt(e.start, { day: 'numeric', month: 'short' })}</span></span>
                   <details>
                     <summary>details</summary>
                     {e.summary && <p>{e.summary}</p>}
@@ -78,7 +80,7 @@ const jsonLd = events.map(e => ({
         <tbody data-day={day}>
           <tr class="day"><td colspan="3">{fmt(items[0].start, { weekday: 'short', day: '2-digit', month: 'short' })}<span class="rel"></span></td></tr>
           {items.map(e => (
-            <tr data-end={e.end} data-find={find(e)}>
+            <tr data-end={e.end} data-find={find(e)} data-today-only={e.series ? '' : undefined} hidden={e.series}>
               <td class="t"><span>{time(e.start)}</span></td>
               <td>
                 <a class="title" href={e.url}>{e.title}</a>
@@ -257,11 +259,16 @@ const jsonLd = events.map(e => ({
     for (const day of days) {
       let any = false;
       for (const row of day.querySelectorAll<HTMLElement>('tr[data-find]')) {
-        const current = row.dataset.occ ? nextOccurrence(row, now) : Date.parse(row.dataset.end!) > now;
+        // a weekly regular's own-day row is a second copy, shown only today and left out of the counts
+        const copy = row.dataset.todayOnly !== undefined;
+        const current = row.dataset.occ ? nextOccurrence(row, now)
+          : Date.parse(row.dataset.end!) > now && (!copy || day.dataset.day === today);
         const match = current && words.every(w => row.dataset.find!.includes(w));
         row.hidden = !match;
+        if (match) any = true;
+        if (copy) continue;
         if (current) live++;
-        if (match) { shown++; any = true; }
+        if (match) shown++;
       }
       day.hidden = !any;
       if (!day.dataset.day) continue;
