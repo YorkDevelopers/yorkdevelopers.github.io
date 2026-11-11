@@ -244,6 +244,8 @@ const greatWindow = arch(220, 120, 270, 480);
           </g>
           <!-- its drone, hovering by the tower for a better look -->
           <g id="drone" stroke={stone.line} stroke-width="1.6" stroke-linecap="round">
+            <!-- an invisible pad, so the thin drone is easy to click -->
+            <rect x="596" y="392" width="64" height="40" fill="transparent" stroke="none" />
             <path d="M606 404h44M612 404v8M644 404v8" fill="none" />
             <ellipse class="rotor" cx="612" cy="402" rx="13" ry="2.2" fill={stone.light} opacity=".8" />
             <ellipse class="rotor" cx="644" cy="402" rx="13" ry="2.2" fill={stone.light} opacity=".8" />
@@ -252,7 +254,7 @@ const greatWindow = arch(220, 120, 270, 480);
             <path d="M622 421v5M634 421v5" />
           </g>
         </svg>
-        <p class="toy-hint" id="toy-hint" data-idle="Click the robot. Arrow keys fly the drone; space throws the coffee.">Click the robot. Arrow keys fly the drone; space throws the coffee.</p>
+        <p class="toy-hint" id="toy-hint" aria-live="polite"></p>
       </div>
     </section>
 
@@ -479,10 +481,11 @@ const greatWindow = arch(220, 120, 270, 480);
 
   /* the Minster's west front */
   /* raised above the sections below it, so the drone can fly out over the rest of the page */
-  .window { position: relative; z-index: 5; aspect-ratio: 1; max-height: 76vh; justify-self: center; width: min(100%, 580px); }
-  .window:focus, .window:focus-visible { outline: none; } /* the hint line appearing is its focus cue */
+  .window { position: relative; z-index: 5; aspect-ratio: 1; max-height: 76vh; justify-self: center; width: min(100%, 580px); margin-bottom: 30px; } /* room below for the hint line */
+  .window:focus, .window:focus-visible { outline: none; }
   .window svg { display: block; width: 100%; height: 100%; overflow: visible; }
-  #drone, #cup { pointer-events: none; }
+  #cup { pointer-events: none; }
+  #drone { cursor: pointer; }
   .glassy { animation: shimmer 6s ease-in-out infinite alternate; }
   /* the robot's lights blink, its coffee steams and its drone bobs */
   .blink { animation: blink 2.4s ease-in-out infinite; }
@@ -490,8 +493,8 @@ const greatWindow = arch(220, 120, 270, 480);
   .steam { animation: steam 3.2s ease-in-out infinite; }
   @keyframes steam { from { opacity: .75; transform: translateY(0); } to { opacity: 0; transform: translateY(-7px); } }
   /* the illustration is also a small toy: see the script at the foot of the page */
-  .toy-hint { position: absolute; left: 0; right: 0; bottom: -30px; margin: 0; text-align: center; color: var(--subtext); font-size: .8rem; opacity: 0; transition: opacity .25s; pointer-events: none; }
-  .window:hover .toy-hint, .window:focus-within .toy-hint, .window:focus .toy-hint, .toy-hint.say { opacity: 1; }
+  .toy-hint { position: absolute; left: 0; right: 0; top: calc(100% + 32px); margin: 0; text-align: center; color: var(--subtext); font-size: .8rem; opacity: 0; transition: opacity .25s; pointer-events: none; }
+  .toy-hint.say { opacity: 1; } /* shown only when the robot or drone is clicked, or the coffee lands */
   #robot { cursor: pointer; transform-box: view-box; transform-origin: 622px 690px; }
   #robot.dance { animation: dance .42s ease-in-out infinite alternate; }
   @keyframes dance { from { transform: rotate(-7deg); } to { transform: rotate(7deg) translateY(-10px); } }
@@ -748,12 +751,13 @@ const greatWindow = arch(220, 120, 270, 480);
   let manualUntil = 0, hitAt = -1e9, hits = 0, headAngle = -18, last = performance.now();
   let shot: { at: number; ms: number; arc: number; to: { x: number; y: number } } | null = null;
 
-  const say = (text: string) => {
+  const say = (text: string, ms = 1800) => {
     hint.textContent = text;
     hint.classList.add('say');
     clearTimeout((say as any).t);
-    (say as any).t = setTimeout(() => { hint.textContent = hint.dataset.idle!; hint.classList.remove('say'); }, 1800);
+    (say as any).t = setTimeout(() => hint.classList.remove('say'), ms);
   };
+  const CONTROLS = 'Arrow keys fly the drone. Space throws the coffee. Click the robot to make it dance.';
   const refill = () => setTimeout(() => { cup.removeAttribute('transform'); cup.style.opacity = '1'; cup.querySelector<SVGElement>('.steam')!.style.display = ''; }, 1100);
 
   function frame(now: number) {
@@ -816,7 +820,9 @@ const greatWindow = arch(220, 120, 270, 480);
     clearTimeout((robot as any).t);
     (robot as any).t = setTimeout(() => robot.classList.remove('dance'), 3200);
     win.focus({ preventScroll: true });
+    say(CONTROLS, 5000);
   });
+  drone.addEventListener('click', () => { win.focus({ preventScroll: true }); say(CONTROLS, 5000); });
   // keys only count while the picture has focus, so arrows and space still scroll the page otherwise
   win.addEventListener('keydown', e => {
     if (steer[e.key]) { held.add(e.key); e.preventDefault(); }
