@@ -20,11 +20,14 @@ export interface Event {
 export const TZ = 'Europe/London';
 
 // The content security policy every page carries. GitHub Pages can't send response headers, so
-// it goes in a <meta> tag. Scripts may only come from this site: nothing inline, nothing remote.
+// it goes in a <meta> tag. Scripts may only come from this site, plus Cloudflare's analytics
+// beacon: nothing inline.
 // Styles still allow inline, for the style attributes on /pro; Google is there for /pro's typeface.
 export const CSP = [
   "default-src 'self'",
-  "script-src 'self'",
+  // Cloudflare, which sits in front of the site, adds its Web Analytics beacon to every page
+  "script-src 'self' https://static.cloudflareinsights.com",
+  "connect-src 'self' https://cloudflareinsights.com",
   "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
   "font-src 'self' https://fonts.gstatic.com",
   "img-src 'self' data: https:",
