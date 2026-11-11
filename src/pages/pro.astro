@@ -110,7 +110,7 @@ const greatWindow = arch(220, 120, 270, 480);
         </a>
       </div>
 
-      <div class="window" aria-hidden="true">
+      <div class="window" tabindex="0" role="group" aria-label="Illustration of York Minster with a robot visitor and its drone. It is also a toy: click the robot to make it dance, use the arrow keys to fly the drone, and press space to throw the coffee.">
         <svg viewBox="0 0 700 700">
           <defs>
             <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color={stone.light} /><stop offset="1" stop-color={stone.dark} /></linearGradient>
@@ -204,7 +204,7 @@ const greatWindow = arch(220, 120, 270, 480);
                stopped to look up at the Heart of Yorkshire. Its drone has come along too. -->
           <path d="M556 694H698" stroke={stone.line} stroke-width="1.5" />
           <ellipse cx="622" cy="694" rx="44" ry="4" fill="#000" opacity=".25" />
-          <g stroke={stone.line} stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+          <g id="robot" stroke={stone.line} stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
             <!-- legs mid-stride, feet -->
             <path d="M608 642L600 680M634 642L640 680" stroke-width="9" stroke={stone.dark} fill="none" />
             <path d="M608 642L600 680M634 642L640 680" stroke-width="5" stroke={stone.light} fill="none" />
@@ -218,16 +218,20 @@ const greatWindow = arch(220, 120, 270, 480);
             <!-- far arm, holding a takeaway coffee -->
             <path d="M598 596L574 612" stroke-width="10" stroke={stone.dark} fill="none" />
             <path d="M598 596L574 612" stroke-width="6" stroke={stone.light} fill="none" />
-            <path d="M562 598h16l-2.5 22h-11z" fill="#F4F4F5" />
-            <path d="M560 598h20M563 607h14" stroke-width="2" />
-            <path class="steam" d="M567 592q-4 -6 0 -11t0 -10M574 592q-4 -6 0 -11t0 -10" stroke="#D4D4D8" stroke-width="1.6" fill="none" opacity=".7" />
+            <g id="cup">
+              <path d="M562 598h16l-2.5 22h-11z" fill="#F4F4F5" />
+              <path d="M560 598h20M563 607h14" stroke-width="2" />
+              <path class="steam" d="M567 592q-4 -6 0 -11t0 -10M574 592q-4 -6 0 -11t0 -10" stroke="#D4D4D8" stroke-width="1.6" fill="none" opacity=".7" />
+            </g>
             <!-- near arm, swinging -->
-            <path d="M646 598L656 634" stroke-width="10" stroke={stone.dark} fill="none" />
-            <path d="M646 598L656 634" stroke-width="6" stroke={stone.light} fill="none" />
-            <circle cx="656" cy="637" r="5.5" fill={stone.mid} />
+            <g class="arm">
+              <path d="M646 598L656 634" stroke-width="10" stroke={stone.dark} fill="none" />
+              <path d="M646 598L656 634" stroke-width="6" stroke={stone.light} fill="none" />
+              <circle cx="656" cy="637" r="5.5" fill={stone.mid} />
+            </g>
             <!-- neck and head, tipped right back to take in the towers -->
             <rect x="615" y="568" width="14" height="14" fill={stone.dark} />
-            <g transform="rotate(-18 622 572)">
+            <g id="head" transform="rotate(-18 622 572)">
               <rect x="594" y="526" width="56" height="44" rx="12" fill={stone.light} />
               <rect x="601" y="536" width="42" height="20" rx="10" fill={stone.deep} stroke-width="1.5" />
               <circle class="glassy" cx="612" cy="546" r="5" fill="#F3DCA6" stroke="none" />
@@ -239,7 +243,7 @@ const greatWindow = arch(220, 120, 270, 480);
             </g>
           </g>
           <!-- its drone, hovering by the tower for a better look -->
-          <g class="bob" stroke={stone.line} stroke-width="1.6" stroke-linecap="round">
+          <g id="drone" stroke={stone.line} stroke-width="1.6" stroke-linecap="round">
             <path d="M606 404h44M612 404v8M644 404v8" fill="none" />
             <ellipse class="rotor" cx="612" cy="402" rx="13" ry="2.2" fill={stone.light} opacity=".8" />
             <ellipse class="rotor" cx="644" cy="402" rx="13" ry="2.2" fill={stone.light} opacity=".8" />
@@ -248,6 +252,7 @@ const greatWindow = arch(220, 120, 270, 480);
             <path d="M622 421v5M634 421v5" />
           </g>
         </svg>
+        <p class="toy-hint" id="toy-hint" data-idle="Click the robot. Arrow keys fly the drone; space throws the coffee.">Click the robot. Arrow keys fly the drone; space throws the coffee.</p>
       </div>
     </section>
 
@@ -473,17 +478,26 @@ const greatWindow = arch(220, 120, 270, 480);
   .next > span:last-child { color: var(--ink); font-size: .93rem; }
 
   /* the Minster's west front */
-  .window { aspect-ratio: 1; max-height: 76vh; justify-self: center; width: min(100%, 580px); }
-  .window svg { display: block; width: 100%; height: 100%; }
+  /* raised above the sections below it, so the drone can fly out over the rest of the page */
+  .window { position: relative; z-index: 5; aspect-ratio: 1; max-height: 76vh; justify-self: center; width: min(100%, 580px); }
+  .window:focus, .window:focus-visible { outline: none; } /* the hint line appearing is its focus cue */
+  .window svg { display: block; width: 100%; height: 100%; overflow: visible; }
+  #drone, #cup { pointer-events: none; }
   .glassy { animation: shimmer 6s ease-in-out infinite alternate; }
   /* the robot's lights blink, its coffee steams and its drone bobs */
   .blink { animation: blink 2.4s ease-in-out infinite; }
   @keyframes blink { 50% { opacity: .25; } }
   .steam { animation: steam 3.2s ease-in-out infinite; }
   @keyframes steam { from { opacity: .75; transform: translateY(0); } to { opacity: 0; transform: translateY(-7px); } }
-  /* the drone climbs the tower and drifts back down, slowly, with its rotors spinning */
-  .bob { animation: bob 11s ease-in-out infinite alternate; }
-  @keyframes bob { from { transform: translate(4px, 60px); } to { transform: translate(-10px, -170px); } }
+  /* the illustration is also a small toy: see the script at the foot of the page */
+  .toy-hint { position: absolute; left: 0; right: 0; bottom: -30px; margin: 0; text-align: center; color: var(--subtext); font-size: .8rem; opacity: 0; transition: opacity .25s; pointer-events: none; }
+  .window:hover .toy-hint, .window:focus-within .toy-hint, .window:focus .toy-hint, .toy-hint.say { opacity: 1; }
+  #robot { cursor: pointer; transform-box: view-box; transform-origin: 622px 690px; }
+  #robot.dance { animation: dance .42s ease-in-out infinite alternate; }
+  @keyframes dance { from { transform: rotate(-7deg); } to { transform: rotate(7deg) translateY(-10px); } }
+  #robot .arm { transform-box: view-box; transform-origin: 646px 598px; }
+  #robot.dance .arm { animation: wave .21s ease-in-out infinite alternate; }
+  @keyframes wave { from { transform: rotate(-160deg); } to { transform: rotate(-115deg); } }
   .rotor { transform-box: fill-box; transform-origin: center; animation: rotor .16s linear infinite alternate; }
   @keyframes rotor { to { transform: scaleX(.3); } }
   /* on the light page the pale stone needs a little more weight to stand off the background */
@@ -594,7 +608,7 @@ const greatWindow = arch(220, 120, 270, 480);
   }
   @media (prefers-reduced-motion: reduce) {
     html { scroll-behavior: auto; }
-    .glassy, .blink, .steam, .bob, .rotor { animation: none; }
+    .glassy, .blink, .steam, .rotor { animation: none; }
     .reveal { opacity: 1; transform: none; transition: none; }
   }
 </style>
@@ -716,6 +730,108 @@ const greatWindow = arch(220, 120, 270, 480);
   });
   label();
   toggle.hidden = false;
+
+  // ---- the toy -------------------------------------------------------------------------------
+  // The robot's head follows the drone. Click the robot and it dances. With the picture focused,
+  // the arrow keys (or WASD) fly the drone anywhere on the page, and space throws the coffee at it.
+  const win = document.querySelector<HTMLElement>('.window')!, art = win.querySelector('svg')!;
+  const part = (id: string) => art.querySelector<SVGGElement>('#' + id)!;
+  const drone = part('drone'), head = part('head'), cup = part('cup'), robot = part('robot'), hint = $('toy-hint');
+  const calm = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const HOME = { x: 628, y: 412 }, NECK = { x: 622, y: 572 }, HAND = { x: 570, y: 609 };
+  const steer: Record<string, [number, number]> = {
+    ArrowLeft: [-1, 0], ArrowRight: [1, 0], ArrowUp: [0, -1], ArrowDown: [0, 1],
+    a: [-1, 0], d: [1, 0], w: [0, -1], s: [0, 1],
+  };
+  const held = new Set<string>();
+  const pos = { x: 0, y: 0 };                       // the drone's offset from where it was drawn
+  let manualUntil = 0, hitAt = -1e9, hits = 0, headAngle = -18, last = performance.now();
+  let shot: { at: number; ms: number; arc: number; to: { x: number; y: number } } | null = null;
+
+  const say = (text: string) => {
+    hint.textContent = text;
+    hint.classList.add('say');
+    clearTimeout((say as any).t);
+    (say as any).t = setTimeout(() => { hint.textContent = hint.dataset.idle!; hint.classList.remove('say'); }, 1800);
+  };
+  const refill = () => setTimeout(() => { cup.removeAttribute('transform'); cup.style.opacity = '1'; cup.querySelector<SVGElement>('.steam')!.style.display = ''; }, 1100);
+
+  function frame(now: number) {
+    const dt = Math.min(50, now - last);
+    last = now;
+
+    // the drone: flown by hand while keys are held (and for a few seconds after), otherwise it
+    // climbs the tower and drifts back down on its own
+    let lean = 0;
+    if (held.size) {
+      manualUntil = now + 5000;
+      for (const k of held) { pos.x += steer[k][0] * dt * .42; pos.y += steer[k][1] * dt * .42; lean += steer[k][0] * 9; }
+    } else if (now > manualUntil && !calm) {
+      const phase = now / 11000 * Math.PI;
+      pos.x += (-3 + 7 * Math.cos(phase * 1.7) - pos.x) * Math.min(1, dt * .0015);
+      pos.y += (-55 + 115 * Math.cos(phase) - pos.y) * Math.min(1, dt * .0015);
+    }
+    // it may go anywhere on the page: work out the page's edges in the drawing's own units
+    const box = art.getBoundingClientRect(), unit = box.width / 700;
+    const pageW = document.documentElement.clientWidth, pageH = document.documentElement.scrollHeight;
+    pos.x = Math.max((24 - box.left) / unit - HOME.x, Math.min((pageW - 24 - box.left) / unit - HOME.x, pos.x));
+    pos.y = Math.max((70 - box.top - scrollY) / unit - HOME.y, Math.min((pageH - 30 - box.top - scrollY) / unit - HOME.y, pos.y));
+    // and the page scrolls to keep it in sight while it is being flown
+    if (held.size) {
+      const y = box.top + (HOME.y + pos.y) * unit;
+      if (y < 100) scrollBy({ top: y - 100, behavior: 'instant' });
+      else if (y > innerHeight - 80) scrollBy({ top: y - (innerHeight - 80), behavior: 'instant' });
+    }
+    // when the coffee lands, the drone spins and dips, then recovers
+    const since = (now - hitAt) / 900, struck = since < 1;
+    const spin = struck ? 360 * since : 0, dip = struck ? 46 * Math.sin(Math.PI * since) : 0;
+    drone.setAttribute('transform', `translate(${pos.x.toFixed(1)} ${(pos.y + dip).toFixed(1)}) rotate(${(spin + lean).toFixed(1)} ${HOME.x} ${HOME.y})`);
+    const at = { x: HOME.x + pos.x, y: HOME.y + pos.y + dip };
+
+    // the head tips towards wherever the drone is, easing so it never snaps
+    const look = Math.atan2(at.x - NECK.x, NECK.y - at.y) * 180 / Math.PI;
+    const aim = Math.max(-40, Math.min(34, -12 + look * .55)) + (calm ? 0 : 2 * Math.sin(now / 900));
+    headAngle += (aim - headAngle) * Math.min(1, dt * .006);
+    head.setAttribute('transform', `rotate(${headAngle.toFixed(2)} ${NECK.x} ${NECK.y})`);
+
+    // the coffee in flight: a lobbed arc towards where the drone was when it left the hand
+    if (shot) {
+      const k = (now - shot.at) / shot.ms;
+      const x = HAND.x + (shot.to.x - HAND.x) * k, y = HAND.y + (shot.to.y - HAND.y) * k - shot.arc * k * (1 - k);
+      cup.setAttribute('transform', `translate(${(x - HAND.x).toFixed(1)} ${(y - HAND.y).toFixed(1)}) rotate(${(k * 600).toFixed(0)} ${HAND.x} ${HAND.y})`);
+      if (Math.hypot(x - at.x, y - at.y) < 26) {
+        shot = null; hitAt = now; hits++; cup.style.opacity = '0';
+        say(`Bonk! ${hits} hit${hits > 1 ? 's' : ''}.`); refill();
+      } else if (k > 1.35) {
+        shot = null; cup.style.opacity = '0';
+        say('Missed. Fresh coffee coming.'); refill();
+      }
+    }
+    requestAnimationFrame(frame);
+  }
+  requestAnimationFrame(frame);
+
+  robot.addEventListener('click', () => {
+    robot.classList.add('dance');
+    clearTimeout((robot as any).t);
+    (robot as any).t = setTimeout(() => robot.classList.remove('dance'), 3200);
+    win.focus({ preventScroll: true });
+  });
+  // keys only count while the picture has focus, so arrows and space still scroll the page otherwise
+  win.addEventListener('keydown', e => {
+    if (steer[e.key]) { held.add(e.key); e.preventDefault(); }
+    else if (e.key === ' ') {
+      e.preventDefault();
+      if (!shot && cup.style.opacity !== '0') {
+        cup.querySelector<SVGElement>('.steam')!.style.display = 'none';
+        // a longer throw takes longer and is lobbed higher
+        const to = { x: HOME.x + pos.x, y: HOME.y + pos.y }, far = Math.hypot(to.x - HAND.x, to.y - HAND.y);
+        shot = { at: performance.now(), ms: Math.max(450, Math.min(1500, far * 1.5)), arc: Math.max(180, far * .5), to };
+      }
+    } else if (e.key === 'Escape') win.blur();
+  });
+  win.addEventListener('keyup', e => held.delete(e.key));
+  win.addEventListener('blur', () => held.clear());
 
   const refresh = () => { show(); next(); };
   refresh();
