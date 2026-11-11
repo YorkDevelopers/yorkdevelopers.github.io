@@ -5,9 +5,9 @@
 import { groups, upcoming, groupById, groupsOf, hostName, news, fetchedAt, fmt, mapLink, slug } from '../lib/york';
 import type { Event, Group } from '../lib/york';
 
-// Six colours for telling groups apart, taken from the palette and lightened where needed so
-// they show on the dark page: maroon, light blue, grey, a mid blue, a pale maroon and a pale slate.
-const hues = ['#B8716D', '#94B1C5', '#ABABAB', '#5C97B8', '#D9A6A2', '#7C8A8C'];
+// Six colours for telling groups apart: the palette's terracotta, sage and sandstone, a lighter
+// version of its steel blue (the original is too dark for a small dot), and a pale terracotta and sage.
+const hues = ['#C48B71', '#80A68A', '#C3AA87', '#6F9CC6', '#E2B9A6', '#B4CDB9'];
 const colour = (g: Group) => hues[Math.max(groups.indexOf(g), 0) % hues.length];
 // A two-letter badge per group: "Code and Coffee" is CC, "York Ruby" is RU.
 const skip = new Set(['york', 'and', "n'", 'in', 'of', 'the']);
@@ -58,8 +58,8 @@ const pinnacle = (cx: number, base: number, h: number, w: number) => {
   const crockets = [.3, .5, .7].map(t => { const y = base - 10 - (h - 10) * t, half = (w / 2) * (1 - t); return `M${cx - half - 3} ${y + 2}l3 -4M${cx + half + 3} ${y + 2}l-3 -4`; }).join('');
   return { body: `M${cx - w / 2 - 2} ${base}v-10h${w + 4}v10zM${cx - w / 2} ${base - 10}L${cx} ${base - h}L${cx + w / 2} ${base - 10}z`, crockets };
 };
-// Stone in pale greys, lighter than the page's grey so the building stands out, lined in slate.
-const stone = { light: '#E2E3E3', mid: '#CFD1D1', dark: '#B5B8B9', line: '#687071', deep: '#485051' };
+// Stone in the palette's sandstone, which is close to the Minster's own limestone.
+const stone = { light: '#E2D2B6', mid: '#C3AA87', dark: '#A89070', line: '#7A6649', deep: '#4F4130' };
 const towerPinnacles = [pinnacle(42, 114, 92, 18), pinnacle(188, 114, 92, 18), pinnacle(90, 114, 56, 11), pinnacle(140, 114, 56, 11)];
 const greatWindow = arch(220, 120, 270, 480);
 ---
@@ -105,15 +105,15 @@ const greatWindow = arch(220, 120, 270, 480);
         <svg viewBox="0 0 560 700">
           <defs>
             <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color={stone.light} /><stop offset="1" stop-color={stone.dark} /></linearGradient>
-            <linearGradient id="recess" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A6AAAB" /><stop offset="1" stop-color="#8D9293" /></linearGradient>
+            <linearGradient id="recess" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A8916F" /><stop offset="1" stop-color="#8C775A" /></linearGradient>
             <linearGradient id="pane" x1="0" y1="0" x2="1" y2="1">
-              <stop offset="0" stop-color="#94B1C5" /><stop offset=".35" stop-color="#4F86A1" /><stop offset=".7" stop-color="#336A85" /><stop offset="1" stop-color="#234C60" />
+              <stop offset="0" stop-color="#7FA9CF" /><stop offset=".35" stop-color="#3F78AB" /><stop offset=".7" stop-color="#2B5A87" /><stop offset="1" stop-color="#23335F" />
             </linearGradient>
             <!-- blind panelling: the fine vertical ribs that cover the stonework -->
             <pattern id="ribs" width="15" height="60" patternUnits="userSpaceOnUse">
               <path d="M.5 0V60M7.5 6a3.5 5 0 0 1 7 0" stroke={stone.line} stroke-opacity=".28" fill="none" />
             </pattern>
-            <radialGradient id="flood"><stop offset="0" stop-color="#94B1C5" stop-opacity=".2" /><stop offset="1" stop-color="#94B1C5" stop-opacity="0" /></radialGradient>
+            <radialGradient id="flood"><stop offset="0" stop-color="#C3AA87" stop-opacity=".22" /><stop offset="1" stop-color="#C3AA87" stop-opacity="0" /></radialGradient>
             <clipPath id="great"><path d={greatWindow} /></clipPath>
 
             <!-- one tower, drawn for the left side and mirrored for the right -->
@@ -131,7 +131,7 @@ const greatWindow = arch(220, 120, 270, 480);
               <path d="M44 128v-9a4 4 0 0 1 8 0v9M60 128v-9a4 4 0 0 1 8 0v9M76 128v-9a4 4 0 0 1 8 0v9M100 128v-9a4 4 0 0 1 8 0v9M122 128v-9a4 4 0 0 1 8 0v9M146 128v-9a4 4 0 0 1 8 0v9M162 128v-9a4 4 0 0 1 8 0v9M178 128v-9a4 4 0 0 1 8 0v9" fill={stone.deep} opacity=".55" />
               {towerPinnacles.map(p => <><path d={p.body} fill={stone.light} stroke={stone.line} /><path d={p.crockets} stroke={stone.line} stroke-width="1.6" fill="none" /></>)}
               <!-- belfry opening with louvres, under a crocketed gable -->
-              <path d={arch(89, 52, 172, 286)} fill="#485051" stroke={stone.line} stroke-width="3" />
+              <path d={arch(89, 52, 172, 286)} fill="#3F3528" stroke={stone.line} stroke-width="3" />
               <path d="M91 214h48M91 228h48M91 242h48M91 256h48M91 270h48M115 176V286" stroke={stone.dark} stroke-width="2" opacity=".75" />
               <path d="M80 190L115 142L150 190" fill="none" stroke={stone.line} stroke-width="2.5" />
               <path d="M115 142v-12M111 134h8" stroke={stone.line} stroke-width="2" />
@@ -147,7 +147,7 @@ const greatWindow = arch(220, 120, 270, 480);
               ))}
               <!-- side door -->
               <path d={arch(84, 62, 600, 680)} fill="url(#recess)" stroke={stone.line} />
-              <path d={arch(96, 38, 622, 680)} fill="#353B3C" stroke={stone.deep} stroke-width="2" />
+              <path d={arch(96, 38, 622, 680)} fill="#35291E" stroke={stone.deep} stroke-width="2" />
               <path d="M115 624V680" stroke={stone.deep} stroke-width="1.5" />
             </g>
           </defs>
@@ -182,8 +182,8 @@ const greatWindow = arch(220, 120, 270, 480);
           <path d={arch(232, 96, 538, 680)} fill="none" stroke={stone.dark} stroke-width="2" />
           <circle class="glassy" cx="280" cy="590" r="17" fill="url(#pane)" stroke={stone.light} stroke-width="2.5" />
           <path d="M280 573v34M263 590h34M268 578l24 24M292 578l-24 24" stroke={stone.mid} stroke-width="1.6" />
-          <path d={arch(246, 31, 618, 680)} fill="#353B3C" stroke={stone.deep} stroke-width="1.5" />
-          <path d={arch(283, 31, 618, 680)} fill="#353B3C" stroke={stone.deep} stroke-width="1.5" />
+          <path d={arch(246, 31, 618, 680)} fill="#35291E" stroke={stone.deep} stroke-width="1.5" />
+          <path d={arch(283, 31, 618, 680)} fill="#35291E" stroke={stone.deep} stroke-width="1.5" />
 
           <use href="#tower" />
           <use href="#tower" transform="translate(560 0) scale(-1 1)" />
@@ -335,25 +335,25 @@ const greatWindow = arch(220, 120, 270, 480);
 </html>
 
 <style is:global>
-  /* A cool palette on a near-black slate page: pale grey text, maroon for the main buttons and
-     today, teal for filled highlights and light blue for links and labels. */
+  /* "Skyline Chill": a deep navy page with steel blue for filled highlights, sandstone for links
+     and the Minster, terracotta for the main buttons and today, and sage for status. */
   :root {
-    --maroon: #633836; --slate: #485051; --teal: #336A85; --sky: #94B1C5; --grey: #ABABAB;
-    --base: #171B1C; --raised: #22282A; --line: #353C3E; --line-hi: var(--slate);
-    --ink: #E8EAEA; --subtext: var(--grey);
-    --accent: var(--maroon); --accent-hi: var(--sky); --green: var(--sky); --red: var(--maroon);
+    --navy: #23335F; --steel: #2B5A87; --sage: #80A68A; --sand: #C3AA87; --terracotta: #C48B71;
+    --base: #121930; --raised: #1A2444; --line: #2B3A66; --line-hi: #44558C;
+    --ink: #EEF1F7; --subtext: #A7B1CC;
+    --accent: var(--terracotta); --accent-hi: var(--sand); --green: var(--sage); --red: var(--terracotta);
     --font: 'Geist', system-ui, sans-serif;
   }
   * { box-sizing: border-box; }
   html { scroll-behavior: smooth; scroll-padding-top: 84px; }
   body { margin: 0; color: var(--ink); font: 400 16px/1.55 var(--font); -webkit-font-smoothing: antialiased;
-    background: radial-gradient(1100px 620px at 78% -8%, rgba(51, 106, 133, .4), transparent 70%) no-repeat var(--base); }
+    background: radial-gradient(1100px 620px at 78% -8%, rgba(43, 90, 135, .5), transparent 70%) no-repeat var(--base); }
   a { color: inherit; }
   :focus-visible { outline: 2px solid var(--accent-hi); outline-offset: 3px; border-radius: 4px; }
   .i { width: 1.05em; height: 1.05em; flex: none; vertical-align: -.16em; }
 
   .nav { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; gap: 28px; padding: 14px max(20px, calc(50vw - 570px));
-    background: rgba(23, 27, 28, .84); backdrop-filter: blur(14px); border-bottom: 1px solid var(--line); }
+    background: rgba(18, 25, 48, .86); backdrop-filter: blur(14px); border-bottom: 1px solid var(--line); }
   .brand { font-weight: 600; text-decoration: none; letter-spacing: -.01em; }
   .nav nav { display: flex; gap: 24px; margin-left: auto; }
   .nav a { text-decoration: none; }
@@ -374,8 +374,8 @@ const greatWindow = arch(220, 120, 270, 480);
   .cta { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 32px; }
   .btn { display: inline-flex; align-items: center; gap: 8px; text-decoration: none; font-weight: 500; font-size: .95rem; padding: 10px 16px; border-radius: 8px; border: 1px solid var(--line-hi); transition: background .15s, border-color .15s; }
   .btn:hover { background: var(--raised); border-color: var(--subtext); }
-  .btn.solid { background: var(--accent); color: #F3F3F3; border-color: #8C5653; }
-  .btn.solid:hover { background: #7A4643; }
+  .btn.solid { background: var(--accent); color: #121930; border-color: transparent; font-weight: 600; }
+  .btn.solid:hover { background: #D6A08A; }
   .btn.small { padding: 7px 12px; font-size: .88rem; }
   .link { display: inline-flex; align-items: center; gap: 7px; color: var(--subtext); font-size: .88rem; text-decoration: none; }
   .link:hover { color: var(--ink); }
@@ -384,13 +384,13 @@ const greatWindow = arch(220, 120, 270, 480);
   .card > * { position: relative; }
   /* a soft pool of light under the pointer */
   .glow::before { content: ''; position: absolute; inset: 0; pointer-events: none; opacity: 0; transition: opacity .25s;
-    background: radial-gradient(360px circle at var(--mx, 50%) var(--my, 50%), rgba(148, 177, 197, .09), transparent 65%); }
+    background: radial-gradient(360px circle at var(--mx, 50%) var(--my, 50%), rgba(195, 170, 135, .09), transparent 65%); }
   .glow:hover::before { opacity: 1; }
   .glow { transition: border-color .2s; }
   .glow:hover { border-color: var(--line-hi); }
 
-  /* the one section that should stand out: teal */
-  .next { display: grid; gap: 3px; max-width: 480px; padding: 16px 18px; text-decoration: none; background: color-mix(in srgb, var(--teal) 38%, var(--raised)); border-color: var(--teal); }
+  /* the one section that should stand out: steel blue */
+  .next { display: grid; gap: 3px; max-width: 480px; padding: 16px 18px; text-decoration: none; background: color-mix(in srgb, var(--steel) 38%, var(--raised)); border-color: var(--steel); }
   .next-label { color: var(--accent-hi); font-weight: 500; font-size: .85rem; }
   .next strong { font-size: 1.1rem; font-weight: 600; letter-spacing: -.015em; line-height: 1.25; }
   .next > span:last-child { color: var(--ink); font-size: .93rem; }
@@ -446,21 +446,21 @@ const greatWindow = arch(220, 120, 270, 480);
   .cal-grid .d { height: 32px; min-width: 0; display: grid; place-items: center; border-radius: 7px; border: 1px solid transparent; color: var(--subtext); background: none; font: inherit; padding: 0; position: relative; }
   .cal-grid .past { opacity: .35; }
   .cal-grid button.d { cursor: pointer; color: var(--ink); }
-  .cal-grid .has { background: var(--teal); border-color: var(--sky); font-weight: 600; }
-  .cal-grid .has:hover { background: #3F7F9E; }
-  .cal-grid .dotted::after, .k.dotted { content: ''; width: 4px; height: 4px; border-radius: 50%; background: var(--teal); }
+  .cal-grid .has { background: var(--steel); border-color: #5F92C4; font-weight: 600; }
+  .cal-grid .has:hover { background: #3670A6; }
+  .cal-grid .dotted::after, .k.dotted { content: ''; width: 4px; height: 4px; border-radius: 50%; background: var(--steel); }
   .cal-grid .dotted::after { position: absolute; bottom: 3px; left: calc(50% - 2px); }
   .cal-grid button.dotted:hover { border-color: var(--line-hi); }
   /* today stands out in red, whether or not anything is on */
-  .cal-grid .today, .k.today { background: var(--maroon); border: 1px solid #8C5653; }
-  .cal-grid .today, .cal-grid button.today { color: #F3F3F3; font-weight: 600; }
+  .cal-grid .today, .k.today { background: var(--terracotta); border: 1px solid var(--terracotta); }
+  .cal-grid .today, .cal-grid button.today { color: #121930; font-weight: 600; }
   /* dimmer when nothing is on today */
-  .cal-grid span.today { background: color-mix(in srgb, var(--maroon) 40%, transparent); border-color: var(--maroon); color: var(--subtext); font-weight: 400; }
-  .cal-grid button.today:hover { background: #7A4643; }
+  .cal-grid span.today { background: color-mix(in srgb, var(--terracotta) 22%, transparent); border-color: color-mix(in srgb, var(--terracotta) 60%, transparent); color: var(--subtext); font-weight: 400; }
+  .cal-grid button.today:hover { background: #D6A08A; }
   .cal-key { display: flex; align-items: center; gap: 7px; margin: 12px 0 0; color: var(--subtext); font-size: .78rem; }
   .k { display: inline-block; }
   .k.has, .k.today { width: 10px; height: 10px; border-radius: 3px; }
-  .k.has { background: var(--teal); border: 1px solid var(--sky); }
+  .k.has { background: var(--steel); border: 1px solid #5F92C4; }
   .k.dotted, .k.has { margin-left: 10px; }
   .flash { outline: 2px solid var(--accent-hi); outline-offset: 2px; }
 
