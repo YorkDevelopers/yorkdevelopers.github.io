@@ -4,12 +4,14 @@
     <text x="70" y="80" font-size="26" fill="#9aa0ad">YORK(7)</text>
     <text x="600" y="80" font-size="26" fill="#9aa0ad" text-anchor="middle">York Developers Manual</text>
     <text x="1130" y="80" font-size="26" fill="#9aa0ad" text-anchor="end">YORK(7)</text>
-    <g font-size="30" fill="#9aa0ad">
-      <text x="200" y="170">      |\    /|                    _   _</text>
-      <text x="200" y="205">     _| |__| |_       /\         | |_| |</text>
-      <text x="200" y="240">    | |  ||  | |_____/  \________|  _  |___</text>
-      <text x="200" y="275">    | |  ||  | | []  []  []  []  | |_| |   |</text>
-      <text x="200" y="310">    |_|__||__|_|_________________|_____|___|</text>
+    <g font-size="26" fill="#9aa0ad">
+      <text x="110" y="135">.|. .|.           .|. .|.</text>
+      <text x="110" y="166">|_|_|_|     ^     |_|_|_|                _   _   _   _</text>
+      <text x="110" y="197">| ||| |    /+\    | ||| |               | |_| |_| |_| |</text>
+      <text x="110" y="228">| ||| |   /   \   | ||| |       _   _   |  +       +  |   _   _</text>
+      <text x="110" y="259">| /^\ |  / (#) \  | /^\ |      | |_| |__|     ___     |__| |_| |</text>
+      <text x="110" y="290">| | | | /  |||  \ | | | |      |        |    /   \    |        |</text>
+      <text x="110" y="321">|_|_|_|/___|||___\|_|_|_|      |________|___|     |___|________|</text>
     </g>
     <text x="70" y="410" font-size="34" font-weight="bold" fill="#e8e6df">NAME</text>
     <text x="150" y="470" font-size="40" fill="#e8e6df"><tspan font-weight="bold">york</tspan> - developer meetups and</text>

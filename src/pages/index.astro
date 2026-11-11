@@ -3,11 +3,13 @@ import Man from '../layouts/Man.astro';
 import { groups, upcoming, previously, groupById, groupsOf, hostName, news, fetchedAt, fmt, dayKey, place, mapLink, slug, SITE } from '../lib/york';
 import type { Event } from '../lib/york';
 
-const art = String.raw`      |\    /|                    _   _
-     _| |__| |_       /\         | |_| |
-    | |  ||  | |_____/  \________|  _  |___
-    | |  ||  | | []  []  []  []  | |_| |   |
-    |_|__||__|_|_________________|_____|___|`;
+const art = String.raw`.|. .|.           .|. .|.
+|_|_|_|     ^     |_|_|_|                _   _   _   _
+| ||| |    /+\    | ||| |               | |_| |_| |_| |
+| ||| |   /   \   | ||| |       _   _   |  +       +  |   _   _
+| /^\ |  / (#) \  | /^\ |      | |_| |__|     ___     |__| |_| |
+| | | | /  |||  \ | | | |      |        |    /   \    |        |
+|_|_|_|/___|||___\|_|_|_|      |________|___|     |___|________|`;
 const events = upcoming();
 // Weekly regulars are shown once, with their next date, so they don't bury the one-off talks.
 const regulars = [...Map.groupBy(events.filter(e => e.series), e => `${e.group}|${e.title}`).values()];
@@ -239,7 +241,7 @@ const jsonLd = events.map(e => ({
   .links { white-space: nowrap; }
   .links a { margin-left: 1ch; }
   @media (max-width: 640px) {
-    .art { margin-left: 0; font-size: 3.2vw; }
+    .art { margin-left: 0; font-size: 2.1vw; }
     .where { margin-left: 4ch; }
     table { width: 100%; }
     td.g { display: none; }
