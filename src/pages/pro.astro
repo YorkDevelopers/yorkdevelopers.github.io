@@ -213,7 +213,7 @@ const greatWindow = arch(220, 120, 270, 480);
             <!-- body, with a little heart on its chest that glows when it sees the big one -->
             <rect x="594" y="580" width="56" height="66" rx="13" fill={stone.light} />
             <rect x="604" y="592" width="36" height="26" rx="5" fill={stone.deep} stroke-width="1.5" />
-            <path class="glassy" d="M622 613C612 605 613 597 618 597C621 597 622 600 622 601C622 600 623 597 626 597C631 597 632 605 622 613Z" fill="#D9B876" stroke="none" />
+            <path id="heart" class="glassy" d="M622 613C612 605 613 597 618 597C621 597 622 600 622 601C622 600 623 597 626 597C631 597 632 605 622 613Z" fill="#D9B876" stroke="none" />
             <path d="M606 628h10M606 635h18" stroke-width="2" />
             <!-- far arm, holding a takeaway coffee -->
             <path d="M598 596L574 612" stroke-width="10" stroke={stone.dark} fill="none" />
@@ -495,6 +495,9 @@ const greatWindow = arch(220, 120, 270, 480);
   /* the illustration is also a small toy: see the script at the foot of the page */
   .toy-hint { position: absolute; left: 0; right: 0; top: calc(100% + 32px); margin: 0; text-align: center; color: var(--subtext); font-size: .8rem; opacity: 0; transition: opacity .25s; pointer-events: none; }
   .toy-hint.say { opacity: 1; } /* shown only when the robot or drone is clicked, or the coffee lands */
+  /* on a day with an event, the robot's heart turns red and beats */
+  #heart.beat { fill: #E5484D; transform-box: fill-box; transform-origin: center; animation: beat 1.1s ease-in-out infinite; }
+  @keyframes beat { 0%, 36%, 100% { transform: scale(1); } 12% { transform: scale(1.45); } 24% { transform: scale(1.1); } 30% { transform: scale(1.3); } }
   #robot { cursor: pointer; transform-box: view-box; transform-origin: 622px 690px; }
   #robot.dance { animation: dance .42s ease-in-out infinite alternate; }
   @keyframes dance { from { transform: rotate(-7deg); } to { transform: rotate(7deg) translateY(-10px); } }
@@ -611,7 +614,7 @@ const greatWindow = arch(220, 120, 270, 480);
   }
   @media (prefers-reduced-motion: reduce) {
     html { scroll-behavior: auto; }
-    .glassy, .blink, .steam, .rotor { animation: none; }
+    .glassy, .blink, .steam, .rotor, #heart.beat { animation: none; }
     .reveal { opacity: 1; transform: none; transition: none; }
   }
 </style>
@@ -839,7 +842,11 @@ const greatWindow = arch(220, 120, 270, 480);
   win.addEventListener('keyup', e => held.delete(e.key));
   win.addEventListener('blur', () => held.clear());
 
-  const refresh = () => { show(); next(); };
+  // the robot's heart beats red while there is still an event to come today
+  const heart = part('heart');
+  const pulse = () => heart.classList.toggle('beat', all.some(e => Date.parse(e.e) > now() && iso(Date.parse(e.s)) === iso(now())));
+
+  const refresh = () => { show(); next(); pulse(); };
   refresh();
   setInterval(refresh, 30_000);
 </script>
