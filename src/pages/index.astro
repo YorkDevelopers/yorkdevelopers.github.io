@@ -1,6 +1,6 @@
 ---
 import Man from '../layouts/Man.astro';
-import { groups, upcoming, previously, groupById, fetchedAt, fmt, dayKey, place, mapLink, slug, SITE } from '../lib/york';
+import { groups, upcoming, previously, groupById, hostName, news, fetchedAt, fmt, dayKey, place, mapLink, slug, SITE } from '../lib/york';
 import type { Event } from '../lib/york';
 
 const art = String.raw`      |\    /|                    _   _
@@ -18,7 +18,7 @@ const listed = groups.filter(g => g.id !== 'yorkdevelopers' || busy.has(g.id));
 const status = (g) => g.retired ? 'retired' : busy.has(g.id) ? (g.runs ?? 'events listed') : 'no events scheduled';
 const find = (e: Event) => {
   const g = groupById(e.group);
-  return [e.title, e.venue, e.address, e.summary, g.id, g.name, g.about, g.tags, fmt(e.start, { weekday: 'long', month: 'long' })].join(' ').toLowerCase();
+  return [e.title, e.venue, e.address, e.summary, e.host, g.id, g.name, g.about, g.tags, fmt(e.start, { weekday: 'long', month: 'long' })].join(' ').toLowerCase();
 };
 const time = (iso: string) => fmt(iso, { hour: '2-digit', minute: '2-digit' });
 
@@ -27,7 +27,7 @@ const jsonLd = events.map(e => ({
   '@context': 'https://schema.org', '@type': 'Event', name: e.title, startDate: e.start, endDate: e.end,
   eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode', url: e.url, description: e.summary || undefined,
   location: { '@type': 'Place', name: e.venue ?? 'York', address: e.address ?? 'York, UK' },
-  organizer: { '@type': 'Organization', name: groupById(e.group).name, url: groupById(e.group).url },
+  organizer: { '@type': 'Organization', name: hostName(e), url: groupById(e.group).url },
 }));
 ---
 <Man name="york" title="york(7): developer meetups and tech events in York, UK">
@@ -90,7 +90,7 @@ const jsonLd = events.map(e => ({
                   <p>{e.venue && <a href={mapLink(e)}>map</a>} <a href={`/events/${slug(e)}.ics`}>add to calendar</a> <a href={e.url}>event page</a></p>
                 </details>
               </td>
-              <td class="g">{groupById(e.group).name}</td>
+              <td class="g">{hostName(e)}</td>
             </tr>
           ))}
         </tbody>
@@ -106,10 +106,25 @@ const jsonLd = events.map(e => ({
         {past.map(e => (
           <>
             <dt>{fmt(e.start, { day: '2-digit', month: 'short', year: 'numeric' })}</dt>
-            <dd><a href={e.url}>{e.title}</a>, {groupById(e.group).name}</dd>
+            <dd><a href={e.url}>{e.title}</a>, {hostName(e)}</dd>
           </>
         ))}
       </dl>
+    </section>
+  )}
+
+  {news.length > 0 && (
+    <section>
+      <h2>NEWS</h2>
+      <dl class="past">
+        {news.slice(0, 6).map(n => (
+          <>
+            <dt>{fmt(n.date, { day: '2-digit', month: 'short', year: 'numeric' })}</dt>
+            <dd><a href={n.url}>{n.title}</a>, {n.source}</dd>
+          </>
+        ))}
+      </dl>
+      <p class="more">York tech stories picked automatically from local news. <a href="/news/">More headlines</a></p>
     </section>
   )}
 
@@ -124,7 +139,7 @@ const jsonLd = events.map(e => ({
       {listed.map(g => (
         <>
           <dt class:list={{ retired: g.retired }}>{g.url && !g.retired ? <a href={g.url}>{g.name}</a> : g.name}</dt>
-          <dd>{g.about}; {status(g)}</dd>
+          <dd>{g.about.replace(/\.$/, '')}; {status(g)}</dd>
         </>
       ))}
     </dl>
@@ -207,6 +222,7 @@ const jsonLd = events.map(e => ({
   details p { margin: 6px 0 0; max-width: 60ch; }
   details p a { margin-right: 2ch; }
   dl.past { grid-template-columns: 14ch 1fr; }
+  .more { color: var(--muted); font-size: .92em; margin-top: 8px; }
   dt.retired { text-decoration: line-through; color: var(--muted); }
   @media (max-width: 640px) {
     .art { margin-left: 0; font-size: 3.2vw; }

@@ -11,11 +11,10 @@
 // carries on with a warning. If every source fails, the run fails so somebody notices.
 import { readFile, writeFile } from 'node:fs/promises';
 import { parse } from 'yaml';
+import { TZ, page, fromZone, summarise, meetupVenue } from './lib.mjs';
 
 const OUT = new URL('../src/data/events.json', import.meta.url);
 const PAST = new URL('../src/data/past.json', import.meta.url);
-const TZ = 'Europe/London';
-const UA = { 'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/126 Safari/537.36 yorkdevelopers.org' };
 const KEEP_PAST = 300;
 
 const groups = parse(await readFile(new URL('../groups.yml', import.meta.url), 'utf8'));
@@ -23,27 +22,6 @@ const manual = parse(await readFile(new URL('../events.yml', import.meta.url), '
 const previous = await readFile(OUT, 'utf8').then(JSON.parse, () => ({ events: [] }));
 const past = await readFile(PAST, 'utf8').then(JSON.parse, () => ({ events: [] }));
 const known = new Map(previous.events.map(e => [e.uid, e]));
-
-const page = async url => {
-  const res = await fetch(url, { headers: UA });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  return res.text();
-};
-
-// Milliseconds the zone is ahead of UTC at the given instant.
-function zoneOffset(ts, tz) {
-  const p = Object.fromEntries(new Intl.DateTimeFormat('en-US', {
-    timeZone: tz, hourCycle: 'h23', year: 'numeric', month: 'numeric', day: 'numeric',
-    hour: 'numeric', minute: 'numeric', second: 'numeric',
-  }).formatToParts(ts).filter(x => x.type !== 'literal').map(x => [x.type, +x.value]));
-  return Date.UTC(p.year, p.month - 1, p.day, p.hour, p.minute, p.second) - ts;
-}
-
-// A wall-clock time in a zone, as a UTC ISO string.
-function fromZone(y, mo, d, h = 0, mi = 0, tz = TZ) {
-  const guess = Date.UTC(y, mo - 1, d, h, mi);
-  return new Date(guess - zoneOffset(guess, tz)).toISOString();
-}
 
 function icsDate(value, params) {
   const m = value.match(/^(\d{4})(\d\d)(\d\d)(?:T(\d\d)(\d\d))?/);
@@ -77,23 +55,6 @@ function parseIcs(text) {
     venue: e.LOCATION ? unescape(e.LOCATION.value).split('\n')[0] : undefined,
     description: unescape(e.DESCRIPTION?.value ?? ''),
   }));
-}
-
-function summarise(text) {
-  text = text.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\\(.)/g, '$1').replace(/<[^>]+>/g, ' ')
-    .replace(/[*_#]/g, '').replace(/\s+/g, ' ').trim();
-  if (text.length <= 320) return text;
-  const cut = text.slice(0, 320);
-  return cut.slice(0, Math.max(cut.lastIndexOf('. ') + 1, cut.lastIndexOf(' '))).trim() + ' ...';
-}
-
-// Meetup's calendar feed has no location, but each event page carries it as structured data.
-async function meetupVenue(url) {
-  try {
-    const loc = (await page(url)).match(/"location":\{"@type":"Place","name":"((?:[^"\\]|\\.)*)"(?:,"address":\{[^}]*?"streetAddress":"((?:[^"\\]|\\.)*)")?/);
-    if (!loc) return {};
-    return { venue: JSON.parse(`"${loc[1]}"`), address: loc[2] ? JSON.parse(`"${loc[2]}"`).replace(/, J7$/, '') : undefined };
-  } catch { return {}; }
 }
 
 async function fromMeetup(slug) {
@@ -176,6 +137,16 @@ for (const e of manual) {
   events.push({
     uid: `manual-${e.group}-${e.start}`, feed: 'manual', group: e.group, title: e.title,
     start: local(e.start), end: local(e.end ?? e.start), url: e.url, venue: e.venue, summary: e.summary ?? '',
+  });
+}
+
+// Events found by scripts/discover.mjs that somebody approved on the candidates issue.
+const candidates = await readFile(new URL('../src/data/candidates.json', import.meta.url), 'utf8').then(JSON.parse, () => ({ candidates: [] }));
+for (const c of candidates.candidates.filter(c => c.status === 'approved')) {
+  if (events.some(e => e.url === c.url)) continue; // its group has since been listed
+  events.push({
+    uid: c.id, feed: 'approved', group: 'other', host: c.host, title: c.title, start: c.start, end: c.end,
+    url: c.url, venue: c.venue, address: c.address, summary: c.summary,
   });
 }
 

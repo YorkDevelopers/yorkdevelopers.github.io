@@ -1,0 +1,40 @@
+# Where the NEWS section on the home page looks for York tech stories.
+# A headline is shown only if it reads as a tech story AND is about York:
+#
+#   local: true    everything in this feed is about York, so only the tech test applies
+#   local: false   the headline or summary must also mention York
+#
+# `block` lists words or phrases; any headline containing one is dropped.
+# The tech test itself is the TECH list at the top of scripts/fetch-news.mjs.
+
+sources:
+  - name: York Press
+    url: https://www.yorkpress.co.uk/news/rss/
+    local: true
+  - name: York Press Business
+    url: https://www.yorkpress.co.uk/business/rss/
+    local: true
+  - name: YorkMix
+    url: https://yorkmix.com/feed/
+    local: true
+  - name: TheBusinessDesk Yorkshire
+    url: https://www.thebusinessdesk.com/yorkshire/feed
+    local: false
+  - name: Prolific North
+    url: https://www.prolificnorth.co.uk/feed/
+    local: false
+  - name: Google News
+    url: https://news.google.com/rss/search?q=York+(software+OR+tech+OR+%22artificial+intelligence%22+OR+digital+OR+cyber+OR+startup)+-%22New+York%22+when:14d&hl=en-GB&gl=GB&ceid=GB:en
+    local: false
+
+block:
+  - New York
+  - NYC
+  - York Region
+  - York University
+  - York County
+  - Toronto
+  - Pennsylvania
+  - Varsity
+  - High School
+  - Football

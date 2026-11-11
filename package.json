@@ -4,6 +4,8 @@
   "type": "module",
   "scripts": {
     "fetch": "node scripts/fetch-events.mjs",
+    "discover": "node scripts/discover.mjs && node scripts/candidates-issue.mjs",
+    "news": "node scripts/fetch-news.mjs",
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview"

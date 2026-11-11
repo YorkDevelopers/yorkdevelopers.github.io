@@ -1,15 +1,29 @@
 ---
 import { getCollection } from 'astro:content';
 import Man from '../../layouts/Man.astro';
-import { fmt } from '../../lib/york';
+import { fmt, news } from '../../lib/york';
 
 const posts = (await getCollection('news')).sort((a, b) => +b.data.date - +a.data.date);
 ---
 <Man name="news" title="news(7): York Developers news archive">
   <section>
     <h2>NAME</h2>
-    <p><b>news</b> - announcements and blog posts from York Developers, 2017 to 2019</p>
+    <p><b>news</b> - York tech headlines, and York Developers' own posts from 2017 to 2019</p>
   </section>
+  {news.length > 0 && (
+    <section>
+      <h2>HEADLINES</h2>
+      <p><i>Picked automatically from local news feeds; each links to the original story.</i></p>
+      <dl>
+        {news.map(n => (
+          <>
+            <dt>{fmt(n.date, { day: '2-digit', month: 'short', year: 'numeric' })}</dt>
+            <dd><a href={n.url}>{n.title}</a>, {n.source}</dd>
+          </>
+        ))}
+      </dl>
+    </section>
+  )}
   <section>
     <h2>ARCHIVE</h2>
     <dl>

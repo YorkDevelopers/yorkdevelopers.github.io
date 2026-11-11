@@ -1,5 +1,5 @@
 // RSS feed of newly announced events: one item per event, dated when we first saw it.
-import { upcoming, groupById, fmt, place, SITE } from '../lib/york';
+import { upcoming, hostName, fmt, place, SITE } from '../lib/york';
 
 const esc = (s = '') => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
@@ -12,7 +12,7 @@ export const GET = () => {
     .map(e => {
       const when = fmt(e.start, { weekday: 'short', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
       return `<item>
-  <title>${esc(`${e.title} (${groupById(e.group).name}, ${when})`)}</title>
+  <title>${esc(`${e.title} (${hostName(e)}, ${when})`)}</title>
   <link>${esc(e.url ?? SITE)}</link>
   <guid isPermaLink="false">${esc(e.uid)}</guid>
   <pubDate>${new Date(e.seen ?? e.start).toUTCString()}</pubDate>

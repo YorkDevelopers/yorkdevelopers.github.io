@@ -2,6 +2,7 @@ import groupsYml from '../../groups.yml?raw';
 import { parse } from 'yaml';
 import data from '../data/events.json';
 import history from '../data/past.json';
+import headlines from '../data/news.json';
 
 export interface Group {
   id: string; name: string; about: string; url?: string;
@@ -12,6 +13,7 @@ export interface Event {
   uid: string; group: string; title: string; start: string; end: string;
   url?: string; venue?: string; address?: string; summary?: string;
   series?: boolean; seen?: string;
+  host?: string; // set on events approved from the candidates issue, which have no group here
 }
 
 export const TZ = 'Europe/London';
@@ -28,6 +30,12 @@ export const previously = (n: number): Event[] =>
   (history.events as Event[]).filter(e => !e.series).reverse().slice(0, n);
 
 export const groupById = (id: string): Group => groups.find(g => g.id === id) ?? { id, name: id, about: '' };
+
+// Who is running an event: its group, or the organiser named when it was discovered.
+export const hostName = (e: Event) => e.host ?? groupById(e.group).name;
+
+export interface Headline { title: string; url: string; date: string; source: string; }
+export const news: Headline[] = headlines.items;
 
 export const fmt = (iso: string, opts: Intl.DateTimeFormatOptions) =>
   new Intl.DateTimeFormat('en-GB', { timeZone: TZ, ...opts }).format(new Date(iso));
@@ -53,7 +61,7 @@ export function calendar(events: Event[]) {
     'CALSCALE:GREGORIAN', 'X-WR-CALNAME:York tech events',
     ...events.flatMap(e => [
       'BEGIN:VEVENT', `UID:${e.uid}`, `DTSTAMP:${now}`, `DTSTART:${stamp(e.start)}`, `DTEND:${stamp(e.end)}`,
-      `SUMMARY:${esc(`${e.title} (${groupById(e.group).name})`)}`,
+      `SUMMARY:${esc(`${e.title} (${hostName(e)})`)}`,
       `LOCATION:${esc(place(e))}`, `DESCRIPTION:${esc(e.summary)}`, `URL:${e.url ?? ''}`, 'END:VEVENT',
     ]),
     'END:VCALENDAR',

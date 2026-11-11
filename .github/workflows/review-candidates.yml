@@ -1,0 +1,38 @@
+name: Review event candidates
+
+# Runs when somebody ticks a box on the "events to review" issue. Records the decision,
+# then rebuilds the site so approved events appear.
+on:
+  issues:
+    types: [edited]
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency: review-candidates
+
+jobs:
+  review:
+    # Only the issue this site created itself, edited by a person.
+    if: >-
+      contains(github.event.issue.labels.*.name, 'event-candidates') &&
+      github.event.issue.user.login == 'github-actions[bot]' &&
+      github.event.sender.type != 'Bot'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - run: node scripts/review-candidates.mjs
+      - name: Save decisions and rebuild
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- src/data/candidates.json; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Record event review decisions" -- src/data/candidates.json
+          git push
+          gh workflow run deploy.yml --ref master

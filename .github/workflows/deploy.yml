@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
   pages: write
   id-token: write
 
@@ -27,8 +28,20 @@ jobs:
           node-version: 24
           cache: npm
       - run: npm ci
+      # Look for York tech events from groups we don't list, and put them on the review issue.
+      # Nothing found this way is published until somebody ticks "Add to site" there.
+      - name: Discover events
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          node scripts/discover.mjs
+          node scripts/candidates-issue.mjs
       # Fails the run if every event source is unreachable, so the last good site stays up.
       - run: npm run fetch
+      - name: Fetch news headlines
+        continue-on-error: true
+        run: node scripts/fetch-news.mjs
       - run: npm run build
       # Keep the event data in the repo: it is the site's history, and the commits stop
       # GitHub from switching off this schedule after 60 days without activity.
@@ -40,7 +53,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "Update event data" -- src/data
-          git push
+          # if master moved while we ran, the next run will save instead
+          git push || echo "::warning::Could not save event data this run"
       - uses: actions/upload-pages-artifact@v5
         with:
           path: dist
