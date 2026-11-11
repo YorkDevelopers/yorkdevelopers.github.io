@@ -1,6 +1,6 @@
 ---
 import Man from '../layouts/Man.astro';
-import { groups, upcoming, previously, groupById, hostName, news, fetchedAt, fmt, dayKey, place, mapLink, slug, SITE } from '../lib/york';
+import { groups, upcoming, previously, groupById, groupsOf, hostName, news, fetchedAt, fmt, dayKey, place, mapLink, slug, SITE } from '../lib/york';
 import type { Event } from '../lib/york';
 
 const art = String.raw`      |\    /|                    _   _
@@ -15,13 +15,16 @@ const regulars = [...Map.groupBy(events.filter(e => e.series), e => `${e.group}|
 // so someone scanning "today" doesn't miss it.
 const days = Map.groupBy(events, e => dayKey(e.start));
 const past = previously(8);
-const busy = new Set(events.map(e => e.group));
+const busy = new Set(events.flatMap(e => groupsOf(e).map(g => g.id)));
 const listed = groups.filter(g => g.id !== 'yorkdevelopers' || busy.has(g.id));
 const status = (g) => g.retired ? 'retired' : busy.has(g.id) ? (g.runs ?? 'events listed') : 'no events scheduled';
 const find = (e: Event) => {
-  const g = groupById(e.group);
-  return [e.title, e.venue, e.address, e.summary, e.host, g.id, g.name, g.about, g.tags, fmt(e.start, { weekday: 'long', month: 'long' })].join(' ').toLowerCase();
+  // `group:id` lets a link select exactly one group, where a bare word would also match other text
+  const hosts = groupsOf(e).flatMap(g => [g.id, `group:${g.id}`, g.name, g.about, g.tags]);
+  return [e.title, e.venue, e.address, e.summary, e.host, ...hosts, fmt(e.start, { weekday: 'long', month: 'long' })].join(' ').toLowerCase();
 };
+// The group's emoji, then who is hosting.
+const badge = (e: Event) => [groupsOf(e)[0].icon, hostName(e)].filter(Boolean).join(' ');
 const time = (iso: string) => fmt(iso, { hour: '2-digit', minute: '2-digit' });
 
 // Structured data, so search engines can list the events themselves.
@@ -57,10 +60,10 @@ const jsonLd = events.map(e => ({
         <tbody>
           <tr class="day"><td colspan="3">Every week</td></tr>
           {regulars.map(items => {
-            const e = items[0], g = groupById(e.group);
+            const e = items[0];
             return (
               <tr data-occ={JSON.stringify(items.map(o => ({ start: o.start, end: o.end, url: o.url, ics: `/events/${slug(o)}.ics` })))} data-find={find(e) + ' every week weekly regular'}>
-                <td class="t"><span>{fmt(e.start, { weekday: 'short' })} {time(e.start)}</span></td>
+                <td class="t"><span>{fmt(e.start, { weekday: 'short' })} {time(e.start)}</span><span class="live" hidden>● on now</span></td>
                 <td>
                   <a class="title" href={e.url}>{e.title}</a>
                   <span class="v">{e.venue ?? 'Venue on the event page'}; next: <span class="next">{fmt(e.start, { day: 'numeric', month: 'short' })}</span></span>
@@ -70,7 +73,7 @@ const jsonLd = events.map(e => ({
                     <p>{e.venue && <a href={mapLink(e)}>map</a>} <a class="cal" href={`/events/${slug(e)}.ics`}>add next to calendar</a></p>
                   </details>
                 </td>
-                <td class="g">{g.name}</td>
+                <td class="g">{badge(e)}</td>
               </tr>
             );
           })}
@@ -80,10 +83,10 @@ const jsonLd = events.map(e => ({
         <tbody data-day={day}>
           <tr class="day"><td colspan="3">{fmt(items[0].start, { weekday: 'short', day: '2-digit', month: 'short' })}<span class="rel"></span></td></tr>
           {items.map(e => (
-            <tr data-end={e.end} data-find={find(e)} data-today-only={e.series ? '' : undefined} hidden={e.series}>
-              <td class="t"><span>{time(e.start)}</span></td>
+            <tr data-start={e.start} data-end={e.end} data-seen={e.series ? undefined : e.seen} data-find={find(e)} data-today-only={e.series ? '' : undefined} hidden={e.series}>
+              <td class="t"><span>{time(e.start)}</span><span class="live" hidden>● on now</span></td>
               <td>
-                <a class="title" href={e.url}>{e.title}</a>
+                <a class="title" href={e.url}>{e.title}</a> <span class="new" hidden>new</span>
                 <span class="v">{e.venue ?? 'Venue on the event page'}</span>
                 <details>
                   <summary>details</summary>
@@ -92,7 +95,7 @@ const jsonLd = events.map(e => ({
                   <p>{e.venue && <a href={mapLink(e)}>map</a>} <a href={`/events/${slug(e)}.ics`}>add to calendar</a> <a href={e.url}>event page</a></p>
                 </details>
               </td>
-              <td class="g">{hostName(e)}</td>
+              <td class="g">{badge(e)}</td>
             </tr>
           ))}
         </tbody>
@@ -140,8 +143,8 @@ const jsonLd = events.map(e => ({
     <dl>
       {listed.map(g => (
         <>
-          <dt class:list={{ retired: g.retired }}>{g.url && !g.retired ? <a href={g.url}>{g.name}</a> : g.name}</dt>
-          <dd>{g.about.replace(/\.$/, '')}; {status(g)}</dd>
+          <dt class:list={{ retired: g.retired }}><span class:list={['dot', { on: busy.has(g.id) }]} title={status(g)}>{g.retired ? '✕' : busy.has(g.id) ? '●' : '○'}</span> {g.url && !g.retired ? <a href={g.url}>{g.name}</a> : <span class="name">{g.name}</span>}</dt>
+          <dd>{g.about.replace(/\.$/, '')}; {status(g)}{!g.retired && <span class="links"> <a href={`/?q=group:${g.id}`}>events</a> <a href={`/groups/${g.id}.ics`}>calendar</a></span>}</dd>
         </>
       ))}
     </dl>
@@ -160,6 +163,8 @@ const jsonLd = events.map(e => ({
     <h2>FILES</h2>
     <dl>
       <dt><a href="/events.ics">/events.ics</a></dt><dd>Subscribe in any calendar app.</dd>
+      <dt>/groups/<i>name</i>.ics</dt><dd>One group's events; each group above links to its own.</dd>
+      <dt>/?q=<i>words</i></dt><dd>A link to this page already filtered, to share.</dd>
       <dt><a href="/feed.xml">/feed.xml</a></dt><dd>RSS feed of newly announced events.</dd>
       <dt><a href="/events.json">/events.json</a></dt><dd>The same data, for your own scripts.</dd>
       <dt><a href="https://github.com/yorkdevelopers/yorkdevelopers.github.io/blob/master/groups.yml">groups.yml</a></dt><dd>Add a group with a pull request.</dd>
@@ -169,11 +174,11 @@ const jsonLd = events.map(e => ({
   <section>
     <h2>HISTORY</h2>
     <dl>
-      <dt>v0.71 Eboracum</dt><dd>Initial release by the Ninth Legion.</dd>
-      <dt>v8.66 Jorvik</dt><dd>Hostile fork. Renamed. Better boats.</dd>
-      <dt>v10.68 York</dt><dd>Rewritten in Norman. Walls added.</dd>
-      <dt>v18.39 Railway</dt><dd>Low-latency link to London.</dd>
-      <dt>v20.17 yorkdevelopers</dt><dd>Meetups added. Still maintained.</dd>
+      <dt>🏛️ v0.71 Eboracum</dt><dd>Initial release by the Ninth Legion.</dd>
+      <dt>⛵ v8.66 Jorvik</dt><dd>Hostile fork. Renamed. Better boats.</dd>
+      <dt>🏰 v10.68 York</dt><dd>Rewritten in Norman. Walls added.</dd>
+      <dt>🚂 v18.39 Railway</dt><dd>Low-latency link to London.</dd>
+      <dt>💻 v20.17 yorkdevelopers</dt><dd>Meetups added. Still maintained.</dd>
     </dl>
   </section>
 
@@ -225,7 +230,14 @@ const jsonLd = events.map(e => ({
   details p a { margin-right: 2ch; }
   dl.past { grid-template-columns: 14ch 1fr; }
   .more { color: var(--muted); font-size: .92em; margin-top: 8px; }
-  dt.retired { text-decoration: line-through; color: var(--muted); }
+  dt.retired { color: var(--muted); }
+  dt.retired .name { text-decoration: line-through; }
+  .dot { color: var(--muted); }
+  .dot.on, .live { color: var(--live); }
+  .live:not([hidden]) { display: block; font-size: .9em; }
+  .new { color: var(--live); border: 1px solid; border-radius: 3px; padding: 0 .6ch; font-size: .8em; white-space: nowrap; }
+  .links { white-space: nowrap; }
+  .links a { margin-left: 1ch; }
   @media (max-width: 640px) {
     .art { margin-left: 0; font-size: 3.2vw; }
     .where { margin-left: 4ch; }
@@ -248,6 +260,7 @@ const jsonLd = events.map(e => ({
     if (!occ) return false;
     row.querySelector<HTMLAnchorElement>('a.title')!.href = occ.url;
     row.querySelector<HTMLAnchorElement>('a.cal')!.href = occ.ics;
+    row.dataset.start = occ.start; row.dataset.end = occ.end;
     row.querySelector('.next')!.textContent = york.format(Date.parse(occ.start)) === york.format(now) ? 'today' : short.format(Date.parse(occ.start));
     return true;
   }
@@ -265,6 +278,11 @@ const jsonLd = events.map(e => ({
           : Date.parse(row.dataset.end!) > now && (!copy || day.dataset.day === today);
         const match = current && words.every(w => row.dataset.find!.includes(w));
         row.hidden = !match;
+        const start = Date.parse(row.dataset.start!), end = Date.parse(row.dataset.end!);
+        row.querySelector<HTMLElement>('.live')!.hidden = !(start <= now && now < end);
+        // "new" for three days after an event is first announced
+        const fresh = row.querySelector<HTMLElement>('.new');
+        if (fresh) fresh.hidden = !(row.dataset.seen && now - Date.parse(row.dataset.seen) < 3 * 864e5);
         if (match) any = true;
         if (copy) continue;
         if (current) live++;
@@ -285,10 +303,15 @@ const jsonLd = events.map(e => ({
     stale.hidden = age < 2;
     stale.textContent = `Warning: this list was last refreshed ${age} days ago and may be out of date. Check each group's own page.`;
   }
-  q.addEventListener('input', draw);
+  // The filter lives in the address too, so a filtered view can be shared as a link.
+  q.value = new URLSearchParams(location.search).get('q') ?? '';
+  q.addEventListener('input', () => {
+    history.replaceState(null, '', q.value ? `?q=${encodeURIComponent(q.value).replace(/%3A/g, ':').replace(/%20/g, '+')}` : location.pathname);
+    draw();
+  });
   addEventListener('keydown', e => {
     if (e.key === '/' && document.activeElement !== q) { e.preventDefault(); q.focus(); }
-    if (e.key === 'Escape') { q.value = ''; draw(); }
+    if (e.key === 'Escape') { q.value = ''; q.dispatchEvent(new Event('input')); }
   });
   draw();
   setInterval(draw, 60_000);

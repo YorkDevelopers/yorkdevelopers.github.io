@@ -29,22 +29,44 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
   <meta property="og:image" content={new URL('/og.png', Astro.site)}>
   <meta name="twitter:card" content="summary_large_image">
   <slot name="head" />
+  <script is:inline>
+    // Apply a saved theme before the page paints. Without one, the page is dark.
+    try { const t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch {}
+  </script>
 </head>
 <body>
   <div class="page">
+    <div class="top"><button id="theme" type="button" hidden></button></div>
     <div class="hdr"><span>{home ? ref : <a href="/">YORK(7)</a>}</span><span>York Developers Manual</span><span>{ref}</span></div>
     <slot />
     <div class="ftr"><span>yorkdevelopers.org</span><slot name="footer" /><span>{ref}</span></div>
-    <p class="charity">York Developers is a Charitable Incorporated Organisation, registered charity 1177591. <a href="/about/">About us</a></p>
+    <p class="charity">🏵️ York Developers is a Charitable Incorporated Organisation, registered charity 1177591. <a href="/about/">About us</a></p>
   </div>
 </body>
 </html>
 
+<script>
+  const button = document.getElementById('theme') as HTMLButtonElement;
+  const root = document.documentElement;
+  const current = () => root.dataset.theme ?? 'dark';
+  const label = () => { button.textContent = current() === 'dark' ? '[ light mode ]' : '[ dark mode ]'; };
+  button.addEventListener('click', () => {
+    root.dataset.theme = current() === 'dark' ? 'light' : 'dark';
+    try { localStorage.setItem('theme', root.dataset.theme); } catch {}
+    label();
+  });
+  label();
+  button.hidden = false;
+</script>
+
 <style is:global>
-  :root { --bg: #1b1e27; --ink: #e8e6df; --muted: #9aa0ad; --link: #9db4ff; --mark: #6b5a00; --rule: #343846; }
-  @media (prefers-color-scheme: light) {
-    :root { --bg: #fdfdfb; --ink: #16181d; --muted: #5d646f; --link: #1d3fc4; --mark: #ffe45c; --rule: #d9dbd4; }
-  }
+  :root { --bg: #1b1e27; --ink: #e8e6df; --muted: #9aa0ad; --link: #9db4ff; --mark: #6b5a00; --rule: #343846; --live: #7bd88f; }
+  :root { color-scheme: dark; }
+  /* dark is the default for everyone; light only when the visitor picks it with the toggle */
+  :root[data-theme="light"] { --bg: #fdfdfb; --ink: #16181d; --muted: #5d646f; --link: #1d3fc4; --mark: #ffe45c; --rule: #d9dbd4; --live: #1a7f37; color-scheme: light; }
+  .top { display: flex; justify-content: flex-end; min-height: 1.6em; margin-bottom: 6px; }
+  .top button { font: inherit; font-size: .9em; color: var(--muted); background: none; border: 0; padding: 0; cursor: pointer; }
+  .top button:hover { color: var(--link); }
   * { box-sizing: border-box; }
   body { margin: 0; background: var(--bg); color: var(--ink); font: 400 15.5px/1.6 'IBM Plex Mono', ui-monospace, monospace; }
   .page { max-width: 86ch; margin: 0 auto; padding: 22px 2ch 70px; }

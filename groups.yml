@@ -9,12 +9,14 @@
 #   ical     the URL of any other iCal feed (Luma, Google Calendar, ...)
 #   match    only needed when several groups share one Meetup page: words that appear in this group's event titles
 #   tags     extra words the filter on the home page should find this group's events by
+#   icon     an emoji shown beside the group's events
 #   runs     how often it meets
 #   retired  true for groups that have closed
 #
 # Whether a group shows as active or "no events scheduled" is worked out from its feed.
 
 - id: accu
+  icon: 🛠️
   name: ACCU York
   about: Professionalism in programming, any language
   url: https://www.meetup.com/accu-york/
@@ -23,6 +25,7 @@
   runs: monthly
 
 - id: coffee
+  icon: ☕
   name: Code and Coffee
   about: Tech social before the working day
   url: https://www.meetup.com/yorkdevelopers/
@@ -32,6 +35,7 @@
   runs: Wednesdays, 8am
 
 - id: ruby
+  icon: 💎
   name: York Ruby
   about: Ruby user group
   url: https://yorkruby.org/
@@ -41,6 +45,7 @@
   runs: monthly
 
 - id: games
+  icon: 🎮
   name: York Game Developers
   about: Programmers, artists, musicians and designers making games
   url: https://www.meetup.com/yorkdevelopers/
@@ -50,12 +55,14 @@
   runs: third Wednesday
 
 - id: yorkdevelopers
+  icon: 🏰
   name: York Developers
   about: Everything else on the York Developers Meetup page
   url: https://www.meetup.com/yorkdevelopers/
   meetup: yorkdevelopers
 
 - id: dotnet
+  icon: 🟣
   name: dotnetYork
   about: Community for tech enthusiasts of all experience levels, hosting free meetups, talks and knowledge-sharing events covering .NET, C#, cloud, AI, software development and everything in between.
   url: https://www.meetup.com/dotnetyork/
@@ -64,6 +71,7 @@
   runs: monthly
 
 - id: agile
+  icon: 🔁
   name: agileYork
   about: Agile values and practice
   url: https://www.meetup.com/agileYork/
@@ -71,6 +79,7 @@
   tags: scrum kanban
 
 - id: dojo
+  icon: 🥋
   name: York Code Dojo
   about: Hands-on coding practice, all languages
   url: https://www.meetup.com/york-code-dojo/
@@ -78,6 +87,7 @@
   tags: kata practice
 
 - id: data
+  icon: 🗄️
   name: York Data Platform User Group
   about: SQL Server and data (formerly Data York)
   url: https://www.meetup.com/datayork/
@@ -85,12 +95,14 @@
   tags: sql database
 
 - id: lunch
+  icon: 🥪
   name: York Geeks Lunch Club
   about: Lunch, with geeks
   url: https://www.meetup.com/york-geeks-lunch-club/
   meetup: york-geeks-lunch-club
 
 - id: aws
+  icon: ☁️
   name: AWS User Group York
   about: Amazon Web Services, cloud and AI
   url: https://www.meetup.com/york-amazon-web-services-user-group/
@@ -98,6 +110,7 @@
   tags: amazon cloud serverless
 
 - id: slurp
+  icon: 🤖
   name: Slurp n' Learn
   about: Community AI education
   url: https://www.meetup.com/slurp-and-learn-community-ai-education/
@@ -105,6 +118,7 @@
   tags: ai llm machine learning
 
 - id: wit
+  icon: 👩‍💻
   name: Women in Tech York
   about: Talks and socials for women working in tech
   url: https://www.eventbrite.co.uk/o/women-in-tech-york-17303901312

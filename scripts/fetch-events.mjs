@@ -150,6 +150,18 @@ for (const c of candidates.candidates.filter(c => c.status === 'approved')) {
   });
 }
 
+// Two groups often list the same joint night separately. Show it once, under whichever group
+// comes first in groups.yml, and note the others in `with`.
+const rank = id => groups.findIndex(g => g.id === id);
+const slots = Map.groupBy(events.filter(e => e.venue && rank(e.group) >= 0), e => `${e.start}|${e.venue.toLowerCase()}`);
+for (const same of slots.values()) {
+  const [main, ...rest] = same.sort((a, b) => rank(a.group) - rank(b.group));
+  const partners = rest.filter(e => e.group !== main.group);
+  if (!partners.length) continue;
+  main.with = [...new Set(partners.map(e => e.group))];
+  for (const e of partners) events.splice(events.indexOf(e), 1);
+}
+
 // An event repeated three or more times is a regular series; the home page shows it as one line.
 const repeats = Map.groupBy(events, e => `${e.group}|${e.title}`);
 for (const e of events) {

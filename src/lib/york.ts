@@ -7,12 +7,13 @@ import headlines from '../data/news.json';
 export interface Group {
   id: string; name: string; about: string; url?: string;
   meetup?: string; eventbrite?: string; ical?: string;
-  match?: string; tags?: string; runs?: string; retired?: boolean;
+  match?: string; tags?: string; icon?: string; runs?: string; retired?: boolean;
 }
 export interface Event {
   uid: string; group: string; title: string; start: string; end: string;
   url?: string; venue?: string; address?: string; summary?: string;
   series?: boolean; seen?: string;
+  with?: string[]; // other groups co-hosting, when two groups listed the same night
   host?: string; // set on events approved from the candidates issue, which have no group here
 }
 
@@ -32,7 +33,8 @@ export const previously = (n: number): Event[] =>
 export const groupById = (id: string): Group => groups.find(g => g.id === id) ?? { id, name: id, about: '' };
 
 // Who is running an event: its group, or the organiser named when it was discovered.
-export const hostName = (e: Event) => e.host ?? groupById(e.group).name;
+export const groupsOf = (e: Event): Group[] => [e.group, ...(e.with ?? [])].map(groupById);
+export const hostName = (e: Event) => e.host ?? groupsOf(e).map(g => g.name).join(' + ');
 
 export interface Headline { title: string; url: string; date: string; source: string; }
 export const news: Headline[] = headlines.items;
@@ -54,11 +56,11 @@ const esc = (s = '') => s.replace(/\\/g, '\\\\').replace(/([,;])/g, '\\$1').repl
 // Lines over 75 bytes must be folded.
 const fold = (line: string) => line.match(/.{1,70}/gu)!.join('\r\n ');
 
-export function calendar(events: Event[]) {
+export function calendar(events: Event[], name = 'York tech events') {
   const now = stamp(new Date().toISOString());
   const lines = [
     'BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//yorkdevelopers.org//York tech events//EN',
-    'CALSCALE:GREGORIAN', 'X-WR-CALNAME:York tech events',
+    'CALSCALE:GREGORIAN', `X-WR-CALNAME:${esc(name)}`,
     ...events.flatMap(e => [
       'BEGIN:VEVENT', `UID:${e.uid}`, `DTSTAMP:${now}`, `DTSTART:${stamp(e.start)}`, `DTEND:${stamp(e.end)}`,
       `SUMMARY:${esc(`${e.title} (${hostName(e)})`)}`,
