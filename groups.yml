@@ -5,6 +5,8 @@
 #   about    one line on what the group is for
 #   url      where to find the group
 #   meetup   the group's address on meetup.com (the bit after meetup.com/); events are read from it daily
+#   eventbrite  the group's organiser page on Eventbrite (full URL), if that's where it lists events
+#   ical     the URL of any other iCal feed (Luma, Google Calendar, ...)
 #   match    only needed when several groups share one Meetup page: words that appear in this group's event titles
 #   tags     extra words the filter on the home page should find this group's events by
 #   runs     how often it meets
@@ -87,6 +89,27 @@
   about: Lunch, with geeks
   url: https://www.meetup.com/york-geeks-lunch-club/
   meetup: york-geeks-lunch-club
+
+- id: aws
+  name: AWS User Group York
+  about: Amazon Web Services, cloud and AI
+  url: https://www.meetup.com/york-amazon-web-services-user-group/
+  meetup: york-amazon-web-services-user-group
+  tags: amazon cloud serverless
+
+- id: slurp
+  name: Slurp n' Learn
+  about: Community AI education
+  url: https://www.meetup.com/slurp-and-learn-community-ai-education/
+  meetup: slurp-and-learn-community-ai-education
+  tags: ai llm machine learning
+
+- id: wit
+  name: Women in Tech York
+  about: Talks and socials for women working in tech
+  url: https://www.eventbrite.co.uk/o/women-in-tech-york-17303901312
+  eventbrite: https://www.eventbrite.co.uk/o/women-in-tech-york-17303901312
+  tags: wit women
 
 - id: mage
   name: Mage Dev York

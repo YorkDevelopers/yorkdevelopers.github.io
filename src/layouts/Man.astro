@@ -7,6 +7,7 @@ interface Props { name: string; section?: number; title: string; description?: s
 const { name, section = 7, title, description = 'Developer meetups and tech events in York, UK.' } = Astro.props;
 const ref = `${name.toUpperCase()}(${section})`;
 const home = Astro.url.pathname === '/';
+const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
 <!doctype html>
 <html lang="en">
@@ -15,9 +16,19 @@ const home = Astro.url.pathname === '/';
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{title}</title>
   <meta name="description" content={description}>
-  <meta name="color-scheme" content="dark">
+  <meta name="color-scheme" content="dark light">
+  <link rel="canonical" href={canonical}>
   <link rel="icon" href="/img/favicon-32x32.png">
   <link rel="alternate" type="text/calendar" title="York tech events" href="/events.ics">
+  <link rel="alternate" type="application/rss+xml" title="York tech events" href="/feed.xml">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="York Developers">
+  <meta property="og:title" content={title}>
+  <meta property="og:description" content={description}>
+  <meta property="og:url" content={canonical}>
+  <meta property="og:image" content={new URL('/og.png', Astro.site)}>
+  <meta name="twitter:card" content="summary_large_image">
+  <slot name="head" />
 </head>
 <body>
   <div class="page">
@@ -31,6 +42,9 @@ const home = Astro.url.pathname === '/';
 
 <style is:global>
   :root { --bg: #1b1e27; --ink: #e8e6df; --muted: #9aa0ad; --link: #9db4ff; --mark: #6b5a00; --rule: #343846; }
+  @media (prefers-color-scheme: light) {
+    :root { --bg: #fdfdfb; --ink: #16181d; --muted: #5d646f; --link: #1d3fc4; --mark: #ffe45c; --rule: #d9dbd4; }
+  }
   * { box-sizing: border-box; }
   body { margin: 0; background: var(--bg); color: var(--ink); font: 400 15.5px/1.6 'IBM Plex Mono', ui-monospace, monospace; }
   .page { max-width: 86ch; margin: 0 auto; padding: 22px 2ch 70px; }

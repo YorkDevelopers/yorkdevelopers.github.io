@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-11-11T11:12:57.628Z",
+  "fetchedAt": "2026-11-11T11:42:33.724Z",
   "events": [
     {
       "uid": "event_316908920@meetup.com",
-      "feed": "accu-york",
+      "feed": "meetup:accu-york",
       "group": "accu",
       "title": "From Writing Code to Making Business-Aligned Decisions",
       "start": "2026-11-11T18:00:00.000Z",
@@ -11,11 +11,38 @@
       "url": "https://www.meetup.com/accu-york/events/316908920/",
       "venue": "Patch",
       "address": "The Bonding Warehouse, Terry Ave, York YO1 6FA, York",
-      "summary": "ACCU York x Slurp n' Learn - \"A joint night with Slurp n' Learn\" 🕡 Doors open 18:00 ACCU York and Slurp n' Learn are running November together: two talks of roughly 45 minutes each, one evening. Doors are at 6pm, and"
+      "summary": "ACCU York x Slurp n' Learn - \"A joint night with Slurp n' Learn\" 🕡 Doors open 18:00 ACCU York and Slurp n' Learn are running November together: two talks of roughly 45 minutes each, one evening. Doors are at 6pm, and we will confirm the running order nearer the time. All are welcome, whether you have been to an ACCU ...",
+      "seen": "2026-11-11T11:42:33.724Z"
+    },
+    {
+      "uid": "event_317174964@meetup.com",
+      "feed": "meetup:slurp-and-learn-community-ai-education",
+      "group": "slurp",
+      "title": "slurp 'n Learn x ACCU York: a joint November night",
+      "start": "2026-11-11T18:00:00.000Z",
+      "end": "2026-11-11T21:00:00.000Z",
+      "url": "https://www.meetup.com/slurp-and-learn-community-ai-education/events/317174964/",
+      "venue": "Patch",
+      "address": "The Bonding Warehouse, Terry Ave, York YO1 6FA, York",
+      "summary": "THIS MONTH: Wednesday 11 November, a joint night with ACCU York This month we're teaming up with ACCU York, the city's software developers' group. Two talks of about 45 minutes each, then Q&A, networking and drinks. Running order confirmed nearer the time. Free, and all welcome. Oana May: \"From Writing Code to Making ...",
+      "seen": "2026-11-11T11:42:33.724Z"
+    },
+    {
+      "uid": "eventbrite-1999164892008",
+      "feed": "eventbrite:https://www.eventbrite.co.uk/o/women-in-tech-york-17303901312",
+      "group": "wit",
+      "title": "Think Before We Ship",
+      "start": "2026-11-12T18:00:00.000Z",
+      "end": "2026-11-12T21:00:00.000Z",
+      "url": "https://www.eventbrite.co.uk/e/think-before-we-ship-tickets-1999164892008",
+      "venue": "Revolution York Restaurant, Bar, Club",
+      "address": "1 Coney Street, York, YO1 9QL",
+      "summary": "Is \"Ship Fast, Learn Fast\" all it's cracked up to be? Join us to discuss!",
+      "seen": "2026-11-11T11:42:33.724Z"
     },
     {
       "uid": "event_317360825@meetup.com",
-      "feed": "yorkdevelopers",
+      "feed": "meetup:yorkdevelopers",
       "group": "ruby",
       "title": "York Ruby - Monthly Meeting",
       "start": "2026-11-17T19:00:00.000Z",
@@ -23,11 +50,12 @@
       "url": "https://www.meetup.com/yorkdevelopers/events/317360825/",
       "venue": "The Little Ale House - York",
       "address": "46 Stonegate, York YO1 8AS, UK, York",
-      "summary": "York Ruby is a user group for those interested in the Ruby programming language in York and surrounding areas! Anyone is welcome whether you're just starting out, a seasoned Ruby programmer, or just curious. We're back"
+      "summary": "York Ruby is a user group for those interested in the Ruby programming language in York and surrounding areas! Anyone is welcome whether you're just starting out, a seasoned Ruby programmer, or just curious. We're back at The Little Ale House, 46 Stonegate, York YO1 8AS",
+      "seen": "2026-11-11T11:42:33.724Z"
     },
     {
       "uid": "event_317186983@meetup.com",
-      "feed": "yorkdevelopers",
+      "feed": "meetup:yorkdevelopers",
       "group": "coffee",
       "title": "Weekly Tech Social - Code and Coffee (Wednesday)",
       "start": "2026-11-18T08:00:00.000Z",
@@ -35,11 +63,13 @@
       "url": "https://www.meetup.com/yorkdevelopers/events/317186983/",
       "venue": "200 Degrees Coffee Shop",
       "address": "68 Low Petergate, York",
-      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech"
+      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech news and more! Are you looking for your first step in the York Tech Community or if you are looking ...",
+      "series": true,
+      "seen": "2026-11-11T11:42:33.724Z"
     },
     {
       "uid": "event_315302129@meetup.com",
-      "feed": "yorkdevelopers",
+      "feed": "meetup:yorkdevelopers",
       "group": "games",
       "title": "Game Developers, Monthly Meeting",
       "start": "2026-11-18T19:00:00.000Z",
@@ -47,11 +77,12 @@
       "url": "https://www.meetup.com/yorkdevelopers/events/315302129/",
       "venue": "House Of Trembling Madness // Lendal (No table bookings)",
       "address": "14 Lendal, York",
-      "summary": "Our regular meetup at the House of Trembling Madness (Lendal). Third Wednesday of the month. We have the right hand meeting room booked, right at the top of the pub, ask the staff if you have any trouble finding."
+      "summary": "Our regular meetup at the House of Trembling Madness (Lendal). Third Wednesday of the month. We have the right hand meeting room booked, right at the top of the pub, ask the staff if you have any trouble finding.",
+      "seen": "2026-11-11T11:42:33.724Z"
     },
     {
       "uid": "event_317296250@meetup.com",
-      "feed": "yorkdevelopers",
+      "feed": "meetup:yorkdevelopers",
       "group": "coffee",
       "title": "Weekly Tech Social - Code and Coffee (Wednesday)",
       "start": "2026-11-25T08:00:00.000Z",
@@ -59,11 +90,13 @@
       "url": "https://www.meetup.com/yorkdevelopers/events/317296250/",
       "venue": "200 Degrees Coffee Shop",
       "address": "68 Low Petergate, York",
-      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech"
+      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech news and more! Are you looking for your first step in the York Tech Community or if you are looking ...",
+      "series": true,
+      "seen": "2026-11-11T11:42:33.724Z"
     },
     {
       "uid": "event_316651374@meetup.com",
-      "feed": "dotnetyork",
+      "feed": "meetup:dotnetyork",
       "group": "dotnet",
       "title": "[🏫 In-Person] Azure Architecture and Azure networking",
       "start": "2026-11-26T18:00:00.000Z",
@@ -71,11 +104,12 @@
       "url": "https://www.meetup.com/dotnetyork/events/316651374/",
       "venue": "RotaCloud",
       "address": "20 George Hudson St, York YO1 6WR, UK, York",
-      "summary": "This event will be a two talks on Azure Related Subjects with Rik Hepworth ⚠️ This will be an in-person event, hosted at RotaCloud in York, which is within easy reach of the train station. 📍 View on Google Maps Agenda"
+      "summary": "This event will be a two talks on Azure Related Subjects with Rik Hepworth ⚠️ This will be an in-person event, hosted at RotaCloud in York, which is within easy reach of the train station. 📍 View on Google Maps Agenda 🍕 Pizza / Drinks / Networking (18:00 - 18:30) 🗣 Introduction (18:30) 👉 Azure Architecture: ...",
+      "seen": "2026-11-11T11:42:33.724Z"
     },
     {
       "uid": "event_lhpzbvyjcqbdb@meetup.com",
-      "feed": "yorkdevelopers",
+      "feed": "meetup:yorkdevelopers",
       "group": "coffee",
       "title": "Weekly Tech Social - Code and Coffee (Wednesday)",
       "start": "2026-12-02T08:00:00.000Z",
@@ -83,11 +117,13 @@
       "url": "https://www.meetup.com/yorkdevelopers/events/lhpzbvyjcqbdb/",
       "venue": "200 Degrees Coffee Shop",
       "address": "68 Low Petergate, York",
-      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech"
+      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech news and more! Are you looking for your first step in the York Tech Community or if you are looking ...",
+      "series": true,
+      "seen": "2026-11-11T11:42:33.724Z"
     },
     {
       "uid": "event_317220977@meetup.com",
-      "feed": "accu-york",
+      "feed": "meetup:accu-york",
       "group": "accu",
       "title": "What does it mean to be a programmer?",
       "start": "2026-12-02T18:00:00.000Z",
@@ -95,11 +131,12 @@
       "url": "https://www.meetup.com/accu-york/events/317220977/",
       "venue": "Patch",
       "address": "The Bonding Warehouse, Terry Ave, York YO1 6FA, York",
-      "summary": "🕡 Doors open 18:30 📋 Intro and admin 18:50 🗣️ A open session lead by Gareth Lloyd. What is hype what is real? Has everything changed, or are some things timeless? Everybody has their own experiences as a programmer"
+      "summary": "🕡 Doors open 18:30 📋 Intro and admin 18:50 🗣️ A open session lead by Gareth Lloyd. What is hype what is real? Has everything changed, or are some things timeless? Everybody has their own experiences as a programmer and also with/without AI. In this session we will try to ask questions to ourselves, and try to work ...",
+      "seen": "2026-11-11T11:42:33.724Z"
     },
     {
       "uid": "event_lhpzbvyjcqbmb@meetup.com",
-      "feed": "yorkdevelopers",
+      "feed": "meetup:yorkdevelopers",
       "group": "coffee",
       "title": "Weekly Tech Social - Code and Coffee (Wednesday)",
       "start": "2026-12-09T08:00:00.000Z",
@@ -107,11 +144,26 @@
       "url": "https://www.meetup.com/yorkdevelopers/events/lhpzbvyjcqbmb/",
       "venue": "200 Degrees Coffee Shop",
       "address": "68 Low Petergate, York",
-      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech"
+      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech news and more! Are you looking for your first step in the York Tech Community or if you are looking ...",
+      "series": true,
+      "seen": "2026-11-11T11:42:33.724Z"
+    },
+    {
+      "uid": "eventbrite-1999359127973",
+      "feed": "eventbrite:https://www.eventbrite.co.uk/o/women-in-tech-york-17303901312",
+      "group": "wit",
+      "title": "End of Year Party 2026",
+      "start": "2026-12-10T18:30:00.000Z",
+      "end": "2026-12-10T21:00:00.000Z",
+      "url": "https://www.eventbrite.co.uk/e/end-of-year-party-2026-tickets-1999359127973",
+      "venue": "North South Cafe Bar",
+      "address": "25a Bootham, York, YO30 7BW",
+      "summary": "Join us for casual networking and celebration!",
+      "seen": "2026-11-11T11:42:33.724Z"
     },
     {
       "uid": "event_lhpzbvyjcqbvb@meetup.com",
-      "feed": "yorkdevelopers",
+      "feed": "meetup:yorkdevelopers",
       "group": "coffee",
       "title": "Weekly Tech Social - Code and Coffee (Wednesday)",
       "start": "2026-12-16T08:00:00.000Z",
@@ -119,11 +171,13 @@
       "url": "https://www.meetup.com/yorkdevelopers/events/lhpzbvyjcqbvb/",
       "venue": "200 Degrees Coffee Shop",
       "address": "68 Low Petergate, York",
-      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech"
+      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech news and more! Are you looking for your first step in the York Tech Community or if you are looking ...",
+      "series": true,
+      "seen": "2026-11-11T11:42:33.724Z"
     },
     {
       "uid": "event_315302135@meetup.com",
-      "feed": "yorkdevelopers",
+      "feed": "meetup:yorkdevelopers",
       "group": "games",
       "title": "Game Developers, Monthly Meeting",
       "start": "2026-12-16T19:00:00.000Z",
@@ -131,11 +185,12 @@
       "url": "https://www.meetup.com/yorkdevelopers/events/315302135/",
       "venue": "House Of Trembling Madness // Lendal (No table bookings)",
       "address": "14 Lendal, York",
-      "summary": "Our regular meetup at the House of Trembling Madness (Lendal). Third Wednesday of the month. We have the right hand meeting room booked, right at the top of the pub, ask the staff if you have any trouble finding."
+      "summary": "Our regular meetup at the House of Trembling Madness (Lendal). Third Wednesday of the month. We have the right hand meeting room booked, right at the top of the pub, ask the staff if you have any trouble finding.",
+      "seen": "2026-11-11T11:42:33.724Z"
     },
     {
       "uid": "event_lhpzbvyjcqbfc@meetup.com",
-      "feed": "yorkdevelopers",
+      "feed": "meetup:yorkdevelopers",
       "group": "coffee",
       "title": "Weekly Tech Social - Code and Coffee (Wednesday)",
       "start": "2026-12-23T08:00:00.000Z",
@@ -143,11 +198,13 @@
       "url": "https://www.meetup.com/yorkdevelopers/events/lhpzbvyjcqbfc/",
       "venue": "200 Degrees Coffee Shop",
       "address": "68 Low Petergate, York",
-      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech"
+      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech news and more! Are you looking for your first step in the York Tech Community or if you are looking ...",
+      "series": true,
+      "seen": "2026-11-11T11:42:33.724Z"
     },
     {
       "uid": "event_lhpzbvyjcqbnc@meetup.com",
-      "feed": "yorkdevelopers",
+      "feed": "meetup:yorkdevelopers",
       "group": "coffee",
       "title": "Weekly Tech Social - Code and Coffee (Wednesday)",
       "start": "2026-12-30T08:00:00.000Z",
@@ -155,7 +212,9 @@
       "url": "https://www.meetup.com/yorkdevelopers/events/lhpzbvyjcqbnc/",
       "venue": "200 Degrees Coffee Shop",
       "address": "68 Low Petergate, York",
-      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech"
+      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech news and more! Are you looking for your first step in the York Tech Community or if you are looking ...",
+      "series": true,
+      "seen": "2026-11-11T11:42:33.724Z"
     }
   ]
 }

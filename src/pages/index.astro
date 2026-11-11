@@ -1,6 +1,7 @@
 ---
 import Man from '../layouts/Man.astro';
-import { groups, upcoming, groupById, fetchedAt, fmt, dayKey } from '../lib/york';
+import { groups, upcoming, previously, groupById, fetchedAt, fmt, dayKey, place, mapLink, slug, SITE } from '../lib/york';
+import type { Event } from '../lib/york';
 
 const art = String.raw`      |\    /|                    _   _
      _| |__| |_       /\         | |_| |
@@ -8,12 +9,29 @@ const art = String.raw`      |\    /|                    _   _
     | |  ||  | | []  []  []  []  | |_| |   |
     |_|__||__|_|_________________|_____|___|`;
 const events = upcoming();
-const days = Map.groupBy(events, e => dayKey(e.start));
+// Weekly regulars are shown once, with their next date, so they don't bury the one-off talks.
+const regulars = [...Map.groupBy(events.filter(e => e.series), e => `${e.group}|${e.title}`).values()];
+const days = Map.groupBy(events.filter(e => !e.series), e => dayKey(e.start));
+const past = previously(8);
 const busy = new Set(events.map(e => e.group));
-const listed = groups.filter(g => g.runs || g.retired || busy.has(g.id) || g.id !== 'yorkdevelopers');
+const listed = groups.filter(g => g.id !== 'yorkdevelopers' || busy.has(g.id));
 const status = (g) => g.retired ? 'retired' : busy.has(g.id) ? (g.runs ?? 'events listed') : 'no events scheduled';
+const find = (e: Event) => {
+  const g = groupById(e.group);
+  return [e.title, e.venue, e.address, e.summary, g.id, g.name, g.about, g.tags, fmt(e.start, { weekday: 'long', month: 'long' })].join(' ').toLowerCase();
+};
+const time = (iso: string) => fmt(iso, { hour: '2-digit', minute: '2-digit' });
+
+// Structured data, so search engines can list the events themselves.
+const jsonLd = events.map(e => ({
+  '@context': 'https://schema.org', '@type': 'Event', name: e.title, startDate: e.start, endDate: e.end,
+  eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode', url: e.url, description: e.summary || undefined,
+  location: { '@type': 'Place', name: e.venue ?? 'York', address: e.address ?? 'York, UK' },
+  organizer: { '@type': 'Organization', name: groupById(e.group).name, url: groupById(e.group).url },
+}));
 ---
 <Man name="york" title="york(7): developer meetups and tech events in York, UK">
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(jsonLd)} />
 <pre class="art" aria-hidden="true" set:html={art} />
   <p class="where">York, 53.96N 1.08W</p>
 
@@ -25,31 +43,75 @@ const status = (g) => g.retired ? 'retired' : busy.has(g.id) ? (g.runs ?? 'event
   <section>
     <h2>SYNOPSIS</h2>
     <p><b>york</b> [<i>group</i>] [<i>venue</i>] [<i>day</i>] [<i>words</i> ...]</p>
-    <label class="prompt"><span>$ york</span><input id="q" placeholder="type to filter: accu, coffee, azure, wednesday ..." autocomplete="off" spellcheck="false"></label>
-    <div class="hint">Press <kbd>/</kbd> to focus, <kbd>Esc</kbd> to clear. <span id="count">{events.length} upcoming events</span>.</div>
+    <label class="prompt"><span>$ york</span><input id="q" placeholder="type to filter: accu, coffee, .net, wednesday ..." autocomplete="off" spellcheck="false"></label>
+    <div class="hint">Press <kbd>/</kbd> to focus, <kbd>Esc</kbd> to clear. <span id="count">{regulars.length + events.filter(e => !e.series).length} upcoming events</span>.</div>
   </section>
 
   <section>
     <h2>EVENTS</h2>
-    <table id="events">
-      {[...days].map(([day, items]) => (
-        <tbody data-day={day}>
-          <tr class="day"><td colspan="3">{fmt(items[0].start, { weekday: 'short', day: '2-digit', month: 'short' })}<span class="rel"></span></td></tr>
-          {items.map(e => {
-            const g = groupById(e.group);
+    <p id="stale" class="warn" hidden></p>
+    <table id="events" data-checked={fetchedAt}>
+      {regulars.length > 0 && (
+        <tbody>
+          <tr class="day"><td colspan="3">Every week</td></tr>
+          {regulars.map(items => {
+            const e = items[0], g = groupById(e.group);
             return (
-              <tr data-end={e.end} data-find={[e.title, e.venue, e.address, e.summary, g.id, g.name, g.about, g.tags, fmt(e.start, { weekday: 'long', month: 'long' })].join(' ').toLowerCase()}>
-                <td class="t"><span>{fmt(e.start, { hour: '2-digit', minute: '2-digit' })}</span></td>
-                <td><a href={e.url}>{e.title}</a><span class="v" title={e.address}>{e.venue ?? 'Venue on the event page'}</span></td>
+              <tr data-occ={JSON.stringify(items.map(o => ({ start: o.start, end: o.end, url: o.url, ics: `/events/${slug(o)}.ics` })))} data-find={find(e) + ' every week weekly regular'}>
+                <td class="t"><span>{fmt(e.start, { weekday: 'short' })} {time(e.start)}</span></td>
+                <td>
+                  <a class="title" href={e.url}>{e.title}</a>
+                  <span class="v">{e.venue ?? 'Venue on the event page'}; next on <span class="next">{fmt(e.start, { day: 'numeric', month: 'short' })}</span></span>
+                  <details>
+                    <summary>details</summary>
+                    {e.summary && <p>{e.summary}</p>}
+                    <p>{e.venue && <a href={mapLink(e)}>map</a>} <a class="cal" href={`/events/${slug(e)}.ics`}>add next to calendar</a></p>
+                  </details>
+                </td>
                 <td class="g">{g.name}</td>
               </tr>
             );
           })}
         </tbody>
+      )}
+      {[...days].map(([day, items]) => (
+        <tbody data-day={day}>
+          <tr class="day"><td colspan="3">{fmt(items[0].start, { weekday: 'short', day: '2-digit', month: 'short' })}<span class="rel"></span></td></tr>
+          {items.map(e => (
+            <tr data-end={e.end} data-find={find(e)}>
+              <td class="t"><span>{time(e.start)}</span></td>
+              <td>
+                <a class="title" href={e.url}>{e.title}</a>
+                <span class="v">{e.venue ?? 'Venue on the event page'}</span>
+                <details>
+                  <summary>details</summary>
+                  {e.summary && <p>{e.summary}</p>}
+                  <p>{time(e.start)} to {time(e.end)}{e.venue && <>, {place(e)}</>}</p>
+                  <p>{e.venue && <a href={mapLink(e)}>map</a>} <a href={`/events/${slug(e)}.ics`}>add to calendar</a> <a href={e.url}>event page</a></p>
+                </details>
+              </td>
+              <td class="g">{groupById(e.group).name}</td>
+            </tr>
+          ))}
+        </tbody>
       ))}
     </table>
     <p id="none" hidden></p>
   </section>
+
+  {past.length > 0 && (
+    <section>
+      <h2>PREVIOUSLY</h2>
+      <dl class="past">
+        {past.map(e => (
+          <>
+            <dt>{fmt(e.start, { day: '2-digit', month: 'short', year: 'numeric' })}</dt>
+            <dd><a href={e.url}>{e.title}</a>, {groupById(e.group).name}</dd>
+          </>
+        ))}
+      </dl>
+    </section>
+  )}
 
   <section>
     <h2>DESCRIPTION</h2>
@@ -69,9 +131,19 @@ const status = (g) => g.retired ? 'retired' : busy.has(g.id) ? (g.runs ?? 'event
   </section>
 
   <section>
+    <h2>CONTRIBUTING</h2>
+    <dl>
+      <dt>Give a talk</dt><dd>Every group is looking for speakers, first-timers included. Message the organisers on the group's page, or <a href="mailto:code@yorkdevelopers.org?subject=I'd%20like%20to%20give%20a%20talk">email us</a> and we will find you a slot.</dd>
+      <dt>List your group</dt><dd>Add it to <a href="https://github.com/yorkdevelopers/yorkdevelopers.github.io/blob/master/groups.yml">groups.yml</a> with a pull request, or <a href="mailto:code@yorkdevelopers.org?subject=Please%20list%20my%20group">email us</a> its address.</dd>
+      <dt>Start a group</dt><dd>Come to Code and Coffee on a Wednesday and ask. We can help with a room, a first speaker and an audience.</dd>
+    </dl>
+  </section>
+
+  <section>
     <h2>FILES</h2>
     <dl>
       <dt><a href="/events.ics">/events.ics</a></dt><dd>Subscribe in any calendar app.</dd>
+      <dt><a href="/feed.xml">/feed.xml</a></dt><dd>RSS feed of newly announced events.</dd>
       <dt><a href="/events.json">/events.json</a></dt><dd>The same data, for your own scripts.</dd>
       <dt><a href="https://github.com/yorkdevelopers/yorkdevelopers.github.io/blob/master/groups.yml">groups.yml</a></dt><dd>Add a group with a pull request.</dd>
     </dl>
@@ -120,6 +192,7 @@ const status = (g) => g.retired ? 'retired' : busy.has(g.id) ? (g.runs ?? 'event
   .prompt input::placeholder { color: var(--muted); opacity: .7; }
   .prompt:focus-within { border-color: var(--link); }
   .hint { color: var(--muted); font-size: .9em; margin-bottom: 14px; }
+  .warn { background: var(--mark); padding: 4px 1ch; }
   table { border-collapse: collapse; width: calc(100% - 8ch); }
   td { padding: 5px 2ch 5px 0; vertical-align: top; border-bottom: 1px dashed var(--rule); }
   td.t, td.g { white-space: nowrap; }
@@ -127,6 +200,12 @@ const status = (g) => g.retired ? 'retired' : busy.has(g.id) ? (g.runs ?? 'event
   tbody.today td.t span { background: var(--mark); padding: 0 .5ch; }
   tr.day td { border: 0; padding-top: 14px; color: var(--muted); }
   .v { color: var(--muted); display: block; }
+  details { color: var(--muted); font-size: .92em; }
+  summary { cursor: pointer; width: fit-content; }
+  details[open] { padding-bottom: 6px; }
+  details p { margin: 6px 0 0; max-width: 60ch; }
+  details p a { margin-right: 2ch; }
+  dl.past { grid-template-columns: 14ch 1fr; }
   dt.retired { text-decoration: line-through; color: var(--muted); }
   @media (max-width: 640px) {
     .art { margin-left: 0; font-size: 3.2vw; }
@@ -138,9 +217,21 @@ const status = (g) => g.retired ? 'retired' : busy.has(g.id) ? (g.runs ?? 'event
 
 <script>
   const q = document.getElementById('q') as HTMLInputElement;
-  const days = [...document.querySelectorAll<HTMLElement>('#events tbody')];
-  const count = document.getElementById('count')!, none = document.getElementById('none')!;
+  const table = document.getElementById('events')!;
+  const days = [...table.querySelectorAll<HTMLElement>('tbody')];
+  const count = document.getElementById('count')!, none = document.getElementById('none')!, stale = document.getElementById('stale')!;
   const york = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/London' });
+  const short = new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/London', day: 'numeric', month: 'short' });
+
+  // A weekly regular carries all its dates; point it at the next one that hasn't finished.
+  function nextOccurrence(row: HTMLElement, now: number) {
+    const occ = JSON.parse(row.dataset.occ!).find((o: { end: string }) => Date.parse(o.end) > now);
+    if (!occ) return false;
+    row.querySelector<HTMLAnchorElement>('a.title')!.href = occ.url;
+    row.querySelector<HTMLAnchorElement>('a.cal')!.href = occ.ics;
+    row.querySelector('.next')!.textContent = york.format(Date.parse(occ.start)) === york.format(now) ? 'today' : short.format(Date.parse(occ.start));
+    return true;
+  }
 
   function draw() {
     const words = q.value.toLowerCase().split(/\s+/).filter(Boolean);
@@ -148,14 +239,15 @@ const status = (g) => g.retired ? 'retired' : busy.has(g.id) ? (g.runs ?? 'event
     let live = 0, shown = 0;
     for (const day of days) {
       let any = false;
-      for (const row of day.querySelectorAll<HTMLElement>('tr[data-end]')) {
-        const current = Date.parse(row.dataset.end!) > now;
+      for (const row of day.querySelectorAll<HTMLElement>('tr[data-find]')) {
+        const current = row.dataset.occ ? nextOccurrence(row, now) : Date.parse(row.dataset.end!) > now;
         const match = current && words.every(w => row.dataset.find!.includes(w));
         row.hidden = !match;
         if (current) live++;
         if (match) { shown++; any = true; }
       }
       day.hidden = !any;
+      if (!day.dataset.day) continue;
       day.classList.toggle('today', day.dataset.day === today);
       day.querySelector('.rel')!.textContent = day.dataset.day === today ? ' (today)' : day.dataset.day === tomorrow ? ' (tomorrow)' : '';
     }
@@ -163,6 +255,11 @@ const status = (g) => g.retired ? 'retired' : busy.has(g.id) ? (g.runs ?? 'event
     none.hidden = shown > 0;
     none.textContent = live ? `york: no events match '${q.value}'. Press Esc to see all ${live}.`
       : 'york: nothing announced yet. New events appear here the morning after a group lists them.';
+
+    // The list is refreshed twice a day. If that has stopped, say so rather than look current.
+    const age = Math.floor((now - Date.parse(table.dataset.checked!)) / 864e5);
+    stale.hidden = age < 2;
+    stale.textContent = `Warning: this list was last refreshed ${age} days ago and may be out of date. Check each group's own page.`;
   }
   q.addEventListener('input', draw);
   addEventListener('keydown', e => {
