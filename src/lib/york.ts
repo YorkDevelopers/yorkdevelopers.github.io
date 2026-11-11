@@ -4,7 +4,7 @@ import data from '../data/events.json';
 
 export interface Group {
   id: string; name: string; about: string; url?: string; meetup?: string;
-  match?: string; runs?: string; retired?: boolean;
+  match?: string; tags?: string; runs?: string; retired?: boolean;
 }
 export interface Event {
   uid: string; group: string; title: string; start: string; end: string;

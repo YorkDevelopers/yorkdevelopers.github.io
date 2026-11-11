@@ -6,6 +6,7 @@
 #   url      where to find the group
 #   meetup   the group's address on meetup.com (the bit after meetup.com/); events are read from it daily
 #   match    only needed when several groups share one Meetup page: words that appear in this group's event titles
+#   tags     extra words the filter on the home page should find this group's events by
 #   runs     how often it meets
 #   retired  true for groups that have closed
 #
@@ -16,6 +17,7 @@
   about: Professionalism in programming, any language
   url: https://www.meetup.com/accu-york/
   meetup: accu-york
+  tags: c++ cpp programming software craft
   runs: monthly
 
 - id: coffee
@@ -24,6 +26,7 @@
   url: https://www.meetup.com/yorkdevelopers/
   meetup: yorkdevelopers
   match: code and coffee
+  tags: social breakfast morning
   runs: Wednesdays, 8am
 
 - id: ruby
@@ -32,6 +35,7 @@
   url: https://yorkruby.org/
   meetup: yorkdevelopers
   match: ruby
+  tags: rails
   runs: monthly
 
 - id: games
@@ -40,6 +44,7 @@
   url: https://www.meetup.com/yorkdevelopers/
   meetup: yorkdevelopers
   match: game dev
+  tags: gamedev games unity unreal godot
   runs: third Wednesday
 
 - id: yorkdevelopers
@@ -53,6 +58,7 @@
   about: .NET and Azure
   url: https://www.meetup.com/dotnetyork/
   meetup: dotnetyork
+  tags: ".net dotnet c# csharp f# microsoft"
   runs: monthly
 
 - id: agile
@@ -60,18 +66,21 @@
   about: Agile values and practice
   url: https://www.meetup.com/agileYork/
   meetup: agileYork
+  tags: scrum kanban
 
 - id: dojo
   name: York Code Dojo
   about: Hands-on coding practice, all languages
   url: https://www.meetup.com/york-code-dojo/
   meetup: york-code-dojo
+  tags: kata practice
 
 - id: data
   name: York Data Platform User Group
   about: SQL Server and data (formerly Data York)
   url: https://www.meetup.com/datayork/
   meetup: datayork
+  tags: sql database
 
 - id: lunch
   name: York Geeks Lunch Club

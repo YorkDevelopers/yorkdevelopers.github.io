@@ -38,7 +38,7 @@ const status = (g) => g.retired ? 'retired' : busy.has(g.id) ? (g.runs ?? 'event
           {items.map(e => {
             const g = groupById(e.group);
             return (
-              <tr data-end={e.end} data-find={[e.title, e.venue, g.id, g.name, fmt(e.start, { weekday: 'long', month: 'long' })].join(' ').toLowerCase()}>
+              <tr data-end={e.end} data-find={[e.title, e.venue, e.address, e.summary, g.id, g.name, g.about, g.tags, fmt(e.start, { weekday: 'long', month: 'long' })].join(' ').toLowerCase()}>
                 <td class="t"><span>{fmt(e.start, { hour: '2-digit', minute: '2-digit' })}</span></td>
                 <td><a href={e.url}>{e.title}</a><span class="v" title={e.address}>{e.venue ?? 'Venue on the event page'}</span></td>
                 <td class="g">{g.name}</td>
