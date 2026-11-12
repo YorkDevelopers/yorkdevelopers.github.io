@@ -3,7 +3,7 @@
 // test is deliberately strict: it would rather miss a story than show an irrelevant one.
 import { readFile, writeFile } from 'node:fs/promises';
 import { parse } from 'yaml';
-import { page } from './lib.mjs';
+import { page, webUrl } from './lib.mjs';
 
 const OUT = new URL('../src/data/news.json', import.meta.url);
 const KEEP_DAYS = 45, KEEP_ITEMS = 40;
@@ -44,7 +44,7 @@ function parseFeed(xml) {
 const fresh = [];
 for (const source of sources) {
   try {
-    const items = parseFeed(await page(source.url)).filter(i => i.title && i.url && !isNaN(i.date));
+    const items = parseFeed(await page(source.url)).filter(i => i.title && webUrl(i.url) && !isNaN(i.date));
     const kept = items.filter(i =>
       (tech.test(i.title) || ai.test(i.title)) && !blocked.test(i.title) &&
       (source.local || york.test(i.title) || york.test(i.summary.slice(0, 300))));

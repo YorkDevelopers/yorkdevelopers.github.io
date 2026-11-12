@@ -2,6 +2,9 @@
 export const TZ = 'Europe/London';
 export const UA = { 'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/126 Safari/537.36 yorkdevelopers.org' };
 
+// Links read from other sites are only kept if they are ordinary web addresses.
+export const webUrl = url => /^https?:\/\//i.test(url ?? '') ? url : undefined;
+
 export const page = async url => {
   const res = await fetch(url, { headers: UA });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);

@@ -1,13 +1,14 @@
 ---
 // The home page: a modern, polished layout with the Minster and a visiting robot as its one
 // illustration. The same listings are also at /man, laid out as a Unix manual page.
-import { groups, upcoming, groupById, groupsOf, hostName, news, fetchedAt, fmt, mapLink, slug, CSP, SITE } from '../lib/york';
+import { groups, upcoming, groupById, groupsOf, hostName, news, fetchedAt, fmt, mapLink, slug, json, CSP, SITE } from '../lib/york';
+import '@fontsource-variable/geist';
 import type { Event, Group } from '../lib/york';
 
 // Six greys for the group dots and badges, defined per theme in the stylesheet. In a greyscale
 // page the two-letter badge, not the colour, is what tells groups apart.
-const hues = ['var(--g1)', 'var(--g2)', 'var(--g3)', 'var(--g4)', 'var(--g5)', 'var(--g6)'];
-const colour = (g: Group) => hues[Math.max(groups.indexOf(g), 0) % hues.length];
+// Given as a class (c1 to c6), because the content security policy rules out style attributes.
+const colour = (g: Group) => `c${Math.max(groups.indexOf(g), 0) % 6 + 1}`;
 // A two-letter badge per group: "Code and Coffee" is CC, "York Ruby" is RU.
 const skip = new Set(['york', 'and', "n'", 'in', 'of', 'the']);
 const badge = (g: Group) => {
@@ -87,6 +88,8 @@ const jsonLd = events.map(e => ({
   <link rel="icon" type="image/svg+xml" href="/logo.svg">
   <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
   <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#0C0C0D">
   <link rel="alternate" type="text/calendar" title="York tech events" href="/events.ics">
   <link rel="alternate" type="application/rss+xml" title="York tech events" href="/feed.xml">
   <meta property="og:type" content="website">
@@ -96,13 +99,12 @@ const jsonLd = events.map(e => ({
   <meta property="og:url" content={`${SITE}/`}>
   <meta property="og:image" content={`${SITE}/og.png`}>
   <meta name="twitter:card" content="summary_large_image">
-  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <script type="application/ld+json" set:html={json(jsonLd)} />
   <!-- applies a saved theme before the page paints; the choice is shared with the man page -->
   <script is:inline src="/theme.js"></script>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
+  <a class="skip" href="#top">Skip to content</a>
   <header class="nav">
     <a class="brand" href="#top"><img src="/logo.svg" alt="" width="28" height="28">York Developers</a>
     <nav>
@@ -284,7 +286,7 @@ const jsonLd = events.map(e => ({
       <h2 class="reveal">What’s on</h2>
       <div class="chips reveal" role="group" aria-label="Show events from">
         <button class="chip on" data-g="">All groups</button>
-        {active.map(g => <button class="chip" data-g={g.id} style={`--c:${colour(g)}`}><i class="dot"></i>{g.name}</button>)}
+        {active.map(g => <button class={`chip ${colour(g)}`} data-g={g.id}><i class="dot"></i>{g.name}</button>)}
       </div>
 
       <div class="whatson">
@@ -305,7 +307,7 @@ const jsonLd = events.map(e => ({
           {regulars.map(items => {
             const e = items[0], g = groupById(e.group);
             return (
-              <a class="card glow reveal regular" id={`reg-${slug(e)}`} href={e.url} data-groups={g.id} data-end={items.at(-1)!.end} style={`--c:${colour(g)}`}>
+              <a class={`card glow reveal regular ${colour(g)}`} id={`reg-${slug(e)}`} href={e.url} data-groups={g.id} data-end={items.at(-1)!.end}>
                 <span class="mono">{badge(g)}</span>
                 <span>
                   <span class="every">Every {fmt(e.start, { weekday: 'long' })}, {time(e.start)} to {time(e.end)}</span>
@@ -322,8 +324,7 @@ const jsonLd = events.map(e => ({
         {oneOffs.map(e => {
           const gs = groupsOf(e), g = gs[0];
           return (
-            <article class="event card glow reveal" id={`ev-${slug(e)}`} data-start={e.start} data-end={e.end} data-groups={gs.map(x => x.id).join(' ')}
-              style={`--c:${colour(g)};view-transition-name:ev-${slug(e)}`}>
+            <article class={`event card glow reveal ${colour(g)}`} id={`ev-${slug(e)}`} data-start={e.start} data-end={e.end} data-groups={gs.map(x => x.id).join(' ')}>
               <div class="date">
                 <span>{fmt(e.start, { weekday: 'short' })}</span>
                 <b>{fmt(e.start, { day: 'numeric' })}</b>
@@ -355,7 +356,7 @@ const jsonLd = events.map(e => ({
       <h2 class="reveal">The groups</h2>
       <div class="tiles">
         {active.map(g => (
-          <a class="tile card glow reveal" href={g.url} style={`--c:${colour(g)}`}>
+          <a class={`tile card glow reveal ${colour(g)}`} href={g.url}>
             <span class="mono">{badge(g)}</span>
             <strong>{g.name}</strong>
             <span class="about">{g.about.replace(/\.$/, '')}</span>
@@ -418,7 +419,7 @@ const jsonLd = events.map(e => ({
 
   <template id="ico-sun"><Fragment set:html={icon('sun')} /></template>
   <template id="ico-moon"><Fragment set:html={icon('moon')} /></template>
-  <script type="application/json" id="data" set:html={JSON.stringify(events.map(e => ({ t: title(e), s: e.start, e: e.end, h: hostName(e), v: e.venue ?? '', r: !!e.series, k: cardFor(e), g: groupsOf(e).map(x => x.id) })))} />
+  <script type="application/json" id="data" set:html={json(events.map(e => ({ t: title(e), s: e.start, e: e.end, h: hostName(e), v: e.venue ?? '', r: !!e.series, k: cardFor(e), g: groupsOf(e).map(x => x.id) })))} />
 </body>
 </html>
 
@@ -436,7 +437,7 @@ const jsonLd = events.map(e => ({
     --cal-has: #2E2E31; --cal-has-line: #6E6E73; --cal-has-hover: #3F3F42;
     --g1: #D4D4D8; --g2: #8E8E93; --g3: #B8B8BC; --g4: #6E6E73; --g5: #E4E4E7; --g6: #A1A1A6;
     --accent: var(--ink); --accent-hi: var(--gold-text); --green: var(--gold-text); --red: var(--gold);
-    --font: 'Geist', system-ui, sans-serif;
+    --font: 'Geist Variable', system-ui, sans-serif;
   }
   :root[data-theme="light"] {
     color-scheme: light;
@@ -626,6 +627,9 @@ const jsonLd = events.map(e => ({
   .reveal.in { opacity: 1; transform: none; }
   [hidden] { display: none !important; }
   ::view-transition-group(*) { animation-duration: .3s; }
+  .c1 { --c: var(--g1); } .c2 { --c: var(--g2); } .c3 { --c: var(--g3); } .c4 { --c: var(--g4); } .c5 { --c: var(--g5); } .c6 { --c: var(--g6); }
+  .skip { position: absolute; left: 12px; top: -60px; z-index: 100; padding: 8px 14px; border-radius: 8px; background: var(--ink); color: var(--base, #111); text-decoration: none; }
+  .skip:focus { top: 12px; }
 
   @media (max-width: 860px) {
     .nav nav { display: none; } .mode { margin-left: auto; } .mode span { display: none; } .plain { border: 0; padding: 0; }
@@ -648,6 +652,9 @@ const jsonLd = events.map(e => ({
   // Links shared from the old home page carried a filter (/?q=accu). The man page still reads them.
   if (new URLSearchParams(location.search).has('q')) location.replace('/man/' + location.search);
   const now = () => Date.now();
+  // Each event card keeps its own name through a filter change, so it slides to its new place.
+  // Set here, not in the markup, because the content security policy rules out style attributes.
+  for (const card of document.querySelectorAll<HTMLElement>('.event')) card.style.viewTransitionName = card.id;
   const york = (o: Intl.DateTimeFormatOptions) => new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/London', ...o });
 
   // a soft light follows the pointer across each card

@@ -22,15 +22,16 @@ export const TZ = 'Europe/London';
 // The content security policy every page carries. GitHub Pages can't send response headers, so
 // it goes in a <meta> tag. Scripts may only come from this site, plus Cloudflare's analytics
 // beacon: nothing inline.
-// Styles still allow inline, for the style attributes on the home page; Google is there for its typeface.
+// Styles, fonts and images come from this site only, so no page may carry a style attribute.
 export const CSP = [
   "default-src 'self'",
   // Cloudflare, which sits in front of the site, adds its Web Analytics beacon to every page
   "script-src 'self' https://static.cloudflareinsights.com",
   "connect-src 'self' https://cloudflareinsights.com",
-  "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
-  "font-src 'self' https://fonts.gstatic.com",
-  "img-src 'self' data: https:",
+  "style-src 'self'",
+  "font-src 'self'",
+  "img-src 'self' data:",
+  "object-src 'none'",
   "base-uri 'self'",
   "form-action 'self'",
 ].join('; ');
@@ -38,13 +39,20 @@ export const SITE = 'https://www.yorkdevelopers.org';
 export const groups: Group[] = parse(groupsYml);
 export const fetchedAt: string = data.fetchedAt;
 
+// Event and news data is read from other sites. Two guards before any of it reaches a page:
+// links must be ordinary web addresses, and JSON written into a <script> block must not be
+// able to close that block (a title containing "</script>" would otherwise spill into the page).
+const webUrl = (url?: string) => /^https?:\/\//i.test(url ?? '') ? url : undefined;
+const checked = (e: Event): Event => ({ ...e, url: webUrl(e.url) });
+export const json = (value: unknown) => JSON.stringify(value).replace(/</g, '\\u003c');
+
 // Events are current until they end. The page also re-checks this in the browser.
 export const upcoming = (): Event[] =>
-  (data.events as Event[]).filter(e => Date.parse(e.end) > Date.now());
+  (data.events as Event[]).filter(e => Date.parse(e.end) > Date.now()).map(checked);
 
 // Finished one-off events, newest first. Weekly regulars are left out.
 export const previously = (n: number): Event[] =>
-  (history.events as Event[]).filter(e => !e.series).reverse().slice(0, n);
+  (history.events as Event[]).filter(e => !e.series).reverse().slice(0, n).map(checked);
 
 export const groupById = (id: string): Group => groups.find(g => g.id === id) ?? { id, name: id, about: '' };
 
@@ -53,7 +61,7 @@ export const groupsOf = (e: Event): Group[] => [e.group, ...(e.with ?? [])].map(
 export const hostName = (e: Event) => e.host ?? groupsOf(e).map(g => g.name).join(' + ');
 
 export interface Headline { title: string; url: string; date: string; source: string; }
-export const news: Headline[] = headlines.items;
+export const news: Headline[] = headlines.items.filter(h => webUrl(h.url));
 
 export const fmt = (iso: string, opts: Intl.DateTimeFormatOptions) =>
   new Intl.DateTimeFormat('en-GB', { timeZone: TZ, ...opts }).format(new Date(iso));

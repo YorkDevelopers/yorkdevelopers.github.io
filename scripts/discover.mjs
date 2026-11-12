@@ -7,7 +7,7 @@
 // listed in groups.yml by hand.
 import { readFile, writeFile } from 'node:fs/promises';
 import { parse } from 'yaml';
-import { page, summarise, meetupVenue } from './lib.mjs';
+import { page, summarise, meetupVenue, webUrl } from './lib.mjs';
 
 const FILE = new URL('../src/data/candidates.json', import.meta.url);
 const YORK = { lat: 53.959, lon: -1.082 };
@@ -60,7 +60,7 @@ async function luma() {
 
 for (const [name, search] of [['Meetup', meetup], ['Luma', luma]]) {
   try {
-    const found = (await search()).filter(c => Date.parse(c.end) > now && !knownUrls.has(c.url));
+    const found = (await search()).filter(c => webUrl(c.url) && Date.parse(c.end) > now && !knownUrls.has(c.url));
     for (const c of found) known.set(c.id, { status: 'pending', found: new Date(now).toISOString(), ...known.get(c.id), ...c });
     console.log(`${name}: ${found.length} events not from a listed group`);
   } catch (err) {

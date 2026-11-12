@@ -25,13 +25,15 @@ const canonical = new URL(Astro.props.canonical ?? Astro.url.pathname, Astro.sit
   <link rel="icon" type="image/svg+xml" href="/logo.svg">
   <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
   <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#1b1e27">
   <link rel="alternate" type="text/calendar" title="York tech events" href="/events.ics">
   <link rel="alternate" type="application/rss+xml" title="York tech events" href="/feed.xml">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="York Developers">
   <meta property="og:title" content={title}>
   <meta property="og:description" content={description}>
-  <meta property="og:url" content={canonical}>
+  <meta property="og:url" content={new URL(Astro.url.pathname, Astro.site)}>
   <meta property="og:image" content={new URL('/og.png', Astro.site)}>
   <meta name="twitter:card" content="summary_large_image">
   <slot name="head" />
@@ -39,10 +41,14 @@ const canonical = new URL(Astro.props.canonical ?? Astro.url.pathname, Astro.sit
   <script is:inline src="/theme.js"></script>
 </head>
 <body>
+  <a class="skip" href="#main">Skip to content</a>
   <div class="page">
     <div class="top"><a href="/">[ main site ]</a><button id="theme" type="button" hidden></button></div>
     <div class="hdr"><span>{home ? ref : <a href="/man/">YORK(7)</a>}</span><span>York Developers Manual</span><span>{ref}</span></div>
+    <main id="main">
+    <h1 class="sr">{title}</h1>
     <slot />
+    </main>
     <div class="ftr"><span>yorkdevelopers.org</span><slot name="footer" /><span>{ref}</span></div>
     <p class="charity">🏵️ York Developers is a Charitable Incorporated Organisation, registered charity 1177591. <a href="/about/">About us</a></p>
   </div>
@@ -72,6 +78,10 @@ const canonical = new URL(Astro.props.canonical ?? Astro.url.pathname, Astro.sit
   .top button, .top a { font: inherit; font-size: .9em; color: var(--muted); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: none; }
   .top button:hover, .top a:hover { color: var(--link); }
   * { box-sizing: border-box; }
+  .skip { position: absolute; left: 2ch; top: -60px; padding: 4px 1ch; background: var(--ink); color: var(--bg); text-decoration: none; }
+  .skip:focus { top: 8px; }
+  /* a page heading for screen readers and search engines; the manual header is the visible one */
+  .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; margin: 0; }
   body { margin: 0; background: var(--bg); color: var(--ink); font: 400 15.5px/1.6 'IBM Plex Mono', ui-monospace, monospace; }
   .page { max-width: 86ch; margin: 0 auto; padding: 22px 2ch 70px; }
   a { color: var(--link); text-underline-offset: 3px; }

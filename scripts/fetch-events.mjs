@@ -11,7 +11,7 @@
 // carries on with a warning. If every source fails, the run fails so somebody notices.
 import { readFile, writeFile } from 'node:fs/promises';
 import { parse } from 'yaml';
-import { TZ, page, fromZone, summarise, meetupVenue } from './lib.mjs';
+import { TZ, page, fromZone, summarise, meetupVenue, webUrl } from './lib.mjs';
 
 const OUT = new URL('../src/data/events.json', import.meta.url);
 const PAST = new URL('../src/data/past.json', import.meta.url);
@@ -186,6 +186,7 @@ for (const e of events) {
 }
 
 const byStart = (a, b) => a.start.localeCompare(b.start);
+for (const e of events) e.url = webUrl(e.url);
 const upcoming = events.filter(e => Date.parse(e.end) > now).sort(byStart);
 
 // Anything we knew about that has now finished goes into the history.
