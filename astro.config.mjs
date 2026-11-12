@@ -21,6 +21,8 @@ export default defineConfig({
     ...oldPosts,
     '/CodeOfConduct.html': '/code-of-conduct/',
     '/events': '/',
+    // the home page's design was first tried out at /pro
+    '/pro': '/',
     '/blog': '/news/',
     '/donate': '/about/',
     '/slack-signup': '/',

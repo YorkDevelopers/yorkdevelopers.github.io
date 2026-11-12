@@ -1,0 +1,332 @@
+---
+// The original design: the same listings as the home page, laid out as a Unix manual page.
+// Served at /man. The home page links here, and the bar at the top links back.
+import Man from '../layouts/Man.astro';
+import { groups, upcoming, previously, groupsOf, hostName, news, fetchedAt, fmt, dayKey, place, mapLink, slug, SITE } from '../lib/york';
+import type { Event } from '../lib/york';
+
+const art = String.raw`.|. .|.           .|. .|.
+|_|_|_|     ^     |_|_|_|                _   _   _   _
+| ||| |    /+\    | ||| |               | |_| |_| |_| |
+| ||| |   /   \   | ||| |       _   _   |  +       +  |   _   _
+| /^\ |  / (#) \  | /^\ |      | |_| |__|     ___     |__| |_| |
+| | | | /  |||  \ | | | |      |        |    /   \    |        |
+|_|_|_|/___|||___\|_|_|_|      |________|___|     |___|________|`;
+const events = upcoming();
+// Weekly regulars are shown once, with their next date, so they don't bury the one-off talks.
+const regulars = [...Map.groupBy(events.filter(e => e.series), e => `${e.group}|${e.title}`).values()];
+// Every event gets a row under its day. A weekly regular's row stays hidden except on the day itself,
+// so someone scanning "today" doesn't miss it.
+const days = Map.groupBy(events, e => dayKey(e.start));
+const past = previously(8);
+const busy = new Set(events.flatMap(e => groupsOf(e).map(g => g.id)));
+// Each group's next event (events are already in date order).
+const nextFor = new Map<string, string>();
+for (const e of events) for (const g of groupsOf(e)) if (!nextFor.has(g.id)) nextFor.set(g.id, e.start);
+// Groups with events first, soonest at the top; then quiet groups; then retired ones.
+const rank = (g) => g.retired ? 2 : busy.has(g.id) ? 0 : 1;
+const listed = groups.filter(g => g.id !== 'yorkdevelopers' || busy.has(g.id))
+  .map((g, i) => ({ g, i }))
+  .sort((a, b) => rank(a.g) - rank(b.g) || (nextFor.get(a.g.id) ?? '').localeCompare(nextFor.get(b.g.id) ?? '') || a.i - b.i)
+  .map(({ g }) => g);
+const status = (g) => g.retired ? 'retired' : busy.has(g.id)
+  ? `${g.runs ?? 'events listed'}; next ${fmt(nextFor.get(g.id)!, { weekday: 'short', day: 'numeric', month: 'short' })}` : 'no events scheduled';
+const find = (e: Event) => {
+  // `group:id` lets a link select exactly one group, where a bare word would also match other text
+  const hosts = groupsOf(e).flatMap(g => [g.id, `group:${g.id}`, g.name, g.about, g.tags]);
+  return [e.title, e.venue, e.address, e.summary, e.host, ...hosts, fmt(e.start, { weekday: 'long', month: 'long' })].join(' ').toLowerCase();
+};
+// The group's emoji, then who is hosting.
+const badge = (e: Event) => [groupsOf(e)[0].icon, hostName(e)].filter(Boolean).join(' ');
+const time = (iso: string) => fmt(iso, { hour: '2-digit', minute: '2-digit' });
+---
+<Man name="york" title="york(7): developer meetups and tech events in York, UK" canonical="/">
+<pre class="art" aria-hidden="true" set:html={art} />
+  <p class="where">York, 53.96N 1.08W</p>
+
+  <section>
+    <h2>NAME</h2>
+    <p><b>york</b> - developer meetups and tech events in York, UK</p>
+  </section>
+
+  <section>
+    <h2>SYNOPSIS</h2>
+    <p><b>york</b> [<i>group</i>] [<i>venue</i>] [<i>day</i>] [<i>words</i> ...]</p>
+    <label class="prompt"><span>$ york</span><input id="q" placeholder="type to filter: accu, coffee, .net, wednesday ..." autocomplete="off" spellcheck="false"></label>
+    <div class="hint">Press <kbd>/</kbd> to focus, <kbd>Esc</kbd> to clear. <span id="count">{regulars.length + events.filter(e => !e.series).length} upcoming events</span>.</div>
+  </section>
+
+  <section>
+    <h2>EVENTS</h2>
+    <p id="stale" class="warn" hidden></p>
+    <table id="events" data-checked={fetchedAt}>
+      {regulars.length > 0 && (
+        <tbody>
+          <tr class="day"><td colspan="3">Every week</td></tr>
+          {regulars.map(items => {
+            const e = items[0];
+            return (
+              <tr data-occ={JSON.stringify(items.map(o => ({ start: o.start, end: o.end, url: o.url, ics: `/events/${slug(o)}.ics` })))} data-find={find(e) + ' every week weekly regular'}>
+                <td class="t"><span>{fmt(e.start, { weekday: 'short' })} {time(e.start)}</span><span class="live" hidden>● on now</span></td>
+                <td>
+                  <a class="title" href={e.url}>{e.title}</a>
+                  <details>
+                    <summary>details</summary>
+                    {e.venue
+                      ? <a class="v" href={mapLink(e)} title="Opens Google Maps">📍 {place(e)}</a>
+                      : <span class="v">📍 Venue on the event page</span>}
+                    <span class="v">🕒 {time(e.start)} to {time(e.end)}, next: <span class="next">{fmt(e.start, { day: 'numeric', month: 'short' })}</span></span>
+                    {e.summary && <p>{e.summary}</p>}
+                    <p><a class="cal" href={`/events/${slug(e)}.ics`}>add next to calendar</a></p>
+                  </details>
+                </td>
+                <td class="g">{badge(e)}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      )}
+      {[...days].map(([day, items]) => (
+        <tbody data-day={day}>
+          <tr class="day"><td colspan="3">{fmt(items[0].start, { weekday: 'short', day: '2-digit', month: 'short' })}<span class="rel"></span></td></tr>
+          {items.map(e => (
+            <tr data-start={e.start} data-end={e.end} data-seen={e.series ? undefined : e.seen} data-find={find(e)} data-today-only={e.series ? '' : undefined} hidden={e.series}>
+              <td class="t"><span>{time(e.start)}</span><span class="live" hidden>● on now</span></td>
+              <td>
+                <a class="title" href={e.url}>{e.title}</a> <span class="new" hidden>new</span>
+                <details>
+                  <summary>details</summary>
+                  {e.venue
+                    ? <a class="v" href={mapLink(e)} title="Opens Google Maps">📍 {place(e)}</a>
+                    : <span class="v">📍 Venue on the event page</span>}
+                  <span class="v">🕒 {time(e.start)} to {time(e.end)}</span>
+                  {e.summary && <p>{e.summary}</p>}
+                  <p><a href={`/events/${slug(e)}.ics`}>add to calendar</a> <a href={e.url}>event page</a></p>
+                </details>
+              </td>
+              <td class="g">{badge(e)}</td>
+            </tr>
+          ))}
+        </tbody>
+      ))}
+    </table>
+    <p id="none" hidden></p>
+  </section>
+
+  {past.length > 0 && (
+    <section>
+      <h2>PREVIOUSLY</h2>
+      <dl class="past">
+        {past.map(e => (
+          <>
+            <dt>{fmt(e.start, { day: '2-digit', month: 'short', year: 'numeric' })}</dt>
+            <dd><a href={e.url}>{e.title}</a>, {hostName(e)}</dd>
+          </>
+        ))}
+      </dl>
+    </section>
+  )}
+
+  {news.length > 0 && (
+    <section>
+      <h2>NEWS</h2>
+      <dl class="past">
+        {news.slice(0, 6).map(n => (
+          <>
+            <dt>{fmt(n.date, { day: '2-digit', month: 'short', year: 'numeric' })}</dt>
+            <dd><a href={n.url}>{n.title}</a>, {n.source}</dd>
+          </>
+        ))}
+      </dl>
+      <p class="more">York tech stories picked automatically from local news. <a href="/news/">More headlines</a></p>
+    </section>
+  )}
+
+  <section>
+    <h2>DESCRIPTION</h2>
+    <p>York Developers is a volunteer community for people who build software in and around York. This page lists every event its groups have announced. It is rebuilt twice a day from the groups' own listings, and an event stops appearing when it ends.</p>
+  </section>
+
+  <section>
+    <h2>GROUPS</h2>
+    <dl class="groups">
+      {listed.map(g => (
+        <>
+          <dt class:list={{ retired: g.retired }}>{g.icon && <>{g.icon} </>}<span class:list={['dot', { on: busy.has(g.id) }]} title={status(g)}>{g.retired ? '✕' : busy.has(g.id) ? '●' : '○'}</span> {g.url && !g.retired ? <a href={g.url}>{g.name}</a> : <span class="name">{g.name}</span>}</dt>
+          <dd>{g.about.replace(/\.$/, '')}; {status(g)}{!g.retired && <span class="links"> <a href={`/man/?q=group:${g.id}`}>events</a> <a href={`/groups/${g.id}.ics`}>calendar</a></span>}</dd>
+        </>
+      ))}
+    </dl>
+  </section>
+
+  <section>
+    <h2>CONTRIBUTING</h2>
+    <dl>
+      <dt>Give a talk</dt><dd>Every group is looking for speakers, first-timers included. Message the organisers on the group's page, or <a href="mailto:code@yorkdevelopers.org?subject=I'd%20like%20to%20give%20a%20talk">email us</a> and we will find you a slot.</dd>
+      <dt>List your group</dt><dd>Add it to <a href="https://github.com/yorkdevelopers/yorkdevelopers.github.io/blob/master/groups.yml">groups.yml</a> with a pull request, or <a href="mailto:code@yorkdevelopers.org?subject=Please%20list%20my%20group">email us</a> its address.</dd>
+      <dt>Start a group</dt><dd>Come to Code and Coffee on a Wednesday and ask. We can help with a room, a first speaker and an audience.</dd>
+    </dl>
+  </section>
+
+  <section>
+    <h2>FILES</h2>
+    <dl>
+      <dt><a href="/events.ics">/events.ics</a></dt><dd>Subscribe in any calendar app.</dd>
+      <dt>/groups/<i>name</i>.ics</dt><dd>One group's events; each group above links to its own.</dd>
+      <dt>/man/?q=<i>words</i></dt><dd>A link to this page already filtered, to share.</dd>
+      <dt><a href="/feed.xml">/feed.xml</a></dt><dd>RSS feed of newly announced events.</dd>
+      <dt><a href="/events.json">/events.json</a></dt><dd>The same data, for your own scripts.</dd>
+      <dt><a href="https://github.com/yorkdevelopers/yorkdevelopers.github.io/blob/master/groups.yml">groups.yml</a></dt><dd>Add a group with a pull request.</dd>
+    </dl>
+  </section>
+
+  <section>
+    <h2>HISTORY</h2>
+    <dl>
+      <dt>🏛️ v0.71 Eboracum</dt><dd>Initial release by the Ninth Legion.</dd>
+      <dt>⛵ v8.66 Jorvik</dt><dd>Hostile fork. Renamed. Better boats.</dd>
+      <dt>🏰 v10.68 York</dt><dd>Rewritten in Norman. Walls added.</dd>
+      <dt>🚂 v18.39 Railway</dt><dd>Low-latency link to London.</dd>
+      <dt>💻 v20.17 yorkdevelopers</dt><dd>Meetups added. Still maintained.</dd>
+    </dl>
+  </section>
+
+  <section>
+    <h2>BUGS</h2>
+    <p>The Ouse overflows without warning. Streets are called gates, gates are called bars, and bars are called pubs. Report anything else on <a href="https://github.com/yorkdevelopers/yorkdevelopers.github.io/issues">GitHub</a>.</p>
+  </section>
+
+  <section>
+    <h2>CONTACT</h2>
+    <dl>
+      <dt><a href="mailto:code@yorkdevelopers.org">code@yorkdevelopers.org</a></dt><dd>Email the organisers.</dd>
+      <dt><a href="https://www.meetup.com/yorkdevelopers/">Meetup</a></dt><dd>Join, and RSVP to events.</dd>
+      <dt><a href="https://github.com/yorkdevelopers">GitHub</a></dt><dd>This site and shared code.</dd>
+      <dt><a href="https://www.facebook.com/groups/yorkdevelopers">Facebook</a></dt><dd>Community group.</dd>
+      <dt><a href="https://www.linkedin.com/company/18066526">LinkedIn</a></dt><dd>Company page.</dd>
+      <dt><a href="https://x.com/YorkDevelopers">X</a></dt><dd>@YorkDevelopers.</dd>
+    </dl>
+  </section>
+
+  <section>
+    <h2>SEE ALSO</h2>
+    <p><a href="/about/">about</a>(7), <a href="/code-of-conduct/">code-of-conduct</a>(7), <a href="/news/">news</a>(7), <a href="https://www.meetup.com/yorkdevelopers/">meetup</a>(1)</p>
+  </section>
+
+  <span slot="footer">checked {fmt(fetchedAt, { day: '2-digit', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' })}</span>
+</Man>
+
+<style>
+  .art { color: var(--muted); line-height: 1.15; margin: 18px 0 0 8ch; overflow: hidden; }
+  .where { color: var(--muted); margin: 4px 0 0 12ch; }
+  .prompt { display: flex; gap: 1ch; align-items: center; border: 1px solid var(--rule); padding: 8px 1.5ch; margin-bottom: 4px; }
+  .prompt input { flex: 1; font: inherit; color: inherit; background: none; border: 0; outline: 0; min-width: 0; }
+  .prompt input::placeholder { color: var(--muted); opacity: .7; }
+  .prompt:focus-within { border-color: var(--link); }
+  .hint { color: var(--muted); font-size: .9em; margin-bottom: 14px; }
+  .warn { background: var(--mark); padding: 4px 1ch; }
+  table { border-collapse: collapse; width: calc(100% - 8ch); }
+  td { padding: 5px 2ch 5px 0; vertical-align: top; border-bottom: 1px dashed var(--rule); }
+  td.t, td.g { white-space: nowrap; }
+  td.g { color: var(--muted); padding-right: 0; }
+  tbody.today td.t span { background: var(--mark); padding: 0 .5ch; }
+  tr.day td { border: 0; padding-top: 14px; color: var(--muted); }
+  .v { color: var(--muted); display: block; width: fit-content; }
+  a.v { text-decoration: none; }
+  a.v:hover { color: var(--link); text-decoration: underline; }
+  details { color: var(--muted); font-size: .92em; }
+  summary { cursor: pointer; width: fit-content; }
+  details[open] { padding-bottom: 6px; }
+  details .v { margin-top: 4px; }
+  details p { margin: 6px 0 0; max-width: 60ch; }
+  details p a { margin-right: 2ch; }
+  dl.past { grid-template-columns: 14ch 1fr; }
+  .more { color: var(--muted); font-size: .92em; margin-top: 8px; }
+  dt.retired { color: var(--muted); }
+  dt.retired .name { text-decoration: line-through; }
+  .dot { color: var(--muted); }
+  .dot.on, .live { color: var(--live); }
+  .live:not([hidden]) { display: block; font-size: .9em; }
+  .new { color: var(--live); border: 1px solid; border-radius: 3px; padding: 0 .6ch; font-size: .8em; white-space: nowrap; }
+  .links { white-space: nowrap; }
+  .links a { margin-left: 1ch; }
+  @media (max-width: 640px) {
+    .art { margin-left: 0; font-size: 2.1vw; }
+    .where { margin-left: 4ch; }
+    table { width: 100%; }
+    td.g { display: none; }
+    /* stacked in one column here, so space the groups apart */
+    dl.groups dd { padding-bottom: 20px; }
+  }
+</style>
+
+<script>
+  const q = document.getElementById('q') as HTMLInputElement;
+  const table = document.getElementById('events')!;
+  const days = [...table.querySelectorAll<HTMLElement>('tbody')];
+  const count = document.getElementById('count')!, none = document.getElementById('none')!, stale = document.getElementById('stale')!;
+  const york = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/London' });
+  const short = new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/London', day: 'numeric', month: 'short' });
+
+  // A weekly regular carries all its dates; point it at the next one that hasn't finished.
+  function nextOccurrence(row: HTMLElement, now: number) {
+    const occ = JSON.parse(row.dataset.occ!).find((o: { end: string }) => Date.parse(o.end) > now);
+    if (!occ) return false;
+    row.querySelector<HTMLAnchorElement>('a.title')!.href = occ.url;
+    row.querySelector<HTMLAnchorElement>('a.cal')!.href = occ.ics;
+    row.dataset.start = occ.start; row.dataset.end = occ.end;
+    row.querySelector('.next')!.textContent = york.format(Date.parse(occ.start)) === york.format(now) ? 'today' : short.format(Date.parse(occ.start));
+    return true;
+  }
+
+  function draw() {
+    const words = q.value.toLowerCase().split(/\s+/).filter(Boolean);
+    const now = Date.now(), today = york.format(now), tomorrow = york.format(now + 864e5);
+    let live = 0, shown = 0;
+    for (const day of days) {
+      let any = false;
+      for (const row of day.querySelectorAll<HTMLElement>('tr[data-find]')) {
+        // a weekly regular's own-day row is a second copy, shown only today and left out of the counts
+        const copy = row.dataset.todayOnly !== undefined;
+        const current = row.dataset.occ ? nextOccurrence(row, now)
+          : Date.parse(row.dataset.end!) > now && (!copy || day.dataset.day === today);
+        const match = current && words.every(w => row.dataset.find!.includes(w));
+        row.hidden = !match;
+        const start = Date.parse(row.dataset.start!), end = Date.parse(row.dataset.end!);
+        row.querySelector<HTMLElement>('.live')!.hidden = !(start <= now && now < end);
+        // "new" for three days after an event is first announced
+        const fresh = row.querySelector<HTMLElement>('.new');
+        if (fresh) fresh.hidden = !(row.dataset.seen && now - Date.parse(row.dataset.seen) < 3 * 864e5);
+        if (match) any = true;
+        if (copy) continue;
+        if (current) live++;
+        if (match) shown++;
+      }
+      day.hidden = !any;
+      if (!day.dataset.day) continue;
+      day.classList.toggle('today', day.dataset.day === today);
+      day.querySelector('.rel')!.textContent = day.dataset.day === today ? ' (today)' : day.dataset.day === tomorrow ? ' (tomorrow)' : '';
+    }
+    count.textContent = words.length ? `Showing ${shown} of ${live} upcoming events` : `${live} upcoming events`;
+    none.hidden = shown > 0;
+    none.textContent = live ? `york: no events match '${q.value}'. Press Esc to see all ${live}.`
+      : 'york: nothing announced yet. New events appear here the morning after a group lists them.';
+
+    // The list is refreshed twice a day. If that has stopped, say so rather than look current.
+    const age = Math.floor((now - Date.parse(table.dataset.checked!)) / 864e5);
+    stale.hidden = age < 2;
+    stale.textContent = `Warning: this list was last refreshed ${age} days ago and may be out of date. Check each group's own page.`;
+  }
+  // The filter lives in the address too, so a filtered view can be shared as a link.
+  q.value = new URLSearchParams(location.search).get('q') ?? '';
+  q.addEventListener('input', () => {
+    history.replaceState(null, '', q.value ? `?q=${encodeURIComponent(q.value).replace(/%3A/g, ':').replace(/%20/g, '+')}` : location.pathname);
+    draw();
+  });
+  addEventListener('keydown', e => {
+    if (e.key === '/' && document.activeElement !== q) { e.preventDefault(); q.focus(); }
+    if (e.key === 'Escape') { q.value = ''; q.dispatchEvent(new Event('input')); }
+  });
+  draw();
+  setInterval(draw, 60_000);
+</script>

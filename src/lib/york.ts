@@ -22,7 +22,7 @@ export const TZ = 'Europe/London';
 // The content security policy every page carries. GitHub Pages can't send response headers, so
 // it goes in a <meta> tag. Scripts may only come from this site, plus Cloudflare's analytics
 // beacon: nothing inline.
-// Styles still allow inline, for the style attributes on /pro; Google is there for /pro's typeface.
+// Styles still allow inline, for the style attributes on the home page; Google is there for its typeface.
 export const CSP = [
   "default-src 'self'",
   // Cloudflare, which sits in front of the site, adds its Web Analytics beacon to every page
