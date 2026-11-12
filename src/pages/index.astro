@@ -84,7 +84,9 @@ const jsonLd = events.map(e => ({
   <title>York Developers: meetups and tech events in York, UK</title>
   <meta name="description" content={description}>
   <link rel="canonical" href={`${SITE}/`}>
-  <link rel="icon" href="/img/favicon-32x32.png">
+  <link rel="icon" type="image/svg+xml" href="/logo.svg">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
   <link rel="alternate" type="text/calendar" title="York tech events" href="/events.ics">
   <link rel="alternate" type="application/rss+xml" title="York tech events" href="/feed.xml">
   <meta property="og:type" content="website">
@@ -102,7 +104,7 @@ const jsonLd = events.map(e => ({
 </head>
 <body>
   <header class="nav">
-    <a class="brand" href="#top">York Developers</a>
+    <a class="brand" href="#top"><img src="/logo.svg" alt="" width="28" height="28">York Developers</a>
     <nav>
       <a href="#events">Events</a><a href="#groups">Groups</a><a href="#news">News</a><a href="#join">Get involved</a>
     </nav>
@@ -456,7 +458,8 @@ const jsonLd = events.map(e => ({
 
   .nav { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; gap: 28px; padding: 14px max(20px, calc(50vw - 570px));
     background: var(--nav); backdrop-filter: blur(14px); border-bottom: 1px solid var(--line); }
-  .brand { font-weight: 600; text-decoration: none; letter-spacing: -.01em; }
+  .brand { display: inline-flex; align-items: center; gap: 10px; font-weight: 600; text-decoration: none; letter-spacing: -.01em; }
+  .brand img { border-radius: 7px; }
   .nav nav { display: flex; gap: 24px; margin-left: auto; }
   .nav a { text-decoration: none; }
   .nav nav a, .plain { color: var(--subtext); font-size: .93rem; transition: color .15s; }
