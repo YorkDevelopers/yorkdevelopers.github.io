@@ -15,6 +15,19 @@
         "slurp"
       ],
       "seen": "2026-11-01T00:00:00.000Z"
+    },
+    {
+      "uid": "eventbrite-1999164892008",
+      "feed": "eventbrite:https://www.eventbrite.co.uk/o/women-in-tech-york-17303901312",
+      "group": "wit",
+      "title": "Think Before We Ship",
+      "start": "2026-11-12T18:00:00.000Z",
+      "end": "2026-11-12T21:00:00.000Z",
+      "url": "https://www.eventbrite.co.uk/e/think-before-we-ship-tickets-1999164892008",
+      "venue": "Revolution York Restaurant, Bar, Club",
+      "address": "1 Coney Street, York, YO1 9QL",
+      "summary": "Is \"Ship Fast, Learn Fast\" all it's cracked up to be? Join us to discuss!",
+      "seen": "2026-11-01T00:00:00.000Z"
     }
   ]
 }
