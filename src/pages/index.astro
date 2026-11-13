@@ -312,7 +312,7 @@ const jsonLd = events.map(e => ({
       </div>
 
       <div class="whatson">
-      <aside class="cal card reveal" id="cal" aria-label="Month calendar">
+      <aside class="cal card glow reveal" id="cal" aria-label="Month calendar">
         <div class="cal-head">
           <strong id="cal-title"></strong>
           <span>
@@ -515,7 +515,7 @@ const jsonLd = events.map(e => ({
   .card > * { position: relative; }
   /* a soft pool of light under the pointer */
   .glow::before { content: ''; position: absolute; inset: 0; pointer-events: none; opacity: 0; transition: opacity .25s;
-    background: radial-gradient(360px circle at var(--mx, 50%) var(--my, 50%), var(--glow), transparent 65%); }
+    background: radial-gradient(540px circle at var(--mx, 50%) var(--my, 50%), var(--glow), transparent 65%); }
   .glow.lit::before { opacity: 1; }
   .glow { transition: border-color .2s; }
   .glow:hover { border-color: var(--line-hi); }
@@ -693,7 +693,7 @@ const jsonLd = events.map(e => ({
 
   // A soft light follows the pointer. It is one pool of light, not one per card: every card
   // within reach of the pointer is lit, so the light carries across the gaps between them.
-  const REACH = 240, glows = [...document.querySelectorAll<HTMLElement>('.glow')];
+  const REACH = 360, glows = [...document.querySelectorAll<HTMLElement>('.glow')];
   let torch: PointerEvent | null = null, queued = false;
   const shine = () => {
     queued = false;
