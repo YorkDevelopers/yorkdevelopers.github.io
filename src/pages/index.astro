@@ -559,6 +559,9 @@ const jsonLd = events.map(e => ({
   .body { padding: 16px 20px 18px; }
   .host { display: flex; align-items: center; color: var(--subtext); font-size: .85rem; font-weight: 500; }
   .host .emoji, .chip .emoji { margin-right: 7px; }
+  /* In light mode emoji wash out on a near-white ground, so the surfaces behind them are a shade darker. */
+  :root[data-theme="light"] .mono.emoji { background: color-mix(in srgb, var(--c, var(--ink)) 24%, transparent); }
+  :root[data-theme="light"] .chip:has(.emoji):not(.on) { background: color-mix(in srgb, var(--ink) 7%, transparent); }
   .live { font-style: normal; margin-left: 10px; padding: 1px 8px; border-radius: 6px; background: color-mix(in srgb, var(--green) 16%, transparent); color: var(--green); font-size: .78rem; }
   h3 { font-size: clamp(1.1rem, 1.8vw, 1.3rem); font-weight: 600; line-height: 1.25; letter-spacing: -.02em; margin: 4px 0 8px; }
   h3 a { text-decoration: none; } h3 a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
