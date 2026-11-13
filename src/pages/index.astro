@@ -253,17 +253,6 @@ const jsonLd = events.map(e => ({
               <path d="M646 598L656 634" stroke-width="6" stroke={stone.light} fill="none" />
               <circle cx="656" cy="637" r="5.5" fill={stone.mid} />
             </g>
-            <!-- on days with local tech news, the near arm holds up the morning paper instead -->
-            <g class="arm" id="reading">
-              <path d="M646 598L664 622" stroke-width="10" stroke={stone.dark} fill="none" />
-              <path d="M646 598L664 622" stroke-width="6" stroke={stone.light} fill="none" />
-              <g transform="rotate(8 674 606)">
-                <rect x="656" y="582" width="36" height="48" rx="2" fill="#F4F4F5" stroke-width="1.5" />
-                <path d="M661 590h26" stroke-width="3.5" />
-                <path d="M661 598h11v9h-11zM677 598h10M677 602.5h10M677 607h10M661 613h26M661 618h26M661 623h18" stroke-width="1.2" fill="#C9C9CE" />
-              </g>
-              <circle cx="664" cy="623" r="5.5" fill={stone.mid} />
-            </g>
             <!-- neck and head, tipped right back to take in the towers -->
             <rect x="615" y="568" width="14" height="14" fill={stone.dark} />
             <g id="head" transform="rotate(-18 622 572)">
@@ -275,6 +264,18 @@ const jsonLd = events.map(e => ({
               <path d="M622 526V510" />
               <circle class="blink" cx="622" cy="506" r="4.5" fill="#D9B876" stroke="none" />
               <path d="M590 542v12M654 542v12" stroke-width="4" />
+            </g>
+            <!-- on days with local tech news, the near arm holds up the morning paper instead.
+                 Drawn last, so the paper passes in front of the head when the robot dances. -->
+            <g class="arm" id="reading">
+              <path d="M646 598L664 622" stroke-width="10" stroke={stone.dark} fill="none" />
+              <path d="M646 598L664 622" stroke-width="6" stroke={stone.light} fill="none" />
+              <g transform="rotate(8 674 606)">
+                <rect x="656" y="582" width="36" height="48" rx="2" fill="#F4F4F5" stroke-width="1.5" />
+                <path d="M661 590h26" stroke-width="3.5" />
+                <path d="M661 598h11v9h-11zM677 598h10M677 602.5h10M677 607h10M661 613h26M661 618h26M661 623h18" stroke-width="1.2" fill="#C9C9CE" />
+              </g>
+              <circle cx="664" cy="623" r="5.5" fill={stone.mid} />
             </g>
           </g>
           <!-- its drone, hovering by the tower for a better look -->
@@ -471,7 +472,8 @@ const jsonLd = events.map(e => ({
     --g1: #3A3A3D; --g2: #6E6E73; --g3: #55555A; --g4: #8E8E93; --g5: #1F1F21; --g6: #7C7C82;
   }
   * { box-sizing: border-box; }
-  html { scroll-behavior: smooth; scroll-padding-top: 84px; }
+  /* overflow-x: the drone flies off the sides of the page, and must not add a sideways scrollbar */
+  html { scroll-behavior: smooth; scroll-padding-top: 84px; overflow-x: clip; }
   body { margin: 0; color: var(--ink); font: 400 16px/1.55 var(--font); -webkit-font-smoothing: antialiased;
     background: radial-gradient(1100px 620px at 78% -8%, var(--wash), transparent 70%) no-repeat var(--base); }
   a { color: inherit; }
@@ -552,6 +554,9 @@ const jsonLd = events.map(e => ({
   #reading, #robot.reads #swing { display: none; } #robot.reads #reading { display: inline; }
   #robot.dance .arm { animation: wave .21s ease-in-out infinite alternate; }
   @keyframes wave { from { transform: rotate(-160deg); } to { transform: rotate(-115deg); } }
+  /* with the paper it flaps out to the side instead, clear of the face */
+  #robot.dance #reading { animation-name: flap; }
+  @keyframes flap { from { transform: rotate(-8deg); } to { transform: rotate(-50deg); } }
   .rotor { transform-box: fill-box; transform-origin: center; animation: rotor .16s linear infinite alternate; }
   @keyframes rotor { to { transform: scaleX(.3); } }
   /* on the light page the pale stone needs a little more weight to stand off the background */
@@ -844,7 +849,9 @@ const jsonLd = events.map(e => ({
     // it may go anywhere on the page: work out the page's edges in the drawing's own units
     const box = art.getBoundingClientRect(), unit = box.width / 700;
     const pageW = document.documentElement.clientWidth, pageH = document.documentElement.scrollHeight;
-    pos.x = Math.max((24 - box.left) / unit - HOME.x, Math.min((pageW - 24 - box.left) / unit - HOME.x, pos.x));
+    // off one side of the page, it comes back in on the other
+    const left = (-40 - box.left) / unit - HOME.x, right = (pageW + 40 - box.left) / unit - HOME.x;
+    if (pos.x < left) pos.x = right; else if (pos.x > right) pos.x = left;
     pos.y = Math.max((70 - box.top - scrollY) / unit - HOME.y, Math.min((pageH - 30 - box.top - scrollY) / unit - HOME.y, pos.y));
     // and the page scrolls to keep it in sight while it is being flown
     if (held.size) {
