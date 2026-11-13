@@ -1,3 +1,94 @@
 {
-  "candidates": []
+  "candidates": [
+    {
+      "status": "pending",
+      "found": "2026-11-13T21:14:37.320Z",
+      "id": "eventbrite-2003452318817",
+      "source": "Eventbrite",
+      "title": "New Earswick Digital Friendly York Coder Dojo",
+      "start": "2026-11-16T16:00:00.000Z",
+      "end": "2026-11-16T17:30:00.000Z",
+      "url": "https://www.eventbrite.co.uk/e/new-earswick-digital-friendly-york-coder-dojo-tickets-2003452318817",
+      "venue": "New Earswick Folk Hall",
+      "address": "Hawthorn Terrace, New Earswick, YO32 4AQ",
+      "summary": "Digital Friendly York Coder Dojo code club. A place for youngsters to develop their coding skills and meet new people.",
+      "host": "Digital Friendly York",
+      "announced": true
+    },
+    {
+      "status": "pending",
+      "found": "2026-11-13T21:14:37.320Z",
+      "id": "eventbrite-1998995444185",
+      "source": "Eventbrite",
+      "title": "Leading Edge Developments in Railway Technology, York University",
+      "start": "2026-11-17T08:00:00.000Z",
+      "end": "2026-11-18T00:30:00.000Z",
+      "url": "https://www.eventbrite.co.uk/e/leading-edge-developments-in-railway-technology-york-university-tickets-1998995444185",
+      "venue": "Institute for Safe Autonomy, University of York",
+      "address": "University of York, York, YO10 5FT",
+      "summary": "Join the IRSE at the University of York on 17 and 18 November for 1.5 days of insightful seminars",
+      "host": "IRSE",
+      "announced": true
+    },
+    {
+      "status": "pending",
+      "found": "2026-11-13T21:14:37.320Z",
+      "id": "eventbrite-2000144122914",
+      "source": "Eventbrite",
+      "title": "The Cybernetic Classmate and Me: AI Tools for the Classroom",
+      "start": "2026-11-30T08:30:00.000Z",
+      "end": "2026-11-30T16:15:00.000Z",
+      "url": "https://www.eventbrite.co.uk/e/the-cybernetic-classmate-and-me-ai-tools-for-the-classroom-tickets-2000144122914",
+      "venue": "York College",
+      "address": "Sim Balk Lane, Bishopthorpe, YO23 2BB",
+      "summary": "Discover safe, practical ways to use AI in education. Transform teaching, boost efficiency, and protect learners. Book your place now!",
+      "host": "EducationScape Training & Events",
+      "announced": true
+    },
+    {
+      "status": "pending",
+      "found": "2026-11-13T21:14:37.320Z",
+      "id": "eventbrite-2003289850871",
+      "source": "Eventbrite",
+      "title": "The Legacy Day",
+      "start": "2026-12-01T09:00:00.000Z",
+      "end": "2026-12-01T17:00:00.000Z",
+      "url": "https://www.eventbrite.co.uk/e/the-legacy-day-tickets-2003289850871",
+      "venue": "The Grand, York",
+      "address": "Station Rise, York, YO1 6GD",
+      "summary": "A day built around one big question: how do you build something worth passing on, and then protect it?",
+      "host": "Ian Morton",
+      "announced": true
+    },
+    {
+      "status": "pending",
+      "found": "2026-11-13T21:14:37.320Z",
+      "id": "eventbrite-2002301133591",
+      "source": "Eventbrite",
+      "title": "Digital Friendly York Coder Dojo Acomb",
+      "start": "2026-12-05T10:00:00.000Z",
+      "end": "2026-12-05T11:30:00.000Z",
+      "url": "https://www.eventbrite.co.uk/e/digital-friendly-york-coder-dojo-acomb-tickets-2002301133591",
+      "venue": "Our Lady's Catholic Church Parish Hall",
+      "address": "Cornlands Road, York, YO24 3DX",
+      "summary": "Digital Friendly York Coder Dojo code club. A place for youngsters to develop their coding skills and meet new people.",
+      "host": "Digital Friendly York",
+      "announced": true
+    },
+    {
+      "status": "pending",
+      "found": "2026-11-13T21:14:37.320Z",
+      "id": "eventbrite-1992810323322",
+      "source": "Eventbrite",
+      "title": "slurp 'n Learn -  AI Community and Education",
+      "start": "2026-12-09T18:00:00.000Z",
+      "end": "2026-12-09T21:00:00.000Z",
+      "url": "https://www.eventbrite.co.uk/e/slurp-n-learn-ai-community-and-education-tickets-1992810323322",
+      "venue": "Patch York",
+      "address": "Terry Avenue, York, YO1 6FA",
+      "summary": "slurp some knowledge, and dive into AI with your community. From expert deep dives to business basics, explore and grow together.",
+      "host": "slurp",
+      "announced": true
+    }
+  ]
 }
