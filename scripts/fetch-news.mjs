@@ -41,12 +41,15 @@ function parseFeed(xml) {
   }));
 }
 
+// A publisher is on a source's list if its name contains one of the listed names.
+const listed = (source, via) => !source.publishers || source.publishers.some(p => via.toLowerCase().includes(p.toLowerCase()));
+
 const fresh = [];
 for (const source of sources) {
   try {
     const items = parseFeed(await page(source.url)).filter(i => i.title && webUrl(i.url) && !isNaN(i.date));
     const kept = items.filter(i =>
-      (tech.test(i.title) || ai.test(i.title)) && !blocked.test(i.title) &&
+      (tech.test(i.title) || ai.test(i.title)) && !blocked.test(i.title) && listed(source, i.via) &&
       (source.local || york.test(i.title) || york.test(i.summary.slice(0, 300))));
     for (const i of kept) {
       // Google News appends " - Publisher" to every headline
@@ -64,7 +67,7 @@ const key = t => t.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim().slice(0, 60)
 const cutoff = Date.now() - KEEP_DAYS * 864e5;
 const seen = new Set();
 const items = [...previous.items, ...fresh]
-  .filter(i => Date.parse(i.date) > cutoff && !seen.has(key(i.title)) && seen.add(key(i.title)))
+  .filter(i => Date.parse(i.date) > cutoff && !blocked.test(i.title) && !seen.has(key(i.title)) && seen.add(key(i.title)))
   .sort((a, b) => b.date.localeCompare(a.date)).slice(0, KEEP_ITEMS);
 
 await writeFile(OUT, JSON.stringify({ items }, null, 2) + '\n');

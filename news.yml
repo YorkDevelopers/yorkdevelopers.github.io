@@ -4,6 +4,9 @@
 #   local: true    everything in this feed is about York, so only the tech test applies
 #   local: false   the headline or summary must also mention York
 #
+# `publishers` (Google News only, which searches the whole world): a story is kept only if its
+# original publisher is on this list. Add an outlet here if it covers York and is being missed.
+#
 # `block` lists words or phrases; any headline containing one is dropped.
 # The tech test itself is the TECH list at the top of scripts/fetch-news.mjs.
 
@@ -26,9 +29,26 @@ sources:
   - name: Google News
     url: https://news.google.com/rss/search?q=York+(software+OR+tech+OR+%22artificial+intelligence%22+OR+digital+OR+cyber+OR+startup)+-%22New+York%22+when:14d&hl=en-GB&gl=GB&ceid=GB:en
     local: false
+    publishers:
+      - York Press
+      - YorkMix
+      - University of York
+      - York St John University
+      - City of York Council
+      - BBC
+      - Yorkshire Post
+      - Yorkshire Live
+      - Yorkshire Evening Post
+      - The Northern Echo
+      - TheBusinessDesk
+      - Prolific North
+      - Insider Media
+      - Bdaily
+      - UKTN
 
 block:
   - New York
+  - York Space
   - NYC
   - York Region
   - York University
