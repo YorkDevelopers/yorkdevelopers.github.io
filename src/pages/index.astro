@@ -1,7 +1,7 @@
 ---
 // The home page: a modern, polished layout with the Minster and a visiting robot as its one
 // illustration. The same listings are also at /man, laid out as a Unix manual page.
-import { groups, upcoming, groupById, groupsOf, hostName, news, fetchedAt, fmt, mapLink, slug, json, CSP, SITE } from '../lib/york';
+import { groups, upcoming, groupById, groupsOf, hostName, news, fetchedAt, fmt, dayKey, mapLink, slug, json, CSP, SITE } from '../lib/york';
 import '@fontsource-variable/geist';
 import type { Event, Group } from '../lib/york';
 
@@ -108,7 +108,7 @@ const jsonLd = events.map(e => ({
   <header class="nav">
     <a class="brand" href="#top"><img src="/logo.svg" alt="" width="28" height="28">York Developers</a>
     <nav>
-      <a href="#events">Events</a><a href="#groups">Groups</a><a href="#news">News</a><a href="#join">Get involved</a>
+      <a href="#events">Events</a><a href="#news">News</a><a href="#groups">Groups</a><a href="#join">Get involved</a>
     </nav>
     <button class="mode" id="theme" type="button" hidden></button>
     <a class="plain" href="/man/">Man page</a>
@@ -248,10 +248,21 @@ const jsonLd = events.map(e => ({
               <path class="steam" d="M567 592q-4 -6 0 -11t0 -10M574 592q-4 -6 0 -11t0 -10" stroke="#D4D4D8" stroke-width="1.6" fill="none" opacity=".7" />
             </g>
             <!-- near arm, swinging -->
-            <g class="arm">
+            <g class="arm" id="swing">
               <path d="M646 598L656 634" stroke-width="10" stroke={stone.dark} fill="none" />
               <path d="M646 598L656 634" stroke-width="6" stroke={stone.light} fill="none" />
               <circle cx="656" cy="637" r="5.5" fill={stone.mid} />
+            </g>
+            <!-- on days with local tech news, the near arm holds up the morning paper instead -->
+            <g class="arm" id="reading">
+              <path d="M646 598L664 622" stroke-width="10" stroke={stone.dark} fill="none" />
+              <path d="M646 598L664 622" stroke-width="6" stroke={stone.light} fill="none" />
+              <g transform="rotate(8 674 606)">
+                <rect x="656" y="582" width="36" height="48" rx="2" fill="#F4F4F5" stroke-width="1.5" />
+                <path d="M661 590h26" stroke-width="3.5" />
+                <path d="M661 598h11v9h-11zM677 598h10M677 602.5h10M677 607h10M661 613h26M661 618h26M661 623h18" stroke-width="1.2" fill="#C9C9CE" />
+              </g>
+              <circle cx="664" cy="623" r="5.5" fill={stone.mid} />
             </g>
             <!-- neck and head, tipped right back to take in the towers -->
             <rect x="615" y="568" width="14" height="14" fill={stone.dark} />
@@ -281,6 +292,14 @@ const jsonLd = events.map(e => ({
         <p class="toy-hint" id="toy-hint" aria-live="polite"></p>
       </div>
     </section>
+
+    <!-- Headlines dated today, two at most. The page shows them only on the day itself. -->
+    {news.length > 0 && (
+      <aside class="today" id="today" aria-label="In the news today" hidden>
+        <span class="today-label">In the news today</span>
+        {news.slice(0, 6).map(n => <a href={n.url} data-day={dayKey(n.date)} hidden>{n.title}<span>{n.source}</span></a>)}
+      </aside>
+    )}
 
     <section id="events">
       <h2 class="reveal">What’s on</h2>
@@ -352,6 +371,20 @@ const jsonLd = events.map(e => ({
       </div>
     </section>
 
+    {news.length > 0 && (
+      <section id="news">
+        <h2 class="reveal">In the news</h2>
+        <ul class="stories">
+          {news.slice(0, 6).map(n => (
+            <li class="reveal">
+              <a href={n.url}>{n.title}</a>
+              <span>{n.source}, {fmt(n.date, { day: 'numeric', month: 'short' })}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
     <section id="groups">
       <h2 class="reveal">The groups</h2>
       <div class="tiles">
@@ -370,20 +403,6 @@ const jsonLd = events.map(e => ({
         Retired, with thanks: {retired.map(g => g.name).join(', ')}.
       </p>
     </section>
-
-    {news.length > 0 && (
-      <section id="news">
-        <h2 class="reveal">In the news</h2>
-        <ul class="stories">
-          {news.slice(0, 6).map(n => (
-            <li class="reveal">
-              <a href={n.url}>{n.title}</a>
-              <span>{n.source}, {fmt(n.date, { day: 'numeric', month: 'short' })}</span>
-            </li>
-          ))}
-        </ul>
-      </section>
-    )}
 
     <section id="join">
       <h2 class="reveal">Get involved</h2>
@@ -528,6 +547,7 @@ const jsonLd = events.map(e => ({
   #robot.dance { animation: dance .42s ease-in-out infinite alternate; }
   @keyframes dance { from { transform: rotate(-7deg); } to { transform: rotate(7deg) translateY(-10px); } }
   #robot .arm { transform-box: view-box; transform-origin: 646px 598px; }
+  #reading, #robot.reads #swing { display: none; } #robot.reads #reading { display: inline; }
   #robot.dance .arm { animation: wave .21s ease-in-out infinite alternate; }
   @keyframes wave { from { transform: rotate(-160deg); } to { transform: rotate(-115deg); } }
   .rotor { transform-box: fill-box; transform-origin: center; animation: rotor .16s linear infinite alternate; }
@@ -617,6 +637,12 @@ const jsonLd = events.map(e => ({
   .quiet a { text-decoration-color: var(--line-hi); text-underline-offset: 3px; } .quiet a:hover { color: var(--ink); }
 
   /* news */
+  .today { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 28px; margin-top: 48px; padding: 14px 0; border-block: 1px solid var(--line); }
+  .today[hidden], .today a[hidden] { display: none; }
+  .today-label { color: var(--accent-hi); font-weight: 500; font-size: .85rem; flex: none; }
+  .today a { flex: 1 1 300px; font-weight: 500; line-height: 1.35; text-decoration: none; } .today a:hover { color: var(--accent-hi); }
+  .today a span { color: var(--subtext); font-weight: 400; font-size: .85rem; margin-left: 8px; white-space: nowrap; }
+  .today + section { padding-top: 40px; }
   .stories { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 0 48px; border-top: 1px solid var(--line); }
   .stories li { padding: 14px 0; border-bottom: 1px solid var(--line); }
   .stories a { display: block; font-weight: 500; text-decoration: none; line-height: 1.35; } .stories a:hover { color: var(--accent-hi); }
@@ -836,7 +862,9 @@ const jsonLd = events.map(e => ({
 
     // the head tips towards wherever the drone is, easing so it never snaps
     const look = Math.atan2(at.x - NECK.x, NECK.y - at.y) * 180 / Math.PI;
-    const aim = Math.max(-40, Math.min(34, -12 + look * .55)) + (calm ? 0 : 2 * Math.sin(now / 900));
+    // with a paper to read it looks down at that, unless the drone is being flown
+    const reading = robot.classList.contains('reads') && now > manualUntil;
+    const aim = (reading ? 15 : Math.max(-40, Math.min(34, -12 + look * .55))) + (calm ? 0 : 2 * Math.sin(now / 900));
     headAngle += (aim - headAngle) * Math.min(1, dt * .006);
     head.setAttribute('transform', `rotate(${headAngle.toFixed(2)} ${NECK.x} ${NECK.y})`);
 
@@ -888,6 +916,12 @@ const jsonLd = events.map(e => ({
   const pulse = () => {
     heart.classList.toggle('beat', all.some(e => Date.parse(e.e) > now() && iso(Date.parse(e.s)) === iso(now())));
     part('coffee').classList.toggle('on', ['Monday', 'Wednesday'].includes(weekday.format(now())));
+    // Today's headlines, two at most; and with news to read, the robot gets out the paper.
+    const fresh = [...document.querySelectorAll<HTMLElement>('#today a')].filter(a => a.dataset.day === iso(now()));
+    document.querySelectorAll<HTMLElement>('#today a').forEach(a => a.hidden = !fresh.slice(0, 2).includes(a));
+    const strip = document.getElementById('today');
+    if (strip) strip.hidden = !fresh.length;
+    robot.classList.toggle('reads', fresh.length > 0);
   };
 
   const refresh = () => { show(); next(); pulse(); };
