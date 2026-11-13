@@ -6,7 +6,7 @@
 // Eventbrite's York listings (its science and tech category, plus a few keyword searches).
 import { readFile, writeFile } from 'node:fs/promises';
 import { parse } from 'yaml';
-import { page, summarise, meetupVenue, webUrl, fromZone } from './lib.mjs';
+import { page, summarise, meetupVenue, webUrl, fromZone, UA } from './lib.mjs';
 
 const FILE = new URL('../src/data/candidates.json', import.meta.url);
 const YORK = { lat: 53.959, lon: -1.082 };
@@ -66,14 +66,17 @@ const TECH = /\b(game ?dev\w*|game ?makers?\w*|developers?|software|programm\w+|
 
 async function eventbrite() {
   const found = new Map();
-  let read = 0;
+  let read = 0, why = '';
   for (const search of EVENTBRITE_SEARCHES) {
     let results;
     try {
-      const html = await page(`https://www.eventbrite.co.uk/d/united-kingdom--york/${search}/`);
-      results = JSON.parse(html.match(/window\.__SERVER_DATA__\s*=\s*(\{.*?\});\s*$/m)[1]).search_data.events.results;
+      const res = await fetch(`https://www.eventbrite.co.uk/d/united-kingdom--york/${search}/`, {
+        headers: { ...UA, accept: 'text/html,application/xhtml+xml', 'accept-language': 'en-GB,en;q=0.9' },
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      results = JSON.parse((await res.text()).match(/window\.__SERVER_DATA__\s*=\s*(\{.*?\});\s*$/m)[1]).search_data.events.results;
       read++;
-    } catch { continue; }
+    } catch (err) { why = err.message; continue; }
     for (const e of results) {
       const at = e.primary_venue?.address;
       if (e.is_online_event || e.is_cancelled || !at?.latitude || km(+at.latitude, +at.longitude) > MAX_KM) continue;
@@ -88,7 +91,7 @@ async function eventbrite() {
       });
     }
   }
-  if (!read) throw new Error('no search page could be read');
+  if (!read) throw new Error(`no search page could be read: ${why}`);
   // The search results don't name the organiser: read it from the event page, once per event.
   for (const c of found.values()) {
     c.host = known.get(c.id)?.host ?? await page(c.url).then(
