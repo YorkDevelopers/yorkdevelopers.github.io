@@ -286,7 +286,7 @@ const jsonLd = events.map(e => ({
       <h2 class="reveal">What’s on</h2>
       <div class="chips reveal" role="group" aria-label="Show events from">
         <button class="chip on" data-g="">All groups</button>
-        {active.map(g => <button class={`chip ${colour(g)}`} data-g={g.id}><i class="dot"></i>{g.name}</button>)}
+        {active.map(g => <button class={`chip ${colour(g)}`} data-g={g.id}>{g.icon ? <span class="emoji" aria-hidden="true">{g.icon}</span> : <i class="dot"></i>}{g.name}</button>)}
       </div>
 
       <div class="whatson">
@@ -308,7 +308,7 @@ const jsonLd = events.map(e => ({
             const e = items[0], g = groupById(e.group);
             return (
               <a class={`card glow reveal regular ${colour(g)}`} id={`reg-${slug(e)}`} href={e.url} data-groups={g.id} data-end={items.at(-1)!.end}>
-                <span class="mono">{badge(g)}</span>
+                {g.icon ? <span class="mono emoji" aria-hidden="true">{g.icon}</span> : <span class="mono">{badge(g)}</span>}
                 <span>
                   <span class="every">Every {fmt(e.start, { weekday: 'long' })}, {time(e.start)} to {time(e.end)}</span>
                   <strong>{title(e).replace(/\s*\((Mon|Wednes)day\)$/, '').replace(/^Weekly Tech Social - /, '')}</strong>
@@ -558,7 +558,7 @@ const jsonLd = events.map(e => ({
   .date b { font-size: 1.75rem; font-weight: 600; line-height: 1.1; letter-spacing: -.03em; color: var(--ink); font-variant-numeric: tabular-nums; }
   .body { padding: 16px 20px 18px; }
   .host { display: flex; align-items: center; color: var(--subtext); font-size: .85rem; font-weight: 500; }
-  .host .emoji { margin-right: 7px; }
+  .host .emoji, .chip .emoji { margin-right: 7px; }
   .live { font-style: normal; margin-left: 10px; padding: 1px 8px; border-radius: 6px; background: color-mix(in srgb, var(--green) 16%, transparent); color: var(--green); font-size: .78rem; }
   h3 { font-size: clamp(1.1rem, 1.8vw, 1.3rem); font-weight: 600; line-height: 1.25; letter-spacing: -.02em; margin: 4px 0 8px; }
   h3 a { text-decoration: none; } h3 a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
