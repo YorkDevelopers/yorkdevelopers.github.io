@@ -125,6 +125,14 @@
   eventbrite: https://www.eventbrite.co.uk/o/women-in-tech-york-17303901312
   tags: wit women
 
+- id: guild
+  icon: 🕹️
+  name: York Game Makers Guild
+  about: A social meetup for game makers in and around York
+  url: https://www.eventbrite.com/o/york-game-makers-guild-120980771551
+  eventbrite: https://www.eventbrite.com/o/york-game-makers-guild-120980771551
+  tags: gamedev games game makers
+
 - id: mage
   name: Mage Dev York
   about: Magento
