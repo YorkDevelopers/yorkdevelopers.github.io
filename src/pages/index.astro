@@ -295,10 +295,12 @@ const jsonLd = events.map(e => ({
 
     <!-- Headlines dated today, two at most. The page shows them only on the day itself. -->
     {news.length > 0 && (
-      <aside class="today" id="today" aria-label="In the news today" hidden>
-        <span class="today-label">In the news today</span>
-        {news.slice(0, 6).map(n => <a href={n.url} data-day={dayKey(n.date)} hidden>{n.title}<span>{n.source}</span></a>)}
-      </aside>
+      <section id="today" hidden>
+        <h2>In the news today</h2>
+        <ul class="stories">
+          {news.slice(0, 6).map(n => <li data-day={dayKey(n.date)} hidden><a href={n.url}>{n.title}</a><span>{n.source}</span></li>)}
+        </ul>
+      </section>
     )}
 
     <section id="events">
@@ -579,9 +581,11 @@ const jsonLd = events.map(e => ({
   .body { padding: 16px 20px 18px; }
   .host { display: flex; align-items: center; color: var(--subtext); font-size: .85rem; font-weight: 500; }
   .host .emoji, .chip .emoji { margin-right: 7px; }
-  /* In light mode emoji wash out on a near-white ground, so the surfaces behind them are a shade darker. */
-  :root[data-theme="light"] .mono.emoji { background: color-mix(in srgb, var(--c, var(--ink)) 24%, transparent); }
-  :root[data-theme="light"] .chip:has(.emoji):not(.on) { background: color-mix(in srgb, var(--ink) 7%, transparent); }
+  /* In light mode pale emoji (the cup, the gem) have no edge against a white ground, so each
+     gets a faint shadow that traces its outline, on a plain white surface. */
+  :root[data-theme="light"] .emoji { text-shadow: 0 1px 1.5px rgba(0, 0, 0, .45); }
+  :root[data-theme="light"] .mono.emoji { background: var(--raised); border-color: var(--line); }
+  :root[data-theme="light"] .chip:has(.emoji) { background: var(--raised); }
   .live { font-style: normal; margin-left: 10px; padding: 1px 8px; border-radius: 6px; background: color-mix(in srgb, var(--green) 16%, transparent); color: var(--green); font-size: .78rem; }
   h3 { font-size: clamp(1.1rem, 1.8vw, 1.3rem); font-weight: 600; line-height: 1.25; letter-spacing: -.02em; margin: 4px 0 8px; }
   h3 a { text-decoration: none; } h3 a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
@@ -637,12 +641,6 @@ const jsonLd = events.map(e => ({
   .quiet a { text-decoration-color: var(--line-hi); text-underline-offset: 3px; } .quiet a:hover { color: var(--ink); }
 
   /* news */
-  .today { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 28px; margin-top: 48px; padding: 14px 0; border-block: 1px solid var(--line); }
-  .today[hidden], .today a[hidden] { display: none; }
-  .today-label { color: var(--accent-hi); font-weight: 500; font-size: .85rem; flex: none; }
-  .today a { flex: 1 1 300px; font-weight: 500; line-height: 1.35; text-decoration: none; } .today a:hover { color: var(--accent-hi); }
-  .today a span { color: var(--subtext); font-weight: 400; font-size: .85rem; margin-left: 8px; white-space: nowrap; }
-  .today + section { padding-top: 40px; }
   .stories { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 0 48px; border-top: 1px solid var(--line); }
   .stories li { padding: 14px 0; border-bottom: 1px solid var(--line); }
   .stories a { display: block; font-weight: 500; text-decoration: none; line-height: 1.35; } .stories a:hover { color: var(--accent-hi); }
@@ -917,8 +915,9 @@ const jsonLd = events.map(e => ({
     heart.classList.toggle('beat', all.some(e => Date.parse(e.e) > now() && iso(Date.parse(e.s)) === iso(now())));
     part('coffee').classList.toggle('on', ['Monday', 'Wednesday'].includes(weekday.format(now())));
     // Today's headlines, two at most; and with news to read, the robot gets out the paper.
-    const fresh = [...document.querySelectorAll<HTMLElement>('#today a')].filter(a => a.dataset.day === iso(now()));
-    document.querySelectorAll<HTMLElement>('#today a').forEach(a => a.hidden = !fresh.slice(0, 2).includes(a));
+    const stories = [...document.querySelectorAll<HTMLElement>('#today li')];
+    const fresh = stories.filter(li => li.dataset.day === iso(now()));
+    for (const li of stories) li.hidden = !fresh.slice(0, 2).includes(li);
     const strip = document.getElementById('today');
     if (strip) strip.hidden = !fresh.length;
     robot.classList.toggle('reads', fresh.length > 0);
