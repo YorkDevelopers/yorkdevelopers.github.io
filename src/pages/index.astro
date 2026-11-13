@@ -331,7 +331,7 @@ const jsonLd = events.map(e => ({
                 <span>{fmt(e.start, { month: 'short' })}</span>
               </div>
               <div class="body">
-                <span class="host"><i class="dot"></i>{hostName(e)} <i class="live" hidden>On now</i></span>
+                <span class="host">{g.icon ? <span class="emoji" aria-hidden="true">{g.icon}</span> : <i class="dot"></i>}{hostName(e)} <i class="live" hidden>On now</i></span>
                 <h3><a href={e.url}>{title(e)}</a></h3>
                 <p class="meta">
                   <span><Fragment set:html={icon('clock')} />{time(e.start)} to {time(e.end)}</span>
@@ -357,7 +357,7 @@ const jsonLd = events.map(e => ({
       <div class="tiles">
         {active.map(g => (
           <a class={`tile card glow reveal ${colour(g)}`} href={g.url}>
-            <span class="mono">{badge(g)}</span>
+            {g.icon ? <span class="mono emoji" aria-hidden="true">{g.icon}</span> : <span class="mono">{badge(g)}</span>}
             <strong>{g.name}</strong>
             <span class="about">{g.about.replace(/\.$/, '')}</span>
             <span class="when"><i class="dot on"></i>Next: {fmt(nextFor.get(g.id)!, { weekday: 'short', day: 'numeric', month: 'short' })}</span>
@@ -545,6 +545,7 @@ const jsonLd = events.map(e => ({
   .chip.on { color: var(--ink); background: var(--raised); border-color: var(--subtext); }
   .mono { display: grid; place-items: center; width: 36px; height: 36px; border-radius: 8px; font-size: .78rem; font-weight: 600; letter-spacing: .02em; flex: none;
     color: var(--c, var(--ink)); background: color-mix(in srgb, var(--c, var(--ink)) 13%, transparent); border: 1px solid color-mix(in srgb, var(--c, var(--ink)) 30%, transparent); }
+  .mono.emoji { font-size: 1.15rem; letter-spacing: 0; }
   .weekly { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; margin-bottom: 12px; }
   .regular { display: flex; gap: 14px; align-items: flex-start; padding: 16px 18px; text-decoration: none; }
   .regular > span:last-child { display: grid; gap: 2px; }
@@ -557,6 +558,7 @@ const jsonLd = events.map(e => ({
   .date b { font-size: 1.75rem; font-weight: 600; line-height: 1.1; letter-spacing: -.03em; color: var(--ink); font-variant-numeric: tabular-nums; }
   .body { padding: 16px 20px 18px; }
   .host { display: flex; align-items: center; color: var(--subtext); font-size: .85rem; font-weight: 500; }
+  .host .emoji { margin-right: 7px; }
   .live { font-style: normal; margin-left: 10px; padding: 1px 8px; border-radius: 6px; background: color-mix(in srgb, var(--green) 16%, transparent); color: var(--green); font-size: .78rem; }
   h3 { font-size: clamp(1.1rem, 1.8vw, 1.3rem); font-weight: 600; line-height: 1.25; letter-spacing: -.02em; margin: 4px 0 8px; }
   h3 a { text-decoration: none; } h3 a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
