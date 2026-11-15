@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T11:15:26.517Z",
+  "fetchedAt": "2026-11-15T20:12:34.336Z",
   "events": [
     {
       "uid": "manual-coffee-2026-11-16-08-00",
@@ -14,19 +14,6 @@
       "summary": "The Monday morning Code and Coffee. A sociable group of tech people meeting before the working day to talk software, data, agile and the latest tech news. Just turn up.",
       "series": true,
       "seen": "2026-11-11T12:50:41.346Z"
-    },
-    {
-      "uid": "event_317360825@meetup.com",
-      "feed": "meetup:yorkdevelopers",
-      "group": "ruby",
-      "title": "York Ruby - Monthly Meeting",
-      "start": "2026-11-17T19:00:00.000Z",
-      "end": "2026-11-17T22:00:00.000Z",
-      "url": "https://www.meetup.com/yorkdevelopers/events/317360825/",
-      "venue": "The Little Ale House - York",
-      "address": "46 Stonegate, York YO1 8AS, UK, York",
-      "summary": "York Ruby is a user group for those interested in the Ruby programming language in York and surrounding areas! Anyone is welcome whether you're just starting out, a seasoned Ruby programmer, or just curious. We're back at The Little Ale House, 46 Stonegate, York YO1 8AS",
-      "seen": "2026-11-01T00:00:00.000Z"
     },
     {
       "uid": "event_317186983@meetup.com",
@@ -53,6 +40,19 @@
       "venue": "House Of Trembling Madness // Lendal (No table bookings)",
       "address": "14 Lendal, York",
       "summary": "Our regular meetup at the House of Trembling Madness (Lendal). Third Wednesday of the month. We have the right hand meeting room booked, right at the top of the pub, ask the staff if you have any trouble finding.",
+      "seen": "2026-11-01T00:00:00.000Z"
+    },
+    {
+      "uid": "event_317360825@meetup.com",
+      "feed": "meetup:yorkdevelopers",
+      "group": "ruby",
+      "title": "York Ruby - Monthly Meeting",
+      "start": "2026-11-18T19:00:00.000Z",
+      "end": "2026-11-18T22:00:00.000Z",
+      "url": "https://www.meetup.com/yorkdevelopers/events/317360825/",
+      "venue": "The Little Ale House - York",
+      "address": "46 Stonegate, York YO1 8AS, UK, York",
+      "summary": "York Ruby is a user group for those interested in the Ruby programming language in York and surrounding areas! Anyone is welcome whether you're just starting out, a seasoned Ruby programmer, or just curious. We're back at The Little Ale House, 46 Stonegate, York YO1 8AS",
       "seen": "2026-11-01T00:00:00.000Z"
     },
     {
