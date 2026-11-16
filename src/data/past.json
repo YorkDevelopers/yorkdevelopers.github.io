@@ -28,6 +28,20 @@
       "address": "1 Coney Street, York, YO1 9QL",
       "summary": "Is \"Ship Fast, Learn Fast\" all it's cracked up to be? Join us to discuss!",
       "seen": "2026-11-01T00:00:00.000Z"
+    },
+    {
+      "uid": "manual-coffee-2026-11-16-08-00",
+      "feed": "manual",
+      "group": "coffee",
+      "title": "Weekly Tech Social - Code and Coffee (Monday)",
+      "start": "2026-11-16T08:00:00.000Z",
+      "end": "2026-11-16T10:00:00.000Z",
+      "url": "https://www.meetup.com/yorkdevelopers/",
+      "venue": "Caffè Nero, Spurriergate",
+      "address": "York",
+      "summary": "The Monday morning Code and Coffee. A sociable group of tech people meeting before the working day to talk software, data, agile and the latest tech news. Just turn up.",
+      "series": true,
+      "seen": "2026-11-11T12:50:41.346Z"
     }
   ]
 }
