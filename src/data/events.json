@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-16T23:39:57.877Z",
+  "fetchedAt": "2026-11-17T12:51:32.935Z",
   "events": [
     {
       "uid": "event_317186983@meetup.com",
@@ -21,11 +21,11 @@
       "group": "games",
       "title": "Game Developers, Monthly Meeting",
       "start": "2026-11-18T19:00:00.000Z",
-      "end": "2026-11-18T21:00:00.000Z",
+      "end": "2026-11-18T22:00:00.000Z",
       "url": "https://www.meetup.com/yorkdevelopers/events/315302129/",
       "venue": "House Of Trembling Madness // Lendal (No table bookings)",
       "address": "14 Lendal, York",
-      "summary": "Our regular meetup at the House of Trembling Madness (Lendal). Third Wednesday of the month. We have the right hand meeting room booked, right at the top of the pub, ask the staff if you have any trouble finding.",
+      "summary": "Our monthly game Dev meet up, this month's is at Up A Level on Feasegate.",
       "seen": "2026-11-01T00:00:00.000Z"
     },
     {
@@ -287,6 +287,20 @@
       "summary": "The Monday morning Code and Coffee. A sociable group of tech people meeting before the working day to talk software, data, agile and the latest tech news. Just turn up.",
       "series": true,
       "seen": "2026-11-11T12:50:41.346Z"
+    },
+    {
+      "uid": "manual-coffee-2027-01-11-08-00",
+      "feed": "manual",
+      "group": "coffee",
+      "title": "Weekly Tech Social - Code and Coffee (Monday)",
+      "start": "2027-01-11T08:00:00.000Z",
+      "end": "2027-01-11T10:00:00.000Z",
+      "url": "https://www.meetup.com/yorkdevelopers/",
+      "venue": "Caffè Nero, Spurriergate",
+      "address": "York",
+      "summary": "The Monday morning Code and Coffee. A sociable group of tech people meeting before the working day to talk software, data, agile and the latest tech news. Just turn up.",
+      "series": true,
+      "seen": "2026-11-17T12:51:32.935Z"
     },
     {
       "uid": "eventbrite-2000371580245",
