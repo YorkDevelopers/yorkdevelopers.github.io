@@ -56,6 +56,32 @@
       "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech news and more! Are you looking for your first step in the York Tech Community or if you are looking ...",
       "series": true,
       "seen": "2026-11-01T00:00:00.000Z"
+    },
+    {
+      "uid": "event_315302129@meetup.com",
+      "feed": "meetup:yorkdevelopers",
+      "group": "games",
+      "title": "Game Developers, Monthly Meeting",
+      "start": "2026-11-18T19:00:00.000Z",
+      "end": "2026-11-18T22:00:00.000Z",
+      "url": "https://www.meetup.com/yorkdevelopers/events/315302129/",
+      "venue": "House Of Trembling Madness // Lendal (No table bookings)",
+      "address": "14 Lendal, York",
+      "summary": "Our monthly game Dev meet up, this month's is at Up A Level on Feasegate.",
+      "seen": "2026-11-01T00:00:00.000Z"
+    },
+    {
+      "uid": "event_317360825@meetup.com",
+      "feed": "meetup:yorkdevelopers",
+      "group": "ruby",
+      "title": "York Ruby - Monthly Meeting",
+      "start": "2026-11-18T19:00:00.000Z",
+      "end": "2026-11-18T22:00:00.000Z",
+      "url": "https://www.meetup.com/yorkdevelopers/events/317360825/",
+      "venue": "The Little Ale House - York",
+      "address": "46 Stonegate, York YO1 8AS, UK, York",
+      "summary": "York Ruby is a user group for those interested in the Ruby programming language in York and surrounding areas! Anyone is welcome whether you're just starting out, a seasoned Ruby programmer, or just curious. We're back at The Little Ale House, 46 Stonegate, York YO1 8AS",
+      "seen": "2026-11-01T00:00:00.000Z"
     }
   ]
 }

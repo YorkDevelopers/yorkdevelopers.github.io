@@ -1,32 +1,6 @@
 {
-  "fetchedAt": "2026-11-18T12:44:05.826Z",
+  "fetchedAt": "2026-11-18T22:29:57.372Z",
   "events": [
-    {
-      "uid": "event_315302129@meetup.com",
-      "feed": "meetup:yorkdevelopers",
-      "group": "games",
-      "title": "Game Developers, Monthly Meeting",
-      "start": "2026-11-18T19:00:00.000Z",
-      "end": "2026-11-18T22:00:00.000Z",
-      "url": "https://www.meetup.com/yorkdevelopers/events/315302129/",
-      "venue": "House Of Trembling Madness // Lendal (No table bookings)",
-      "address": "14 Lendal, York",
-      "summary": "Our monthly game Dev meet up, this month's is at Up A Level on Feasegate.",
-      "seen": "2026-11-01T00:00:00.000Z"
-    },
-    {
-      "uid": "event_317360825@meetup.com",
-      "feed": "meetup:yorkdevelopers",
-      "group": "ruby",
-      "title": "York Ruby - Monthly Meeting",
-      "start": "2026-11-18T19:00:00.000Z",
-      "end": "2026-11-18T22:00:00.000Z",
-      "url": "https://www.meetup.com/yorkdevelopers/events/317360825/",
-      "venue": "The Little Ale House - York",
-      "address": "46 Stonegate, York YO1 8AS, UK, York",
-      "summary": "York Ruby is a user group for those interested in the Ruby programming language in York and surrounding areas! Anyone is welcome whether you're just starting out, a seasoned Ruby programmer, or just curious. We're back at The Little Ale House, 46 Stonegate, York YO1 8AS",
-      "seen": "2026-11-01T00:00:00.000Z"
-    },
     {
       "uid": "eventbrite-2004807992674",
       "feed": "eventbrite:https://www.eventbrite.com/o/york-game-makers-guild-120980771551",
@@ -303,6 +277,20 @@
       "seen": "2026-11-17T12:51:32.935Z"
     },
     {
+      "uid": "event_lhpzbvykccbrb@meetup.com",
+      "feed": "meetup:yorkdevelopers",
+      "group": "coffee",
+      "title": "Weekly Tech Social - Code and Coffee (Wednesday)",
+      "start": "2027-01-13T08:00:00.000Z",
+      "end": "2027-01-13T10:00:00.000Z",
+      "url": "https://www.meetup.com/yorkdevelopers/events/lhpzbvykccbrb/",
+      "venue": "200 Degrees Coffee Shop",
+      "address": "68 Low Petergate, York",
+      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech news and more! Are you looking for your first step in the York Tech Community or if you are looking ...",
+      "series": true,
+      "seen": "2026-11-18T22:29:57.372Z"
+    },
+    {
       "uid": "eventbrite-2000371580245",
       "feed": "eventbrite:https://www.eventbrite.co.uk/o/women-in-tech-york-17303901312",
       "group": "wit",
@@ -314,6 +302,20 @@
       "address": "1 Coney Street, York, YO1 9QL",
       "summary": "A fireside, one-to-one conversation with Hawa Kandeh, founder of AiTechTouch, followed by speed networking!",
       "seen": "2026-11-16T12:30:11.318Z"
+    },
+    {
+      "uid": "event_lhpzbvykccbbc@meetup.com",
+      "feed": "meetup:yorkdevelopers",
+      "group": "coffee",
+      "title": "Weekly Tech Social - Code and Coffee (Wednesday)",
+      "start": "2027-01-20T08:00:00.000Z",
+      "end": "2027-01-20T10:00:00.000Z",
+      "url": "https://www.meetup.com/yorkdevelopers/events/lhpzbvykccbbc/",
+      "venue": "200 Degrees Coffee Shop",
+      "address": "68 Low Petergate, York",
+      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech news and more! Are you looking for your first step in the York Tech Community or if you are looking ...",
+      "series": true,
+      "seen": "2026-11-18T22:29:57.372Z"
     }
   ]
 }
