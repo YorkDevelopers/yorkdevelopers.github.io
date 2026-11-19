@@ -1,19 +1,6 @@
 {
-  "fetchedAt": "2026-11-19T12:36:18.228Z",
+  "fetchedAt": "2026-11-19T22:36:20.726Z",
   "events": [
-    {
-      "uid": "eventbrite-2004807992674",
-      "feed": "eventbrite:https://www.eventbrite.com/o/york-game-makers-guild-120980771551",
-      "group": "guild",
-      "title": "York Game Makers Guild - November 2026 Gathering",
-      "start": "2026-11-19T19:00:00.000Z",
-      "end": "2026-11-19T21:00:00.000Z",
-      "url": "https://www.eventbrite.com/e/york-game-makers-guild-november-2026-gathering-tickets-2004807992674",
-      "venue": "Patch York",
-      "address": "Terry Avenue, York, YO1 6FA",
-      "summary": "York Game Maker's Guild's last gathering of the year! Be social, be merry, hear what everyone's been up to & show us what you're working on!",
-      "seen": "2026-11-13T11:16:20.396Z"
-    },
     {
       "uid": "manual-coffee-2026-11-23-08-00",
       "feed": "manual",
