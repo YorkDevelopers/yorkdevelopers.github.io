@@ -32,6 +32,21 @@
     },
     {
       "status": "pending",
+      "found": "2026-11-20T22:09:10.664Z",
+      "id": "luma-evt-dbdbvurl5nlz24a",
+      "source": "Luma",
+      "title": "Lush Facemask Workshop",
+      "start": "2026-11-23T17:45:00.000Z",
+      "end": "2026-11-23T19:00:00.000Z",
+      "url": "https://lu.ma/d8y7e889",
+      "host": "Student Castle York: Events Calendar",
+      "venue": "Student Castle York",
+      "address": "Student Castle York, 80 Walmgate, York YO1 9TL, UK",
+      "summary": "",
+      "announced": true
+    },
+    {
+      "status": "pending",
       "found": "2026-11-13T21:14:37.320Z",
       "id": "eventbrite-2000144122914",
       "source": "Eventbrite",
