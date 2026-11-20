@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-19T22:36:20.726Z",
+  "fetchedAt": "2026-11-20T12:35:06.704Z",
   "events": [
     {
       "uid": "manual-coffee-2026-11-23-08-00",
@@ -137,6 +137,19 @@
       "summary": "The Monday morning Code and Coffee. A sociable group of tech people meeting before the working day to talk software, data, agile and the latest tech news. Just turn up.",
       "series": true,
       "seen": "2026-11-11T12:50:41.346Z"
+    },
+    {
+      "uid": "event_317511624@meetup.com",
+      "feed": "meetup:yorkdevelopers",
+      "group": "ruby",
+      "title": "York Ruby - Monthly Meeting",
+      "start": "2026-12-15T19:00:00.000Z",
+      "end": "2026-12-15T22:00:00.000Z",
+      "url": "https://www.meetup.com/yorkdevelopers/events/317511624/",
+      "venue": "The Little Ale House - York",
+      "address": "46 Stonegate, York YO1 8AS, UK, York",
+      "summary": "York Ruby is a user group for those interested in the Ruby programming language in York and surrounding areas! Anyone is welcome whether you're just starting out, a seasoned Ruby programmer, or just curious. We're back at The Little Ale House, 46 Stonegate, York YO1 8AS",
+      "seen": "2026-11-20T12:35:06.704Z"
     },
     {
       "uid": "event_lhpzbvyjcqbvb@meetup.com",
@@ -289,20 +302,6 @@
       "address": "1 Coney Street, York, YO1 9QL",
       "summary": "A fireside, one-to-one conversation with Hawa Kandeh, founder of AiTechTouch, followed by speed networking!",
       "seen": "2026-11-16T12:30:11.318Z"
-    },
-    {
-      "uid": "event_lhpzbvykccbbc@meetup.com",
-      "feed": "meetup:yorkdevelopers",
-      "group": "coffee",
-      "title": "Weekly Tech Social - Code and Coffee (Wednesday)",
-      "start": "2027-01-20T08:00:00.000Z",
-      "end": "2027-01-20T10:00:00.000Z",
-      "url": "https://www.meetup.com/yorkdevelopers/events/lhpzbvykccbbc/",
-      "venue": "200 Degrees Coffee Shop",
-      "address": "68 Low Petergate, York",
-      "summary": "Join a sociable group of Tech professionals in our get together. We are a group of Tech Professionals who meet before our working day to discuss the latest in Software Development practices, Data, Agile, the latest Tech news and more! Are you looking for your first step in the York Tech Community or if you are looking ...",
-      "series": true,
-      "seen": "2026-11-18T22:29:57.372Z"
     }
   ]
 }
