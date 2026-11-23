@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-11-21T20:48:15.918Z",
+  "fetchedAt": "2026-11-23T10:33:47.345Z",
   "events": [
-    {
-      "uid": "manual-coffee-2026-11-23-08-00",
-      "feed": "manual",
-      "group": "coffee",
-      "title": "Weekly Tech Social - Code and Coffee (Monday)",
-      "start": "2026-11-23T08:00:00.000Z",
-      "end": "2026-11-23T10:00:00.000Z",
-      "url": "https://www.meetup.com/yorkdevelopers/",
-      "venue": "Caffè Nero, Spurriergate",
-      "address": "York",
-      "summary": "The Monday morning Code and Coffee. A sociable group of tech people meeting before the working day to talk software, data, agile and the latest tech news. Just turn up.",
-      "series": true,
-      "seen": "2026-11-11T12:50:41.346Z"
-    },
     {
       "uid": "event_317296250@meetup.com",
       "feed": "meetup:yorkdevelopers",
@@ -41,6 +27,19 @@
       "address": "20 George Hudson St, York YO1 6WR, UK, York",
       "summary": "This event will be a two talks on Azure Related Subjects with Rik Hepworth ⚠️ This will be an in-person event, hosted at RotaCloud in York, which is within easy reach of the train station. 📍 View on Google Maps Agenda 🍕 Pizza / Drinks / Networking (18:00 - 18:30) 🗣 Introduction (18:30) 👉 Azure Architecture: ...",
       "seen": "2026-11-01T00:00:00.000Z"
+    },
+    {
+      "uid": "event_317548940@meetup.com",
+      "feed": "meetup:york-geeks-lunch-club",
+      "group": "lunch",
+      "title": "Geek Lunch at Café FeVa",
+      "start": "2026-11-27T13:00:00.000Z",
+      "end": "2026-11-27T14:00:00.000Z",
+      "url": "https://www.meetup.com/york-geeks-lunch-club/events/317548940/",
+      "venue": "Café FeVa",
+      "address": "Red House Antique Centre, The Red House, 1 Duncombe Pl, York YO1 7ED, UK, York",
+      "summary": "Café FeVa We'll meet outside Café FeVa and grab some lunch. We'll be meeting for lunch at 13:00 and most likely be chatting about some random subjects. The lunch is open to anyone who wants to get to know more people around York over having a bite to eat. We normally chat beforehand on the York Developers Slack group ...",
+      "seen": "2026-11-23T10:33:47.345Z"
     },
     {
       "uid": "manual-coffee-2026-11-30-08-00",

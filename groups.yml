@@ -125,6 +125,15 @@
   eventbrite: https://www.eventbrite.co.uk/o/women-in-tech-york-17303901312
   tags: wit women
 
+- id: lunch
+  icon: 🍜
+  name: York Geeks Lunch Club
+  about: Grabbing lunch and talking about geeky tech things, most Fridays
+  url: https://www.meetup.com/york-geeks-lunch-club/
+  meetup: york-geeks-lunch-club
+  tags: social lunch food friday
+  runs: Fridays, lunchtime
+
 - id: guild
   icon: 🕹️
   name: York Game Makers Guild
